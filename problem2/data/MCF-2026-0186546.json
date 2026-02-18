@@ -1,0 +1,205 @@
+{
+  "uuid": "dea9d98c1488e282cd5a080649a2d860",
+  "sourceCode": "Employer Portal",
+  "title": "Service Crew",
+  "description": "<p>With or without experience welcome. Otherwise, OJT/training will be provided!</p><p></p><p>- Location(s): CBD</p><p>- Working Days: 6 days/week</p><p>- Working Hours: 11am to 11pm (2 hrs break)</p><p></p><p>Responsibilities:</p><p>- Assisting with outlet's co-ordination, preparation and overseeing of the daily operations</p><p>- Engagement in consultative selling</p><p>- Provision of good customer service (attending to guests’ orders, service of food & beverages)</p><p>- Service with a smile, going the extra mile</p><p>- General housekeeping and maintaining of restaurant’s general hygiene</p><p>- Assisting in managing retail sales, merchandising and inventory</p><p>- Preparation and set-up</p><p>- Ad hoc tasks assigned by Supervisor/Management</p><p></p><p>Requirements:</p><p>- Passion for the F&B industry; experienced candidates will be considered for senior positions</p><p>- Service oriented, dynamic and willing to learn</p><p>- Good communication skills</p><p>- Good interpersonal skills</p><p>- Able to work independently and as a team</p><p></p><p>We look forward to working with you!</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Sales",
+      "uuid": "6dc9fae99bf94d3db2f640dec2b98dbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Merchandising",
+      "uuid": "825896e7e83eff50879ed00cba2f9414",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51312",
+  "occupationId": "OCC060571",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202221114Z",
+    "description": null,
+    "name": "DOCG PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T01:47:51.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202221114Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202221114Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202221114Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202221114Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186546",
+    "deletedAt": null,
+    "createdBy": "d8f4ecc0-74de-4355-82c7-a2dd6ffe69d1",
+    "createdAt": "2026-01-30T02:24:22.000Z",
+    "updatedAt": "2026-01-30T02:24:22.000Z",
+    "emailRecipient": "d8f4ecc0-74de-4355-82c7-a2dd6ffe69d1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 32,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/service-crew-docg-dea9d98c1488e282cd5a080649a2d860",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 2400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dea9d98c1488e282cd5a080649a2d860"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dea9d98c1488e282cd5a080649a2d860/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,230 @@
+{
+  "uuid": "70b3f1038b9d7cc840157e3e44df72d2",
+  "sourceCode": "Employer Portal",
+  "title": "Administrator",
+  "description": "<ul><li>Ensure fulfilment of scheduled commitments for Operation Team.</li><li>Ensure good planning and execution of schedules / standby team deployment.</li><li>Response service call during office hours and ensure proper recording of reported incident in WhatsApp & D365 systems.</li><li>Meet delivery schedules in data uploading as prescribed by our client and in-house process.</li><li>Familiarisation of System software – D365 System.</li><li>Guarantee correct entries into the system and eliminate gaps in data processing.</li><li>Arrange for parts and services procurement to support operations.</li><li>Ensure good planning and execution of schedules.</li><li>Ensure fulfilment of scheduled commitments for Operation Team and optimise staff utilisation and deployment.</li><li>Any other duties assigned by Assistant Admin Manager.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Planner",
+      "uuid": "85be6ace42c06435db0a99bb5095344f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "47",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "200007857H",
+    "description": "<p>\r\n\tPRO-MATRIX PTE LTD</p>\r\n",
+    "name": "PRO-MATRIX PTE LTD",
+    "ssicCode": "43210",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:38:25.000Z",
+    "ssicCode2020": "43210",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007857H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007857H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007857H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007857H/schemes"
+      }
+    },
+    "logoFileName": "6fa0d8f27227db1136ca4bfdd8aabd60/pro-matrix.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6fa0d8f27227db1136ca4bfdd8aabd60/pro-matrix.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "26",
+    "street": "SIN MING LANE",
+    "floor": null,
+    "unit": null,
+    "building": "MIDVIEW CITY",
+    "postalCode": "573971",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35948337264389,
+    "lng": 103.833963930413
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165953",
+    "deletedAt": null,
+    "createdBy": "b8b3b38c-cdbd-455d-a29a-fc78cef43883",
+    "createdAt": "2026-01-27T05:48:51.000Z",
+    "updatedAt": "2026-01-27T05:48:51.000Z",
+    "emailRecipient": "b8b3b38c-cdbd-455d-a29a-fc78cef43883",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/administrator-pro-matrix-70b3f1038b9d7cc840157e3e44df72d2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/70b3f1038b9d7cc840157e3e44df72d2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/70b3f1038b9d7cc840157e3e44df72d2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

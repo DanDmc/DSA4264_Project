@@ -1,0 +1,213 @@
+{
+  "uuid": "a7b8572d4631c0845c878bae3440d89c",
+  "sourceCode": "Employer Portal",
+  "title": "Part time - Accounts Executive",
+  "description": "<ul><li>At least 3-5 years of accounting experience</li><li>Proficient in accounting software and Microsoft Office applications</li><li>Strong attention to detail and organizational skills</li><li>Able to work independently </li><li>Able to multitask and work efficiently in a small setup</li><li>Able to work 2 -3 days per week</li><li>Working hours: 9.30AM – 6:00 PM (or flexi hour arrangement)</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written English",
+      "uuid": "2ce9835ef0555e4920613df70c01ecb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strong Attention To Detail",
+      "uuid": "33b35b73b6037ea6228f8be98813c4d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting System",
+      "uuid": "80f02cec3e05a1d93e286971a1b3bf22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "General Ledger",
+      "uuid": "99df167760ccbe2bb5f7ad5418afdb88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "43111",
+  "occupationId": "OCC059469",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201826380M",
+    "description": "<p>We are a company provide accouting, corporate secretary and other advisory services to clients in Singapore.&nbsp;</p>\n<p><br></p>",
+    "name": "ACHIEVER BOOKKEEPING & CONSULTANCY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T07:09:57.000Z",
+    "ssicCode2020": "69202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201826380M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201826380M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201826380M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201826380M/schemes"
+      }
+    },
+    "logoFileName": "8e5f823321857d8c4d12c2bd9f75e7e3/achiever-bookkeeping-consultancy.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8e5f823321857d8c4d12c2bd9f75e7e3/achiever-bookkeeping-consultancy.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "GAMBAS CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "ARK@GAMBAS",
+    "postalCode": "757087",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44485765403798,
+    "lng": 103.812834544627
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184749",
+    "deletedAt": null,
+    "createdBy": "8d6bf672-4ca8-4f85-8c59-deebf64bc5a3",
+    "createdAt": "2026-01-29T15:42:02.000Z",
+    "updatedAt": "2026-01-29T15:42:00.000Z",
+    "emailRecipient": "8d6bf672-4ca8-4f85-8c59-deebf64bc5a3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 444,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-19",
+    "totalNumberJobApplication": 53,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/part-time-accounts-executive-achiever-bookkeeping-consultancy-a7b8572d4631c0845c878bae3440d89c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1500,
+    "minimum": 1100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a7b8572d4631c0845c878bae3440d89c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a7b8572d4631c0845c878bae3440d89c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

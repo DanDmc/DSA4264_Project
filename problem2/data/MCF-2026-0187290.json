@@ -1,0 +1,247 @@
+{
+  "uuid": "3a4b3733bc5ee9ace0ea44dbbcf3a884",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer - Payment Terminal Developer",
+  "description": "<p>The primary responsibilities developing secure, scalable, and high-performance terminal payment applications that operate across a wide range of terminal (Ingenico, PAX) and include gathering user requirements, defining system functionality, documenting solution design.</p><p>Our ideal candidate shall demonstrate domain expertise in payment terminal and familiarity on payment\ntransaction flow. This is an exciting opportunity to work at the forefront of payment technology, supporting mission-critical implementations used across Singapore’s payment ecosystem.<br /></p><p><strong>Responsibilities</strong></p><ul><li>Design and develop engineering solutions for payment terminal applications that runs across multiple Android-based payment terminal models with integration to multiple host systems using standard protocols (e.g., ISO8583, Web APIs, JSON) and merchant POS systems (ECR – Electronic Cash Register).</li><li>Translate user requirement into secure, resilient, and maintainable source code.</li><li>Experience in EMV L3 certification processes with international payment schemes: Visa, Mastercard, AMEX, UnionPay, JCB, and Discover. Experience with PURE kernel would be advantageous.</li><li>Contribute on development test tool and adopt test automation frameworks as part of the development lifecycle.</li><li>Collaborate across several internal teams (QA testers, POS developers, Support and Certification team) for SDLC activities and facilitate troubleshooting and perform issues resolution including post-production issues. </li><li>Facilitate external collaboration for application integration support to partners.</li></ul><p><strong>Requirements</strong></p><ul><li>Degree in Computer Science or related Technology disciplines </li><li>5 years of proficient in payment terminal software development and programming experience on embedded POS device and ability to demonstrate expertise on EMV contact and contactless, ISO8583 are mandatory. </li><li>Excellent and strong knowledge of development with experience in various payment implementations with multiple interfaces protocol (ISO8583, JSON, HEX data format)</li><li>Comfortable in developing applications with programming languages such as C, C++ and Java. </li><li>Familiar and have work experience using Git, Ingenico terminal platform, Android Studio, Gradle, JAVADoc, Junit, Confluence and JIRA.</li><li>Self-starter, driven and adaptable individual that thrives in a dynamic & fast paced environment and ability to work as a team player or individual with little supervision. </li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JSON",
+      "uuid": "0ecd11c1d7a287401d148a23bbd7a2f8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "POS",
+      "uuid": "1903f54cd46d54aa3200a4508c948db0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Confluence",
+      "uuid": "1ce38b99de0bc8449e053c0c9d125d14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EMV",
+      "uuid": "49f5f7955574f43e494dc1ca3fccc61e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SDLC",
+      "uuid": "6fb20c4016a1efc028fcb5c917a1a9b5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO 8583",
+      "uuid": "710fcfae7669ec22e73d4a7ffa3c724d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Gradle",
+      "uuid": "7b5cc4fb56e11dc7520f716ec1763abb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Protocol",
+      "uuid": "888a77f5ac0748b6c8001822417df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JUnit",
+      "uuid": "8965a291ed0e84870298e1c35d61a10d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Design",
+      "uuid": "c1b8eee14e05c47f56588fb5e842f6e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Android Studio",
+      "uuid": "eb0f0f0fca93c48eccbcae9e90cce428",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payment gateway",
+      "uuid": "f6b8ce4482cda31cf7f47c5d2715ee59",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payment Systems",
+      "uuid": "f9c8caf36e4edd9019ad377a3e5913f9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199700895N",
+    "description": "<p>OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD is Singapore-headquartered IT Outsourcing firm specialising in Software Engineering, Application Development &amp; Support, IT Infrastructure Management. Having started in March 1997, we have grown to one of the largest IT Services firms in Singapore providing Digital Transformation Services to its clients.</p>",
+    "name": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
+    "ssicCode": "62022",
+    "employeeCount": 1000,
+    "companyUrl": "www.theoptimum.net",
+    "lastSyncDate": "2026-02-04T01:35:56.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N/schemes"
+      }
+    },
+    "logoFileName": "b33d4724c0bb64afdc4cc97f052af8c6/optimum-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b33d4724c0bb64afdc4cc97f052af8c6/optimum-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187290",
+    "deletedAt": null,
+    "createdBy": "e53a01a8-a018-4635-b260-f714f404de71",
+    "createdAt": "2026-01-30T03:32:33.000Z",
+    "updatedAt": "2026-01-30T03:32:34.000Z",
+    "emailRecipient": "e53a01a8-a018-4635-b260-f714f404de71",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 73,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-payment-terminal-developer-optimum-solutions-3a4b3733bc5ee9ace0ea44dbbcf3a884",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3a4b3733bc5ee9ace0ea44dbbcf3a884"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3a4b3733bc5ee9ace0ea44dbbcf3a884/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

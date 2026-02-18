@@ -1,0 +1,243 @@
+{
+  "uuid": "0d175de23c310dd316fa33edbd45cf10",
+  "sourceCode": "Employer Portal",
+  "title": "CONSTRUCTION SUPERVISOR",
+  "description": "<ul><li>Ensuring teams work together to deliver quality work to strict deadlines.</li><li>Monitoring construction processes, and providing training and team building sessions are required.</li><li>Ensuring adherence to health and safety regulations at all times.</li><li>Performing equipment, material, and routine site inspections.</li><li>Scheduling regular meetings with vendors, site inspectors, managers, and staff.</li><li>Writing up reports, budgets, project plans, and presenting them to relevant stakeholders.</li><li>Working closely with architects and other professionals.</li><li>Staying up-to-date with safety codes and advancements in construction.</li><li>Assisting with the recruitment and training of new staff.</li><li>Processing paperwork and traveling to multiple sites as required.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Management",
+      "uuid": "4ca69a44b0270bec6838c1ade1ede455",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Counseling",
+      "uuid": "6791e85a01bb2e17b923d2f2e8574a9e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Building",
+      "uuid": "bc42c84d156c4f70ff6ba18d466fedeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Capital",
+      "uuid": "c56ccc6a1321e66ddd94fe430b8a1f82",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71000",
+  "occupationId": "OCC009896",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202551134K",
+    "description": null,
+    "name": "SB HACKING AND PAINTING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T07:10:08.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202551134K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202551134K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202551134K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202551134K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "63",
+    "street": "TEBAN GARDENS ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TEBAN PLACE",
+    "postalCode": "600063",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32102712835427,
+    "lng": 103.73951436112
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166740",
+    "deletedAt": null,
+    "createdBy": "a4187804-0496-479b-a365-b1a05827a8ed",
+    "createdAt": "2026-01-27T07:11:30.000Z",
+    "updatedAt": "2026-01-27T07:11:30.000Z",
+    "emailRecipient": "a4187804-0496-479b-a365-b1a05827a8ed",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-supervisor-sb-hacking-painting-0d175de23c310dd316fa33edbd45cf10",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6600,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0d175de23c310dd316fa33edbd45cf10"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0d175de23c310dd316fa33edbd45cf10/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

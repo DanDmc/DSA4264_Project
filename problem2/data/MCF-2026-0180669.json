@@ -1,0 +1,197 @@
+{
+  "uuid": "8faf76b76bf27a302bbe96c669d6770d",
+  "sourceCode": "Employer Portal",
+  "title": "QA Engineer (Ref 25915)",
+  "description": "<p>Responsibilities<br />• Raise the overall test quality and maturity of the system by driving and managing end-to-end software product testing.<br />• Define, refine, and standardize QA frameworks, including testing processes, practices, and tools that enable continuous testing.<br />• Prepare and review UAT plans for projects to align with business and technical requirements.<br />• Plan, coordinate, and facilitate UAT sessions, while also leading SIT and UAT testing to ensure smooth user acceptance.<br />• Provide detailed SIT and UAT defect reports, track progress, and monitor issue resolution.<br />• Develop modular, reusable, and maintainable test scripts for efficiency and long-term sustainability.<br /><br />Requirements<br />• Bachelor’s degree or equivalent work experience.<br />• Minimum 3 years of QA experience, with at least 2 years in automation or manual testing.<br />• Proven experience in QA testing within Agile/Scrum environments.<br />• Hands-on experience with QA automation tools and frameworks.<br />• Experience with no-code/low-code testing platforms (advantage).<br />• Strong problem-solving, analytical, and communication skills.<br />• Ability to collaborate across cross-functional teams and adapt to evolving project needs.</p><p>Licence no: 12C6060</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manual Testing",
+      "uuid": "22ab26f5643cef4b32c9736925166d27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Testing",
+      "uuid": "24d0405d6a9e4ac9d8bd6f374ae5827c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Testing",
+      "uuid": "2503aea6ad3a80422e2579888f069b3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scrum",
+      "uuid": "4db2c0d8fe4b4e96ecea3d51b4ffabfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Tools",
+      "uuid": "6610f9d34d0252187120a02b66c88b5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Automation",
+      "uuid": "7e636b60d041a7a4c38232c3a2830397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Scrum",
+      "uuid": "be920448a70da302cac814cb02aff9c1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT testing",
+      "uuid": "e93f0a12622883d6dfd52d989fd075c8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25151",
+  "occupationId": "OCC060836",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200307890N",
+    "description": "<p>\r\n\tJOBLINE RESOURCES PTE. LTD.</p>\r\n",
+    "name": "JOBLINE RESOURCES PTE. LTD.",
+    "ssicCode": "78101",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:34:52.000Z",
+    "ssicCode2020": "78101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180669",
+    "deletedAt": null,
+    "createdBy": "edbcc1ff-27e9-4990-bc4e-5321ef3a32af",
+    "createdAt": "2026-01-29T04:27:55.000Z",
+    "updatedAt": "2026-01-29T04:27:55.000Z",
+    "emailRecipient": "edbcc1ff-27e9-4990-bc4e-5321ef3a32af",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 108,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/qa-engineer-jobline-resources-8faf76b76bf27a302bbe96c669d6770d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8faf76b76bf27a302bbe96c669d6770d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8faf76b76bf27a302bbe96c669d6770d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

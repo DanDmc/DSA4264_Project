@@ -1,0 +1,199 @@
+{
+  "uuid": "94c65e7069096ca2b8c9095f38bfe9ba",
+  "sourceCode": "Employer Portal",
+  "title": "Manufacturing",
+  "description": "<ul><li>Perform production line duties according to work instructions</li></ul><ul><li>Assemble parts by fastening screws and components</li></ul><ul><li>Move, load, and unload product casings to the next production stage</li></ul><ul><li>Ensure products meet quality and safety standards</li></ul><ul><li>Keep work area clean and organized</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "93334",
+  "occupationId": "OCC062400",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201711602M",
+    "description": "<p>Founded by former Oxford and LSE entrepreneur Daniel Thong and a core team experience in technology and facilities services, Nimbus started with a passion for changing the perception of blue collared workers in Singapore.<br>\n<br>\nWe also believe technology can do so much for underserved communities. Yet, the trickle down effect is not happening fast enough.&nbsp;<br>\n<br>\nWe’ve come a long way from our humble beginnings to a team of hundreds of employees, creating innovative ways to help office managers better manage their workspace.<br>\n<br>\nWe are constantly interested in building operations technology that benefits the working class by uplifting their income levels through productivity enhancements. Our mission is simple - to build tech-enabled operations to empower others.</p>",
+    "name": "NIMBUS FACILITY SERVICES PTE. LTD.",
+    "ssicCode": "81211",
+    "employeeCount": null,
+    "companyUrl": "https://www.nimbusforwork.com/",
+    "lastSyncDate": "2026-01-27T07:31:06.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201711602M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201711602M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201711602M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201711602M/schemes"
+      }
+    },
+    "logoFileName": "828ac5267ce6341ed38a5e475f3d9ae8/nimbus-facility-services.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/828ac5267ce6341ed38a5e475f3d9ae8/nimbus-facility-services.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "970",
+    "street": "TOA PAYOH NORTH",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "318992",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.34275019820699,
+    "lng": 103.851054937617
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167176",
+    "deletedAt": null,
+    "createdBy": "7514b78d-ccde-419d-b68d-b477fe28dec9",
+    "createdAt": "2026-01-27T08:02:31.000Z",
+    "updatedAt": "2026-01-27T08:02:32.000Z",
+    "emailRecipient": "7514b78d-ccde-419d-b68d-b477fe28dec9",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 82,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/manufacturing-nimbus-facility-services-94c65e7069096ca2b8c9095f38bfe9ba",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3600,
+    "minimum": 3400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/94c65e7069096ca2b8c9095f38bfe9ba"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/94c65e7069096ca2b8c9095f38bfe9ba/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

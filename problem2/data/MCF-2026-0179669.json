@@ -1,0 +1,202 @@
+{
+  "uuid": "d7a65d010497ba9d232451d6810bbc97",
+  "sourceCode": "Employer Portal",
+  "title": "Front Desk Admin",
+  "description": "<p><strong>Tang Dance Academy – Ang Mo Kio / Hougang</strong></p><h3><strong>Working Arrangement</strong></h3><ul><li><p><strong>Onsite:</strong> Every <strong>Saturday and Sunday</strong>, 9:00am – 7:00pm</p></li><li><p><strong>Remote:</strong> Weekdays — handle parents’ enquiries via <strong>WhatsApp & WeChat</strong> from home</p></li><li><p>Prefer candidates with <strong>minimum 2 years front desk experience in a tuition centre or enrichment centre</strong></p></li></ul><h2><strong>Roles & Responsibilities</strong></h2><ol><li><p>Manage front desk operations on Saturdays and Sunday</p></li><li><p>Assist parents with enquiries and class information</p></li><li><p>Handle WhatsApp & WeChat communication during weekdays</p></li><li><p>Manage class rescheduling and admin support</p></li><li><p>Take attendance and update records accurately</p></li><li><p>Assist with fee collection and payment follow-ups</p></li><li><p>Prepare simple documents (email, printing/photocopying)</p></li><li><p>Provide basic Zoom hosting support when required</p></li></ol><h2><strong>Requirements</strong></h2><ol><li><p><strong>At least 2 years of front desk experience</strong> in a tuition/enrichment centre</p></li><li><p>Computer literate; proficient in <strong>Microsoft Excel, Word, and Web WhatsApp</strong></p></li><li><p>Good command of <strong>spoken & written English and Mandarin</strong></p></li><li><p>Strong communication skills; able to handle parents professionally</p></li><li><p>Responsible, takes initiative, and able to work independently</p></li><li><p>Friendly, patient, and pleasant personality</p></li></ol>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "English Language",
+      "uuid": "15f4054c613431ce48efb2edf34b32e7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written English",
+      "uuid": "2ce9835ef0555e4920613df70c01ecb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Tuition",
+      "uuid": "5baf75d4c161c500ed5811a389a32e38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mandarin",
+      "uuid": "76c06512227f8cd467f0008c8ec68f39",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "student attendance",
+      "uuid": "ce23c96cb515b311d79a164f96e435b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "42241",
+  "occupationId": "OCC060606",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201100394H",
+    "description": "<p><strong>Tang Dance Academy is a registered trademark owned by Xiaoyan Dance &amp; Art Pte Ltd. We provide a wide range of dance courses for both adults and children in Singapore.</strong></p>",
+    "name": "XIAOYAN DANCE & ART PTE. LTD.",
+    "ssicCode": "85408",
+    "employeeCount": null,
+    "companyUrl": "www.tangdanceacademy.com",
+    "lastSyncDate": "2026-02-04T13:32:43.000Z",
+    "ssicCode2020": "85408",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201100394H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201100394H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201100394H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201100394H/schemes"
+      }
+    },
+    "logoFileName": "98c28aa28fe1b9090c1ab5f0081c32fa/xiaoyan-dance-art.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/98c28aa28fe1b9090c1ab5f0081c32fa/xiaoyan-dance-art.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179669",
+    "deletedAt": null,
+    "createdBy": "2ce7b585-fa74-43a3-af9e-8171371fd8e0",
+    "createdAt": "2026-01-29T02:44:42.000Z",
+    "updatedAt": "2026-01-29T02:44:42.000Z",
+    "emailRecipient": "2ce7b585-fa74-43a3-af9e-8171371fd8e0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 194,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/front-desk-admin-xiaoyan-dance-art-d7a65d010497ba9d232451d6810bbc97",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7a65d010497ba9d232451d6810bbc97"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7a65d010497ba9d232451d6810bbc97/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

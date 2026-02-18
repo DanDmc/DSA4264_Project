@@ -1,0 +1,223 @@
+{
+  "uuid": "f707794f4d748948ab27a8480e2042d8",
+  "sourceCode": "Employer Portal",
+  "title": "Teacher",
+  "description": "<p>An official recognized Swiss School Abroad, we are a small and familiar school, nestled in a tropical landscape away from busy roads and designed as a spacious learning oasis.  About 260 children currently attending our school, mainly from Switzerland, but also from 16 other nations.  Our teaching languages are German and English in the German-speaking section and French and English in the French-speaking section. </p><p><br /></p><p>We have vacancies for Teachers starting from August 2026.</p><p><br /></p><p>Qualifications:</p><ul><li>German native speaking Teacher for the German-speaking section</li><li>Teaching Diploma or Degree</li><li>Familiar with the Swiss Education System</li><li>At least 2 years of professional experience</li><li>Experience in dealing mixed-age classes</li></ul><p>We expect:</p><ul><li>Exciting teaching work in a multicultural and professional working environment</li><li>Positive and team oriented personality with above-average commitment</li><li>Differentiated teaching and encouragement of independent learning</li><li>Flair in dealing with multicultural environment</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Piano",
+      "uuid": "060e8e88876d796e83c5201d70e45661",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Childcare",
+      "uuid": "08370cd014507701d18597aa6e29050d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom Management",
+      "uuid": "444d06ef756650f524f7fc8a7f13e0a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Early Childhood Education",
+      "uuid": "4f83113f23fc971a12cbff816661f7cb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "German",
+      "uuid": "86bc3115eb4e9873ac96904a4a68e19e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pastoral Care",
+      "uuid": "a019c9597e57480577a623937ddd5b3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "French",
+      "uuid": "ad225f707802ba118c22987186dd38e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wellbeing",
+      "uuid": "c540e0c47d34f94257d9a93cc63b77e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "23500",
+  "occupationId": "OCC004089",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0111",
+  "postedCompany": {
+    "uen": "196700214W",
+    "description": "<p>\r\n\tSWISS SCHOOL IN SINGAPORE</p>\r\n",
+    "name": "SWISS SCHOOL IN SINGAPORE",
+    "ssicCode": "85230",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:49:57.000Z",
+    "ssicCode2020": "85230",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196700214W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196700214W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196700214W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196700214W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "38",
+    "street": "SWISS CLUB ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SWISS SCHOOL",
+    "postalCode": "288140",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 11,
+        "location": "D11 Novena, Thomson, Watten Estate",
+        "region": "Central",
+        "sectors": [
+          "28",
+          "29",
+          "30"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.34298223938544,
+    "lng": 103.790430979588
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175005",
+    "deletedAt": null,
+    "createdBy": "097f5220-da83-4f56-b070-ae80a1334776",
+    "createdAt": "2026-01-28T07:29:38.000Z",
+    "updatedAt": "2026-01-28T07:29:38.000Z",
+    "emailRecipient": "097f5220-da83-4f56-b070-ae80a1334776",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 337,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-18",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/teacher-swiss-school-singapore-f707794f4d748948ab27a8480e2042d8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f707794f4d748948ab27a8480e2042d8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f707794f4d748948ab27a8480e2042d8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

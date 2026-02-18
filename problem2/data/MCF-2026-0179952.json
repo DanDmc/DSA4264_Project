@@ -1,0 +1,200 @@
+{
+  "uuid": "199c2607633533438947ea2aebb71efd",
+  "sourceCode": "Employer Portal",
+  "title": "Assistant Teacher",
+  "description": "<p><strong>Job Summary</strong></p><p>We are looking for a warm, enthusiastic and responsible Assistant Teacher to support our teaching team in nurturing children aged 3–4 years old (N2 level) in a caring and stimulating kindergarten environment. This role is ideal for individuals who are passionate about working with young children and are keen to build a career in the early childhood sector. </p><p><strong>Responsibilities</strong></p><ul><li>Assist the teaching team in planning and delivering age-appropriate learning activities for children aged 3–4 years to support their development</li><li>Engage with children to encourage positive social, emotional, and cognitive growth in a safe and nurturing environment</li><li>Support classroom management by maintaining a clean, organized, and stimulating learning space</li><li>Observe and document children’s progress and communicate relevant information to the teaching team for continuous improvement</li><li>Collaborate with colleagues to prepare teaching materials and resources that enhance learning experiences</li><li>Follow health and safety guidelines to ensure the well-being of all children in the kindergarten</li></ul><p><strong>Requirements:</strong><br /></p><ul><li>Certificate in ECCE qualification/ EY2 certified/L1 certified</li><li>Fresh Graduates can apply</li></ul><p><strong>We offer:</strong></p><ul><li>Attractive working hours - 8am-1pm </li><li>Mon- Fri (occasional work on Sat- events)</li></ul><p></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Independently",
+      "uuid": "3d059b652e8d92de5b85660d5efba49a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom Management",
+      "uuid": "444d06ef756650f524f7fc8a7f13e0a0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Early Childhood Education",
+      "uuid": "4f83113f23fc971a12cbff816661f7cb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Teaching English",
+      "uuid": "a0f3573bf5fcd180e70681a9d084c694",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching Children",
+      "uuid": "c5b135299985dd2e7681fbcdbab3e534",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "36100",
+  "occupationId": "OCC006865",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "47",
+  "ssecFos": "0112",
+  "postedCompany": {
+    "uen": "S62SS0028K",
+    "description": "<p>\r\n\tServing people in Religion.  Running  Boys' Home, Sarada Kindergarten, Free Homeopathy clinic, Public Library, Daily worship of Sri Ramakrishna in the Temple, Yoga classes on sundays, Classes for Children on saturdays, Scriptural classes on Saturday and Sunday, Sanskrit language class on sundays.</p>\r\n",
+    "name": "Ramakrishna Mission, The",
+    "ssicCode": "94919",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:36:17.000Z",
+    "ssicCode2020": "94919",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S62SS0028K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S62SS0028K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S62SS0028K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S62SS0028K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "179",
+    "street": "Bartley Road",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "539784",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.34439626243364,
+    "lng": 103.88019804139
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179952",
+    "deletedAt": null,
+    "createdBy": "99074bb6-8db7-4638-9478-2fe87000cd97",
+    "createdAt": "2026-01-29T03:07:54.000Z",
+    "updatedAt": "2026-01-29T03:07:54.000Z",
+    "emailRecipient": "99074bb6-8db7-4638-9478-2fe87000cd97",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 108,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/assistant-teacher-ramakrishna-mission-199c2607633533438947ea2aebb71efd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/199c2607633533438947ea2aebb71efd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/199c2607633533438947ea2aebb71efd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,193 @@
+{
+  "uuid": "300cced8b7aea746d88dc6ff99c09a9f",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer (Kafka / AMQ)",
+  "description": "<p>· Strong programming skills in Java with experience in debugging and modifying open-source projects.</p>\n<p>· Hands-on knowledge of Apache Kafka and/or AMQ Artemis internals and operations.</p>\n<p>· Experience fixing vulnerabilities (CVEs) and maintaining secure middleware deployments.</p>\n<p>· Solid understanding of distributed systems concepts (replication, partitioning, consensus, high availability).</p>\n<p>· Proficiency in Linux, networking, and shell scripting.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Replication",
+      "uuid": "8c340dc334134096f68b880b42a8692c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bash Scripting",
+      "uuid": "b9d9c32b160bdf4ec2722ccc305d3340",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Apache Kafka",
+      "uuid": "bb2bd99338b18762ef6953ad2cbfafc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "J2EE",
+      "uuid": "eebcf464f6d32c22c814c8e964c94771",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201531386D",
+    "description": "<p>   TRINITY CONSULTING SERVICES is a Professional Consulting, IT Solutions and Services Company. We strive to make your business systems more efficient and more reliable by working with you to implement and support the best in class service and innovative solutions.</p>  <p>   Our main focus is to create Client-Centric, Innovative IT Strategies and Comprehensive Solutions for the clients we support, and to implement that strategy in a timely and cost effective manner.</p>  <p>   Our Team comprises of skilled and experienced professionals from consulting and business environment with a diverse culture which heps our clients achieve higher return of investments.</p>  <p>    </p>  <p>   <strong>OUR SERVICES</strong></p>  <ul>   <li>    <strong>Technology Consulting Services</strong></li>   <li>    <strong>Managed Application Services</strong></li>   <li>    <strong>Managed Infrastructure Services</strong></li>  </ul>  <div>    </div>  ",
+    "name": "TRINITY CONSULTING SERVICES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "www.trinityconsulting.asia",
+    "lastSyncDate": "2026-02-04T00:54:57.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/schemes"
+      }
+    },
+    "logoFileName": "9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1817088",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "e9cde954-78be-48c2-a597-bc165816f662",
+    "createdAt": "2025-11-26T10:10:40.000Z",
+    "updatedAt": "2026-01-29T01:23:25.000Z",
+    "emailRecipient": "e9cde954-78be-48c2-a597-bc165816f662",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 188,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-11-26",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-trinity-consulting-services-300cced8b7aea746d88dc6ff99c09a9f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/300cced8b7aea746d88dc6ff99c09a9f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/300cced8b7aea746d88dc6ff99c09a9f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

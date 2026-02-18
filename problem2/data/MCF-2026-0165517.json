@@ -1,0 +1,247 @@
+{
+  "uuid": "9a93e25120d08fda817d99f7a6a66ac4",
+  "sourceCode": "Employer Portal",
+  "title": "IT Security Officer (ITSO)",
+  "description": "<p><strong>Role Overview</strong></p><p>We are seeking an experienced IT Security Officer (ITSO) to focused on Governance, Risk, and Compliance (GRC) across both end-user computing, on-premises and cloud environments. ITSO acts as a subject matter expert who ensures that systems and procedures are align with the IM8 policies and standards.</p><p><strong>Key Responsibilities</strong></p><p><strong>Develop cybersecurity Standards and Policies:</strong></p><ul><li>Develop and maintain cybersecurity standards, procedures, and rulesets based on best practices and IM8 compliance</li><li>Perform risk assessments on system deviations and new project functionalities</li></ul><p><strong>Compliance & Hardening:</strong></p><ul><li>Conduct system hardening checks using CIS Benchmarks and IM8 standards</li><li>Perform security reviews to ensure remediation of audit findings</li><li>Run table-top or simulation exercises</li></ul><p><strong>Audit Coordination & Management:</strong></p><ul><li>Act as primary interface for internal and external auditors </li><li>Coordinate Request for Information (RFI) processes</li><li>Ensure evidence collection and prompt provision to auditors</li></ul><p><strong>Security Monitoring Support:</strong></p><ul><li>Monitor and respond to security alerts and incidents (phishing, malware, endpoint alerts)</li><li>Coordinate with system operators to identify potential threats</li><li>Perform basic triaging before escalation to next level security responder </li><li>Provide updates to stakeholders</li></ul><p><strong>Vulnerability and Penetration Test Management:</strong></p><ul><li>Perform vulnerability assessment and penetration test activities using automated and manual tools</li><li>Provide actionable remediation recommendations</li><li>Understand published vulnerabilities and their security patches in context of deployed systems</li><li>Perform risk assessments on vulnerabilities</li></ul><p><strong>\nOn-Premise and Cloud Security Governance:</strong></p><ul><li>Monitor and notify security patch releases for various environments (End-User computing, On-Premise Office Networking, GCC, GCC+)</li><li>Assess security patch ratings using CVSS standards</li><li>Consider deployed environment context when rating patches</li></ul><p><strong>Stakeholder Engagement:</strong></p><ul><li>Present vulnerability scanning results, security testing results, and security incidents to management</li><li>Conduct security awareness training for users</li><li>Act as bridge between technical teams and management</li></ul><p><strong>Experience & Qualifications:</strong></p><ul><li>Bachelor’s degree in computer science, IT, Cybersecurity, or related field</li><li>Minimum 3 years relevant experience</li><li>Experience in network security, secure application development, cryptography, mobile security, cloud hosting, or DevSecOps</li><li>Experience working with teams to create security policies and procedures</li><li>Security certifications (SANS GCIH, CISSP, CISM, CISA, AWS/Azure security) preferred</li></ul><p><strong>Technical Skills:</strong></p><ul><li>Proficient with tools like Tenable, Nessus, and Splunk</li><li>Familiar with cloud security platforms (AWS Security Hub, Microsoft Defender/Sentinel for Cloud)</li><li>Understand cybersecurity investigation processes and vulnerability assessment/penetration testing (VAPT)</li><li>Good stakeholder management skills</li><li>Strong presentation skills</li><li>Write clearly and concisely</li></ul><p><strong>Good to Have:</strong></p><ul><li>Government sector experience</li><li>Healthcare industry knowledge</li><li>Digital transformation background</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Scanning",
+      "uuid": "2e13bb78d37cd17ddbb8b90a8015802c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Splunk",
+      "uuid": "2f9304fe9b427489507405bef9a0bb9f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCC",
+      "uuid": "32d8b233e3c58a262a0b75872297d8d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cryptography",
+      "uuid": "64ef07ce3e4b420c334227eecb3b3f4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Phishing",
+      "uuid": "936b58ef16bb5c6235f8ef7be420ad21",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISA",
+      "uuid": "c4cf1337de12d64001452cba233ff8bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nessus",
+      "uuid": "cd8e43757ffc27fb993dcc7ec8a9ff9c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "uuid": "e5ad6b40151becc1063fa71bd7e18322",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "CIS",
+      "uuid": "ecc1ac1c8bbbe26063ab974bb48fc666",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Awareness",
+      "uuid": "f19322a280363b4afc3c1a0755449192",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35122",
+  "occupationId": "OCC060961",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202324649W",
+    "description": "<p>At Sedha Consulting, we harness the power of technology to drive business growth and transformation. Sedha Consulting is a professional services company operating across Asia Pacific with leading capabilities in digital, cloud, and security. Combining unmatched experience and specialized skills, we offer Advisory, Consulting, Project Delivery, Managed Services, Training and Resourcing. With a strong focus on driving digital transformation, we leverage cutting-edge technologies to help businesses across industries achieve their goals and thrive in today's rapidly evolving digital landscape.</p>",
+    "name": "SEDHA CONSULTING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "www.sedhaconsulting.com",
+    "lastSyncDate": "2026-02-04T01:56:41.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W/schemes"
+      }
+    },
+    "logoFileName": "496e1d4eae945e230a9b3a2fa591f045/sedha-consulting.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/496e1d4eae945e230a9b3a2fa591f045/sedha-consulting.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165517",
+    "deletedAt": null,
+    "createdBy": "7798b22d-f077-4099-bcd7-c15970600cd3",
+    "createdAt": "2026-01-27T04:50:23.000Z",
+    "updatedAt": "2026-01-27T04:50:23.000Z",
+    "emailRecipient": "7798b22d-f077-4099-bcd7-c15970600cd3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 75,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/security-officer-sedha-consulting-9a93e25120d08fda817d99f7a6a66ac4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 7500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a93e25120d08fda817d99f7a6a66ac4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a93e25120d08fda817d99f7a6a66ac4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

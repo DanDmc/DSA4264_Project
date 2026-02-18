@@ -1,0 +1,227 @@
+{
+  "uuid": "30ab1d329a77149f23b57ae37b297171",
+  "sourceCode": "Employer Portal",
+  "title": "Admin Assistant",
+  "description": "<p>Provides admin support to ensure efficient operation of office.</p>\n<p>Answers phone calls, reply emails, taking memos and maintaining company files.</p>\n<p>Carries out administrative duties such as filing, typing, copying, binding, scanning etc.</p>\n<p>Assist Boss and project manager on project admin duties, filling up PTW forms, RA.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Work",
+      "uuid": "426f2e6210dd458d29478045ab400e8f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC059479",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200008861M",
+    "description": "<p>We are a fully local company servicing&nbsp;Banking &amp; Institutional Clients. We provide&nbsp;interior construction and renovation&nbsp;including general builder's work.</p>\n<p>We operate from 2 premises: an office at Woodlands and another factory and store at Yishun. Currently we have a staff of between 10 to 15 and we are always looking to increase our resources&nbsp;with suitable candidates to strengthen our capabilities.</p>\n<p>We are able to offer competitive remunerations to the right candidates that includes basic pay, allowances and commissions/bonuses upon&nbsp;successful completion of projects.</p>",
+    "name": "A & F CONCEPTS PTE LTD",
+    "ssicCode": "41009",
+    "employeeCount": 15,
+    "companyUrl": "www.anfconcepts.com",
+    "lastSyncDate": "2026-02-03T13:28:13.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008861M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008861M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008861M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008861M/schemes"
+      }
+    },
+    "logoFileName": "7187dad6cbbe91dc1f17df623867664c/f-concepts.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7187dad6cbbe91dc1f17df623867664c/f-concepts.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "WOODLANDS LINK",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "738733",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45082230866059,
+    "lng": 103.810858648987
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1342731",
+    "deletedAt": "2025-11-08T17:15:05.000Z",
+    "createdBy": "3ee58a21-9006-4283-ac6e-d73cae90e072",
+    "createdAt": "2025-09-07T03:45:05.000Z",
+    "updatedAt": "2026-01-27T12:57:05.000Z",
+    "emailRecipient": "3ee58a21-9006-4283-ac6e-d73cae90e072",
+    "editCount": 1,
+    "repostCount": 2,
+    "totalNumberOfView": 1036,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-09-07",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 78,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-f-concepts-30ab1d329a77149f23b57ae37b297171",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2000,
+    "minimum": 1500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/30ab1d329a77149f23b57ae37b297171"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/30ab1d329a77149f23b57ae37b297171/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

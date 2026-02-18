@@ -1,0 +1,224 @@
+{
+  "uuid": "ac768cf3bb5ceb9c58327f08bd43d5cc",
+  "sourceCode": "Employer Portal",
+  "title": "Application Development/Support Engineer (IT Level 2, Application)",
+  "description": "<p>We are looking for junior ~ intermediate Software Development/Support Engineer to look after the exchange’s mission critical business systems; oversee daily operations and develop system enhancements as a second line support. This role also requires working closely with business users to analyse business requirements, design and see through implementation.<br /></p><p><u><strong>Professional Requirements:</strong></u></p><ul><li>Exposure to full software development life cycle of large scale financial system</li><li>2+ years development experience against at least one of the programming languages below:  Java, JavaScript or Python.</li><li>Proficient with object oriented programming concepts and relational database design. </li><li>Knowledge of network, understanding mainstream network communication protocols such as HTTP, TCP and UDP</li><li>Experience with Linux, strong shell scripting skill is preferred</li><li>IT Experiences in financial industry will be an advantage</li><li>Good verbal and written communication capabilities, strong documentation skill</li></ul><p><u><strong>Qualifications:</strong></u></p><ul><li>University degree in Computer Science, Mathematics, Physics or Engineering</li><li>Passionate, self-motivated with good interpersonal skills</li><li>Hard-working and able to work under pressure to meet tight deadlines</li><li>Proficiency in Mandarin advantageous to liaise with Chinese counterparties</li><li>Able to work flexible shifts and on public holidays</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "HTTP",
+      "uuid": "293c9ea246ff9985dc6f62a650f78986",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud Computing",
+      "uuid": "3de3a4a550829dc4376329c29771bf78",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written Communication",
+      "uuid": "7f2949efe8a7cc63a1144796a4ce403a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TCP",
+      "uuid": "b136ef5f6a01d816991fe3cf7a6ac763",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Database Design",
+      "uuid": "c01d52f9775c72a310718dd3bc9b5ee9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python Programming",
+      "uuid": "de6ae90465e75b350ed18a2024ca16ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UDP",
+      "uuid": "f5ef036b4d8b630721e51fe23489fbc9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201614123C",
+    "description": "<p>Founded in 2018, Asia Pacific Exchange (APEX) is a derivatives exchange regulated by the Monetary Authority of Singapore (MAS). It is the third derivatives exchange with the “Approved Exchange” and “Approved Clearing House” licenses in Singapore after Singapore Exchange Derivatives Trading (SGX) and ICE Futures Singapore. APEX is able to offer a suite of futures and options contracts and currently offers futures contracts covering both financial and commodity products.</p>\n<p><br></p>\n<p>In May 2022, APEX launched the Bitcoin Monthly Futures. This is one of the few regulated and cash-settled Bitcoin Monthly Futures Contract traded on a regulated derivatives exchange in Asia Pacific. Different from other spot cryptocurrency exchanges, APEX is a traditional exchange regulated by MAS with a robust membership structure, working with reputational brokerage firms and settlement banks since 2018.</p>\n<p><br></p>\n<p>https://www.asiapacificex.com/</p>",
+    "name": "ASIA PACIFIC EXCHANGE PTE. LTD.",
+    "ssicCode": "64202",
+    "employeeCount": 50,
+    "companyUrl": "https://www.asiapacificex.com/?p=home",
+    "lastSyncDate": "2026-02-04T05:35:51.000Z",
+    "ssicCode2020": "66110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201614123C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201614123C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201614123C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201614123C/schemes"
+      }
+    },
+    "logoFileName": "20489e37a6de3dae4fe2096193c34327/asia-pacific-exchange.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/20489e37a6de3dae4fe2096193c34327/asia-pacific-exchange.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "PHILLIP STREET",
+    "floor": null,
+    "unit": null,
+    "building": "ROYAL ONE PHILLIP",
+    "postalCode": "048692",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28497457584878,
+    "lng": 103.850025190454
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1977209",
+    "deletedAt": "2026-01-25T17:15:04.000Z",
+    "createdBy": "637ee1bd-59c5-4892-9b5a-3f47d0dc0e75",
+    "createdAt": "2025-12-25T23:53:34.000Z",
+    "updatedAt": "2026-01-26T07:26:21.000Z",
+    "emailRecipient": "637ee1bd-59c5-4892-9b5a-3f47d0dc0e75",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 244,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/application-developmentsupport-engineer-asia-pacific-exchange-ac768cf3bb5ceb9c58327f08bd43d5cc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ac768cf3bb5ceb9c58327f08bd43d5cc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ac768cf3bb5ceb9c58327f08bd43d5cc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,205 @@
+{
+  "uuid": "a4805c3db082ce881c5142a4d8781d4e",
+  "sourceCode": "Employer Portal",
+  "title": "💥Sales & Marketing | No Experience ✨ & Training provided ✅",
+  "description": "<p>🎉 Sales lead for major companies in sg</p><p>No experience needed ✅ <br />Earn up too $4000 ✅ <br /></p><p>You’ll be:<br />• Repping <strong>big-name brands</strong> at events & roadshows<br />• Talking to people face-to-face<br />• Attending workshops during working hours</p><p>🧠 <strong>THIS ROLE IS PERFECT IF</strong><br />• You’re outgoing (or want to be)<br />• You hate sitting still<br />• You thrive in high-energy environments<br />• You want skills you can actually use in real life</p><p>🚀 <strong>WHAT YOU GET</strong><br />• Career progression <br />• Constant personal up-skills<br />• Work with a supportive team <br />• Travel & regional event exposure</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "training workshops",
+      "uuid": "44058082d10ad9097a51d8e3eaf36ad1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching Workshops",
+      "uuid": "835740e9c03334d7457ff65342bd9680",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Events",
+      "uuid": "87f9f735a1d36793ceaecd4e47124b63",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Self Driven",
+      "uuid": "a595189f82d1bf26491feec0ac5612c0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "on-site workshops",
+      "uuid": "e92696e771e85be6ad08ce018f0a8e06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "B2C Marketing",
+      "uuid": "faa65a6bdc75176d8eae26730198aa5f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52421",
+  "occupationId": "OCC009632",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202128623E",
+    "description": "<p>We are a business firm that specialises in direct recruiting for global clients from SMEs to MNCs.&nbsp;</p>\n<p><br></p>\n<p>We are looking for professionals in the Sales and Marketing industry.</p>\n<p><br></p>\n<p><br></p>",
+    "name": "ZEROTHREE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:32:12.000Z",
+    "ssicCode2020": "70102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128623E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128623E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128623E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128623E/schemes"
+      }
+    },
+    "logoFileName": "7e033b3ce4bf25aa1ecef44eeefcac01/zerothree.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7e033b3ce4bf25aa1ecef44eeefcac01/zerothree.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180437",
+    "deletedAt": null,
+    "createdBy": "40e0f663-ead5-46da-bf82-7ba16586161c",
+    "createdAt": "2026-01-29T03:52:40.000Z",
+    "updatedAt": "2026-01-29T03:52:40.000Z",
+    "emailRecipient": "40e0f663-ead5-46da-bf82-7ba16586161c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 41,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-05",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/events/%F0%9F%92%A5sales-marketing-experience-%E2%9C%A8-training-provided-%E2%9C%85-zerothree-a4805c3db082ce881c5142a4d8781d4e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a4805c3db082ce881c5142a4d8781d4e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a4805c3db082ce881c5142a4d8781d4e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,231 @@
+{
+  "uuid": "e075448e2a2f40a03df9a68c86e68a42",
+  "sourceCode": "Employer Portal",
+  "title": "Electrical Technician",
+  "description": "<p><u><strong>Job Description</strong></u></p><ul><li>Perform Electrical Works including wiring and assembly work</li><li>Set up and install Surveillance equipment and systems</li><li>Maintain and perform troubleshooting for Surveillance equipment and systems</li><li>Any ad-hoc duties as assigned</li></ul><p><u><strong>Requirements</strong></u></p><ul><li>Min. Diploma in Electrical/Electronic Engineering</li><li>Min. 2 years relevant experience</li><li>Preferable with Class 3 driving license</li><li>Ability to work independently and as a team-player</li><li>Able to perform shift work and work on weekends and public holidays</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lighting",
+      "uuid": "2e4b97fde8cf63085ec969fcc7e490c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wiring",
+      "uuid": "441b65c8a62ed7904574ee78c84b0963",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC",
+      "uuid": "7a7b6b49e8183cc144d9d1a8dc9df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Surveillance",
+      "uuid": "9244bd29ea659881b49c67c88e87e5e7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cabling",
+      "uuid": "d223aabe6d0751ac7fb17d3493f3c6c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Instrumentation",
+      "uuid": "d72da0fd17da5eea9c38b196c5f88dfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31131",
+  "occupationId": "OCC060341",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "201724932C",
+    "description": null,
+    "name": "FABTEC ENGINEERING AND SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T05:06:49.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724932C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724932C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724932C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724932C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "40",
+    "street": "TECH PARK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "638097",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31001817400357,
+    "lng": 103.630623693144
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180820",
+    "deletedAt": null,
+    "createdBy": "c3ff10c3-7e74-4c9b-b96e-e3e3111ddc23",
+    "createdAt": "2026-01-29T05:13:06.000Z",
+    "updatedAt": "2026-01-29T05:13:06.000Z",
+    "emailRecipient": "c3ff10c3-7e74-4c9b-b96e-e3e3111ddc23",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 70,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/electrical-technician-fabtec-engineering-services-e075448e2a2f40a03df9a68c86e68a42",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e075448e2a2f40a03df9a68c86e68a42"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e075448e2a2f40a03df9a68c86e68a42/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

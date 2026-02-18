@@ -1,0 +1,232 @@
+{
+  "uuid": "6c4660c91f1a6aa842422512fd9511ea",
+  "sourceCode": "Employer Portal",
+  "title": "F&B SUPERVISOR",
+  "description": "<p>Roles & Responsibilities</p><p>Job Description and Requirements</p><p>Roles and Responsibilities</p><p>Responsibilities:</p><p>· Responsible for staff scheduling, including work assignments/employee breaks.</p><p>· Responsible for managing store hygiene</p><p>. Cashier at the front desk and assist with serving dishes</p><p>· Plan and execute activities to improve efficiency, quality and reduce waste.</p><p>· Perform production resource planning based on logistics planning, order volume and inventory management for each store.</p><p>Requirements:</p><p>. Experienced F&B SUPERVISOR</p><p>· At least 2 years of relevant F&B work experience</p><p>· Able to start work immediately or in a short period of time.</p><p>· Proficient in English and Mandarin, able to communicate with guests</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Articulate",
+      "uuid": "cfd2360937d8b0cb9d1b70faf469d50d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51311",
+  "occupationId": "OCC060446",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202553888M",
+    "description": null,
+    "name": "OOTY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T05:40:29.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553888M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553888M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553888M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553888M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "KITCHENER LINK",
+    "floor": null,
+    "unit": null,
+    "building": "CITY SQUARE RESIDENCES",
+    "postalCode": "207224",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31034077629309,
+    "lng": 103.857232400901
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0152789",
+    "deletedAt": null,
+    "createdBy": "6b91ce15-4265-4d5e-9865-2ec4792f6aca",
+    "createdAt": "2026-01-25T06:03:51.000Z",
+    "updatedAt": "2026-01-25T06:03:51.000Z",
+    "emailRecipient": "6b91ce15-4265-4d5e-9865-2ec4792f6aca",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 51,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-supervisor-ooty-6c4660c91f1a6aa842422512fd9511ea",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6c4660c91f1a6aa842422512fd9511ea"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6c4660c91f1a6aa842422512fd9511ea/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

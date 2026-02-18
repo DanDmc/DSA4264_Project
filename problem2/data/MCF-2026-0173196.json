@@ -1,0 +1,222 @@
+{
+  "uuid": "1286d90c623d824122dafc116035c590",
+  "sourceCode": "Employer Portal",
+  "title": "Audit Manager",
+  "description": "<p>Mid-sze Chartered Accounting firm looking for Audit & Financial Advisory Associates with</p><p>- min 4 year experience (preferably with international accounting firm)</p><p>- degree in accountancy</p><p>to be part of our team in the provision of</p><p>- audit and assurance services</p><p>- corporate advisories</p><p>- taxation services</p><p>to local and foreign clients from various industries (investment management, e-commerce, shipping, engineering, F&B, manufacturing, real estate....)</p><p>Good IT equipment and training will be provided for successful candidates.</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Taxation",
+      "uuid": "0193369a0db7e5686d5d082a3539b2f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assurance",
+      "uuid": "5f0d8f614176ed32572ffc4e25701af9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Auditing",
+      "uuid": "78f48b8a03facd61000db8f7ae6f9227",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investment Management",
+      "uuid": "897c91670daad7cba272861918d6e06a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Advisory",
+      "uuid": "cc929315ce46ac2fb4247eb64eb05e24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Real Estate",
+      "uuid": "d84514acf6dd2dbbac51a77bd394e0ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Reporting",
+      "uuid": "f8cc933992ca4af7cb5eddd6b9d44778",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "12113",
+  "occupationId": "OCC004196",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "T06PF0705A",
+    "description": null,
+    "name": "ODDS & EVEN ASSOCIATES",
+    "ssicCode": "69201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:31:29.000Z",
+    "ssicCode2020": "69201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T06PF0705A"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T06PF0705A/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T06PF0705A/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T06PF0705A/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "151",
+    "street": "CHIN SWEE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "MANHATTAN HOUSE",
+    "postalCode": "169876",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28703443823015,
+    "lng": 103.840813247609
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173196",
+    "deletedAt": null,
+    "createdBy": "2e4fd211-aad6-4f78-891e-a484aaf597bd",
+    "createdAt": "2026-01-28T03:54:12.000Z",
+    "updatedAt": "2026-01-28T03:54:12.000Z",
+    "emailRecipient": "2e4fd211-aad6-4f78-891e-a484aaf597bd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 52,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/audit-manager-odds-even-associates-1286d90c623d824122dafc116035c590",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1286d90c623d824122dafc116035c590"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1286d90c623d824122dafc116035c590/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

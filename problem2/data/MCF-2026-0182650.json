@@ -1,0 +1,229 @@
+{
+  "uuid": "fbb95cdf1c99a48feadb28eea2a98d62",
+  "sourceCode": "Employer Portal",
+  "title": "Petrol Station Manager",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>We are a Retailer managing Caltex Petrol Stations in Singapore for the past 20 years.</p><p><strong>Job Summary</strong></p><p>Lead the daily operations of a Caltex Petrol Station around Serangoon / Hougang, driving customer satisfaction and operational excellence through effective team management and retail experience.</p><p><strong>Responsibilities</strong></p><ul><li>Manage station operations to ensure efficient service delivery and high customer satisfaction</li><li>Lead and motivate the team to achieve sales targets and maintain operational standards</li><li>Implement customer-oriented strategies to enhance the customer experience at the petrol station</li><li>Monitor inventory levels and coordinate timely replenishment to avoid stockouts</li><li>Ensure compliance with safety and regulatory requirements at the petrol station</li><li>Resolve operational issues promptly to maintain smooth station functioning</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Minimum 2 years of retail experience to effectively manage customer interactions and sales operations</li><li>Educational qualification of A Level, Diploma, or higher to support operational and administrative tasks</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ticketing",
+      "uuid": "3d521aae366391a2922976fc88af7f6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Airport Operations",
+      "uuid": "ce0892942ac6b8b706977b8c3c11909e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "uuid": "d4df0f19b94b428d347bbf56d9d5a4c9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "14201",
+  "occupationId": "OCC001020",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201330505R",
+    "description": "<p>We are a Retailer managing Caltex Petrol Stations in Singapore for the past 20 years serving thousands of motorists.</p>\n<p><br></p>",
+    "name": "S E H AUTOMOTIVE PTE. LTD.",
+    "ssicCode": "47320",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T21:22:31.000Z",
+    "ssicCode2020": "47320",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201330505R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201330505R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201330505R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201330505R/schemes"
+      }
+    },
+    "logoFileName": "7bff4a6e1a7a3a4c7ee1d824e7f0a533/s-e-h-automotive.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7bff4a6e1a7a3a4c7ee1d824e7f0a533/s-e-h-automotive.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182650",
+    "deletedAt": null,
+    "createdBy": "fa9b85f9-bb1f-49e5-b954-8e0f05764f87",
+    "createdAt": "2026-01-29T08:47:09.000Z",
+    "updatedAt": "2026-01-29T08:47:09.000Z",
+    "emailRecipient": "fa9b85f9-bb1f-49e5-b954-8e0f05764f87",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 59,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/petrol-station-manager-s-e-h-automotive-fbb95cdf1c99a48feadb28eea2a98d62",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fbb95cdf1c99a48feadb28eea2a98d62"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fbb95cdf1c99a48feadb28eea2a98d62/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

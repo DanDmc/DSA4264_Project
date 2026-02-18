@@ -1,0 +1,248 @@
+{
+  "uuid": "4d480b0eb127c2dd9362886f9d70a914",
+  "sourceCode": "Employer Portal",
+  "title": "SUPERVISOR",
+  "description": "<p>Job Description:</p>\n<p><br></p>\n<p>• Assist in supervision of company operations and goods inventory management.</p>\n<p>• Responsible for purchasing of food ingredients, groceries, packaging etc.</p>\n<p>• Ensure that quantity and quality of items ordered are received and stored in proper condition.</p>\n<p><br></p>\n<p><br></p>\n<p>Job Requirement:</p>\n<p><br></p>\n<p>• Physically capable of performing the above duties.</p>\n<p>• With relevant experience in operations supervision.</p>\n<p>• Required to work retail hours and on weekends.</p>\n<p><br></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "WMS",
+      "uuid": "007f57eb93ce5816f4a5f294f7d24f5e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Store Operations",
+      "uuid": "0466ba3dd935b55b36fa968929f5db8a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assertive",
+      "uuid": "21635eeb03ed55ffbecab778bc03dcc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process Improvement",
+      "uuid": "3da5f4e32ad3a607108e8fbe739e9405",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Support",
+      "uuid": "45db51f999b9e9fc7263a7e0ebc2d7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mathematics",
+      "uuid": "540b21ecdb276f5087ee585cedd6d5d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leader",
+      "uuid": "c5d426fa2801131aa59d5f7839ccc997",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kaizen",
+      "uuid": "d418a4f13569b41b3734d2dac34cbf02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201528227Z",
+    "description": "<p>\r\n\tWe are <strong>XSCEND RESOURCES GROUP PTE LTD</strong>, a Singapore based licensed recruitment firm providing manpower recruitment solutions to all industry sectors. We serve as the vital link between right candidates and right employers with our extensive services and established network.</p>\r\n<p>\r\n\tAs a one-stop staffing solutions provider, we are dedicated and committed to offer the best quality service to satisfy every need of our clients and candidates.</p>\r\n<p>\r\n\tIt is our passion and commitment to match the right people to the right positions and vice versa, to ensure our clients achieve their human resource needs and at the same time allow candidates to secure the right job.</p>\r\n<p>\r\n\tWe strive to provide the best achievable human resource solutions to our clients and challenging career opportunities for our candidates.</p>\r\n",
+    "name": "XSCEND RESOURCES GROUP PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T06:33:52.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201528227Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201528227Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201528227Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201528227Z/schemes"
+      }
+    },
+    "logoFileName": "ce3481cd0c878eb561308f51e63f0c4c/xscend-resources-group.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ce3481cd0c878eb561308f51e63f0c4c/xscend-resources-group.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202140771G",
+    "description": null,
+    "name": "ACE FIESTA PTE. LTD.",
+    "ssicCode": "56112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:15:37.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202140771G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202140771G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202140771G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202140771G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182286",
+    "deletedAt": null,
+    "createdBy": "d196c139-6370-4568-b378-5294271ead1f",
+    "createdAt": "2026-01-29T08:16:18.000Z",
+    "updatedAt": "2026-01-29T08:16:18.000Z",
+    "emailRecipient": "d196c139-6370-4568-b378-5294271ead1f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 25,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/supervisor-ace-fiesta-4d480b0eb127c2dd9362886f9d70a914",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4d480b0eb127c2dd9362886f9d70a914"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4d480b0eb127c2dd9362886f9d70a914/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

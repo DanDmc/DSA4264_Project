@@ -1,0 +1,236 @@
+{
+  "uuid": "610c1842785a07198b646d188a3921db",
+  "sourceCode": "Employer Portal",
+  "title": "Operation Manager",
+  "description": "<ul>\n  <li>Lead,      motivate, and support a large team within a time-sensitive and demanding      environment, including career development plans for direct reports and      problem resolution</li>\n  <li>Manage      data collection for the updating of metrics to achieve productivity      targets, reduce cost per unit, eliminate errors, and deliver excellent      customer service</li>\n  <li>Partner      with cross-functional teams to improve proprietary tools and systems</li>\n  <li>Work      closely with legal and safety departments to ensure that activities remain      compliant</li>\n  <li>Oversee      materials and inventory</li>\n  <li>Conduct      budget reviews and report cost plans to upper management</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Career Development",
+      "uuid": "6284e81b5839acb6260f4f611eebefed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations Management",
+      "uuid": "62c2ba9d720feb926f15cc065ce696b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 20,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0514",
+  "postedCompany": {
+    "uen": "202239987G",
+    "description": null,
+    "name": "MOO2 MOO EVENTS PRIVATE LIMITED",
+    "ssicCode": "78102",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T06:23:38.000Z",
+    "ssicCode2020": "78102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202239987G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202239987G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202239987G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202239987G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "PAYA LEBAR ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA LEBAR SQUARE",
+    "postalCode": "409051",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31881487007652,
+    "lng": 103.892580778514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158113",
+    "deletedAt": null,
+    "createdBy": "0ba4d453-0e94-4824-8418-9e709fda9ba1",
+    "createdAt": "2026-01-26T06:26:26.000Z",
+    "updatedAt": "2026-01-26T06:26:26.000Z",
+    "emailRecipient": "0ba4d453-0e94-4824-8418-9e709fda9ba1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 216,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 68,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/operation-manager-moo2-moo-events-610c1842785a07198b646d188a3921db",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/610c1842785a07198b646d188a3921db"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/610c1842785a07198b646d188a3921db/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

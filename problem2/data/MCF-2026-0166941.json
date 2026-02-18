@@ -1,0 +1,214 @@
+{
+  "uuid": "766a92b2609feb7eae605cd5f85fa27d",
+  "sourceCode": "Employer Portal",
+  "title": "Associate",
+  "description": "<p><strong>Roles & Responsibilities:</strong><br />- Bachelor degree or above, major in Finance, Computer Science, Accountancy, Business, or a quantitative discipline is a plus<br />- Possess at least 2 years of work experience<br />- Posses a strong and all-round skill set with ability to build financial models<br />- Responsible for assessing all investment and joint venture opportunities for the group<br />- Building client relationships, following up on leads, and identifying new business opportunities.<br />- Assisting with project management, planning, and improving business workflows.<br />- Conducting market research, analyzing data to identify business opportunities, and recommending improvements to business processes.<br />- Analyze financial data, identify trends, prepare reports (monthly, quarterly, annual), and provide insights to management<br />- Requires careful attention to detail<br />- Collaborating with cross-functional teams to achieve business objectives<br />- Preparing reports and presentations for management <br />- Managing communication with clients and stakeholders<br />- Be a highly motivated self-starter and a collaborative team member<br />- Able to converse in Indonesian is a plus</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Qualitative Analysis",
+      "uuid": "007dcc215740ecc7be1eea157e40f504",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Services",
+      "uuid": "f279b250fb9ccc9ae5a43849e8f6fd4c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0539",
+  "postedCompany": {
+    "uen": "202204710R",
+    "description": null,
+    "name": "BERSAMA DIGITAL INFRASTRUCTURE ASIA PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:41:15.000Z",
+    "ssicCode2020": "64202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202204710R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202204710R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202204710R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202204710R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "80",
+    "street": "RAFFLES PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "UOB PLAZA",
+    "postalCode": "048624",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28540656780798,
+    "lng": 103.850567541206
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166941",
+    "deletedAt": null,
+    "createdBy": "f3e6d580-b282-4cd6-b6b1-2f86c62a15c7",
+    "createdAt": "2026-01-27T07:34:05.000Z",
+    "updatedAt": "2026-01-27T07:34:06.000Z",
+    "emailRecipient": "f3e6d580-b282-4cd6-b6b1-2f86c62a15c7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 69,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/professional-services/associate-bersama-digital-infrastructure-asia-766a92b2609feb7eae605cd5f85fa27d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8500,
+    "minimum": 7500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/766a92b2609feb7eae605cd5f85fa27d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/766a92b2609feb7eae605cd5f85fa27d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

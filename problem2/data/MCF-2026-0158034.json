@@ -1,0 +1,222 @@
+{
+  "uuid": "f9202c35f3c9f96231d75b0861c5c8bb",
+  "sourceCode": "Employer Portal",
+  "title": "Bar Manager",
+  "description": "<p>Applicant needs to have at  least 2 years bartending experience. Good knowledge of different liquors, beers, wines and liqueur. Needs a bit of management experience as well. Also an individual who can can manage customers expectations.<br /></p><p>Pleasant disposition, hardworking and diligent individual preferred. Also able to work seamlessly with colleagues and superiors. <br /><br />Able to take instructions well and execute it. Needs to be active in menu planning, especially cocktails section. <br /></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wine",
+      "uuid": "b9eadba3c35f7f89e93c92eb2c8d39b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Management",
+      "uuid": "bc0c62f1f262a46872a871ec65c16e12",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "49",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202031627H",
+    "description": null,
+    "name": "LITTLE EASY PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T05:04:20.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031627H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031627H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031627H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031627H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "SERANGOON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TEKKA PLACE",
+    "postalCode": "218227",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30513469848661,
+    "lng": 103.851370626653
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158034",
+    "deletedAt": null,
+    "createdBy": "b12c44bc-f799-41a9-8c3d-3214679b34e3",
+    "createdAt": "2026-01-26T06:17:56.000Z",
+    "updatedAt": "2026-01-26T06:17:56.000Z",
+    "emailRecipient": "b12c44bc-f799-41a9-8c3d-3214679b34e3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 100,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/bar-manager-little-easy-f9202c35f3c9f96231d75b0861c5c8bb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4700,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f9202c35f3c9f96231d75b0861c5c8bb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f9202c35f3c9f96231d75b0861c5c8bb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

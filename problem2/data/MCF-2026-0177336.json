@@ -1,0 +1,223 @@
+{
+  "uuid": "2e3f6b139282ffe4860821723f087183",
+  "sourceCode": "Employer Portal",
+  "title": "Business Analyst",
+  "description": "<p>·   Bachelor’s degree in information technology, Computer Science, Finance, or related field.</p><p>·  Minimum 5+ years of experience as a Business Analyst in the Financial Services industry, with direct exposure to Wealth Management, Investment Banking, or Retirement Products (CPF, SRS, Mutual Funds, Insurance).</p><p>·  Strong understanding of regulatory requirements related to CPF Investment Scheme and Supplementary Retirement Scheme (or equivalent regulatory schemes).</p><p>·    Expert in requirements elicitation (e.g., interviews, workshops), process modelling (BPMN), and documentation (BRD, FSD, User Stories).</p><p>·   Solid stakeholder management and communication skills; adept in conducting workshops and driving consensus.</p><p>·    Analytical mindset with experience using tools like Jira, Confluence, or similar.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Wealth Management",
+      "uuid": "0350adf5a520e4a3c2d820a482451857",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Confluence",
+      "uuid": "1ce38b99de0bc8449e053c0c9d125d14",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Business Analysis",
+      "uuid": "52407ea0d2ca939ceb06bfc75001076e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investment Banking",
+      "uuid": "63a509e1618769c9be06a498fbd2c85b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Analyst",
+      "uuid": "cf81121543f08d762c89add012cdd707",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "uuid": "d4df0f19b94b428d347bbf56d9d5a4c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stakeholder Management",
+      "uuid": "df48c911be7822810d6973e86dca6cd6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retirement",
+      "uuid": "e9f3e01335524bb27f0938d3b7d7a452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mutual Funds",
+      "uuid": "ee922a68556f93ce87edcc86b7eddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Services",
+      "uuid": "f279b250fb9ccc9ae5a43849e8f6fd4c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25112",
+  "occupationId": "OCC059431",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201531386D",
+    "description": "<p>   TRINITY CONSULTING SERVICES is a Professional Consulting, IT Solutions and Services Company. We strive to make your business systems more efficient and more reliable by working with you to implement and support the best in class service and innovative solutions.</p>  <p>   Our main focus is to create Client-Centric, Innovative IT Strategies and Comprehensive Solutions for the clients we support, and to implement that strategy in a timely and cost effective manner.</p>  <p>   Our Team comprises of skilled and experienced professionals from consulting and business environment with a diverse culture which heps our clients achieve higher return of investments.</p>  <p>    </p>  <p>   <strong>OUR SERVICES</strong></p>  <ul>   <li>    <strong>Technology Consulting Services</strong></li>   <li>    <strong>Managed Application Services</strong></li>   <li>    <strong>Managed Infrastructure Services</strong></li>  </ul>  <div>    </div>  ",
+    "name": "TRINITY CONSULTING SERVICES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "www.trinityconsulting.asia",
+    "lastSyncDate": "2026-02-04T00:54:57.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/schemes"
+      }
+    },
+    "logoFileName": "9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177336",
+    "deletedAt": null,
+    "createdBy": "e9cde954-78be-48c2-a597-bc165816f662",
+    "createdAt": "2026-01-28T11:12:58.000Z",
+    "updatedAt": "2026-01-28T11:12:57.000Z",
+    "emailRecipient": "e9cde954-78be-48c2-a597-bc165816f662",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 284,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 30,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/business-analyst-trinity-consulting-services-2e3f6b139282ffe4860821723f087183",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8500,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e3f6b139282ffe4860821723f087183"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e3f6b139282ffe4860821723f087183/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

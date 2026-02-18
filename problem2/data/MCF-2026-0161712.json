@@ -1,0 +1,229 @@
+{
+  "uuid": "0475632e4109e74e6a4074cfbd543806",
+  "sourceCode": "Employer Portal",
+  "title": "Masseur, Massage Therapist (Including Foot Reflexology)",
+  "description": "<p><strong>Job Summary</strong></p><p>Provide professional massage services and maintain high service standards while ensuring cleanliness and efficient operation of massage facilities.</p><p><strong>Responsibilities</strong></p><ul><li>Deliver consistent professional massage services (body and/or foot) following established standards to ensure customer satisfaction</li><li>Maintain high service quality by adhering to protocols and responding promptly to customer needs</li><li>Clean and organize facilities, treatment rooms, and common areas to uphold hygiene and safety standards</li><li>Prepare treatment products and replenish stocks, towels, and supplies to support smooth operations</li><li>Handle customer queries and concerns efficiently and politely to enhance guest experience</li></ul><p><strong></strong><br /><strong>Preferred competencies and qualifications</strong></p><ul><li>Possess iTEC, WSQ, or other recognized massage certification to demonstrate professional competence</li><li>Minimum one year of relevant spa or massage experience to perform duties effectively</li><li>Exhibit a pleasant personality and strong work ethic to contribute positively to the team environment</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stretching",
+      "uuid": "465f18712a580040d26e75e8c92c8646",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reflexology",
+      "uuid": "6951388b66b4900565a162dd53857a66",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Relaxation",
+      "uuid": "832b64944eab4d40bd15c304d8d52efa",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Shoulder",
+      "uuid": "83cb4c144b3d6ee1a847bee51a44b933",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Target Oriented",
+      "uuid": "c2a200a2c7065079e6d083fef01113a8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51491",
+  "occupationId": "OCC061185",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "N9",
+  "ssecFos": "1312",
+  "postedCompany": {
+    "uen": "202342807W",
+    "description": null,
+    "name": "I-VANTAGE SOLUTIONS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T04:29:33.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202342807W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202342807W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202342807W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202342807W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "53118293B",
+    "description": null,
+    "name": "FOOTSIE REFLEXOLOGY",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T13:10:26.000Z",
+    "ssicCode2020": "96024",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53118293B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53118293B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53118293B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53118293B/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "402",
+    "street": "ORCHARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "DELFI ORCHARD",
+    "postalCode": "238876",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30717887298468,
+    "lng": 103.828469994324
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0161712",
+    "deletedAt": null,
+    "createdBy": "33c739c4-fc49-41c7-8e62-f5dd13d1f9ee",
+    "createdAt": "2026-01-26T13:33:32.000Z",
+    "updatedAt": "2026-01-26T13:33:32.000Z",
+    "emailRecipient": "33c739c4-fc49-41c7-8e62-f5dd13d1f9ee",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 68,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/personal-care/masseur-massage-therapist-footsie-reflexology-0475632e4109e74e6a4074cfbd543806",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0475632e4109e74e6a4074cfbd543806"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0475632e4109e74e6a4074cfbd543806/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

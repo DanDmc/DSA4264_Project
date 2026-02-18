@@ -1,0 +1,197 @@
+{
+  "uuid": "662de5b6e98b9cdfabffe87f2e87e118",
+  "sourceCode": "Employer Portal",
+  "title": "General worker or Technician",
+  "description": "<p><u><strong>Job Description:</strong></u></p>\n<p>The person will be working with site personnel, site activities and be highly involved in the following aspects of the business but not limited to the below:</p>\n<p>· Support to Engineer &amp; Manager in carrying out general works.</p>\n<p>· Able to help supervise and control sub-contractors to carry out their works.</p>\n<p>· Undertake ad-hoc duties as assigned.</p>\n<p><u><strong>Job Requirements:</strong></u></p>\n<p>· Secondary school / NITEC in any Engineering</p>\n<p>· Minimum 1 years of working experience in the related field is preferred</p>\n<p>· Possess relevant safety certificates (BCSS) will be an advantage</p>\n<p>· Willing to travel based on the project site.</p>\n<p>· Ability to communicate in English</p>\n<p>· Ability to work independently and ensure task given is completed in time</p>\n<p>· Highly communicative and self-motivated individual personality</p>\n<p><br></p>\n<p>Interested candidates who wish to apply for the advertised position, please submit your application.</p>\n<p>Please state your</p>\n<p>· Last drawn &amp; Expected salary</p>\n<p>· Notice Period / Availability</p>\n<p>(We regret to inform that only shortlisted candidates would be notified)</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Painting",
+      "uuid": "2875ec54afbd9922e0553f4b441aa54b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Case Management",
+      "uuid": "d799928eb48a88cb861f3283005d227a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "42",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "201617656N",
+    "description": null,
+    "name": "NOVATECH ENGINEERING & CONSTRUCTION PTE. LTD.",
+    "ssicCode": "26119",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:26:21.000Z",
+    "ssicCode2020": "26119",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201617656N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201617656N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201617656N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201617656N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170765",
+    "deletedAt": null,
+    "createdBy": "9491aa37-11fa-4356-b524-f2e6b159a51b",
+    "createdAt": "2026-01-28T00:34:38.000Z",
+    "updatedAt": "2026-01-28T00:34:38.000Z",
+    "emailRecipient": "9491aa37-11fa-4356-b524-f2e6b159a51b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/general-worker-technician-novatech-engineering-construction-662de5b6e98b9cdfabffe87f2e87e118",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/662de5b6e98b9cdfabffe87f2e87e118"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/662de5b6e98b9cdfabffe87f2e87e118/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

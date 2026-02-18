@@ -1,0 +1,234 @@
+{
+  "uuid": "b07ed2fbb75b0ac92f4b88e993d1aa77",
+  "sourceCode": "Employer Portal",
+  "title": "Data engineer (Azure)",
+  "description": "<p><strong>Data engineer (Azure)</strong> – Synapse and Pyspark, Python,  Datawarehouse and Azure Data Explorer, Azure Devops</p><p></p><p><u><strong>Job Scope</strong></u></p><p>•\tDesign, review and development of Pyspark scripts. Testing, troubleshooting of data pipelines, orchestration.</p><p>•\tDesigning and developing reports and dashboards in PowerBI,setting up access control with row level security DAX query experience.</p><p>•\tEstablishing connections to source data systems such as on-prem databases, IOT devices, APIs.</p><p>•\tManaging the collected data in appropriate storage/data-base solutions e.g. file systems, SQL servers, Big Data platforms such as Hadoop, HANA, etc. as required by the specific project requirements.</p><p>•\tDesign, development of relevant data pipelines using pyspark, copy data activities for batch ingestion.</p><p>•\tPerforming data integration e.g. using database table joins, or other mechanisms at an appropriate level as required by the analysis requirements of the project.</p><p>•\tDeployment of pipeline artifacts from one environment to the other using Azure Devops.</p><p><br /></p><p><u><strong>Skills & Experience</strong></u></p><p>•\tBachelor’s Degree in Computer Science or Engineering with 2 years of experience in Azure Data engineering, Python, Pyspark or Big Data development.</p><p>•\tSound Knowledge of Azure Synapse analytics for pipelines, orchestration, set up.</p><p>•\t1-2  experience in Visualization design and development with Power BI. Knowledge on row-level security, access control.</p><p>•\tSound experience in SQL, Datawarehouse, data marts, data ingestion with Pyspark and Python.</p><p>•\tExpertise in developing and maintaining ETL processing pipelines in cloud-based platforms such as AWS, Azure, etc. (Azure Synapse or data factory preferred)</p><p>•\tTeam player with good interpersonal, communication, and problem-solving skills.</p><p>•\tPreferred to have Devops expertise.</p><p><br /></p><p><u><strong>Working hours : </strong></u><br />8:30am to 6pm (Monday to Friday) onsite, no hybrid option.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "PySpark",
+      "uuid": "17e918efeeeb8f100c695e284d5c0a08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Big Data",
+      "uuid": "3a9c1c8521b12754fc7582be72383e28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hadoop",
+      "uuid": "53eb3dcfbb4c210bcd4fe1a985d7c946",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Integration",
+      "uuid": "6d8ab8489413756b1af6bdab6b80863e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualization",
+      "uuid": "ce09e3d68182639402e8fd2f50368167",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power BI",
+      "uuid": "e5c930f4134c3d946962924c7f02aab7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analysis Services",
+      "uuid": "fe0af3de56791c9740b493f68bfa06c8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201716889C",
+    "description": "<h2>Company Overview</h2>\n<p><strong>If you’re seeking for employment or employees, you’re at the right place.</strong>Welcome to Flintex Consulting, a leading Recruitment Agency in Singapore.</p>\n<p><br></p>\n<p><strong>We Match&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Place</strong></p>\n<p><br></p>\n<p>We specialize in Technology, BFSI, Human Resource &amp; Administration, Engineering &amp; Manufacturing, Sales &amp; Marketing,Finance &amp; Accounting sectors.We cater to the needs of a) individual job candidates and b) companies seeking for the right employees to drive their business.</p>\n<p><br></p>\n<p>We have been able to construe and bridge the needs and demands of our individual and corporate clients. Our wide industry expertise and select client base enable us to foster fruitful careers rather than short-term jobs and placements.Our advanced placement platform is designed to match employee skill sets with current vacancies with perfect accuracy. We utilize an efficient, systematic and ultra-precise recruitment method that surpasses industry standards.</p>\n<p><br></p>\n<p>Flintex Consulting has been successful in collaborating multiple leading employers, vendors and clients. We also offer valuable insight to candidates and companies to maximize their recruitment efforts. Candidates are mentored towards finding the best-fit jobs to help build successful careers.We cover all levels of placement, from entry level professionals to mid-level and CEO level posts.We promise to provide the best suited jobs through our research-based methodologies merged with our top qualified personnel.</p>\n<p><br></p>\n<p>Flintex Consulting promises to grow your career the right way. Whether you are a client or a candidate, we have a streamlined platform to match your needs efficiently. With professional, efficient, and timely services, leave it to us when it comes to your Job-Related needs.We take pride in collaborating with leading employers, vendors, and clients. This helps us provide you with extensive job postings across all Major Industries. Additionally, we offer valuable insights and other personalized services designed to maximize productivity and results when it comes to job search.&nbsp;</p>\n<p><br>\nEA License # 17C8724<br>\nUEN # 201716889C</p>\n<p><br></p>\n<h2>Why Join Us?</h2>\n<p><strong>Our Mission</strong></p>\n<p>“To be acknowledged as a team of recruitment professionals with the expertise to consistently facilitate an optimum result for both our clients and candidates”</p>\n<p><br></p>\n<p><strong>Our Vision</strong></p>\n<p>To provide an ‘invaluable’ service that greatly contributes to a company’s or individual’s business success.<br>\nTo always conduct ourselves in a manner that reflects our passion and commitment to delivering a positive outcome for all parties involved.</p>\n<p>To appreciate the responsibility that we assume in assisting people to make important recruitment decisions that can have a significant impact on their lives.Undertake our roles with a sense of dignity, optimism, pride and gratitude.</p>\n<p><br></p>\n<p><strong>Our Core Values</strong></p>\n<p>Integrity, Quality, Professionalism, Teamwork, Commitment and Accountability</p>\n<p><br></p>\n<p><strong>Specialties:</strong></p>\n<p>Recruitments, Staff Augmentation, Contract Staffing, Salary Advisory, Temporary Hiring, Executive Search, Project based Search,&nbsp;RPO, Payroll Services, Work Pass Application, Leadership Hiring, and Trainings</p>",
+    "name": "FLINTEX CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 20,
+    "companyUrl": "www.flintex.com.sg",
+    "lastSyncDate": "2026-02-04T02:48:53.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/schemes"
+      }
+    },
+    "logoFileName": "189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165539",
+    "deletedAt": null,
+    "createdBy": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "createdAt": "2026-01-27T04:54:53.000Z",
+    "updatedAt": "2026-01-27T04:54:52.000Z",
+    "emailRecipient": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 71,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-flintex-consulting-b07ed2fbb75b0ac92f4b88e993d1aa77",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b07ed2fbb75b0ac92f4b88e993d1aa77"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b07ed2fbb75b0ac92f4b88e993d1aa77/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

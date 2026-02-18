@@ -1,0 +1,229 @@
+{
+  "uuid": "331b6f5668ad6e44f8e12120dc0b29b2",
+  "sourceCode": "Employer Portal",
+  "title": "Python developer",
+  "description": "<p>Key Responsibilities:</p><ul><li>Develop, test, and maintain Python-based applications</li><li>Write clean, scalable, and efficient code</li><li>Work with databases and APIs</li><li>Collaborate with cross-functional teams on design and development</li><li>Troubleshoot, debug, and optimize existing applications</li></ul><p>Required Skills:</p><ul><li>Strong experience in Python</li><li>Experience with Python frameworks (Django / Flask preferred)</li><li>Good knowledge of REST APIs</li><li>Experience with databases (SQL / NoSQL)</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pandas",
+      "uuid": "251d2bbfe9a3b95e5691ceb30dc6784a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Structures",
+      "uuid": "49110ba9c7e157360ed1b72f643bc1a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML",
+      "uuid": "4c4ad5fca2e7a3f74dbb1ced00381aa4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Flask",
+      "uuid": "9784e91c7b2657917226bc82afdd6789",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Science",
+      "uuid": "c78e2ad97b328dbafbd49edf182136f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Django",
+      "uuid": "ef0f93c83e374876a61da0d4d16f36ab",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200602973E",
+    "description": "<p>TECHCOM SOLUTIONS founded in &nbsp;2003 is a Total Solutions Provider in IT sector working with Government agencies, MNCs, System Integrators , Educational Institutions &amp; BFSI. Providing structured services for projects outsourcing, managed services and staffing solutions across skillsets &nbsp;in Singapore and APAC. &nbsp;Local Singaporean company with an MSC status company in Malaysia and Shared Services centre in India.</p>\n<p><br></p>\n<p>We are a transactional technology provider with focus on Customised Integrated Solutions, Strategic Outsourcing &amp; Professional Services and Client Communications.&nbsp;</p>\n<p><br></p>\n<p>It is manned by professionals with a proven track record in the industry, combined with technical expertise &amp; dedication. The right platform for aspiring candidates who want to make a mark in IT domain and mid-career PMETs who want to switch &amp; get trained in IT .</p>\n<p><br></p>",
+    "name": "TECHCOM SOLUTIONS (SINGAPORE) PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:39:20.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602973E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602973E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602973E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602973E/schemes"
+      }
+    },
+    "logoFileName": "8e92ee9ae8da7c77a845c905d5c79929/techcom-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8e92ee9ae8da7c77a845c905d5c79929/techcom-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176722",
+    "deletedAt": null,
+    "createdBy": "eab9c842-94e0-4960-a628-5e240e80fabe",
+    "createdAt": "2026-01-28T09:43:11.000Z",
+    "updatedAt": "2026-01-28T09:43:11.000Z",
+    "emailRecipient": "eab9c842-94e0-4960-a628-5e240e80fabe",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 106,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/python-developer-techcom-solutions-331b6f5668ad6e44f8e12120dc0b29b2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/331b6f5668ad6e44f8e12120dc0b29b2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/331b6f5668ad6e44f8e12120dc0b29b2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

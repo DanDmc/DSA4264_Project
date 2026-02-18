@@ -1,0 +1,207 @@
+{
+  "uuid": "16e3119a2f5209ba296b9a2be350ed82",
+  "sourceCode": "Employer Portal",
+  "title": "BUILDING CONSTRUCTION SUPERVISOR CUM DRIVER",
+  "description": "<ul><li><p>Scheduling the workers, and making sure instructions are carried out properly</p></li><li><p>Attend site meeting</p></li><li><p>Monitor, and keep track of the site work progress to ensure the waterproofing work is carried out in a quality and efficient manner.</p></li><li><p>Maintain proper documentation and reporting to the Senior Manager</p></li><li><p>Coordinate, communicate among team members, customers, and contractors and ensure all works are carried out according to approved drawing/specification</p></li><li><p>Provide on-site solutions during supervision works</p></li></ul><p><strong>Requirement:</strong></p><p><ul><li>Min 3 years of experience in a supervising position</li><li>Able to work indenpendently</li><li>Able to read, understand, and work from technical drawing</li><li>Having a Building Construction Supervisors Safety (BCSS) Cert, Managing work at height,<strong> </strong>Class 3 Driving Licence, Confined space assessor.</li><li>Good communication skills, able to coordinate & liaise with people at all levels.</li><li>Able to work under tight schedules</li><li>Hard-working and keen to learn, with no criminal record</li><li>Team player and also able to work independently</li></ul></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Management",
+      "uuid": "4ca69a44b0270bec6838c1ade1ede455",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waterproofing",
+      "uuid": "b398d126cf83089e8f32d01bc3952697",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    },
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "71000",
+  "occupationId": "OCC059783",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "199702937G",
+    "description": null,
+    "name": "KLEENPLUS SERVICES PTE LTD",
+    "ssicCode": "81211",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T00:21:58.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702937G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702937G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702937G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702937G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "PEMIMPIN DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "LIP HING INDUSTRIAL BUILDING",
+    "postalCode": "576147",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.3522756862168,
+    "lng": 103.842338285452
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156854",
+    "deletedAt": null,
+    "createdBy": "8d736c2f-5ea8-4db4-95f5-89de06fe3438",
+    "createdAt": "2026-01-26T03:37:02.000Z",
+    "updatedAt": "2026-01-26T03:37:02.000Z",
+    "emailRecipient": "8d736c2f-5ea8-4db4-95f5-89de06fe3438",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 75,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/building-construction-supervisor-cum-driver-kleenplus-services-16e3119a2f5209ba296b9a2be350ed82",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/16e3119a2f5209ba296b9a2be350ed82"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/16e3119a2f5209ba296b9a2be350ed82/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

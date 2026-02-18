@@ -1,0 +1,209 @@
+{
+  "uuid": "f646644a28f3973b12e99a221c89824e",
+  "sourceCode": "Employer Portal",
+  "title": "Dispatcher (Island)",
+  "description": "<p><strong>Description</strong></p><p>● Delivery and Collection of Optical frame and lenses, islandwide.</p><p>● Any other duties which may be assigned.</p><p><br /></p><p><strong>Requirements</strong></p><p>● Possess Class 2b valid driving license</p><p>● Possess own motorbike</p><p>● Familiar with Singapore Road</p><p>● 5.5 days Mondays to Saturdays. Rest day on Sunday.</p><p>● A team player with good communication and interpersonal skills</p><p><br /></p><p><strong>Benefits</strong></p><p>● Productivity Incentives</p><p>● Petrol card provided</p><p>● Full CPF Contribution</p><p>● Leave: Annual & Medical</p><p>● Leave: Paternity / Maternity / Childcare</p><p>● Medical Claim Reimbursement</p><p>● Insurance Coverage</p><p>● Annual Bonus</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Dispatching",
+      "uuid": "37a1fd1eb583ca2a29ead248117451fa",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Work Well Under Pressure",
+      "uuid": "47e2827f5623d7107195408b20d5d598",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Schedule Control",
+      "uuid": "b94ea5f43412d9e6768f81e3a82109f0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Decision Making",
+      "uuid": "d993039c571024700ce3fb88ea433c75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time & Attendance",
+      "uuid": "f7fd2865d79c4a57042e53ede4ff83ed",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83211",
+  "occupationId": "OCC060239",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201309403M",
+    "description": "<p><strong>TSL Logistics Pte Ltd</strong>, a public listed company with operations in logistics. Established in 2013, the group has <u>60 </u>employees across the region. We’re now opening for hiring.&nbsp;</p>",
+    "name": "TSL LOGISTICS PRIVATE LIMITED",
+    "ssicCode": "52292",
+    "employeeCount": 60,
+    "companyUrl": "tsllogistics.sg",
+    "lastSyncDate": "2026-02-04T04:54:13.000Z",
+    "ssicCode2020": "52292",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201309403M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201309403M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201309403M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201309403M/schemes"
+      }
+    },
+    "logoFileName": "33965fb9c0c1218f39af8c2466c5f2e3/tsl-logistics.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/33965fb9c0c1218f39af8c2466c5f2e3/tsl-logistics.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175176",
+    "deletedAt": null,
+    "createdBy": "fb994c00-9b38-4e2e-9fbe-15c38763286b",
+    "createdAt": "2026-01-28T07:47:56.000Z",
+    "updatedAt": "2026-01-28T07:47:56.000Z",
+    "emailRecipient": "fb994c00-9b38-4e2e-9fbe-15c38763286b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 75,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/dispatcher-tsl-logistics-f646644a28f3973b12e99a221c89824e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2700,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f646644a28f3973b12e99a221c89824e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f646644a28f3973b12e99a221c89824e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

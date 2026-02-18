@@ -1,0 +1,212 @@
+{
+  "uuid": "9334ad99ac92576bb23733f1986bf2ae",
+  "sourceCode": "Employer Portal",
+  "title": "Legal Secretary",
+  "description": "<p>1. Providing administrative support to one or more lawyers.</p>\n<p>2. Assisting with court filings and facilitating the meeting of deadlines by monitoring, maintaining, and updating calendar and providing timely reminders for lawyers.</p>\n<p>3. File and organize legal documents in a timely manner.</p>\n<p>4. Answering calls, taking messages and handling correspondence. Also, assist with arranging meetings and conference calls.</p>\n<p>5. Preparation of invoices and expense reimbursements.</p>\n<h3>Requirements</h3>\n<p>1. Have good communication, administrative and organisational skills.</p>\n<p>2. Familiarity with legal documents and terminology would be preferred.</p>\n<p>3. Good command of spoken and written English.</p>\n<p>4. Proficiency with Microsoft Office programs.</p>\n<p>5. Able to effectively prioritize and meet deadlines.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legal Documents",
+      "uuid": "25c9b3d4708aae10b0134e7b74a2cbce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written English",
+      "uuid": "2ce9835ef0555e4920613df70c01ecb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Litigation",
+      "uuid": "495e4ebdba6a7ccf6ca124e40b04559e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "44170",
+  "occupationId": "OCC008666",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "0551",
+  "postedCompany": {
+    "uen": "202109289H",
+    "description": "<p><em><strong>We are a young and dynamic dispute resolution focused law firm. &nbsp;Apart from commercial litigation, our niche areas of practice include insurance law, employment law and building &amp; construction law. &nbsp;We are looking to expand our team and are looking for driven and committed individuals to join us.</strong></em></p>",
+    "name": "TITANIUM LAW CHAMBERS LLC",
+    "ssicCode": "69101",
+    "employeeCount": 14,
+    "companyUrl": "https://www.titaniumlaw.com.sg/",
+    "lastSyncDate": "2026-01-30T01:19:37.000Z",
+    "ssicCode2020": "69101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202109289H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202109289H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202109289H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202109289H/schemes"
+      }
+    },
+    "logoFileName": "792bc0fd7b7394e07ae2966bf87c7a24/titanium-law-chambers.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/792bc0fd7b7394e07ae2966bf87c7a24/titanium-law-chambers.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "CECIL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PRUDENTIAL TOWER",
+    "postalCode": "049712",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28279709576622,
+    "lng": 103.849887722614
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0185842",
+    "deletedAt": null,
+    "createdBy": "0fa83eb7-4575-4cc7-a507-d08c85713a62",
+    "createdAt": "2026-01-30T01:20:49.000Z",
+    "updatedAt": "2026-01-30T01:20:49.000Z",
+    "emailRecipient": "0fa83eb7-4575-4cc7-a507-d08c85713a62",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 140,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 23,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/legal-secretary-titanium-law-chambers-9334ad99ac92576bb23733f1986bf2ae",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9334ad99ac92576bb23733f1986bf2ae"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9334ad99ac92576bb23733f1986bf2ae/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

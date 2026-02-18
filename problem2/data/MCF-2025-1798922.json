@@ -1,0 +1,211 @@
+{
+  "uuid": "58aaa3ff12772e78c94c655b9c074d4c",
+  "sourceCode": "Employer Portal",
+  "title": "Project Quantity Surveyor",
+  "description": "<h5>Job Description &amp; Requirements</h5>\n<p>- Preparation of Tender Submission for Interior Design</p>\n<p>- Calling of quotations from suppliers and Sub-contractors, evaluation of quotations, ensure compliance with tender drawings and specifications</p>\n<p>- Pricing of Tender (Interior Design)</p>\n<p>- Prepare costing for M&amp;E building related</p>\n<p>- Preparation of Tender Submission</p>\n<p>- Quantity measurement</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Orders",
+      "uuid": "4b99489e68b11ce7eb1a9f4d02ddb819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interior Design",
+      "uuid": "b70d39e4c20b2a45df4f50c334773f63",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21494",
+  "occupationId": "OCC003295",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "200704478D",
+    "description": "<p>HON SHENG ELECTRICAL ENGINEERING PTE. LTD.</p>\n<p><br></p>\n<p>An Electrical Engineering company, locally based in the east of singapore is seeking for individuals to join in the expansion of the company. Hon Sheng Electrical has a project reference in various industries including new built residential, industrial, commercial, A&amp;A, M&amp;E etc.</p>\n<p><br></p>",
+    "name": "HON SHENG ELECTRICAL ENGINEERING PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": "https://www.5m.com.sg/hon-sheng",
+    "lastSyncDate": "2026-02-04T02:07:20.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200704478D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200704478D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200704478D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200704478D/schemes"
+      }
+    },
+    "logoFileName": "b8fbb4a01b308867287f8148216f6051/hon-sheng-electrical-engineering.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b8fbb4a01b308867287f8148216f6051/hon-sheng-electrical-engineering.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "61",
+    "street": "UBI ROAD 1",
+    "floor": null,
+    "unit": null,
+    "building": "OXLEY BIZHUB",
+    "postalCode": "408727",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33183209992573,
+    "lng": 103.890817808546
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1798922",
+    "deletedAt": "2025-12-24T17:15:04.000Z",
+    "createdBy": "86c2bd33-5d12-42d1-a189-601dd4593ce7",
+    "createdAt": "2025-11-24T06:17:55.000Z",
+    "updatedAt": "2026-01-27T05:56:18.000Z",
+    "emailRecipient": "86c2bd33-5d12-42d1-a189-601dd4593ce7",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 158,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-11-24",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-quantity-surveyor-hon-sheng-electrical-engineering-58aaa3ff12772e78c94c655b9c074d4c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/58aaa3ff12772e78c94c655b9c074d4c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/58aaa3ff12772e78c94c655b9c074d4c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

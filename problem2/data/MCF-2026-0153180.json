@@ -1,0 +1,251 @@
+{
+  "uuid": "e064844f7f874723cd7e07ecebf5f1a5",
+  "sourceCode": "Employer Portal",
+  "title": "Full Stack Developer (Next.js)",
+  "description": "<p>Our esteemed client in the <strong>IT industry</strong> is seeking a <strong>Full Stack Developer </strong>to join their dynamic team:</p><ul><li><strong>Employment Type:</strong> 1-year renewable contract</li><li><strong>Position:</strong> Full Stack Developer (Next.js & AWS)</li><li><strong>Location:</strong> Novena</li><li><strong>Working Hours:</strong> Monday to Friday, 8.30am to 5.30pm</li><li><strong>Salary Package:</strong> Up to $7,500 + Bonus + Medical Benefits</li></ul><p><strong>Job Responsibilities:</strong></p><ul><li>Design, develop, and maintain full-stack applications using Next.js for frontend and modern backend frameworks for APIs.</li><li>Build interactive map-based applications with Leaflet.js or similar libraries, integrating geospatial APIs and AWS datasets.</li><li>Develop and manage RESTful APIs that integrate with AWS services and external systems.</li><li>Collaborate with UI/UX designers to deliver responsive, accessible, and high-performance web interfaces.</li><li>Work closely with QA and DevOps teams to implement automated testing, CI/CD pipelines, and reliable deployments.</li><li>Optimize applications for scalability, performance, observability, and cost-efficiency in an AWS cloud-native environment.</li><li>Apply security best practices and ensure compliance with AWS standards.</li><li>Document system architecture, API specifications, and deployment workflows.</li></ul><p><strong>Job Requirements:</strong></p><ul><li>At least Diploma in Computer Science, Software Engineering, IT, or related disciplines.</li><li>Strong hands-on experience with Next.js, including server-side rendering, static site generation, and API routing.</li><li>Proven ability to design, implement, and consume RESTful APIs; familiarity with GraphQL is a bonus.</li><li>Skilled in JavaScript/TypeScript for building both frontend and backend solutions.</li><li>Backend development experience using Node.js frameworks such as Express or NestJS.</li><li>Practical experience working with AWS services, including:</li><li>Amazon OpenSearch Service</li><li>Serverless solutions using AWS Lambda, API Gateway, and S3</li><li>Knowledge of mapping libraries like Leaflet.js for building geospatial or map-based features.</li><li>Familiarity with CI/CD workflows and automation tools, e.g., GitHub Actions or GitLab CI, along with Git version control.</li><li>Understanding of containerization and orchestration technologies such as Docker, ECS, or Kubernetes in AWS environments.</li></ul><p><br /></p><p><strong>Ready to apply? Here’s how:</strong></p><ul><li>Click the APPLY button, or</li><li>Email your resume (in MS Word or PDF format) to<strong> </strong><a href=\"mailto:adelin@intuitrecruitment.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>adelin@intuitrecruitment.com</strong>.</a> Include the job title in your email subject line for prompt processing.</li></ul><p><em><strong>Only shortlisted candidates will be notified.</strong></em></p><p><br /></p><p>By submitting your application, you consent to the collection and use of your personal data under Personal Data Protection Act (PDPA).</p><p><br /></p><p>Adelin Chong | EA Personnel Reg No.: R1875641</p><p>Intuit Recruitment Pte Ltd | EA License No.: 25C2793</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS",
+      "uuid": "4847e034bb0a55fcbc8a3380d6a3ab80",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rendering",
+      "uuid": "a6e8f9aed2ac6481dc25a18a33342d03",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "geospatial database",
+      "uuid": "bc3cecc1c8166b78d6f805b2dd695aec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geospatial",
+      "uuid": "c9347b71a3267e8041b68e9b1d32b8c6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geospatial Data",
+      "uuid": "cf192f979a92e869edd062424cb6fb65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "AWS Lambda",
+      "uuid": "dee7ff8f7b10b9d388c7c561e9413b0d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geospatial Intelligence",
+      "uuid": "fe06c03ae191411f5c1525d055814e65",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202509743Z",
+    "description": "<p>As a Singapore-based recruitment firm, we specialize in intuitive talent matching that delivers results with speed and precision. Our streamlined approach cuts through traditional hiring complexities to connect our clients with exceptional candidates – efficiently, ethically, and transparently.</p>",
+    "name": "INTUIT RECRUITMENT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:31:17.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202509743Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202509743Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202509743Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202509743Z/schemes"
+      }
+    },
+    "logoFileName": "dcb3b43dcaa153d193e277152ad6759e/intuit-recruitment.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/dcb3b43dcaa153d193e277152ad6759e/intuit-recruitment.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153180",
+    "deletedAt": null,
+    "createdBy": "d1ddbb0f-c5e6-4142-a12b-ce69214d6684",
+    "createdAt": "2026-01-25T09:53:29.000Z",
+    "updatedAt": "2026-01-25T09:53:28.000Z",
+    "emailRecipient": "d1ddbb0f-c5e6-4142-a12b-ce69214d6684",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/full-stack-developer-intuit-recruitment-e064844f7f874723cd7e07ecebf5f1a5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7900,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e064844f7f874723cd7e07ecebf5f1a5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e064844f7f874723cd7e07ecebf5f1a5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

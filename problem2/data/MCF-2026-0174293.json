@@ -1,0 +1,226 @@
+{
+  "uuid": "ddabab864d6109d0b438b8d7f990b546",
+  "sourceCode": "Employer Portal",
+  "title": "Staff Software Engineer, Spend",
+  "description": "<h2><strong>About the Team </strong></h2><p>The Cards team at Airwallex builds and maintains distributed systems that enable businesses to issue debit cards and manage expenses at scale. The team addresses complex requirements around compliance, security, and the evolving needs of global users, supporting millions of seamless card transactions and ensuring robust, reliable expense management solutions for companies worldwide.</p><h2><strong>What you’ll do</strong></h2><p>As a Staff Engineer on the Cards team, you will lead the architecture and development of complex backend systems that support our card products. You will drive cross-team technical initiatives, mentor engineers, and shape the long-term engineering strategy to ensure scalability, security, and reliability at a global scale.</p><p>This role is based in Singapore.</p><h3><strong>Responsibilities:</strong></h3><ul><li>Drive the architecture, design, and evolution of complex backend systems that support the Cards product.</li><li>Lead cross-functional technical initiatives and ensure alignment with long-term engineering goals.</li><li>Own the full lifecycle of backend services—from idea to design, implementation, testing, deployment, and maintenance.</li><li>Guide teams in making scalable, secure, and high-performing system design decisions.</li><li>Establish engineering best practices around observability, testing, and API design.</li><li>Mentor and support the growth of engineers across the team.</li><li>Collaborate closely with product, design, and infrastructure teams to deliver reliable and impactful solutions.</li></ul><h2><strong>Who you are</strong></h2><p>We are looking for senior engineers with deep technical expertise and a strong track record of impact as an individual contributor.</p><h3><strong>Minimum qualifications:</strong></h3><p><ul><li>7+ years of professional software engineering experience, with sustained impact as a senior or staff-level individual contributor.</li><li>Bachelor’s degree in Computer Science, Software Engineering, or a related field.</li><li>Proven experience architecting and scaling backend systems and APIs in production.</li><li>Strong computer science fundamentals, including data structures, algorithms, and distributed systems.</li><li>Expertise in at least one backend language (e.g., Java, Kotlin, Go, Python).</li><li>Deep understanding of REST API design and modern backend frameworks (e.g., Spring Boot).</li><li>Experience with cloud infrastructure (e.g., AWS, GCP) and container orchestration tools like Kubernetes.</li><li>Strong commitment to code quality, reliability, and performance.<br /></li></ul><h3><strong>Preferred qualifications</strong></h3><ul><li><p>Experience leading cross-team initiatives and influencing technical direction at a system-wide level.</p></li><li><p>Proficiency in observability and monitoring tools (e.g., Grafana, Prometheus, Splunk).</p></li><li><p>Familiarity with security and compliance considerations in the financial services domain.</p></li><li><p>A passion for mentoring and helping others grow.</p></li></ul></p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Transaction Processing",
+      "uuid": "11046aea11a1da9f4f4bee321b2e2cae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kotlin",
+      "uuid": "539a3a5859d24fb7b129e74d61f09ffa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Direction",
+      "uuid": "65dcf923e8b92b55c7f6cac960849fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Boot",
+      "uuid": "926e67801e570a3898ddaef281c23075",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002134",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174293",
+    "deletedAt": null,
+    "createdBy": "493e972c-c07a-49ef-8384-05515285f514",
+    "createdAt": "2026-01-28T06:19:46.000Z",
+    "updatedAt": "2026-01-28T06:19:45.000Z",
+    "emailRecipient": "493e972c-c07a-49ef-8384-05515285f514",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 85,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/staff-software-engineer-spend-airwallex-ddabab864d6109d0b438b8d7f990b546",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 28000,
+    "minimum": 15800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ddabab864d6109d0b438b8d7f990b546"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ddabab864d6109d0b438b8d7f990b546/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

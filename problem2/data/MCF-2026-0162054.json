@@ -1,0 +1,200 @@
+{
+  "uuid": "6c61fc03a140bffe70fe388190e966ed",
+  "sourceCode": "Employer Portal",
+  "title": "Admin and Operations Officer",
+  "description": "<p>5 Day Work Week</p><p>Walking distance from 2 MRTs</p><p>Working Timing: 9am – 6pm</p><p>Starting Salary $2300 - $2500</p><p>Job Description:</p><p>· Provide day-to-day office support</p><p>· Handle client’s enquiries through calls and email</p><p>· Handle client’s invoices in a timely manner</p><p>· Assist in processing and updating client’s data</p><p>· Data entry and preparation of daily/monthly reports</p><p>· Any other duties assigned.</p><p>· Able to speak Chinese as we have a lot of Chinese speaking clients</p><p>Requirements:</p><p>· Minimum Polytechnic Diploma in any discipline</p><p>· Proficient in Microsoft Office</p><p>· Pleasant personality</p><p>· Able to work well in a team</p><p>· Be proactive and able to take initiative</p><p>· Organized, meticulous with a high degree of accuracy</p><p>· Able to start work immediately or on a short notice will be advantageous.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Management",
+      "uuid": "68b41b38f28f2ba723e32419c5365a0a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Management",
+      "uuid": "c6a19af88a137905a6dd6423910163ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "200210788N",
+    "description": null,
+    "name": "G. TECH PTE. LTD.",
+    "ssicCode": "70209",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T02:09:05.000Z",
+    "ssicCode2020": "70209",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "16",
+    "street": "NEW INDUSTRIAL ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "HUDSON TECHNOCENTRE",
+    "postalCode": "536204",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.3429215098965,
+    "lng": 103.886076778567
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0162054",
+    "deletedAt": null,
+    "createdBy": "0fe656a0-ba4f-431f-8c20-58aa402d20f4",
+    "createdAt": "2026-01-26T15:15:14.000Z",
+    "updatedAt": "2026-01-26T15:15:14.000Z",
+    "emailRecipient": "0fe656a0-ba4f-431f-8c20-58aa402d20f4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 184,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/admin-operations-officer-g-tech-6c61fc03a140bffe70fe388190e966ed",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 2300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6c61fc03a140bffe70fe388190e966ed"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6c61fc03a140bffe70fe388190e966ed/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,208 @@
+{
+  "uuid": "6369fda0183ba4a56d4acc346ffc403d",
+  "sourceCode": "Employer Portal",
+  "title": "Production Coordinator",
+  "description": "<p><strong>Job Description</strong></p><ul><li>Review daily production schedules, ship commits, and job orders to ensure timely execution.</li><li>Follow up closely with production supervisors and line leaders on job progress.</li><li>Resolve bottlenecks, delays, or resource constraints promptly to keep production on schedule.  </li><li>Monitor Work-In-Progress (WIP) and expedite urgent jobs based on customer delivery timelines.</li><li>Highlight and escalate any risk of delay to relevant stakeholders immediately.</li><li>Coordinate priority sequencing with production teams to meet shipment timelines.</li><li>Work with procurement and store teams to ensure material readiness before job start.</li><li>Follow up on pending material or tooling to prevent production stoppages.</li><li>Verify that machines and manpower are allocated appropriately for urgent jobs.</li><li>Update job status trackers, production boards, and ERP/MES system daily.</li><li>Prepare daily production progress reports for management review.</li><li>Ensure timely documentation of job completions, reworks, delays, and changes.</li><li>Perform any other ad hoc duties assigned by the Reporting Manager</li></ul><p><strong>Job Requirement</strong></p><ul><li>Strong communication and coordination skills.</li><li>Ability to multitask and manage urgent priorities.</li><li>Good problem‑solving skills and attention to detail.</li><li>Proficient in MS Excel and basic reporting.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Communication",
+      "uuid": "07a3dd247ad6bec7fe401aa11619959f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WIP",
+      "uuid": "60f2bfeaed0a36ff9864e008e1e67a36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adaptability",
+      "uuid": "9b9c820d2859453f8e672a614ff7d501",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Job Planning",
+      "uuid": "e4079ced4da2d1f4bb412b06ac4e0b09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43222",
+  "occupationId": "OCC009010",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200611445W",
+    "description": "<p>CHawk's core competencies are in low to medium volume plastic components in manufacturing and module assembly that serves equipment manufacturers in semiconductor, electronics medical, biomedical, solar, green energy, oil and gas, testing instruments and other industrial equipment.</p>\n<p><br></p>\n<p>Our manufacturing processes include plastic thermoforming (vacuum forming, pressure forming and drape forming), fabrication, hot gas welding, fusion and diffusion bonding, contamination free and high precision CNC machining (2-5 Axis), and chemical delivery system assembly.</p>",
+    "name": "CHAWK TECHNOLOGY INT'L (SINGAPORE) PTE. LTD.",
+    "ssicCode": "22220",
+    "employeeCount": 120,
+    "companyUrl": "c-hawk.com",
+    "lastSyncDate": "2026-02-04T01:47:18.000Z",
+    "ssicCode2020": "22220",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200611445W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200611445W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200611445W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200611445W/schemes"
+      }
+    },
+    "logoFileName": "7764e99c1784c5d661c3006077db3e8e/chawk-technology-intl.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7764e99c1784c5d661c3006077db3e8e/chawk-technology-intl.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "201",
+    "street": "WOODLANDS AVENUE 9",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "738955",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45597258568078,
+    "lng": 103.809899620982
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166603",
+    "deletedAt": null,
+    "createdBy": "7680f488-c60a-4366-b35a-ddb3e88c800e",
+    "createdAt": "2026-01-27T06:59:04.000Z",
+    "updatedAt": "2026-01-27T06:59:04.000Z",
+    "emailRecipient": "7680f488-c60a-4366-b35a-ddb3e88c800e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 53,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/production-coordinator-chawk-technology-intl-6369fda0183ba4a56d4acc346ffc403d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6369fda0183ba4a56d4acc346ffc403d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6369fda0183ba4a56d4acc346ffc403d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

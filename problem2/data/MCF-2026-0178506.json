@@ -1,0 +1,234 @@
+{
+  "uuid": "8c378534eb6f4106602e138866f94562",
+  "sourceCode": "Employer Portal",
+  "title": "Computer Vision Engineer",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li>Develop vision and 3D perception algorithms using deep learning and geometric methods.</li><li>Work with point clouds, depth data, and multimodal fusion (camera + LiDAR).</li><li>Build and maintain calibration pipelines (camera, LiDAR, IMU).</li><li>Implement production-quality code in C++ and Python.</li><li>Optimize models for real-time or embedded platforms      (quantization, pruning, GPU tuning).</li><li>Deploy and maintain inference pipelines for cloud or edge devices.</li><li>Collaborate across teams to integrate perception into production systems.</li></ul><p><strong>Required Qualifications</strong></p><ul><li>Strong background in computer vision, deep learning, or 3D perception.</li><li>Experience with CNNs, transformers, and point cloud/3D vision methods (stereo, depth, SLAM).</li><li>Proficiency in Python and C++ for algorithm and system development.</li><li>Hands-on calibration experience (intrinsic/extrinsic, LiDAR-camera, IMU).</li><li>Experience with PyTorch or TensorFlow.</li><li>Model optimization and deployment on GPUs or embedded devices (Jetson, ARM, accelerators).</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Master’s or PhD in Computer Vision, Robotics, ML, or related fields.</li><li>Experience with sensor fusion frameworks and spatial AI systems.</li><li>Background in robotics, mapping, or edge perception systems.</li><li>Familiarity with MLOps or large-scale deployment workflows.</li></ul><p><strong>What We Offer</strong></p><ul><li>Opportunities to work on advanced 2D/3D perception and multimodal AI.</li><li>Ownership of production-grade, real-time vision systems.</li><li>A collaborative engineering and research‑driven environment.</li><li>Competitive compensation and technical growth opportunities.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "TensorFlow",
+      "uuid": "074dd699710da0ec1eb45f13b31788e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Image Processing",
+      "uuid": "2c271d464e37e9050198520140c51f13",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ARM",
+      "uuid": "47f45e65244c17ec9fa8771a5c6d60e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Segmentation",
+      "uuid": "4a2b3cd1dcfc8f6b662530c344c1b6c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "OpenCV",
+      "uuid": "5bd4c87976f48e6a53919d53e14025e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Vision",
+      "uuid": "753a222580475bbbb7ef8d7deea446f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PyTorch",
+      "uuid": "95b88f180e9eb5678e0f9ebac2cbe643",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Camera",
+      "uuid": "967d35e40f3f95b1f538bd248640bf3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mapping",
+      "uuid": "f84f4a69bdc03d4a4251db12ee746ce3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC013825",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200000445C",
+    "description": "<p>ST Dynamics Pte Ltd (ST Dynamics) is the Advanced Engineering Center of ST Engineering. We are a system house which develops advanced engineering systems to help customers address their complex technical challenges in areas related to unmanned system, machine vision, sensor network and software algorithms</p>\r\n",
+    "name": "ST ENGINEERING IHQ PTE. LTD.",
+    "ssicCode": "64202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:44:11.000Z",
+    "ssicCode2020": "64202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000445C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000445C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000445C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000445C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "ANG MO KIO ELECTRONICS PARK ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ST ENGINEERING HUB",
+    "postalCode": "567710",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38990590534245,
+    "lng": 103.847737799016
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178506",
+    "deletedAt": null,
+    "createdBy": "78f41089-b7fd-46ae-b8ff-9c46fde1a3cb",
+    "createdAt": "2026-01-29T00:44:19.000Z",
+    "updatedAt": "2026-01-29T00:44:19.000Z",
+    "emailRecipient": "78f41089-b7fd-46ae-b8ff-9c46fde1a3cb",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 109,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/computer-vision-engineer-st-engineering-ihq-8c378534eb6f4106602e138866f94562",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8c378534eb6f4106602e138866f94562"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8c378534eb6f4106602e138866f94562/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

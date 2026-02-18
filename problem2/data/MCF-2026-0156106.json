@@ -1,0 +1,193 @@
+{
+  "uuid": "15985fbe66e18e4ee220417a026f537c",
+  "sourceCode": "Employer Portal",
+  "title": "Lorry Driver",
+  "description": "<p>Job Scope</p>\n<ul>\n  <li>Delivering cargo from one point to another</li>\n  <li>Shifting or Hoisting cargo</li>\n  <li>Liaising with and assisting customers further</li>\n</ul>\n<p>Job Requirement</p>\n<ul>\n  <li>6 days work week</li>\n  <li>Class 4/5 Driving License</li>\n  <li>Operate Lorry Crane Certificate</li>\n  <li>No education requirement</li>\n  <li>Related experience is preferred</li>\n  <li>Can start work immediately</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation Operations",
+      "uuid": "480c225c2a9eb0958d54f65c454b96c6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Delivery",
+      "uuid": "ae56b4646f05ddcdbb2ebca107e79ec1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work safely",
+      "uuid": "d8e207cbba31cdb3ab49eeafb3608988",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Initiative",
+      "uuid": "e3478f6c1f76130c05863489c5b79bb9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83431",
+  "occupationId": "OCC060147",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200616695M",
+    "description": "<p>\r\n\tHONG FA LOGISTICS & ENGINEERING PTE. LTD.</p>\r\n",
+    "name": "HONG FA LOGISTICS & ENGINEERING PTE. LTD.",
+    "ssicCode": "52242",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T02:36:09.000Z",
+    "ssicCode2020": "52242",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200616695M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200616695M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200616695M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200616695M/schemes"
+      }
+    },
+    "logoFileName": "730b6d44c0c6851824a1c812801e617f/hong-fa-logistics-engineering.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/730b6d44c0c6851824a1c812801e617f/hong-fa-logistics-engineering.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156106",
+    "deletedAt": null,
+    "createdBy": "1d11637e-6249-4382-8ac4-5ad88eff9874",
+    "createdAt": "2026-01-26T02:44:26.000Z",
+    "updatedAt": "2026-01-26T02:44:26.000Z",
+    "emailRecipient": "1d11637e-6249-4382-8ac4-5ad88eff9874",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/lorry-driver-hong-fa-logistics-engineering-15985fbe66e18e4ee220417a026f537c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15985fbe66e18e4ee220417a026f537c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15985fbe66e18e4ee220417a026f537c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

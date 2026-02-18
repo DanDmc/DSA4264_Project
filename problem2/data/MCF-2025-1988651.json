@@ -1,0 +1,206 @@
+{
+  "uuid": "ec35288fa328b1f4239ae58505daef3d",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Executive (Up to $4500 / 5 Days / Tuas)",
+  "description": "<p>Job Title: Sales Executive (Painting Company) ID9137<br />Location: Tuas<br />Working Hours: 830am to 530pm (Mon-Fri)<br />Basic Salary: 3500-4500<br />Gross Salary: Basic + Commission + Transport + AWS + VB<br /><br />Benefit:<br />*AWS, VB with 10days AL starting, max up to 17days<br />* Must posses own vehicle with transport allowance $600<br /><br />Job Description:<br />-Ability to conduct search new customers, cold calls and manage customer expectation to company interest.<br />-Able to create value sell proposition and bring out customer subconscious requirements.<br />-Work independently and formula sales strategies to each customer<br /><br />Requirement:<br />Min 1 year sales & marketing experience in coating industry, industrial paint/chemical industry AND must posses own vehicle</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Painting",
+      "uuid": "2875ec54afbd9922e0553f4b441aa54b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Process",
+      "uuid": "7e10720fb56494b0e75eb221ed88be3e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52422",
+  "occupationId": "OCC009637",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201404928G",
+    "description": "<p>Job Express Services Pte Ltd is a trusted name in the world of recruitment. With years of experience and a team of dedicated professionals, we connect talent with opportunity. Our mission is to help businesses build strong, dynamic teams, and to guide individuals in their career journeys. We pride ourselves on our commitment to excellence and our personalized approach to every client.</p>",
+    "name": "JOB EXPRESS SERVICES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:28:02.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/schemes"
+      }
+    },
+    "logoFileName": "09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "71",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "PRESTIGE CENTRE",
+    "postalCode": "658071",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33830749021002,
+    "lng": 103.755884101534
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1988651",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "createdAt": "2025-12-29T01:40:30.000Z",
+    "updatedAt": "2026-01-29T01:33:09.000Z",
+    "emailRecipient": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 120,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/sales-executive-job-express-services-ec35288fa328b1f4239ae58505daef3d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec35288fa328b1f4239ae58505daef3d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec35288fa328b1f4239ae58505daef3d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

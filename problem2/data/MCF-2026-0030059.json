@@ -1,0 +1,243 @@
+{
+  "uuid": "1fb6fffcb418ab8426ea994e993da4a8",
+  "sourceCode": "Employer Portal",
+  "title": "Sous Chef",
+  "description": "<p>Excellent knowledge about Indian & Western Food, hands on range experience, including doing mis-en place, handling his/her section, handling staff, rostering for all employees. Handling requisitions and ordering for all section, closing reports for the month, inventory taking, ensuring adequate upkeep of the kitchen premises and FOH premises as well. </p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FOH",
+      "uuid": "597352d436b5177c3f0e38654b96c959",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fine Dining",
+      "uuid": "7e5d406b67fef4ef6ef3fa35e5cbba4c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "HACCP",
+      "uuid": "c38d1935edec2f6cf463602abdfbabf0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009294",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0516",
+  "postedCompany": {
+    "uen": "202320740H",
+    "description": "<p>IHCL and its subsidiaries bring together a group of brands and businesses that offer a fusion of warm Indian hospitality and world-class service. These include Taj – the iconic brand for the most discerning travellers. Taj is ranked at No. 1 position on Brand Finance's coveted 'India 100 2023' report, marking it the third time the brand has achieved this distinction; SeleQtions, a named collection of handpicked, storied hotels; Vivanta, a chain of contemporary upscale hotels that celebrate joie de vivre; Ginger, a brand that is revolutionizing the lean-luxe segment, and amã Stays &amp; Trails, a charming portfolio of private bungalows and villas set in picturesque locales.</p>\n<p><br></p>\n<p>By strategically re-imagining and enhancing its portfolio, IHCL has successfully transitioned from a branded house to a future-ready house of admired brands. Built with legendary professionalism, unmatched expertise and genuine affection, each of our brands exist to serve and enchant our guests.</p>\n<p><br></p>\n<p>The IHCL sets foot into Singapore for the 1st time with one of the oldest brands that has been an beacon of Indian cuisine and hospitality over many decades. Bombay Brasserie has been part of the Taj family in 3 cities internationally being; London, Cape Town and Dubai.</p>",
+    "name": "DEMETER SPECIALITIES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "www.ihcltata.com",
+    "lastSyncDate": "2026-01-29T04:53:31.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320740H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320740H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320740H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320740H/schemes"
+      }
+    },
+    "logoFileName": "d23668eb2c39a7968ce49311f8bc851b/demeter-specialities.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/d23668eb2c39a7968ce49311f8bc851b/demeter-specialities.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "TEMASEK BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "SUNTEC TOWER ONE",
+    "postalCode": "038987",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2954356977891,
+    "lng": 103.858374825349
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0030059",
+    "deletedAt": "2026-01-20T17:15:04.000Z",
+    "createdBy": "6ffd85a5-1f7b-400b-8a51-72c57a8b7df1",
+    "createdAt": "2026-01-06T09:11:17.000Z",
+    "updatedAt": "2026-01-29T05:12:47.000Z",
+    "emailRecipient": "6ffd85a5-1f7b-400b-8a51-72c57a8b7df1",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 205,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-06",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-demeter-specialities-1fb6fffcb418ab8426ea994e993da4a8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1fb6fffcb418ab8426ea994e993da4a8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1fb6fffcb418ab8426ea994e993da4a8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

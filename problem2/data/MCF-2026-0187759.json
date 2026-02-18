@@ -1,0 +1,228 @@
+{
+  "uuid": "32acfc1ee1491112f501856bbb5418b1",
+  "sourceCode": "Employer Portal",
+  "title": "BEAUTICIAN",
+  "description": "<h3>Beautician Responsibilities:</h3><ul><li>Massaging and treating scalps.</li><li>Performing facials, and recommending skincare therapies.</li><li>Performing manicures and pedicures, nail art, and color recommendations.</li><li>Performing permanent and temporary hair removal treatments, such as electrolysis, laser hair removal, and waxing.</li><li>Suggesting guidelines on personal skincare regimes.</li><li>Cross-selling beauty therapies and products.</li><li>Making appointments and documenting treatments.</li><li>Keeping your workstation and tools clean and sterile.</li><li>Taking stock and ensuring there are adequate supplies.</li></ul><h3>Beautician Requirements:</h3><ul><li>A certification in cosmetology, aesthetic, or related field.</li><li>A working knowledge of skincare therapies, hair removal techniques, and beauty products and trends.</li><li>Strong creative skills.</li><li>Excellent communication and interpersonal skills.</li><li>Steady and dexterous hands.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aesthetics",
+      "uuid": "0fe5498f9080685dda44b3e6b42878d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aftersales",
+      "uuid": "2fa29bd7d87c6cc802ba996a3fb94a95",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cosmetology",
+      "uuid": "8665f2b555d5bd94a26accbda286c5cf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Beauty Industry",
+      "uuid": "cdd94e234c4bf92a947a0b9aec38512c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Skin Care",
+      "uuid": "fe37e386b185b3d924935f52cb56182c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51421",
+  "occupationId": "OCC009394",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202553527C",
+    "description": null,
+    "name": "B4 BEAUTY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:52:07.000Z",
+    "ssicCode2020": "96022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553527C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553527C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553527C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202553527C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "35",
+    "street": "TELOK BLANGAH RISE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "090035",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 4,
+        "location": "D04 Harbourfront,Telok Blangah, Sentosa Island",
+        "region": "South",
+        "sectors": [
+          "09",
+          "10"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.27302201949384,
+    "lng": 103.82212324602
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187759",
+    "deletedAt": null,
+    "createdBy": "3ebba79e-cd88-4bbf-8655-1c48922cbd4c",
+    "createdAt": "2026-01-30T04:46:28.000Z",
+    "updatedAt": "2026-01-30T04:46:28.000Z",
+    "emailRecipient": "3ebba79e-cd88-4bbf-8655-1c48922cbd4c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 29,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/beautician-b4-beauty-32acfc1ee1491112f501856bbb5418b1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5800,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/32acfc1ee1491112f501856bbb5418b1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/32acfc1ee1491112f501856bbb5418b1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

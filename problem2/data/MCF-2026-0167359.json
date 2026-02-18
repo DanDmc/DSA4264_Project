@@ -1,0 +1,234 @@
+{
+  "uuid": "c1a0c8f223727cb2955047b652fed662",
+  "sourceCode": "Employer Portal",
+  "title": "Software Developer",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>To develop (coding) and deploy Salesforce.com (SFDC) solutions using Apex (Triggers, Classes, Batch, Scheduled, Queueable, Future) and Lightning Web Components (LWC).</li><li>To design, build, and maintain Salesforce applications supporting business operations and digital transformation initiatives.</li><li>To establish and foster strong collaboration with business and technical stakeholders to translate requirements into scalable Salesforce solutions and technical specifications.</li><li>To implement API-based integrations between Salesforce and external systems.</li><li>To administer Salesforce components including custom objects, fields, validation rules, page layouts, profiles, roles, permission sets, and sharing rules.</li><li>To configure Salesforce automation using Flows, Process Builder, and Approval Processes.</li><li>To build and maintain reports and dashboards for operational and management reporting.</li><li>To perform data imports, exports, and migrations using Data Loader and Workbench.</li><li>To conduct unit testing, troubleshooting, and defect remediation, ensuring code quality and performance.</li><li>Support release management and deployment using CI/CD tools such as Azure DevOps and VS Code.</li><li>Maintain Salesforce security standards and best practices.</li><li>Produce and update technical documentation and system configuration records.</li><li>Collaborate with internal teams to enhance system performance, reliability, and user adoption.</li></ul><p><strong>Requirements:</strong></p><ul><li>Bachelor's degree in Engineering, Information Technology, or a related discipline.</li><li>At least 4 to 5 years of Salesforce.com development and configuration experience with proven experience delivering Salesforce solutions in enterprise or multi-client environments.</li><li>Strong coding expertise in Apex, SOQL, and Lightning Web Components (HTML / JavaScript)</li><li>Experience with SFDC Sales Cloud and SFDC Service Cloud is preferred.</li><li>Exposure to OmniStudio (tools, guided workflows, and integrations) is preferred. </li><li>Strong knowledge of Salesforce automation and workflow capabilities</li><li>Experience with CI/CD pipelines, version control, and structured deployment</li><li>Strong debugging, defect analysis, and code quality improvement skills</li><li>Solid understanding of Salesforce platform best practices, terminology, and architecture.</li></ul><p><strong>Professional certification required:</strong></p><ul><li>Salesforce Platform App Builder certification is required to ensure the candidate can design and implement declarative solutions such as custom objects, automation, validation rules, and application features without reliance on code where appropriate.</li><li>Salesforce Certified Administrator certification is preferred to ensure the candidate can manage core Salesforce configurations, user access, security controls, and day-to-day system administration in a production environment.</li><li>Salesforce Certified JavaScript Developer certification is preferred for advanced Lightning Web Component (LWC) development and deep expertise in modern JavaScript (ES6+) for developing efficient, high-performance, and secured user interfaces. </li><li>OmniStudio Developer certification is advantageous.</li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salesforce.com Certified Developer",
+      "uuid": "1945d0ecde5d41fb16bbed98409f7bb1",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "SFDC",
+      "uuid": "2e0b9d831422156cf9c5689a3598e6ed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salesforce.com",
+      "uuid": "4137249108233ef5081686d2a0b8988c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Improvement",
+      "uuid": "4878c13f97a57cf6c56adfe645e0f537",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML",
+      "uuid": "4c4ad5fca2e7a3f74dbb1ced00381aa4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Release Management",
+      "uuid": "4c7dc07514bb55680be853591410c0ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salesforce.com Certified Administrator",
+      "uuid": "82152ed297b3e6d16995316ad7a09bff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200405971E",
+    "description": null,
+    "name": "COMBUILDER FMIT PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:03:04.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200405971E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200405971E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200405971E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200405971E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANG MO KIO STREET 65",
+    "floor": null,
+    "unit": null,
+    "building": "TECHPOINT",
+    "postalCode": "569059",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38935645079824,
+    "lng": 103.849309509209
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167359",
+    "deletedAt": null,
+    "createdBy": "2bbe9deb-adbc-4005-a34b-714216c6ad86",
+    "createdAt": "2026-01-27T08:17:35.000Z",
+    "updatedAt": "2026-01-27T08:17:35.000Z",
+    "emailRecipient": "2bbe9deb-adbc-4005-a34b-714216c6ad86",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 96,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-combuilder-fmit-c1a0c8f223727cb2955047b652fed662",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c1a0c8f223727cb2955047b652fed662"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c1a0c8f223727cb2955047b652fed662/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

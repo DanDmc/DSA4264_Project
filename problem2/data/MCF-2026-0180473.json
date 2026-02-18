@@ -1,0 +1,267 @@
+{
+  "uuid": "24cd006355c90e25f7c4e160573e4363",
+  "sourceCode": "Employer Portal",
+  "title": "Sharepoint Developer (SPFx)",
+  "description": "<p><strong>Role Overview:</strong><br />We are seeking a technically strong and adaptable SharePoint Engineer / Developer with hands-on experience in SharePoint Online (Cloud) and ShareGate migrations. This role involves developing and supporting modern SharePoint solutions, assisting in complex migrations, and contributing to the stability and performance of our SharePoint environment as part of business-as-usual (BAU) operations.<br /></p><p><strong>Key Responsibilities:</strong></p><p>● Design, develop, and maintain solutions on SharePoint Online (Cloud) platform.</p><p>● Support and execute SharePoint migrations using ShareGate.</p><p>● Develop custom solutions and web parts using SPFx (ReactJS) and .NET Core.</p><p>● Write and maintain scripts using PowerShell for automation and configuration.</p><p>● Troubleshoot and resolve complex technical issues in SharePoint and integrated components.</p><p>● Collaborate with stakeholders to assess technical issues and effectively communicate potential business impacts.</p><p>● Participate in and support BAU (business-as-usual) SharePoint operations and service requests.</p><p><br /><strong>Requirements:</strong></p><p>● Bachelor Degree in Computer Engineering or any related field.</p><p>● 5 years-experience with SharePoint Online (Cloud) development and support.</p><p>● Hands-on experience with ShareGate for SharePoint migration projects.</p><p>● Strong technical skills in .NET Core, SPFx (ReactJS), PowerShell scripting</p><p>● Ability to analyze and troubleshoot complex SharePoint issues independently.</p><p>● Strong communication skills to articulate technical risks and business impacts.</p><p>● Ability to adapt quickly to BAU environments and manage support expectations effectively.</p><p>● Experience in enterprise IT environments supporting large SharePoint installations.</p><p>● Familiarity with Microsoft 365 services integration.</p><p>● Strong understanding of SharePoint permissions, content types, and site architecture.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "SharePoint 2013",
+      "uuid": "0950d6372939cb2166bfc44dfe833c53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ReactJS",
+      "uuid": "217c80ced5a5d142b0e105a86491709c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SharePoint Designer",
+      "uuid": "26a98561e7679bcf5f1d6c30af29b382",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CSS",
+      "uuid": "2c56c360580420d293172f42d85dfbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sharegate",
+      "uuid": "2e157f19905b3f30b914a436e9fbc1c9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Powershell",
+      "uuid": "531b84ad41b2a753da83acf367990701",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SharePoint Server",
+      "uuid": "6e1f2eb1b6c8bdafa09a21e35a8c90f8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "custom SharePoint solutions",
+      "uuid": "6e4d99251d10f0eb4aaa4f54cafde1d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET Core",
+      "uuid": "7e61b02e468aa555cbbac011a15be755",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Adaptable",
+      "uuid": "8f510dc4fa921821d40a6a8c732cff56",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SharePoint development",
+      "uuid": "b8ad1fad939041b751f17bd7a93a39cc",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Articulate",
+      "uuid": "cfd2360937d8b0cb9d1b70faf469d50d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "React.js",
+      "uuid": "eaaeaef65ea9080bad09dfb885c7fcd2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "managing SharePoint",
+      "uuid": "ed61e6df573d4cf750ed60bfe1b818bf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "jQuery",
+      "uuid": "f590b4fda2c30be28dd3c8c3caf5c77b",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "201405919C",
+    "description": "<p><u><strong>INNOVATIQ TECHNOLOGIES PTE. LTD:</strong></u></p>\n<p>We are Singapore Head Quartered multinational company with offices in Singapore, Malaysia and India. Planning to expand to other South East Asia and US. We are Client business focused technology and consultancy services company which focuses mainly in on the below business towers:</p>\n<p>1. Digital Transformation</p>\n<p>2. Cloud enablement &amp; migration</p>\n<p>3. Cyber Security</p>\n<p>4. Consultancy Services</p>\n<p><strong>1.</strong> <u><strong>Digital Transformation:</strong></u></p>\n<p>We provide end to end Digital Transformation through application development, Artificial Intelligence, Machine Learning and Internet of things to customers who want to keep pace with changing trends to achieve competitive edge of new generation business models. Even in this fast-moving 5G internet world we found some of the companies are stuck with their old practices of using excel and legacy applications to run their business. These legacy applications are still useful but require huge costs to enhance and maintain due to lack of support from the vendors. For such companies, we offer our consultancy services to implement and migrate to a new out-of-the-box products that provides more powerful features and support their business with productive way of working and reducing their operational cost.</p>\n<p>Digital transformation is the integration of digital technology into all areas of a business, fundamentally changing how you operate and deliver value to customers. It's also a cultural change that requires organizations to continually challenge the status quo, experiment, and get comfortable with failure. We provide Digital Transformation to Mid-Market and Enterprise Customers vis App Dev, AI, ML, RPA and IoT.</p>\n<p><u><strong>ERP Rollout for midmarket &amp; Enterprise clients:</strong></u></p>\n<p>ERP provides complete visibility into core business processes and optimizes systems through superior resource tracking and reporting, database management and data sharing and overall improved information systems. ERP systems can allow your business to expand without the addition of IT or staffing costs. We implement &amp; support SAP S4 HANA, MS Dynamics.</p>\n<p><strong>2.</strong> <u><strong>Cloud Enablement &amp; Migration</strong></u></p>\n<p>Our cloud service offerings include end to end consultancy and implementation as per needs of our customer business requirement. We are partner agnostic company and work with multiple cloud players of the market. Our employees are cloud certified with AWS, Azure and IBM. We offer our consultancy services to those clients who are looking to bring down their capex and move their workloads to open platforms that can help them to operate with minimal cost and faster response.</p>\n<p>We support the most open and secure public cloud for businesses and suggest a next-generation hybrid multi cloud platforms, advanced data and AI capabilities, and deep enterprise expertise across various Industries.&nbsp;</p>\n<p><br></p>",
+    "name": "INNOVATIQ TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": 50,
+    "companyUrl": "www.innovatiq.com.sg",
+    "lastSyncDate": "2026-02-04T01:14:38.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/schemes"
+      }
+    },
+    "logoFileName": "82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "55",
+    "street": "NEWTON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INLAND REVENUE AUTHORITY OF SINGAPORE (IRAS)",
+    "postalCode": "307987",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 11,
+        "location": "D11 Novena, Thomson, Watten Estate",
+        "region": "Central",
+        "sectors": [
+          "28",
+          "29",
+          "30"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31968401251481,
+    "lng": 103.842190476981
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180473",
+    "deletedAt": null,
+    "createdBy": "14b67677-ec8f-4c98-8dc9-b211b4830afb",
+    "createdAt": "2026-01-29T03:57:12.000Z",
+    "updatedAt": "2026-01-29T03:57:11.000Z",
+    "emailRecipient": "14b67677-ec8f-4c98-8dc9-b211b4830afb",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 60,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/sharepoint-developer-innovatiq-technologies-24cd006355c90e25f7c4e160573e4363",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/24cd006355c90e25f7c4e160573e4363"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/24cd006355c90e25f7c4e160573e4363/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

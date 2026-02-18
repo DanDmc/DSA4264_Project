@@ -1,0 +1,199 @@
+{
+  "uuid": "448e928ce9d2b6d59851d12735319174",
+  "sourceCode": "Employer Portal",
+  "title": "Project Engineer (Firewall & Roofing) - WCDT",
+  "description": "<ul>\n  <li>Attend site meetings, inspections, and monitoring of project progress with the Main Contractor.</li>\n  <li>Ensure safe work procedures are implemented to control risk</li>\n  <li>Other scopes of work to be assigned by the Managing Director</li>\n  <li>Liaise with other departments to ensure information, materials or other resources to ensure project progres</li>\n  <li>Any other tasks deemed necessary by the company related to the execution of projects</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Project Monitoring",
+      "uuid": "0684b9730451775187dd42a468eaba31",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Site Inspections",
+      "uuid": "0edba3df6613d07ee7cd275024a0a3ec",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Interpersonal Communication Skills",
+      "uuid": "4bb5c5101a936e6c8a145dc8ab1bd477",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Execution and Control",
+      "uuid": "65789b3aab2053678ae3c6527d8b5881",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Project Risk Management",
+      "uuid": "81235dd34c4bf124d9a1a308f1087d6f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Execution",
+      "uuid": "c21ffc2ee0b17eedea2e1a87f136adc1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Time Management",
+      "uuid": "dcb4dd8c846917c586f5be0e369d324d",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1172",
+  "postedCompany": {
+    "uen": "202024371N",
+    "description": "<p>Wecruit is one of the leading recruitment firms based in Singapore, dedicated to helping job seekers find the right career opportunities.</p>\n<p><br>\nWe partner with reputable companies across a wide range of industries, including Healthcare, IT, Corporate Support, Engineering, Education, Logistics &amp; Supply Chain, Oil &amp; Gas, and Maritime.&nbsp;</p>\n<p><br></p>\n<p>Whether you're looking for permanent roles or short-term assignments, our consultants take the time to understand your experience, preferences, and goals to match you with suitable roles.<br>\n<br>\nWith over 1,000 successful placements and a strong track record of candidate satisfaction, Wecruit is here to support your career journey.</p>\n<p><br>\nLet us help you take the next step—reach out to explore current opportunities or to speak with our team.<br>\n<br>\n</p>",
+    "name": "WECRUIT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "https://www.wecruit.com.sg/",
+    "lastSyncDate": "2026-02-04T00:57:12.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/schemes"
+      }
+    },
+    "logoFileName": "f09a3c1d371654245747359aeb85459d/wecruit.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f09a3c1d371654245747359aeb85459d/wecruit.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174875",
+    "deletedAt": null,
+    "createdBy": "7a258823-b9f0-4d5c-9a57-14778a290df8",
+    "createdAt": "2026-01-28T07:17:50.000Z",
+    "updatedAt": "2026-01-28T07:17:50.000Z",
+    "emailRecipient": "7a258823-b9f0-4d5c-9a57-14778a290df8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 30,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/project-engineer-wcdt-wecruit-448e928ce9d2b6d59851d12735319174",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/448e928ce9d2b6d59851d12735319174"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/448e928ce9d2b6d59851d12735319174/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

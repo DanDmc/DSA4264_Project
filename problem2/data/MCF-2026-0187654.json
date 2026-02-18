@@ -1,0 +1,223 @@
+{
+  "uuid": "7858b87480113faeec0a006d9d79f96a",
+  "sourceCode": "Employer Portal",
+  "title": "Project Engineer",
+  "description": "<p><u><strong>Responsibilities:</strong></u></p><ul><li>Coordinate and work closely with Project Manager to oversee site matters and provide technical support such as interpret construction drawings</li><li>Ensure all technical drawings conform to the latest BCA codes and regulations</li><li>Supervise site progress and ensure timely delivery of contract works from subcontractors/suppliers</li><li>Manage subcontractors/suppliers to perform their respective scope of works for smooth project execution</li><li>Conduct regular site inspections and enforce in-house regulations</li><li>Attend site meetings to assist the Project Manager with necessary preparatory works and coordination with consultants</li><li>Liaise with relevant government agencies to obtain necessary site permits/clearances</li><li>Any other ad-hoc duties as instructed by superiors</li></ul><p><u><strong>Job Qualifications / Requirements:</strong></u></p><ul><li>Possess a recognised Degree or Diploma in Architecture / Civil / Structural / Mechanical / Electrical Engineering, Building Science, Building Management, Building Services Engineering, Construction Management and <strong>at least 3 years of relevant working experience</strong> of the building construction industry</li></ul><p>or</p><ul><li>Degree in local universities in Architecture / Civil / Structural / Mechanical / Electrical Engineering, Building Science, Building Management, Building Services Engineering, Construction Management</li><li>Strong knowledge in use of Autocad, BIM software such as Revit and microsoft projects</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Revit",
+      "uuid": "0d90aa300c15ef13e21761af3b9881bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BIM",
+      "uuid": "418d8681b964b0a772325e03a076bb26",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Services",
+      "uuid": "6f943869ecd85edee9c33427089dbb08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Drawings",
+      "uuid": "b7ddd6b4070e952489bf1ec071d10bac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1121",
+  "postedCompany": {
+    "uen": "199805872C",
+    "description": "<p>Founded in 1997, Qing Feng Construction has over 20 years of dedicated service in Singapore’s construction industry. Established with a vision to build lasting, quality structures, our company has grown from humble beginnings into a trusted name. We bring a wealth of experience, having delivered successful projects across the residential, commercial, and industrial sectors.</p>",
+    "name": "QING FENG CONSTRUCTION PTE LTD",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:19:08.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199805872C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199805872C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199805872C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199805872C/schemes"
+      }
+    },
+    "logoFileName": "000932bbaf4010c8af7258b5f63c2ad8/qing-feng-construction.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/000932bbaf4010c8af7258b5f63c2ad8/qing-feng-construction.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187654",
+    "deletedAt": null,
+    "createdBy": "4a81a87f-1175-42f3-93e6-5a5c54526d89",
+    "createdAt": "2026-01-30T04:23:03.000Z",
+    "updatedAt": "2026-01-30T04:23:03.000Z",
+    "emailRecipient": "4a81a87f-1175-42f3-93e6-5a5c54526d89",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 39,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-qing-feng-construction-7858b87480113faeec0a006d9d79f96a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7858b87480113faeec0a006d9d79f96a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7858b87480113faeec0a006d9d79f96a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

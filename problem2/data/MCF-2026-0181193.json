@@ -1,0 +1,234 @@
+{
+  "uuid": "4f587be075292b5fb517080bbbfccf86",
+  "sourceCode": "Employer Portal",
+  "title": "Bus Repair Mechanic",
+  "description": "<p><strong>Bus Repair Mechanic</strong></p><p>- 3 to 5 years of experience in bus repair mechanics</p><p>- You will perform bus repair and maintenance tasks, applying your expertise to diagnose and fix issues on Yutong, Zhong Tong, Higer, and King Long buses to ensure safe and reliable operation.</p><p>No Agent</p><p>Call: 9238 2338 / 9688 6887</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Overhaul",
+      "uuid": "1c2bc2c767822ced10916622ae14ef26",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wiring",
+      "uuid": "441b65c8a62ed7904574ee78c84b0963",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Solidworks",
+      "uuid": "5dcbc8d322035b0c6a6ecee8a3348fc8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembling",
+      "uuid": "b65bcd4c023847cafb39151dfa9ddd7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CAD",
+      "uuid": "eccb0954fca9f2005aea084605df5ee9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "72310",
+  "occupationId": "OCC010387",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "51867600E",
+    "description": null,
+    "name": "SAN HAI BUS TRANSPORT SERVICES",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T06:03:08.000Z",
+    "ssicCode2020": "49212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51867600E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51867600E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51867600E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51867600E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "JALAN LAM HUAT",
+    "floor": null,
+    "unit": null,
+    "building": "CARROS CENTRE",
+    "postalCode": "737869",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43087517002215,
+    "lng": 103.752346776192
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181193",
+    "deletedAt": null,
+    "createdBy": "9a7d01c1-3af9-49b4-ae46-cbf590957e72",
+    "createdAt": "2026-01-29T06:07:35.000Z",
+    "updatedAt": "2026-01-29T06:07:35.000Z",
+    "emailRecipient": "9a7d01c1-3af9-49b4-ae46-cbf590957e72",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 47,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/bus-repair-mechanic-san-hai-bus-transport-services-4f587be075292b5fb517080bbbfccf86",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4f587be075292b5fb517080bbbfccf86"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4f587be075292b5fb517080bbbfccf86/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

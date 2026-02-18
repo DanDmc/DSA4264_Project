@@ -1,0 +1,251 @@
+{
+  "uuid": "ff84cfc9f780dbf128d2bdd2e88c08be",
+  "sourceCode": "Employer Portal",
+  "title": "Technician",
+  "description": "<ul><li>Responsible for breakdown maintenance for all commercial freezers</li><li>Manage warehousing and support Operations</li><li>Manage repair and maintenance matters</li><li>Assist to liaise and resolve problem from client</li><li>Handle good housekeeping and help on all maintenance</li><li>Perform ad-hoc duty as assigned</li></ul><p><br /><strong>Requirements:</strong><br /></p><ul><li>Nitec in Electrical or Mechanical Engineering or equivalent</li><li>A least 2 years of working experience in related field</li><li>Able to work independently</li><li>Installation skills is required</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HVAC",
+      "uuid": "6ace317b96ae4d73c074b5e1d6694b86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TDS",
+      "uuid": "7a323371ef1444029ad6c74cd68809dd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laboratory",
+      "uuid": "e684d8eeee72ed2583865b78e8d3f57a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "42",
+  "ssecFos": "1211",
+  "postedCompany": {
+    "uen": "199200227C",
+    "description": "<p>\r\n\tBENCOOLEN ENTERPRISES PTE LTD</p>\r\n",
+    "name": "BENCOOLEN ENTERPRISES PTE LTD",
+    "ssicCode": "46305",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:05:21.000Z",
+    "ssicCode2020": "46305",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200227C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200227C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200227C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200227C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1765",
+    "street": "GEYLANG BAHRU",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "339701",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31808216924811,
+    "lng": 103.871933182085
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172285",
+    "deletedAt": null,
+    "createdBy": "06b1fdc3-4d12-4cee-9a6a-17d258d614cf",
+    "createdAt": "2026-01-28T02:40:46.000Z",
+    "updatedAt": "2026-01-28T02:40:47.000Z",
+    "emailRecipient": "06b1fdc3-4d12-4cee-9a6a-17d258d614cf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/technician-bencoolen-enterprises-ff84cfc9f780dbf128d2bdd2e88c08be",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff84cfc9f780dbf128d2bdd2e88c08be"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff84cfc9f780dbf128d2bdd2e88c08be/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

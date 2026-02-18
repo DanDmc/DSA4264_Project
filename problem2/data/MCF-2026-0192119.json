@@ -1,0 +1,229 @@
+{
+  "uuid": "01c6eba7f9f0513f288be55b5110f0e2",
+  "sourceCode": "Employer Portal",
+  "title": "Manager",
+  "description": "<p><strong>Job Summary</strong></p><p>The Factory Production Manager is responsible for overseeing and managing all production activities in the textile manufacturing unit to ensure efficient operations, consistent product quality, and timely delivery. The role focuses on optimizing production processes, managing teams, and ensuring compliance with safety and quality standards.</p><p><strong>Responsibilities</strong></p><ul><li>Develop and execute daily production schedules to achieve targeted output and maintain high-quality standards</li><li>Lead and coordinate production staff to maximize manpower efficiency and optimize machinery utilization</li><li>Analyze production performance data to identify inefficiencies and implement process improvements that reduce waste and minimize downtime</li><li>Enforce adherence to safety protocols, quality benchmarks, and operational procedures to maintain compliance and workplace safety</li><li>Collaborate with maintenance, quality assurance, and logistics teams to synchronize activities and ensure seamless production flow</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Diploma in Textile Technology or a related textile discipline (minimum 3 years)</li><li>Proven experience in textile manufacturing operations with a strong understanding of textile production processes</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Proficient knowledge of textile machinery operation and production planning techniques</li><li>Demonstrated leadership skills in managing production teams and driving operational improvements</li><li>Effective problem-solving and decision-making abilities in a manufacturing environment</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production Planning",
+      "uuid": "4c89dbee82b7b1dd9d379c2d00562947",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Operations",
+      "uuid": "898f31ee512f001284ee0d3e444999ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13210",
+  "occupationId": "OCC060457",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1224",
+  "postedCompany": {
+    "uen": "202526039W",
+    "description": null,
+    "name": "SUPREME LINENS & THREADS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T17:53:32.000Z",
+    "ssicCode2020": "13921",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202526039W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202526039W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202526039W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202526039W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1002",
+    "street": "TOA PAYOH INDUSTRIAL PARK",
+    "floor": null,
+    "unit": null,
+    "building": "TOA PAYOH INDUSTRIAL PARK",
+    "postalCode": "319074",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33494359065962,
+    "lng": 103.861040942076
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192119",
+    "deletedAt": null,
+    "createdBy": "e1a98266-127a-433c-a223-16d919dbe603",
+    "createdAt": "2026-01-30T18:00:40.000Z",
+    "updatedAt": "2026-01-30T18:00:40.000Z",
+    "emailRecipient": "e1a98266-127a-433c-a223-16d919dbe603",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 90,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/manager-supreme-linens-threads-01c6eba7f9f0513f288be55b5110f0e2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/01c6eba7f9f0513f288be55b5110f0e2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/01c6eba7f9f0513f288be55b5110f0e2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

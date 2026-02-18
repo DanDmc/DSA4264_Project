@@ -1,0 +1,210 @@
+{
+  "uuid": "9ea1d00d5d5090e46fe5bdf1c243752f",
+  "sourceCode": "Employer Portal",
+  "title": "DevSecOps Engineer",
+  "description": "<p><u><strong>About Capgemini</strong></u></p>\n<p>Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion.</p>\n<p><br></p>\n<p><br></p>\n<p><u><strong>What You Will Be Working On</strong></u></p>\n<p>As the <strong>DevSecOps Engineer, </strong>you will lead and embed security-first practices across CI/CD, cloud infrastructure, and runtime environments.</p>\n<p><br></p>\n<p><strong>DevSecOps / Security Enablement</strong></p>\n<ul>\n  <li>Embed security controls in CI/CD pipelines (e.g., SAST, DAST, dependency checks, container scans).</li>\n  <li>Automate enforcement of security policies (e.g., secret detection, SBOM generation, license policy gates).</li>\n  <li>Collaborate with DOE Lead and CISO to implement compliance controls (NIST, Singapore Government standards).</li>\n  <li>Integrate tools like SonarQube, Trivy, Snyk, Checkov, or custom scanners into pipelines.</li>\n  <li>Maintain infrastructure hardening and secure baseline templates (e.g., CIS benchmarks, AMI/Container baselines).</li>\n  <li>Co-own audit and logging configurations (e.g., CloudTrail, Security Hub, WAF logs, GuardDuty alerts).</li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p><strong>Cloud Infrastructure &amp; CICD Operations</strong></p>\n<ul>\n  <li>Maintain and improve secure, automated CICD pipelines.</li>\n  <li>Define IaC security validation steps (e.g., Terraform policy-as-code with OPA or Checkov).</li>\n  <li>Implement backup, DR, and secrets management workflows in alignment with platform guardrails.</li>\n  <li>Support runtime observability with secure logging and alerting pipelines (e.g., ELK/Opensearch, Prometheus, Grafana).</li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p><strong>Day 2 Operations Collaboration</strong></p>\n<ul>\n  <li>Support vulnerability triage and incident response processes.</li>\n  <li>Maintain operational runbooks with security context for SRE rotations.</li>\n  <li>Contribute to secure service rollout (mTLS, ALB/NLB policies, header validations, etc.).</li>\n  <li>Collaborate to address hardening gaps in Day 2 operations.</li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p><u><strong>What We Are Looking For</strong></u></p>\n<ul>\n  <li>4–6 years of combined DevOps/Security Engineering experience.</li>\n  <li>Hands-on experience in securing AWS cloud infrastructure (IAM, KMS, GuardDuty, WAF).</li>\n  <li>Hands-on experience in commercial security tools (Next GEN Firewalls, Database Activity Monitoring).</li>\n  <li>Proven experience integrating security checks into GitOps / CI pipelines (e.g., GitLab CI, GitHub Actions, Jenkins).</li>\n  <li>Solid experience with container security: Docker image scanning, Kubernetes RBAC, admission controllers.</li>\n  <li>Proficiency in scripting (Bash, Python, or similar) for automation.</li>\n  <li>Familiarity with compliance requirements: NIST 800‑53, CIS benchmarks.</li>\n  <li>Strong diagnostic skills, especially in cloud networking, TLS configurations, and log analysis.</li>\n  <li>Experience with IaC (Terraform/Helm), GitOps, and configuration management.</li>\n  <li>Bonus: Experience conducting or responding to security audits or VAPT findings.</li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p><u><strong>Let's talk about what's in it for you!</strong></u></p>\n<p><br></p>\n<p>Passionate people are Capgemini's Ace of Spades - join us to discover a career that will challenge, support and inspire you. Working at Capgemini you'll find the rewards are more than just financial. You will work alongside some very smart and inspiring people on exciting projects and you will also enjoy incredible benefits. We offer flexible work practices and 40 hours of self-development every year with a huge selection of learning opportunities to choose from.</p>\n<p><br></p>\n<p>As <strong>\"Architects of Positive Futures\"</strong>, Capgemini actively supports the community in 3 ways:</p>\n<p><br></p>\n<p><strong>Diversity and Inclusion</strong> - we believe diversity of thought fuels excellence and innovation, which is why we positively encourage applications from suitably qualified candidates regardless of their gender identity, ethnicity, sexual orientation, religion, ability, intersex status or age. To support our commitment to diversity and inclusion, we celebrate special events and days of significance that are important to our employees such as Diwali, Bastille Day, Pride, IDAHOBIT, IWD and International day of people with Disabilities. Our Employee Resource Groups Women@Capgemini and OutFront support the grassroots passion of employees to drive our diversity agenda and effect change.</p>\n<p><br></p>\n<p><strong>Digital inclusion</strong> - at Capgemini we are using our skills to drive social impact initiatives focusing on helping society address the impact of the digital and automation revolution. We also provide employees with opportunities to give back to the community through charity projects and volunteer days.</p>\n<p><br></p>\n<p><strong>Environmental Sustainability</strong> - Capgemini joined the CDP's (Carbon Disclosure Project) prestigious \"A list\" for its commitment to the Net-Zero economy. We are focusing on helping our clients transform towards more sustainable business models and committing to reduce our own carbon emissions (GHG) by 20% per employee by 2020.</p>\n<p><br></p>\n<p>Recognized by Ethisphere as one of the <strong>World's Most Ethical Companies</strong> for the last 8 years in a row, ethics and values are at the heart of Capgemini's corporate culture and business. Embedded in our DNA, our seven values - Honesty, Boldness, Trust, Team Spirit, Freedom, Fun and Modesty - have remained the same since company inception in 1967. To see how we bring these values to life, click here to listen to some of our employee’s stories.</p>\n<p><br></p>\n<p>Come join us, bring your whole self to work, create new possibilities for you, your customers and your community and help us to be Architects of Positive Futures.</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Terraform",
+      "uuid": "1b1ed905d54c18e3dd8828986c14be17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DevOps",
+      "uuid": "407432c641358300c37673ae96305f3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS",
+      "uuid": "4847e034bb0a55fcbc8a3380d6a3ab80",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration and Continuous Deployment",
+      "uuid": "535ba1ec945063c54626bfd01fcdc367",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bash Scripting",
+      "uuid": "b9d9c32b160bdf4ec2722ccc305d3340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Gitlab",
+      "uuid": "d0498fac9d755142b3dfd9f05281701f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199106419N",
+    "description": "<p>Capgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2024 global revenues of €22.1 billion.<br /><br />Make it real | www.capgemini.com</p>",
+    "name": "Capgemini Singapore  PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "www.capgemini.com",
+    "lastSyncDate": "2026-02-04T07:30:20.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N/schemes"
+      }
+    },
+    "logoFileName": "3b43cabac367df7ead1c8e6614d4fc3a/capgemini-singapore.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3b43cabac367df7ead1c8e6614d4fc3a/capgemini-singapore.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "MARINA BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA BAY FINANCIAL CENTRE",
+    "postalCode": "018982",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27901700601654,
+    "lng": 103.854464808366
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166537",
+    "deletedAt": null,
+    "createdBy": "5283a953-dbff-41f3-aed7-2d90c4fdb9a5",
+    "createdAt": "2026-01-27T06:51:06.000Z",
+    "updatedAt": "2026-01-27T06:51:06.000Z",
+    "emailRecipient": "5283a953-dbff-41f3-aed7-2d90c4fdb9a5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 43,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/devsecops-engineer-capgemini-singapore-9ea1d00d5d5090e46fe5bdf1c243752f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9ea1d00d5d5090e46fe5bdf1c243752f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9ea1d00d5d5090e46fe5bdf1c243752f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

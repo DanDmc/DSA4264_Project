@@ -1,0 +1,234 @@
+{
+  "uuid": "4a7af9637203b6fa83b51de5f48a81a7",
+  "sourceCode": "Employer Portal",
+  "title": "Clinic Assistant",
+  "description": "<p>Clinic assistant's job scope requires you to assist in the general operations of the clinic in areas of the reception and assisting in therapy work and chaperone roles. Reception roles includes handling payments of different modes, scheduling, managing patient flow, managing product inventory. Therapy roles includes assisting in doing specific therapies required for the patients and chaperoning the doctors when required.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Literacy",
+      "uuid": "4296cdaff1b9d979ae77f796e301e1b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medicine",
+      "uuid": "4ff278b4704d3e44b01ff80f37386777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42243",
+  "occupationId": "OCC009096",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201904009Z",
+    "description": null,
+    "name": "DISCOVER CHIROPRACTIC PTE. LTD.",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T05:26:11.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201904009Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201904009Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201904009Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201904009Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "139",
+    "street": "CECIL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "YSY BUILDING",
+    "postalCode": "069539",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27943721296369,
+    "lng": 103.848515674037
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153552",
+    "deletedAt": null,
+    "createdBy": "77155cbd-6aa4-4893-b66e-3c398f24041a",
+    "createdAt": "2026-01-25T12:57:02.000Z",
+    "updatedAt": "2026-01-25T12:57:02.000Z",
+    "emailRecipient": "77155cbd-6aa4-4893-b66e-3c398f24041a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 429,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 52,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/clinic-assistant-discover-chiropractic-4a7af9637203b6fa83b51de5f48a81a7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2300,
+    "minimum": 1900,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a7af9637203b6fa83b51de5f48a81a7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a7af9637203b6fa83b51de5f48a81a7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

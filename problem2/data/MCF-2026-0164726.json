@@ -1,0 +1,242 @@
+{
+  "uuid": "03c846e38ebdbdeb07a1770df298ea8a",
+  "sourceCode": "Employer Portal",
+  "title": "Network Engineer",
+  "description": "<p>We are seeking a dedicated AWS Network Engineer to design, implement, and support secure, scalable, and high-availability cloud network infrastructure within the client’s environment. This role involves working closely with project teams, system integrators, vendors and internal IT and cybersecurity teams to ensure the reliability, security, and compliance of AWS network solutions that support the client’s digital services and mission-critical systems. You will play a key role in strengthening the client’s infrastructure through robust cloud connectivity and secure network design.<br /></p><p><strong>Responsibilities</strong></p><ul><li>Design, deploy, and maintain AWS Virtual Private Cloud (VPC) environments including subnets, route tables, security groups, network access control lists, Transit Gateways, Route 53 (DNS) and PrivateLink in alignment with the client’s standards and policies.</li><li>Configure, manage and maintain hybrid cloud connectivity (e.g., AWS Direct Connect, Gateways, Site-to-Site VPN, Transit Gateway) between on-premises data centres and AWS environments.</li><li>Configure and manage DNS and DHCP network services</li><li>Configure and manage Network Load Balancing and TraIic Management using AWS ELB, NLB, ALB, CloudFront and Nginx to ensure traTic optimization, latency reduction, and high availability for distributed applications</li><li>Implement network security controls to comply with the client’s security guidelines and policies, ensuring confidentiality and integrity of the client’s data and systems.</li><li>Implement and administer Firewalls and Security Appliances e.g. Palo Alto Firewalls and VPN infrastructure and cloud-native firewalls like AWS WAF.</li><li>Lead incident response eTorts, collaborating closely with vendors and project teams to ensure timely resolution.</li><li>Provide advice and technical network support for internet-facing applications, ensuring smooth deployment and resolving pre- and postimplementation issues.</li><li>Collaborate with cloud architects, cybersecurity teams, and DevOps engineers to design secure and resilient cloud network topologies.</li><li>Implement network automation and Infrastructure-as-Code (IaC) using tools such as Terraform, Ansible, AWS CloudFormation.</li><li>Troubleshoot and optimize network performance using AWS CloudWatch, VPC Flow Logs, CloudTrail, and other monitoring tools.</li><li>Provide technical support for Windows and Linux EC2 servers, assisting with provisioning, configuration, scripting and troubleshooting.</li><li>Maintain accurate network documentation, topology diagrams, operational procedures and best practices in compliance with audit and change management processes.</li><li>Stay up to date with AWS networking advancements, GovTech cloud policies, and cybersecurity directives to propose continuous improvements.</li></ul><p><br /><strong>Required skills and qualifications</strong></p><ul><li>Bachelor’s degree in Computer Science, Computing, Electrical Engineering, Information Systems, IT or related field.</li><li>2 or more years of experience in network engineering, including managing AWS or hybrid cloud networks.</li><li>Strong understanding of TCP/IP, HTTP/S, DNS, DHCP, routing protocols (BGP), VPNs, and load balancing.</li><li>Proficiency with AWS networking services such as VPC, Transit Gateway, PrivateLink, Route 53, Direct Connect, Load Balancers and Network Firewall.</li><li>Expertise in network segmentation, traIic filtering, and firewall policy management to enforce security.</li><li>Proficiency with network architectures, optimisation and troubleshooting</li><li>Hands-on experience with IaC and automation tools e.g. Terraform, CloudFormation and Ansible.</li><li>Familiarity with Zero Trust network design principles.</li><li>Excellent analytical and communication skills with the ability to work collaboratively across service providers and project teams.</li></ul><p><br />Preferred skills and qualifications</p><ul><li>AWS Certified Advanced Networking – Specialty or AWS Certified Solutions Architect – Associate/Professional.</li><li>Palo Alto Networks Certified Next-Generation Firewall Engineer</li><li>Experience with security and compliance frameworks relevant to government and regulated environments.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Network Engineering",
+      "uuid": "2b85c9455636f5ef53e3e8424fcb3fc9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DHCP",
+      "uuid": "54201c55d2bdc7a9e19d9e032d8c0ede",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Design",
+      "uuid": "877d021d74d62b4d6ca9997df7513f67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing Protocols",
+      "uuid": "b6e19fcca5cbe496bf5f84080f885786",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VPN",
+      "uuid": "eaef8590a83770745b6591921835bf08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC061349",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "197501566C",
+    "description": "<p>At IBM, we strive to lead in the creation, development and manufacture of the industry's most advanced information technologies, including computer systems, software, networking systems, storage devices and microelectronics.</p>\r\n\r\n<p>We translate these advanced technologies into value for our customers through our professional solutions and services businesses worldwide</p>\r\n\r\n<p>IBM was incorporated in 1911 (in New York) as the Computer- Tabulating- Recording Company, with a product line that included clocks, scales and punch card tabulators. In 1914, the company changed its name to International Business Machines (IBM), reflecting its growing operations in Europe, South America, Australia and Asia.</p>\r\n\r\n<p>Today, IBM is the world's leading information technology company, offering a range of integrated solutions, products and services unmatched by any other IT company.</p>\r\n\r\n<p>Facebook - https://www.facebook.com/IBMaseanjobs</p>\r\n",
+    "name": "IBM SINGAPORE PTE LTD",
+    "ssicCode": "46511",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:34:04.000Z",
+    "ssicCode2020": "46511",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197501566C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197501566C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197501566C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197501566C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "MARINA BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA BAY FINANCIAL CENTRE (TOWER 2)",
+    "postalCode": "018983",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27946811236052,
+    "lng": 103.853749553298
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164726",
+    "deletedAt": null,
+    "createdBy": "6308b084-f2d2-4658-af2d-95ee1e17cd65",
+    "createdAt": "2026-01-27T03:22:16.000Z",
+    "updatedAt": "2026-01-27T03:22:16.000Z",
+    "emailRecipient": "6308b084-f2d2-4658-af2d-95ee1e17cd65",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 188,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/network-engineer-ibm-singapore-03c846e38ebdbdeb07a1770df298ea8a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/03c846e38ebdbdeb07a1770df298ea8a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/03c846e38ebdbdeb07a1770df298ea8a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

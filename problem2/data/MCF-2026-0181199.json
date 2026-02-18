@@ -1,0 +1,198 @@
+{
+  "uuid": "b6070da6862298864746e3d93b363cd5",
+  "sourceCode": "Employer Portal",
+  "title": "Maintenance Operation",
+  "description": "<ul><li>Preventive Maintenance Implementation: Performed scheduled preventive and corrective maintenance on critical industrial machines to improve reliability and reduce unexpected breakdowns</li></ul><ul><li>Safety & Compliance Execution: Performed all tasks following strict company SOPs and safety standards,</li></ul><ul><li>maintaining a safe and compliant working environment.</li></ul><ul><li>Hands-On Troubleshooting: Interpreted electrical schematics, dismantled and reassembled machines, and</li><li>resolved electrical and mechanical faults effectively.</li></ul><ul><li>Preventive Maintenance Scheduling: Created, verified, and executed preventive maintenance schedules to reduce downtime and extend machine lifespan across multiple production lines.</li><li>Electrical Troubleshooting: Diagnosed and repaired complex electrical and electronic faults in machinery to ensure continuous and reliable operations.</li><li>Team Reporting & Support: Assisted Maintenance Manager with accurate monthly and annual reporting while mentoring junior technicians in practical fault diagnosis..</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Appraisals",
+      "uuid": "3bb7346aca79d8142e16e61372bd04dc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31111",
+  "occupationId": "OCC005267",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "199500261W",
+    "description": "<p>Design, supply and install modern modular laboratory furniture system, fume cupboards and laboratory extraction cum ventilation system. Laboratory planning, engineering and consultation services.</p>",
+    "name": "PACIFIC VINITEX LABORATORY ENGINEERING PTE LTD",
+    "ssicCode": "32909",
+    "employeeCount": null,
+    "companyUrl": "www.pvle.com.sg",
+    "lastSyncDate": "2026-01-29T05:38:25.000Z",
+    "ssicCode2020": "32909",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500261W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500261W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500261W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500261W/schemes"
+      }
+    },
+    "logoFileName": "6ac29dd5153988160e8daccf45414b60/pacific-vinitex-laboratory-engineering.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6ac29dd5153988160e8daccf45414b60/pacific-vinitex-laboratory-engineering.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "MARSILING IND ESTATE ROAD 9",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "739175",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44288353988722,
+    "lng": 103.781667013488
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181199",
+    "deletedAt": null,
+    "createdBy": "d3cac02a-85c3-47d3-96bc-f33b49abbb0c",
+    "createdAt": "2026-01-29T06:08:55.000Z",
+    "updatedAt": "2026-01-29T06:08:55.000Z",
+    "emailRecipient": "d3cac02a-85c3-47d3-96bc-f33b49abbb0c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 53,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-19",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/maintenance-operation-pacific-vinitex-laboratory-engineering-b6070da6862298864746e3d93b363cd5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b6070da6862298864746e3d93b363cd5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b6070da6862298864746e3d93b363cd5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

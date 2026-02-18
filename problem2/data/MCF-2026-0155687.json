@@ -1,0 +1,217 @@
+{
+  "uuid": "18bf5a93bdf8e311cdc6b7baa43adc80",
+  "sourceCode": "Employer Portal",
+  "title": "Methods Analyst (Associate to Senior)",
+  "description": "<ul>\n  <li>This position is responsible for creating accurate and routine manufacturing sequences whereby raw materials and assemblies are processed into quality finished products using the most economical and efficient means.</li>\n  <li>Work performed requires application of standard techniques, procedures, and criteria.</li>\n  <li>Reviews prints and requirements of items to be manufactured and determines the process plans/routings, instructions, methods, procedures, tooling, etc. required.</li>\n  <li>Uses computerized files/systems to analyze production status and creates manufacturing process for parts/assembly by specifying machines to be utilized, stages of manufacture, and routing stages required to produce finished part.</li>\n  <li>Establishes standard production times for parts and/or assemblies, recommends improvements/modifications, and discusses/resolves impact of process plans with other departments as required.</li>\n  <li>2-4 years of related manufacturing engineering experience.</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Manufacturing Engineering",
+      "uuid": "2326884e59802be98a4618e456486191",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "uuid": "5622ca1c7df0a0744d6e884ea12e1e66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC Machine",
+      "uuid": "afd81b681fdc83e5104bd1a5c56f165d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC Manufacturing",
+      "uuid": "c288ee3b74eb2c877851174128f2c08c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC Operation",
+      "uuid": "e27770e92846975834ef2f277cf90688",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC Programming",
+      "uuid": "f392c014b7ed5a9985eb38b34d1185c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21415",
+  "occupationId": "OCC003590",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "201114442C",
+    "description": "<p>Founded in 1919, Halliburton is one of the world's leading providers of products and services to the energy industry.</p>\n<p>We create innovative technologies, products, and services that help our customers maximize their value throughout the life cycle of an asset and advance a sustainable energy future.</p>",
+    "name": "HAL COMPLETIONS MFG PTE. LTD.",
+    "ssicCode": "28242",
+    "employeeCount": null,
+    "companyUrl": "https://www.halliburton.com/",
+    "lastSyncDate": "2026-01-29T01:31:45.000Z",
+    "ssicCode2020": "28242",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201114442C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201114442C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201114442C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201114442C/schemes"
+      }
+    },
+    "logoFileName": "19d7b951c8975232a7e8462621951b4d/hal-completions-mfg.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/19d7b951c8975232a7e8462621951b4d/hal-completions-mfg.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "11",
+    "street": "TUAS SOUTH AVENUE 12",
+    "floor": null,
+    "unit": null,
+    "building": "TUAS BIOMEDICAL PARK II",
+    "postalCode": "637131",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.27941028664961,
+    "lng": 103.625981712258
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155687",
+    "deletedAt": null,
+    "createdBy": "b907f5fb-3d46-4201-8a38-3cd360cfb3ca",
+    "createdAt": "2026-01-26T02:17:14.000Z",
+    "updatedAt": "2026-01-26T02:17:15.000Z",
+    "emailRecipient": "b907f5fb-3d46-4201-8a38-3cd360cfb3ca",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 71,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/methods-analyst-hal-completions-mfg-18bf5a93bdf8e311cdc6b7baa43adc80",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/18bf5a93bdf8e311cdc6b7baa43adc80"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/18bf5a93bdf8e311cdc6b7baa43adc80/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,232 @@
+{
+  "uuid": "372468297e4d86068001b24398621b80",
+  "sourceCode": "Employer Portal",
+  "title": "PLUMBER",
+  "description": "<p><strong>Job Summary</strong></p><p>Perform plumbing tasks across residential, commercial, and industrial settings to install, maintain, and repair and Maintenance plumbing systems and fittings effectively.</p><p><strong>Responsibilities</strong></p><ul><li>Install and repair sanitary plumbing systems to ensure proper water flow and waste disposal</li><li>Fit and maintain plumbing accessories and fittings to meet safety and quality standards</li><li>Diagnose plumbing issues and perform timely repairs in residential, commercial, and industrial environments</li><li>Collaborate with team members to complete plumbing projects efficiently and safely</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Management",
+      "uuid": "4ca69a44b0270bec6838c1ade1ede455",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Building",
+      "uuid": "bc42c84d156c4f70ff6ba18d466fedeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "71261",
+  "occupationId": "OCC014410",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 32,
+      "category": "Real Estate / Property Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "49",
+  "ssecFos": "0001",
+  "postedCompany": {
+    "uen": "201543196W",
+    "description": null,
+    "name": "SINGAPORE GENERAL CONTRACTOR PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T06:58:17.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201543196W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201543196W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201543196W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201543196W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155859",
+    "deletedAt": null,
+    "createdBy": "0f1c899b-1b75-4944-b37d-11529c68ffd0",
+    "createdAt": "2026-01-26T02:29:37.000Z",
+    "updatedAt": "2026-01-26T02:29:38.000Z",
+    "emailRecipient": "0f1c899b-1b75-4944-b37d-11529c68ffd0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 72,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/plumber-singapore-general-contractor-372468297e4d86068001b24398621b80",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/372468297e4d86068001b24398621b80"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/372468297e4d86068001b24398621b80/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

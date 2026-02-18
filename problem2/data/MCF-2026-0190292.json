@@ -1,0 +1,216 @@
+{
+  "uuid": "aa26ebc22abe9a8aaf65d688b9b52e71",
+  "sourceCode": "Employer Portal",
+  "title": "Operation Manager",
+  "description": "<p>The Operation Manager is responsible for overseeing and managing the company’s day-to-day operations to ensure efficiency, consistency, and profitability. This role focuses on operational excellence, team management, cost control, and compliance with company standards and Singapore regulatory requirements.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "uuid": "d4df0f19b94b428d347bbf56d9d5a4c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202122588D",
+    "description": null,
+    "name": "ELITE MANAGEMENT SERVICES PTE. LTD.",
+    "ssicCode": "78102",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:21:28.000Z",
+    "ssicCode2020": "78102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202122588D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202122588D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202122588D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202122588D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8B",
+    "street": "ADMIRALTY STREET",
+    "floor": null,
+    "unit": null,
+    "building": "8B @ ADMIRALTY",
+    "postalCode": "757440",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.46217558034918,
+    "lng": 103.814478826213
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190292",
+    "deletedAt": null,
+    "createdBy": "76a52c4e-e445-49b7-a605-8949e7f07a69",
+    "createdAt": "2026-01-30T09:03:15.000Z",
+    "updatedAt": "2026-01-30T09:03:14.000Z",
+    "emailRecipient": "76a52c4e-e445-49b7-a605-8949e7f07a69",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 196,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 54,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/operation-manager-elite-management-services-aa26ebc22abe9a8aaf65d688b9b52e71",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aa26ebc22abe9a8aaf65d688b9b52e71"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aa26ebc22abe9a8aaf65d688b9b52e71/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

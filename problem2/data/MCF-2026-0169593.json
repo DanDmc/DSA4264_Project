@@ -1,0 +1,199 @@
+{
+  "uuid": "8a7ccdcdbfecb5cccbfcc2cc04f615f8",
+  "sourceCode": "Employer Portal",
+  "title": "Research Assistant, School of Computing",
+  "description": "<p>Interested applicants are invited to apply directly at the <a href=\"https://careers.nus.edu.sg/job/Research-Assistant%2C-School-of-Computing/31512-en_GB/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>NUS\nCareer Portal</strong></a></p><p>Your application will be processed only if you apply\nvia <a href=\"https://careers.nus.edu.sg/job/Research-Assistant%2C-School-of-Computing/31512-en_GB/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>NUS\nCareer Portal</strong></a></p><p>We regret that only shortlisted candidates will be notified.<br /></p><h2><strong>Job Description</strong></h2><p>The National University of Singapore invites applications for the position of Research Assistant in the Department of Computer Science, School of Computing (SoC). SoC is strongly committed to research excellence in all its dimensions: Searching for fundamental results and insights, developing novel computational solutions to a wide range of applications, building large-scale experimental systems and improving the well-being of society. We seek to play an active role both internationally and locally in the core and emerging areas of Computer Science and Information Systems.</p><p>We invite applications for a Research Assistant position focused on AI-driven Identity & Access Management (IAM) and Cybersecurity. The successful candidate will work on advanced AI systems for identity security, addressing challenges in anomaly detection, adaptive authentication, and explainable threat intelligence. </p><p>Key Responsibilities:</p><ul><li>Design and develop AI-driven models for<strong> </strong>identity security and access-control analytics.</li><li>Build generative modeling pipelines (e.g., GANs, diffusion models) to synthesize realistic malicious or anomalous login behaviors for robust model training.</li><li>Implement anomaly detection and adaptive decision systems for real-time IAM defense.</li><li>Engineer edge-native AI modules for adaptive multi-factor authentication and token validation on resource-constrained platforms.</li><li>Develop explainable AI pipelines, including retrieval-augmented generation (RAG)–based systems that justify access decisions.</li><li>Integrate models into end-to-end systems spanning edge devices, containers, and cloud platforms.</li><li>Conduct experimental evaluation, benchmarking, and system-level testing.</li><li>Contribute to research publications, technical reports, and prototype deployments.</li></ul><h2><strong>Job Requirements</strong></h2><ul><li>Bachelor’s or Master’s degree in Computer Science, Computer Engineering, or a related field.</li><li>Strong programming proficiency in Python and C/C++.</li><li>Solid understanding of machine learning, data analytics, and system security fundamentals.</li><li>Experience or strong interest in cybersecurity, IAM, or authentication systems.</li><li>Experience with generative AI techniques (GANs, diffusion models) for data synthesis.</li><li>Familiarity with edge AI deployment and optimization (e.g., NVIDIA Jetson, ARM platforms).</li><li>Experience with containerized or cloud-native systems (Docker, Kubernetes).</li><li>Knowledge of model optimization and deployment frameworks (TensorRT, ONNX).</li><li>Exposure to cloud platforms such as Google Cloud Platform (Vertex AI, BigQuery).</li><li>Interest in explainable AI, security analytics, or AI-assisted decision support systems.</li><li>Familiarity with tabular data modeling, anomaly detection, or security-log analysis.</li><li>Experience with Linux environments and version control tools (e.g., Git).</li><li>Strong analytical thinking, problem-solving skills, and research motivation</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Engineering",
+      "uuid": "2a7bd24a3d93d25d37b22f89592fc31a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Cloud Platform",
+      "uuid": "5c9ef0d871938dccceb29ee63fad8ddb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Science",
+      "uuid": "8329f5105520a1b72d062628c077ddfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analytics",
+      "uuid": "e19e98a669ae21f94ffd1659998fd072",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Research",
+      "uuid": "f027f27d0d548351e4d362e9b90678a9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24291",
+  "occupationId": "OCC014487",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 36,
+      "category": "Sciences / Laboratory / R&D"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200604346E",
+    "description": "<p>The National University of Singapore aspires to be a vital community of academics, researchers, staff, students and alumni working together in a spirit of innovation and enterprise for a better world.</p>\n\n<p> </p>\n\n<p>Our singular focus on talent will be the cornerstone of a truly great university that is dedicated to quality education, influential research and visionary enterprise, in service of country and society.</p>\n",
+    "name": "NATIONAL UNIVERSITY OF SINGAPORE",
+    "ssicCode": "85302",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:22:49.000Z",
+    "ssicCode2020": "85302",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200604346E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200604346E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200604346E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200604346E/schemes"
+      }
+    },
+    "logoFileName": "91f709b9be69c4769f6ac085f6e8f2ca/national-university-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/91f709b9be69c4769f6ac085f6e8f2ca/national-university-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "LOWER KENT RIDGE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "119077",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29724508368902,
+    "lng": 103.781157779585
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169593",
+    "deletedAt": null,
+    "createdBy": "021ac673-6917-4fe1-afe3-810234ebc3ea",
+    "createdAt": "2026-01-27T14:11:47.000Z",
+    "updatedAt": "2026-01-27T14:11:47.000Z",
+    "emailRecipient": "021ac673-6917-4fe1-afe3-810234ebc3ea",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sciences/research-assistant-school-computing-national-university-singapore-8a7ccdcdbfecb5cccbfcc2cc04f615f8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8a7ccdcdbfecb5cccbfcc2cc04f615f8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8a7ccdcdbfecb5cccbfcc2cc04f615f8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

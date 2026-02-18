@@ -1,0 +1,222 @@
+{
+  "uuid": "eb187267f16f771d799e167b415d77c6",
+  "sourceCode": "Employer Portal",
+  "title": "Stage Manager",
+  "description": "<p><strong>Job responsibilities :  </strong></p>\n<p> · Assists in the recruitment and selection of performing artistes.  </p>\n<p> · Coordinates practices and rehearsal schedules for all performing artistes.   </p>\n<p> · Monitors and reports the work progress of all performing artistes. </p>\n<p> . Manage the backstage and onstage area during performances. </p>\n<p> · Conducts market research, gathers information on latest trends to improve business prospects.  </p>\n<p> · Plans, designs, and produces solutions while managing all project delivery elements within time limit.  </p>\n<p> · Liaises with customers to identify their needs and to ensure customers’ satisfaction.   </p>\n<p> · Promotes the Company’s business via social media platforms.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Production",
+      "uuid": "282d7de8562d59af6536e2caf1a0f081",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wardrobe",
+      "uuid": "300a0a9cf81955de7ec412fbfc71570e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Concerts",
+      "uuid": "3b972b786de837ea6e1d12e6afef8f84",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Theatre",
+      "uuid": "46abaf0ddcb73d5e90d6a09439713431",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stage Management",
+      "uuid": "a1e15c1374c8e0b0fb85b3f29635b0d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CAD",
+      "uuid": "eccb0954fca9f2005aea084605df5ee9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Singing",
+      "uuid": "eec5503e21c428e650987268e368f0a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "26549",
+  "occupationId": "OCC005080",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 12,
+      "category": "Entertainment"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "0517",
+  "postedCompany": {
+    "uen": "201829941H",
+    "description": null,
+    "name": "DISTRICT 9 HOLDINGS PTE. LTD.",
+    "ssicCode": "93203",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T07:46:34.000Z",
+    "ssicCode2020": "93203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829941H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829941H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829941H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829941H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "442",
+    "street": "ORCHARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ORCHARD HOTEL SINGAPORE",
+    "postalCode": "238879",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30766860940269,
+    "lng": 103.828164396352
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159813",
+    "deletedAt": null,
+    "createdBy": "55474384-b8b9-428b-8070-7a4bb67abeca",
+    "createdAt": "2026-01-26T08:56:19.000Z",
+    "updatedAt": "2026-01-26T08:56:18.000Z",
+    "emailRecipient": "55474384-b8b9-428b-8070-7a4bb67abeca",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 39,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-16",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/entertainment/stage-manager-district-9-holdings-eb187267f16f771d799e167b415d77c6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eb187267f16f771d799e167b415d77c6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eb187267f16f771d799e167b415d77c6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

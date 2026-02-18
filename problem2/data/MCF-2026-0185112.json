@@ -1,0 +1,249 @@
+{
+  "uuid": "2fd930a9180a6afc310b0d01d5a9ef19",
+  "sourceCode": "Employer Portal",
+  "title": "MANAGER",
+  "description": "<h3>Operations Management</h3><ul><li>Oversee day-to-day cleaning operations across assigned sites (commercial, industrial, residential, or public facilities).</li><li>Ensure cleaning services are delivered according to contract specifications, quality standards, and service level agreements (SLAs).</li><li>Plan and deploy manpower efficiently to meet operational requirements.<br /></li><li><p>Conduct routine site inspections and audits to maintain cleanliness, hygiene, and safety standards.</p></li><li><p>Manage work schedules to ensure adequate coverage for all shifts and locations.</p></li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Level",
+      "uuid": "79f05e8f99917560625d1cf3f2d4fc5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 3,
+      "category": "Advertising / Media"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 10,
+      "category": "Education and Training"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202502439N",
+    "description": null,
+    "name": "BEST CLEANING SERVICE PROVIDERS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T17:12:20.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502439N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502439N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502439N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502439N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "77",
+    "street": "HIGH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "HIGH STREET PLAZA",
+    "postalCode": "179433",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 6,
+        "location": "D06 Beach Road, High Street",
+        "region": "East",
+        "sectors": [
+          "17"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29045407468311,
+    "lng": 103.849358869172
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0185112",
+    "deletedAt": null,
+    "createdBy": "69fca69f-f316-44ff-8be8-01af37f4f0f4",
+    "createdAt": "2026-01-29T18:29:30.000Z",
+    "updatedAt": "2026-01-29T18:29:30.000Z",
+    "emailRecipient": "69fca69f-f316-44ff-8be8-01af37f4f0f4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 53,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-20",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/advertising/manager-best-cleaning-service-providers-2fd930a9180a6afc310b0d01d5a9ef19",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2fd930a9180a6afc310b0d01d5a9ef19"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2fd930a9180a6afc310b0d01d5a9ef19/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

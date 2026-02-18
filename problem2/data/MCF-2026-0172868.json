@@ -1,0 +1,200 @@
+{
+  "uuid": "5e721a83eab9d5f92bb89bf4063af71b",
+  "sourceCode": "Employer Portal",
+  "title": "Engineer, Process (Die Prep)",
+  "description": "<p><u><strong>Job Summary</strong></u> </p><p>The <strong>Process Engineer (Die Prep)</strong> is responsible for development and establishment of production process.  <br /></p><p><u><strong>Responsibilities  </strong></u></p><ul><li><p>Establish, review and update specifications, workflow, quality and safety related documentation for Die Prep (Backgrind, Dicing, Laser Grooving, etc) processes within production line.  </p></li></ul><ul><li><p>Troubleshoot process issue and improve process capabilities, yield and cycle time from customer NPI stage to LVM/HVM stage.  </p></li></ul><ul><li><p>Process sustaining and control through SPC and periodic defect Pareto Analysis.  </p></li></ul><ul><li><p>Lead and drive SPC control  </p></li></ul><ul><li><p>Review and maintain FMEA, Control plan, OCAP with cross-functional teams.  </p></li></ul><ul><li><p>Handle and manage customer audits and 8D reports.  </p></li></ul><ul><li><p>Provide disposition for engineering and production lots.  </p></li></ul><ul><li><p>Conduct process characterization and qualification to establish process baseline.  </p></li></ul><ul><li><p>Coordinate and liaise with vendor/suppliers on process issue or quality issue.  </p></li></ul><ul><li><p>Support customer NPI activities and internal engineering activities.  </p></li></ul><ul><li><p>New material, process & machine development and qualification.  </p></li></ul><ul><li><p>Review and accept machine buyoff, setup pilot line process and transfer from pilot to production line <br /></p></li></ul><p><u><strong>Requirements</strong></u></p><ul><li><p>Minimum Degree in Electrical & Electronics, Microelectronics, Mechanical engineering or relevant engineering discipline  </p></li></ul><ul><li><p>Experience in Semiconductor manufacturing industry and working in cleanroom environment  </p></li></ul><ul><li><p>Minimum 3 years hands-on Die Prep process such as Backgrind, Dicing, Laser Grooving within semiconductor / electronics manufacturing industry </p></li></ul><ul><li><p>Experience in SPC, DOE, FEMA, and 8D reports  </p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "FMEA",
+      "uuid": "313b11a9b82d9a829f6ef0ef797aca11",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Characterization",
+      "uuid": "9e5f445ebf003c759747d85d953c4b28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production Line",
+      "uuid": "a722f9035607fc05fc94571b801ab3ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SPC",
+      "uuid": "a9ba851e539886467d4ecfddca93f414",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21415",
+  "occupationId": "OCC003590",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "202117750K",
+    "description": "<p>Silicon Box Pte Ltd is a new startup venture, at the forefront of semiconductors integration, emerging from the new horizon of Chiplets integration trends in the semiconductor industry, driven by the needs of \"dis-integration\", benefits of faster time-to-market and lower cost of new device design.</p>\n<p><br></p>\n<p>We provide services of semiconductor design of Chiplets at the leading edge of semiconductor device integration scheme with the next generation of advanced packaging manufacturing technologies.</p>",
+    "name": "SILICON BOX PTE. LTD.",
+    "ssicCode": "64202",
+    "employeeCount": null,
+    "companyUrl": "https://www.siliconboxinc.com/",
+    "lastSyncDate": "2026-01-30T07:43:12.000Z",
+    "ssicCode2020": "26113",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202117750K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202117750K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202117750K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202117750K/schemes"
+      }
+    },
+    "logoFileName": "d876eb4efbdc2d2931f4c730c9055380/silicon-box.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/d876eb4efbdc2d2931f4c730c9055380/silicon-box.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "TAMPINES INDUSTRIAL AVENUE 3",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "529580",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 18,
+        "location": "D18 Tampines, Pasir Ris",
+        "region": "East",
+        "sectors": [
+          "51",
+          "52"
+        ],
+        "regionId": "East"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172868",
+    "deletedAt": null,
+    "createdBy": "dbd4ff71-4681-405a-a3b0-63887fb0c2e5",
+    "createdAt": "2026-01-28T03:21:35.000Z",
+    "updatedAt": "2026-01-28T03:21:35.000Z",
+    "emailRecipient": "dbd4ff71-4681-405a-a3b0-63887fb0c2e5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/engineer-process-silicon-box-5e721a83eab9d5f92bb89bf4063af71b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5e721a83eab9d5f92bb89bf4063af71b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5e721a83eab9d5f92bb89bf4063af71b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

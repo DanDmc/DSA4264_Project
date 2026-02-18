@@ -1,0 +1,206 @@
+{
+  "uuid": "2b16f03c6a47a4a686198bc995e72d45",
+  "sourceCode": "Employer Portal",
+  "title": "Healthcare Support Worker / Home Personal Care Aide (Flexible)",
+  "description": "<p>This role involves providing <strong>companionship and basic care </strong>to an elderly individual in a home environment. You will engage the senior in meaningful activities, ensure their safety, and assist with daily living tasks. This is a part-time position ideal for candidates with prior caregiving experience seeking flexible work.<br /></p><p>(1) Companionship & Supervision – Spend time interacting with the senior, preventing loneliness and ensuring they stay safe (e.g., prevent fall risks). <br />(2) Assist with Activities of Daily Living – e.g. remind to take medicine, prepare light meals, help with mobility from bed to chair as needed. <br />(3) Engage in Exercises & Activities – lead the senior in simple stretching or hand exercises, and keep their mind active with conversation, simple games, or reminiscing<br /></p><p><em>Prior experience in caregiving or healthcare (e.g. ex-nurse, healthcare assistant, or having cared for an elderly family member) is </em><em><strong>required. </strong></em><em>Basic training in eldercare or certification (like WSQ in caregiving) </em><em><strong>preferred</strong></em>; <em>Must be Singapore Citizen or PR (role is not open to work pass holders)</em>; <em>Fluent in English, able to speak in Chinese, Malay or Dialects is an advantage for client interaction. </em></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Exercise Therapy",
+      "uuid": "13cc7a3c9e473061967d020c77085323",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Empathy",
+      "uuid": "34d8802feb648a414c3cfe0c348e4d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Languages",
+      "uuid": "3a08e2e340ab29fd9263af48193cbf8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stretching",
+      "uuid": "465f18712a580040d26e75e8c92c8646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Caregiving",
+      "uuid": "5d888ea19036f8dde3649548e95f2d50",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "House Keeping",
+      "uuid": "643577b750b08f6f5069d02c1731530c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mobility",
+      "uuid": "7393daff1b0755731b3c165b370c333a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Basic First Aid",
+      "uuid": "818d85768bc9eb0e1b6632d553115edb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Patience",
+      "uuid": "ae1d1ea3807f6f002a10f17c063ea6d0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    },
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    },
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "53201",
+  "occupationId": "OCC013408",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 15,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "45",
+  "ssecFos": "0842",
+  "postedCompany": {
+    "uen": "202515033W",
+    "description": "<p><strong>HealthScape</strong></p><p> is a growing Singapore-based startup offering elderly companionship and home care services uniquely enriched with engaging activities that promote both mental and physical well-being. Committed to helping seniors live actively and independently at home, HealthScape combines compassionate care with expert knowledge to deliver holistic, engaging support for older adults. Professional and trustworthy, the company is driven by a mission to enrich lives and empower aging-in-place, while continuously innovating and expanding its services.</p>",
+    "name": "HEALTHSCAPE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://healthscape.sg/",
+    "lastSyncDate": "2026-02-01T02:50:46.000Z",
+    "ssicCode2020": "86909",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515033W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515033W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515033W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515033W/schemes"
+      }
+    },
+    "logoFileName": "f0659988b8cffb55a4bccabe5a2c0e3f/healthscape.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f0659988b8cffb55a4bccabe5a2c0e3f/healthscape.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183792",
+    "deletedAt": null,
+    "createdBy": "550cb7a6-6b9d-44c4-932c-7afa94f198e5",
+    "createdAt": "2026-01-29T10:09:40.000Z",
+    "updatedAt": "2026-01-29T10:09:40.000Z",
+    "emailRecipient": "550cb7a6-6b9d-44c4-932c-7afa94f198e5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 51,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/healthcare-support-worker-home-personal-care-aide-healthscape-2b16f03c6a47a4a686198bc995e72d45",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2736,
+    "minimum": 1020,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2b16f03c6a47a4a686198bc995e72d45"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2b16f03c6a47a4a686198bc995e72d45/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

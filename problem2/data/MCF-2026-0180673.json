@@ -1,0 +1,198 @@
+{
+  "uuid": "5ab7bcfdd054fe3cbda078355b53a150",
+  "sourceCode": "Employer Portal",
+  "title": "Carpenter",
+  "description": "<p><strong>Company Name:</strong> ALTAF TECHNOLOGIES SERVICES PTE. LTD.<br />\n<strong>Job Title:</strong> Carpenter<br />\n<strong>Industry:</strong> Construction<br />\n<strong>Job Type:</strong> Full-Time</p><p><strong>Job\nDescription / Responsibilities:</strong></p><p>·       \nCarry out construction carpentry works including\nformwork, fixing, and installation</p><p>·       \nMeasure, cut, and assemble wood and other\nmaterials based on drawings and instructions</p><p>·       \nInstall doors, frames, partitions, and other\nwooden structures</p><p>·       \nRepair and maintain existing carpentry\nstructures at construction sites</p><p>·       \nFollow safety regulations and site supervisor\ninstructions</p><p>·       \nEnsure work quality meets project and site\nrequirements</p><p><strong>Requirements:</strong></p><p>·       \nMinimum <strong>3\nyears of relevant experience</strong> as a construction carpenter</p><p>·       \nExperience working on construction sites</p><p>·       \nKnowledge of carpentry tools, equipment, and\nmaterials</p><p>·       \nAble to work independently and as part of a team</p><p>·       \nPhysically fit for construction work</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Woodworking",
+      "uuid": "7a74ac23c4bd8b809fe9ac43fb001da2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "71151",
+  "occupationId": "OCC014796",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "42",
+  "ssecFos": "1129",
+  "postedCompany": {
+    "uen": "202510157Z",
+    "description": null,
+    "name": "ALTAF TECHNOLOGIES SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-01T13:22:34.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510157Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510157Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510157Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510157Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180673",
+    "deletedAt": null,
+    "createdBy": "7a25745c-8379-445f-a89f-4f3148038144",
+    "createdAt": "2026-01-29T04:28:33.000Z",
+    "updatedAt": "2026-01-29T04:28:33.000Z",
+    "emailRecipient": "7a25745c-8379-445f-a89f-4f3148038144",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 25,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/carpenter-altaf-technologies-services-5ab7bcfdd054fe3cbda078355b53a150",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4900,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5ab7bcfdd054fe3cbda078355b53a150"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5ab7bcfdd054fe3cbda078355b53a150/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

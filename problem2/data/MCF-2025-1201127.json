@@ -1,0 +1,201 @@
+{
+  "uuid": "5823ca5dea7be609d9660b65b5fd0385",
+  "sourceCode": "Employer Portal",
+  "title": "Operations Manager",
+  "description": "<p><strong>Key Responsibilities:</strong></p><p>Provide technical support and able to troubleshoot breakdowns</p><p>Review and/or undertake preventive and corrective maintenance</p><p>Liaise closely with client representatives on all service/maintenance related issues</p><p>Attend to emergency calls during office hours and standby duties after office hours</p><p>Respond quickly if any technical faults, power trip, aircon breakdown, water leaking even at nights</p><p>Ensure that works carried out are in compliance with the Workplace Safety and Health Act.</p><p>Perform any other technical tasks when required</p><p>Able to work night shifts, including Weekends and Public holidays if necessary.</p><p><strong>Job requirements:</strong></p><p>GCE ‘O’ level and above</p><p>Minimum 2 years of relevant technical experience</p><p>Good interpersonal and problem solving skills</p><p>Independent, self-motivated individual whom is able to work under minimum supervision</p><p>Interested candidates who wish to apply for the advertised position, please click on “Apply Now”.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Corrective Maintenance",
+      "uuid": "b3d1b0b3dec7819721c72cbe33b93f42",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13230",
+  "occupationId": "OCC000477",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202041358M",
+    "description": null,
+    "name": "A J S  WERKZ PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T09:21:49.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041358M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041358M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041358M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041358M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "128",
+    "street": "TUAS SOUTH AVENUE 3",
+    "floor": null,
+    "unit": null,
+    "building": "JTC SPACE @ TUAS BIOMEDICAL PARK",
+    "postalCode": "637370",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.28909462639001,
+    "lng": 103.626524577555
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1201127",
+    "deletedAt": "2025-08-27T17:15:04.000Z",
+    "createdBy": "c22902df-8422-4d35-bd4f-a97d44687053",
+    "createdAt": "2025-08-13T09:42:50.000Z",
+    "updatedAt": "2026-01-27T09:32:40.000Z",
+    "emailRecipient": "c22902df-8422-4d35-bd4f-a97d44687053",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 131,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-08-13",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/operations-manager-j-s-werkz-5823ca5dea7be609d9660b65b5fd0385",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5823ca5dea7be609d9660b65b5fd0385"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5823ca5dea7be609d9660b65b5fd0385/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

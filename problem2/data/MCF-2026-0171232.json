@@ -1,0 +1,230 @@
+{
+  "uuid": "cebf8109a6fbd7044af97db6533efe67",
+  "sourceCode": "Employer Portal",
+  "title": "Chef De Partie",
+  "description": "<p>New F&B setup looking for passionate chefs who want to learn how to manage and grow in the industry.<br /><br />Located in the CBD, easily accessible by MRT stations such as Telok Ayer, Raffles Place, Shenton Way and Tanjong Pagar.<br /><br />5 Day Work Week Mondays to Fridays<br /></p><p>7-4pm Daily.<br /></p><p>Performance based incentive monthly and profit sharing for those who perform beyond expectations.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Catering",
+      "uuid": "e5f6696fe35a80686e78bd72bd59ca17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pastry",
+      "uuid": "e8c3f5ae850a71c6d443395839ffe9ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC059909",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "64",
+  "ssecFos": "1321",
+  "postedCompany": {
+    "uen": "53513072D",
+    "description": null,
+    "name": "SIMPLE DINING CONCEPTS",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T03:41:03.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513072D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513072D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513072D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513072D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "138",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "OXLEY TOWER",
+    "postalCode": "068906",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27870619224366,
+    "lng": 103.848419069277
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171232",
+    "deletedAt": null,
+    "createdBy": "a3f63e90-ee1e-47ba-9a0d-90fecf2d6f51",
+    "createdAt": "2026-01-28T01:39:22.000Z",
+    "updatedAt": "2026-01-28T01:39:23.000Z",
+    "emailRecipient": "a3f63e90-ee1e-47ba-9a0d-90fecf2d6f51",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 39,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-simple-dining-concepts-cebf8109a6fbd7044af97db6533efe67",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cebf8109a6fbd7044af97db6533efe67"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cebf8109a6fbd7044af97db6533efe67/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

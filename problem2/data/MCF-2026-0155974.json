@@ -1,0 +1,201 @@
+{
+  "uuid": "f34947e3211050ce06063de94599218b",
+  "sourceCode": "Employer Portal",
+  "title": "CONSTRUCTION FOREMAN",
+  "description": "<p>Job Description & Requirements</p><ul><li>Supervise workers on site</li><li>Plan and assign daily work</li><li>Ensure work is done safely and on time</li><li>Check quality of work</li><li>Coordinate with supervisors and engineers</li><li>Report site progress and problems</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Team Worker",
+      "uuid": "0bd5d31a0fcc6a30e9d34568fa29167d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Work",
+      "uuid": "e40d1210d4bc1ec33845372c06d29971",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71000",
+  "occupationId": "OCC060097",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200606763H",
+    "description": "<p>Accenovate Engineering (AE) is a regional leading and experienced IT Service company. Leveraging its industry partners &amp; knowledge, quality service offerings and access to emerging technologies, AE delivers total cost-effective, fully customizable and business performance enhancement solutions designed to meet the specific needs of small and mid-sized companies. It includes integrated functionality for financial management, supply chain collaboration, CRM, retail management and e-commerce.</p>",
+    "name": "ACCENOVATE ENGINEERING PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T13:48:05.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606763H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606763H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606763H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606763H/schemes"
+      }
+    },
+    "logoFileName": "8d955df1101c342f20dc775d6af5e3dc/accenovate-engineering.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8d955df1101c342f20dc775d6af5e3dc/accenovate-engineering.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "KIAN TECK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "628876",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.3331730488528,
+    "lng": 103.691941979281
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155974",
+    "deletedAt": null,
+    "createdBy": "1013fb2a-8b3f-486d-850f-d4de686aba9a",
+    "createdAt": "2026-01-26T02:36:46.000Z",
+    "updatedAt": "2026-01-26T02:36:46.000Z",
+    "emailRecipient": "1013fb2a-8b3f-486d-850f-d4de686aba9a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 48,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-foreman-accenovate-engineering-f34947e3211050ce06063de94599218b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f34947e3211050ce06063de94599218b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f34947e3211050ce06063de94599218b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

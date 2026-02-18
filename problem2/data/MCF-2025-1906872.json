@@ -1,0 +1,229 @@
+{
+  "uuid": "f103f8e39b9049c2d8bdab92d449ff93",
+  "sourceCode": "Employer Portal",
+  "title": "Fullstack Engineer",
+  "description": "<p><u><strong>Job Description:</strong></u></p><p>• Design, develop, and maintain scalable web applications using .NET (C#) for backend and React.js for frontend. </p><p>• Collaborate with product managers, designers, and engineers to build high-quality features. </p><p>• Write clean, efficient, and well-documented code following best practices. </p><p>• Participate in system architecture design, code reviews, and performance optimization. </p><p>• Troubleshoot, debug, and resolve technical issues across the full stack. </p><p>• Ensure application security, scalability, and responsiveness</p><p><u><strong>Job Requirements:</strong></u></p><p>• Bachelor’s degree in Computer Science, Engineering, or related field.</p><p>• 3–6 years of experience in fullstack development.</p><p>• Strong proficiency in .NET (C#) for backend development, including RESTful APIs.</p><p>• Solid experience with React.js and frontend development (JavaScript, TypeScript, HTML, CSS).</p><p>• Experience with relational databases (e.g., SQL Server, PostgreSQL).</p><p>• Familiarity with cloud platforms (Azure or AWS) is a plus.</p><p>• Strong problem-solving and debugging skills.</p><p>• Can work onsite in Singapore.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Application Security",
+      "uuid": "2993e06f9e34b9da0ed41173d7d56a4a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET",
+      "uuid": "303cb0ef9edb9082d61bbbe5825d972a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML",
+      "uuid": "4c4ad5fca2e7a3f74dbb1ced00381aa4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TypeScript",
+      "uuid": "558b544cf685f39d34e4903e39c38b67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architecture Design",
+      "uuid": "ae64194051878ec826a5a24ebf799d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Applications",
+      "uuid": "c93aadf0c53f10fa9715606886defad9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Development",
+      "uuid": "fc05f27a44bc4ce1eea2ac8ca10706de",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201823033H",
+    "description": "<p>Base Camp Digital, founded in Singapore in 2018 (formerly Ploy Asia), is a leading IT Solutions and Delivery company operating across Asia, with offices in Singapore, Hong Kong, Malaysia, and Thailand.&nbsp;</p>\n<p><br>\nWe provide targeted expertise for successful project outcomes tailored to modern technological demands.</p>\n<p><br>\nOur core delivery expertise focuses on high-growth areas:<br>\nEnterprise Software Implementation: Delivery and support for major ERP/CRM systems, including deep platform expertise in:<br>\nSAP, Salesforce, Oracle, Workday, Pega, Microsoft, and ServiceNow.<br>\nBespoke Software Development: Custom application development using key technologies like Java, .NET, and open-source stacks. Inluding Software Testing Manual and Automation.<br>\nData, Analytics, and AI: Services spanning Data Engineering, Data Analysis, and advanced Artificial Intelligence (AI) solutions (Machine Learning, Computer Vision, LLMs).<br>\nInfrastructure Services: Full-range support, from basic desktop to complex Data Centre management.</p>",
+    "name": "BASE CAMP DIGITAL PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": 20,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:04:00.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823033H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823033H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823033H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823033H/schemes"
+      }
+    },
+    "logoFileName": "4ef1a6b855ed0975b2ed645c65ee2fc1/base-camp-digital.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4ef1a6b855ed0975b2ed645c65ee2fc1/base-camp-digital.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1906872",
+    "deletedAt": "2026-01-06T03:11:31.000Z",
+    "createdBy": "1a48fd00-255f-4588-a630-10cd7eb31ce2",
+    "createdAt": "2025-12-12T02:05:48.000Z",
+    "updatedAt": "2026-01-29T02:00:43.000Z",
+    "emailRecipient": "1a48fd00-255f-4588-a630-10cd7eb31ce2",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 221,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-12",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 16,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/fullstack-engineer-base-camp-digital-f103f8e39b9049c2d8bdab92d449ff93",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f103f8e39b9049c2d8bdab92d449ff93"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f103f8e39b9049c2d8bdab92d449ff93/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

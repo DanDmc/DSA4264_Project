@@ -1,0 +1,229 @@
+{
+  "uuid": "9a3b5a5a6659b6aead50fb7229565a0e",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Full Stack Developer",
+  "description": "<p><strong>Job Summary:</strong></p><p>We are seeking a talented and highly motivated <strong>Senior Full Stack Developer to join our Custom Development Team.</strong> You will conform to high standards of code and design, working in a cutting-edge, agile, and professionally challenging environment.<br /></p><p><strong>Key Responsibilities:</strong></p><ul><li>      Own end-to-end delivery including testing and bug fixing</li><li>      Participate in architecture and system design activities</li><li>     Be deeply hands-on in code and follow software development best practice</li><li>     Work   in an Agile environment (using SCRUM)</li></ul><p><strong>Requirements:</strong></p><p>·       At least 5 years of experience as a Full-Stack developer</p><p>·       At least 3 years of experience with Back-End development</p><p>·       At least 3 years of experience as a Front-End developer</p><p>·      Strong experience with one Object-oriented backend ecosystem <strong>(.Net8, Java/Spring, C++…)</strong></p><p>·      Proficiency in front-end development using <strong>Typescript (React,Vue, or Angular)</strong></p><p>·       Experience with<strong> Agentic AI concepts and tech is a strong advantage</strong></p><p>·       Experience in working with/fora lab or an innovation group is an advantage</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kotlin",
+      "uuid": "539a3a5859d24fb7b129e74d61f09ffa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TypeScript",
+      "uuid": "558b544cf685f39d34e4903e39c38b67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Scrum",
+      "uuid": "be920448a70da302cac814cb02aff9c1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Angular",
+      "uuid": "c31c335ef37283c451b18ba0dd317de1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002123",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202219450D",
+    "description": null,
+    "name": "TALENTA CONSULTANTS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:01:11.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202219450D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202219450D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202219450D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202219450D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172656",
+    "deletedAt": null,
+    "createdBy": "b9c76483-73b5-4a20-8604-c0aa53bacb68",
+    "createdAt": "2026-01-28T03:05:24.000Z",
+    "updatedAt": "2026-01-28T03:05:24.000Z",
+    "emailRecipient": "b9c76483-73b5-4a20-8604-c0aa53bacb68",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 49,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-full-stack-developer-talenta-consultants-9a3b5a5a6659b6aead50fb7229565a0e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a3b5a5a6659b6aead50fb7229565a0e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a3b5a5a6659b6aead50fb7229565a0e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,246 @@
+{
+  "uuid": "702a6d1fcbb84924a69b424b355af7c5",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Manager",
+  "description": "<p>·        \nDevelop and execute sales strategies to grow\nbusiness in marine engineering, ship repair, and offshore sectors.</p><p>·        \nIdentify new clients, projects, and business\nopportunities within the marine industry.</p><p>·        \nHandle the full sales cycle—from lead\ngeneration, enquiry handling, proposal submission, to deal closure.</p><p>·        \nBuild and maintain strong relationships with\nshipowners, shipyards, managers, and marine contractors.</p><p>·        \nConduct client meetings, vessel visits, and\npresentations to understand technical requirements.</p><p>·        \nCoordinate with engineering and operations teams\nto prepare quotations, costings, and scope of work.</p><p>·        \nReview RFQs and ensure accurate pricing,\ntimelines, and technical compliance.</p><p>·        \nFollow up on ongoing quotations, negotiate\nterms, and secure contracts.</p><p>·        \nMonitor project execution to ensure client\nsatisfaction and timely delivery.</p><p>·        \nTrack sales performance, prepare monthly\nreports, and update management on progress.</p><p>·        \nParticipate in marine exhibitions, trade shows,\nand industry networking events.</p><p>·        \nPromote company services and capabilities\nthrough presentations and marketing materials.</p><p>·        \nSupport timely invoice submission and follow up\nfor payment collection.</p><p>·        \nAchieve sales targets and contribute to company\nrevenue growth.</p><p>·        \nMaintain CRM records, client databases, and\nsales documentation.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trade Shows",
+      "uuid": "02d60473e5ce45c61d329b5f004924c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lead Generation",
+      "uuid": "063210a5a1434ad61b6bb343e20ddb36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Channel",
+      "uuid": "781dc97dc62331eec3ea9ec4373a3ca8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Process",
+      "uuid": "7e10720fb56494b0e75eb221ed88be3e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Exhibitions",
+      "uuid": "80c83028af7e6502e06dc2b1ced51ad0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marine Engineering",
+      "uuid": "899576217b1a6eb6234db50c15903f6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presentation Skills",
+      "uuid": "c2a974ed87a951bb16ce092a5ea5071f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Industry Networking",
+      "uuid": "e9b7862755996e532e22eb208870a255",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "12211",
+  "occupationId": "OCC000657",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "201430308D",
+    "description": "<p>MR MARINE PTE. LTD.</p>",
+    "name": "STARK MARINE PTE. LTD.",
+    "ssicCode": "30110",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:31:32.000Z",
+    "ssicCode2020": "30110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "TUAS SOUTH STREET 3",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "638028",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.30394472540547,
+    "lng": 103.628516425847
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1886943",
+    "deletedAt": "2026-01-08T17:15:04.000Z",
+    "createdBy": "64e5115d-745a-4128-b085-80003d63163a",
+    "createdAt": "2025-12-09T04:20:54.000Z",
+    "updatedAt": "2026-01-27T08:32:16.000Z",
+    "emailRecipient": "64e5115d-745a-4128-b085-80003d63163a",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 277,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-09",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/sales-manager-stark-marine-702a6d1fcbb84924a69b424b355af7c5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7400,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/702a6d1fcbb84924a69b424b355af7c5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/702a6d1fcbb84924a69b424b355af7c5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

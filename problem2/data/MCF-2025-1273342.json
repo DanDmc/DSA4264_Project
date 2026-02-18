@@ -1,0 +1,216 @@
+{
+  "uuid": "5425a06c18a404bbe627079a4ee7bbdb",
+  "sourceCode": "Employer Portal",
+  "title": "PROJECT MANAGER - ELECTRICAL",
+  "description": "<ul>\n  <li>Lead and manage a team of supervisors, technicians, subcontractors, and vendors to deliver projects on time and within scope.</li>\n  <li>Oversee the preparation, review, and submission of shop drawings, as-built drawings, and material take-offs.</li>\n  <li>Coordinate and monitor site activities, proactively resolve technical and operational issues, and represent the company in meetings with contractors and stakeholders.</li>\n  <li>Track project progress, ensure quality standards are met, and manage material usage to align with project requirements and schedules.</li>\n  <li>Enforce strict compliance with workplace safety, health, and environmental regulations on-site.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n  <li>Diploma in Electrical Engineering or equivalent qualification.</li>\n  <li>Minimum 8 years of proven project management experience in electrical works within construction projects.</li>\n  <li>Strong knowledge of MEP design and coordination.</li>\n  <li>Excellent leadership, problem-solving, and communication skills.</li>\n</ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Asbuilt Drawings",
+      "uuid": "2bedb45f6365eb14b8cfbe272ccc7409",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "MEP Design",
+      "uuid": "acd13dd67796cac5d5ba7cdbd6baea47",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Takeoffs",
+      "uuid": "b6f83e8b58aa257ff65716e27618f0ad",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "13230",
+  "occupationId": "OCC060101",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1132",
+  "postedCompany": {
+    "uen": "200301596W",
+    "description": null,
+    "name": "ELTRON ELECTRICAL ENGINEERING PTE. LTD.",
+    "ssicCode": "43210",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T08:55:47.000Z",
+    "ssicCode2020": "43210",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301596W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301596W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301596W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301596W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1273342",
+    "deletedAt": "2025-09-25T17:15:04.000Z",
+    "createdBy": "878871d0-7c93-431d-bf6f-3553bd124e99",
+    "createdAt": "2025-08-26T06:10:29.000Z",
+    "updatedAt": "2026-01-30T08:56:14.000Z",
+    "emailRecipient": "878871d0-7c93-431d-bf6f-3553bd124e99",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 150,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-08-26",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-manager-electrical-eltron-electrical-engineering-5425a06c18a404bbe627079a4ee7bbdb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5425a06c18a404bbe627079a4ee7bbdb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5425a06c18a404bbe627079a4ee7bbdb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

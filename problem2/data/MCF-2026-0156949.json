@@ -1,0 +1,245 @@
+{
+  "uuid": "6ddbf7cd7d40bf213d3c1a16d9ddc448",
+  "sourceCode": "Employer Portal",
+  "title": "Salesforce/CloudSense Lead",
+  "description": "<p>We are partnering with a leading telecom client to hire a Salesforce / CloudSense Lead to drive large-scale digital transformation across CRM and Order Management platforms. You will lead the design and delivery of Salesforce and CloudSense solutions, ensuring high-quality, scalable systems that support complex enterprise sales and order journeys.<br /></p><p>Responsibilities:</p><ul><li>Lead end-to-end solution delivery across the SDLC – from requirements to production.Own technical design and delivery for Salesforce and CloudSense implementations.</li><li>Drive product modelling, pricing, and order orchestration using CloudSense CPQ.</li><li>Define and enforce DevOps standards including CI/CD, automation, and testing.Partner with business, IT, and vendors to deliver enterprise-grade CRM and OM solutions.</li><li>Ensure system stability, performance, security, and continuous improvement.</li><li>Troubleshoot issues across sandbox, staging, and production environments.</li><li>Mentor engineers and provide strong technical leadership.</li></ul><p>Requirements:</p><ul><li>8+ years of experience in Salesforce architecture, development, and integration.</li><li>Strong expertise in CloudSense CPQ (product modelling, pricing, orchestration).</li><li>Hands-on with Sales Cloud, Service Cloud, Community Cloud, Apex, LWC, Visualforce.</li><li>Experience with DevOps on Salesforce (CI/CD, version control, automation).</li><li>Strong knowledge of APIs, integrations, and microservices.</li><li>Excellent stakeholder communication and leadership skills.</li><li>Salesforce and/or CloudSense certifications are a strong advantage.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Digital Transformation",
+      "uuid": "0004bc07edb448bc60ced6bdd342725c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mentoring",
+      "uuid": "089011f59ea2749a842c1cb289c52c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Management",
+      "uuid": "568483e9bd85504f3c9dcef24ecd3235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SDLC",
+      "uuid": "6fb20c4016a1efc028fcb5c917a1a9b5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technology Solutions",
+      "uuid": "77de05e0732202c33d5c51be1408b8db",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Staging",
+      "uuid": "830f78e090fe8aec00891405dfc14824",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "B2B",
+      "uuid": "91e32a5fc05beb6db7bf9cd75b53e586",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Management",
+      "uuid": "92726ab5faeb2cb9208eaac9af0346bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visual Force",
+      "uuid": "948cad08a2f5c28e31938f57b18fec7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Applications",
+      "uuid": "c93aadf0c53f10fa9715606886defad9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Silicon",
+      "uuid": "ec47388b272f906a796414eaf6ea8563",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Design",
+      "uuid": "fe3b5ad50e8df6891da952d0ecb67c59",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "25140",
+  "occupationId": "OCC002156",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "202329526G",
+    "description": null,
+    "name": "CYGNIFY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:55:32.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "PAYA LEBAR ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA LEBAR SQUARE",
+    "postalCode": "409051",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31881487007652,
+    "lng": 103.892580778514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156949",
+    "deletedAt": null,
+    "createdBy": "e0174bfc-8989-4975-b547-82894e6d05bf",
+    "createdAt": "2026-01-26T03:47:09.000Z",
+    "updatedAt": "2026-01-26T03:47:10.000Z",
+    "emailRecipient": "e0174bfc-8989-4975-b547-82894e6d05bf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 67,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/salesforcecloudsense-lead-cygnify-6ddbf7cd7d40bf213d3c1a16d9ddc448",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10500,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6ddbf7cd7d40bf213d3c1a16d9ddc448"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6ddbf7cd7d40bf213d3c1a16d9ddc448/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

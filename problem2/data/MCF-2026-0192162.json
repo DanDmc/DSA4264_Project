@@ -1,0 +1,232 @@
+{
+  "uuid": "993e64db7f63bd803943165f994f6f14",
+  "sourceCode": "Employer Portal",
+  "title": "Insurance Broker",
+  "description": "<p><strong>Key Responsibilities & Duties</strong></p><ul><li><strong>Risk Assessment:</strong> Analyze client needs, assets, and liabilities to determine appropriate coverage.</li><li><strong>Advisory Role:</strong> Offer expert advice on, and, recommend suitable insurance products (life, business, health) to clients.</li><li><strong>Negotiation & Placement:</strong> Liaise with insurance companies to secure the best policy terms and competitive premiums.</li><li><strong>Policy Management:</strong> Manage the full client lifecycle, including renewals, amendments, and documentation.</li><li><strong>Claims Handling:</strong> Assist clients with the entire claims process, including filing and follow-up.</li><li><strong>Relationship Management:</strong> Build and maintain long-term relationships with clients and insurers.</li><li><strong>Compliance:</strong> Ensure all activities comply with regulatory requirements and industry standards. </li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reinsurance",
+      "uuid": "42b5fcf27538403e96bf1c4926508231",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property",
+      "uuid": "5ad234cb2cde4266195252a23ca7d84e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Employee Benefits",
+      "uuid": "9e23d58f2e7177230e2443f8418abb86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Advisory",
+      "uuid": "a0e2f0908e5dc467ff6b73d22ffac2d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "General Insurance",
+      "uuid": "a7603d9247fdf6b1331c59140f4d9b88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Problem Solving",
+      "uuid": "b09bc18ab09b3ac0a27131f58479591f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "uuid": "d4df0f19b94b428d347bbf56d9d5a4c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Health Insurance",
+      "uuid": "d99703a7a37fff83d707211b81952e6e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 22,
+      "category": "Insurance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "53502130E",
+    "description": null,
+    "name": "J.S.F",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:39:21.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "VICTORIA WHOLESALE CENTRE",
+    "postalCode": "339508",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31120876952715,
+    "lng": 103.867482955196
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192162",
+    "deletedAt": null,
+    "createdBy": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "createdAt": "2026-01-30T19:28:50.000Z",
+    "updatedAt": "2026-01-30T19:28:50.000Z",
+    "emailRecipient": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/insurance-broker-jsf-993e64db7f63bd803943165f994f6f14",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/993e64db7f63bd803943165f994f6f14"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/993e64db7f63bd803943165f994f6f14/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

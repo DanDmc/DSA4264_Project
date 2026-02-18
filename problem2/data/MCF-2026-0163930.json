@@ -1,0 +1,223 @@
+{
+  "uuid": "7c88e4cd3462f3741e96ee6c9322e80d",
+  "sourceCode": "Employer Portal",
+  "title": "Golf Caddie",
+  "description": "<p><strong>Job Summary</strong></p><p>MaxGolf is seeking enthusiastic part-time Golf Caddies who can play golf and guide customers in our indoor golf simulator environment. This role is ideal for golf lovers who enjoy helping others learn and improve their game.</p><p><strong>Responsibilities</strong></p><ul><li>Assist customers during their golf sessions to ensure smooth and enjoyable play</li><li>Teach basic golf techniques to beginners to help them develop foundational skills</li><li>Explain and demonstrate how to use the golf simulator to ensure customers can operate it confidently</li><li>Provide clear and friendly guidance to help customers improve their golf experience</li><li>Maintain a positive and welcoming environment for all customers</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Prior coaching experience to enhance customer instruction and support</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Golf Clubs",
+      "uuid": "420de21731c480213562ad44c2af59d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Golf",
+      "uuid": "690c3b1042564741e15a5ce503979172",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Golf Courses",
+      "uuid": "8418fbb125bda2ab2f1d480a0705db49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Golf Management",
+      "uuid": "dea2ff484a0a112d2c9bccb37990e509",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Golf Instruction",
+      "uuid": "eb0f1cf91ae4aeba784c1c4b967dcb34",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "96255",
+  "occupationId": "OCC013431",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200403550W",
+    "description": null,
+    "name": "GENESIS FORBES HUMAN CAPITAL MANAGEMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T09:27:57.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202538535W",
+    "description": null,
+    "name": "MAXGOLF PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:15:50.000Z",
+    "ssicCode2020": "47630",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4A",
+    "street": "HAJI LANE",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "189197",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30041489877226,
+    "lng": 103.85945714456
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163930",
+    "deletedAt": null,
+    "createdBy": "31639fb9-2c2f-48a6-a442-fff49cb6acb9",
+    "createdAt": "2026-01-27T02:24:13.000Z",
+    "updatedAt": "2026-01-27T02:24:13.000Z",
+    "emailRecipient": "31639fb9-2c2f-48a6-a442-fff49cb6acb9",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 62,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/golf-caddie-maxgolf-7c88e4cd3462f3741e96ee6c9322e80d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15,
+    "minimum": 12,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7c88e4cd3462f3741e96ee6c9322e80d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7c88e4cd3462f3741e96ee6c9322e80d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

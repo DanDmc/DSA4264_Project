@@ -1,0 +1,211 @@
+{
+  "uuid": "534b936f8849c358a537d2ca20f5f160",
+  "sourceCode": "Employer Portal",
+  "title": "General Insurance (GI) Sales Executive",
+  "description": "<p>Are you a <strong>driven and customer-focused individual</strong> looking for a rewarding career in the insurance industry? Join our dynamic team as a <strong>General Insurance Sales Executive</strong> and help clients secure their future with the right protection!</p><h3><strong>🔹 Job Responsibilities:</strong></h3><p>✅ <strong>Provide Insurance Solutions</strong> – Advise clients on general insurance products (e.g., motor, home, travel, health, and commercial insurance).<br />✅ <strong>Assess Client Needs</strong> – Understand customer requirements and recommend suitable coverage options.<br />✅ <strong>Sales & Business Development</strong> – Build and maintain relationships with new and existing clients.<br />✅ <strong>Claims Assistance</strong> – Guide clients through the claims process and ensure smooth settlements.<br />✅ <strong>Stay Updated</strong> – Keep up with industry trends, new insurance policies, and regulatory changes.</p><h3><strong>🔹 What We Offer:</strong></h3><p>✨ <strong>Attractive commissions & incentives</strong><br />✨ <strong>Flexible working hours</strong> – Work-life balance and control over your schedule.<br />✨ <strong>Training & support</strong> – Guidance from company and ongoing industry training.<br />✨ <strong>Career growth opportunities</strong> – Build a long-term career with leadership potential.</p><p>🎯 <strong>Join us and make a difference in people’s lives while building a successful career!</strong></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Wealth Management",
+      "uuid": "0350adf5a520e4a3c2d820a482451857",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customerfocused",
+      "uuid": "943c63003914b848662a1268e56c19ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "General Insurance",
+      "uuid": "a7603d9247fdf6b1331c59140f4d9b88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presentation Skills",
+      "uuid": "c2a974ed87a951bb16ce092a5ea5071f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commercial Insurance",
+      "uuid": "ee57178e541eb9aeaaa054ff089bec0a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33229",
+  "occupationId": "OCC061860",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0549",
+  "postedCompany": {
+    "uen": "202426171M",
+    "description": null,
+    "name": "LUMI GI PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T00:10:34.000Z",
+    "ssicCode2020": "65124",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202426171M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202426171M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202426171M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202426171M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7500A",
+    "street": "BEACH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "THE PLAZA",
+    "postalCode": "199591",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.299794303533,
+    "lng": 103.86073230087
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0185449",
+    "deletedAt": null,
+    "createdBy": "c039c653-2fe1-41d3-a27d-6adfe0fed108",
+    "createdAt": "2026-01-29T23:51:28.000Z",
+    "updatedAt": "2026-01-29T23:51:27.000Z",
+    "emailRecipient": "c039c653-2fe1-41d3-a27d-6adfe0fed108",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/general-insurance-sales-executive-lumi-gi-534b936f8849c358a537d2ca20f5f160",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 1000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/534b936f8849c358a537d2ca20f5f160"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/534b936f8849c358a537d2ca20f5f160/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

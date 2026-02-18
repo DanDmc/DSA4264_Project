@@ -1,0 +1,206 @@
+{
+  "uuid": "22a9b4454f2fcdd3410fb8eb76ee0b3b",
+  "sourceCode": "Employer Portal",
+  "title": "Salesforce Developer",
+  "description": "<p>We require Salesforce developers for a Salesforce-based large-scale CRM implementation project (that will have both agile development and maintenance scope of work)</p><p><strong> Technical Requirements:</strong></p><ul><li>Proficiency in Salesforce development (Apex, Visualforce, Lightning Components)</li><li>Experience with Salesforce configuration and customisation</li><li>Experience with Salesforce Public Sector Solution and Education Cloud.</li><li>Knowledge of Salesforce integrations and APIs</li><li>Salesforce Platform Developer/ admin certification</li><li>Familiar with agile development</li><li>Candidates with good Service Cloud experience and Education Cloud can be considered too.</li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li>Min 6 years of Salesforce development experience,  with at least 1 year of Public Sector Solution and Education Cloud experience.</li><li>At least 3 years of agile development experience</li></ul><p></p>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Services",
+      "uuid": "2c10282d2a9ce8be1576d7af8091d09e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salesforce",
+      "uuid": "4a6dbb2ff650f82af801f71c3efd72c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Public Sector",
+      "uuid": "58dc662b3793287ac147617a55eee2f5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visual Force",
+      "uuid": "948cad08a2f5c28e31938f57b18fec7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salesforce Administrator",
+      "uuid": "d6551c617c5ff454fb56dbf5b005077b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualforce",
+      "uuid": "ec04a20c4d308665c19387a834fa41b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Development",
+      "uuid": "fc05f27a44bc4ce1eea2ac8ca10706de",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC014584",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201623696W",
+    "description": "<p>YM GLOBAL TECHNOLOGIES PTE. LTD.&nbsp;</p>\n<p><br></p>\n<p>YM Global is a Singapore based IT technology services and outsourcing company.</p>",
+    "name": "YM GLOBAL TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "www.ymgit.com",
+    "lastSyncDate": "2026-02-04T03:06:34.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/schemes"
+      }
+    },
+    "logoFileName": "7ebbd753cae65d8dbd441759c4cc340b/ym-global-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7ebbd753cae65d8dbd441759c4cc340b/ym-global-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "MARINA BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA BAY FINANCIAL CENTRE",
+    "postalCode": "018982",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27901700601654,
+    "lng": 103.854464808366
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183907",
+    "deletedAt": null,
+    "createdBy": "2a7b50f5-7b76-438f-b7fc-a03672dacf27",
+    "createdAt": "2026-01-29T10:21:30.000Z",
+    "updatedAt": "2026-01-29T10:21:30.000Z",
+    "emailRecipient": "2a7b50f5-7b76-438f-b7fc-a03672dacf27",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 49,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/salesforce-developer-ym-global-technologies-22a9b4454f2fcdd3410fb8eb76ee0b3b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 6500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/22a9b4454f2fcdd3410fb8eb76ee0b3b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/22a9b4454f2fcdd3410fb8eb76ee0b3b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

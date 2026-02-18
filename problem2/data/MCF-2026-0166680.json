@@ -1,0 +1,218 @@
+{
+  "uuid": "222677ece3ffd7df6e706ba1fb54bd6b",
+  "sourceCode": "Employer Portal",
+  "title": "Support Staff",
+  "description": "<p>Job Scope 工作范围</p>\n<p>1) Keep Centre Facility Clean and Disinfected at All Times 时时保持幼儿园清洁和消毒</p>\n<p>2) Washing &amp; Disinfect All Equipments and Learning Materials 清洗和消毒所有幼儿园的设备和教材</p>\n<p>3) Assist Other Teachers Whenever Needed协助老师和同事们保持课室的卫生</p>\n<p>All other Works Assigned by Supervisor in Helping Out When Required主管指派的所有其他工作在必要时帮助。</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "uuid": "0647f0776aed243f58bfec4dd81de863",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Childcare",
+      "uuid": "08370cd014507701d18597aa6e29050d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SOAP",
+      "uuid": "4de91f0fcb9cd3a20b6b1d64610a0a3d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Children",
+      "uuid": "64e4aca4297806247f62a7b5f8cbd3df",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "care for the children",
+      "uuid": "e2dfb5985a636b200c6ddd85d0ce61da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Working with Children",
+      "uuid": "f82f7906656a3a530adad463cd01708a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "53113",
+  "occupationId": "OCC059952",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200817433H",
+    "description": "<p>About IChild Company<br />\n<br />\nSince 2008, IChild Company Ltd is a Professional EduTalents Consultant firm representing 500 over preschool / educational employers in Singapore, sourcing and advising them on their local / foreign talents needs. <br />\n<br />\nFocus on serving the educational industry, in particularly the Peschool and Pre-Primary sector. we are also an EduTech company, offering a wide range of emerging services to the educational clients so as to serve them holistically and most importantly, knowing their requirements well. The following are some of the services that we provides:<br />\n<br />\n- Info-Tech Solution Services such as the Centre ERP Management System<br />\n- Overseas Business Consultancy<br />\n- Talent Acquisition Consultancy.</p>\n\n<p> </p>\n",
+    "name": "ICHILD COMPANY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:06:33.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817433H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817433H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817433H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817433H/schemes"
+      }
+    },
+    "logoFileName": "0dca9ecc3f385bb843e2677300a77a34/ichild-company.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/0dca9ecc3f385bb843e2677300a77a34/ichild-company.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "202327948Z",
+    "description": null,
+    "name": "WONDERLAND INNOVATIONS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:11:01.000Z",
+    "ssicCode2020": "88911",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202327948Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202327948Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202327948Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202327948Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166680",
+    "deletedAt": null,
+    "createdBy": "fd3b2a8a-6455-44ed-9ddd-91d328519412",
+    "createdAt": "2026-01-27T07:06:49.000Z",
+    "updatedAt": "2026-01-27T07:06:50.000Z",
+    "emailRecipient": "fd3b2a8a-6455-44ed-9ddd-91d328519412",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/support-staff-wonderland-innovations-222677ece3ffd7df6e706ba1fb54bd6b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1800,
+    "minimum": 1600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/222677ece3ffd7df6e706ba1fb54bd6b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/222677ece3ffd7df6e706ba1fb54bd6b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

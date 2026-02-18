@@ -1,0 +1,239 @@
+{
+  "uuid": "87054e5d2d68b83f90fec3758d67993f",
+  "sourceCode": "Employer Portal",
+  "title": "IT Engineer (VMware Cloud Foundation / Kubernetes / CCNA)",
+  "description": "<p><strong>• Well Established Security Technology Company</strong></p><p><strong>• Salary: $4500 - $5200 + $300 Allowance</strong></p><p><strong>• Working Hours: 8:30am - 5:30pm (Monday - Friday)</strong></p><p><strong>• Working location: Jurong (Based on Project Site)</strong></p><p><strong>• Variable Bonus + Excellent Welfare & Benefits</strong></p><p><br /></p><p><strong>Job Scope</strong></p><ul><li>Deploy, configure, and maintain the VMware Cloud Foundation (VCF) infrastructure (vSAN, NSX, vCenter, SDDC Manager).</li><li>Deploy, configure, manage, and troubleshoot VMware Tanzu and Kubernetes clusters for application hosting.</li><li>Utilize Aria Automation and GitLab CI pipelines for automated resource provisioning and application deployments.</li><li>Administer, configure, and troubleshoot Linux and Windows server operating systems, web servers (Tomcat, Apache, IIS), and applications.</li><li>Monitor system performance, health, and resource utilization within the VCF, Tanzu, and Kubernetes environments.</li><li>Implement security hardening baselines and oversees security testing (DAST, SAST, PT, SVS) based on policies.</li><li>Troubleshoot and resolve complex infrastructure and application issues.</li><li>Collaborate with HQ technical teams and government CISO Teams, providing operational feedback and addressing issues.</li></ul><p><br /></p><p><strong>Requirement</strong></p><ul><li>Higher NITEC/Diploma in IT Engineering or relevant certifications such as CISSP/CCNA/CCNP</li><li>1 - 2 years of relevant experience</li><li><strong>Experience with cloud environment deployment and maintenance is an advantage</strong></li></ul><p>Candidates are encouraged to apply this position via Apply Now button with the following information in the resume:</p><ul><li>Work experiences and job responsibilities</li><li>Current and Expected salary</li><li>Reason for leaving</li><li>Date of availability</li><li>Education background</li></ul><p>We regret that only shortlisted candidates will be contacted.</p><p><br /></p><p>YEOW CHANG FU (R23118759)</p><p>EA Recruitment Pte Ltd</p><p>EA License No: 21C0492</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Application Security",
+      "uuid": "2993e06f9e34b9da0ed41173d7d56a4a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Scanning",
+      "uuid": "2e13bb78d37cd17ddbb8b90a8015802c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "IIS",
+      "uuid": "5da5acf461b4efb7e76ec861065b2126",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tomcat",
+      "uuid": "8f72e28063c30c7468fb6af4653f4f9c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Penetration Testing",
+      "uuid": "97def0245e723621477eeda0a410ec36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud",
+      "uuid": "c8e2277ecfb1427838c488c217f99466",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Web Applications",
+      "uuid": "c93aadf0c53f10fa9715606886defad9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apache",
+      "uuid": "e9713ae04a02a810d6f33dd956f42794",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35121",
+  "occupationId": "OCC060957",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "42",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202102411G",
+    "description": "<p>EA Recruitment Pte Ltd was founded in 2021, with a focused mission, providing our utmost support to individuals and organisations, to achieve their full potential. With a combined experience of more than 10 years, we thrive on providing our clients/candidates with the best and most sincere services. We believe not only in the business aspect of things, but able to help individuals &amp; organisations on a personal level.</p>\n<p><br></p>\n<p>Empowerment - To empower our team in making sound decisions, efficiently.</p>\n<p>Exceptional – We are dedicated to providing a holistic and an exceptional level of service to our clients.</p>\n<p>Ethical – To behave ethically, and to make moral decisions based on integrity.</p>\n<p>Accomplishment – We strive to accomplish all planned objectives and conquering set milestones.</p>\n<p>Accountable – We are accountable for our actions, decisions, and consequences.</p>\n<p>Assurance – We are committed to provide the best services to our clients</p>\n<p><br></p>\n<p>We provide permanent full-time and/or temporary placements, contract staffing solutions and foreign workers recruitment.</p>",
+    "name": "EA RECRUITMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:34:26.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102411G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102411G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102411G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102411G/schemes"
+      }
+    },
+    "logoFileName": "db4ec2a6b256e6262c37d7b86660efd5/ea-recruitment.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/db4ec2a6b256e6262c37d7b86660efd5/ea-recruitment.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0152902",
+    "deletedAt": null,
+    "createdBy": "739ec4ae-ae95-4c6c-a766-2bfa417c1868",
+    "createdAt": "2026-01-25T06:24:36.000Z",
+    "updatedAt": "2026-01-25T06:24:36.000Z",
+    "emailRecipient": "739ec4ae-ae95-4c6c-a766-2bfa417c1868",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 69,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/engineer-ea-recruitment-87054e5d2d68b83f90fec3758d67993f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/87054e5d2d68b83f90fec3758d67993f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/87054e5d2d68b83f90fec3758d67993f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

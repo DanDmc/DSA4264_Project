@@ -1,0 +1,233 @@
+{
+  "uuid": "7185320b3297678b3d20477c0ba97958",
+  "sourceCode": "Employer Portal",
+  "title": "SOFTWARE DEVELOPER",
+  "description": "<p>- Hands-on Java server-side coding to build a real-time E-Trading system</p><p>- Work with web UI developer. Optionally, some simple front-end React JS work, depending on candidate’s UI-side skills.</p><p>- Writing automated tests</p><p>- Peer-to-peer code and design review. Must be open to constructive criticism.</p><p>- Work with Business Analyst and Project Manager to implement the requirements.</p><p>- Perform code deployment, releases and other repetitive tasks on a rotational basis. Candidate is encouraged to automate the process, but there will be certain tasks that is difficult or impossible to automate.</p><p>- Optionally, giving demo to business users of the application.</p><p>- Knowledge or experience in developing Java server applications using the Spring framework.</p><p>- RESTful API development, security and testing.</p><p>- Familiar with Java Development design patterns</p><p>- Familiar with test driven development and DevOps</p><p>- Experience with relational databases, especially Oracle.</p><p>- Experience with test automation</p><p>- Have a mindset of working in an Agile team where work and requirements are constantly changing</p><p>- Financial domain knowledge is optional, but must be willing to learn</p><p></p>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "API Development",
+      "uuid": "063a7ca63ca51def94796e9d6824ceb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Design Patterns",
+      "uuid": "475ae918a90c6f9956005c270e70c41f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Driven Development",
+      "uuid": "538e0297e61ba282fe30ba183cccabb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UI",
+      "uuid": "71ff71526d15db86eb50fcac245d183b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Automation",
+      "uuid": "7e636b60d041a7a4c38232c3a2830397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Analyst",
+      "uuid": "cf81121543f08d762c89add012cdd707",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202334877C",
+    "description": null,
+    "name": "REGTECH INSIGHT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:03:34.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "22",
+    "street": "CHANGI BUSINESS PARK CENTRAL 2",
+    "floor": null,
+    "unit": null,
+    "building": "THE KINGSMEN EXPERIENCE",
+    "postalCode": "486032",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155553",
+    "deletedAt": null,
+    "createdBy": "26da8746-413d-4957-ab47-45772fe6babd",
+    "createdAt": "2026-01-26T02:10:38.000Z",
+    "updatedAt": "2026-01-26T02:10:38.000Z",
+    "emailRecipient": "26da8746-413d-4957-ab47-45772fe6babd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 177,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 13,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-regtech-insight-7185320b3297678b3d20477c0ba97958",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10500,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7185320b3297678b3d20477c0ba97958"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7185320b3297678b3d20477c0ba97958/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,216 @@
+{
+  "uuid": "d1526018d2cacfd98d63c722a3fce2b3",
+  "sourceCode": "Employer Portal",
+  "title": "#SGUNITED JOBS - IT Support Engineer (end-user)",
+  "description": "<ul><li>Installation, support and troubleshooting of software, hardware, and peripheral device</li><li>Setting up new workstations, installing and configuring software and hardware, and managing user accounts</li><li>Responsible for troubleshooting in Operating system</li><li>Managing and updating Windows patches for Desktops and Laptops.</li><li>Ensuring proper network connectivity for all workstations and troubleshooting network issues.</li><li>Desktop Support through remote access</li><li>Coordination with clients and customer regarding their problems</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35121",
+  "occupationId": "OCC060957",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 8,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200413557M",
+    "description": "<p>ITCAN PTE LTD , headquartered in Singapore, offers a full spectrum of integrated IT S/W Solutions & Services.</p>\r\n\r\n<p>Empowered to deliver enterprise client Server or web based solutions across the entire value chain, spanning on - site consulting services to turn key S/ W projects</p>\r\n\r\n<p>Regional Offices : Malaysia / Australia / HKG /</p>\r\n\r\n<p>Clients in : Europe / US / Canada /China / Japan / Middle East</p>\r\n\r\n<p>Multi Awards Winner : E50 , APEA, AREA, SOE , ASME, SIEA , AEA, TGE, (Visit Website for more details)</p>\r\n",
+    "name": "ITCAN PTE. LIMITED",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:02:17.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "CECIL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PRUDENTIAL TOWER",
+    "postalCode": "049712",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28279709576622,
+    "lng": 103.849887722614
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183766",
+    "deletedAt": null,
+    "createdBy": "af209904-63d1-4521-b281-d52cd438efe3",
+    "createdAt": "2026-01-29T10:06:50.000Z",
+    "updatedAt": "2026-01-29T10:06:50.000Z",
+    "emailRecipient": "af209904-63d1-4521-b281-d52cd438efe3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 105,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/sgunited-jobs-support-engineer-itcan-d1526018d2cacfd98d63c722a3fce2b3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4200,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d1526018d2cacfd98d63c722a3fce2b3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d1526018d2cacfd98d63c722a3fce2b3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

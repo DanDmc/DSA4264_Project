@@ -1,0 +1,229 @@
+{
+  "uuid": "cc95885a3d790d80f8d10f969f8f4afe",
+  "sourceCode": "Employer Portal",
+  "title": "Project Manager",
+  "description": "<h5><strong>Job Description &amp; Requirements</strong></h5>\n<ul>\n  <li>Coordinate and Supervise project work on various site</li>\n  <li>Manage project schedule</li>\n  <li>Implement project planning, design, material requisition, cost control and documentation</li>\n  <li>Ensure smooth progress of works on site and timely completion</li>\n  <li>Diploma/Degree in Electrical or any engineering field</li>\n  <li>Fluent in English, both written &amp; spoken</li>\n  <li>Independent, resourceful, pro-active and team player</li>\n  <li>Possess good organization, planning and project management skills</li>\n  <li>Ability to work under tight deadlines</li>\n</ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Planning",
+      "uuid": "7a51b3c516f387f33de6b28cc0627b18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PMP",
+      "uuid": "aa9ca8e8b056c747be98bd8d23a4b7d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Requisition",
+      "uuid": "dc0c2ab3a6ff1b8bf1b3f0f54f1cd35d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24213",
+  "occupationId": "OCC000473",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "201804161Z",
+    "description": null,
+    "name": "ALINK ENGINEERING PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:23:06.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1003",
+    "street": "BUKIT MERAH CENTRAL",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "159836",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28362443009387,
+    "lng": 103.81350464348
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173400",
+    "deletedAt": null,
+    "createdBy": "4e85d40f-6a8a-4ee6-b608-ddfefda340b4",
+    "createdAt": "2026-01-28T04:21:00.000Z",
+    "updatedAt": "2026-01-28T04:21:00.000Z",
+    "emailRecipient": "4e85d40f-6a8a-4ee6-b608-ddfefda340b4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 79,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 16,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-manager-alink-engineering-cc95885a3d790d80f8d10f969f8f4afe",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cc95885a3d790d80f8d10f969f8f4afe"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cc95885a3d790d80f8d10f969f8f4afe/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

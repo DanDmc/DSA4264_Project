@@ -1,0 +1,233 @@
+{
+  "uuid": "89df672796278c0aecfb03a53a7d3304",
+  "sourceCode": "Employer Portal",
+  "title": "Operations Support Engineer",
+  "description": "<p><strong>Job Summary</strong></p><p>We are seeking an Operations/Technical Support Engineer to join our core development team, delivering L1, L2, and L3 code-level support for an internal product. This role ensures the reliability, stability, and efficiency of our technical infrastructure, collaborating across teams to maintain high system uptime and service quality.</p><p><strong>Responsibilities</strong></p><ul><li>Monitor and analyze product runtime environments (production and non-production) to ensure optimum system performance and develop data-driven strategies for continuous improvement</li><li>Collaborate with application teams, solution architects, security consultants, and other stakeholders to implement system and process improvement plans</li><li>Manage application and security incidents by conducting problem determination, coordinating with internal teams and vendors to resolve issues promptly, and reporting/escalating to management or incident committees as needed to meet SLA requirements</li><li>Develop and maintain comprehensive operations and process documentation to ensure compliance with audit standards</li><li>Oversee day-to-day operational activities, analyze performance statistics, and prepare status and progress reports for stakeholders and senior management</li><li>Implement change management and incident management workflows using ITSM tools such as Remedy, Zendesk, or ServiceDesk to automate and streamline operations</li><li>Enforce security and access control measures to regulate privileged access to test and production environments</li><li>Deploy full stack monitoring solutions, including application and infrastructure monitoring, leveraging Application Performance Management (APM) tools and cloud-native monitoring platforms like Cloudwatch and Stackdriver</li><li>Identify and implement process automation initiatives to minimize downtime and reduce human error, utilizing scripting tools such as Terraform and Ansible</li><li>Apply agile methodologies, DevOps pipelines, test-driven development, and information security best practices to enhance operational efficiency</li><li>Collaborate effectively within a high-performance team environment, influencing positive outcomes through resourcefulness and innovative problem-solving</li><li>Communicate complex technical issues clearly to non-technical audiences to facilitate understanding and decision-making</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Bachelor's degree in Computer Science, Information Technology, or a related field</li><li>Proven experience as an Operations Engineer or in a similar IT operations role</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Experience implementing change and incident management workflows using ITSM tools (e.g., Remedy, Zendesk, ServiceDesk)</li><li>Implement security and access control measures to control privileged access to test and production environment</li><li>Familiarity with cloud-native monitoring tools such as Cloudwatch, Stackdriver, and the OpenAPM stack</li><li>Experience with scripting and automation tools such as Terraform and Ansible</li><li>Knowledge of agile methodologies, DevOps pipelines, test-driven development, and information security practices</li><li>Experience managing cloud infrastructure and services with certifications or familiarity in GPC, GCC (AWS, Azure, Google Cloud), or equivalent platforms</li><li>Able to work collaboratively with a high performance team and influence with positive energy</li><li>Strong communication skills, with the ability to communicate complex technical issues to non-technical teams</li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Application Performance Management",
+      "uuid": "0e387be4c4fdb1c95ed2787d5a264846",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Methodologies",
+      "uuid": "6342d6af2ccaa3545040f5de74760c3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Tools",
+      "uuid": "6610f9d34d0252187120a02b66c88b5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Operations",
+      "uuid": "87727a06ba270d2c9eafe81149c048c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Zendesk",
+      "uuid": "a151608a9113acccb09c9ebf7b0b2b6a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Cloud",
+      "uuid": "bbc8a77007b660af585cca528771f800",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Statistics",
+      "uuid": "c33e404a441c6ba9648f88af3c68a1ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Incident Management",
+      "uuid": "f3723f30315ea30f2f4b9101556772e2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35123",
+  "occupationId": "OCC060843",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0920",
+  "postedCompany": {
+    "uen": "199101613R",
+    "description": "<p>\r\n\tSAVANT INFOTECH SOLUTIONS PTE. LTD.</p>\r\n",
+    "name": "SAVANT INFOTECH SOLUTIONS PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:58:29.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199101613R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199101613R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199101613R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199101613R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168975",
+    "deletedAt": null,
+    "createdBy": "b45bfcd4-8cb9-4ad3-8e53-09e45efa8f02",
+    "createdAt": "2026-01-27T10:42:44.000Z",
+    "updatedAt": "2026-01-27T10:42:44.000Z",
+    "emailRecipient": "b45bfcd4-8cb9-4ad3-8e53-09e45efa8f02",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 77,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/operations-support-engineer-savant-infotech-solutions-89df672796278c0aecfb03a53a7d3304",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/89df672796278c0aecfb03a53a7d3304"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/89df672796278c0aecfb03a53a7d3304/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

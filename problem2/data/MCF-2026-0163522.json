@@ -1,0 +1,233 @@
+{
+  "uuid": "c30298ae35af5379fc47c035fbb14369",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Coordinator (East)",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>Oversee daily operations to assist sales teams, such as order acknowledgment, quotation processing, purchase orders, sales orders, etc.</li><li>To communicate and arrange for the delivery of a customer's request</li><li>To give current clients excellent support and customer care.</li><li>Respond to phone calls and in-person inquiries</li><li>General administrative sales tasks</li><li>Any other ad hoc duties that the management and manager delegate</li></ul><p><strong>Qualifications:</strong></p><ul><li>GCE \"O\" or Nitec Level</li><li>Skilled in using Microsoft Office products, such as Word, Excel, and PowerPoint.</li><li>Having experience with Oracle SAP is advantageous.</li><li>Have a positive work ethic and a strong sense of accountability.</li><li>Resourceful and capable of working on their own in a hectic setting</li><li>Self-reliant, mature, and prepared to work with little direction</li><li>Needs to be upbeat and proactive in problem-solving</li><li>Able to begin work right away or on short notice is an advantage</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Field Service",
+      "uuid": "1306ca34d307dfc008db6370ee290c3d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PowerPoint",
+      "uuid": "8e30baf47f024c0ce4a7f380214194ed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service Experience",
+      "uuid": "fa63d7f8c765d48aafb86bd9c5adc310",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24331",
+  "occupationId": "OCC007024",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202500601E",
+    "description": "<p>At Focal Search, we focus on finding the best match and synergy to bring together our clients and candidates. We pride ourselves with our passion and commitment, combined with the industry knowledge, to offer both our clients and candidates our consultative and personalised services.</p>",
+    "name": "FOCAL SEARCH PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "www.focal-s.com",
+    "lastSyncDate": "2026-02-04T01:12:42.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202500601E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202500601E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202500601E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202500601E/schemes"
+      }
+    },
+    "logoFileName": "dcec06293aab4d0bfd027b367931fd14/focal-search.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/dcec06293aab4d0bfd027b367931fd14/focal-search.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163522",
+    "deletedAt": null,
+    "createdBy": "9dbfd3cd-346b-4cac-8063-22e7f3f81bc2",
+    "createdAt": "2026-01-27T01:56:44.000Z",
+    "updatedAt": "2026-01-27T01:56:45.000Z",
+    "emailRecipient": "9dbfd3cd-346b-4cac-8063-22e7f3f81bc2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 48,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/sales-coordinator-focal-search-c30298ae35af5379fc47c035fbb14369",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c30298ae35af5379fc47c035fbb14369"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c30298ae35af5379fc47c035fbb14369/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

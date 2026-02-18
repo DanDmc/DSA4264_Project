@@ -1,0 +1,213 @@
+{
+  "uuid": "4e0f8228de3a3434e14902227222af15",
+  "sourceCode": "Employer Portal",
+  "title": "Clinic Assistant",
+  "description": "<p><u><strong>Job Responsibilities / Duties:</strong></u></p>\n<p>• Patient registration</p>\n<p>• Preparation of Cases for Health screening, reviews</p>\n<p>• Attending to Patient enquiries</p>\n<p>• Billing</p>\n<p>• Dispense medications</p>\n<p>• Submission of Medisave, CHAS claims</p>\n<p>• Medical records scanning</p>\n<p>• Triage</p>\n<p><br></p>\n<p><u><strong>Requirements:</strong></u></p>\n<p>• Minimum GCE 'N' or 'O' Level</p>\n<p>• Prior min. 2 years experience in admin support, customer service or healthcare</p>\n<p>preferred</p>\n<p>• Possess good communication and interpersonal skill</p>\n<p>• Customer service oriented &amp; positive attitude towards learning</p>\n<p>Location: Biopolis</p>\n<p>Hours of Work: 44 Hours / 5.5 days</p>\n<p>Applicants who are interested in this role are invited to apply with their comprehensive</p>\n<p>resume with full details via \"Apply Now\" button.</p>\n<p>*Only shortlisted applicants will be noticed.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Oriented",
+      "uuid": "1679904a73c2d3eb34300987e0439951",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medical Records",
+      "uuid": "dc7d61e6f35a1fcdd7a7115d87864fc0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "administrative duties",
+      "uuid": "eb735385a994b61a5bbc3d54e4f0cb85",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42243",
+  "occupationId": "OCC009096",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201723502H",
+    "description": null,
+    "name": "ADVANCED MEDICINE IMAGING PTE. LTD.",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T09:38:28.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201723502H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201723502H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201723502H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201723502H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "BIOPOLIS DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "AMNIOS",
+    "postalCode": "138622",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30120583526389,
+    "lng": 103.792976859174
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183350",
+    "deletedAt": null,
+    "createdBy": "2967f4f4-8ade-4a60-8271-e21d11ef5a9f",
+    "createdAt": "2026-01-29T09:32:17.000Z",
+    "updatedAt": "2026-01-29T09:32:17.000Z",
+    "emailRecipient": "2967f4f4-8ade-4a60-8271-e21d11ef5a9f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/clinic-assistant-advanced-medicine-imaging-4e0f8228de3a3434e14902227222af15",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2700,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e0f8228de3a3434e14902227222af15"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e0f8228de3a3434e14902227222af15/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

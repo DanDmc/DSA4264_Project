@@ -1,0 +1,235 @@
+{
+  "uuid": "f3185c969433123291d6d32919611c2f",
+  "sourceCode": "Employer Portal",
+  "title": "PROJECT MANAGER",
+  "description": "<p>Essential skills for a project manager <br /></p><ul><li><strong>Planning & Execution:</strong> Defining project scope, goals, and creating detailed schedules, including milestones and budgets.</li><li><strong>Team Leadership:</strong> Directing, assigning tasks to team members, and ensuring they understand objectives.</li><li><strong>Monitoring & Control:</strong> Tracking progress, managing resources (manpower, materials), and addressing roadblocks or bottlenecks.</li><li><strong>Communication & Stakeholder Management:</strong> Acting as the main point of contact for stakeholders, providing progress reports, and ensuring deliverables meet expectations.</li><li><strong>Adaptabillity</strong> : Responding to changing project requirements and circumstances</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Planning",
+      "uuid": "7a51b3c516f387f33de6b28cc0627b18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PMP",
+      "uuid": "aa9ca8e8b056c747be98bd8d23a4b7d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stakeholder Management",
+      "uuid": "df48c911be7822810d6973e86dca6cd6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Delivery",
+      "uuid": "e4a9ed5b8ac0f6f0ac00bcb37d4567f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24213",
+  "occupationId": "OCC000473",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "201814441R",
+    "description": null,
+    "name": "IEC LIGHTING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T07:47:08.000Z",
+    "ssicCode2020": "47539",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201814441R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201814441R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201814441R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201814441R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2022",
+    "street": "BUKIT BATOK STREET 23",
+    "floor": null,
+    "unit": null,
+    "building": "BUKIT BATOK INDUSTRIAL ESTATE PARK A",
+    "postalCode": "659527",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34299603934232,
+    "lng": 103.751816147892
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182086",
+    "deletedAt": null,
+    "createdBy": "3a7ccac3-6a25-4f0f-ba03-851ab3378240",
+    "createdAt": "2026-01-29T07:51:51.000Z",
+    "updatedAt": "2026-01-29T07:51:51.000Z",
+    "emailRecipient": "3a7ccac3-6a25-4f0f-ba03-851ab3378240",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 184,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 49,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-manager-iec-lighting-f3185c969433123291d6d32919611c2f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f3185c969433123291d6d32919611c2f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f3185c969433123291d6d32919611c2f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

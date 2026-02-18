@@ -1,0 +1,265 @@
+{
+  "uuid": "9e213e6491fc7fc3682abcc78f7db6e9",
+  "sourceCode": "Employer Portal",
+  "title": "CONSTRUCTION MANAGER",
+  "description": "<p>· Assist in planning and creating schedules and project timelines.</p><p></p><p>· Overseeing and directing construction works from conception to completion</p><p></p><p>· Coordinate and direct workers and subcontractors</p><p></p><p>· Ensure quality construction standards and the use of proper construction techniques</p><p></p><p>· Track deliverables, control subcontractors and suppliers to meet schedule, safety and quality objectives.</p><p></p><p>· Planning of housekeeping by coordinating responsibilities of site engineers / site supervisors and sub-contractors.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Mentoring",
+      "uuid": "089011f59ea2749a842c1cb289c52c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Lead",
+      "uuid": "bd4e5627c6a8942ffd11548987a3a843",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "13230",
+  "occupationId": "OCC000491",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202102862Z",
+    "description": null,
+    "name": "HUA XIN CONSTRUCTION PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T02:41:33.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102862Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102862Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102862Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202102862Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "64D",
+    "street": "KALLANG PUDDING ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TANNERY BUILDING",
+    "postalCode": "349323",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32694743866474,
+    "lng": 103.878737165975
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187791",
+    "deletedAt": null,
+    "createdBy": "747e0c76-8762-4212-bd27-6248c4e0f0a6",
+    "createdAt": "2026-01-30T04:52:52.000Z",
+    "updatedAt": "2026-01-30T04:52:52.000Z",
+    "emailRecipient": "747e0c76-8762-4212-bd27-6248c4e0f0a6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-manager-hua-xin-construction-9e213e6491fc7fc3682abcc78f7db6e9",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 4600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9e213e6491fc7fc3682abcc78f7db6e9"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9e213e6491fc7fc3682abcc78f7db6e9/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

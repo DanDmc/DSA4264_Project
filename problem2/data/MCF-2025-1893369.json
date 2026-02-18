@@ -1,0 +1,217 @@
+{
+  "uuid": "0c9166c8fa3f82c137b6634a43f47354",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Developer (Flutter)",
+  "description": "<p>We are looking for a senior Flutter developer with a classic fullstack background. Someone who feels comfortable across the stack, but who will focus most of the time developing on Flutter. You will own the development end to end: from early prototypes to robust, maintainable production code. You will design and build the Flutter front end, help shape and consume APIs, and keep the architecture simple and sustainable. Your fullstack background will help you understand how decisions on the app side affect backend, data model and infrastructure. The role is hands on. You will write code every day, ship features, review pull requests, help keep the codebase clean and easy to understand for the rest of\nthe team, and work closely with our Backend Team.</p><p><strong>What will you do </strong></p><p><strong>Mobile Product Delivery</strong></p><ul><li>Own the mobile app from idea to production and later iterations.</li><li>Turn requirements into simple, testable user flows and screens.</li><li>Build quick prototypes when we need to explore ideas.</li><li>Convert these prototypes into production grade features with clear structure and tests where possible.</li></ul><p><strong>Flutter Development</strong></p><ul><li>Design and build Flutter applications for iOS and Android using Dart. These will also eventually need to be run in HarmonyOS too.</li><li>Implement responsive layouts, navigation flows and smooth interactions.</li><li>Handle offline behaviour, error states and retries in a predictable way.</li><li>Integrate REST or GraphQL APIs and keep API usage well structured and typed.</li></ul><p><strong>Backend and Integration</strong></p><ul><li>Help define and review API contracts between mobile and backend together with our backend team.</li><li>Work with databases and data models so the app stays aligned with backend reality.</li><li>Raise backend or data issues early instead of working around them in the app.</li><li>Take part in performance and security reviews across the stack.</li></ul><p><strong>Architecture, Quality and Tooling</strong></p><ul><li>Keep the Flutter codebase modular, testable and easy to navigate.</li><li>Write and maintain unit tests, widget tests and basic integration tests for key paths.</li><li>Help refine the CI/CD pipeline for mobile builds, automated tests and releases.</li><li>Monitor crashes, performance metrics and logs and drive fixes to completion.</li></ul><p><strong>Collaboration, Mentoring and Ways of Working</strong></p><ul><li>Work closely with engineers, product and design using clear and direct communication.</li><li>Break work into small, deliverable tasks with realistic estimates.</li><li>Review pull requests and give practical, constructive feedback.</li><li>Mentor less experienced developers in Flutter, architecture and general engineering practice.</li><li>Collaborate on technical documentation that others can use and keep up to date.</li></ul><p><strong>What do we expect</strong></p><ul><li>BA/BS degree in Computer Science, Software Engineering, or equivalent experience.      </li><li>8+ years of professional software development experience in total.     </li><li>3+ years of solid experience building mobile applications, with at least 2+ years focused on Flutter.    </li><li>Experience working in product teams shipping to production on a regular basis.   </li><li>Strong knowledge of Flutter, Dart and the main Flutter ecosystem.   </li><li>Good understanding of app lifecycle, push notifications, deep linking and app store constraints. </li><li>Experience consuming REST and/or GraphQL APIs in production apps.    </li><li>Hands on experience with at least one backend stack, for example Node.js, GoLang or Python.      </li><li>Comfortable working with relational and/or NoSQL databases.   </li><li>Good grasp of HTTP, and auth such as JWT or OAuth2.    </li><li>Understanding of basic cloud concepts like containers, simple deployments and environments.    </li><li>Gitlab experience with code review workflows.</li><li>Experience with CI/CD tools such as GitHub Actions, GitLab CI or similar.    </li><li>Familiar with basic monitoring, logging and crash reporting tools for mobile and backend.   </li><li>Clear, direct and pragmatic communication style.  </li><li>Strong sense of ownership and accountability for what is shipped.      </li><li>Ability to balance speed and quality: know when to prototype and when to harden.</li><li>Comfortable working in a distributed team across time zones.  </li><li>Fluent English, spoken and written.</li></ul><p><strong>Good to have</strong>   </p><ul><li>Proven track record in a fullstack or backend oriented role earlier in the career.  </li><li>Experience designing and shipping offline-first mobile apps with local data storage and background synchronisation.    </li><li>Proficiency in defining APIs and data models that support reliable sync, versioning, and conflict handling. </li><li>Ability to ensure smooth UX across online/offline states, including status indicators, retries, and error handling.</li><li>Experience publishing and maintaining apps in Apple App Store and Google Play is a plus.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Mentoring",
+      "uuid": "089011f59ea2749a842c1cb289c52c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Flows",
+      "uuid": "6a0df9005c726aba3ddd4296353bcb50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mobile Applications",
+      "uuid": "bdbaee6f9b112dae8d710848124d484a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Flutter",
+      "uuid": "c047b10eee763afb6164e077cf1cc268",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Conflict",
+      "uuid": "f1d4ac54357cc0932f385d56814ba7e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201511075Z",
+    "description": "<p>About the #EagleTeam&nbsp;</p>\n<p>Screening Eagle Technologies | Proceq | Dreamlab&nbsp;</p>\n<p><br></p>\n<p>We are on a mission to protect the built world with software, sensors and data. We hire talented problem-solvers with bold ambition who share our passion for inspection technology to sustain mission-critical assets and infrastructure for future generations. Our culture is creative, innovative and inclusive. We are a fast-paced, product-driven, growth company headquartered in Switzerland with our Singapore technology hub and a global mindset looking to lead a digital revolution in inspection. Want to join the #EagleTeam?</p>",
+    "name": "SCREENING EAGLE SINGAPORE PTE. LTD.",
+    "ssicCode": "72104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T03:08:13.000Z",
+    "ssicCode2020": "72104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511075Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511075Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511075Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511075Z/schemes"
+      }
+    },
+    "logoFileName": "a4da10114801a9f994496284b609a2b8/screening-eagle-dreamlab.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a4da10114801a9f994496284b609a2b8/screening-eagle-dreamlab.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "FUSIONOPOLIS WAY",
+    "floor": null,
+    "unit": null,
+    "building": "CONNEXIS",
+    "postalCode": "138632",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29936328832976,
+    "lng": 103.787687643371
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1893369",
+    "deletedAt": "2026-01-09T17:15:04.000Z",
+    "createdBy": "9a08db31-76b4-4f66-aa5d-fe00040857f2",
+    "createdAt": "2025-12-10T02:46:23.000Z",
+    "updatedAt": "2026-01-26T01:54:47.000Z",
+    "emailRecipient": "9a08db31-76b4-4f66-aa5d-fe00040857f2",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 329,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-10",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-developer-screening-eagle-singapore-0c9166c8fa3f82c137b6634a43f47354",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0c9166c8fa3f82c137b6634a43f47354"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0c9166c8fa3f82c137b6634a43f47354/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

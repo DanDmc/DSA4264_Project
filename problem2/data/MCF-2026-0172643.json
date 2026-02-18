@@ -1,0 +1,210 @@
+{
+  "uuid": "c180db80e998c32ec51160b46d55024f",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Manager, Global Service Centre",
+  "description": "<p>Job Responsibilities:</p><ul><li>Lead and oversee Global Service operations covering power generation sets and marine engines across Southeast Asia.</li><li>Develop and implement regional service strategies, policies, KPIs, and performance targets.</li><li>Manager and develop the Global Service team, including capability building and succession planning.</li><li>Provide senior-level technical governance and act as escalation point for complex service and warranty cases.</li><li>Manage key stakeholders, including Headquarters, regional subsidiaries, dealers and major customers.</li><li>Drive continuous improvement, standardization, and compliance with quality, safety and environmental practices.</li></ul><p>Job Requirements:</p><ul><li>Bachelor's Degree in Engineering or a related discipline.</li><li>Minimum 8 years of relevant professional experience in after-sales service, technical service or service operations within power generation, marine or manufacturing environments.</li><li>At least 5 years in senior management or leadership roles, with responsibility for regional or multi-country operations.</li><li>Proven experience leading service organizations and managing complex stakeholders.</li><li>Strong understanding of industrial service models, generators, marine engines and quality systems.</li><li>Proficiency in Japanese to support communication with Headquarters and Japanese stakeholders.</li><li>Willingness to travel internationally as required.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Power Generation",
+      "uuid": "14905467952d7fcafc2a5b206eae10f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Listening Skills",
+      "uuid": "16931dc5e50bc2bb1aeba8de5bcc8bbf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assertive",
+      "uuid": "21635eeb03ed55ffbecab778bc03dcc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aftersales",
+      "uuid": "2fa29bd7d87c6cc802ba996a3fb94a95",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Experimentation",
+      "uuid": "45071f255ad41e414e8f5404497caf0c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Leadership",
+      "uuid": "738af7e0801f1e50e5607ec9c73be104",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Quality",
+      "uuid": "b00b5bba7ab331e1cdd9d94db75793bf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warranty",
+      "uuid": "b10f0c75b7b48c70aab4aed9e84e55da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Six Sigma",
+      "uuid": "f07975a00f5b3d1e025709beaf8958db",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "11203",
+  "occupationId": "OCC000311",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "198102850N",
+    "description": "<p> \tMITSUBISHI HEAVY INDUSTRIES ENGINE SYSTEM ASIA PTE. LTD.</p>",
+    "name": "MITSUBISHI HEAVY INDUSTRIES ENGINE SYSTEM ASIA PTE. LTD.",
+    "ssicCode": "27102",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:59:09.000Z",
+    "ssicCode2020": "27102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198102850N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198102850N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198102850N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198102850N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "TUAS AVENUE 12",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "639024",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33131116987433,
+    "lng": 103.642956178787
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172643",
+    "deletedAt": null,
+    "createdBy": "b030e982-dee4-4f62-a87e-3d33fab58ca0",
+    "createdAt": "2026-01-28T03:05:01.000Z",
+    "updatedAt": "2026-01-28T03:05:01.000Z",
+    "emailRecipient": "b030e982-dee4-4f62-a87e-3d33fab58ca0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 118,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/senior-manager-global-service-centre-mitsubishi-heavy-industries-engine-system-asia-c180db80e998c32ec51160b46d55024f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c180db80e998c32ec51160b46d55024f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c180db80e998c32ec51160b46d55024f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

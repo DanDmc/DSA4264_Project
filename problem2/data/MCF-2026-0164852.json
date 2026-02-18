@@ -1,0 +1,204 @@
+{
+  "uuid": "bfbbf266640018b43ed5244f65c9cfc6",
+  "sourceCode": "Employer Portal",
+  "title": "Automation Engineer",
+  "description": "<p>Specializing in service and commissioning of Marine Automation Systems preferably Lyngsoe marine system.</p><ul><li>Strong technical background within automation field, ideally within maritime environments.</li><li>In-depth knowledge of PC-based control and monitoring systems.</li><li>Customer focussed with a commercial mind-set and solution oriented.</li><li>Strong communication skills both written and verbal.</li><li>Troubleshooting and remote maintenance of various automation products including boiler controls and calibration/replacement of related field instruments.</li><li>Field Service attendance - Onboard vessels</li><li>Installation and customization of automation hardware and software as per OEM and well as job specific requirements</li><li>Analysis, configuration and installation of network equipment</li><li>Programming of PROM and EPROM chips as per OEM requirements</li><li>Experience with Marine automation system from Lyngsoe Marine 2100, 2200 and Platinum Nacos trained & experienced.</li><li>Programming of serial communication lines such as RS232, RS422 and RS485 ,HART.FF Etc..</li><li>Knowledge of Modbus RTU/TCP, OPC server/client configuration, PID configuration and tuning etc…</li><li>Software customization using various PLC and SCADA based mimic preparations</li><li>Perform Retrofit tasks and upgrade of existing automation systems.</li><li>Experience in below system:EMS - Engine Manoeuvring Systems<br />EPS - Engine Protection Systems<br />PCS - Propulsion Control System<br />UCS/MCS – Machinery control system<br /></li></ul><p>Requirements:</p><ul><li>Should be an engineering graduate in Electrical & Electronics, Mechatronics, Instrumentation or Electronics & Telecommunication</li><li>With minimum 5-8 years of experience in the similar position</li><li>Good communication skill (written & oral)</li><li>A good team player & out of the box thinker</li><li>Holding a Singapore driving license an added advantage</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tuning",
+      "uuid": "89dd2948ecda7325c0001d8a0e51a2d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Telecommunication",
+      "uuid": "8a564eedf2b6036b96264afc09f3c2a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SCADA",
+      "uuid": "8ebe43fc79c5288888cac7b7106b0045",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Instrumentation",
+      "uuid": "d72da0fd17da5eea9c38b196c5f88dfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21413",
+  "occupationId": "OCC003139",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1131",
+  "postedCompany": {
+    "uen": "201425546E",
+    "description": "<p>Elcome, founded in 1970, is one of the largest marine technology system integrators in the world. With offices from Spain to Singapore, Elcome is firmly positioned to provide world-class support for your fleet.</p>\n<p><br></p>\n<p>Elcome’s factory trained engineers visit more than 800 ships every month worldwide with an impressive first-time fix-rate of 96 percent and is supported by shore-based network of 23 business centers located in 12 countries from Strait of Gibraltar to Straits of Malacca.</p>\n<p><br></p>\n<p>The Elcome Group employs a workforce of over 500 people, 40 percent of which are factory-trained engineers and technicians. Areas of specialization include navigation, communication, automation, homeland security, satellite airtime and connectivity services, nautical charts &amp; publications, safety, electricals, training, shipboard service, and lifecycle extension support.</p>",
+    "name": "ELCOME INTERNATIONAL PTE. LTD.",
+    "ssicCode": "52252",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T04:38:34.000Z",
+    "ssicCode2020": "52252",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425546E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425546E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425546E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425546E/schemes"
+      }
+    },
+    "logoFileName": "22da7cf71a1de398bd0d09da6487347a/elcome-international.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/22da7cf71a1de398bd0d09da6487347a/elcome-international.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "THE SPIRE",
+    "postalCode": "658079",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33838795736871,
+    "lng": 103.758384544961
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164852",
+    "deletedAt": null,
+    "createdBy": "e917593c-8803-4d7c-82ee-1ab557a6cce4",
+    "createdAt": "2026-01-27T03:30:38.000Z",
+    "updatedAt": "2026-01-27T03:30:38.000Z",
+    "emailRecipient": "e917593c-8803-4d7c-82ee-1ab557a6cce4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 101,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/automation-engineer-elcome-international-bfbbf266640018b43ed5244f65c9cfc6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bfbbf266640018b43ed5244f65c9cfc6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bfbbf266640018b43ed5244f65c9cfc6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

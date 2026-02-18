@@ -1,0 +1,212 @@
+{
+  "uuid": "cf7f19951948a1b066d1aa41914b74a1",
+  "sourceCode": "Employer Portal",
+  "title": "Operation Executive",
+  "description": "<p>Duties & Responsibilities</p><ul><li>inventory data entry and documentation.</li><li>work closely with production team to manage and analyse inventory balance.</li><li>improve inventory processes.</li><li>produce inventory report for management’s review.</li><li>and any other duties assigned from time to time.</li></ul><p>Job Requirements</p><ul><li>Diploma or Bachelor’s degree holders. </li><li>Proficient in Microsoft Excel.</li><li>Excellent numeric skills with exceptional attention to details.</li><li>Good working attitude, meticulous & independent.</li><li>Workplace is located in Tuas, and company transport is provided from Jurong East MRT.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Freight",
+      "uuid": "a2eca8f6be5b0bf0f2cddcda7cfca376",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excess",
+      "uuid": "d1d25b9ff7906919775079068a81aee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21212",
+  "occupationId": "OCC061418",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0514",
+  "postedCompany": {
+    "uen": "198104726Z",
+    "description": null,
+    "name": "SINEUROPE PTE LTD",
+    "ssicCode": "10200",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T02:19:11.000Z",
+    "ssicCode2020": "10200",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198104726Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198104726Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198104726Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198104726Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4",
+    "street": "TUAS BAY WALK",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "637767",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31241607505331,
+    "lng": 103.630848994205
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179553",
+    "deletedAt": null,
+    "createdBy": "fc3c1df7-979c-46f9-b426-d3b00b829056",
+    "createdAt": "2026-01-29T02:37:49.000Z",
+    "updatedAt": "2026-01-29T02:37:49.000Z",
+    "emailRecipient": "fc3c1df7-979c-46f9-b426-d3b00b829056",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 166,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/operation-executive-sineurope-cf7f19951948a1b066d1aa41914b74a1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cf7f19951948a1b066d1aa41914b74a1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cf7f19951948a1b066d1aa41914b74a1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

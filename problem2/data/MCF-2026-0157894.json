@@ -1,0 +1,199 @@
+{
+  "uuid": "50a0026e00771cd37441ea0bf23bf3e4",
+  "sourceCode": "Employer Portal",
+  "title": "Resident Aesthetic Doctor",
+  "description": "<p><strong>Job Summary</strong></p><p>Lazz Aesthetic is a professional Aesthetic Medical Clinic. Our client is from mid to high end. Our commitment is to deliver scientifically proven evidence-based aesthetic and age management treatments with genuine care. Our employees are passionately committed to fundamentally change the future of medical aesthetic and age management care.</p><p><strong>Responsibilities</strong></p><ul><li>Perform medical-grade aesthetic treatments including injectables (Botox, skin boosters, fillers), Pico Laser, Helio laser treatments, chemical peels, and thread lifts to achieve optimal patient outcomes</li><li>Develop and implement personalized patient treatment plans by assessing patient concerns and recommending appropriate aesthetic procedures</li><li>Conduct thorough consultations to educate patients on treatment options, expected results, and care protocols</li><li>Monitor and review patient progress regularly to adjust treatment plans and ensure high standards of care</li><li>Manage patient enquiries effectively, providing clear and accurate information about treatment courses and post-treatment care</li><li>Train and mentor clinical staff to uphold clinical excellence and consistent patient care standards</li><li>Foster a collaborative and respectful workplace environment that supports team performance and patient satisfaction</li><li>Promote a friendly, warm, and exceptional patient experience throughout all interactions</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Medical degree: MBBS, MBChB, MBBCh, MD or equivalent</li><li>Registration with the Singapore Medical Council</li><li>Attainment of all relevant Certificate of Competence (COCs) for aesthetic procedures</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aesthetics",
+      "uuid": "0fe5498f9080685dda44b3e6b42878d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Chemical Peels",
+      "uuid": "1a98eeacf58a95ea351606d8657e02e5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fillers",
+      "uuid": "60a8f7f6c7970e3d89bb39c21bdc177e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Botox",
+      "uuid": "71d328e3afdcb5d3fdc7c4cae72ad8a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laser Therapy",
+      "uuid": "83f689383b7e96bb479a0b365080577a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pico",
+      "uuid": "cba3b736b06870457286524ba747164f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22150",
+  "occupationId": "OCC003835",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0719",
+  "postedCompany": {
+    "uen": "201930970K",
+    "description": null,
+    "name": "THE NATURE SPA LYNN AESTHETIC PRIVATE LTD.",
+    "ssicCode": "96022",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T12:01:10.000Z",
+    "ssicCode2020": "96022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201930970K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201930970K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201930970K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201930970K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157894",
+    "deletedAt": null,
+    "createdBy": "fa11e74f-25a4-4bcc-98b7-11ae31fc1405",
+    "createdAt": "2026-01-26T06:03:02.000Z",
+    "updatedAt": "2026-01-26T06:03:02.000Z",
+    "emailRecipient": "fa11e74f-25a4-4bcc-98b7-11ae31fc1405",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 45,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/resident-aesthetic-doctor-nature-spa-lynn-aesthetic-50a0026e00771cd37441ea0bf23bf3e4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 25000,
+    "minimum": 18000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/50a0026e00771cd37441ea0bf23bf3e4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/50a0026e00771cd37441ea0bf23bf3e4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

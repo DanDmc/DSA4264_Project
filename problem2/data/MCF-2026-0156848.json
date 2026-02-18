@@ -1,0 +1,202 @@
+{
+  "uuid": "ef8389b2353e639d95fa48c5aeb1bf11",
+  "sourceCode": "Employer Portal",
+  "title": "Full time/Locum Dentists",
+  "description": "<p>Passionate about dental care?</p><p><br /></p><p>With three conveniently located clinics in Ang Mo Kio, Bedok, and Orchard, <strong>WeSmile Dental Care</strong> is your trusted partner in oral health. We are dedicated to delivering dental excellence for your everyday care, with a mission to inspire confidence and create healthy smiles that enhance your quality of life.</p><p><br /></p><p>With a team of dedicated and experienced dentists, we offer a comprehensive range of preventative, restorative and aesthetic dental services — from scaling and polishing, dental implants, root canal treatments, teeth aligner, veneers and more.</p><p>If you are registered with the Singapore Dental Council and hold a valid practising certificate, we'd love to share more about our opportunities. Dental officers who are in the final year of bond are welcome to apply as well.</p><p><br /></p><p><u>Who we're looking for</u></p><ul><li>BDS or equivalent qualifications recognized by the Singapore Dental Council.</li><li>Determined, committed with gentle and caring nature</li><li>Excellent communication and good interpersonal skills</li><li>Friendly, respectful towards others and able to work well in a family-like team</li></ul><p>Please email us your resume to <a href=\"mailto:xinying@wesmiledental.sg\" target=\"_blank\" rel=\"noopener noreferrer\">amelia@wesmiledental.sg</a>.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Crowns",
+      "uuid": "0c5b3503711958d625a49c1193423664",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dentistry",
+      "uuid": "308907bb592eb52f520d9a73d518337b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dental Care",
+      "uuid": "7432af340eb1ac6530c5dd7b5d948dfd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dental Scaling",
+      "uuid": "76cfd0573a2d01d3650d9380149beef7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dental Surgery",
+      "uuid": "8b9adbc37b0727ac9cab5d07b9bcd768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dental",
+      "uuid": "a3ff0f107e2f5502e6939c2a0f6a42da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dentures",
+      "uuid": "a4ee783fd6ce6d37678e18f6607c584e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dental Implants",
+      "uuid": "a76ea7f6bce46efbdb8af947cc4bb6bc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "22611",
+  "occupationId": "OCC060656",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0831",
+  "postedCompany": {
+    "uen": "202133719H",
+    "description": "<p>Meet our team of friendly dentists, ready to help navigate one's journey to a lasting healthy smile.</p>",
+    "name": "WESMILE DENTAL CARE PTE. LTD.",
+    "ssicCode": "86204",
+    "employeeCount": null,
+    "companyUrl": "www.wesmiledental.sg",
+    "lastSyncDate": "2026-01-26T03:35:53.000Z",
+    "ssicCode2020": "86204",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202133719H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202133719H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202133719H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202133719H/schemes"
+      }
+    },
+    "logoFileName": "4c1b9db85ea2964c6d46c34f2e3a2394/wesmile-dental-care.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4c1b9db85ea2964c6d46c34f2e3a2394/wesmile-dental-care.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156848",
+    "deletedAt": null,
+    "createdBy": "e61994be-9322-48cf-8807-0b907541522d",
+    "createdAt": "2026-01-26T03:36:42.000Z",
+    "updatedAt": "2026-01-26T03:36:42.000Z",
+    "emailRecipient": "e61994be-9322-48cf-8807-0b907541522d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 68,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/full-timelocum-dentists-wesmile-dental-care-ef8389b2353e639d95fa48c5aeb1bf11",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef8389b2353e639d95fa48c5aeb1bf11"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef8389b2353e639d95fa48c5aeb1bf11/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

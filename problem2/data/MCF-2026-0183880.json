@@ -1,0 +1,198 @@
+{
+  "uuid": "f9fde6c3e486b25e201f7a8fdda6ce7c",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Sales Executive – F&B / Indian Bar",
+  "description": "<h3>Job Description</h3><p>We are an Indian bar specialising in authentic Karnataka (Bangalore-style) bar bites and small plates. We are looking for a Senior Sales Executive to drive revenue growth through corporate bookings, events, and strategic partnerships.</p><p>This role involves handling key accounts, mentoring junior sales staff, and supporting sales planning initiatives while maintaining strong client relationships.</p><h3>Key Responsibilities</h3><ul><li><p>Generate and manage sales for corporate bookings, private events, and group reservations</p></li><li><p>Develop and maintain relationships with key corporate and repeat clients</p></li><li><p>Handle complex or high-value sales enquiries and negotiations</p></li><li><p>Support and guide junior sales executives when required</p></li><li><p>Coordinate closely with operations and kitchen teams for event execution</p></li><li><p>Monitor sales performance and contribute to sales planning and forecasting</p></li><li><p>Prepare sales proposals, contracts, and follow-up reports</p></li><li><p>Represent the restaurant at networking or promotional events</p></li></ul><h3>Job Requirements</h3><ul><li><p>Minimum 4–6 years of relevant sales experience, preferably in F&B or hospitality</p></li><li><p>Proven track record in achieving sales targets</p></li><li><p>Strong negotiation, communication, and relationship management skills</p></li><li><p>Ability to work independently with minimal supervision</p></li><li><p>Organised, results-driven, and customer-focused</p></li><li><p>Comfortable handling senior stakeholders and corporate clients</p></li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Multitasking Skills",
+      "uuid": "4d2c52bb0cb2cc92442a722c5057dc6a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Relationship Management",
+      "uuid": "5e0277be453b4b61d6cccb9bdc95594c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Revenue Growth",
+      "uuid": "b8f10fe39536f2e56a495fa6e2d1afdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33223",
+  "occupationId": "OCC061174",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202535399Z",
+    "description": null,
+    "name": "KANAXS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:11:52.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "80",
+    "street": "SYED ALWI ROAD",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "207659",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30891794593689,
+    "lng": 103.856140586344
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183880",
+    "deletedAt": null,
+    "createdBy": "1fa75f98-c917-48a0-a770-70dbe70cc087",
+    "createdAt": "2026-01-29T10:17:38.000Z",
+    "updatedAt": "2026-01-29T10:17:39.000Z",
+    "emailRecipient": "1fa75f98-c917-48a0-a770-70dbe70cc087",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 38,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/senior-sales-executive-%E2%80%93-fb-indian-bar-kanaxs-f9fde6c3e486b25e201f7a8fdda6ce7c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f9fde6c3e486b25e201f7a8fdda6ce7c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f9fde6c3e486b25e201f7a8fdda6ce7c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

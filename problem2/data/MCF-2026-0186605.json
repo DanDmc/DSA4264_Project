@@ -1,0 +1,197 @@
+{
+  "uuid": "a9cd82abb8ddcdfdf2c7178837b3ee63",
+  "sourceCode": "Employer Portal",
+  "title": "Service Crew (Cafe)",
+  "description": "<p><strong>Job Responsibilities:</strong><br>\n <br>\n • Greet customers courteously and assist them with their orders, if needed.</p>\n<p>• Prepare and serve beverages consistent with company’s quality standards.<br>\n • Serve customers with their food.</p>\n<p>• Maintain beverage making appliances/equipment in a functional and clean manner to support efficient beverage making.</p>\n<p>• Perform cashier’s duties</p>\n<p>• Clean and maintain the café areas including washing of table wares etc<br>\n • Assist in the stocking and replenishment of beverage supplies.</p>\n<p>• Follow the company’s security &amp; safety procedures, hygiene &amp; service practices.</p>\n<p>• Perform any other duties as and when required by the Management.<br>\n <br>\n <strong>Job Requirements:</strong></p>\n<p>• Preferably with 1 years’ relevant experience and a valid food safety course level 1 certificate.</p>\n<p>• Minimum secondary school education</p>\n<p>• Willing to work on weekends and public holidays (for part time staff: Thursday – Sunday full shift). Shifts: 9am – 6pm and 12 – 9pm.<br>\n• Able to work independently and support other team members proactively</p>\n<p>in a fast-paced environment</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Oriented",
+      "uuid": "1679904a73c2d3eb34300987e0439951",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51312",
+  "occupationId": "OCC060571",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200200727H",
+    "description": null,
+    "name": "GIG COFFEE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:11:58.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200727H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200727H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200727H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200727H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186605",
+    "deletedAt": null,
+    "createdBy": "82b2c7a1-dd0d-4d60-bd96-32c058a356c9",
+    "createdAt": "2026-01-30T02:29:44.000Z",
+    "updatedAt": "2026-01-30T02:29:44.000Z",
+    "emailRecipient": "82b2c7a1-dd0d-4d60-bd96-32c058a356c9",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 99,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/service-crew-gig-coffee-a9cd82abb8ddcdfdf2c7178837b3ee63",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2600,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a9cd82abb8ddcdfdf2c7178837b3ee63"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a9cd82abb8ddcdfdf2c7178837b3ee63/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

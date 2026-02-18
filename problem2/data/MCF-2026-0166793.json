@@ -1,0 +1,264 @@
+{
+  "uuid": "db890e5d61fc3c08d3a24e49cac16dee",
+  "sourceCode": "Employer Portal",
+  "title": "CHEF",
+  "description": "<p>Our Chinese restaurant specializing is looking for an experienced and passionate <strong>Chef</strong> to join our team. The ideal candidate should be skilled in authentic Sichuan-style cooking, able to design flavorful and creative menus, and lead the kitchen team to maintain high food quality standards.</p><p><strong>Responsibilities:</strong></p><ul><li>Plan and develop authentic menus, considering cost, taste, and seasonal ingredients.</li><li>Supervise and manage daily kitchen operations.</li><li>Ensure all dishes are prepared and presented according to restaurant standards.</li><li>Train and guide kitchen staff in cooking techniques and hygiene practices.</li><li>Monitor stock levels, ingredients, and kitchen supplies; place orders as needed.</li><li>Maintain high standards of cleanliness and food safety in the kitchen.</li><li>Innovate and introduce new dishes to keep the menu attractive.</li><li>Handle feedback from customers and improve where necessary.</li></ul><p><strong>Requirements:</strong></p><ul><li>Proven experience as a <strong>Chef</strong>, preferably in a Korean<strong> restaurant</strong>.</li><li>Strong knowledge of<strong> cooking techniques and flavors</strong>.</li><li>Excellent leadership and communication skills.</li><li>Able to work efficiently under pressure and handle multiple tasks.</li><li>High standards of food quality, hygiene, and presentation.</li><li>Passion for creating delicious and authentic Chinese dishes.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Baking",
+      "uuid": "a11e3d7212c369ba1a229ea7a8ae65de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Culinary Skills",
+      "uuid": "de9730b19b980c74412a3a5abead9c30",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pastry",
+      "uuid": "e8c3f5ae850a71c6d443395839ffe9ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201928565G",
+    "description": null,
+    "name": "TALENT CONNECT HR CONSULTANCY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:28:44.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928565G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928565G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928565G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928565G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "201700797C",
+    "description": null,
+    "name": "TAI YUAN (SINGAPORE) BUSINESS DEVELOPMENT PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:33:34.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201700797C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201700797C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201700797C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201700797C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8A",
+    "street": "ADMIRALTY STREET",
+    "floor": null,
+    "unit": null,
+    "building": "FOOD XCHANGE @ ADMIRALTY",
+    "postalCode": "757437",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.46304653406293,
+    "lng": 103.814359812718
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166793",
+    "deletedAt": null,
+    "createdBy": "3b258488-feec-49e9-acb2-b1c83c294f74",
+    "createdAt": "2026-01-27T07:17:08.000Z",
+    "updatedAt": "2026-01-27T07:17:08.000Z",
+    "emailRecipient": "3b258488-feec-49e9-acb2-b1c83c294f74",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 36,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-tai-yuan-business-development-db890e5d61fc3c08d3a24e49cac16dee",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4600,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/db890e5d61fc3c08d3a24e49cac16dee"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/db890e5d61fc3c08d3a24e49cac16dee/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

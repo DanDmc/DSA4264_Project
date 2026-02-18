@@ -1,0 +1,238 @@
+{
+  "uuid": "93aea1602903deeb997a33900aaef8d6",
+  "sourceCode": "Employer Portal",
+  "title": "Geospatial Data Engineering",
+  "description": "<p><strong>About the Role</strong></p><p>At Kyndryl, you play a key role in shaping how organisations use geospatial intelligence at scale. If you’re excited about designing enterprise‑grade GIS platforms, building modern geospatial applications, and working with advanced spatial analytics, this role gives you the depth, complexity, and career runway to grow into a true GIS expert or architect.</p><p>Here, you won’t just maintain maps or process data—you’ll design, automate, and modernise full geospatial ecosystems for large enterprises across Singapore and the region.</p><p><strong>What You Will Do</strong></p><p><strong>1) Geospatial Data Engineering</strong></p><p>You’ll shape how spatial data is structured and managed across the organisation. You’ll:</p><ul><li>Design and maintain enterprise geodatabases (file/enterprise geodatabases, feature classes, domains, subtypes, topology rules).</li><li>Build ETL/ELT pipelines for vector, raster, and imagery using ArcGIS Data Interoperability, ArcGIS API for Python, ModelBuilder, or FME.</li><li>Implement data quality checks, metadata standards, schema versioning, and coordinate system workflows.</li></ul><p><strong>2) Services, Applications & Web GIS</strong></p><p>You’ll create the tools and experiences that users interact with every day. You’ll:</p><ul><li>Publish and optimise map, feature, and image services on ArcGIS Server.</li><li>Manage Portal for ArcGIS content, groups, permissions, and sharing models.</li><li>Build web GIS applications using Experience Builder, Web AppBuilder, Dashboards, Field Maps, Survey123, and StoryMaps.</li><li>Develop custom web applications using ArcGIS Maps SDK for JavaScript, ArcGIS REST API, and modern web frameworks.</li></ul><p><strong>3) Spatial Analytics & Modeling</strong></p><p>You turn raw data into actionable insights. You’ll:</p><ul><li>Execute advanced analysis (network, proximity, spatial statistics, suitability, 3D/scene layers) in ArcGIS Pro.</li><li>Use GeoAnalytics, Raster/Spatial Analyst, Image Analyst, and Notebooks for large-scale analytics.</li><li>Build repeatable geoprocessing models, notebooks, and scheduled jobs for production analytics.</li></ul><p><strong>4) Automation & Integration</strong></p><p>You ensure the GIS ecosystem is efficient, scalable, and well‑connected. You’ll:</p><ul><li>Automate admin tasks with ArcGIS API for Python (users, services, content, backups, monitoring).</li><li>Integrate ArcGIS with enterprise platforms like SQL Server, PostgreSQL/PostGIS, ERP/CRM, data lakes, or APIs.</li><li>Support real-time/event-driven GIS using GeoEvent Server, streaming services, and IoT feeds.</li></ul><p><strong>5) Platform Operations & Security</strong></p><p>You help keep the GIS platform reliable, secure, and high‑performing. You’ll:</p><ul><li>Support ArcGIS Enterprise deployments (Windows/Linux, on‑prem, Azure, AWS).</li><li>Monitor caching, indexing, performance tuning, and ArcGIS Online credit usage.</li><li>Enforce governance for roles, permissions, SSO/Entra ID, and security policies.</li></ul><p><strong>Why Join Kyndryl?</strong></p><p>You’ll be part of a global technology services organisation driving digital transformation across Singapore’s key industries. You’ll get:</p><ul><li>Opportunities to work on meaningful national-scale or enterprise projects</li><li>Exposure to cloud, automation, security, and data engineering</li><li>A culture that values engineering depth, innovation, and continuous learning</li><li>A supportive environment where your ideas shape the GIS landscape</li></ul><p><u><strong>Required Skills & Experience</strong></u></p><ul><li><strong>Minimum 5+ years of relevant hands‑on experience </strong>in geospatial engineering, GIS development, or enterprise GIS platform management</li><li>Strong hands‑on experience with <strong>ArcGIS Enterprise</strong>, <strong>ArcGIS Pro</strong>, and core Esri geospatial technologies</li><li>Solid understanding of <strong>enterprise geodatabases</strong> (e.g., SQL Server, PostgreSQL/PostGIS), spatial data models, and coordinate systems</li><li>Practical experience with <strong>Python</strong> for geospatial automation, scripting, or administrative tasks</li><li>Experience working with <strong>web GIS</strong> tools or applications (e.g., Portal/ArcGIS Online, Web GIS app builders)</li><li>Strong analytical skills with the ability to interpret, process, and validate complex geospatial datasets</li><li>Familiarity with <strong>GIS system administration</strong> concepts such as roles/permissions, security policies, or platform performance tuning</li><li>Ability to work collaboratively in a technical environment and communicate effectively with non‑technical stakeholders<br /></li></ul><p><u><strong>Preferred Skills & Experience</strong></u></p><ul><li>Experience with <strong>ETL tools</strong> such as FME, ArcGIS Data Interoperability, or other data integration platforms</li><li>Knowledge of <strong>ArcGIS Maps SDK for JavaScript</strong> or modern frontend frameworks for building custom GIS applications</li><li>Exposure to <strong>GeoEvent Server</strong>, real‑time data streams, or IoT‑driven GIS workflows</li><li>Experience deploying GIS solutions in <strong>cloud environments</strong> (Azure, AWS, Kubernetes)</li><li>Familiarity with <strong>spatial analytics extensions</strong> such as GeoAnalytics, Spatial Analyst, Image Analyst, or Raster analytics</li><li>Understanding of enterprise integrations with <strong>ERP/CRM systems</strong>, data lakes, or REST‑based APIs</li><li>Professional certifications in geospatial technologies, cloud platforms, or data engineering</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Integration",
+      "uuid": "6d8ab8489413756b1af6bdab6b80863e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GIS",
+      "uuid": "715ecda3bb03efbf6f1326d8a6c32193",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Quality",
+      "uuid": "74c365aff7ca1dee7d22bdad58071514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ArcGIS",
+      "uuid": "9ad3632306ed97a9facacb9d9320a8a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Tuning",
+      "uuid": "bffe7898e0faada14e4fb09bd6717314",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Statistics",
+      "uuid": "c33e404a441c6ba9648f88af3c68a1ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Metadata",
+      "uuid": "ce21470ab49d1d1976bc3dc72438c183",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202101462E",
+    "description": "<p>Kyndryl is the world's largest provider of IT infrastructure services, dedicated to designing, building, managing, and modernizing the mission-critical technology systems that power the global digital economy.&nbsp;</p>\n<p>Kyndryl operates in over 60 countries, serving a diverse range of industries including banking, healthcare, retail, and telecommunications. The company's expertise spans cloud services, cybersecurity, AI-driven automation, and digital transformation, enabling organizations to enhance resilience, agility, and innovation. With a customer-centric approach, Kyndryl collaborates closely with clients and technology partners to co-create solutions that drive business outcomes and accelerate growth in the digital era.&nbsp;</p>",
+    "name": "KYNDRYL (SINGAPORE) PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "https://www.kyndryl.com/us/en",
+    "lastSyncDate": "2026-02-04T02:46:50.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202101462E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202101462E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202101462E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202101462E/schemes"
+      }
+    },
+    "logoFileName": "ca680cb276f2dff3ea3981f92e1e4ff7/kyndryl.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ca680cb276f2dff3ea3981f92e1e4ff7/kyndryl.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "STRAITS VIEW",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA ONE EAST TOWER",
+    "postalCode": "018936",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27790633865108,
+    "lng": 103.852851650485
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0154884",
+    "deletedAt": null,
+    "createdBy": "02f9e9f2-3360-4ed2-926a-5f39ed59104a",
+    "createdAt": "2026-01-26T01:11:23.000Z",
+    "updatedAt": "2026-01-26T01:11:23.000Z",
+    "emailRecipient": "02f9e9f2-3360-4ed2-926a-5f39ed59104a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 142,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/geospatial-data-engineering-kyndryl-93aea1602903deeb997a33900aaef8d6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/93aea1602903deeb997a33900aaef8d6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/93aea1602903deeb997a33900aaef8d6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

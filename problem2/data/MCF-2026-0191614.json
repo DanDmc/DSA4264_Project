@@ -1,0 +1,214 @@
+{
+  "uuid": "cb9199f2f7d84a93dd96d23350fb74da",
+  "sourceCode": "Employer Portal",
+  "title": "Sr Machine Learning / Reinforcement Learning Engineer",
+  "description": "<p>Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs.</p><p>We give Entrepreneurs time back to focus on what they love doing - growing their business and being with customers. With a surging number of Entrepreneurs globally, we are innovating in a highly lucrative space.</p><p>We operate 3 business segments:</p><p><strong>Corporate Secretary</strong>: Automating the company incorporation, secretarial, filing, Nominee Director, mailroom and immigration processes via custom online robots and SleekSign. We are the market leaders inSingapore with ~5% market share of all new business incorporations.</p><p><strong>Accounting & Bookkeeping</strong>: Redefining what it means to do Accounting, Bookkeeping, Tax and Payroll thanks to our proprietary SleekBooks ledger, AI tools and exceptional customer service.</p><p><strong>FinTech payments</strong>: Overcoming a key challenge for Entrepreneurs by offering digital banking services to new businesses.</p><p>Sleek launched in 2017 and now has around 15,000 customers across our offices in Singapore, Hong Kong, Australia and the UK. We have around 500 staff with an intact startup mindset. </p><p>We have recently raised Series B financing off the back of >70% compound annual growth in Revenue over the last 5 years. Sleek has been recognised by The Financial Times, The Straits Times, Forbes and LinkedIn asone of the fastest growing companies in Asia. </p><p>Backed by world-class investors, we are on track to be one of the few cash flow positive, tech-enabled unicorns based out of Singapore.</p><p>At Sleek, we are on a mission to streamline operations and elevate customer experience through intelligent automation powered by efficient, reliable, and production-grade ML/RL systems. <br /><br />We are seeking a <strong>Machine Learning / Reinforcement Learning Engineer (Applied) </strong>who will be a key individual contributor responsible for designing, building, and scaling next-generation ML/RL systems that operate under real-world business constraints.</p><p>As one of Sleek’s senior applied ML/RL contributors, you will partner closely with Product, Engineering, and AI teams to translate ambiguous business problems into measurable ML/RL outcomes. You will own systems end-to-end — from model optimisation and evaluation through deployment and post-production monitoring — ensuring that ML/RL capabilities are efficient, controllable, observable, and dependable in production.</p><p>You will play a central role in moving beyond generic, large-model approaches, replacing or augmenting them with small, domain-specific models, test-time reinforcement learning, and agentic systems that deliver clear improvements in quality, latency, cost, and reliability. Your work will directly shape how ML/RL is deployed across Sleek’s products and internal operations.</p><h3>You Will Ensure</h3><ul><li><p>Efficient, production-ready ML/RL systems that make explicit, data-driven trade-offs between quality, latency, throughput, and cost</p></li><li><p>Robust optimisation and evaluation practices, including benchmarks, regression testing, and production monitoring, to ensure sustained performance over time</p></li><li><p>Reliable test-time reinforcement learning and agentic workflows, with guardrails, fallbacks, and observability to manage risk and instability</p></li><li><p>Pragmatic integration of ML/RL into real systems, designed for scalability, maintainability, and operational excellence rather than experimentation alone</p></li><li><p>Clear technical communication and cross-team alignment, enabling predictable delivery and informed decision-making</p></li><li><p>A high bar for engineering discipline, including reproducibility, monitoring, documentation, and continuous improvement</p></li></ul><p>Key outcomes in the first 6-12 months</p><h3>Ship High-Impact ML/RL Systems</h3><ul><li><p>Deliver production-grade ML/RL systems that create measurable improvements in quality, latency, cost, or reliability.</p></li><li><p>Replace or augment baseline approaches with small, domain-specific models where they provide superior performance-to-cost trade-offs.</p></li><li><p>Define and track clear success metrics and benchmarks for all deployed systems.</p></li></ul><h3>Establish Efficient Model Training & Serving (SMOL)</h3><ul><li><p>Build and operate efficient training and serving pipelines using distillation, quantization, and parameter-efficient fine-tuning.</p></li><li><p>Maintain benchmark suites covering quality, latency, throughput, memory, and cost.</p></li><li><p>Drive explicit, data-backed trade-offs in model and deployment decisions.</p></li></ul><h3>Deploy Test-Time RL & Optimization</h3><ul><li><p>Implement test-time optimisation (TTRL / TPO) to improve generative or agentic outputs within strict latency and cost budgets.</p></li><li><p>Introduce reward-guided decoding or reranking with measurable gains.</p></li><li><p>Add monitoring, guardrails, and fallback strategies to manage instability and regressions.</p></li></ul><h3>Build Reliable Agentic Systems</h3><ul><li><p>Design and ship agentic workflows with multi-step planning and execution across tools and data sources.</p></li><li><p>Implement orchestration for long-running workflows (state, retries, timeouts, idempotency).</p></li><li><p>Establish evaluation harnesses and regression tests to track agent reliability and cost over time.</p></li></ul><h3>Establish ML/RL Operational Excellence</h3><ul><li><p>Implement production monitoring for quality, latency, cost, and failure modes.</p></li><li><p>Ensure training, experimentation, and deployment are reproducible, documented, and observable.</p></li><li><p>Partner closely with Product and Engineering to translate ambiguous problems into shippable ML/RL solutions.</p></li></ul><p><strong>Must-have experience:</strong></p><p>Candidates must demonstrate hands-on, production experience across all areas below.</p><ul><li><p>Applied ML in Production: ~5+ years building, training, and shipping ML systems using Python and PyTorch, with clear ownership beyond experimentation.</p></li><li><p>Efficient Model Training (SMOL): Experience replacing or augmenting large models with smaller, domain-specific ones using distillation, quantization, or parameter-efficient fine-tuning, supported by clear benchmarks.</p></li><li><p>Reinforcement Learning & Test-Time Optimization: Solid RL fundamentals and experience deploying inference-time optimisation systems (e.g. reward-guided decoding, reranking) under latency and cost constraints.</p></li><li><p>Agentic Systems: Experience building multi-step agents with orchestration concerns such as state, retries, timeouts, and fallbacks, and improving their reliability and cost in production.</p></li><li><p>ML/RL Operational Excellence: Experience with reproducible training pipelines, evaluation, monitoring, and production debugging, and collaborating closely with Product and Engineering on constraint-driven problems.</p></li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Experimentation",
+      "uuid": "45071f255ad41e414e8f5404497caf0c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regression Testing",
+      "uuid": "4dd7ea3b36ca17a13de6367c2984e4a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Throughput",
+      "uuid": "6d26d43c61c837e46ffa031e6c4feabb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Engineering",
+      "uuid": "77d3c2a59d9947a495204bc9156b6726",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PyTorch",
+      "uuid": "95b88f180e9eb5678e0f9ebac2cbe643",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Communication",
+      "uuid": "bbf1f26a792c168c6a7ebfe043655eac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC013793",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202310792R",
+    "description": "<p>Sleek is on a mission to revolutionize how entrepreneurs operate their business. We want to give small business owners peace of mind and the power of online solutions to allow them to focus on what they do best - growing their business. As we work for our thousands of customers, we gather millions of data points about their business, and in turn we transform those into useful, actionable insights and recommendations to accelerate their growth through smart algorithms.</p>\n<p>We are a team of 500 builders from 18 countries, with offices in Singapore, Philippines, India, Vietnam, Hong Kong, Australia and the UK committed to delivering a delightful experience to our clients!</p>",
+    "name": "SLEEK R&D AND MANAGEMENT (PTE. LTD.)",
+    "ssicCode": null,
+    "employeeCount": 500,
+    "companyUrl": "https://sleek.com/sg/jobs/",
+    "lastSyncDate": "2026-02-04T08:57:37.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R/schemes"
+      }
+    },
+    "logoFileName": "a47f632d5abdaf803e738a229fa942da/sleek-rd-management.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a47f632d5abdaf803e738a229fa942da/sleek-rd-management.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "160",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE BUSINESS FEDERATION CENTER",
+    "postalCode": "068914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27812790985949,
+    "lng": 103.847854628243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191614",
+    "deletedAt": null,
+    "createdBy": "d159d90b-88f3-4944-96da-47d509784867",
+    "createdAt": "2026-01-30T11:57:00.000Z",
+    "updatedAt": "2026-01-30T11:57:00.000Z",
+    "emailRecipient": "d159d90b-88f3-4944-96da-47d509784867",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 69,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/sr-machine-learning-reinforcement-learning-engineer-sleek-rd-management-cb9199f2f7d84a93dd96d23350fb74da",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cb9199f2f7d84a93dd96d23350fb74da"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cb9199f2f7d84a93dd96d23350fb74da/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

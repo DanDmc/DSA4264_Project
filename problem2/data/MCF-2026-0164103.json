@@ -1,0 +1,200 @@
+{
+  "uuid": "cedb842f62f1ae0114fbd4f95f0aed0d",
+  "sourceCode": "Employer Portal",
+  "title": "TECHNICIAN",
+  "description": "<p><strong>Job Summary</strong></p><p>You will apply your technical expertise and construction industry experience to support site coordination and management, ensuring operational efficiency and safety compliance. You will navigate Singapore roadways confidently to facilitate project execution and contribute to organizational reliability.</p><p><strong>Responsibilities</strong></p><ul><li>Apply technical knowledge to support construction site coordination and management, ensuring alignment with project goals and timelines</li><li>Navigate Singapore roadways efficiently to facilitate timely site visits and project oversight</li><li>Communicate effectively in English with management and site teams to relay critical information and support decision-making</li><li>Demonstrate flexibility by working overtime as needed to meet project deadlines and operational demands</li><li>Uphold company values by maintaining loyalty and integrity in all professional activities</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Bachelor’s degree, preferably in a technical field, to provide foundational knowledge for construction-related tasks</li><li>Minimum of 5 years’ experience in the construction industry within a technical role, demonstrating applied expertise</li><li>Class 3 driving licence to enable safe and legal operation of vehicles on Singapore roads</li><li>Familiarity with Singapore roadways to ensure efficient travel between sites</li><li>Completion of the Safety Coordinator Course, accredited by Singapore BCA, enhances safety management capabilities</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 7,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1159",
+  "postedCompany": {
+    "uen": "202145191G",
+    "description": null,
+    "name": "GOLDEN CONSTRUCTION & ENGINEERING PTE. LTD.",
+    "ssicCode": "43210",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:20:25.000Z",
+    "ssicCode2020": "43210",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145191G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145191G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145191G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145191G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "209C",
+    "street": "COMPASSVALE LANE",
+    "floor": null,
+    "unit": null,
+    "building": "COMPASSVALE VIEW",
+    "postalCode": "543209",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38399373466047,
+    "lng": 103.899173530483
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164103",
+    "deletedAt": null,
+    "createdBy": "6b43255a-b84d-42a7-a2a4-1fd6ce433ccc",
+    "createdAt": "2026-01-27T02:36:14.000Z",
+    "updatedAt": "2026-01-27T02:36:14.000Z",
+    "emailRecipient": "6b43255a-b84d-42a7-a2a4-1fd6ce433ccc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 68,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/technician-golden-construction-engineering-cedb842f62f1ae0114fbd4f95f0aed0d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cedb842f62f1ae0114fbd4f95f0aed0d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cedb842f62f1ae0114fbd4f95f0aed0d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

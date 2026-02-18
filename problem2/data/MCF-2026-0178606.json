@@ -1,0 +1,203 @@
+{
+  "uuid": "41681293c2f86f7fd18f306db3ef8d96",
+  "sourceCode": "Employer Portal",
+  "title": "Registered Nurse",
+  "description": "<p><strong>Job Description</strong></p>\n<ul>\n  <li>Close liaison with doctors to ensure delivery of high-quality patient care</li>\n  <li>Attend and follow up on patient enquiries</li>\n  <li>Perform nursing duties such as blood pressure taking, venepuncture and ECG</li>\n  <li>Dispense medicine in the course of business of the clinic</li>\n  <li>Perform clinic administrative duties such as coordinating of appointments, billing, update and maintain medical records while ensuring accuracy and patient confidentiality</li>\n  <li>Involve in inventory management and stock taking of medicine and apparatus used in the clinic</li>\n  <li>Respond to Code Blue and other urgent calls for care</li>\n</ul>\n<p><strong>Job Requirements</strong></p>\n<ul>\n  <li>Registered nurse with Singapore Nursing Board (SNB)</li>\n  <li>Diploma in Nursing</li>\n  <li>Possess good command in English and effective communication skills</li>\n  <li>Great team player</li>\n  <li>Well versed in medical knowledge</li>\n  <li>Experience in private clinic setting and/or Cardiology setting will be an added advantage</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medicine",
+      "uuid": "4ff278b4704d3e44b01ff80f37386777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medical Records",
+      "uuid": "dc7d61e6f35a1fcdd7a7115d87864fc0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Care",
+      "uuid": "dfe9a5014f4387967da54a6e80631e69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cardiology",
+      "uuid": "fd711c6171bc27e45eb71ad28bdbcf2f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22200",
+  "occupationId": "OCC014482",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0841",
+  "postedCompany": {
+    "uen": "201807754R",
+    "description": null,
+    "name": "TCI CARDIOLOGY PTE. LTD.",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T01:14:16.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807754R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807754R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807754R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807754R/schemes"
+      }
+    },
+    "logoFileName": "7ad33881d7d47339c8ef0c2eb1705535/tci-cardiology.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7ad33881d7d47339c8ef0c2eb1705535/tci-cardiology.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178606",
+    "deletedAt": null,
+    "createdBy": "f56c072b-f0d6-455f-bf8f-97f0d3088131",
+    "createdAt": "2026-01-29T01:15:40.000Z",
+    "updatedAt": "2026-01-29T01:15:40.000Z",
+    "emailRecipient": "f56c072b-f0d6-455f-bf8f-97f0d3088131",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 81,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/registered-nurse-tci-cardiology-41681293c2f86f7fd18f306db3ef8d96",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/41681293c2f86f7fd18f306db3ef8d96"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/41681293c2f86f7fd18f306db3ef8d96/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

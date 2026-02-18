@@ -1,0 +1,204 @@
+{
+  "uuid": "b8054c9925ce22a594f20ba2551d9ae6",
+  "sourceCode": "Employer Portal",
+  "title": "Project Engineer",
+  "description": "<p>The scope of Project Engineer shall include but not limited to the following.</p><p>Manage the document review process, including collating comments from all reviewing parties and ensuring proper follow-up to the review comments;</p><p>Manage and coordinate the design, installation, testing and commissioning activity, including coordination with all stakeholders (contractors, site owners, end users);</p><p>Liaise with the contractors and stakeholders to monitor and update the programme and work schedule; <br />Provide the assistance to the project team in terms of project delivery;</p><p>Prepare project summary reports for progress reporting; and</p><p>Manage the administrative activities of the project, including coordinating meetings, preparing meeting records, preparing the presentation material and drafting letters for issuance.</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Planning",
+      "uuid": "7a51b3c516f387f33de6b28cc0627b18",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Document Review",
+      "uuid": "f31a51ebecf7be9f669e3d9e7bf0e345",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "13302",
+  "occupationId": "OCC001960",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1131",
+  "postedCompany": {
+    "uen": "200413557M",
+    "description": "<p>ITCAN PTE LTD , headquartered in Singapore, offers a full spectrum of integrated IT S/W Solutions & Services.</p>\r\n\r\n<p>Empowered to deliver enterprise client Server or web based solutions across the entire value chain, spanning on - site consulting services to turn key S/ W projects</p>\r\n\r\n<p>Regional Offices : Malaysia / Australia / HKG /</p>\r\n\r\n<p>Clients in : Europe / US / Canada /China / Japan / Middle East</p>\r\n\r\n<p>Multi Awards Winner : E50 , APEA, AREA, SOE , ASME, SIEA , AEA, TGE, (Visit Website for more details)</p>\r\n",
+    "name": "ITCAN PTE. LIMITED",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:02:17.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174578",
+    "deletedAt": null,
+    "createdBy": "37be3f44-8d3c-44fe-9ebb-bae50e9f8ff9",
+    "createdAt": "2026-01-28T06:51:35.000Z",
+    "updatedAt": "2026-01-28T06:51:35.000Z",
+    "emailRecipient": "37be3f44-8d3c-44fe-9ebb-bae50e9f8ff9",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/project-engineer-itcan-b8054c9925ce22a594f20ba2551d9ae6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5600,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b8054c9925ce22a594f20ba2551d9ae6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b8054c9925ce22a594f20ba2551d9ae6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

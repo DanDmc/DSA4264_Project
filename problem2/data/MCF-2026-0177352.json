@@ -1,0 +1,211 @@
+{
+  "uuid": "6a63ccadb4d4c8374565f1a5aa64da97",
+  "sourceCode": "Employer Portal",
+  "title": "Technical Lead",
+  "description": "<p>·  Bachelor's or Master's degree in Computer Science, Engineering, or a related field.</p><p>·  7+ years in software development with 3+ years in a Technical Lead or Architect role, preferably within the Financial Services industry.</p><p>·  Strong experience in Spring Boot (REST, Spring Cloud, Spring Security, Spring Data JPA) and Spring Batch for high-volume financial transaction processing system development and designing.</p><p>·  Good experience with PostgreSQL database, including advanced querying, indexing, and transaction management.</p><p>·   Experience with event-driven architectures (Kafka, RabbitMQ) for real-time transaction processing.</p><p>·  Proficiency in CI/CD, GitOps, Kubernetes.</p><p>·    Proven leadership skills, with experience leading technical teams and projects from conception to deployment.</p><p>·  Excellent problem-solving abilities and a detail-oriented mindset.</p><p>·   Strong communication skills to articulate technical concepts to non-technical stakeholders.</p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RabbitMQ",
+      "uuid": "7eaa993723e57b3bfc99923c196e2e17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Boot",
+      "uuid": "926e67801e570a3898ddaef281c23075",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apache Kafka",
+      "uuid": "bb2bd99338b18762ef6953ad2cbfafc7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Financial Services",
+      "uuid": "f279b250fb9ccc9ae5a43849e8f6fd4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002052",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201531386D",
+    "description": "<p>   TRINITY CONSULTING SERVICES is a Professional Consulting, IT Solutions and Services Company. We strive to make your business systems more efficient and more reliable by working with you to implement and support the best in class service and innovative solutions.</p>  <p>   Our main focus is to create Client-Centric, Innovative IT Strategies and Comprehensive Solutions for the clients we support, and to implement that strategy in a timely and cost effective manner.</p>  <p>   Our Team comprises of skilled and experienced professionals from consulting and business environment with a diverse culture which heps our clients achieve higher return of investments.</p>  <p>    </p>  <p>   <strong>OUR SERVICES</strong></p>  <ul>   <li>    <strong>Technology Consulting Services</strong></li>   <li>    <strong>Managed Application Services</strong></li>   <li>    <strong>Managed Infrastructure Services</strong></li>  </ul>  <div>    </div>  ",
+    "name": "TRINITY CONSULTING SERVICES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "www.trinityconsulting.asia",
+    "lastSyncDate": "2026-02-04T00:54:57.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/schemes"
+      }
+    },
+    "logoFileName": "9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177352",
+    "deletedAt": null,
+    "createdBy": "e9cde954-78be-48c2-a597-bc165816f662",
+    "createdAt": "2026-01-28T11:18:40.000Z",
+    "updatedAt": "2026-01-28T11:18:40.000Z",
+    "emailRecipient": "e9cde954-78be-48c2-a597-bc165816f662",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 67,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/technical-lead-trinity-consulting-services-6a63ccadb4d4c8374565f1a5aa64da97",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a63ccadb4d4c8374565f1a5aa64da97"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a63ccadb4d4c8374565f1a5aa64da97/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

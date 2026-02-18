@@ -1,0 +1,236 @@
+{
+  "uuid": "4128ec5ae221c5932e5cdaec33f791c0",
+  "sourceCode": "Employer Portal",
+  "title": "R&D Software Engineer (Java/Python)",
+  "description": "<p><em>Please submit your application via Thermo Fisher’s job portal. </em>https://jobs.thermofisher.com/global/en/job/R-01336006/Software-Engineer-II<br /><br />Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue exceeding $40 billion and extensive investment in R&D. Our Mission is to enable our customers to make the world healthier, cleaner and safer. The customers we serve fall within pharmaceutical and biotech companies, hospitals and clinical diagnostic labs, universities, research institutions and government agencies. Our innovations drive scientific breakthroughs, from pioneering research to routine testing and real-world applications.</p><p>How will you make an impact?</p><p>You will be a cornerstone in developing and ensuring reliable and innovative applications that ultimately drive excellence in our product offerings. You will collaborate with and learn from a dedicated team of software developers, revolutionizing healthcare through low-cost and high throughput diagnostic systems.</p><p><strong>What will you do?</strong></p><ul><li>Design, prototype, and deploy innovative applications — including chatbots, copilots, and autonomous agents — optimized for safety, performance, and cost-efficiency.</li><li>Integrate tools via Model Context Protocol (MCP) and other agent frameworks.</li><li>Design and implement robust, multi-turn conversational agents with escalation paths, safety guardrails, and seamless integration into web/mobile/internal platforms.</li><li>Using AI to quickly conduct feasibility study and POCs on new architecture designs.</li><li>Involved in all phases of software development including design, implementation, testing, integration, and maintenance of the software.</li><li>Development and support of GUI, analysis, communications, and instrument control software</li><li>Integration of algorithms & mathematical functions for identification and quantification of data collected by instruments</li><li>Understand the business needs, analyze the workflows, and carry out integrations across different sub-components.</li></ul><p><strong>How will you get here?</strong></p><p><strong>Education</strong></p><ul><li>Bachelors Degree in Computer Science or Bioengineering (with software focus) or equivalent</li></ul><p><strong>Experience and skills Required</strong></p><ul><li>2+ year experience in software development experience in the software industry preferably in AI application development and evaluation experience, fresh postgraduates with relevant research background are welcome</li><li>Hands-on experience with major LLMs/APIs or frameworks (Open AI, LangChain or Anthropic, Hugging Face etc)</li><li>Strong knowledge in using AI tools when performing development tasks.</li><li>Knowledge of latest software development methodologies</li><li>Experience in source control (i.e., GitHub) and CI/CD pipeline.</li><li>Proven background in core Java or Python.</li><li>Good understanding of data structures, design patterns, object-oriented design, and algorithms used in programming.</li><li>Excellent teamwork and collaboration skills. Ability to manage high priority tasks and adapt to changes in priorities. Effectively communicates and illustrates ideas; contributes critically and positively to a team.</li></ul><p><strong>Preferred experience and skills</strong></p><ul><li>Previous experience of developing web applications using front-end technologies like Angular, React, VueJS and Electron is a plus.</li><li>Familiar with RAG frameworks with vector search (eg. FAISS/pgvector/Pinecone), hybrid search, rerankers, citation/grounding.</li><li>Experience with MLOps tools (MLflow, Kubeflow, Docker, CI/CD) and cloud services</li><li>Hands-on experience of building agent or chatbot</li><li>Evaluation: RAGAS/G-Eval or similar; offline/online metrics and A/B frameworks.</li><li>Data systems: SQL/NoSQL, message queues, object storage; schema design for documents & metadata.</li><li>Understanding AI safety principles, hallucination mitigation, and factuality evaluation techniques.</li><li>Experience in using AWS Sagemaker, AWS Bedrock and AWS Step Functions to streamline the AI agents into production</li><li>Experience in biotechnology industry is a plus</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hospitals",
+      "uuid": "2bc847796054c051667ee4170b25ae41",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Instrument Control",
+      "uuid": "39bf462ffc9ffcbc9e37771c6b05d01c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Design Patterns",
+      "uuid": "475ae918a90c6f9956005c270e70c41f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SageMaker",
+      "uuid": "4f6473eacc58714a8d6d9a823b98139b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Throughput",
+      "uuid": "6d26d43c61c837e46ffa031e6c4feabb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Protocol",
+      "uuid": "888a77f5ac0748b6c8001822417df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Biotechnology",
+      "uuid": "8a07f2e22f8569cb73eebad5a52471d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Core Java",
+      "uuid": "97e80a3066e85a0f2eb75a021d4869d5",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Infrastructure Architecture",
+      "uuid": "a7ff5dbe222c2bda185337b7d608073d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quantification",
+      "uuid": "aff5a669a31d50b45366cb3a1d153686",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Angular",
+      "uuid": "c31c335ef37283c451b18ba0dd317de1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Applications",
+      "uuid": "c93aadf0c53f10fa9715606886defad9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002123",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 36,
+      "category": "Sciences / Laboratory / R&D"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200104491K",
+    "description": "<p>Thermo Fisher Scientific Inc. (NYSE: TMO) is the world leader in serving science, with annual revenue of approximately $40 billion. Our Mission is to enable our customers to make the world healthier, cleaner and safer. Whether our customers are accelerating life sciences research, solving complex analytical challenges, increasing productivity in their laboratories, improving patient health through diagnostics or the development and manufacture of life-changing therapies, we are here to support them. Our global team of more than 100,000 colleagues delivers an unrivaled combination of innovative technologies, purchasing convenience and pharmaceutical services through our industry-leading brands, including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon and PPD. For more information, please visit <a href=\"https://www.thermofisher.com/us/en/home.html\">www.thermofisher.com</a>.</p>",
+    "name": "LIFE TECHNOLOGIES HOLDINGS PTE. LTD.",
+    "ssicCode": "46592",
+    "employeeCount": null,
+    "companyUrl": "https://www.thermofisher.com",
+    "lastSyncDate": "2026-02-04T02:41:12.000Z",
+    "ssicCode2020": "46592",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200104491K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200104491K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200104491K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200104491K/schemes"
+      }
+    },
+    "logoFileName": "05c62187ac72c58f697e55fe9b73d521/life-technologies-holdings.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/05c62187ac72c58f697e55fe9b73d521/life-technologies-holdings.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "33",
+    "street": "MARSILING IND ESTATE ROAD 3",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "739256",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44068588533778,
+    "lng": 103.783567739371
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174261",
+    "deletedAt": null,
+    "createdBy": "2911185a-f6df-49b0-af5a-b03aae7e9052",
+    "createdAt": "2026-01-28T06:15:10.000Z",
+    "updatedAt": "2026-01-28T06:15:11.000Z",
+    "emailRecipient": "2911185a-f6df-49b0-af5a-b03aae7e9052",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 74,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/rd-software-engineer-life-technologies-holdings-4128ec5ae221c5932e5cdaec33f791c0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6800,
+    "minimum": 4300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4128ec5ae221c5932e5cdaec33f791c0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4128ec5ae221c5932e5cdaec33f791c0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

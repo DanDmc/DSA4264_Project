@@ -1,0 +1,238 @@
+{
+  "uuid": "bbebe2995a086be858627ee5dc56dc5a",
+  "sourceCode": "Employer Portal",
+  "title": "Ops Support Executive, Service Desk",
+  "description": "<p>ob Description</p><p>The 1st Level Remote Support is required to provide 1st level troubleshooting to users queries/incidents received (regardless of source; in a professional and timely manner)</p><p>SECTION B:        KEY RESPONSIBILITIES AND RESULTS</p><p>- Provide First Call Resolution (FCR) technical support via phone and email. Ensure calls are answered and emails are responded in a timely manner.</p><p>- Perform first level troubleshooting on all reported incidents and escalate incidents to 2nd level resolver groups as per work instructions.</p><p>- Furnish and submit timely updates to customers on the status of outstanding issues within targeted Service Level</p><p>- Maintain ownership of cases and follow-up on reported issues until closure and gather accurate and complete relevant information is recorded.</p><p>- Manage customer expectations and notify Team Lead in the event of unusual surge in calls of a specific nature.</p><p>- Handle initial classification/ prioritization of the incidents. Track the progress of resolution and provide regular updates for follow-up actions and incident status.</p><p></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Level",
+      "uuid": "79f05e8f99917560625d1cf3f2d4fc5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Lead",
+      "uuid": "bd4e5627c6a8942ffd11548987a3a843",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35123",
+  "occupationId": "OCC060965",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 8,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "83",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "200413557M",
+    "description": "<p>ITCAN PTE LTD , headquartered in Singapore, offers a full spectrum of integrated IT S/W Solutions & Services.</p>\r\n\r\n<p>Empowered to deliver enterprise client Server or web based solutions across the entire value chain, spanning on - site consulting services to turn key S/ W projects</p>\r\n\r\n<p>Regional Offices : Malaysia / Australia / HKG /</p>\r\n\r\n<p>Clients in : Europe / US / Canada /China / Japan / Middle East</p>\r\n\r\n<p>Multi Awards Winner : E50 , APEA, AREA, SOE , ASME, SIEA , AEA, TGE, (Visit Website for more details)</p>\r\n",
+    "name": "ITCAN PTE. LIMITED",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:02:17.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "CECIL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PRUDENTIAL TOWER",
+    "postalCode": "049712",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28279709576622,
+    "lng": 103.849887722614
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181823",
+    "deletedAt": null,
+    "createdBy": "adbd034e-927a-4337-b4fd-a64b24e80248",
+    "createdAt": "2026-01-29T07:24:36.000Z",
+    "updatedAt": "2026-01-29T07:24:36.000Z",
+    "emailRecipient": "adbd034e-927a-4337-b4fd-a64b24e80248",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/ops-support-executive-service-desk-itcan-bbebe2995a086be858627ee5dc56dc5a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bbebe2995a086be858627ee5dc56dc5a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bbebe2995a086be858627ee5dc56dc5a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

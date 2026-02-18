@@ -1,0 +1,259 @@
+{
+  "uuid": "77b059af1435c11ea8ceb6ded8d04c4a",
+  "sourceCode": "Employer Portal",
+  "title": "Operations Control & Warehouse Readiness Coordinator",
+  "description": "<p>We are hiring an <strong>Operations Control & Warehouse Readiness Coordinator</strong> to ensure warehouse operations, equipment readiness, and crew scheduling are carried out in a <strong>structured, rule-based, and predictable manner</strong>.</p><p>This role focuses on <strong>coordination, verification, and control</strong>, not physical warehouse work or event execution.</p><p>You will assign tasks, verify completion, control crew and driver work hours, and release or block jobs based on defined operational rules.<br /></p><p><br /><strong>Key Responsibilities</strong></p><h3><strong>Warehouse Task Coordination</strong></h3><ul><li><p>Assign warehouse tasks to execution staff (e.g. equipment movement, packing, tidying)</p></li><li><p>Set clear task scope and completion timelines</p></li><li><p>Monitor progress and flag delays early</p></li><li><p>Ensure warehouse areas remain orderly and ready for operations<br /></p><h3><strong>Equipment Readiness Verification</strong></h3><p><p>Verify that required equipment checks and packing have been completed by execution staff</p><p>Confirm completion through checklists or system records</p><p>Enforce equipment readiness states:</p><ul><li><p>AVAILABLE</p></li><li><p>PREPPING</p></li><li><p>ON RENT</p></li><li><p>QUARANTINED</p></li></ul><p>Block release of equipment that is not verified as ready</p><p>Enforce quarantine for faulty or incomplete items<br /></p><h3><strong>Crew & Driver Scheduling</strong></h3><ul><li><p>Assign crew and driver <strong>start and end times</strong> using predefined shift templates</p></li><li><p>Ensure compliance with legal working hour and rest requirements</p></li><li><p>Lock schedules once confirmed</p></li><li><p>Prevent informal or unauthorised schedule changes</p></li></ul><h3><strong>Scheduling Enforcement (Simple Jobs)</strong></h3><ul><li><p>Apply standard scheduling templates for simple delivery and setup jobs</p></li><li><p>Ensure simple jobs do not require project manager involvement</p></li><li><p>Escalate when job scope exceeds predefined “simple job” rules</p></li></ul><h3><strong>Operational Control & Escalation</strong></h3><ul><li><p>Enforce SOPs and checklists consistently</p></li><li><p>Maintain accurate inventory and scheduling data</p></li><li><p>Reject verbal overrides and informal exceptions</p></li><li><p>Escalate risks early instead of resolving issues at the last minute</p></li></ul><h2><strong>Requirements</strong></h2><h3><strong>Experience</strong></h3><ul><li><p>Experience in logistics coordination, warehouse operations, scheduling, or operations control</p></li><li><p>Experience in event logistics or equipment rental operations is an advantage</p></li></ul><h3><strong>Skills & Attributes</strong></h3><p><p>Strong attention to detail</p><p>Comfortable working with rules, checklists, and structured processes</p><p>Able to enforce procedures consistently</p><p>Calm under pressure and able to block work when requirements are not met</p><p>Organised, methodical, and process-driven<br /><br /><br /><strong>This Role Is Not Suitable If You</strong></p><p><p>Enjoy improvisation or last-minute problem solving</p><p>Are uncomfortable enforcing rules<br /></p><p><br /><strong>Working Hours</strong></p><ul><li><p>Standard full-time hours</p></li><li><p>Occasional extended hours during peak operational periods (within legal limits)</p></li></ul><h2><strong>About Us</strong></h2><p>We are a growing AV equipment rental and event support company serving corporate and professional clients in Singapore. Our operations prioritise <strong>reliability, discipline, and predictability</strong>.</p></p></p></p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Enforcement",
+      "uuid": "61438c8d2463d6dd334a1d4b8e7b03ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Control",
+      "uuid": "83506d0acff3216fd8efd79be7e181f9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Improvisation",
+      "uuid": "8d097d0290df2b192e199fcda28e322e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Unit Operations",
+      "uuid": "9aaa74fd5d8a84581594696cb33aeb73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AV",
+      "uuid": "b5951e63289a09c605832e2c235b3510",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33461",
+  "occupationId": "OCC061106",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "52860777D",
+    "description": "<p><strong>Motion Media Works</strong> is a Singapore-based audio-visual and event technology company specialising in corporate events, conferences, exhibitions, and trade shows. We provide professional AV solutions including LED walls, sound systems, display systems, and on-site technical support.</p><p>Our team supports a wide range of events, from corporate meetings to large-scale exhibitions, working closely with clients, venues, and event partners to deliver reliable, high-quality technical execution. We operate in fast-paced live environments where precision, teamwork, and accountability are critical.</p><p>We are a hands-on, technically driven company that places strong emphasis on proper setup standards, safety, and operational discipline. Team members gain real-world exposure to professional AV systems and live event workflows, with opportunities to develop into senior technical and leadership roles.</p>",
+    "name": "MOTION MEDIA WORKS",
+    "ssicCode": "73100",
+    "employeeCount": 13,
+    "companyUrl": "https://www.motionmediaworks.com",
+    "lastSyncDate": "2026-02-03T02:29:16.000Z",
+    "ssicCode2020": "73100",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52860777D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52860777D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52860777D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52860777D/schemes"
+      }
+    },
+    "logoFileName": "5fa901d44e30f36518832442d451dd80/MOTION MEDIA WORKS.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5fa901d44e30f36518832442d451dd80/MOTION%20MEDIA%20WORKS.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "11",
+    "street": "KALLANG PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "339155",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31534305415589,
+    "lng": 103.868321269812
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183768",
+    "deletedAt": null,
+    "createdBy": "37efd3b1-ab45-409d-a5f8-6f35c93e31b2",
+    "createdAt": "2026-01-29T10:06:53.000Z",
+    "updatedAt": "2026-01-29T10:06:53.000Z",
+    "emailRecipient": "37efd3b1-ab45-409d-a5f8-6f35c93e31b2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 56,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/operations-control-warehouse-readiness-coordinator-motion-media-works-77b059af1435c11ea8ceb6ded8d04c4a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/77b059af1435c11ea8ceb6ded8d04c4a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/77b059af1435c11ea8ceb6ded8d04c4a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

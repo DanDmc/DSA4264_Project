@@ -1,0 +1,214 @@
+{
+  "uuid": "7a6dbb1b014574f6cad3e1141424f1d0",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Personal (Maid Agency)",
+  "description": "<p>Job Description & Requirements</p><ul><li>This role kick start your career in a highly rewarding and highly satisfying environment.</li><li>You will be trained to effectively engage with job seekers and understanding employers business & hiring needs.</li><li>Understand both job seekers and client’s expectations, and manage a successful & good process in any job seeking experience.</li><li>You will be exposed to various candidates and clients from various industries and job functions.</li><li>Always learning and understanding different industries & functions. A learning process that never stop.</li><li>Work closely and learning the art of recruitment with the Team Leaders/Managers.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24232",
+  "occupationId": "OCC007586",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 20,
+      "category": "Human Resources"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53138228A",
+    "description": "<p>CENTRAL MANPOWERS</p>\r\n",
+    "name": "CENTRAL MANPOWERS",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T08:09:28.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53138228A"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53138228A/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53138228A/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53138228A/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "100",
+    "street": "JALAN SULTAN",
+    "floor": null,
+    "unit": null,
+    "building": "SULTAN PLAZA",
+    "postalCode": "199001",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30294523520252,
+    "lng": 103.861851786604
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187436",
+    "deletedAt": null,
+    "createdBy": "8fae395d-1b2c-426a-9f62-a376870b5a65",
+    "createdAt": "2026-01-30T03:51:05.000Z",
+    "updatedAt": "2026-01-30T03:51:05.000Z",
+    "emailRecipient": "8fae395d-1b2c-426a-9f62-a376870b5a65",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/sales-personal-central-manpowers-7a6dbb1b014574f6cad3e1141424f1d0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 1600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7a6dbb1b014574f6cad3e1141424f1d0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7a6dbb1b014574f6cad3e1141424f1d0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

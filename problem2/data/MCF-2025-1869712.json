@@ -1,0 +1,263 @@
+{
+  "uuid": "3ed74eb55319d624b7b5beba2f871846",
+  "sourceCode": "Employer Portal",
+  "title": "Data Analyst Lead",
+  "description": "<p><strong>Role Overview:</strong></p><p>The Senior Assistant Director (Data Analyst) leads the design, development, and continuous improvement of enterprise dashboards and analytical products that deliver actionable insights across HQ and Research Institutes.</p><p>This role ensures analytical outputs are trusted, well-governed, and aligned with organisational priorities, working closely with Business Analysts, Data Engineers, and AI teams to translate data into measurable outcomes.</p><p><strong>Key Responsibilities:</strong></p><p><strong>A. Enterprise Analytics Delivery</strong></p><ul><li>Lead the design and development of interactive dashboards and data visualisations using Power BI and Snowflake.</li><li>Define and maintain consistent data modelling and data transformation logic, metrics, and KPI definitions across analytical products.</li><li>Collaborate with Data Engineers to ensure datasets used are certified and discoverable in Alation, with clear business definitions and lineage.</li><li>Partner with Business Analysts to ensure dashboard outputs meet stakeholder needs and strategic objectives.</li><li>Oversee dashboard code version control.</li></ul><p><strong>B. Data Analysis & Insight Generation</strong></p><ul><li>Conduct deep-dive analyses to uncover trends, correlations, and drivers of business performance.</li><li>Translate findings into concise insights and actionable recommendations for leadership.</li><li>Integrate predictive or diagnostic analytics into dashboards in collaboration with the Data Science and AI teams.</li></ul><p><strong>C. Quality & Governance</strong></p><ul><li>Validate the accuracy, completeness, and timeliness of data powering dashboards.</li><li>Provide feedback on data quality and metadata accuracy to support Alation certification and stewardship processes.</li><li>Contribute to establishing and maintaining enterprise standards for dashboard design, refresh frequency, and version control.</li></ul><p><strong>D. Collaboration & Capability Building</strong></p><ul><li>Mentor junior analysts and uplift analytical standards across the team.</li><li>Lead training or sharing sessions under the Analytics Centre of Excellence to build data literacy organisation wide.</li><li>Act as a bridge between business users and technical teams, ensuring clarity and alignment on analytical goals.</li></ul><p><strong>Qualifications & Experience:</strong></p><ul><li>Bachelor’s degree in Data Science, Computer Science, Business Analytics, Information Technology, or a related discipline.</li><li>8–10 years of experience in data analysis, business intelligence, or performance analytics.</li><li>Advanced proficiency in Power BI, SQL, and data modelling using Snowflake.</li><li>Strong understanding of data pipelines, metadata management, and governance frameworks (e.g., Alation).</li><li>Excellent analytical, problem-solving, and data-visualisation skills.</li><li>Proven ability to engage senior stakeholders and communicate technical findings in plain language.</li><li>Experience leading or mentoring junior analysts is preferred.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Snowflake Cloud Data Warehouse",
+      "uuid": "02f618f4f19b5eeba4fa4ae4dafbbb09",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Mentoring",
+      "uuid": "089011f59ea2749a842c1cb289c52c5d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Business Intelligence",
+      "uuid": "218d34377078030bf9dfdc6fb78b5914",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dashboard",
+      "uuid": "2938c7f7e560ed972f8a4f68e80ff834",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data modelling",
+      "uuid": "2ea9c7a5e5a83800d7019de18b6af75b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Literacy",
+      "uuid": "4296cdaff1b9d979ae77f796e301e1b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Pipeline",
+      "uuid": "44015b690563d24a1b4f17c3e319c61e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Translation",
+      "uuid": "49c8ec7bdc67fc3751f926c914c82b96",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Transformation",
+      "uuid": "558f1e5fcbd7f1ca22a287c9997769f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Quality",
+      "uuid": "74c365aff7ca1dee7d22bdad58071514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stakeholder Engagement",
+      "uuid": "867e5c27fed3f9f4f75a8996b1ff2d19",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stewardship",
+      "uuid": "90f136dc03059c8585d8ae9604f545af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Analytics",
+      "uuid": "b2c9f528503026f131221343afd00040",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Science",
+      "uuid": "c78e2ad97b328dbafbd49edf182136f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Metadata",
+      "uuid": "ce21470ab49d1d1976bc3dc72438c183",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power BI",
+      "uuid": "e5c930f4134c3d946962924c7f02aab7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Visualisation",
+      "uuid": "ff4212bb7e6137059ee2c8ce48fcae8c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013821",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    },
+    {
+      "id": 36,
+      "category": "Sciences / Laboratory / R&D"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201405919C",
+    "description": "<p><u><strong>INNOVATIQ TECHNOLOGIES PTE. LTD:</strong></u></p>\n<p>We are Singapore Head Quartered multinational company with offices in Singapore, Malaysia and India. Planning to expand to other South East Asia and US. We are Client business focused technology and consultancy services company which focuses mainly in on the below business towers:</p>\n<p>1. Digital Transformation</p>\n<p>2. Cloud enablement &amp; migration</p>\n<p>3. Cyber Security</p>\n<p>4. Consultancy Services</p>\n<p><strong>1.</strong> <u><strong>Digital Transformation:</strong></u></p>\n<p>We provide end to end Digital Transformation through application development, Artificial Intelligence, Machine Learning and Internet of things to customers who want to keep pace with changing trends to achieve competitive edge of new generation business models. Even in this fast-moving 5G internet world we found some of the companies are stuck with their old practices of using excel and legacy applications to run their business. These legacy applications are still useful but require huge costs to enhance and maintain due to lack of support from the vendors. For such companies, we offer our consultancy services to implement and migrate to a new out-of-the-box products that provides more powerful features and support their business with productive way of working and reducing their operational cost.</p>\n<p>Digital transformation is the integration of digital technology into all areas of a business, fundamentally changing how you operate and deliver value to customers. It's also a cultural change that requires organizations to continually challenge the status quo, experiment, and get comfortable with failure. We provide Digital Transformation to Mid-Market and Enterprise Customers vis App Dev, AI, ML, RPA and IoT.</p>\n<p><u><strong>ERP Rollout for midmarket &amp; Enterprise clients:</strong></u></p>\n<p>ERP provides complete visibility into core business processes and optimizes systems through superior resource tracking and reporting, database management and data sharing and overall improved information systems. ERP systems can allow your business to expand without the addition of IT or staffing costs. We implement &amp; support SAP S4 HANA, MS Dynamics.</p>\n<p><strong>2.</strong> <u><strong>Cloud Enablement &amp; Migration</strong></u></p>\n<p>Our cloud service offerings include end to end consultancy and implementation as per needs of our customer business requirement. We are partner agnostic company and work with multiple cloud players of the market. Our employees are cloud certified with AWS, Azure and IBM. We offer our consultancy services to those clients who are looking to bring down their capex and move their workloads to open platforms that can help them to operate with minimal cost and faster response.</p>\n<p>We support the most open and secure public cloud for businesses and suggest a next-generation hybrid multi cloud platforms, advanced data and AI capabilities, and deep enterprise expertise across various Industries.&nbsp;</p>\n<p><br></p>",
+    "name": "INNOVATIQ TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": 50,
+    "companyUrl": "www.innovatiq.com.sg",
+    "lastSyncDate": "2026-02-04T01:14:38.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/schemes"
+      }
+    },
+    "logoFileName": "82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "FUSIONOPOLIS WAY",
+    "floor": null,
+    "unit": null,
+    "building": "CONNEXIS",
+    "postalCode": "138632",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29936328832976,
+    "lng": 103.787687643371
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1869712",
+    "deletedAt": "2026-01-04T17:15:04.000Z",
+    "createdBy": "14b67677-ec8f-4c98-8dc9-b211b4830afb",
+    "createdAt": "2025-12-05T08:49:57.000Z",
+    "updatedAt": "2026-01-29T09:08:30.000Z",
+    "emailRecipient": "14b67677-ec8f-4c98-8dc9-b211b4830afb",
+    "editCount": 2,
+    "repostCount": 1,
+    "totalNumberOfView": 556,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-05",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 100,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/data-analyst-lead-innovatiq-technologies-3ed74eb55319d624b7b5beba2f871846",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3ed74eb55319d624b7b5beba2f871846"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3ed74eb55319d624b7b5beba2f871846/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

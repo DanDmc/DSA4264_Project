@@ -1,0 +1,206 @@
+{
+  "uuid": "fc64722e2d360f7ead04c31ea40f1097",
+  "sourceCode": "Employer Portal",
+  "title": "Hair Illusionz private limited",
+  "description": "<p>hiring hairstylist</p><p><br /></p><p>able to perform cutting, bunning, coloring, perming and rebonding</p><p><br /></p><p>analysis scalp and hair</p><p><br /></p><p>provide best service to customer need</p><p><br /></p><p>manager appointment</p><p><br /></p><p>actively promote service and hair care to customer</p><p><br /></p><p>Able to work on weekend and public holiday</p><p><br /></p><p>10.30am-8pm</p><p><br /></p><p>4 day off per month</p><p><br /></p><p>annual leave</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Cutting",
+      "uuid": "60f807b6543169da8a03e9cbfa47e768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coloring",
+      "uuid": "8fea9135f9300abbaa4ab2d566a09148",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Focus",
+      "uuid": "c8519749262c7cf93603d66027b06843",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Blow Dry",
+      "uuid": "e1b586ce0a77e5369db06cc3247d58e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201220060D",
+    "description": null,
+    "name": "HAIR ILLUSIONZ PRIVATE LIMITED",
+    "ssicCode": "96021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:47:56.000Z",
+    "ssicCode2020": "96021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201220060D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201220060D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201220060D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201220060D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "50",
+    "street": "EAST COAST ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ROXY SQUARE",
+    "postalCode": "428769",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30335696401523,
+    "lng": 103.904685504029
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182695",
+    "deletedAt": null,
+    "createdBy": "e57927c3-dd9f-4d4c-81d9-56675be2f0f1",
+    "createdAt": "2026-01-29T08:51:29.000Z",
+    "updatedAt": "2026-01-29T08:51:29.000Z",
+    "emailRecipient": "e57927c3-dd9f-4d4c-81d9-56675be2f0f1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 29,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/professional-services/hair-illusionz-hair-illusionz-fc64722e2d360f7ead04c31ea40f1097",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fc64722e2d360f7ead04c31ea40f1097"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fc64722e2d360f7ead04c31ea40f1097/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

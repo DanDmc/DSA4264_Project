@@ -1,0 +1,261 @@
+{
+  "uuid": "057bcce3b71db5896863d1416a473549",
+  "sourceCode": "Employer Portal",
+  "title": "IT System Engineer",
+  "description": "<p><u><em><strong>What we expect:</strong></em></u></p>\n<ul>\n  <li>Oversee the IT infrastructure and administration of the server, network, and relevant devices.</li>\n</ul>\n<p>Ø Administration, Configuration &amp; Maintenance of Network Infrastructure ( Firewall like Fortinet, Load Balancer like Peplink/F5 )</p>\n<p>Ø Responsible for installing, configuring, and maintaining VM environment (VMWare, Hyper-V)</p>\n<p>Ø Active Directory, DHCP, DNS, Anti-virus server</p>\n<ul>\n  <li>Maintain servers and network file back-up/restore procedures (Internal &amp; Cloud environment)</li>\n  <li>Provide Local &amp; Wide Area Network, Router, Internet, and system support/troubleshooting at all levels.</li>\n</ul>\n<p><u><em><strong>What we are looking for:</strong></em></u></p>\n<ul>\n  <li>Candidate must possess at least a Diploma or Degree in Computer Science/Information Technology or equivalent.</li>\n  <li>At least 3 years of working experience in the related field is required for this position.</li>\n  <li>Ability to work independently and efficiently, managing timelines and expectations.</li>\n  <li>Good team player with strong analytical, communication, and troubleshooting skills.</li>\n  <li>CCNA/CCNP certification is an advantage</li>\n  <li>Knowledge in the cloud environments (AWS, Azure, Ali-cloud) will be an advantage</li>\n</ul>\n<p><u><em><strong>What we offer:</strong></em></u></p>\n<ul>\n  <li>Attractive rewards for long-term service staff</li>\n  <li>Energetic and friendly working environment (flexible working hours, quarterly events, staff birthday celebration and etc.)</li>\n  <li>Medical insurance</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Maintenance",
+      "uuid": "10d0de28911c5f66463b9c8783f8148a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Fortinet",
+      "uuid": "1f25b8a9986a2e7a04ee9538c462e578",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Security",
+      "uuid": "2fae32629d4ef4fc6341f1751b405e45",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS",
+      "uuid": "4847e034bb0a55fcbc8a3380d6a3ab80",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DHCP",
+      "uuid": "54201c55d2bdc7a9e19d9e032d8c0ede",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT infrastructure",
+      "uuid": "5992bf91ab6d1bb0037d5e450d11c5f9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Network Load Balancing",
+      "uuid": "82b04b5102aee4d43ae9a4521b705c51",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Internet Security",
+      "uuid": "961baaedeaf4c68581d604a998d13b70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Servers",
+      "uuid": "ac659513b2353187192e88c5d1988228",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Infrastructure",
+      "uuid": "c0cd2cab83592200f595e93d88f636ca",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Hyper-V",
+      "uuid": "c5865855c43d734069987786177edd98",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "environment",
+      "uuid": "e900e40bc91d3f9f7f0a99fed68a2e96",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC061349",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201932458M",
+    "description": "<p>About Alphawall:<br>\n<br>\nA leading cybersecurity provider offering managed detection and response, incident response, and threat intelligence services.<br>\nA distributor for cybersecurity solutions in the Asia Pacific region. Offers various Cloud services and cybersecurity solutions.<br>\n</p>",
+    "name": "ALPHAWALL PTE. LTD.",
+    "ssicCode": "62022",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T04:00:17.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M/schemes"
+      }
+    },
+    "logoFileName": "cda8d94b4da63ea0cfb5ebaf775b73df/alphawall.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cda8d94b4da63ea0cfb5ebaf775b73df/alphawall.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "18",
+    "street": "SIN MING LANE",
+    "floor": null,
+    "unit": null,
+    "building": "MIDVIEW CITY",
+    "postalCode": "573960",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35896872448261,
+    "lng": 103.833968719539
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189608",
+    "deletedAt": null,
+    "createdBy": "dc2c41c1-fc82-4822-aeb9-5e9ab5d7b464",
+    "createdAt": "2026-01-30T08:16:42.000Z",
+    "updatedAt": "2026-01-30T08:16:42.000Z",
+    "emailRecipient": "dc2c41c1-fc82-4822-aeb9-5e9ab5d7b464",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 216,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 39,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/system-engineer-alphawall-057bcce3b71db5896863d1416a473549",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/057bcce3b71db5896863d1416a473549"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/057bcce3b71db5896863d1416a473549/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,193 @@
+{
+  "uuid": "98e6070b044f7357986572c905c93f39",
+  "sourceCode": "Employer Portal",
+  "title": "COOK",
+  "description": "<p>Working Days : 4 days off per month</p>\n<p>Working Hours : 11am - 11pm (10 hours per day, 2 hours break)</p>\n<p><br></p>\n<p><strong>Job Duties:</strong></p>\n<ul>\n  <li>Set up kitchen daily</li>\n  <li>Cut various meats and vegetables as per established      specification</li>\n  <li>Track inventory stock in kitchen and conduct daily      order</li>\n  <li>Cleans food preparation areas as determined by law and      company policy</li>\n  <li>Prepares food to the specifications of the client</li>\n  <li>Prepares food before the arrival of the guests</li>\n  <li>Make adjustments to food items to accomodate guests      with allergies or specific diet concerns</li>\n  <li>Manages other employees in the kitchen</li>\n  <li>Act as liaison to front-of-house employees to ensure      proper food service temperature</li>\n  <li>Seasons food according to receipes or company needs</li>\n  <li>Orders ingredients and spices as needed</li>\n  <li>Operates various kitchen appliance such as blender,      oven and grill</li>\n  <li>Portions, arranges, and garnishes food based on client      preference</li>\n  <li>Assists other cooks during the food assembly process</li>\n</ul>\n<p><strong>Job Requirements</strong></p>\n<ul>\n  <li>At least 2 years' experience in western cuisine</li>\n  <li>Good experience in western cuisine kitchen operation</li>\n  <li>Knowledge of good hygiene practices</li>\n  <li>Willing to work long hours and OT when required</li>\n  <li>Understand western spices well</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51201",
+  "occupationId": "OCC009267",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200106963Z",
+    "description": null,
+    "name": "NEST DELIGHT HOLDING PTE LTD",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T03:43:47.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200106963Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200106963Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200106963Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200106963Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1768864",
+    "deletedAt": "2026-01-22T17:15:04.000Z",
+    "createdBy": "bdaeccb5-5f85-4aed-83a2-731568e5231f",
+    "createdAt": "2025-11-18T15:54:11.000Z",
+    "updatedAt": "2026-01-28T03:44:04.000Z",
+    "emailRecipient": "bdaeccb5-5f85-4aed-83a2-731568e5231f",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 140,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2025-11-18",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-nest-delight-holding-98e6070b044f7357986572c905c93f39",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3400,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/98e6070b044f7357986572c905c93f39"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/98e6070b044f7357986572c905c93f39/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,250 @@
+{
+  "uuid": "6dbf02bc9eef5c6927945f7f7e72fe61",
+  "sourceCode": "Employer Portal",
+  "title": ".Net Developer",
+  "description": "<p><strong>.Net Software Developer - Singapore</strong><br />We are currently looking for <strong>.NET Software Engineers</strong> with <strong>3+ years of hands-on experience in C# .NET</strong> to join a team focused on <strong>refactoring and modernising legacy software</strong> and leveraging <strong>GenAI technologies.</strong><br />This is a great opportunity to work on <strong>digital transformation projects.</strong><br /><strong>What's in it for you:</strong></p><ul><li>Enterprise Level Systems</li><li>Excellent Career Progression Opportunities</li><li>Built-from-Scratch environment on In-house applications</li><li>Up to 1 month completion bonus every year</li><li>Location: Centre of Singapore</li></ul><p><strong>Key Responsibilities:</strong></p><ul><li>Develop, enhance and maintain the existing enterprise-level system.</li><li>Investigate and resolve software defects in existing C# .NET, MS SQL, JAVA applications.</li><li>Perform detailed <strong>root cause analysis</strong> for reported issues and propose sustainable solutions.</li><li>Collaborate with QA and business teams to <strong>reproduce bugs</strong> and verify fixes.</li><li>Write and maintain <strong>unit tests and regression tests</strong> using frameworks such as MSTest, NUnit, or xUnit.</li><li>Optimize and refactor code for improved performance and maintainability.</li><li>Review logs and metrics to diagnose system behavior and recommend improvements.</li><li>Work closely with team members to ensure timely delivery of fixes and patches.</li><li>Document resolutions and updates in internal knowledge bases.</li></ul><p><strong>Requirements:</strong></p><ul><li><strong>At least 2 years of experience</strong> in <strong>C# .NET </strong>software development with exposure to Java.</li><li>At least 4 years of experience in <strong>MS SQL Server</strong> and writing/debugging SQL queries.</li><li>Experienced in performing root cause analysis and resolving performance issues.</li><li>Familiarity with <strong>CI/CD pipelines</strong> (e.g., Jenkins, Azure DevOps, Git).</li><li>Exposure to Microservices / Kafka</li><li>Experience with <strong>Visual Studio</strong>, <strong>Git</strong>, and <strong>issue tracking tools</strong> like JIRA.</li><li>Experience working on large-scale enterprise applications.</li><li>Excellent analytical and troubleshooting skills</li><li>Strong communication and collaboration abilities with proactive mindset.</li></ul><p>This is a 1 year contract to start, renewable and convertible to permanent.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Digital Transformation",
+      "uuid": "0004bc07edb448bc60ced6bdd342725c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ASPNet",
+      "uuid": "1357e98efa74290d9b93c131257877e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET",
+      "uuid": "303cb0ef9edb9082d61bbbe5825d972a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Crystal Reports",
+      "uuid": "accd6458483f7ef983f3637a0a92734d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Applications",
+      "uuid": "c93aadf0c53f10fa9715606886defad9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "WCF",
+      "uuid": "fb608636129cb469b7fe911e92e2b563",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202400659M",
+    "description": null,
+    "name": "THE EDGE CONTRACTING SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:57:15.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202400659M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202400659M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202400659M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202400659M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "50",
+    "street": "RAFFLES PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE LAND TOWER",
+    "postalCode": "048623",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28478992495533,
+    "lng": 103.8521274842
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0185916",
+    "deletedAt": null,
+    "createdBy": "d808c093-03f0-44c3-a08c-b40a51f976a7",
+    "createdAt": "2026-01-30T01:31:13.000Z",
+    "updatedAt": "2026-01-30T01:31:13.000Z",
+    "emailRecipient": "d808c093-03f0-44c3-a08c-b40a51f976a7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 116,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-06",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/net-developer-edge-contracting-services-6dbf02bc9eef5c6927945f7f7e72fe61",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 4800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6dbf02bc9eef5c6927945f7f7e72fe61"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6dbf02bc9eef5c6927945f7f7e72fe61/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,208 @@
+{
+  "uuid": "6532c2cce1c44609177f824e6ef8a367",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Executive (FMCG)",
+  "description": "<ol>\n  <li><strong>Sales Team Leadership:</strong>Plan, direct, and monitor sales team activities to achieve established targets.<br>\nDevelop sales plans, strategies, and campaigns.<br>\nManage day-to-day sales team operations to implement the company’s overall sales strategy.<br>\n</li>\n  <li><strong>Sales Performance Management:</strong>Prepare sales forecasts and budgets.<br>\nMonitor sales volume, revenues, and costs against forecasts.<br>\nIdentify problem areas and reallocate resources to improve overall sales team performance.<br>\n</li>\n  <li><strong>Customer Relationship Building:</strong>Proactively develop win-win sales strategies with new and potential customers.<br>\nBuild strong relationships with suppliers and negotiate favorable conditions.<br>\n</li>\n  <li><strong>Market Insights and Strategy:</strong>Understand customer and market needs.<br>\nProvide necessary information to drive further strategy and product development.<br>\n</li>\n  <li><strong>Holistic Strategy Contribution:</strong>Contribute to sales, marketing, customer relations, advertising, pricing, and distribution strategies.<br>\n</li>\n  <li><strong>Sales Team Support:</strong>Coach sales team members on technical aspects, marketing, and sales techniques.<br>\nEnsure adherence to procedures and standards to achieve sales targets.<br>\n</li>\n  <li><strong>Effective Pricing and Communication:</strong>Offer competitive pricing to win new business and sustain growth.<br>\nMaintain good communication with internal stakeholders.<br>\n</li>\n</ol>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Relationship",
+      "uuid": "0e0a7ac419a1d68d0ad2951c6a144aac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Media",
+      "uuid": "3ce446e5cb3c779f621bb5ee76e666c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Development",
+      "uuid": "d324e27fb1cf5931e17c08a9a85f76bf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Relations",
+      "uuid": "f1eb44b30dd1ad6ec71516307d66567c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52201",
+  "occupationId": "OCC009600",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    },
+    {
+      "id": 42,
+      "category": "Wholesale Trade"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "198501660R",
+    "description": null,
+    "name": "SUN LIM GARDEN FOODSTUFFS PTE LTD",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:37:03.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501660R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501660R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501660R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501660R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "53",
+    "street": "UBI AVENUE 1",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA UBI INDUSTRIAL PARK",
+    "postalCode": "408934",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32540813900279,
+    "lng": 103.896601335955
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0161464",
+    "deletedAt": null,
+    "createdBy": "1d9ef188-0db7-4994-a96b-f6d9f479ee53",
+    "createdAt": "2026-01-26T11:43:09.000Z",
+    "updatedAt": "2026-01-26T11:43:09.000Z",
+    "emailRecipient": "1d9ef188-0db7-4994-a96b-f6d9f479ee53",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 74,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/sales-executive-sun-lim-garden-foodstuffs-6532c2cce1c44609177f824e6ef8a367",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6532c2cce1c44609177f824e6ef8a367"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6532c2cce1c44609177f824e6ef8a367/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

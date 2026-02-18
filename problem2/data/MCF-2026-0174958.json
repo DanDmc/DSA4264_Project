@@ -1,0 +1,210 @@
+{
+  "uuid": "7ded1a022e478a28293dd5ab2d84e677",
+  "sourceCode": "Employer Portal",
+  "title": "LAUNDERER & DRYCLEANER",
+  "description": "<ul><li>Loading & Unloading of washer & dryer</li></ul><ul><li>Sorting of soiled & clean Linens</li><li>Ensure the quality of clean linens</li><li>Operate Machinery & provide simple maintanance of machinery</li><li>Able to identify & sort types of articles to be dry-cleaned</li><li>Must be able to work in industrial area, no company transportation is provided, able to work in humid environment without air conditioning</li><li>Working hour: Minimum 12 hours a day, 6 working days per week, must able to work on weekend , PH & OT</li><li>AWS or bonus will be in accordance to company's performance.</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production Planning",
+      "uuid": "4c89dbee82b7b1dd9d379c2d00562947",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "35219",
+  "occupationId": "OCC009015",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199206791R",
+    "description": null,
+    "name": "R & R EXPRESS SERVICES PTE LTD",
+    "ssicCode": "96011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T17:30:10.000Z",
+    "ssicCode2020": "96011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206791R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206791R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206791R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206791R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "52",
+    "street": "PANDAN LOOP",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "128267",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30844813024648,
+    "lng": 103.756523128152
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174958",
+    "deletedAt": null,
+    "createdBy": "d5112983-e4ee-48e3-9b6b-02c0688464a6",
+    "createdAt": "2026-01-28T07:24:23.000Z",
+    "updatedAt": "2026-01-28T07:24:23.000Z",
+    "emailRecipient": "d5112983-e4ee-48e3-9b6b-02c0688464a6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 47,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/launderer-drycleaner-r-r-express-services-7ded1a022e478a28293dd5ab2d84e677",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7ded1a022e478a28293dd5ab2d84e677"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7ded1a022e478a28293dd5ab2d84e677/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

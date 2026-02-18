@@ -1,0 +1,230 @@
+{
+  "uuid": "09ab0d27554698ff7d8d67b82d5c4a97",
+  "sourceCode": "Employer Portal",
+  "title": "AI/ML Engineer",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>Design and implement machine learning models for predictive analytics and decision support.</li></ul><ul><li>Conduct data preprocessing, feature engineering, and model training at scale.</li></ul><ul><li>Develop pipelines for continuous learning and model deployment.</li></ul><ul><li>Collaborate with product and engineering teams to integrate AI solutions into applications.</li></ul><ul><li>Monitor model performance, retrain, and optimize algorithms for accuracy and efficiency.</li></ul><p><strong>Requirements:</strong></p><ul><li>Strong background in machine learning, deep learning, and statistical modeling.</li></ul><ul><li>Proficiency in ML frameworks (TensorFlow, PyTorch, Scikit-learn).</li></ul><ul><li>Experience with large-scale data processing and distributed training.</li></ul><ul><li>Solid understanding of algorithms, optimization, and applied mathematics.</li></ul><ul><li>Ability to translate business problems into ML solutions with measurable impact.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "TensorFlow",
+      "uuid": "074dd699710da0ec1eb45f13b31788e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "uuid": "5cd2adc9e2a5254e4c1da803519f298b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure Machine Learning",
+      "uuid": "6375ac23d593ef93aad0006dfe3f1fa5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Predictive Analytics",
+      "uuid": "7358f1cae0370dbf5dda96c078758305",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PyTorch",
+      "uuid": "95b88f180e9eb5678e0f9ebac2cbe643",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artificial Intelligence Application",
+      "uuid": "b32ff67650c25952fdc9064e102459f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200907301Z",
+    "description": "<p>Mars Consulting is a rapidly growing provider of Human Capital Solutions &amp; Business Consulting Solutions, offering a wide range of mid to senior resources across multiple functions. We focus on providing resources &amp; headhunting services across specific areas such as Top Management, Enterprise Applications, IT, Sales &amp; Marketing, Finance &amp; Accounting, &amp; Human Resources. Our customers come from verticals including Banking &amp; Finance, IT, Service, Real Estate, Energy, &amp; Healthcare. As a highly customer-focused organization with expertise in managed services, our team consistently delivers exceptional solutions that meet and exceed our clients' expectations.</p>",
+    "name": "MARS CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "marsconsulting.com.sg",
+    "lastSyncDate": "2026-02-04T07:14:38.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z/schemes"
+      }
+    },
+    "logoFileName": "fe2bc04adf4081b919a3a9cf9c8e610d/mars-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fe2bc04adf4081b919a3a9cf9c8e610d/mars-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6",
+    "street": "RAFFLES BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA SQUARE",
+    "postalCode": "039594",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29102527387961,
+    "lng": 103.857541728669
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180665",
+    "deletedAt": null,
+    "createdBy": "ea51b1be-de63-474b-9ca7-77edad89e9ba",
+    "createdAt": "2026-01-29T04:27:29.000Z",
+    "updatedAt": "2026-01-29T04:27:29.000Z",
+    "emailRecipient": "ea51b1be-de63-474b-9ca7-77edad89e9ba",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 122,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 29,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/aiml-engineer-mars-consulting-09ab0d27554698ff7d8d67b82d5c4a97",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09ab0d27554698ff7d8d67b82d5c4a97"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09ab0d27554698ff7d8d67b82d5c4a97/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

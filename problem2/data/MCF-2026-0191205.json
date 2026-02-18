@@ -1,0 +1,235 @@
+{
+  "uuid": "723b47201bb83627171b94402c23850c",
+  "sourceCode": "Employer Portal",
+  "title": "Supervisor and General Foreman",
+  "description": "<p><strong>Job Summary</strong></p><p>Prepare schedules, forecast resources, and oversee project activities to ensure efficient execution. Manage material storage and minimize wastage on site. Lead site safety and security initiatives by implementing effective policies and procedures. Respond to emergencies following established protocols and maintain accurate incident documentation. Supervise and evaluate staff performance, maintain attendance records, and foster a motivated, disciplined workforce to achieve high-quality outcomes.</p><p><strong>Responsibilities</strong></p><ul><li>Develop detailed project schedules and resource forecasts to support timely and efficient project execution</li><li>Monitor material management on site to ensure proper storage and minimize unnecessary wastage</li><li>Establish and maintain effective communication channels with team members, management, vendors, and clients to support collaboration and project success</li><li>Design and enforce site safety and security policies and procedures to maintain a safe working environment</li><li>Respond promptly and appropriately to emergencies by following established procedures and preparing comprehensive accident reports</li><li>Supervise staff by conducting performance evaluations, maintaining accurate attendance and timesheet records, and providing constructive feedback to motivate quality performance</li><li>Apply disciplinary measures when necessary to uphold workplace standards and ensure team accountability</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Air Conditioning",
+      "uuid": "110a420e14d90135b7faa1464a195b58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Personal Protection",
+      "uuid": "1a83276daece989a77e15c81913ad086",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Painting",
+      "uuid": "2875ec54afbd9922e0553f4b441aa54b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Assessment",
+      "uuid": "3177ea52ef79969392fa9605bc638090",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Safety",
+      "uuid": "8313259ce4d9c3ca71d6fb7e3afa3226",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Welding",
+      "uuid": "8be92a6dba91189e3e092f2ef2961bbb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Drawings",
+      "uuid": "b7ddd6b4070e952489bf1ec071d10bac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 13,
+      "category": "Environment / Health"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53072008J",
+    "description": null,
+    "name": "YEW HING CONSTRUCTION & RENOVATION",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T10:02:41.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53072008J"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53072008J/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53072008J/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53072008J/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191205",
+    "deletedAt": null,
+    "createdBy": "f14337de-a14b-4b29-af2e-163faf811747",
+    "createdAt": "2026-01-30T10:04:11.000Z",
+    "updatedAt": "2026-01-30T10:04:11.000Z",
+    "emailRecipient": "f14337de-a14b-4b29-af2e-163faf811747",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/supervisor-general-foreman-yew-hing-construction-renovation-723b47201bb83627171b94402c23850c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4400,
+    "minimum": 3600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/723b47201bb83627171b94402c23850c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/723b47201bb83627171b94402c23850c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

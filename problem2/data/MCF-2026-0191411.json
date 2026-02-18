@@ -1,0 +1,234 @@
+{
+  "uuid": "9390aefbfeaaf1fd97dd7ee0b18ce0c4",
+  "sourceCode": "Employer Portal",
+  "title": "SENIOR ENGINEER - HIG HBM PSE",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><p><strong>HBM Validation Execution</strong></p></li><li><p>Execute <strong>Validation Runs</strong> on IQP/ETV materials in a <strong>high‑pressure, fast‑paced environment</strong>, meeting <strong>tight start/finish windows</strong>, <strong>material utilization plans</strong>, and <strong>readiness checkpoints</strong>.</p></li><li><p>Deliver <strong>time‑bound data crunching</strong> (log parsing, statistical summaries, anomaly triage) and <strong>publish concise, high‑quality summary reports/sightings</strong> by agreed Cycle Time targets.</p></li><li><p><strong>Platform Expertise</strong></p></li><li><p>Operate and debug programs on <strong>SM3/Cobra (MBIST)</strong> and <strong>Advantest V93K (Native)</strong>.</p></li><li><p>Support hardware readiness: <strong>handler, socket, loadboard, probe card</strong> coordination aligned to test intent.</p></li><li><p><strong>Technical Analysis & Verilog Simulation</strong></p></li><li><p>Validate high‑speed I/O (≥10 Gbps); perform <strong>eye diagram</strong>, <strong>jitter</strong>, and <strong>signal integrity</strong> checks under P/V/T corners.</p></li><li><p>Measure <strong>IDD power profiles</strong> and <strong>thermal behavior</strong> under realistic stress conditions.</p></li><li><p><strong>Develop/execute Verilog testbenches and simulations</strong> to reproduce/triage sightings, correlate bench and platform behavior, and inform content fixes.</p></li><li><p><strong>Data & Automation</strong></p></li><li><p>Review logs, crunch data, and automate workflows using <strong>Python/Perl</strong>.</p></li><li><p>Maintain documentation in <strong>Confluence/Jira</strong> and version control in <strong>Git/Perforce</strong>.</p></li><li><p><strong>Debug & Collaboration</strong></p></li><li><p>Assist in root‑cause analysis and corrective action closure with <strong>Design, DV, QA, GQ, TSE</strong>.</p></li><li><p>Create and deliver technical presentations; participate in cross‑site meetings for silicon readiness.</p></li></ul><p><strong>Minimum Requirements</strong></p><ul><li><p>Bachelor’s in Electrical / Electronics or Computer Engineering (or related)</p></li><li><p><strong>5+ years</strong> in DRAM/HBM/NAND validation or product engineering.</p></li><li><p><strong>At least 2 years of HBM Validation experience.</strong></p></li><li><p><strong>Test platform code development</strong> in <strong>C/C++</strong>, <strong>Python</strong>, and <strong>APG (Algorithmic Pattern Generator)</strong>.</p></li><li><p>Hands‑on experience with <strong>MBIST (SM3/Cobra)</strong> or <strong>Native Mode (Advantest V93K)</strong> testing.</p></li><li><p><strong>Verilog simulation experience</strong> (writing testbenches, running sims, interpreting waveforms/logs).</p></li><li><p>Familiarity with high‑speed I/O validation and <strong>power/thermal characterization</strong>.</p></li><li><p>Proficiency in scripting (Python/Perl) and data analysis tools; strong communication and presentation skills.</p></li></ul><p><strong>Preferred Skills</strong></p><ul><li><p>Linux programming experience; familiarity with <strong>UVM</strong>, and version control systems (<strong>Git/SVN</strong>).</p></li><li><p>Comfortable with lab equipment (oscilloscopes, logic analyzers).</p></li><li><p>Experience with <strong>CS/QS shmoo targets</strong> and <strong>async timing coverage</strong>.</p></li><li><p>Exposure to <strong>DFMEA gap closure</strong> and operational excellence practices.<br /></p><p>Performs hardware, software, semiconductor design or telecomm engineering assignments. This job mapping should be used only if the position cannot be mapped specifically to other design/development engineering jobs.</p></li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Signal Integrity",
+      "uuid": "08789ec7228e2129b9b76c11c9ce1d75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DFMEA",
+      "uuid": "7b9654269dc39fd0e5a7dc6cfc62b557",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpreting",
+      "uuid": "883f9bc828196c913b19f32b6ed23366",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UVM",
+      "uuid": "88ff3c067eb9c6101c9c89a8d1d03a03",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Presentations",
+      "uuid": "beea9794a3a89102f052257cd6a7af4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Simulations",
+      "uuid": "c792245cc7d6406dd7825725277e8f68",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Crunch",
+      "uuid": "c8f895a601026f69488fa9ed7f072d4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Verilog",
+      "uuid": "e3dd11642e087a53101e45e56b76f3f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Silicon",
+      "uuid": "ec47388b272f906a796414eaf6ea8563",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mapping",
+      "uuid": "f84f4a69bdc03d4a4251db12ee746ce3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "201815216Z",
+    "description": "<p>MICRON SEMICONDUCTOR ASIA OPERATIONS PTE LTD&nbsp;is a subsidiary of Micron Technology, Inc.&nbsp; (‘Micron’).</p>\n<p>Micron is a global leader in the semiconductor industry. For more than 35 years, Micron has dedicated itself to collaborating with customers and partners to engineer technology that drives innovation and transforms what’s possible.&nbsp; Micron offers the industry’s broadest portfolio of silicon-to-semiconductor memory solutions—starting with foundational DRAM, NAND, and NOR Flash memory, and extending to SSDs, modules, MCPs, HMC, and other semiconductor systems. This best-in-class technology powers leading-edge computing, consumer, enterprise server and storage, networking, embedded, automotive, industrial, and mobile products.</p>\n<p>Micron is strategically located in Singapore to efficiently and effectively accommodate its global customers, while also serving as the base of the company’s worldwide operations. Singapore is home to Micron’s largest manufacturing footprint with three fabrication facilities, an upcoming fabrication facility expansion, and a test and assembly facility. Its presence in Singapore also includes a technology center supporting innovation across the company and a sales and marketing office that offers all Micron memory products to our regional customers.</p>\n<p>Micron provides opportunities for team members’ personal and career development through challenging work assignments, training and educational programs. We hire, train, develop, and educate a workforce that is competent in performing job expectations by providing orientation, job specific training, professional certifications, external training and various continuous learning opportunities.<br>\n<br>\nAs Micron enters into a new era of growth, its presence in Singapore plays an important role in its worldwide operations and overall success.</p>",
+    "name": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+    "ssicCode": "26112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:30:45.000Z",
+    "ssicCode2020": "26112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/schemes"
+      }
+    },
+    "logoFileName": "530f48fafcd5e0428b954861a6d185d3/micron-semiconductor-asia-operations.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/530f48fafcd5e0428b954861a6d185d3/micron-semiconductor-asia-operations.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "NORTH COAST DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "757432",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45482224576261,
+    "lng": 103.793643009918
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191411",
+    "deletedAt": null,
+    "createdBy": "976a8cec-f26b-42ed-8f9c-6ee8f65334b0",
+    "createdAt": "2026-01-30T10:48:15.000Z",
+    "updatedAt": "2026-01-30T10:48:15.000Z",
+    "emailRecipient": "976a8cec-f26b-42ed-8f9c-6ee8f65334b0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 83,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-engineer-hig-hbm-pse-micron-semiconductor-asia-operations-9390aefbfeaaf1fd97dd7ee0b18ce0c4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9390aefbfeaaf1fd97dd7ee0b18ce0c4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9390aefbfeaaf1fd97dd7ee0b18ce0c4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

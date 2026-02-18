@@ -1,0 +1,205 @@
+{
+  "uuid": "5b4086a1db42c256163fbd8819964241",
+  "sourceCode": "Employer Portal",
+  "title": "Casual Group class trainer - F45",
+  "description": "<p><strong>Part-Time Trainer – F45 Training</strong></p><p>F45 Training is looking for an energetic and motivated Part-Time Trainer to join our team. This role is perfect for someone who is passionate about fitness, thrives in a high-energy environment, and enjoys motivating others to push past their limits.</p><p>As an F45 Trainer, you will be responsible for coaching group-based functional training sessions, delivering clear instruction, and ensuring members perform exercises safely and effectively. You’ll bring enthusiasm, confidence, and strong communication skills to every class, helping create a positive and inclusive training environment for members of all fitness levels.</p><p>Key responsibilities include coaching F45 workouts, providing exercise modifications and progressions, correcting technique, and motivating members throughout each session. You’ll also help maintain studio cleanliness, uphold F45 brand standards, and contribute to a supportive, team-focused culture. Previous group fitness or personal training experience is preferred, along with relevant fitness certifications.</p><p>The ideal candidate is reliable, professional, and passionate about health and fitness. You should be comfortable coaching high-intensity workouts, engaging with members, and delivering consistent energy across early morning, evening, and weekend classes. A positive attitude, strong work ethic, and genuine interest in member success are essential.</p><p>This is an excellent opportunity to be part of a globally recognized fitness brand while growing your coaching skills in a fun, fast-paced environment. If you love fitness, enjoy working with people, and want to be part of a motivating community, we’d love to hear from you.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Personal Training",
+      "uuid": "1dccb9e0e758a9645b4d266ed28ad4f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Positive Energy",
+      "uuid": "a2aec2c0d0f49d7ebe4ab3c8edc88d28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "customer friendly",
+      "uuid": "b2cf293a05f3070ede05615725d17782",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Friendly Personality",
+      "uuid": "bf0ecf7da8b7d88a0f783d5173be608c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Functional Training",
+      "uuid": "d70604b1f97307c821e3e89a2a6ef7a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "positive attitude",
+      "uuid": "e7070a53129dfc86358c4787cbadf9b0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34223",
+  "occupationId": "OCC008487",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201920268E",
+    "description": null,
+    "name": "AVO-CARDIO PTE. LTD.",
+    "ssicCode": "93111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:47:41.000Z",
+    "ssicCode2020": "93111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201920268E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201920268E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201920268E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201920268E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "STADIUM PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "KALLANG WAVE MALL",
+    "postalCode": "397628",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30307515150402,
+    "lng": 103.873149707591
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164536",
+    "deletedAt": null,
+    "createdBy": "39271228-c36e-40fa-8ed7-c5dfd149efaa",
+    "createdAt": "2026-01-27T03:06:33.000Z",
+    "updatedAt": "2026-01-27T09:19:22.000Z",
+    "emailRecipient": "39271228-c36e-40fa-8ed7-c5dfd149efaa",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/casual-group-class-trainer-f45-avo-cardio-5b4086a1db42c256163fbd8819964241",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2000,
+    "minimum": 500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5b4086a1db42c256163fbd8819964241"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5b4086a1db42c256163fbd8819964241/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

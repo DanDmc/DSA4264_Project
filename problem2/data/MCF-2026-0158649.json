@@ -1,0 +1,254 @@
+{
+  "uuid": "9b032fab8be14003536d6bcfcc3d9b86",
+  "sourceCode": "Employer Portal",
+  "title": "Supervisor",
+  "description": "<p>ﾷ To assist the Project Manager or Project Engineer in the daily execution of work.</p><p>ﾷ To supervise the work of sub-contractors and in-house workers.</p><p>ﾷ To work closely with other site operations staff to meet the project schedule.</p><p>ﾷ Ensure installation is carried out as per construction drawings.</p><p>ﾷ To monitor the progress and quality of work being performed by workers.</p><p>ﾷ Ensure that works are executed within an acceptable standard of workmanship.</p><p>ﾷ Attend the daily tool-box meeting and convey clear instruction accordingly.</p><p>ﾷ Understand and ensure compliance in project requirement and scope of work</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 9,
+      "category": "Design"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201202167K",
+    "description": null,
+    "name": "SDK ENGINEERING & CONSTRUCTION PTE. LTD.",
+    "ssicCode": "43301",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T07:14:33.000Z",
+    "ssicCode2020": "43301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201202167K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201202167K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201202167K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201202167K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "744",
+    "street": "JURONG WEST STREET 73",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "640744",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.3466588928114,
+    "lng": 103.699099859364
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158649",
+    "deletedAt": null,
+    "createdBy": "82fdb19d-d46e-4b68-8b4e-e2491e740291",
+    "createdAt": "2026-01-26T07:18:40.000Z",
+    "updatedAt": "2026-01-26T07:18:40.000Z",
+    "emailRecipient": "82fdb19d-d46e-4b68-8b4e-e2491e740291",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/supervisor-sdk-engineering-construction-9b032fab8be14003536d6bcfcc3d9b86",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3350,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b032fab8be14003536d6bcfcc3d9b86"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b032fab8be14003536d6bcfcc3d9b86/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

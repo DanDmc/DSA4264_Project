@@ -1,0 +1,223 @@
+{
+  "uuid": "051184431b18c11009c2efe3727ebe85",
+  "sourceCode": "Employer Portal",
+  "title": "IT Administrator",
+  "description": "<h1>Key Responsibilities</h1>\n<ul>\n  <li>Maintain and update IT asset inventory records (e.g., laptops, accessories, software licenses) in accordance with WOG asset management guidelines.</li>\n  <li>Track issuance, transfer, and return of IT equipment for users, ensuring proper documentation and accountability.</li>\n  <li>Raise, update, and monitor service requests in the ITSM portal for procurement, support, and access requirements.</li>\n  <li>Coordinate with vendors for quotations, deliveries, and invoice processing.</li>\n  <li>Maintain documentation of IT policies, user guides, and standard operating procedures (SOPs).</li>\n  <li>Log and follow up on IT support issues, escalating when necessary.</li>\n  <li>Support user onboarding and offboarding processes, including account setup and asset handling.</li>\n  <li>Schedule and coordinate IT-related meetings, briefings, and training sessions.</li>\n  <li>Prepare and submit monthly IT reports covering asset status, service request metrics, and pending actions.</li>\n  <li>Handle general administrative tasks such as filing, data entry, and correspondence.</li>\n</ul>\n<h1>Key Requirements</h1>\n<ul>\n  <li>Prior experience in a WOG environment or familiarity with WOG IT processes preferred.</li>\n  <li>Proficiency in Microsoft Office (Excel, Word, Outlook).</li>\n  <li>Strong organisational skills and attention to detail.</li>\n  <li>Effective verbal and written communication skills.</li>\n  <li>Basic knowledge of IT systems and terminology.</li>\n  <li>Experience with ITSM tools such as ServiceNow and BMC will be an advantage.</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Asset Management",
+      "uuid": "1e1a97e508b3d959b9fc916092948c35",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Laptops",
+      "uuid": "48b773c837465a9904ae56389cd0dc9d",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "ServiceNow",
+      "uuid": "d1cd6e549ab60b728497f73aeeccc9ba",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Terminology",
+      "uuid": "e182a8a3f2adf774fb1c959df71b8600",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35123",
+  "occupationId": "OCC060964",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201412646M",
+    "description": null,
+    "name": "OPENSOURCE TECHNOLOGIES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:18:54.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201412646M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201412646M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201412646M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201412646M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1247220",
+    "deletedAt": "2025-09-04T17:15:04.000Z",
+    "createdBy": "d58962fb-9d77-4e89-a2d5-a0515f535b49",
+    "createdAt": "2025-08-21T06:34:23.000Z",
+    "updatedAt": "2026-01-27T06:14:08.000Z",
+    "emailRecipient": "d58962fb-9d77-4e89-a2d5-a0515f535b49",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 241,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-08-21",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 27,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/administrator-opensource-technologies-051184431b18c11009c2efe3727ebe85",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/051184431b18c11009c2efe3727ebe85"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/051184431b18c11009c2efe3727ebe85/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

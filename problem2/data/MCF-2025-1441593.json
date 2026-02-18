@@ -1,0 +1,232 @@
+{
+  "uuid": "d7931a8d922547e788fe207da96010c0",
+  "sourceCode": "Employer Portal",
+  "title": "Front Desk/ Dental Assistant",
+  "description": "<p>Job Responsibilities:</p>\n<p>- Counter duties such as booking of appointments, answering phone calls and enquiries, cashiering, submission of claims, scanning of documents</p>\n<p>- Daily, weekly and monthly reporting to management</p>\n<p>- Assisting dentists in managing the clinical treatment of patients</p>\n<p>- Preparing patients for dental work and providing excellent patient care</p>\n<p>- Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials and assisting with dental procedures</p>\n<p>- Recording treatment information in patient records</p>\n<p>- Exposing dental x-rays from dental diagnostics</p>\n<p>- Providing postoperative instructions as directed by the dentists</p>\n<p>- Upkeep and maintain dental equipment, facilities and facade</p>\n<p>- Forming preliminary impressions for study casts and occlusal registrations for mounting study casts</p>\n<p>- Ordering dental supplies and maintaining dental equipment inventory</p>\n<p>- Receiving and recording dental supplies, liaison with suppliers</p>\n<p>- Fabricating temporary restorations and custom impressions from preliminary impressions</p>\n<p>- Other ad-hoc duties</p>\n<p><br></p>\n<p>Job Requirements:</p>\n<p>- Experience in using computer such as Google Drive and software such as Clinic Assist</p>\n<p>- Good written and verbal communication skills</p>\n<p>- Possess professional appearance and attitude</p>\n<p>- Able to provide excellent patient care and is patient</p>\n<p>- Able to work as a team and individually at the same time</p>\n<p>- Experience/ Non-experienced, on-the-job training provided</p>\n<p>- Able to travel between clinics</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Dentistry",
+      "uuid": "308907bb592eb52f520d9a73d518337b",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Google Drive",
+      "uuid": "4fa42aa0ba652605cada43bca0fc6389",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Infection Control",
+      "uuid": "5a089e9aa9c19f7297f2ad669d21baec",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Dental Care",
+      "uuid": "7432af340eb1ac6530c5dd7b5d948dfd",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Dental Assisting",
+      "uuid": "852e7e1ae432f1937d9e9b774c586a02",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Casting",
+      "uuid": "86a59ad7ba2334ad7505f303d3f2ab6e",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "53203",
+  "occupationId": "OCC060219",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "0842",
+  "postedCompany": {
+    "uen": "202206615H",
+    "description": null,
+    "name": "EASTERN DENTAL CENTRE PTE. LTD.",
+    "ssicCode": "86204",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T10:48:48.000Z",
+    "ssicCode2020": "86204",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206615H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206615H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206615H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206615H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1441593",
+    "deletedAt": "2025-10-23T17:15:05.000Z",
+    "createdBy": "edc97edd-c1d9-4520-b5c1-6072c9ac5671",
+    "createdAt": "2025-09-23T08:22:10.000Z",
+    "updatedAt": "2026-01-26T10:49:14.000Z",
+    "emailRecipient": "edc97edd-c1d9-4520-b5c1-6072c9ac5671",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 406,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-09-23",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 31,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/front-desk-dental-assistant-eastern-dental-centre-d7931a8d922547e788fe207da96010c0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7931a8d922547e788fe207da96010c0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7931a8d922547e788fe207da96010c0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

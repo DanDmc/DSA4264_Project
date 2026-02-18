@@ -1,0 +1,217 @@
+{
+  "uuid": "876705d47c9b86dbb1bbcec19104cc26",
+  "sourceCode": "Employer Portal",
+  "title": "Cloud Engineer (Openshift, Cloud, VMware)",
+  "description": "<ul><li>Administer and maintain VMware ESXi hosts and vCenter Server.</li><li>Manage clusters, resource pools, virtual switches, and datastores.</li><li>Utilize vSphere technologies including vCenter, ESXi, vMotion, DRS, and HA.</li><li>Monitor system health dashboards in vCenter; address alerts, failures, and performance degradation.</li><li>Troubleshoot VM resource bottlenecks (CPU, memory, disk, network).</li><li>Provide incident resolution and technical support for Windows system-related issues.</li><li>Conduct performance analysis and tuning for Windows servers.</li><li>Administer Windows Failover Clusters and Always-On Clusters.</li><li>Administer and maintain Hyper-V hosts and virtual machines. </li><li>Configure and manage virtual switches, storage, and failover clustering. </li><li>Monitor performance and availability of Hyper-V environments</li><li>Collaborate with storage, networking, and backup teams for integrated infrastructure support.</li><li>Manage  control plane components and worker nodes in OpenShift clusters.</li><li>Monitor node health and resource usage (CPU, memory, disk).</li><li>Analyze logs using OpenShift Cluster logs, Splunk, or external logging services.</li><li>Troubleshoot networking, deployment, and node-level issues in OpenShift.</li></ul><p><u><strong>Key Requirements:</strong></u></p><ul><li><em>Bachelors’ Degree in Computer Science or related field.</em></li><li><em>At least 6 years’ relevant experience. </em></li></ul><p><u><em><strong>Skills:</strong></em></u></p><ul><li><em>Virtual Infrastructure Management VMware,Hyper-v</em></li><li><em>OpenShift Container Platform (OCP) </em>  </li><li><em>Hybrid Cloud AWS / Azure</em></li></ul><p><em>Disclaimer: The company is committed to ensuring the privacy and security of your information. By submitting this form, you consent to the collection, processing, and retention of the information you provide. The data collected (which may include your contact details, educational background, work experience and skills) will be used solely for the purpose of evaluating your qualifications for the position you're applying for. Your data will be stored securely and retained for the duration necessary to fulfill our hiring process. If you are not selected for the position, your data will be kept on file for a limited period in case future opportunities arise. You have the right to access, correct, or delete your data at any time by contacting us at Quess Singapore | A Leading Staffing Services Provider in Singapore (quesscorp.sg)</em></p><p><em>“This is in partnership with the Employment and Employability Institute Pte Ltd (“e2i”).</em></p><p><em>e2i is the empowering network for workers and employers seeking employment and employability solutions. e2i serves as a bridge between workers and employers, connecting with workers to offer job security through job-matching, career guidance and skills upgrading services, and partnering employers to address their manpower needs through recruitment, training, and job redesign solutions. e2i is a tripartite initiative of the National Trades Union Congress set up to support nation-wide manpower and skills upgrading initiatives. By applying for this role, you consent to Quesscorp Singapore’s PDPA and </em><a href=\"https://www.e2i.com.sg/pdpa/\" target=\"_blank\" rel=\"noopener noreferrer\"><em>e2i’s PDPA</em></a><em>.”</em></p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vmware Esxi",
+      "uuid": "12c67fc75006b32c2c5e8c63bf1bbe27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "OpenShift",
+      "uuid": "3021808e247cf53a757ffb56670d8ed8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DevOps",
+      "uuid": "407432c641358300c37673ae96305f3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VM",
+      "uuid": "583a65df9db4119165f5ea0abaa50281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tuning",
+      "uuid": "89dd2948ecda7325c0001d8a0e51a2d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker Container",
+      "uuid": "d867af5fcbba93668bb73d501ff048d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vcenter",
+      "uuid": "ee72ec3f1074f67cebe5535f6cf32a69",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25231",
+  "occupationId": "OCC062506",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "199801439D",
+    "description": "<p>Quess Singapore is part of Quess Corporation( <a href=\"http://www.quesscorp.sg/\">www.quesscorp.sg</a>) and is one of the largest staff augmentation firms in Singapore. Quess is ranked 48th Largest Global Staffing supplier by SIA. The ideal candidate will excel in this position if they are able to successfully aid recruiting efforts and fulfilling the clients needs by matching clients with relevant candidates. In order to do so the candidate has to be able to source and qualify leads that will meet the company's criteria. To be successful, the candidate will have to understand the technical depth of the industry and the company to become and effective talent partner.</p>\n<p><br></p>",
+    "name": "QUESSCORP SINGAPORE PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": 1400,
+    "companyUrl": "www.quesscorp.sg ",
+    "lastSyncDate": "2026-02-04T01:49:55.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199801439D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199801439D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199801439D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199801439D/schemes"
+      }
+    },
+    "logoFileName": "586538115aa5bcc4c564fcfcdc700313/quesscorp-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/586538115aa5bcc4c564fcfcdc700313/quesscorp-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160974",
+    "deletedAt": null,
+    "createdBy": "d90ba420-1774-49df-b6ad-0fa144fc8846",
+    "createdAt": "2026-01-26T10:22:23.000Z",
+    "updatedAt": "2026-01-26T10:22:23.000Z",
+    "emailRecipient": "d90ba420-1774-49df-b6ad-0fa144fc8846",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-engineer-quesscorp-singapore-876705d47c9b86dbb1bbcec19104cc26",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8500,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/876705d47c9b86dbb1bbcec19104cc26"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/876705d47c9b86dbb1bbcec19104cc26/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

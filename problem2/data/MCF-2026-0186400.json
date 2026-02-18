@@ -1,0 +1,198 @@
+{
+  "uuid": "aeb7f38f87a33ff2a8530f4ede618efc",
+  "sourceCode": "Employer Portal",
+  "title": "Storeman cum Driver",
+  "description": "<p>• Manage the store’s inventory of tools and equipment including Personal Protection Equipment (PPE), ensuring accurate record keeping and organization of the inventory.</p>\n<p>• Receive and process incoming inventory and goods, including unloading, verifying, and storing incoming items.</p>\n<p>• Pick and pack orders accurately and efficiently.</p>\n<p>• Prepare orders for delivery and load goods onto vehicles for transportation.</p>\n<p>• Deliver products to customers on time and ensure proper handling and delivery.</p>\n<p>• Verify delivery instructions and ensure that all paperwork and documentation are complete.</p>\n<p>• Drive company vehicles safely and follow all traffic regulations and guidelines.</p>\n<p>• Perform routine maintenance on Company vehicles, such as cleaning and refueling.</p>\n<p>• Assist in maintaining a clean and organized store and work area.</p>\n<p>• Communicate with management and other team members to ensure the efficient operation of the store and transportation activities.</p>\n<p>• Ensure compliance with company policies and procedures and adhere to health and safety regulations.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Personal Protection",
+      "uuid": "1a83276daece989a77e15c81913ad086",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accurate Record Keeping",
+      "uuid": "582674b6fd8a69577afa359d46af089a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43219",
+  "occupationId": "OCC008965",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201306186N",
+    "description": "<p><strong>LIAN HIN PTE. LTD.</strong></p>\n<p>At Lian Hin, we keep it simple. We weave aesthetics with practical functunality to create products that last and delight, ranging from feature walls to tabletops and vanities.&nbsp;</p>\n<p><br></p>\n<p>We have come a long way since our establishment in 1989 as a humble granite dealer and marble dealer. However, unchanging is our commitment to high quality and exceptional service.</p>\n<p><br></p>\n<p>Today we have grown into the leading multi-faceted surfaces like Granite, Marble, Quartz and Sintered Surfaces in Singapore.</p>\n<p>&nbsp;</p>",
+    "name": "LIAN HIN PTE. LTD.",
+    "ssicCode": "23960",
+    "employeeCount": null,
+    "companyUrl": "https://www.lianhin.com/company.html",
+    "lastSyncDate": "2026-02-04T01:36:04.000Z",
+    "ssicCode2020": "23960",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N/schemes"
+      }
+    },
+    "logoFileName": "f81622682ae7a1b5e7f85a01dab5385a/lian-hin.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f81622682ae7a1b5e7f85a01dab5385a/lian-hin.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "204",
+    "street": "WOODLANDS INDUSTRIAL PARK E9",
+    "floor": null,
+    "unit": null,
+    "building": "WOODLANDS INDUSTRIAL PARK E",
+    "postalCode": "757879",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44992388470536,
+    "lng": 103.797950345317
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186400",
+    "deletedAt": null,
+    "createdBy": "f981b451-c374-4364-9d6a-62074bf07180",
+    "createdAt": "2026-01-30T02:13:56.000Z",
+    "updatedAt": "2026-01-30T02:13:56.000Z",
+    "emailRecipient": "f981b451-c374-4364-9d6a-62074bf07180",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 46,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/storeman-cum-driver-lian-hin-aeb7f38f87a33ff2a8530f4ede618efc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aeb7f38f87a33ff2a8530f4ede618efc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aeb7f38f87a33ff2a8530f4ede618efc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

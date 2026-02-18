@@ -1,0 +1,223 @@
+{
+  "uuid": "efa875d44581bae5e5aef383740dbf1d",
+  "sourceCode": "Employer Portal",
+  "title": "operations supervisor",
+  "description": "<p>Able to work as a team.</p><p>Fast pace and quick thinking skills</p><p>0900-2100, 2100-0900, 1000-2200,2200-1000</p><p>Towing pallets in and out from warehouse/ apron/ ramp/ baggage area</p><p>rotating shift work</p><p>Any other adhoc duties assigned by supervisor</p><p>Physically Fit</p><p>Able to carry heavy items.</p><p>Holds a valid Airfield Driving Permit</p><p>Team player</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Strategic Planning",
+      "uuid": "1056ea32e61274889e2f1b9c48a5a515",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Upselling",
+      "uuid": "145a82e8fef194ddf65ec7cc37c395f7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legislation",
+      "uuid": "46f43b7883da618bb3c64aeb6ee0cac1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations Management",
+      "uuid": "62c2ba9d720feb926f15cc065ce696b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Management",
+      "uuid": "68b41b38f28f2ba723e32419c5365a0a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Management",
+      "uuid": "c6a19af88a137905a6dd6423910163ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31579",
+  "occupationId": "OCC060810",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202336874C",
+    "description": null,
+    "name": "SUNRITA PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T02:41:27.000Z",
+    "ssicCode2020": "49231",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336874C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336874C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336874C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336874C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156100",
+    "deletedAt": null,
+    "createdBy": "b32959d2-ba56-446a-af3f-cd3d9d62d794",
+    "createdAt": "2026-01-26T02:44:09.000Z",
+    "updatedAt": "2026-01-26T02:44:09.000Z",
+    "emailRecipient": "b32959d2-ba56-446a-af3f-cd3d9d62d794",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 73,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/operations-supervisor-sunrita-efa875d44581bae5e5aef383740dbf1d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/efa875d44581bae5e5aef383740dbf1d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/efa875d44581bae5e5aef383740dbf1d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

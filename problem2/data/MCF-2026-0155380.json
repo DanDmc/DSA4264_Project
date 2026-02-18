@@ -1,0 +1,229 @@
+{
+  "uuid": "09de8ed006312a348f639b7ad11fa030",
+  "sourceCode": "Employer Portal",
+  "title": "Full Stack Developer",
+  "description": "<p><strong>About the Role</strong><br>\nWe are looking for a dedicated and talented Full Stack Developer with strong expertise in React.js, Node.js, and PHP to help develop and maintain scalable, high-performing web solutions. If you enjoy full-stack development and solving practical business challenges with clean and efficient code, we’d like to get in touch with you.</p>\n<p><br></p>\n<p><strong>Job Description</strong></p>\n<ul>\n  <li>Create responsive and engaging user interfaces using React.js (with Hooks, Redux, and Context API)</li>\n  <li>Develop and maintain backend logic and REST APIs using Node.js, Express, and PHP</li>\n  <li>Design, implement, and manage database schemas and queries using MongoDB, PostgreSQL, and MySQL</li>\n  <li>Integrate external APIs and third-party services to enhance system capabilities</li>\n  <li>Ensure system performance, responsiveness, and scalability for production environments</li>\n  <li>Work closely with designers, product owners, and fellow developers within an agile development team</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n  <li>At least 4 years of practical experience in React.js, Node.js, and PHP development</li>\n  <li>Strong knowledge of JavaScript/TypeScript with familiarity in modern software development practices</li>\n  <li>Good grasp of Express.js, JWT-based authentication methods, and API design principles</li>\n  <li>Proficient with Git for source control and experienced with CI/CD tools and workflows</li>\n  <li>Comfortable using Docker for containerized application development and deployment</li>\n  <li>Experience in Python (using frameworks like Flask or Django)</li>\n  <li>Familiarity with Flutter for developing mobile applications</li>\n  <li>Exposure to AWS or other cloud computing platforms</li>\n</ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MongoDB",
+      "uuid": "206e3718af092fd1d12f80cae771ccac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PHP",
+      "uuid": "2fec392304a5c23ac138da22847f9b7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MySQL",
+      "uuid": "62a004b95946bb97541afa471dcca73a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Flask",
+      "uuid": "9784e91c7b2657917226bc82afdd6789",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mobile Applications",
+      "uuid": "bdbaee6f9b112dae8d710848124d484a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Django",
+      "uuid": "ef0f93c83e374876a61da0d4d16f36ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Development",
+      "uuid": "fc05f27a44bc4ce1eea2ac8ca10706de",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201425475W",
+    "description": "<p>At <strong>Direct Search Asia</strong> we deliver innovative and flexible recruitment solutions for partners primarily within the shipping, marine & offshore, oil & gas and logistics sectors. We treat businesses and individuals equally - sharing information, challenging assumptions, maintaining open communications and operating with integrity.</p>    <p>Wherever you plan for your career or business to be, we have a plan to help get you there.</p>    <p><u>Visit us at <strong>www.directsearchasia.com/vacancies</strong> and follow us on LinkedIn for more information and opportunities</u></p>    <p> </p>    <p>Registration No: 201425475W</p>    <p>EA License No: 14C7312</p>  ",
+    "name": "DIRECT SEARCH ASIA PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:34:15.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425475W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425475W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425475W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201425475W/schemes"
+      }
+    },
+    "logoFileName": "507373058ea750311825ad2e947074f5/direct-search-asia.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/507373058ea750311825ad2e947074f5/direct-search-asia.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155380",
+    "deletedAt": null,
+    "createdBy": "50703012-e50c-43b4-a1a6-3f57830e8310",
+    "createdAt": "2026-01-26T01:58:37.000Z",
+    "updatedAt": "2026-01-26T01:58:37.000Z",
+    "emailRecipient": "50703012-e50c-43b4-a1a6-3f57830e8310",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/full-stack-developer-direct-search-asia-09de8ed006312a348f639b7ad11fa030",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09de8ed006312a348f639b7ad11fa030"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09de8ed006312a348f639b7ad11fa030/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

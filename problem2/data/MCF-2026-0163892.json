@@ -1,0 +1,205 @@
+{
+  "uuid": "7a17a4c7dff8d7cde9dd035445840480",
+  "sourceCode": "Employer Portal",
+  "title": "English Teacher",
+  "description": "<p><strong>Key Responsibilities:</strong></p><ul><li>Teach English to young learners and primary-level students using engaging and age-appropriate methods.</li><li>Plan and deliver lessons that develop reading, writing, speaking, and listening skills.</li><li>Monitor student progress and provide constructive feedback to students and parents.</li><li>Create a positive, supportive, and well-managed classroom environment.</li><li>Collaborate with the academic team to ensure lesson quality and consistency.</li></ul><p><strong>Requirements:</strong></p><ul><li>A recognized degree in a relevant discipline such as Teaching, Education, Early Childhood Studies, English, English Literature, or Linguistics is preferred.</li><li>Candidates with a diploma qualification must have formal training in a closely related field, including Teaching, Education, Early Childhood Studies, English Language, English Literature, or Linguistics.</li><li>A minimum of two years of relevant teaching experience or equivalent professional experience in a related role.</li><li>Proven experience teaching young learners and/or primary students.</li><li>Strong classroom management and communication skills.</li><li>Passion for working with children and supporting their learning journey.</li></ul><p><strong>Nice to Have (Plus):</strong></p><ul><li>Curriculum writing or lesson material development experience.</li><li>Familiarity with local primary English curricula.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sponsorship",
+      "uuid": "0d6528b0eea5af56a3aa65c226fda5f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom Management",
+      "uuid": "444d06ef756650f524f7fc8a7f13e0a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linguistics",
+      "uuid": "60965a81e6bfd4801e7308604cba9a02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pastoral Care",
+      "uuid": "a019c9597e57480577a623937ddd5b3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching English",
+      "uuid": "a0f3573bf5fcd180e70681a9d084c694",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching Experience",
+      "uuid": "b95527420daa0f8ca9ad9ed2c53ef6f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wellbeing",
+      "uuid": "c540e0c47d34f94257d9a93cc63b77e9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "53120",
+  "occupationId": "OCC062174",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "0112",
+  "postedCompany": {
+    "uen": "202132507H",
+    "description": null,
+    "name": "VIPTEACHER PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:02:51.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202132507H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202132507H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202132507H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202132507H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "ROCHESTER PARK",
+    "floor": null,
+    "unit": null,
+    "building": "CITADINES CONNECT ROCHESTER SINGAPORE",
+    "postalCode": "139212",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30495677259457,
+    "lng": 103.787728502541
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163892",
+    "deletedAt": null,
+    "createdBy": "a5579ae9-cd7e-4354-87dd-125f0f70e620",
+    "createdAt": "2026-01-27T02:21:26.000Z",
+    "updatedAt": "2026-01-27T02:21:26.000Z",
+    "emailRecipient": "a5579ae9-cd7e-4354-87dd-125f0f70e620",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 139,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 12,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/english-teacher-vipteacher-7a17a4c7dff8d7cde9dd035445840480",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7a17a4c7dff8d7cde9dd035445840480"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7a17a4c7dff8d7cde9dd035445840480/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

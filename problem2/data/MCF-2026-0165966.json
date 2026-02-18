@@ -1,0 +1,225 @@
+{
+  "uuid": "3100aae7f26c5689982bfe517f4b000e",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Engineer",
+  "description": "<p>Track project progress against schedule and budget. </p><p>Create and maintain project documentation, including technical reports and meeting\nminutes. <br /><br />Coordinate with vendors and subcontractors to ensure timely delivery of materials and\nservices. </p><p>Assist with on-site installation and commissioning of mechanical systems. </p><p>Perform quality checks on installed equipment and materials. </p><p>Identify and troubleshoot technical issues during construction. </p><p>Prepare purchase orders for mechanical components and equipment. </p><p>Evaluate vendor proposals and source materials based on specifications. </p><p>Conduct research on new technologies and materials relevant to mechanical engineering\nprojects. </p><p>Analyze engineering data to identify potential issues and propose solutions. </p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Engineering",
+      "uuid": "7e778f819c18ac5166a3f2733b16396d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presentation Skills",
+      "uuid": "c2a974ed87a951bb16ce092a5ea5071f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Sales",
+      "uuid": "e56e7c2bf650e990e2325d550008e617",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24331",
+  "occupationId": "OCC007013",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    },
+    {
+      "id": 43,
+      "category": "Precision Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1174",
+  "postedCompany": {
+    "uen": "198801045H",
+    "description": "<p>\r\n\tACOT PRECISION ENGINEERING PTE. LTD.</p>\r\n",
+    "name": "ACOT PRECISION ENGINEERING PTE. LTD.",
+    "ssicCode": "28223",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T02:54:34.000Z",
+    "ssicCode2020": "28223",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801045H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801045H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801045H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801045H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "COMMONWEALTH LANE",
+    "floor": null,
+    "unit": null,
+    "building": "GRANDE BUILDING",
+    "postalCode": "149555",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30532573681315,
+    "lng": 103.797673513706
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165966",
+    "deletedAt": null,
+    "createdBy": "10efe47d-edd7-4d11-b449-9d43bbc81436",
+    "createdAt": "2026-01-27T05:49:45.000Z",
+    "updatedAt": "2026-01-27T05:49:45.000Z",
+    "emailRecipient": "10efe47d-edd7-4d11-b449-9d43bbc81436",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 78,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/sales-engineer-acot-precision-engineering-3100aae7f26c5689982bfe517f4b000e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3100aae7f26c5689982bfe517f4b000e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3100aae7f26c5689982bfe517f4b000e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

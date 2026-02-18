@@ -1,0 +1,220 @@
+{
+  "uuid": "46d53117a14f52b3a545411d365a74fe",
+  "sourceCode": "Employer Portal",
+  "title": "Part-time Cafe Assistant",
+  "description": "<p>This is a small Gelato Cafe</p>\n<p><br></p>\n<p>Greeting, Cashiering, F&amp;B Preparation, Serving Customers, Cleaning, Opening, Closing Cafe</p>\n<p>minimum we need to fill weekday closing we're posting on mom mycareersfuture for permanent part-time staff 6 hours a day closing for 5+1 days a week (Mon-Fri +1 weekend) min $1200/mth</p>\n<p><br></p>\n<p>fixed time 4-10pm</p>\n<p>Basic Salary: $1200/month</p>\n<p>Salary Period: Monthly<br>\nDate(s) of Salary Payment: by 5th day of following Month<br>\nOvertime Rate of Pay: 1.5<br>\nPublic Holiday Rate of Pay: 2<br>\nAllowances: Sat +25%, Training per hourly rate<br>\nCPF Contributions Payable unless exempt see CPF FAQ \"Who is exempted from receiving CPF contributions?\"</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "uuid": "0647f0776aed243f58bfec4dd81de863",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "closing the cafe",
+      "uuid": "1a47e0c641b2851e85222bf5cfbaaded",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Coffee Making",
+      "uuid": "4decc715664ecdc78b873ab87cdaf4e0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Greet customers",
+      "uuid": "979cc286250615d640fe4c839564f4dc",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "94102",
+  "occupationId": "OCC013308",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "N9",
+  "ssecFos": "1332",
+  "postedCompany": {
+    "uen": "T21LL1257K",
+    "description": "<p>A small and cozy café in the heart of West Coast serving Gelato, Belgian Waffle, Choc Lava Cake, Takoyaki and Coffee.</p>",
+    "name": "POLAR BEURRE LLP",
+    "ssicCode": "56112",
+    "employeeCount": 10,
+    "companyUrl": "https://www.instagram.com/polarbeurre/",
+    "lastSyncDate": "2026-02-02T03:19:50.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T21LL1257K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T21LL1257K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T21LL1257K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T21LL1257K/schemes"
+      }
+    },
+    "logoFileName": "7efff3919acf6da3674a7b8233089ea1/polar-beurre.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7efff3919acf6da3674a7b8233089ea1/polar-beurre.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "721",
+    "street": "CLEMENTI WEST STREET 2",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "120721",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30265242256891,
+    "lng": 103.764520506686
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1431762",
+    "deletedAt": "2026-01-17T17:15:04.000Z",
+    "createdBy": "e2493aa5-b2ea-474e-80da-aebba404895f",
+    "createdAt": "2025-09-22T05:58:47.000Z",
+    "updatedAt": "2026-01-29T11:53:31.000Z",
+    "emailRecipient": "e2493aa5-b2ea-474e-80da-aebba404895f",
+    "editCount": 1,
+    "repostCount": 2,
+    "totalNumberOfView": 622,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-09-22",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 23,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/part-time-cafe-assistant-polar-beurre-46d53117a14f52b3a545411d365a74fe",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1700,
+    "minimum": 1200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/46d53117a14f52b3a545411d365a74fe"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/46d53117a14f52b3a545411d365a74fe/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

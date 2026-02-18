@@ -1,0 +1,201 @@
+{
+  "uuid": "d79963dd26bb68ea0c58acd82d3decfa",
+  "sourceCode": "Employer Portal",
+  "title": "LCV Technician (Service & Repair) | Jalan Buroh | Up to $2.5K + Allowances",
+  "description": "<ul><li><p>Basic up to <strong>$2,500</strong> + <strong>$25 Laundry Allowance</strong> + <strong>$35 Medical Allowance</strong> + Variable Bonus.</p></li><li><p>Mon–Fri (8:30 AM – 5:30 PM) & Alternate Saturdays (8:30 AM – 12:30 PM).</p></li><li><p>Travel to customer sites provided via company vehicle.</p></li><li><p>Conveniently located at <strong>23 Jalan Buroh</strong>.</p></li></ul><h3><strong>Job Summary</strong></h3><p>We are looking for a skilled <strong>LCV Technician</strong> to handle the servicing and repair of light commercial vehicles, including vans and small lorries. This role requires a hands-on mechanic who is disciplined in workshop housekeeping and committed to completing service jobs efficiently.</p><h3><strong>Key Responsibilities</strong></h3><ul><li><p><strong>Mechanical Repairs</strong>: Perform comprehensive servicing and repairs on LCVs, specialized equipment, and tires.</p></li><li><p><strong>Field Service</strong>: Travel to customer sites using a company vehicle to provide on-site maintenance and support.</p></li><li><p><strong>Operational Excellence</strong>: Maintain good housekeeping within the workshop and ensure all maintenance equipment is well-kept.</p></li><li><p><strong>Reporting</strong>: Provide weekly reports to superiors regarding any discrepancies or outstanding service issues.</p></li><li><p><strong>Workflow Management</strong>: Ensure all assigned service jobs for the current month are completed on time.</p></li></ul><h3><strong>Requirements</strong></h3><ul><li><p>Minimum GCE ‘O’ Level, ITC, or NITEC in <strong>Electrical, Mechanical, or Automotive Technology</strong>.</p></li><li><p>At least <strong>1 year of relevant experience</strong> in the Automotive industry.</p></li><li><p>Must possess a valid <strong>Class 3 or 4 driving license</strong> (to drive company vehicles to sites).</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Field Service",
+      "uuid": "1306ca34d307dfc008db6370ee290c3d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "mechanical repairs",
+      "uuid": "22646b048cd2fdf53f2599ce157b4a31",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workflow",
+      "uuid": "24f47cdbe9ddba774a7cc53e51d9032e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Operations",
+      "uuid": "456d0deba6a86c9585590550c797502d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Reporting",
+      "uuid": "c5562ce2e22a86c247849904ecef3dc8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management",
+      "uuid": "fe4dbcab9b910577e5035e97ac068dae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202139763E",
+    "description": "<p>Recruit Now Singapore Pte Ltd | EA No: 21C0845</p>\n<p><br></p>\n<p>We provide solutions to all recruitment needs as well as HR services for a range of industries in Singapore. Our clients varying from well-known and established corporations to up-and-coming start-ups, put their trust in our services to provide the most efficient and effective results for recruitment and HR services. Supporting the exponential growth of our clients is and always will be what we strive for.&nbsp;</p>\n<p><br></p>\n<p>We have a team of well-equipped recruiters who are dedicated to placing job seekers with the best-suited companies. We make sure our recruiters at Recruit Now are well-educated on employment laws, job market and skillsets needed for respective industries to ensure a meticulous selection process in recruitment and safe employment.&nbsp;</p>\n<p><br></p>\n<p>Take your first step in finding your career.</p>",
+    "name": "RECRUIT NOW SINGAPORE PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 8,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:27:03.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202139763E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202139763E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202139763E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202139763E/schemes"
+      }
+    },
+    "logoFileName": "09f5712a49a075def54087779f9294da/recruit-now-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/09f5712a49a075def54087779f9294da/recruit-now-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "23",
+    "street": "JALAN BUROH",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "619479",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31476597133609,
+    "lng": 103.705621844055
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163489",
+    "deletedAt": null,
+    "createdBy": "a0288cf0-7c5b-4b9a-89b1-f203649877f3",
+    "createdAt": "2026-01-27T01:54:01.000Z",
+    "updatedAt": "2026-01-27T01:54:01.000Z",
+    "emailRecipient": "a0288cf0-7c5b-4b9a-89b1-f203649877f3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/lcv-technician-jalan-buroh-25k-allowances-recruit-now-singapore-d79963dd26bb68ea0c58acd82d3decfa",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d79963dd26bb68ea0c58acd82d3decfa"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d79963dd26bb68ea0c58acd82d3decfa/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

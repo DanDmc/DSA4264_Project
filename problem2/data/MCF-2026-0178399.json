@@ -1,0 +1,231 @@
+{
+  "uuid": "1cf543d038a7282c240a6a41b3046103",
+  "sourceCode": "Employer Portal",
+  "title": "ADMIN ASSISTANT",
+  "description": "<p>Job Duties :</p><ul><li>Provide clerical and administrative support</li><li>To do procurement and purchasing</li><li>Support the project team in purchasing in materials, equipment and services required for on going projects</li><li>Carry out administrative duties such as filling, scanning documents, and compilation of reports/files</li><li>Perform any other ad-hoc duties as assigned</li></ul><p>Job Requirements :</p><ul><li>At least 1year of experience in an administration role</li><li>Self-motivated and able to work independently and under pressure</li><li>Flexible/adaptable with work assignment and ability to multitask</li><li>Positive work attitude, Meticulous and able to adhere to procedures and instructions well</li><li>Able to start work in short notice</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Word",
+      "uuid": "99bf759398c1e3eb29bef7edd71e7777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 31,
+      "category": "Purchasing / Merchandising"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "42",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "200601566K",
+    "description": "<p>Megabuilders &amp; Development Pte Ltd provides general building construction services, civil engineering works, interior decoration and finishing works. We specialize in new erection, alteration and additional to existing buildings. We incorporated in the year of 2006, currently registered under</p>\n<p>BCA CW01 - General Building - B1</p>\n<p>BCA CR06 - Interior Decoration &amp; Finishing Works - L5</p>\n<p>BCA SY10 - Metal &amp; Steel Structures - L1</p>\n<p>Megabuilders is committed to providing reliable and quality works and high-value services to its clients. To constantly maintain such commitment and to keep up with development in the industry, the Company had achieved a number of awards and certifications over the years, such as ISO 9001:2015, ISO 14001:2015, OHSAS 18001:2007, Bizsafe Start and GGBS Award.</p>\n<p>The company expect further growth and is working towards greater expansion in its scope of service and work value in the coming years, while maintaining its objective of quality work and high-value services to clients.</p>",
+    "name": "MEGABUILDERS & DEVELOPMENT PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T23:29:29.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601566K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601566K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601566K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601566K/schemes"
+      }
+    },
+    "logoFileName": "f8a59082afb744d05587f00527fd2d94/megabuilders-development.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f8a59082afb744d05587f00527fd2d94/megabuilders-development.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "165",
+    "street": "BUKIT MERAH CENTRAL",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "150165",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28305589307335,
+    "lng": 103.816692798132
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178399",
+    "deletedAt": null,
+    "createdBy": "45a73b8f-a534-44c7-9e0d-b824cd61c7ff",
+    "createdAt": "2026-01-28T23:45:03.000Z",
+    "updatedAt": "2026-01-28T23:45:03.000Z",
+    "emailRecipient": "45a73b8f-a534-44c7-9e0d-b824cd61c7ff",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 217,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 21,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-megabuilders-development-1cf543d038a7282c240a6a41b3046103",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1cf543d038a7282c240a6a41b3046103"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1cf543d038a7282c240a6a41b3046103/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

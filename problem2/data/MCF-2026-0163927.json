@@ -1,0 +1,234 @@
+{
+  "uuid": "94cac8cbf8bd20bfaa94200f90c699fd",
+  "sourceCode": "Employer Portal",
+  "title": "DRIVER",
+  "description": "<p>Job Description & Requirements</p><ul><li>Drive a lorry to transport goods and materials from one location to another</li><li>Plan routes and schedules according to delivery requirements</li><li>Load and unload the lorry as required</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 License",
+      "uuid": "050dd67a228da14c9491d52d038e42ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPS",
+      "uuid": "8c578de37278ada488d763ea86c5cf20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202403977H",
+    "description": null,
+    "name": "RAPID ENGINEERING SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:21:25.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403977H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403977H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403977H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403977H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "PEMIMPIN DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "ONE PEMIMPIN",
+    "postalCode": "576151",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35188731406705,
+    "lng": 103.842894655643
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163927",
+    "deletedAt": null,
+    "createdBy": "8fa11d71-242f-46ec-8eb3-8ce4fe4f72df",
+    "createdAt": "2026-01-27T02:24:10.000Z",
+    "updatedAt": "2026-01-27T02:24:11.000Z",
+    "emailRecipient": "8fa11d71-242f-46ec-8eb3-8ce4fe4f72df",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 142,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/driver-rapid-engineering-services-94cac8cbf8bd20bfaa94200f90c699fd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/94cac8cbf8bd20bfaa94200f90c699fd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/94cac8cbf8bd20bfaa94200f90c699fd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

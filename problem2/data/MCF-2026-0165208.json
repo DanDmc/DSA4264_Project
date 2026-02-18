@@ -1,0 +1,259 @@
+{
+  "uuid": "c80193fec29438f9ed1bf9a28d0acf3d",
+  "sourceCode": "Employer Portal",
+  "title": "CARPENTER",
+  "description": "<p><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></p><p>Measure, cut, shape, and assemble wooden components according to blueprints or custom designs.</p><p>Operate woodworking machinery (e.g., saws, lathes, sanders) and hand tools safely and efficiently.</p><p>Perform sanding, polishing, and finishing to achieve required product quality.</p><p>Inspect and ensure the quality and precision of finished goods.</p><p>Repair or adjust products as needed to meet standards.</p><p>Maintain a clean and organized work area.</p><p>Follow safety guidelines and company procedures.</p><p>Collaborate with designers, supervisors, and other team members to meet production goals and timelines.</p><p>Proven experience as a Carpenter, preferably in household/kitchenware or furniture production.</p><p>Ability to read technical drawings and measurements accurately.</p><p>Skilled in using a variety of woodworking machines and hand tools.</p><p>Strong attention to detail and quality.</p><p>Knowledge of wood types, characteristics, and treatments.</p><p>Basic understanding of workplace safety procedures.</p><p>Good teamwork and communication skills.</p><p>Willingness to work night shift and split shift.</p><p>Willingness to work extra hours or weekend if needed.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Polishing",
+      "uuid": "298c17948857de446ea2aea7dcf904d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Woodworking",
+      "uuid": "7a74ac23c4bd8b809fe9ac43fb001da2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71151",
+  "occupationId": "OCC014796",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "23",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201018342H",
+    "description": "<p>Oriental Employment Ptd Ltd. Licence No. : 10C4480 was incorporated in Singapore since 2010. We aim to offer a solution for recruitment that specializes in the all industries, by matching applicants faster and easier</p>",
+    "name": "ORIENTAL EMPLOYMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:24:33.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H/schemes"
+      }
+    },
+    "logoFileName": "5e772e2c6c9cc52a7633a35430d9df47/oriental-employment.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5e772e2c6c9cc52a7633a35430d9df47/oriental-employment.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "31405500B",
+    "description": null,
+    "name": "TECK SENG LEE GENERAL CONSTRUCTION",
+    "ssicCode": "43301",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T04:04:58.000Z",
+    "ssicCode2020": "43301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/31405500B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/31405500B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/31405500B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/31405500B/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "49",
+    "street": "LENTOR GROVE",
+    "floor": null,
+    "unit": null,
+    "building": "FUDU PARK",
+    "postalCode": "789215",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 26,
+        "location": "D26 Upper Thomson, Springleaf",
+        "region": "North",
+        "sectors": [
+          "77",
+          "78"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38692078606175,
+    "lng": 103.838052186239
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165208",
+    "deletedAt": null,
+    "createdBy": "ce9dbc7b-67cd-4901-b0de-55e8d9fa3626",
+    "createdAt": "2026-01-27T04:06:25.000Z",
+    "updatedAt": "2026-01-27T04:06:26.000Z",
+    "emailRecipient": "ce9dbc7b-67cd-4901-b0de-55e8d9fa3626",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 38,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/carpenter-teck-seng-lee-general-construction-c80193fec29438f9ed1bf9a28d0acf3d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 3100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c80193fec29438f9ed1bf9a28d0acf3d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c80193fec29438f9ed1bf9a28d0acf3d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

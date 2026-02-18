@@ -1,0 +1,257 @@
+{
+  "uuid": "803c1fce3ec52a7567e058406f035956",
+  "sourceCode": "Employer Portal",
+  "title": "DevSecOps Engineer",
+  "description": "<p><strong>Position: DevSecOps Engineer</strong></p><p><strong>Job Summary</strong></p><p>We are seeking a hands-on DevSecOps Engineer for one of our esteemed clients to build and operate secure, cloud-native infrastructure across AWS, GCP, and on-prem environments, enabling scalable CI/CD for containerized microservices.  </p><p><strong>Key Responsibilities</strong></p><ul><li>Design, implement, and maintain secure CI/CD pipelines for containerized applications</li><li>Deploy and operate AWS ECS (Fargate) services and supporting AWS components (S3, RDS, IAM, networking)</li><li>Provision and manage GCP Kubernetes (GKE) clusters using Terraform</li><li>Ensure configuration and environment consistency across on-prem SIT and cloud staging environments</li><li>Implement and enforce IAM policies, secrets management, and network security controls</li><li>Integrate automated security scanning, compliance checks, and policy enforcement into CI/CD workflows</li><li>Monitor system health and performance, troubleshoot issues, and continuously improve reliability and scalability</li><li>Maintain clear and comprehensive architecture diagrams, runbooks, and operational documentation.</li></ul><p><strong>Required Skills & Qualifications</strong></p><ul><li>Bachelor’s degree in Computer Science, Engineering, or equivalent experience</li><li>5+ years of experience in <strong>DevOps, Cloud, or Platform Engineering</strong></li><li>Strong hands-on experience with <strong>AWS ECS (Fargate)</strong> and core AWS services</li><li>Solid experience with <strong>Kubernetes</strong>, preferably <strong>GKE</strong> (kubectl, Helm)</li><li>Proven use of <strong>Terraform</strong> for infrastructure as code</li><li>Experience with CI/CD tools such as <strong>GitLab CI, GitHub Actions, Jenkins</strong>, or similar</li><li>Strong knowledge of <strong>cloud security</strong> (IAM, VPC networking, secrets management)</li><li>Proficiency in <strong>Linux systems</strong> and scripting (<strong>Bash, Python</strong>).</li><li>Demonstrates strong ownership, clear communication, and effective collaboration across teams and environments.</li></ul><p><strong>Preferred Skills</strong></p><ul><li>Experience in regulated or security-sensitive environments</li><li>Familiarity with DevSecOps practices and secure SDLC frameworks</li></ul><p><strong>Other Information </strong><br /><strong>Work Location: </strong>Central/West-Central  <br /><strong>Job Type:</strong> <strong>Contract</strong> - 1 Year (Extendable)<br /><strong>Salary Range</strong>: S$7,000 - S$9,000<br /></p><p>This is an outsource role </p><p>If you are interested, kindly send your resume (in MS Word format) to Mounika at <a href=\"mailto:mounika@rmabpo.com\" target=\"_blank\" rel=\"noopener noreferrer\">mounika@rmabpo.com</a> stating your salary expectations & availability to take it forward. </p><p>All Curriculum Vitae will be treated with the strict confidentiality. </p><p>By sending us your personal data, you are deemed to consent to RMA Consultants Pte Ltd and its affiliates collecting, using and disclosing your personal data for the purposes set out in our Data Protection Policy at <a href=\"http://bit.ly/3GHgskn\" target=\"_blank\" rel=\"noopener noreferrer\">http://bit.ly/3GHgskn </a>and Privacy Policy at <a href=\"http://bit.ly/3W63rp7\" target=\"_blank\" rel=\"noopener noreferrer\">http://bit.ly/3W63rp7</a>. <br /> <br />This is in partnership with the Employment and Employability Institute Pte Ltd (“e2i”). </p><p>\"e2i is the empowering network for workers and employers seeking employment and employability solutions. e2i serves as a bridge between workers and employers, connecting with workers to offer job security through job-matching, career guidance and skills upgrading services, and partnering employers to address their manpower needs through recruitment, training, and job redesign solutions. e2i is a tripartite initiative of the National Trades Union Congress set up to support nation-wide manpower and skills upgrading initiatives. By applying for this role, you consent to RMA Groups’s PDPA and <a href=\"https://www.e2i.com.sg/pdpa/\" target=\"_blank\" rel=\"noopener noreferrer\">e2i’s PDPA</a>.” <br /> <br /><strong>Mounika Tanuku|EA Regn. No. R22109193 </strong><br /><strong>RMA Consultants Pte Ltd|EA Licence No. 93C4403 </strong></p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Terraform",
+      "uuid": "1b1ed905d54c18e3dd8828986c14be17",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Jenkins",
+      "uuid": "2e54334c0a5ce2e3e5a5845df3ab3ada",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cloud Security",
+      "uuid": "3ba90f7ae36582c7bce8300d29951e83",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "DevOps",
+      "uuid": "407432c641358300c37673ae96305f3a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS",
+      "uuid": "4847e034bb0a55fcbc8a3380d6a3ab80",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Continuous Integration and Continuous Deployment",
+      "uuid": "535ba1ec945063c54626bfd01fcdc367",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Configuration Management",
+      "uuid": "a4934331bbf896399132d3d20f141ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ECS",
+      "uuid": "c8f63ecaff5e983a2441126a241c4cfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Gitlab",
+      "uuid": "d0498fac9d755142b3dfd9f05281701f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Github",
+      "uuid": "e1adbcbb92c622d0b3e619f9d0730abf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199307306W",
+    "description": "<p>RMA Consultants is a highly experienced Human Resource Outsourcing (HRO) service provider that excels in delivering strategic HR solutions and advisory to help strengthen human capital for business success.</p>\n<p><br></p>\n<p>Firmly grounded in comprehending significant social trends and key industry knowledge, RMA is focus-driven in providing practical HR solutions in today’s competitive marketplace in sourcing for Cross-functional Executive Search, Staffing, Recruitment and other customized HR Consultancy services.</p>",
+    "name": "RMA CONSULTANTS PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.rmaconsultants.com.sg",
+    "lastSyncDate": "2026-02-04T00:56:32.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199307306W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199307306W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199307306W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199307306W/schemes"
+      }
+    },
+    "logoFileName": "b2c7bf85c318707725774bc501622c68/RMA CONSULTANTS PTE LTD.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b2c7bf85c318707725774bc501622c68/RMA%20CONSULTANTS%20PTE%20LTD.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180472",
+    "deletedAt": null,
+    "createdBy": "d9b04828-a614-478e-94b3-e667c0901b60",
+    "createdAt": "2026-01-29T03:57:07.000Z",
+    "updatedAt": "2026-01-29T03:57:07.000Z",
+    "emailRecipient": "d9b04828-a614-478e-94b3-e667c0901b60",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 41,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-19",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devsecops-engineer-rma-consultants-803c1fce3ec52a7567e058406f035956",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/803c1fce3ec52a7567e058406f035956"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/803c1fce3ec52a7567e058406f035956/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,231 @@
+{
+  "uuid": "c6ecafb4ecdd3336bc74733236c66343",
+  "sourceCode": "Employer Portal",
+  "title": "Delivery Driver",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>Collection of goods from suppliers</li><li>Delivery of orders to customers in safe and timely manner</li><li>Loading and unloading of goods</li><li>Upkeep and maintenace of vehicle</li><li>Ensures collection and delivery of good is within the planned schedules</li><li></li></ul><p><strong>Requirements:</strong></p><ul><li>Possess a valid Singapore class 3 Driver's license</li><li>Minimum of 2 years' delivery experience</li><li>Be familiar with Singapore routes</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Good Driving Record",
+      "uuid": "00d2d4682295ed322013795f93bc5943",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 License",
+      "uuid": "050dd67a228da14c9491d52d038e42ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loading & unloading",
+      "uuid": "544d69ceb3202e4e7d7c27956e848f5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "198802408E",
+    "description": "<p>\r\n\tACP METAL FINISHING PTE LTD</p>\r\n",
+    "name": "ACP METAL FINISHING PTE LTD",
+    "ssicCode": "25921",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T06:57:38.000Z",
+    "ssicCode2020": "25921",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802408E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802408E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802408E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802408E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6",
+    "street": "JOO KOON CIRCLE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "629037",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32494044634165,
+    "lng": 103.675959816236
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181946",
+    "deletedAt": null,
+    "createdBy": "962e858c-9282-4650-87be-92e05816855c",
+    "createdAt": "2026-01-29T07:33:10.000Z",
+    "updatedAt": "2026-01-29T07:33:10.000Z",
+    "emailRecipient": "962e858c-9282-4650-87be-92e05816855c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 113,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/delivery-driver-acp-metal-finishing-c6ecafb4ecdd3336bc74733236c66343",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c6ecafb4ecdd3336bc74733236c66343"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c6ecafb4ecdd3336bc74733236c66343/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

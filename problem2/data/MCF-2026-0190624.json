@@ -1,0 +1,243 @@
+{
+  "uuid": "0740b8cca4a43f6064e4345eddb5b9ad",
+  "sourceCode": "Employer Portal",
+  "title": "Python Developer",
+  "description": "<p><strong>3 years and above.</strong></p><p>Core Technical Skills<br /><strong>Hands-on Python, SQL, ETL development, and any relational database (PostgreSQL, Oracle, MS SQL Server, etc).</strong><br /><br />Required Skills Experience<br />Strong <strong>Python</strong> development (Pandas, NumPy, SQLAlchemy, pyodbc, custom <strong>ETL</strong> frameworks).<br />Expert SQL: joins, window functions, CTEs, partitioning, indexing.<br />Experience with <strong>ETL</strong> tools (Airflow, Informatica, Glue, Talend, SSIS, etc.).<br />Hands-on data migration experience with large datasets (100M rows).<br />Solid understanding of RDBMS concepts, modelling, constraints, and referential integrity.<br />Strong analytical, problem-solving, communication, and documentation skills.<br />Ability to work under tight timelines during migration and cutover periods.<br /><br />Education<br />Bachelors or Masters in Computer Science, Information Systems, Data Engineering, or related fields.<br />Cloud/ETL/Python/DB certifications are a plus.</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Talend",
+      "uuid": "1a254116eb5e70714b0680dfd4d8f7d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pandas",
+      "uuid": "251d2bbfe9a3b95e5691ceb30dc6784a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Airflow",
+      "uuid": "2528f15a184a14d75d2e092e396dd03e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Informatica",
+      "uuid": "54e7077835580c59b40e6aa12a82c488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Flask",
+      "uuid": "9784e91c7b2657917226bc82afdd6789",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Migration",
+      "uuid": "9b699c59be5ba510cd9c430a31843b23",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQLAlchemy",
+      "uuid": "d233b99a3ccb7f38a032466289b6d227",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SSIS",
+      "uuid": "d941bd232618b67d2d8ba96f83cc2103",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Django",
+      "uuid": "ef0f93c83e374876a61da0d4d16f36ab",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200602092H",
+    "description": "<p>Headquartered in Singapore, we are one of Asia Pacific’s leading organizations, providing technology consulting, software development and outsourcing services, with operations in 5 countries across the region and with development centres in Singapore, Malaysia and India.</p>\r\n\r\n<p>Apar Technologies is a part of the Apar Group, a billion dollar industrial conglomerate and managed by Basil Partners, a successful technology venture fund.</p>\r\n\r\n<p>Apar combines a passion for client satisfaction, deep industry and technology expertise and a global workforce working in an honest and ethical work environment to deliver value.</p>\r\n\r\n<p>Our four growth platforms—Technology consulting, Business intelligence, Collaboration and Cloud and big data—are the innovation engines through which we build world-class skills and capabilities and create, acquire and manage key assets central to the development of world class services and solutions for our clients.</p>\r\n\r\n<p>Apar aims to be the preferred business partner of global companies, helping them create best – in- class technology and business solutions.</p>\r\n",
+    "name": "APAR TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:42:57.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H/schemes"
+      }
+    },
+    "logoFileName": "458e0f7aaa8f625b64cb3ae03a88db22/apar-technologies.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/458e0f7aaa8f625b64cb3ae03a88db22/apar-technologies.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4",
+    "street": "SHENTON WAY",
+    "floor": null,
+    "unit": null,
+    "building": "SGX CENTRE II",
+    "postalCode": "068807",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27932186685936,
+    "lng": 103.849827129495
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190624",
+    "deletedAt": null,
+    "createdBy": "20128342-6d82-41e3-aa06-d2349fd84826",
+    "createdAt": "2026-01-30T09:22:55.000Z",
+    "updatedAt": "2026-01-30T09:22:54.000Z",
+    "emailRecipient": "20128342-6d82-41e3-aa06-d2349fd84826",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 90,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/python-developer-apar-technologies-0740b8cca4a43f6064e4345eddb5b9ad",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0740b8cca4a43f6064e4345eddb5b9ad"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0740b8cca4a43f6064e4345eddb5b9ad/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

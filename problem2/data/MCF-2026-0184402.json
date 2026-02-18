@@ -1,0 +1,197 @@
+{
+  "uuid": "1414131e584a46660cbbcc799b39f152",
+  "sourceCode": "Employer Portal",
+  "title": "Beauty and Wellness Supervisor",
+  "description": "<ul><li>Oversee daily operations of the beauty and wellness outlet to ensure smooth and efficient workflow.</li></ul><ul><li>Supervise, coach, and motivate therapists, beauticians, and consultants to maintain high service standards.</li></ul><ul><li>Plan staff schedules, manage manpower deployment, and ensure adequate coverage at all times.</li></ul><ul><li>Monitor staff performance, productivity, and customer service quality.</li></ul><ul><li>Handle customer feedback, complaints, and service recovery in a professional and timely manner.</li></ul><ul><li>Ensure strict compliance with hygiene, safety, and health regulations.</li></ul><ul><li>Conduct regular team briefings and on-the-job training to upgrade staff skills and knowledge.</li></ul><ul><li>Support sales targets by promoting treatment packages, memberships, and retail products.</li></ul><ul><li>Track daily sales performance and prepare basic operational and sales reports.</li></ul><ul><li>Manage inventory levels, place purchase orders, and coordinate with suppliers and vendors.</li></ul><ul><li>Ensure proper maintenance of equipment and treatment rooms.</li></ul><ul><li>Implement and monitor standard operating procedures (SOPs) across all service areas.</li></ul><ul><li>Assist management in developing service promotions and customer retention programs.</li></ul><ul><li>Maintain high standards of staff grooming, professionalism, and workplace conduct.</li></ul><ul><li>Ensure accurate appointment scheduling and effective use of booking systems.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Retention",
+      "uuid": "05b317f98571a546ce517f9ce18d5467",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HR Management",
+      "uuid": "09219b91a8805fc52821155284932b58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "marketing plan",
+      "uuid": "12d6b9675639fd57cad334f2037a75a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Recovery",
+      "uuid": "6d7d5cf1bb099afb7a335ae56f77b934",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "uuid": "dfd2c85f1a37211ac24aa601fc0d2585",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202601877H",
+    "description": null,
+    "name": "REBOURNE WELLNESS INTERNATIONAL PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T12:14:59.000Z",
+    "ssicCode2020": "96022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202601877H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202601877H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202601877H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202601877H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184402",
+    "deletedAt": null,
+    "createdBy": "a511ee7e-3a0a-41cd-9f27-9e028a67043f",
+    "createdAt": "2026-01-29T12:22:35.000Z",
+    "updatedAt": "2026-01-29T12:22:35.000Z",
+    "emailRecipient": "a511ee7e-3a0a-41cd-9f27-9e028a67043f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/beauty-wellness-supervisor-rebourne-wellness-international-1414131e584a46660cbbcc799b39f152",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5600,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1414131e584a46660cbbcc799b39f152"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1414131e584a46660cbbcc799b39f152/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

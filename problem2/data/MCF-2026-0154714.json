@@ -1,0 +1,258 @@
+{
+  "uuid": "33fdb61b9fe541b69b557717a96e7c85",
+  "sourceCode": "Employer Portal",
+  "title": "Technician",
+  "description": "<p><strong>As Technician you will be responsible to:</strong></p><ul><li>Provide service and repair for custom made earpieces, (In-The-Ear) ITE and (Behind-The Ear) BTE hearing instruments</li><li>Handle urgent custom-made earpiece orders</li><li>Quality check and testing of all outgoing hearing instruments</li><li>Complete the necessary documents after packing all outgoing instruments</li><li>Provide support in logistics when necessary</li><li>Any other ad-hoc duties assigned by the supervisor</li></ul><p><strong>We are looking for an individual with:</strong></p><ul><li>Minimum N / O Level / NITE/ ITE in Electrical or Electronics</li><li>Able to work under pressure with minimal supervision</li><li>Focused, quick learner, strategically prioritizes work, committed</li><li>Able to communicate effectively across functions</li><li>Basic knowledge in IT (Microsoft office)</li><li>Soldering skill is preferable</li><li>Fresh graduates without relevant experiences but are keen to learn about hearing instruments technology can also apply</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soldering",
+      "uuid": "2de1cb43e3dbd159b5e7f4ebfe1f4f60",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Support",
+      "uuid": "45db51f999b9e9fc7263a7e0ebc2d7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laboratory",
+      "uuid": "e684d8eeee72ed2583865b78e8d3f57a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    },
+    {
+      "id": 43,
+      "category": "Precision Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "42",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "200802000Z",
+    "description": "<p>   <strong>SONOVA SINGAPORE PTE. LTD</strong>. (formerly known as Phonak Singapore Pte Ltd) is a member of the Sonova Holding AG, headquartered in Staefa, Switzerland. The Sonova Group is a leading manufactuer of innovative hearing care solutions.</p>  <p>   At Sonova, we are proud of the success made possible by our employees, be it the development and production of a high-quality digital hearing aids, its marketing or related customer service to professionals and consumers in more than 90 countries. It is the personal commitment of our employees that always makes the difference. </p>  <p>   <br />    </p>  ",
+    "name": "SONOVA SINGAPORE PTE. LTD.",
+    "ssicCode": "46592",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:07:02.000Z",
+    "ssicCode2020": "46592",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z/schemes"
+      }
+    },
+    "logoFileName": "1285809d5791b9d4126170eaae87ef5d/sonova-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/1285809d5791b9d4126170eaae87ef5d/sonova-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "200802000Z",
+    "description": "<p>   <strong>SONOVA SINGAPORE PTE. LTD</strong>. (formerly known as Phonak Singapore Pte Ltd) is a member of the Sonova Holding AG, headquartered in Staefa, Switzerland. The Sonova Group is a leading manufactuer of innovative hearing care solutions.</p>  <p>   At Sonova, we are proud of the success made possible by our employees, be it the development and production of a high-quality digital hearing aids, its marketing or related customer service to professionals and consumers in more than 90 countries. It is the personal commitment of our employees that always makes the difference. </p>  <p>   <br />    </p>  ",
+    "name": "SONOVA SINGAPORE PTE. LTD.",
+    "ssicCode": "46592",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:07:02.000Z",
+    "ssicCode2020": "46592",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200802000Z/schemes"
+      }
+    },
+    "logoFileName": "1285809d5791b9d4126170eaae87ef5d/sonova-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/1285809d5791b9d4126170eaae87ef5d/sonova-singapore.jpg"
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "MEDIA CIRCLE",
+    "floor": null,
+    "unit": null,
+    "building": "INFINITE STUDIOS",
+    "postalCode": "138562",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29238424432589,
+    "lng": 103.794685834653
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0154714",
+    "deletedAt": null,
+    "createdBy": "2ee42521-218a-493d-9100-eeb921c1ab6c",
+    "createdAt": "2026-01-26T00:38:25.000Z",
+    "updatedAt": "2026-01-26T00:38:24.000Z",
+    "emailRecipient": "2ee42521-218a-493d-9100-eeb921c1ab6c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 83,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/technician-sonova-singapore-33fdb61b9fe541b69b557717a96e7c85",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3400,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/33fdb61b9fe541b69b557717a96e7c85"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/33fdb61b9fe541b69b557717a96e7c85/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

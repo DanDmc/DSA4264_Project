@@ -1,0 +1,200 @@
+{
+  "uuid": "5f2492b4755160bc9ab9f0767096946f",
+  "sourceCode": "Employer Portal",
+  "title": "Spa Therapist",
+  "description": "<p>Provide consistent professional spa massage ( either body or foot ).</p><p>Ensure high level of service standards.</p><p>Ensuring clean , safe and well-oranized spa facility.</p><p>Requirements</p><p>Peferably with ITEC/WSQ certificate or massage certification</p><p>Minimum 1year of relevant experience</p><p>Pleasant personality and hardworking</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Secondary Education",
+      "uuid": "391d57d40e34d7c7c635abbb49aab7ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reflexology",
+      "uuid": "6951388b66b4900565a162dd53857a66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Sales",
+      "uuid": "6dc9fae99bf94d3db2f640dec2b98dbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Skin Care",
+      "uuid": "fe37e386b185b3d924935f52cb56182c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "32551",
+  "occupationId": "OCC013639",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "47",
+  "ssecFos": "1312",
+  "postedCompany": {
+    "uen": "53209030J",
+    "description": null,
+    "name": "SPA DE BEAUTE",
+    "ssicCode": "96022",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T06:37:31.000Z",
+    "ssicCode2020": "96022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53209030J"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53209030J/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53209030J/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53209030J/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "324",
+    "street": "TANJONG KATONG ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "437103",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30430452838518,
+    "lng": 103.896282568883
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158334",
+    "deletedAt": null,
+    "createdBy": "1375d8c5-07c7-4fd8-a3c6-c07fa1f5fe1a",
+    "createdAt": "2026-01-26T06:49:52.000Z",
+    "updatedAt": "2026-01-26T06:49:52.000Z",
+    "emailRecipient": "1375d8c5-07c7-4fd8-a3c6-c07fa1f5fe1a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/personal-care/spa-therapist-spa-de-beaute-5f2492b4755160bc9ab9f0767096946f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4300,
+    "minimum": 3900,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5f2492b4755160bc9ab9f0767096946f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5f2492b4755160bc9ab9f0767096946f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

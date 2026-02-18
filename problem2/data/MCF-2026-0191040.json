@@ -1,0 +1,202 @@
+{
+  "uuid": "541b9500f2c26ca936f4775ddc462bf7",
+  "sourceCode": "Employer Portal",
+  "title": "Chef",
+  "description": "<p><strong>Job Summary</strong></p><p>Collaborate with the General Manager to lead and operate kitchen teams across multiple outlets in Singapore, driving operational excellence, cost control, and compliance with regulatory and company standards to support business growth and quality service delivery.</p><p><strong>Responsibilities</strong></p><ul><li>Lead kitchen teams alongside the General Manager to consistently deliver operational standards that enhance service quality and customer satisfaction</li><li>Manage kitchen expenditure by monitoring costs and comparing them against budgets to ensure financial discipline and profitability</li><li>Record and verify all vendor material transactions at outlets to maintain accurate inventory and financial records for audit readiness</li><li>Prepare and present detailed monthly expenditure reports to support informed management decision-making</li><li>Ensure kitchen operations comply with Operating Level Program Standards, NEA regulations, and Management Standard Operating Procedures (SOP) to uphold safety and quality standards</li><li>Continuously review and improve operational procedures, workflows, and methods to increase efficiency and enhance food quality</li><li>Adapt work practices to operate effectively across different outlets throughout Singapore, maintaining operational consistency and flexibility</li><li>Execute additional responsibilities assigned by management to support overall business objectives</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Demonstrate extensive culinary experience with over 3 years of cooking expertise, including proficiency in Chinese cuisine preparation</li></ul>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Culinary Skills",
+      "uuid": "de9730b19b980c74412a3a5abead9c30",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202419538G",
+    "description": null,
+    "name": "SINOWISDOM VENTURE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T09:06:58.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202419538G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202419538G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202419538G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202419538G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "22",
+    "street": "AMOY STREET",
+    "floor": null,
+    "unit": null,
+    "building": "TELOK AYER CONSERVATION AREA",
+    "postalCode": "069857",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28199432409326,
+    "lng": 103.847880874927
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191040",
+    "deletedAt": null,
+    "createdBy": "baebc374-4818-4b75-85da-472fe2bc42e1",
+    "createdAt": "2026-01-30T09:48:24.000Z",
+    "updatedAt": "2026-01-30T09:48:24.000Z",
+    "emailRecipient": "baebc374-4818-4b75-85da-472fe2bc42e1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-20",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-sinowisdom-venture-541b9500f2c26ca936f4775ddc462bf7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/541b9500f2c26ca936f4775ddc462bf7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/541b9500f2c26ca936f4775ddc462bf7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

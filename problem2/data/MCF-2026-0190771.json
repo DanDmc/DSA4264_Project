@@ -1,0 +1,217 @@
+{
+  "uuid": "e835f22baf49575e7abe99c1d3e64327",
+  "sourceCode": "Employer Portal",
+  "title": "Senior DevOps Engineer",
+  "description": "<p><em>Temus was established by Temasek in partnership with UST, to provide digital transformation solutions for the private and public sectors as we aspire to be a strategic partner in realising the Singapore Government’s Smart Nation vision. We are headquartered in Singapore and have more than 400 employees across a wide range of disciplines in strategy, design, architecture, technology, data & AI.</em><br /></p><p><u><strong>Roles & Responsibilities:</strong></u></p><ul><li>Building and setting up and maintenance development tools and infrastructure in CI/CD landscape</li><li>Working on ways to automate and improve development and release processes</li><li>Maintain and adopt Agile best practices and lifecycles for process workflows (e.g., Kanban, CI/CD)</li><li>Work with Developers and DevOps Engineers on code review through continuous inspection, defining test scope and feature test cases based on requirements</li><li>Ensure proper process workflow is followed in accordance with internal controls, compliance, and audit requirements</li><li>Interact with clients and development teams on product backlog prioritization for software upgrades, patches and hotfix, defect fixes and enhancements</li><li>Take ownership of all issues and outages. Track and monitor issues progress until their completion and provide timely issue escalation to relevant audiences</li></ul><p><br /><u><strong>Job Requirements:</strong></u></p><ul><li>Minimum 5 years of relevant experience in DevOps/SRE, systems engineering, build/ release/ deployment automation, etc</li><li>Experience with SysOps, knowledge of scripting languages such as Java, JavaScript, Perl, Ruby, Python, PHP, Groovy, Bash</li><li>Experience designing and working with modern CI/CD with gitlab, github or jenkins or equivalent</li><li>Experience in integrating DevSecOps tool like Nexus, Fortify into Build pipelines will be an added advantage</li><li>Experience with latest tools and technologies like Docker, Kubernetes, Ansible</li><li>Experience in deploying Infrastructure as Code with Terraform or scripts to Nutanix, SCOM and equivalent</li><li>Self-motivated, hands-on, dynamic, and detail-oriented individual with a strong technical background</li></ul><p></p><p><em>By applying for this role, you have read and acknowledge the data privacy statement via this link - </em><a href=\"https://www.temus.com/job-applicant-data-protection/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.temus.com/job-applicant-data-protection/</a></p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Perl",
+      "uuid": "0114ad06d728f1834e36fe1a39574ef4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Groovy",
+      "uuid": "2d19c57fdd4fdc270c971f69ee8d5169",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PHP",
+      "uuid": "2fec392304a5c23ac138da22847f9b7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kanban",
+      "uuid": "39b32dd45982038aa5704ca2728334ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ruby",
+      "uuid": "9916d1fc59fe22cc046a2fe1615bc764",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Systems Engineering",
+      "uuid": "dd933aec535ee18ec674f5b94968c767",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013771",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202020626D",
+    "description": null,
+    "name": "TEMUS PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:04:00.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202020626D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202020626D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202020626D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202020626D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190771",
+    "deletedAt": null,
+    "createdBy": "3cf0c576-8547-4c2b-856c-6074224b82cf",
+    "createdAt": "2026-01-30T09:32:28.000Z",
+    "updatedAt": "2026-01-30T09:32:29.000Z",
+    "emailRecipient": "3cf0c576-8547-4c2b-856c-6074224b82cf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-devops-engineer-temus-e835f22baf49575e7abe99c1d3e64327",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e835f22baf49575e7abe99c1d3e64327"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e835f22baf49575e7abe99c1d3e64327/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

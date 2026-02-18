@@ -1,0 +1,234 @@
+{
+  "uuid": "a4f1aa69875eb390010b4ee9af97e200",
+  "sourceCode": "Employer Portal",
+  "title": "DRIVER",
+  "description": "<p>Responsibilities：</p><p>Manage the day to day transportation services</p><p>Handling and delivery of goods</p><p>Assist on admin and general warehouse duties</p><p>Ad hoc jobs assigned by management</p><p>Requirements:</p><p>Class 4 driving license</p><p>Light-Moderate physical work is required</p><p>Working days : work Regular hours, 6 working days</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 License",
+      "uuid": "050dd67a228da14c9491d52d038e42ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPS",
+      "uuid": "8c578de37278ada488d763ea86c5cf20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202412182M",
+    "description": null,
+    "name": "JIN LOONG TAI PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:04:49.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202412182M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202412182M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202412182M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202412182M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "PEMIMPIN DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "ONE PEMIMPIN",
+    "postalCode": "576151",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35188731406705,
+    "lng": 103.842894655643
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163659",
+    "deletedAt": null,
+    "createdBy": "14232777-ed0f-481e-a9c9-3909fd3a5192",
+    "createdAt": "2026-01-27T02:06:06.000Z",
+    "updatedAt": "2026-01-27T02:06:06.000Z",
+    "emailRecipient": "14232777-ed0f-481e-a9c9-3909fd3a5192",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 123,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/driver-jin-loong-tai-a4f1aa69875eb390010b4ee9af97e200",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a4f1aa69875eb390010b4ee9af97e200"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a4f1aa69875eb390010b4ee9af97e200/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

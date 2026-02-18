@@ -1,0 +1,243 @@
+{
+  "uuid": "05bd4dc1ebb04560ddd8209d9e839ce8",
+  "sourceCode": "Employer Portal",
+  "title": "English Tutor",
+  "description": "<p>Job Description & Requirements</p><p>Job Responsibilities:</p><p>Conduct all-English teaching, tailoring lessons to  children’s levels and needs,  and designing  engaging  course content.</p><p>Evaluate three children’s progress regularly, provide detailed reports to parents, and suggest improvements.</p><p>Assign and check homework to reinforce learning.</p><p></p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written English",
+      "uuid": "2ce9835ef0555e4920613df70c01ecb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WebEx",
+      "uuid": "2f3d7ccb0648306491f0667e25193eea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lesson Planning",
+      "uuid": "2fd81aa1a8532e36357eb230987c3a28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MOE Syllabus",
+      "uuid": "39da3c1b388017bd12d7845f10d8eca1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tuition",
+      "uuid": "5baf75d4c161c500ed5811a389a32e38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Chemistry",
+      "uuid": "84cf6008945c9b558ed7c0869557b70d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Approachable",
+      "uuid": "86d497587a59c7984e4c227b4737a2cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Characters",
+      "uuid": "994d06622c761cbceb384fd10a0b53f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tailoring",
+      "uuid": "9c0f8130a55afd76fb735f5168b39a87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching English",
+      "uuid": "a0f3573bf5fcd180e70681a9d084c694",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Learning Management",
+      "uuid": "d328c8429d6ec437008f4bcac0e66432",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Curriculum Development",
+      "uuid": "d798630929179a546b739b35dca08e22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tutoring",
+      "uuid": "f4f4079bd2ad5479846c25dd54b4a748",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "36910",
+  "occupationId": "OCC006902",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0121",
+  "postedCompany": {
+    "uen": "202315866W",
+    "description": null,
+    "name": "PROTUS WONDERLAND PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T01:54:33.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315866W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315866W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315866W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315866W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "CHURCH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "SAMSUNG HUB",
+    "postalCode": "049483",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28326322317331,
+    "lng": 103.849626546611
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165498",
+    "deletedAt": null,
+    "createdBy": "77868dff-c494-4d95-8e1b-99d3789dfcb5",
+    "createdAt": "2026-01-27T04:47:24.000Z",
+    "updatedAt": "2026-01-27T04:47:24.000Z",
+    "emailRecipient": "77868dff-c494-4d95-8e1b-99d3789dfcb5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 140,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/english-tutor-protus-wonderland-05bd4dc1ebb04560ddd8209d9e839ce8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/05bd4dc1ebb04560ddd8209d9e839ce8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/05bd4dc1ebb04560ddd8209d9e839ce8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

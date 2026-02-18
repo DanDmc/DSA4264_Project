@@ -1,0 +1,239 @@
+{
+  "uuid": "3dd650ffe81073c42d9518c96b4174d3",
+  "sourceCode": "Employer Portal",
+  "title": "Accounts Assistant",
+  "description": "<p><strong>Job Summary</strong></p><p>Support the finance and administrative functions by managing accounts receivable and payable, processing sales orders and invoices with accuracy and timeliness, and overseeing inventory, and office administration to ensure smooth business operations.</p><p><strong>Responsibilities</strong></p><ul><li>Process and manage sales orders and invoices accurately to ensure timely delivery and billing</li><li>Manage accounts receivable and accounts payable to maintain financial accuracy </li><li>Provide daily support for sales operations to facilitate seamless transaction processing</li><li>Oversee inventory management to maintain optimal stock levels </li><li>Perform administrative and accounting duties as assigned to support operational efficiency</li><li>Manage vendor relationships and procurement processes to support office and operational needs</li><li>Execute ad hoc duties as assigned </li></ul><p><strong>Requirements</strong></p><ul><li>Diploma in Accounting or related field</li><li>Proficiency in accounting software (Xero) and Microsoft Excel</li><li>Minimum 1 year of working experience in accounting or related administrative roles</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vendor Management",
+      "uuid": "97f6291ea1000272b34fdfaeb3a9e2d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008765",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "202431334Z",
+    "description": null,
+    "name": "LUNICO SOLUTIONS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:10:40.000Z",
+    "ssicCode2020": "69202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202431334Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202431334Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202431334Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202431334Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153845",
+    "deletedAt": null,
+    "createdBy": "ae6585b3-1ce0-4939-b9a1-475f39cf811a",
+    "createdAt": "2026-01-25T15:39:07.000Z",
+    "updatedAt": "2026-01-25T15:39:07.000Z",
+    "emailRecipient": "ae6585b3-1ce0-4939-b9a1-475f39cf811a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 302,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-assistant-lunico-solutions-3dd650ffe81073c42d9518c96b4174d3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3dd650ffe81073c42d9518c96b4174d3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3dd650ffe81073c42d9518c96b4174d3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

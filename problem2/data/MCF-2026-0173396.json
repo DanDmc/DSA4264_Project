@@ -1,0 +1,229 @@
+{
+  "uuid": "3236215584c1aac763e3d7f5f40bf085",
+  "sourceCode": "Employer Portal",
+  "title": "Project Supervisor",
+  "description": "<p><strong>JOB DESCRIPTION</strong></p>\n<ul>\n  <li>Be responsible for the planning, scheduling, controlling and coordinating of building services related works in terms of preventive / breakdown / A&amp;A Works</li>\n  <li>To lead a team of skilled workers to carry out their works accurately and timely and to ensure that works on site are carried out according to client requirement</li>\n  <li>Liaise and hold meetings with clients, Managing Agent &amp; Sub contractor to ensure that all requirements by clients and relevant authorities are adhered</li>\n  <li>Monitor, track, and provide timely project progress reports to the management</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Services",
+      "uuid": "6f943869ecd85edee9c33427089dbb08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Engineering",
+      "uuid": "931140d8e607636c929c269fa1d409b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Piping",
+      "uuid": "96d312760756ae17426f3ff9f9731dd1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "201804161Z",
+    "description": null,
+    "name": "ALINK ENGINEERING PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:23:06.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1003",
+    "street": "BUKIT MERAH CENTRAL",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "159836",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28362443009387,
+    "lng": 103.81350464348
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173396",
+    "deletedAt": null,
+    "createdBy": "4e85d40f-6a8a-4ee6-b608-ddfefda340b4",
+    "createdAt": "2026-01-28T04:20:27.000Z",
+    "updatedAt": "2026-01-28T04:20:27.000Z",
+    "emailRecipient": "4e85d40f-6a8a-4ee6-b608-ddfefda340b4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-supervisor-alink-engineering-3236215584c1aac763e3d7f5f40bf085",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3236215584c1aac763e3d7f5f40bf085"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3236215584c1aac763e3d7f5f40bf085/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

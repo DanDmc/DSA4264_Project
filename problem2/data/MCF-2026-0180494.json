@@ -1,0 +1,229 @@
+{
+  "uuid": "64e7108721ccf7ee35f53fba1717a01b",
+  "sourceCode": "Employer Portal",
+  "title": "Application Support Engineer",
+  "description": "<p><strong>24x7 support, rotational shifts</strong><br /><br />Technically sound with at least 3 years of hands-on experience in Java, J2EE/JEE, Oracle, SQL/ PLSQL, Jasper report, APIs (RESTful and SOAP) and/or XML. Basic understanding of Solaris and/or Linux OS such as RHEL would be required. </p><p>Having Unix shell scripting, RedHat Ansible knowledge, experience in AWS applications (CloudWatch, S3, RDS, EKS), IBM Connect Direct, IBM MQ, API Gateway, Apache Ignite, Solace PubSub+, ELK, micro services & containers, cloud-based architecture and/or DevSecOps technologies is a plus. </p><p>Experience in Spring 4.x / 5.x / 6.x and Struts 2.x frameworks, SpringBoot and/or SpringBatch would be added advantage. </p><p>Domain knowledge of Financial Clearing and Payment Systems and ISO20022 standard is a plus. <br /></p><p></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Struts",
+      "uuid": "39242818eb5731bd7cd194bc084c2aba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle SQL",
+      "uuid": "41c49a5a27c0b3ddcd4c3709baa243ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SOAP",
+      "uuid": "4de91f0fcb9cd3a20b6b1d64610a0a3d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RedHat",
+      "uuid": "a82007c47b25723539a00ff94e8b3d27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix Shell Scripting",
+      "uuid": "d16fae16b9f41c4d4f21ec0b8cc02416",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apache",
+      "uuid": "e9713ae04a02a810d6f33dd956f42794",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Solaris",
+      "uuid": "eaf36c98b91893b7f79bd5184a23d377",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002102",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200008236C",
+    "description": "<p>ENCORA TECHNOLOGIES PTE. LTD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+    "name": "ENCORA TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:08:51.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008236C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008236C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008236C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008236C/schemes"
+      }
+    },
+    "logoFileName": "e9b4253ecf9b2769a23d8bd427d95340/encora-technologies.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e9b4253ecf9b2769a23d8bd427d95340/encora-technologies.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180494",
+    "deletedAt": null,
+    "createdBy": "67a454ad-6eed-4af8-a0ce-1f4f3836816f",
+    "createdAt": "2026-01-29T04:01:22.000Z",
+    "updatedAt": "2026-01-29T04:01:22.000Z",
+    "emailRecipient": "67a454ad-6eed-4af8-a0ce-1f4f3836816f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 96,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/application-support-engineer-encora-technologies-64e7108721ccf7ee35f53fba1717a01b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/64e7108721ccf7ee35f53fba1717a01b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/64e7108721ccf7ee35f53fba1717a01b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

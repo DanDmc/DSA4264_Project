@@ -1,0 +1,210 @@
+{
+  "uuid": "1ce687693889dfb140cbdd1648ee5a25",
+  "sourceCode": "Employer Portal",
+  "title": "Accounts Assistant",
+  "description": "<p><u><strong>Job Description</strong></u></p><p>The Accounts Assistant supports daily accounting operations, including accounts payable and receivable, bookkeeping, and financial record maintenance. This role is suitable for experienced individuals who value stability, structured processes, and a supportive work environment. </p><p><u><strong>Responsibilities:</strong></u></p><p>Handle accounts payable (AP) and accounts receivable (AR), including invoicing and\npayment follow-ups.</p><p>Perform bank reconciliations and assist with month-end closing activities.</p><p>Maintain accurate accounting records, journal entries, and supporting documentation.</p><p>Assist with GST submissions, audit preparation, and compliance documentation.</p><p>Prepare basic financial schedules and reports for management or external accountants.</p><p>Maintain orderly filing of accounting documents (softcopy and hardcopy).</p><p>Carry out ad-hoc accounting and administrative duties as required.</p><p><u><strong>Requirements:</strong></u></p><p>Diploma in Accounting, Finance, Business, or equivalent experience.</p><p>Minimum 1 years of relevant accounting experience (flexible based on competency).</p><p>Practical knowledge of accounts payable, accounts receivable, and bookkeeping.</p><p>Familiarity with accounting software and Microsoft Excel.</p><p>Careful, reliable, and able to work independently with minimal supervision.</p><p>Good communication skills and positive work attitude.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Journal Entries",
+      "uuid": "65132de5d513a810e68aa75ed0a14cfa",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bookkeeping",
+      "uuid": "b4ce435600f0451db46463e960fc5e3b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008765",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 36,
+      "category": "Sciences / Laboratory / R&D"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "202318992R",
+    "description": "<p>HMING TECHNOLOGY (SINGAPORE) PTE. LTD.<br>\nfounded in 2023 and headquartered in Techplace, Singapore, is the Southeast Asian branch of Hming Technology (Jiangsu) Co., Ltd. (China). The Singapore entity focuses on the production, testing, final assembly, and regional distribution of gas and liquid chromatography columns and related consumables.<br>\n<br>\nThe company manufactures and distributes high-performance chromatographic products and acts as an authorized distributor for leading European brands such as SEPACHROM (Italy, HPLC columns), MEGA (Italy, GC columns), and DR.Masich (Germany, HPLC packings and accessories).<br>\n<br>\nWith strong R&amp;D and manufacturing support from its parent company in China, the Singapore branch serves as:<br>\n<br>\nProduct Testing &amp; Quality Control Center – Performing comprehensive testing for HPLC and GC columns to meet international standards.<br>\n<br>\nFinal Packaging &amp; Regional Distribution Hub – Handling labeling, export, and logistics for Southeast Asia and China.<br>\n<br>\nTechnical Support &amp; Customer Service Center – Providing fast technical response and custom solutions for research institutes, pharmaceutical companies, and testing labs.<br>\n<br>\nBrand and Market Development Unit – Managing the regional representation and promotion of European chromatography brands.<br>\n<br>\nGuided by the motto “Precision in Separation, Global Service,” HMING TECHNOLOGY (SINGAPORE) PTE. LTD. aims to become a key chromatography solutions provider in Southeast Asia, integrating European technology excellence with Chinese manufacturing efficiency.</p>",
+    "name": "HMING TECHNOLOGY (SINGAPORE) PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": 3,
+    "companyUrl": "www.hmingtech.com",
+    "lastSyncDate": "2026-02-04T06:31:45.000Z",
+    "ssicCode2020": "26511",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202318992R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202318992R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202318992R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202318992R/schemes"
+      }
+    },
+    "logoFileName": "a3cd79c1bd092f38691d52e5f51bb676/hming-technology.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a3cd79c1bd092f38691d52e5f51bb676/hming-technology.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5012",
+    "street": "ANG MO KIO AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": "TECHPLACE II",
+    "postalCode": "569876",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.3770382555731,
+    "lng": 103.865457576711
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167012",
+    "deletedAt": null,
+    "createdBy": "1db6b394-ac62-4890-b32a-8146b6074a08",
+    "createdAt": "2026-01-27T07:41:35.000Z",
+    "updatedAt": "2026-01-27T07:41:35.000Z",
+    "emailRecipient": "1db6b394-ac62-4890-b32a-8146b6074a08",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 290,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sciences/accounts-assistant-hming-technology-1ce687693889dfb140cbdd1648ee5a25",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1ce687693889dfb140cbdd1648ee5a25"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1ce687693889dfb140cbdd1648ee5a25/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

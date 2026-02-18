@@ -1,0 +1,253 @@
+{
+  "uuid": "54d0df3579128b49064c62a3162f0518",
+  "sourceCode": "Employer Portal",
+  "title": "HAIRSTYLIST",
+  "description": "<p>·        \nConsulting with clients on\nstylistic options for their hair.</p><p>·        \nListening to client needs to\ndetermine their preferences.</p><p>·        \nDescribing different hair care\nproducts and their benefits.</p><p>·        \nShampooing, cutting, coloring\nand highlighting hair.</p><p>·        \nOffering manicure, pedicure,\nwaxing and facial services.</p><p>·        \nPerforming scalp treatments.</p><p>·        \nActing as salespersons to sell\nclients hair care retail products.</p><p>·        \nBuilding a personal\nrelationship with clients to ensure return visits.</p><p>·        \nAdhering to salon safety and\ncleanliness standards.</p><p>·        \nManaging bookings and\nwelcoming clients into the store.</p><p>·        \nKeeping updated on hairstyle\ntrends and styling methods.</p><p><u><strong>Requirements</strong></u>:</p><p>·        \nPrevious experience as a Hair\nStylist or colorist.</p><p>·        \nA wide pallet of styling and\ncoloring techniques.</p><p>·        \nProficiency with hot irons,\ncurlers and blow-dryers.</p><p>·        \nExcellent interpersonal skills.</p><p>·        \nGood verbal communication.</p><p>·        \nPhysical stamina.</p><p>·        \nCreative mindset and a good\neye for design.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Cutting",
+      "uuid": "60f807b6543169da8a03e9cbfa47e768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coloring",
+      "uuid": "8fea9135f9300abbaa4ab2d566a09148",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tinting",
+      "uuid": "c137de3f1baf0cb3ed4446ff84eee642",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Blow Dry",
+      "uuid": "e1b586ce0a77e5369db06cc3247d58e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Management",
+      "uuid": "e607108917197d7b974d8ce3b7f5f708",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202137553K",
+    "description": null,
+    "name": "OCEANDA HR PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T11:37:59.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202137553K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202137553K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202137553K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202137553K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "202227564Z",
+    "description": null,
+    "name": "LA ROUGE BEAUTY@ROXY PTE. LTD.",
+    "ssicCode": "96029",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T06:09:44.000Z",
+    "ssicCode2020": "96029",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202227564Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202227564Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202227564Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202227564Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "50",
+    "street": "EAST COAST ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ROXY SQUARE",
+    "postalCode": "428769",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30335696401523,
+    "lng": 103.904685504029
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188322",
+    "deletedAt": null,
+    "createdBy": "cbdacd22-7408-46b3-936c-9d942026f9b2",
+    "createdAt": "2026-01-30T06:14:23.000Z",
+    "updatedAt": "2026-01-30T06:14:23.000Z",
+    "emailRecipient": "cbdacd22-7408-46b3-936c-9d942026f9b2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 13,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/hairstylist-la-rouge-beautyroxy-54d0df3579128b49064c62a3162f0518",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/54d0df3579128b49064c62a3162f0518"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/54d0df3579128b49064c62a3162f0518/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

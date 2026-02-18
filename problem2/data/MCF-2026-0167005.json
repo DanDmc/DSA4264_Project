@@ -1,0 +1,206 @@
+{
+  "uuid": "e6425c301f66b0d17486aacd6b33c38c",
+  "sourceCode": "Employer Portal",
+  "title": "LOOKING FOR PROJECT MANAGER",
+  "description": "<ul><li>Lead project implementation using appropriate project management methodologies, standards, and tools to drive and facilitate successful project delivery.</li><li>Lead requirements gathering with stakeholders.</li><li>Ensure the assigned project meets requirement targets, aligns with the organization's strategic objectives, and adheres to best practices.</li><li>Implement effective governance processes for project acceptance based on sound business cases.</li><li>Provide the project owner with the information needed to assess which proposals have the highest potential value, impact, and strategic alignment.</li><li>Oversee project KPIs, monitor performance against standards, and take timely corrective actions.</li><li>Review project schedules, quality, and cost deliverables.</li><li>Regularly monitor and report project performance and progress to all stakeholders.</li><li>Coordinate documentation and administration for the assigned project.</li><li>Proactively handle administrative tasks independently (e.g., follow-ups from meetings, scheduling, taking minutes, compiling requirements, etc.).</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Requirements Gathering",
+      "uuid": "1723b433914d54481e91978db672d057",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Writing",
+      "uuid": "3d23b24e74221ce468478a100370b239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physics",
+      "uuid": "50ae99e9c35446c2580e4b540b0fd104",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Spreadsheets",
+      "uuid": "b8f91a58bd97d3f35c54f6e3bb009ee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "People Management",
+      "uuid": "f348ff6bfac32a0d81f92e84fbf3691f",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24213",
+  "occupationId": "OCC000473",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "1121",
+  "postedCompany": {
+    "uen": "202540361K",
+    "description": null,
+    "name": "MGR ENGINEERING & CONSTRUCTION PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T07:35:08.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202540361K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202540361K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202540361K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202540361K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "JURONG WEST AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "649485",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34970414499779,
+    "lng": 103.703072680741
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167005",
+    "deletedAt": null,
+    "createdBy": "9b7ea15d-a1e2-441b-b6a1-89e21d2bd11c",
+    "createdAt": "2026-01-27T07:40:35.000Z",
+    "updatedAt": "2026-01-27T07:51:17.000Z",
+    "emailRecipient": "9b7ea15d-a1e2-441b-b6a1-89e21d2bd11c",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 69,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 13,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/looking-project-manager-mgr-engineering-construction-e6425c301f66b0d17486aacd6b33c38c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e6425c301f66b0d17486aacd6b33c38c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e6425c301f66b0d17486aacd6b33c38c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

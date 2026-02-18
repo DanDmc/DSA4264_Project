@@ -1,0 +1,211 @@
+{
+  "uuid": "59762277865a94a1cfcb46c472c0e817",
+  "sourceCode": "Employer Portal",
+  "title": "Data Analyst (SQL_Python_DataManagement_Finance)",
+  "description": "<p>Maltem Asia is seeking a <strong>Data Analyst </strong>for a Wealth Management Client based in Singapore.<br /></p><p><strong>Summary:</strong></p><ul><li>Supporting data management operations activities for Data Cloud project and initiatives.</li></ul><p><br /><strong>Must have Skillsets:</strong></p><ul><li>Possess a degree in Computer Science/Information Technology or related fields.</li><li>3 to 7 years of working experience in Data Management, especially in financial industry.</li><li>Ability to manage data reconciliation/quality checks (implementation, monitoring, and troubleshooting).</li><li>Strong hands-on experience in data analysis.</li><li><strong>Proficiency in SQL and Python.</strong></li><li>Experience in managing SLA and queries from end users.</li><li>Experience in providing documentation support, e.g. in technical/functional specifications.</li><li>Strong problem solving and communication skills with stakeholders.</li><li>Detail-oriented with a focus on quality and accuracy.</li><li>Ability to manage multiple tasks and priorities in a fast-paced environment.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Wealth Management",
+      "uuid": "0350adf5a520e4a3c2d820a482451857",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "data quality checks",
+      "uuid": "08d81cdf263cd40bd3dccfb7474ab7cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python scripting",
+      "uuid": "2b06f1f472c98da06ccd64aabfe92124",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Management",
+      "uuid": "568483e9bd85504f3c9dcef24ecd3235",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Finance Industry",
+      "uuid": "bb02b04c652d955ee84ce2af916b6952",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "data reconciliation",
+      "uuid": "f445505bcb61fe24e8df4bce40a133c5",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013821",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200708930D",
+    "description": "<p>Maltem is a community of 1200 passionate individuals dedicated to Innovation, new Technologies and Digital Transformation projects.<br>\n<br>\nFounded in 2001 and located in 10 different countries, our footprint covers :&nbsp;</p>\n<p>France</p>\n<p>Singapore</p>\n<p>Hong Kong</p>\n<p>Philippines</p>\n<p>Luxembourg</p>\n<p>Belgium</p>\n<p>Madagascar</p>\n<p>New-York</p>\n<p>Montréal</p>\n<p>Morocco</p>\n<p><br>\nOur expertise consists of 16 years market knowledge into Business Organization, Digital Practices, Data Science, Data Engineering, Data Management &amp; Innovation.</p>",
+    "name": "MALTEM ASIA PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:26:48.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200708930D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200708930D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200708930D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200708930D/schemes"
+      }
+    },
+    "logoFileName": "39c85f564752c5ebc6bc9893be396541/maltem-asia.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/39c85f564752c5ebc6bc9893be396541/maltem-asia.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "9",
+    "street": "RAFFLES PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "REPUBLIC PLAZA",
+    "postalCode": "048619",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28319353228376,
+    "lng": 103.850836660214
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165773",
+    "deletedAt": null,
+    "createdBy": "7c5acbc7-d762-42c5-b04e-b79f18221177",
+    "createdAt": "2026-01-27T05:25:49.000Z",
+    "updatedAt": "2026-01-27T05:25:50.000Z",
+    "emailRecipient": "7c5acbc7-d762-42c5-b04e-b79f18221177",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 223,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 47,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/data-analyst-maltem-asia-59762277865a94a1cfcb46c472c0e817",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/59762277865a94a1cfcb46c472c0e817"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/59762277865a94a1cfcb46c472c0e817/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

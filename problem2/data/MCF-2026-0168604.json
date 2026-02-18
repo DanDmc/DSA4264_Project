@@ -1,0 +1,238 @@
+{
+  "uuid": "9493d6bbb36184437b64c852002b070f",
+  "sourceCode": "Employer Portal",
+  "title": "Scrum Master",
+  "description": "<p><strong>Key Responsibilities</strong><br />We seek an experienced Agile Scrum Master. He/She will work closely with the product and business team to ensure that the work progresses on schedule, within budget, and to the desired level of quality.</p><ul><li>Facilitate Scrum ceremonies such as daily stand-up meetings, sprint planning, sprint review, and sprint retrospective.</li><li>Ensure that the team follows the Scrum framework and adheres to Agile principles.</li><li>Identify and troubleshoot obstacles that are hindering the team’s progress.</li><li>Promote continuous improvement through retrospectives and feedback sessions.</li><li>Communicate project status, risks and issues to stakeholders.</li><li>Track KPIs and help teams deliver high-quality products/solutions on time.</li><li>Coordination with business and other key stakeholders.</li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor’s degree in Computer Science or a related field.</li><li>Minimum of 3-5 years of experience as a Scrum Master.</li><li>Strong knowledge of Agile Scrum principles and practices.</li><li>Excellent communication and interpersonal skills.</li><li>Strong problem-solving and analytical skills.</li><li>Ability to lead and facilitate Scrum ceremonies.</li><li>Knowledge of an agile framework or method (i.e. Scrum, Kanban), or understanding of software development life cycle models as well as in-depth knowledge of traditional project management principles and practices</li><li>Adept at refinement, story splitting, estimation, velocity, retrospection, and other Scrum techniques</li><li>Planning and problem solving with product management and delivery teams.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kanban",
+      "uuid": "39b32dd45982038aa5704ca2728334ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scrum",
+      "uuid": "4db2c0d8fe4b4e96ecea3d51b4ffabfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Stories",
+      "uuid": "51aa0c6910aab34db07b8af04e8609b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transparency",
+      "uuid": "6f7956741d5d673ff0c8eacc8d8c961c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Conflict Resolution",
+      "uuid": "72507f4fca0021acce5d4a3527ddd9c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Management",
+      "uuid": "948590535142d16883c105bb52330fb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Scrum",
+      "uuid": "be920448a70da302cac814cb02aff9c1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Facilitation",
+      "uuid": "e141d61309d06eb02ea67f44dd876d32",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13302",
+  "occupationId": "OCC001960",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201715683K",
+    "description": "<p><strong>QUESS SELECTION &amp; SERVICES PTE. LTD (EA Licence Number: 23C2060)</strong></p>\n<p><br></p>\n<p><strong>Employment Agency (excluding maid agency), General (Non IT) staffing</strong></p>",
+    "name": "QUESS SELECTION & SERVICES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:28:41.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201715683K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201715683K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201715683K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201715683K/schemes"
+      }
+    },
+    "logoFileName": "3b67149cc26a409b6acf408e00dec92a/quess-selection-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3b67149cc26a409b6acf408e00dec92a/quess-selection-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "THE HOUSE OF EDEN",
+    "postalCode": "048543",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28237023753564,
+    "lng": 103.85095577838
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168604",
+    "deletedAt": null,
+    "createdBy": "94441a6a-e361-4605-9f04-785d6249df2c",
+    "createdAt": "2026-01-27T09:59:26.000Z",
+    "updatedAt": "2026-01-27T09:59:26.000Z",
+    "emailRecipient": "94441a6a-e361-4605-9f04-785d6249df2c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 89,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/scrum-master-quess-selection-services-9493d6bbb36184437b64c852002b070f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9493d6bbb36184437b64c852002b070f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9493d6bbb36184437b64c852002b070f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

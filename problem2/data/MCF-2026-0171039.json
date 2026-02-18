@@ -1,0 +1,214 @@
+{
+  "uuid": "4a4e353a7139cca3f4c6c0d9b9b896ca",
+  "sourceCode": "Employer Portal",
+  "title": "Assistant Childcare Teacher",
+  "description": "<p><strong>Job Summary</strong></p><p>Assist the lead teacher in delivering lessons, provide attentive care and guidance to young children, and support the organisation of school activities to create a positive learning environment.</p><p><strong>Responsibilities</strong></p><ul><li>Support the lead teacher in preparing and delivering lesson activities to engage young children effectively</li><li>Provide attentive care and guidance to young children to support their development and well-being</li><li>Assist in planning and organising school activities to enhance the educational experience</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Hold a Fundamentals or Advance Certificate in Early Childhood Care and Education</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Demonstrate passion for nurturing and educating young children</li><li>Exhibit a positive attitude and collaborate effectively as a team player</li><li>Show commitment to building a long-term career in early childhood education</li><li>Preferably have work experience in a related field</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Childcare",
+      "uuid": "08370cd014507701d18597aa6e29050d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "assisting team members",
+      "uuid": "17c323c3af46604e99339b8a866eae38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Independently",
+      "uuid": "3d059b652e8d92de5b85660d5efba49a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Early Childhood Education",
+      "uuid": "4f83113f23fc971a12cbff816661f7cb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "passionate",
+      "uuid": "61e415f686ac4441d253997a3baf8d5a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "facilitating",
+      "uuid": "b75989f5749c624a862fae439e46d4c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "positive attitude",
+      "uuid": "e7070a53129dfc86358c4787cbadf9b0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "36100",
+  "occupationId": "OCC006865",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "46",
+  "ssecFos": "0112",
+  "postedCompany": {
+    "uen": "201416867D",
+    "description": null,
+    "name": "POSSO PRESCHOOL @ TAMPINES POINT PTE. LTD.",
+    "ssicCode": "64202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:33:16.000Z",
+    "ssicCode2020": "64202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201416867D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201416867D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201416867D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201416867D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "TAMPINES CENTRAL 6",
+    "floor": null,
+    "unit": null,
+    "building": "INCOME AT TAMPINES POINT",
+    "postalCode": "529483",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 18,
+        "location": "D18 Tampines, Pasir Ris",
+        "region": "East",
+        "sectors": [
+          "51",
+          "52"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.35277426668877,
+    "lng": 103.942491700943
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171039",
+    "deletedAt": null,
+    "createdBy": "be0e7c87-7f2b-4035-b25f-f560b5810366",
+    "createdAt": "2026-01-28T01:21:14.000Z",
+    "updatedAt": "2026-01-28T01:21:13.000Z",
+    "emailRecipient": "be0e7c87-7f2b-4035-b25f-f560b5810366",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 93,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/assistant-childcare-teacher-posso-preschool-tampines-point-4a4e353a7139cca3f4c6c0d9b9b896ca",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a4e353a7139cca3f4c6c0d9b9b896ca"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a4e353a7139cca3f4c6c0d9b9b896ca/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

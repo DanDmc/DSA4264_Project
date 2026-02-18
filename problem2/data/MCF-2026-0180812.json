@@ -1,0 +1,220 @@
+{
+  "uuid": "09ac1971e873c4fd0999efc8f845a332",
+  "sourceCode": "Employer Portal",
+  "title": "Part time Human Resource Officer",
+  "description": "<p>Job Description:</p>\n<p><br></p>\n<p>Provide recruitment support for all levels of staff including:</p>\n<ul>\n  <li>Job advertisement posting;</li>\n  <li>Screening resumes to determine which candidates meet the minimum requirements;</li>\n  <li>Conducting interviews to narrow the number of potential candidates who will be interviewed by the hiring Director;</li>\n  <li>Conducting reference checks by verifying employment information and contacting the professional and personal contacts provided by the candidate;</li>\n  <li>Schedule interviews for hiring Director via online or face to face.</li>\n</ul>\n<p>Requirements:</p>\n<ul>\n  <li>Preferably Entry Level specialized in Human Resources or equivalent;</li>\n  <li>Excellent communication skills;</li>\n  <li>Training will be provided for candidates with minimum experience.</li>\n</ul>\n<p>First round of interview will be held via zoom.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening Resumes",
+      "uuid": "407b979547c4e162442faa9b9f8af0f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Employee Engagement",
+      "uuid": "83bcc1cf7f0bf55fc46290aeaf71ba27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HR Policies",
+      "uuid": "a769b9ac5a11ed3a1a30d64b03bf99da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HRIS",
+      "uuid": "be2482121734b2bf4e33367076781447",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24233",
+  "occupationId": "OCC007577",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 20,
+      "category": "Human Resources"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202208935K",
+    "description": "<p>Vantager Solutions Pte Ltd</p>\n<p>is an outbound telemarketing service company that specialize in B2B sales call and appointments scheduling.</p>\n<p><br></p>\n<p>Since our founding, we’ve worked with numerous clients throughout the area. Great service begins and ends with experienced and friendly professionals, which is why we put so much consideration into selecting only the best to join our team.</p>",
+    "name": "VANTAGER SOLUTIONS PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": 10,
+    "companyUrl": "https://www.vantager.com.sg",
+    "lastSyncDate": "2026-02-04T03:21:44.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202208935K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202208935K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202208935K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202208935K/schemes"
+      }
+    },
+    "logoFileName": "f8abbcacad2e8be728f49569f2fd95d9/vantager-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f8abbcacad2e8be728f49569f2fd95d9/vantager-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "HARVEY ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "LEBOND",
+    "postalCode": "369613",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33311815797768,
+    "lng": 103.884341953853
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180812",
+    "deletedAt": null,
+    "createdBy": "47608286-9286-4807-b176-b14e1695448b",
+    "createdAt": "2026-01-29T05:11:19.000Z",
+    "updatedAt": "2026-01-29T05:11:18.000Z",
+    "emailRecipient": "47608286-9286-4807-b176-b14e1695448b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 262,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 39,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/part-time-human-resource-officer-vantager-solutions-09ac1971e873c4fd0999efc8f845a332",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09ac1971e873c4fd0999efc8f845a332"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09ac1971e873c4fd0999efc8f845a332/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

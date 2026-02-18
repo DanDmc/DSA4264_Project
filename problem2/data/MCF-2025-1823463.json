@@ -1,0 +1,203 @@
+{
+  "uuid": "dca78d032668059b22b0bbe8e711a4f4",
+  "sourceCode": "Employer Portal",
+  "title": "CHEF DE PARTIE (RESTAURANT)",
+  "description": "<p>· Require wok experience.</p>\n<p>· Prepare and cook menu items according to established recipes and quality standards.</p>\n<p>· Ensure safe handling, storage, and cooking of all food products.</p>\n<p>· Monitor food quality and presentation to meet customer expectations.</p>\n<p>· Coordinate with kitchen staff to manage orders efficiently during busy periods.</p>\n<p>· Inventory management, ordering supplies, and maintaining equipment.</p>\n<p>· Assist in training new employees on kitchen operations, safety protocols, and food preparation techniques.</p>\n<p>· Assist in developing and updating menu offerings based on seasonal availability and customer preferences.</p>\n<p>· Maintain high standards of quality and freshness for all ingredients, conducting regular inspections and quality checks.</p>\n<p>· Maintain proper rotation of product in all chillers to minimize wastage/spoilage.</p>\n<p>· Ensure the cleanliness and maintenance of all work areas, utensils, and equipment.</p>\n<p>· Follow kitchen policies, procedures, and service standards.</p>\n<p>· Follow all safety and sanitation policies when handling food and beverage.</p>\n<p>· Full awareness of all menu items, their recipes, methods of production, and presentation standards.</p>\n<p>· Having a can-do attitude and be committal.</p>\n<p>· Any other ad-hoc duties assigned, including inventory and costing of items.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kitchen",
+      "uuid": "33fa00a66f2edf0d1c5697a9f8693ba8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Restaurants",
+      "uuid": "386c1f850fbd5f478fb4ef8a134c1740",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC059909",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200819369K",
+    "description": "<p>KPO is a renowned local watering hole, located in a refurbished post office building located in the junction of Killiney, Penang and Orchard Road. &nbsp;Relax and enjoy the view of lush greenery in the day, or a warm and cosy ambience at night. Happy hour promotions run daily, for the whole day until 8PM.</p>",
+    "name": "KPO CAFE BAR PTE. LTD.",
+    "ssicCode": "56122",
+    "employeeCount": 40,
+    "companyUrl": "https://kpo.com.sg/",
+    "lastSyncDate": "2026-02-03T01:02:22.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200819369K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200819369K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200819369K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200819369K/schemes"
+      }
+    },
+    "logoFileName": "6ff0bc157b307a0fe052a8c1fd9f43ef/kpo-cafe-bar.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6ff0bc157b307a0fe052a8c1fd9f43ef/kpo-cafe-bar.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "KILLINEY ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "KILLINEY ROAD POST OFFICE",
+    "postalCode": "239518",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30013981944709,
+    "lng": 103.840687954187
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1823463",
+    "deletedAt": "2025-12-27T17:15:04.000Z",
+    "createdBy": "bee9fb58-8478-4cbc-9589-5459136aff63",
+    "createdAt": "2025-11-27T08:25:30.000Z",
+    "updatedAt": "2026-01-27T03:58:39.000Z",
+    "emailRecipient": "bee9fb58-8478-4cbc-9589-5459136aff63",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 133,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-11-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-de-partie-kpo-cafe-bar-dca78d032668059b22b0bbe8e711a4f4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3400,
+    "minimum": 2400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dca78d032668059b22b0bbe8e711a4f4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dca78d032668059b22b0bbe8e711a4f4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

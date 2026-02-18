@@ -1,0 +1,216 @@
+{
+  "uuid": "6d85a71ae309a5d5042a18d0e085ddf4",
+  "sourceCode": "Employer Portal",
+  "title": "Therapists Wanted for Yishun Spa",
+  "description": "<p>Hello there! </p>\n<p><br></p>\n<p>We are looking for spa massage therapists to be based in Yishun.</p>\n<ul>\n  <li>Welcome Singaporeans, Singapore PRs and all pass holders.</li>\n  <li>Salary: Base salary with high commission rates.</li>\n  <li>Experience: No experience is needed as training will be provided. Relevant experience and massage certification could be an advantage.</li>\n</ul>\n<p>Our spa is a reputable establishment located in Yishun and we would like to meet you soon. Join us!</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Relationship",
+      "uuid": "0e0a7ac419a1d68d0ad2951c6a144aac",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Qualified massage therapist",
+      "uuid": "1e1d644934b59d52cd7f23dad1b11e8a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reflexology",
+      "uuid": "6951388b66b4900565a162dd53857a66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Relaxation",
+      "uuid": "832b64944eab4d40bd15c304d8d52efa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shoulder",
+      "uuid": "83cb4c144b3d6ee1a847bee51a44b933",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Deep Tissue Massage",
+      "uuid": "bf7528ab1c8c08ac7895b8c8f6490edd",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Target Oriented",
+      "uuid": "c2a200a2c7065079e6d083fef01113a8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Circulation",
+      "uuid": "f45381a54504218e39aca33492d29306",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "32551",
+  "occupationId": "OCC013639",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "82",
+  "ssecFos": "0860",
+  "postedCompany": {
+    "uen": "53445465L",
+    "description": null,
+    "name": "RUBINO TRADITIONAL MASSAGE",
+    "ssicCode": "96024",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T13:21:34.000Z",
+    "ssicCode2020": "96024",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53445465L"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53445465L/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53445465L/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53445465L/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "156",
+    "street": "YISHUN STREET 11",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "760156",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43188761932592,
+    "lng": 103.833567756794
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177647",
+    "deletedAt": null,
+    "createdBy": "d74c3455-72ef-4b51-8028-95b8f912b364",
+    "createdAt": "2026-01-28T13:27:12.000Z",
+    "updatedAt": "2026-01-28T13:27:11.000Z",
+    "emailRecipient": "d74c3455-72ef-4b51-8028-95b8f912b364",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 43,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/therapists-wanted-yishun-spa-rubino-traditional-massage-6d85a71ae309a5d5042a18d0e085ddf4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6d85a71ae309a5d5042a18d0e085ddf4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6d85a71ae309a5d5042a18d0e085ddf4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

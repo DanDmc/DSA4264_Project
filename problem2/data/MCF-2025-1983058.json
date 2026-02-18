@@ -1,0 +1,220 @@
+{
+  "uuid": "de00ff4fa1d310b35c8b4e54e8ccf935",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer",
+  "description": "<p>A technology is only as good as people's ability to use it. As a Senior Software Engineer at Padlet, you can own the full stack (hence the name) of taking our amazing technology at the back end, and making it usable on the front end.</p>\n<p><br></p>\n<p>As a Software Engineer at Padlet, you will work on both the frontend and backend components of our product.</p>\n<h3>ABOUT PADLET</h3>\n<p>We are building more beautiful and fun alternatives to traditional documents. They're less of a pain-in-the-ass to create, and a lot less waterboard-y to view. Think Microsoft Office, but not as soul crushing.</p>\n<p>Over ten million people use Padlet, making it one of the largest sites in the world. The company is profitable and well-funded. Our office is on Boat Quay, overlooking the Singapore River which wends past our city's financial district. We've gotten this far with just twenty six people. Some special people work at this company.</p>\n<h3>TECH STACK</h3>\n<p>Rails, Node, VueJS, and code copy-pasted from Stack Overflow.</p>\n<h3>IT'S A GOOD TIME TO JOIN</h3>\n<p>Because we're small, there's a lot of energy. And because we have tremendous traction, your first commit touches millions. This combination is rare and quite satisfying.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CSS",
+      "uuid": "2c56c360580420d293172f42d85dfbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML",
+      "uuid": "4c4ad5fca2e7a3f74dbb1ced00381aa4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scrum",
+      "uuid": "4db2c0d8fe4b4e96ecea3d51b4ffabfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MySQL",
+      "uuid": "62a004b95946bb97541afa471dcca73a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Angular",
+      "uuid": "c31c335ef37283c451b18ba0dd317de1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201716395W",
+    "description": "<p>Padlet Pte. Ltd. builds and maintains Padlet (https://padlet.com), a tool that allows anyone to collaboratively create content on any platform, mobile or the web. We want to be the easiest way for anyone to do so.</p>\n<p><br></p>\n<p>The app is used by millions daily across the world. Our primary audience is students and educators from schools and tertiary institutions.</p>\n<p><br></p>\n<p>Our team is comprised of forty five beautiful people who work out of Singapore, Australia, and the USA (where we are headquartered).&nbsp;</p>\n<p><br></p>\n<p>Read about who we are at https://padlet.com/about/us.&nbsp;</p>\n<p><br></p>\n<p>Those of us based in Singapore will be focused primarily on building and maintaining features for the software.</p>\n<p><br></p>\n<p>Write us at hello@padlet.com if you have any questions. We'd love to hear from you.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "name": "PADLET PTE. LTD.",
+    "ssicCode": "58202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T07:37:56.000Z",
+    "ssicCode2020": "58202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716395W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716395W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716395W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716395W/schemes"
+      }
+    },
+    "logoFileName": "d115cd280322210b180cb28dff7b6305/padlet.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/d115cd280322210b180cb28dff7b6305/padlet.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "46",
+    "street": "BUKIT PASOH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "089858",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27979189062003,
+    "lng": 103.840490065562
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1983058",
+    "deletedAt": "2026-01-26T17:15:05.000Z",
+    "createdBy": "be4aae2d-706d-4f36-86b3-882393c65d04",
+    "createdAt": "2025-12-26T21:19:16.000Z",
+    "updatedAt": "2026-01-29T07:38:07.000Z",
+    "emailRecipient": "be4aae2d-706d-4f36-86b3-882393c65d04",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 1395,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-27",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 185,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-padlet-de00ff4fa1d310b35c8b4e54e8ccf935",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/de00ff4fa1d310b35c8b4e54e8ccf935"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/de00ff4fa1d310b35c8b4e54e8ccf935/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

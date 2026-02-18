@@ -1,0 +1,240 @@
+{
+  "uuid": "b8c7742241baa255858be3d608361879",
+  "sourceCode": "Employer Portal",
+  "title": "Technician",
+  "description": "<p><strong>KEY REPONSIBILITIES</strong></p><p><strong>General Repair & Preventive Upkeep</strong></p><ul><li>Carry out preventive, corrective, and breakdown maintenance for building services (electrical, mechanical, HVAC, plumbing, fire protection, etc.).</li><li>Perform routine inspections, testing, and servicing of equipment and</li><li>Attend to faults, alarms, and emergency calls promptly and safely.</li><li>Assist in installation, replacement, and minor modification works for equipment and systems.</li><li>Ensure all works comply with SOPs, safety rules, and statutory regulations. Fix door hinges, locks, handles, drawers, window rollers, ceiling tiles, and furniture items.</li><li>Assist with minor electrical tasks (non-LEW scope) such as replacing light tubes/bulbs, switches, and power points (under supervision and dead circuit).</li><li>Carry out routine site checks to identify defects early.</li><li>Perform touch-up works, tightening, lubrication, alignment, and cleaning of fittings.</li><li>Support preventive maintenance tasks assigned by technicians or supervisors.</li></ul><p><strong>Technical Support and Reporting</strong></p><ul><li>Record maintenance works in checklists, logbooks, and CMMS where applicable.</li><li>Update checklists, inspection reports and work completion records</li><li>Support supervisors or engineers in preparing maintenance reports and documentation.</li></ul><p><strong>Safety and Compliance</strong></p><ul><li>Follow safe work practices and adhere to client/OCS site protocols.</li><li>Assist in putting up barricades, signage, and ensuring work areas are safe.</li><li>Report any hazards, unsafe conditions, or near misses immediately.</li></ul><p><strong>Teamwork and Service Quality</strong></p><ul><li>Work collaboratively with internal teams, clients, and contractors to achieve operational excellence.</li><li>Maintain professionalism and uphold the company’s service quality standards at all times.</li><li>Respond to tenant or occupant requests in a polite, timely, and professional manner.</li><li>Update job sheets, service requests, and close work orders through the CMMS/mobile app.</li><li>Provide feedback on recurring issues and propose simple improvements.</li></ul><p><strong>QUALIFICATIONS & EXPERIENCE</strong></p><ul><li>NITEC / Higher NITEC / relevant technical certificates preferred</li><li>At least 1-2 years of experience in general building maintenance or handyman work.</li><li>Basic knowledge of carpentry, plumbing, and simple electrical repairs.</li><li>Ability to use basic tools (drill, grinder, hand tools, measuring tape).</li><li>Physically fit, hands-on, and able to work independently.</li><li>Any Engineering certifications or CFME certifications (advantageous)</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Locks",
+      "uuid": "423ee57eda3c2860ca1042739e739a7d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fire Protection",
+      "uuid": "456c4fded27e16f87a1966747104848a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tenant",
+      "uuid": "6252d0571760e3d285e2e41a2b1e7743",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HVAC",
+      "uuid": "6ace317b96ae4d73c074b5e1d6694b86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Services",
+      "uuid": "6f943869ecd85edee9c33427089dbb08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199704294C",
+    "description": null,
+    "name": "OCS GROUP (S) FACILITY SERVICES PTE. LTD.",
+    "ssicCode": "81211",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T08:17:24.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704294C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704294C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704294C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704294C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "750",
+    "street": "CHAI CHEE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ESR BIZPARK @ CHAI CHEE",
+    "postalCode": "469000",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32366436905748,
+    "lng": 103.922110863205
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175793",
+    "deletedAt": null,
+    "createdBy": "812d5e5e-f467-42b2-81e7-3950a7de77d7",
+    "createdAt": "2026-01-28T08:40:59.000Z",
+    "updatedAt": "2026-01-28T08:40:59.000Z",
+    "emailRecipient": "812d5e5e-f467-42b2-81e7-3950a7de77d7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 76,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/technician-ocs-group-facility-services-b8c7742241baa255858be3d608361879",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b8c7742241baa255858be3d608361879"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b8c7742241baa255858be3d608361879/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

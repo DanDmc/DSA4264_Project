@@ -1,0 +1,256 @@
+{
+  "uuid": "ff191d595423a361f2a87d74f1829f55",
+  "sourceCode": "Employer Portal",
+  "title": "Java Developer (Fixed Income)",
+  "description": "<p>We are seeking a skilled software engineer to join a global team focused on building and supporting cutting-edge <strong>Fixed Income Electronic Trading</strong> systems. This role is based in Singapore and plays a key part in delivering low-latency, high-performance solutions used by front-office trading desks across global markets.<br /><br />The team develops core components of the e-trading platform, supporting pricing, execution, algorithmic trading, and real-time risk for Fixed Income products.<br /><br /><br /><strong>Key Responsibilities:</strong></p><ul><li>Design, develop, and maintain core <strong>Java-based</strong> applications for Fixed Income electronic trading.</li><li>Build scalable and low-latency systems for:</li><li>Pricing and quoting engines</li><li>Dealer-to-dealer and dealer-to-client trade execution</li><li>Algorithmic and automated trading capabilities</li><li>Risk management and Straight Through Processing (STP)</li><li>Data pipelines, real-time analytics, and storage</li><li>Collaborate closely with traders, sales, and quantitative teams to deliver pre-trade and trading functionality.</li><li>Work with DevOps tools and modern deployment pipelines to ensure high availability and rapid delivery.</li><li>Operate effectively within a global, distributed team across time zones.</li></ul><p><strong>Required Skills & Experience:</strong></p><ul><li>5 years of experience developing front-office trading or pricing systems</li><li>Strong hands-on experience with <strong>Core Java (JDK 8/17+)</strong></li><li>Deep understanding of <strong>Fixed Income</strong> markets and trading workflows</li><li>Proven ability to work directly with traders and quants on technology solutions</li><li>Experience building event-driven, high-performance applications</li><li>Familiarity with messaging and middleware technologies (e.g., Solace, Tibco RV/FTL, Aeron, Redis, Hazelcast)</li><li>Solid grasp of DevOps tools such as Git, Bitbucket, Jenkins, Maven, Gradle, TeamCity, JIRA</li><li>Strong communication skills, both technical and business-facing</li><li>Comfortable working on multiple initiatives in a fast-paced, global environment</li><li>Experience with <strong>low-latency</strong> system design and tuning (e.g., GC minimization, zero-GC techniques)</li><li>Exposure to KDB+/Q or other time-series databases</li></ul><p>For a confidential discussion, please reach out to me at fiona.wong@sanderson-ikas.sg</p><p>Personal data collected will be used for recruitment purposes only.</p><p>Only shortlisted candidates will be notified / contacted.</p><p>EA Registration No: R21101138<br />\"Sanderson-iKas\" is the brand name for iKas International (Asia) Pte Ltd, a company incorporated in Singapore under Company UEN No.: 200914065E with EA license number 16S8086.<br />Website: www.sanderson-ikas.sg</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Electronic Trading",
+      "uuid": "0206416769b043e9c448dfade99b8813",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automated Trading",
+      "uuid": "32f390471d171acf29df7ae1401c84db",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Algorithmic Trading",
+      "uuid": "37fe42e6146cdcb7dddbd87a2dfd747e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TIBCO",
+      "uuid": "3e9562d3cc919b71754198353a543fd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Markets",
+      "uuid": "7f755a9ca0800ea8c432a2159c8dcaa7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trading Systems",
+      "uuid": "818574c117f109c87e4363e5e7406dea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tuning",
+      "uuid": "89dd2948ecda7325c0001d8a0e51a2d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Maven",
+      "uuid": "9115c10980645c41313f244ac1a377f7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Core Java",
+      "uuid": "97e80a3066e85a0f2eb75a021d4869d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Low Latency",
+      "uuid": "a24fb8e62d4d572532bcf307af2009ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fixed Income Trading",
+      "uuid": "c5d471879f9d280d9cf6619b095c4aa7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fixed Income",
+      "uuid": "d46778ed2efa2209057c8fca369b03cf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200914065E",
+    "description": "<p>IKAS INTERNATIONAL (ASIA) PTE. LTD.</p>\n\n<p>iKas International was founded in 2004 in London to deliver specialist recruitment solutions into the financial services industry . Through best in class service and in-depth market knowledge, iKas has grown to be considered supplier of choice to a number of leading Financial Institutions globally.</p>\n\n<p>In 2008, iKas International launched in Asia and now have offices in Hong Kong, Singapore and Sydney and are considered one of Asia's leading banking and finance specialist recruitment agencies.</p>\n",
+    "name": "IKAS INTERNATIONAL (ASIA) PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "https://www.sanderson-ikas.sg/",
+    "lastSyncDate": "2026-02-04T01:45:12.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200914065E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200914065E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200914065E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200914065E/schemes"
+      }
+    },
+    "logoFileName": "c4f382cbd9f78d9e7ad9820ef96bd5d2/ikas-international.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/c4f382cbd9f78d9e7ad9820ef96bd5d2/ikas-international.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "SHENTON WAY",
+    "floor": null,
+    "unit": null,
+    "building": "UIC BUILDING",
+    "postalCode": "068808",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27771707144445,
+    "lng": 103.849565185829
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165547",
+    "deletedAt": null,
+    "createdBy": "e74de415-84f6-4c75-8327-9d092122f031",
+    "createdAt": "2026-01-27T04:57:04.000Z",
+    "updatedAt": "2026-01-27T04:57:04.000Z",
+    "emailRecipient": "e74de415-84f6-4c75-8327-9d092122f031",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 293,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/java-developer-ikas-international-ff191d595423a361f2a87d74f1829f55",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 12000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff191d595423a361f2a87d74f1829f55"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff191d595423a361f2a87d74f1829f55/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

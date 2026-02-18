@@ -1,0 +1,260 @@
+{
+  "uuid": "b469f566a8b6db2d524dd24257178912",
+  "sourceCode": "Employer Portal",
+  "title": "Systems Engineer (Dev Ops)",
+  "description": "<p><strong>Key Responsibilities</strong></p>\n<p><strong>1. Incident Management &amp; Troubleshooting</strong></p>\n<ul>\n  <li>Provide onsite technical support for all hardware, system, and application issues under maintenance scope.</li>\n  <li>Assist in incident verification, isolation, and resolution or provision of approved workarounds.</li>\n  <li>Troubleshoot and resolve Level 1 and Level 2 technical issues.</li>\n  <li>Escalate complex or unresolved incidents to Maintenance Team Leader and inform Maintenance Manager accordingly.</li>\n  <li>Respond promptly to service disruptions, system alarms, or performance anomalies.</li>\n</ul>\n<p><strong>2. Preventive &amp; Corrective Maintenance</strong></p>\n<ul>\n  <li>Perform daily system health checks and review logs to identify early signs of issues.</li>\n  <li>Execute preventive maintenance activities and carry out corrective actions when required.</li>\n  <li>Perform and verify scheduled backups: daily incremental, hot backups, and weekly full backups.</li>\n  <li>Execute system recovery procedures during service restoration.</li>\n</ul>\n<p><strong>3. System Administration</strong></p>\n<ul>\n  <li>Add, remove, or update user account information in coordination with system owners.</li>\n  <li>Reset passwords and manage access controls securely.</li>\n  <li>Monitor system performance and tune systems or databases based on advisory or logs.</li>\n</ul>\n<p><strong>4. Patch Management &amp; Upgrades</strong></p>\n<ul>\n  <li>Test and deploy OS patches, firmware upgrades, and software updates.</li>\n  <li>Perform staging and implementation of hardware upgrades and COTS software patches.</li>\n  <li>Ensure all changes adhere to change control and system hardening policies.</li>\n</ul>\n<p><strong>5. Hardware &amp; Infrastructure Maintenance</strong></p>\n<ul>\n  <li>Support, troubleshoot, and maintain hardware devices including:\n    <ul>\n      <li><strong>Servers</strong> (e.g., Dell PowerEdge R750)</li>\n      <li><strong>Firewalls</strong> (e.g., FortiGate 1101E)</li>\n      <li><strong>Storage Devices</strong> (e.g., Dell EMC XT380/XT480)</li>\n      <li><strong>Switches</strong> (e.g., Cisco C9300)</li>\n      <li><strong>UPS &amp; Power Management</strong> (e.g., APC Smart UPS, Rack PDU)</li>\n      <li><strong>KVM consoles</strong>, HSMs, NTP servers, and mobile computing devices.</li>\n    </ul>\n  </li>\n</ul>\n<p><strong>6. Software Platform Support</strong></p>\n<ul>\n  <li>Manage and monitor platforms and applications such as:\n    <ul>\n      <li><strong>ArcGIS Server</strong>, <strong>IBM ACE + MQ</strong>, <strong>Kafka</strong>, <strong>MongoDB</strong>, <strong>MS SQL</strong>, <strong>WebSphere</strong>, <strong>Elastic Stack</strong>, <strong>Rocket.Chat</strong></li>\n      <li><strong>Security &amp; Endpoint Tools</strong>: Symantec, Carbon Black EDR, CipherTrust, Fortify WebInspect, Keycloak.</li>\n      <li><strong>Monitoring &amp; DevOps Tools</strong>: Grafana, Prometheus, GitLab Enterprise, Ansible, OpenShift, Red Hat       Satellite.</li>\n    </ul>\n  </li>\n</ul>\n<p><strong>7. Documentation &amp; Reporting</strong></p>\n<ul>\n  <li>Maintain and update all relevant documentation, including SOPs, maintenance records, system diagrams, and logs.</li>\n  <li>Generate reports on system performance, incident handling, and preventive maintenance activities.</li>\n</ul>\n<p><strong>8. Advisory &amp; Continuous Improvement</strong></p>\n<ul>\n  <li>Provide technical advice on infrastructure improvement, system performance tuning, and reliability enhancements.</li>\n  <li>Propose and implement automation where applicable to streamline system monitoring and recovery processes.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<p><strong>Essential Qualifications &amp; Experience</strong></p>\n<ul>\n  <li>Diploma or Degree in Computer Science, Information Systems, or equivalent.</li>\n  <li>Minimum 3 years of experience in IT system administration or infrastructure maintenance roles.</li>\n  <li>Strong knowledge of Linux (RHEL) and Windows Server (2019) environments.</li>\n  <li>Experience with backup systems (e.g., Dell EMC Data Domain, Avamar), firewalls, and enterprise-grade hardware.</li>\n  <li>Familiar with container platforms (e.g., OpenShift), middleware (IBM ACE, WebSphere), databases (SQL, MongoDB), and cloud or hybrid integration platforms.</li>\n  <li>Working knowledge of DevOps tools (Ansible, GitLab, SonarQube).</li>\n  <li>Familiarity with security technologies (Keycloak, CipherTrust, FortiGate, WebInspect).</li>\n  <li>Knowledge of ITIL processes for incident, change, and problem management.</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MongoDB",
+      "uuid": "206e3718af092fd1d12f80cae771ccac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power Management",
+      "uuid": "8882a43011822d064d09588c3c36f409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apache Kafka",
+      "uuid": "bb2bd99338b18762ef6953ad2cbfafc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Tuning",
+      "uuid": "bffe7898e0faada14e4fb09bd6717314",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Incident Management",
+      "uuid": "f3723f30315ea30f2f4b9101556772e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199707349R",
+    "description": "<p>TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD.</p>\r\n\r\n<p>Software Quality Assurance and Software Testing Services.</p>\r\n",
+    "name": "TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD.",
+    "ssicCode": "82999",
+    "employeeCount": 50,
+    "companyUrl": "www.tescom-apac.com",
+    "lastSyncDate": "2026-02-04T03:21:14.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R/schemes"
+      }
+    },
+    "logoFileName": "e86d19dc7786607f32d88b044ff5e0fb/tescom-software-systems-testing.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e86d19dc7786607f32d88b044ff5e0fb/tescom-software-systems-testing.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "CHURCH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "SAMSUNG HUB",
+    "postalCode": "049483",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28326322317331,
+    "lng": 103.849626546611
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155131",
+    "deletedAt": null,
+    "createdBy": "67a76067-0e76-455d-a998-caf216be65cf",
+    "createdAt": "2026-01-26T01:38:01.000Z",
+    "updatedAt": "2026-01-26T01:38:01.000Z",
+    "emailRecipient": "67a76067-0e76-455d-a998-caf216be65cf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 62,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/systems-engineer-tescom-software-systems-testing-b469f566a8b6db2d524dd24257178912",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b469f566a8b6db2d524dd24257178912"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b469f566a8b6db2d524dd24257178912/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

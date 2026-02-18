@@ -1,0 +1,208 @@
+{
+  "uuid": "6e3b55985a52464529dd8d1bb91c897f",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer (Payments Architecture)",
+  "description": "<p><strong>Responsibilities:</strong><br />1. Combine domain knowledge of payment business and system architecture design capabilities to iteratively upgrade the global payment system architecture;<br />2. Develop disaster tolerance and degradation strategies for various basic components used in the system to ensure the stability of system services;<br />3. Build cross-region disaster tolerance capabilities for the global payment system. Under the premise of ensuring data security and compliance, ensure that the system can calmly face data center-level failures;<br />4. Sort out business processes and dependencies, identify possible system bottlenecks in the system, and ensure stable operation during business peak periods such as Double 11 and Black Friday;<br />5. Introduce new technologies and solutions to the team according to actual business needs;<br />6. With one's own excellent project management and coordination and communication skills, be responsible for promoting key cross-team projects.<br /><br /><strong>Qualifications</strong></p><p>Minimum Qualifications:<br />1. Bachelor's degree in Computer Science or a related technical background involving software/system engineering, or equivalent working experience;<br />2. Good programming experience with high concurrency/complex business system/service management;<br />3. Proficient in at least one of the following backend languages: C++/Java/Go/Python/Shell;<br />4. Strong analytical thinking and excellent troubleshooting;<br />5. Positive and optimistic, strong sense of responsibility, self-driven, serious, good team communication and collaboration skills.<br /><strong></strong><br /><strong>Preferred Qualifications:</strong><br />1.Payment industry background is a nice to have.</p>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tolerance",
+      "uuid": "38a4462de8ef7234a58e8f0798e29d04",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Program Management",
+      "uuid": "8e83fdfa2cceddecd354135d153a0c2b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adaptability",
+      "uuid": "9b9c820d2859453f8e672a614ff7d501",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architecture Design",
+      "uuid": "ae64194051878ec826a5a24ebf799d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13302",
+  "occupationId": "OCC001962",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0913",
+  "postedCompany": {
+    "uen": "202446994D",
+    "description": null,
+    "name": "PIPO RESOURCE (SG) PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T02:15:47.000Z",
+    "ssicCode2020": "70101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202446994D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202446994D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202446994D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202446994D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "RAFFLES QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "048583",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28089477917488,
+    "lng": 103.851677099722
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193925",
+    "deletedAt": null,
+    "createdBy": "6b7e4f23-70a2-44ad-9059-1575ee5865e7",
+    "createdAt": "2026-01-31T14:15:47.000Z",
+    "updatedAt": "2026-01-31T14:15:48.000Z",
+    "emailRecipient": "6b7e4f23-70a2-44ad-9059-1575ee5865e7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 153,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 22,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-pipo-resource-6e3b55985a52464529dd8d1bb91c897f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 25000,
+    "minimum": 18000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6e3b55985a52464529dd8d1bb91c897f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6e3b55985a52464529dd8d1bb91c897f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

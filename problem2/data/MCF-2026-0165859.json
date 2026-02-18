@@ -1,0 +1,244 @@
+{
+  "uuid": "4f1c8c01421662bfc7534b7924aee8ea",
+  "sourceCode": "Employer Portal",
+  "title": "carpentar",
+  "description": "<p><strong>Job Summary</strong></p><p>You will cut, shape, and install wood and other building materials for construction projects such as framing, roofing, flooring, and cabinetry. You will also make cabinets, wardrobes, and study desks, working independently with minimal supervision.</p><p><strong>Responsibilities</strong></p><ul><li>Cut and shape wood and other building materials to meet specifications for construction projects</li><li>Install wood components for framing, roofing, flooring, and cabinetry accurately and safely</li><li>Construct cabinets, wardrobes, and study desks according to design requirements</li><li>Manage daily tasks independently with minimal supervision to ensure timely project completion</li><li>Apply knowledge of woodworking techniques and materials to produce quality finished products</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Woodworking",
+      "uuid": "7a74ac23c4bd8b809fe9ac43fb001da2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC",
+      "uuid": "896554fed40d705b7fcf2fb3a7b385a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Acrylic",
+      "uuid": "920809ad6f3521061418a1ee2f8837b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembling",
+      "uuid": "b65bcd4c023847cafb39151dfa9ddd7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71151",
+  "occupationId": "OCC014796",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "11",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202443109W",
+    "description": null,
+    "name": "YANG GUANG RENOVATION PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T05:30:48.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202443109W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202443109W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202443109W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202443109W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "CHONG KUO ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "779830",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 26,
+        "location": "D26 Upper Thomson, Springleaf",
+        "region": "North",
+        "sectors": [
+          "77",
+          "78"
+        ],
+        "regionId": "North"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165859",
+    "deletedAt": null,
+    "createdBy": "07d5124e-9837-4120-a1bd-80b481046834",
+    "createdAt": "2026-01-27T05:40:42.000Z",
+    "updatedAt": "2026-01-27T05:40:42.000Z",
+    "emailRecipient": "07d5124e-9837-4120-a1bd-80b481046834",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 36,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/carpentar-yang-guang-renovation-4f1c8c01421662bfc7534b7924aee8ea",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4700,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4f1c8c01421662bfc7534b7924aee8ea"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4f1c8c01421662bfc7534b7924aee8ea/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

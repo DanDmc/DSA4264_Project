@@ -1,0 +1,236 @@
+{
+  "uuid": "43b617ad30eaad0bb06823d4824cfd30",
+  "sourceCode": "Employer Portal",
+  "title": "PERFORMING ARTISTE",
+  "description": "<ul><li>Develop and perform original live art pieces</li><li>Collaborate with other artists and creative professionals</li><li>Participate in rehearsals and workshops</li><li>Engage with audiences during and after performances</li><li>Adapt performances to different venues and audiences</li><li>Incorporate multimedia and technology into performances</li><li>Promote performances through social media and public relations</li><li>Apply for grants and funding opportunities</li><li>Document performances for archival and promotional use</li><li>Participate in community outreach and educational programs</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Community Outreach",
+      "uuid": "0f51438947e37b6746984598f75be74a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multimedia",
+      "uuid": "2f56b4f336dc97edf739bf79523fb9a6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Media",
+      "uuid": "3ce446e5cb3c779f621bb5ee76e666c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Grants",
+      "uuid": "9d332be9f118dea31ba2e8a321935d1f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Excellence",
+      "uuid": "de436046b830e7e4e4e5e2d62b4b0f08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service Experience",
+      "uuid": "fa63d7f8c765d48aafb86bd9c5adc310",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "26549",
+  "occupationId": "OCC005095",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202213454H",
+    "description": null,
+    "name": "LLOYD MANPOWER RESOURCES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T02:09:31.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213454H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213454H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213454H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213454H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "202022229K",
+    "description": null,
+    "name": "EATNOVATIVE GROUP PTE. LTD.",
+    "ssicCode": "56130",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T14:06:39.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022229K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022229K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022229K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022229K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "GOLDHILL PLAZA",
+    "floor": null,
+    "unit": null,
+    "building": "GOLDHILL PLAZA",
+    "postalCode": "308899",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 11,
+        "location": "D11 Novena, Thomson, Watten Estate",
+        "region": "Central",
+        "sectors": [
+          "28",
+          "29",
+          "30"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31782868139701,
+    "lng": 103.842889374276
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169583",
+    "deletedAt": null,
+    "createdBy": "b92d65ec-0f94-4bde-96b1-f7164454a31b",
+    "createdAt": "2026-01-27T14:07:54.000Z",
+    "updatedAt": "2026-01-27T14:07:53.000Z",
+    "emailRecipient": "b92d65ec-0f94-4bde-96b1-f7164454a31b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/events/performing-artiste-eatnovative-group-43b617ad30eaad0bb06823d4824cfd30",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/43b617ad30eaad0bb06823d4824cfd30"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/43b617ad30eaad0bb06823d4824cfd30/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

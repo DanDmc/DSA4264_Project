@@ -1,0 +1,228 @@
+{
+  "uuid": "384eba45c37f6a48eb9af8ffae0166b4",
+  "sourceCode": "Employer Portal",
+  "title": "System Analyst",
+  "description": "<p><u><strong>Key Responsibilities:</strong></u></p><p>· Analyse, develop, enhance, debug, support, maintain, test applications<br />· The primary work comprises of requirement analysis, mapping design, technical specification, programming, code review, job scheduling, perform unit test and SIT, support UAT, deploy to production, post implementation support, and technical documentation.<br /></p><p>1. Functional Specification<br />a. Responsible to analyse and define detailed functional specifications based on the functional and non-functional requirements document.<br />b. Collaborate with functional business analyst to clarify functional and non-functional requirements<br />c. Define and ensure traceability from functional specifications to business requirements.<br /></p><p>2. Technical Design<br />a. Responsible to create technical design<br />b. Ensure technical design adheres to the architectural roadmap. Development practices and security requirements<br />c. In case of vendor implementation. Ensure vendor resources create technical design document<br />d. Collaborate with developers and infrastructure teams to clarify functional specification and technical design durng build, test and deployment phase<br />e. Collaborate with production support to establish IT operations procedures and document as part of Tech Design<br />f. Coordinate execution of threat modelling process with assistance of security architect to ensure implementation of safeguards is comprehensive in accordance with threats.<br /></p><p>3. Testing and Scope Management<br />a. Clarify test findings escalated by test manager and classify the findings accordingly (either as a defector or change request).<br />b. Provide input to impact assessment and estimation for project change request.<br />c. Work with test manager to review test plan and functional test scope.<br /></p><p><u><strong>Key Requirements:</strong></u></p><p>1. You will typically be assigned to work on specific projects and is expected to support the Application Delivery.2. Manager (ADM) in all relevant technical/functional flows, end-to-end, within the project.3. You are expected to ensure your work are adequately documented and transferred to the production team post-cutover.<br /></p><p><u><strong>Essential:</strong></u></p><p>· Commitment.<br />· Minimum 3 years of working experience in application testing, development and delivery.<br />· Minimum 6 years of functional experience in AML transaction monitoring applications, specifically in Actimize preferred.<br />· Good understanding and experience in Software Development Life Cycle (SDLC).<br />· Ability to work in a fast-paced, team-oriented environment. Ownership and ability to question and understand processes.<br />· A strong & assertive communicator in speaking & writing Analytical mindset and good problem solving skills.<br /></p><p><u><strong>Good to have:</strong></u></p><p>· Experience in working in vendor environment.<br />· Experience in data mapping.<br />· Vendor background in Actimize specifically in RCM/ActOne, UDM, SAM<br /><br /><u><strong>Technical Skills:</strong></u></p><p>· Experience with Oracle PL/SQL, Oracle SQL.<br />· Good to have: Batch Scripting, Control M, DevOps.<br />· Database (Ability to use and understand for the purpose of analysis and design an investigation)</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assertive",
+      "uuid": "21635eeb03ed55ffbecab778bc03dcc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Traceability",
+      "uuid": "759f4372df506ee3ab42a77b95d7980c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Operations",
+      "uuid": "87727a06ba270d2c9eafe81149c048c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamoriented",
+      "uuid": "aaecf2d156e42dacee5de7b530913748",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AML",
+      "uuid": "c043056a0a32cb5e104aeb2cf4ff7ba8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Analyst",
+      "uuid": "cf81121543f08d762c89add012cdd707",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mapping",
+      "uuid": "f84f4a69bdc03d4a4251db12ee746ce3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Design",
+      "uuid": "fe3b5ad50e8df6891da952d0ecb67c59",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002038",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201527820N",
+    "description": "<p>KG Sowers Group Pte Ltd is a technology services company with a strong focus in implementing network infrastructure and hardware products. The company implement and maintains overseas network projects across the world for its client. We value our customers and seek to improve our employee’s growth through given exposure and peer-to-peer guidance.</p>\n",
+    "name": "KG SOWERS GROUP PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:36:54.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201527820N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201527820N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201527820N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201527820N/schemes"
+      }
+    },
+    "logoFileName": "702160b3e26f3c5a45e8a1838ebd5e0a/kg-sowers-group.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/702160b3e26f3c5a45e8a1838ebd5e0a/kg-sowers-group.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "GAMBAS CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "NORDCOM TWO",
+    "postalCode": "757044",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44309365595116,
+    "lng": 103.815893655259
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159044",
+    "deletedAt": null,
+    "createdBy": "ecc21db7-e45a-4a4c-92fa-e6711a58f422",
+    "createdAt": "2026-01-26T08:04:09.000Z",
+    "updatedAt": "2026-01-26T08:04:08.000Z",
+    "emailRecipient": "ecc21db7-e45a-4a4c-92fa-e6711a58f422",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 94,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/system-analyst-kg-sowers-group-384eba45c37f6a48eb9af8ffae0166b4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/384eba45c37f6a48eb9af8ffae0166b4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/384eba45c37f6a48eb9af8ffae0166b4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

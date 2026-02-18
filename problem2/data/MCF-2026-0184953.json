@@ -1,0 +1,262 @@
+{
+  "uuid": "c5318bed1613ae49643915ce136b34c8",
+  "sourceCode": "Employer Portal",
+  "title": "System Engineer(Back Office), Development",
+  "description": "<p><strong>Company Overview</strong></p><p>MSI Global Private Limited is a wholly-owned subsidiary of the Land Transport Authority of Singapore. MSI provides professional land transport consultancy, engineering services and solutions in Singapore and many other parts of the world. The Company owns a subsidiary in Shanghai and Bangalore.</p><p>We are looking for highly motivated, results-oriented team players to join us as professional partners to strengthen and realise<strong> </strong>our vision and mission.</p><p><strong>Job Summary</strong></p><p>Working with a back office development team, you will be responsible for the design and delivery of the software solution for a high volume and performance intensive back office of a Automatic Fare Collection (AFC) system.</p><p><strong>Responsibilities</strong></p><ul><li>Analyse business and system requirements to design robust back office software solutions for AFC systems.</li><li>Design, develop, test, and deliver enterprise-grade applications using Java/JEE and web technologies.</li><li>Contribute to system architecture, application design, and technical specifications for high-performance back office platforms.</li><li>Develop and maintain backend services, APIs, and integrations with upstream and downstream systems.</li><li>Ensure system performance, scalability, security, and reliability for high-transaction-volume environments.</li><li>Participate in the full Software Development Lifecycle (SDLC), including requirements analysis, design, development, testing, deployment, and support. </li><li>Produce and maintain SDLC documentation, including design specifications, technical documents, and test artefacts.</li><li>Support system integration testing, defect resolution, and production deployment activities.\nCollaborate closely with cross-functional teams including system engineers, testers, operations, and project managers.</li><li>Support continuous improvement initiatives, including automation, performance tuning, and code quality improvements.</li><li>Adhere to established development standards, security policies, and governance requirements.</li></ul><p><strong>Education and Experiences</strong></p><ul><li>Recognised degree in Computer Science, IT, Engineering or relevant discipline.</li><li>At least 6 years’ relevant experience in software development;</li><li>Experience in analysing requirements, designing, development and delivering enterprise. applications in Java/JEE, web programming on UNIX / LINUX and Windows environment;     </li><li>Gone through at least one full software development lifecycle (SDLC) with experience in producing SDLC documentations; </li><li>Experience in Automatic Fare Collection (AFC) system will be an advantage</li></ul><p><strong>Preferred Competencies and Qualifications</strong></p><ul><li>Experience in web based applications development (EJB, Springboot, Servlets, javascript) and database application interfacing (JDBC, SQL) in Application Server and database;</li><li>Experience in Kubernetes, Dockers, Containerization, Microservices and Continuous Integration & Deployment process (CI/CD) with containers </li><li>Experience in AWS services (Elaborate)</li><li>Experience in Agile development methodology and continuous integration;  </li></ul>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Web Programming",
+      "uuid": "2d1c9b35b2f257195e1e40d51c0f6382",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UNIX scripting",
+      "uuid": "40e24ae40500b741fe85cb7a67b1b00b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Upstream",
+      "uuid": "6b8723ed8ce2d285d63d9682f60b0287",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SDLC",
+      "uuid": "6fb20c4016a1efc028fcb5c917a1a9b5",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "JDBC",
+      "uuid": "82269b9b71ab4a7732f6958610214c43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Requirements Analysis",
+      "uuid": "9bb8ae8a092789e52353a83e5e488c3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Servlets",
+      "uuid": "9cdc4bbeede81cec7451d2c84028d26e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Applications Development",
+      "uuid": "9f85c4696462f9375f2f4e1577d6c8b3",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux Server",
+      "uuid": "b9b1a33989005d8f62bf45affffab918",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EJB",
+      "uuid": "cd584f46d276485c5434d2308d919159",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Integration Testing",
+      "uuid": "d1f23942e2642c2b3d6e6b4f65b2e8b4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "J2EE",
+      "uuid": "eebcf464f6d32c22c814c8e964c94771",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Back Office",
+      "uuid": "eed2839c1e3e5f7069ed03b2f6d4c6dd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Agile Development",
+      "uuid": "fc05f27a44bc4ce1eea2ac8ca10706de",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC062150",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "199500875C",
+    "description": "<p>MSI Global Private Limited is a wholly-owned subsidiary of the Land Transport Authority of Singapore.&nbsp; MSI provides professional land transport consultancy, engineering services and solutions in Singapore and many other parts of the world.&nbsp; The Company owns a subsidiary in Shanghai.</p>\n<p>&nbsp;</p>\n<p>We are looking for highly motivated, results-oriented team players to join us as professional partners to strengthen and realise our vision and mission.</p>",
+    "name": "MSI GLOBAL PRIVATE LIMITED",
+    "ssicCode": "74112",
+    "employeeCount": null,
+    "companyUrl": "https://msi-global.com.sg/",
+    "lastSyncDate": "2026-02-03T23:54:09.000Z",
+    "ssicCode2020": "74112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500875C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500875C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500875C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500875C/schemes"
+      }
+    },
+    "logoFileName": "61e319c7023e213a39228cf7853a6e25/msi-global.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/61e319c7023e213a39228cf7853a6e25/msi-global.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184953",
+    "deletedAt": null,
+    "createdBy": "4fd9e94f-dcb2-4e28-bb7f-fa911f5e028b",
+    "createdAt": "2026-01-29T17:02:22.000Z",
+    "updatedAt": "2026-01-29T17:02:22.000Z",
+    "emailRecipient": "4fd9e94f-dcb2-4e28-bb7f-fa911f5e028b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/system-engineer-development-msi-global-c5318bed1613ae49643915ce136b34c8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c5318bed1613ae49643915ce136b34c8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c5318bed1613ae49643915ce136b34c8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

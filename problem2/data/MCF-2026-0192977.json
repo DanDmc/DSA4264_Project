@@ -1,0 +1,224 @@
+{
+  "uuid": "f7e64044d45b1d7db71a8a57d7e2b02c",
+  "sourceCode": "Employer Portal",
+  "title": "Cleaning Operations Manager",
+  "description": "<p>We are looking for an experienced Cleaning Operations Manager to lead a small team of cleaners to go to different locations to do cleaning. <br />This is a hands-on job where the candidate must physically do the cleaning work if short-handed or under project deadline pressure.<br /><br />1) Physically fit and able to carry 10kg load up 2 flights of stairs <br />2) must not have fear of heights<br />3) able to work on weekends, public holidays and sometimes OT in the evenings <br /></p><p></p><p></p><p></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Under Pressure",
+      "uuid": "47e2827f5623d7107195408b20d5d598",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Approachable",
+      "uuid": "86d497587a59c7984e4c227b4737a2cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leader",
+      "uuid": "c5d426fa2801131aa59d5f7839ccc997",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12193",
+  "occupationId": "OCC059986",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "1333",
+  "postedCompany": {
+    "uen": "53132142L",
+    "description": null,
+    "name": "ABSOLUTE SEARCH",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T05:54:31.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53132142L"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53132142L/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53132142L/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53132142L/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202231706N",
+    "description": null,
+    "name": "KRYSTAL MAINTENANCE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T06:21:02.000Z",
+    "ssicCode2020": "81212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202231706N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202231706N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202231706N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202231706N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192977",
+    "deletedAt": null,
+    "createdBy": "1adf8f25-e5a8-4222-aa66-dad44c5c7db1",
+    "createdAt": "2026-01-31T06:40:06.000Z",
+    "updatedAt": "2026-01-31T06:40:06.000Z",
+    "emailRecipient": "1adf8f25-e5a8-4222-aa66-dad44c5c7db1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 54,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/cleaning-operations-manager-krystal-maintenance-f7e64044d45b1d7db71a8a57d7e2b02c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f7e64044d45b1d7db71a8a57d7e2b02c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f7e64044d45b1d7db71a8a57d7e2b02c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

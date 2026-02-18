@@ -1,0 +1,229 @@
+{
+  "uuid": "4fe9df59af807d76a35723c278dcf01c",
+  "sourceCode": "Employer Portal",
+  "title": "Logistics Coordinator",
+  "description": "<h3><strong>Job Responsibilities</strong></h3><ul><li><p>Coordinate daily logistics operations including delivery scheduling and route planning</p></li><li><p>Arrange and monitor drivers’ schedules and attendance</p></li><li><p>Ensure timely delivery of goods to customers and internal departments</p></li><li><p>Coordinate warehouse loading and unloading operations</p></li><li><p>Handle external warehouse arrangements, including stock monitoring and rental follow-up</p></li><li><p>Maintain accurate inventory and delivery records</p></li><li><p>Liaise with freight forwarders, cargo agents, and transport providers</p></li><li><p>Prepare and follow up on cargo shipments and delivery status</p></li><li><p>Support customs clearance documentation and procedures</p></li><li><p>Resolve logistics, delivery, or stock-related issues promptly</p></li></ul><h3><strong>Job Requirements</strong></h3><ul><li><p>Experience in logistics / warehouse coordination preferred</p></li><li><p><strong>Knowledge of cargo handling and customs clearance procedures</strong></p></li><li><p>Good communication and organizational skills</p></li><li><p>Ability to multitask under time-sensitive conditions</p></li><li><p>Basic computer skills for record-keeping</p></li><li><p>Responsible and problem-solving mindset</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Freight",
+      "uuid": "a2eca8f6be5b0bf0f2cddcda7cfca376",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Oriented",
+      "uuid": "bbc6c65878bbeca807143d90dc1d1fca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33461",
+  "occupationId": "OCC007864",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0514",
+  "postedCompany": {
+    "uen": "201832010M",
+    "description": null,
+    "name": "COL33 PTE. LTD.",
+    "ssicCode": "10799",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T06:05:25.000Z",
+    "ssicCode2020": "10799",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832010M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832010M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832010M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832010M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181817",
+    "deletedAt": null,
+    "createdBy": "7d351713-fd7c-4c4a-aa12-28a17eb286ef",
+    "createdAt": "2026-01-29T07:24:08.000Z",
+    "updatedAt": "2026-01-29T07:24:09.000Z",
+    "emailRecipient": "7d351713-fd7c-4c4a-aa12-28a17eb286ef",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 99,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/logistics-coordinator-col33-4fe9df59af807d76a35723c278dcf01c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fe9df59af807d76a35723c278dcf01c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fe9df59af807d76a35723c278dcf01c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

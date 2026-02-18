@@ -1,0 +1,193 @@
+{
+  "uuid": "459a9a8c2d1e7763cbbaa0be19a3d8f4",
+  "sourceCode": "Employer Portal",
+  "title": "Manicurist",
+  "description": "<p>We are expanding and is looking for <strong>passionate & skilled Manicurists</strong> to join our growing team!</p><p>✨ <strong>Job Scope</strong></p><ul><li><p>Manicure & pedicure services</p></li><li><p>Gel / classic nail polish application</p></li><li><p>Basic nail art (training provided if needed)</p></li><li><p>Maintain cleanliness & hygiene of work area</p></li><li><p>Provide friendly and professional customer service</p></li></ul><p>✨ <strong>Requirements</strong></p><ul><li><p>Experience as a manicurist preferred (training can be provided for the right attitude)</p></li><li><p>Passion for nails & beauty</p></li><li><p>Positive attitude, responsible & team-oriented</p></li><li><p>Willing to learn and grow with the brand</p></li></ul><p>✨ <strong>What We Offer</strong></p><ul><li><p>Competitive salary + commission</p></li><li><p>Friendly & supportive work environment</p></li><li><p>Career growth opportunities</p></li><li><p>Training & skill upgrading</p></li><li><p>Staff perks & benefits</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Oriented",
+      "uuid": "1679904a73c2d3eb34300987e0439951",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Sales",
+      "uuid": "6dc9fae99bf94d3db2f640dec2b98dbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Merchandising",
+      "uuid": "825896e7e83eff50879ed00cba2f9414",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soil Nailing",
+      "uuid": "e229c83adb2ed652c7ef067c2ced6df5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Skin and nail",
+      "uuid": "eda828517c6503af8d78acc98c65f765",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51422",
+  "occupationId": "OCC013686",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202502918K",
+    "description": null,
+    "name": "DOLLHOUSE BEAUTY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T01:51:39.000Z",
+    "ssicCode2020": "96023",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502918K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502918K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502918K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502918K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179297",
+    "deletedAt": null,
+    "createdBy": "f96df08b-2269-467f-8744-09ec51f99b84",
+    "createdAt": "2026-01-29T02:21:25.000Z",
+    "updatedAt": "2026-01-29T02:21:25.000Z",
+    "emailRecipient": "f96df08b-2269-467f-8744-09ec51f99b84",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/manicurist-dollhouse-beauty-459a9a8c2d1e7763cbbaa0be19a3d8f4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/459a9a8c2d1e7763cbbaa0be19a3d8f4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/459a9a8c2d1e7763cbbaa0be19a3d8f4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

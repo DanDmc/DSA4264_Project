@@ -1,0 +1,205 @@
+{
+  "uuid": "2005d44c7c1a0b4e56898656625141c2",
+  "sourceCode": "Employer Portal",
+  "title": "Office Administrator",
+  "description": "<p><strong>Key Responsibilities</strong><br />- Create billing invoices and send them to customers<br />- Attend to daily emails from customers, act and reply promptly<br />- Assist with recording Accounts Payable / Receivable<br />- Other ad-hoc admin tasks when required<br />- Perform any other administrative duties assigned by the Management.​</p><p><strong>Requirements</strong><br /><strong>- </strong>1–2 years of office administration experience preferred; fresh candidates with good attitude may be considered<br />- Proficient in MS Office (Word, Excel, Outlook).<br />- Good communication skills, pleasant and service-oriented.<br />- Organised, responsible, and able to multi-task in a busy office environment.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Management",
+      "uuid": "68b41b38f28f2ba723e32419c5365a0a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bookkeeping",
+      "uuid": "b4ce435600f0451db46463e960fc5e3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC061398",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201714441M",
+    "description": "<p>At Yenisei Express Pte Ltd, we are dedicated to streamlining your supply chain for maximum efficiency and growth. We provide agile and reliable end-to-end logistics solutions, tailored to meet the unique demands of your business.</p><p>Leveraging our global network and deep industry expertise, we optimize routes, manage inventory, and ensure timely delivery. We go beyond moving cargo; we build lasting partnerships by providing transparency, proactive communication, and solutions that drive your competitive advantage.</p><p>Specialties: End-to-End Logistics, Inventory Management, Freight Optimization, Multimodal Transport, Project Cargo, Strategic Partnership.</p>",
+    "name": "YENISEI EXPRESS PTE. LTD.",
+    "ssicCode": "52292",
+    "employeeCount": 23,
+    "companyUrl": "www.yenisei.com.sg",
+    "lastSyncDate": "2026-01-30T04:01:00.000Z",
+    "ssicCode2020": "52292",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201714441M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201714441M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201714441M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201714441M/schemes"
+      }
+    },
+    "logoFileName": "c26d3880b9bfaf69d1526e2404ccfc3a/yenisei-express.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/c26d3880b9bfaf69d1526e2404ccfc3a/yenisei-express.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "31",
+    "street": "JURONG PORT ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "JURONG LOGISTICS HUB",
+    "postalCode": "619115",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31197625193454,
+    "lng": 103.720151695849
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0161511",
+    "deletedAt": null,
+    "createdBy": "31c0ec48-df06-429f-92fc-957a08dfc523",
+    "createdAt": "2026-01-26T12:04:13.000Z",
+    "updatedAt": "2026-01-26T12:04:13.000Z",
+    "emailRecipient": "31c0ec48-df06-429f-92fc-957a08dfc523",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 348,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 43,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/office-administrator-yenisei-express-2005d44c7c1a0b4e56898656625141c2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2005d44c7c1a0b4e56898656625141c2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2005d44c7c1a0b4e56898656625141c2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

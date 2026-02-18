@@ -1,0 +1,238 @@
+{
+  "uuid": "9b3ee462252116e52edc8df44434693c",
+  "sourceCode": "Employer Portal",
+  "title": "Cyber Support Engineer",
+  "description": "<p>The Cyber Support Engineer will provide operational, technical, and security support for the organization’s Endpoint Detection and Response (EDR) environment. The role focuses on maintaining Carbon Black EDR infrastructure hosted on Red Hat Enterprise Linux (RHEL), managing endpoint sensors, supporting incident response activities, and ensuring compliance with cybersecurity policies and hardening standards across IT and OT environments.</p><h2>Mandatory Technical Skills</h2><ul><li><p>Experience with <strong>Carbon Black EDR</strong> or equivalent EDR platforms</p></li><li><p>Strong <strong>RHEL 8/9 system administration</strong> skills</p></li><li><p>Familiarity with <strong>PostgreSQL maintenance</strong> (backup, integrity check, restore)</p></li><li><p>Good understanding of <strong>network troubleshooting</strong> (TCP/IP, TLS, proxies, firewalls)</p></li><li><p>Hands-on experience troubleshooting <strong>EDR endpoint sensors on Windows</strong></p></li><li><p>Understanding of <strong>secure operations</strong>, privileged access handling, and account management</p></li></ul><h2>Good-to-Have Skills</h2><ul><li><p>Experience applying <strong>CIS Benchmarks</strong> for RHEL and Windows</p></li><li><p>Knowledge of <strong>log management and SIEM integration</strong></p></li><li><p>Understanding of <strong>Operational Technology (OT) networks</strong> and remote plant architectures</p></li></ul><h2>Preferred Certifications (Optional)</h2><ul><li><p>RHCSA / RHCE</p></li><li><p>VMware Certification related to Carbon Black EDR</p></li></ul><h2>Roles & Responsibilities</h2><h3>EDR Server Operations & Maintenance</h3><ul><li><p>Maintain and operate Carbon Black EDR servers hosted on RHEL 8/9.</p></li><li><p>Perform scheduled maintenance under approved change windows, including OS, database, and application patching.</p></li><li><p>Validate and maintain EDR services such as:</p><ul><li><p>Web console</p></li><li><p>Carbon Black backend services</p></li><li><p>Solr</p></li><li><p>PostgreSQL</p></li><li><p>Log forwarding services (NXLog, Carbon Black Event Forwarder)</p></li></ul></li><li><p>Monitor system performance, queues, indexing, and clear stale services when required.</p></li><li><p>Manually review system, security, and audit logs not forwarded to the centralized plant log collection server.</p></li><li><p>Engage OEM and vendor support for troubleshooting, configuration, and integration where required.</p></li></ul><h3>Endpoint Sensor Management</h3><ul><li><p>Monitor health, connectivity, and status of deployed EDR sensors.</p></li><li><p>Troubleshoot offline or unhealthy sensors by:</p><ul><li><p>Validating network connectivity</p></li><li><p>Checking local services and tamper protection</p></li><li><p>Reviewing endpoint logs</p></li></ul></li><li><p>Collect endpoint diagnostic data for analysis and investigations.</p></li><li><p>Support sensor redeployment and recovery of corrupted or missing components.</p></li><li><p>Assist in onboarding new endpoints into the EDR environment.</p></li><li><p>Validate EDR sensor data against plant asset inventory.</p></li></ul><h3>Network & Infrastructure Coordination</h3><ul><li><p>Coordinate with internal teams and third parties to validate:</p><ul><li><p>Firewall rules</p></li><li><p>Port connectivity</p></li><li><p>SSL certificate issues related to Carbon Black</p></li></ul></li><li><p>Assist in troubleshooting endpoints in air-gapped environments using static host mapping and name resolution techniques.</p></li><li><p>Support analysis of intermittent or unstable site connectivity.</p></li></ul><h3>Security & Hardening</h3><ul><li><p>Ensure RHEL OS hardening in line with CIS benchmarks and organizational security standards.</p></li><li><p>Monitor and track OS and EDR security patches and vulnerabilities.</p></li><li><p>Implement patches or mitigation actions in accordance with approved patching timelines and change management processes.</p></li><li><p>Conduct:</p><ul><li><p>Quarterly user access reviews for EDR servers</p></li><li><p>Annual system configuration and security reviews</p></li></ul></li><li><p>Identify configuration weaknesses, propose remediation actions, and perform risk assessments where hardening cannot be applied.</p></li><li><p>Submit documented reviews for approval by designated approving officers.</p></li><li><p>Maintain cryptographic key lifecycle management for the EDR system.</p></li><li><p>Comply with all written cybersecurity instructions issued by the Client.</p></li></ul><h3>Technical Support & Incident Response</h3><ul><li><p>Provide technical support for cybersecurity incidents escalated by the Cybersecurity Branch.</p></li><li><p>Assist in investigations by retrieving:</p><ul><li><p>Endpoint telemetry</p></li><li><p>Event logs</p></li><li><p>Sensor data</p></li></ul></li><li><p>Are</p></li></ul><h3>Reporting & Documentation</h3><ul><li><p>Produce maintenance reports after each maintenance cycle, including:</p><ul><li><p>Summary of completed and outstanding tasks</p></li><li><p>Server health status</p></li><li><p>Performance metrics (availability, response time, turnaround time)</p></li><li><p>Security and audit log review findings</p></li><li><p>Patch and license status</p></li></ul></li><li><p>Maintain SOPs, system documentation, asset inventories, and troubleshooting guides.</p></li><li><p>Raise change requests in accordance with Client Change Management procedures.</p></li><li><p>Document system changes, sensor onboarding activities, and backup records.</p></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "MES",
+      "uuid": "002543019e5829c50ebe806b75cd746d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process Automation",
+      "uuid": "27746d2889a20e07549a4ed41eb9f5fd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "uuid": "5622ca1c7df0a0744d6e884ea12e1e66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Tools",
+      "uuid": "7c06a5cd6e5d0f73e90ffa6cd30d8c81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "uuid": "9a572f869560bf1946b1595198d3d7a6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Management",
+      "uuid": "b9625bf30fc83ff0cb46ceb80c7cddc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WinCC",
+      "uuid": "d003f2697edcc206d19c94f84fe7fb35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062567",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202037701K",
+    "description": "<p>Tekishub Consulting Services was established in 2008 in Wilmington Delaware, from this beginning the company has grown exponentially to include services and support locations across United States, Canada, India and the Singapore. TekisHub has ambitious plans to expand base in Australia, Middle East, APAC, United Kingdom next. With consultants deployed “on projects” worldwide, Tekishub brings together the right people and technologies to deliver the results to our clients.<br>\n<br>\nOur executive team combines highly experienced members who help in providing technology and business consulting services to clients Globally. From a single expert consultant to an entire project team, Tekishub provides customized resource solutions through its project deliverable based and contingent workforce service options.</p>",
+    "name": "TEKISHUB CONSULTING SERVICES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T15:09:04.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202037701K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202037701K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202037701K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202037701K/schemes"
+      }
+    },
+    "logoFileName": "d0550094dfb709c9a7320642a650ef5a/tekishub-consulting-services.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/d0550094dfb709c9a7320642a650ef5a/tekishub-consulting-services.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "32",
+    "street": "PEKIN STREET",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "048762",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28358593763021,
+    "lng": 103.848349468678
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187395",
+    "deletedAt": null,
+    "createdBy": "0677a195-af53-448e-a473-b70ef5665850",
+    "createdAt": "2026-01-30T03:46:17.000Z",
+    "updatedAt": "2026-01-30T03:46:18.000Z",
+    "emailRecipient": "0677a195-af53-448e-a473-b70ef5665850",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 67,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cyber-support-engineer-tekishub-consulting-services-9b3ee462252116e52edc8df44434693c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9500,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b3ee462252116e52edc8df44434693c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b3ee462252116e52edc8df44434693c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

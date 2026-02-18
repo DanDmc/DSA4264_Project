@@ -1,0 +1,193 @@
+{
+  "uuid": "57c77d3feb34440e482a7ccebe3ca221",
+  "sourceCode": "Employer Portal",
+  "title": "Outdoor Cleaners",
+  "description": "<p>The Cleaner cleans and takes care of assigned areas. He/She may be required to carry out any other reasonable duties within the overall function of the job as directed by the Team Leader and Cleaning Supervisor.<br>\n<br>\nSome of the working areas include offices, shopping malls, schools, hospitals, commercial buildings, streets, park and outdoor areas.</p>\n<p>~ Dust, clean and polish all items within the premises.<br>\n~ Empty waste bins.<br>\n~ Maintain cleanliness of assigned areas.<br>\n~ Polish glass doors.<br>\n~ Report anything in need of repair or replacement to team leader or cleaning supervisor.<br>\n~ Sweep or vacuum floor or carpets of assigned areas.<br>\n~ Wash and maintain the cleanliness of bathrooms and toilets.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "uuid": "0647f0776aed243f58bfec4dd81de863",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "general cleaning",
+      "uuid": "2cd8f754bdcea11bebb1ac240524f64e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "cleaning service",
+      "uuid": "383ce35737bb401d111368b82f4f397a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure Washing",
+      "uuid": "8feda0064c8c9b2cb94cebf261f292fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Severe Weather",
+      "uuid": "a43a302b18d43804fec61f4e40606c07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Exterior",
+      "uuid": "d9b3dceaf520ba1fa45c371c498c6baf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "commercial buildings",
+      "uuid": "f08d5ed4bb29e9e25ef321a28731d01a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "office buildings",
+      "uuid": "f7efc99f147e0f3ab6fd25a61025b233",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91132",
+  "occupationId": "OCC061978",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 40,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 13,
+      "category": "Environment / Health"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "198801700E",
+    "description": "<p>CHYE THIAM MAINTENANCE PTE LTD</p>\r\n",
+    "name": "CHYE THIAM MAINTENANCE PTE LTD",
+    "ssicCode": "81211",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T14:00:24.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E/schemes"
+      }
+    },
+    "logoFileName": "a42ee3fd48e09a0819bf3f2201a18e47/chye-thiam-maintenance.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a42ee3fd48e09a0819bf3f2201a18e47/chye-thiam-maintenance.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1961024",
+    "deletedAt": "2026-01-21T17:15:04.000Z",
+    "createdBy": "f73811cf-17a1-478d-be14-ad934ed85864",
+    "createdAt": "2025-12-22T09:09:49.000Z",
+    "updatedAt": "2026-01-25T08:06:49.000Z",
+    "emailRecipient": "f73811cf-17a1-478d-be14-ad934ed85864",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 157,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2025-12-22",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/environment/outdoor-cleaners-chye-thiam-maintenance-57c77d3feb34440e482a7ccebe3ca221",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 2325,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/57c77d3feb34440e482a7ccebe3ca221"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/57c77d3feb34440e482a7ccebe3ca221/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

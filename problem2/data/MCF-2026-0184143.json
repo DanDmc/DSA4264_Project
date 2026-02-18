@@ -1,0 +1,214 @@
+{
+  "uuid": "c6bb65dc5d2b7a0bd205cc656cbffde8",
+  "sourceCode": "Employer Portal",
+  "title": "F&B OPERATION SUPERVISOR",
+  "description": "<ul>\n  <li>Checking the daily cash balance</li>\n  <li>Interacting with the customers that come to the counter</li>\n  <li>Organizing all the work they do and maintaining the accounting records</li>\n  <li>Reporting discrepancies they find within the accounts to their superiors</li>\n  <li>Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.</li>\n  <li>To assist in taking orders from customers</li>\n  <li>To assist in cashiering duties and responsibilities</li>\n  <li>To ensure cleanliness of equipment and surroundings</li>\n  <li>To Prepare Ice and Hot Beverages</li>\n  <li>Any other duties assigned by supervisor/manager</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Strong Attention To Detail",
+      "uuid": "33b35b73b6037ea6228f8be98813c4d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Details",
+      "uuid": "aadca85dd728e361bc3e0851ca0efb4a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food hygiene",
+      "uuid": "aadd756fbed03a4b7a040f8731245f9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food & Beverage",
+      "uuid": "b813006fb00508348653c4d564ccaa2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leader",
+      "uuid": "c5d426fa2801131aa59d5f7839ccc997",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "serving food",
+      "uuid": "eaa51180feefaaeae777473b44bcad18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51311",
+  "occupationId": "OCC060446",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "1323",
+  "postedCompany": {
+    "uen": "199504862C",
+    "description": "<p>\r\n\tSIN SIAN YUEN PTE LTD</p>\r\n",
+    "name": "SIN SIAN YUEN PTE LTD",
+    "ssicCode": "56200",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T10:53:28.000Z",
+    "ssicCode2020": "56200",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199504862C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199504862C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199504862C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199504862C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "YISHUN AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "760101",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43053589946878,
+    "lng": 103.827668593789
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184143",
+    "deletedAt": null,
+    "createdBy": "7312c969-f106-458a-94dd-846320e15f01",
+    "createdAt": "2026-01-29T10:59:44.000Z",
+    "updatedAt": "2026-01-29T10:59:44.000Z",
+    "emailRecipient": "7312c969-f106-458a-94dd-846320e15f01",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/fb-operation-supervisor-sin-sian-yuen-c6bb65dc5d2b7a0bd205cc656cbffde8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c6bb65dc5d2b7a0bd205cc656cbffde8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c6bb65dc5d2b7a0bd205cc656cbffde8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

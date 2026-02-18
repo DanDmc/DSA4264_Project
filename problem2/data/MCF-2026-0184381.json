@@ -1,0 +1,241 @@
+{
+  "uuid": "10c825e81cb1814f0fe5c980257b414c",
+  "sourceCode": "Employer Portal",
+  "title": "Mechanical Supervisor",
+  "description": "<h3><strong>Key Responsibilities</strong></h3><ul><li><p>Supervise and coordinate mechanical maintenance, installation, and repair activities</p></li><li><p>Assign tasks and monitor performance of mechanical technicians and contractors</p></li><li><p>Ensure machinery, equipment, and systems operate efficiently and safely</p></li><li><p>Read and interpret mechanical drawings, blueprints, and technical manuals</p></li><li><p>Schedule preventive maintenance and oversee corrective maintenance activities</p></li><li><p>Enforce safety policies, procedures, and compliance with regulations</p></li><li><p>Inspect completed work to ensure quality standards are met</p></li><li><p>Troubleshoot mechanical issues and implement effective solutions</p></li><li><p>Maintain maintenance records, reports, and inventory of tools and spare parts</p></li><li><p>Coordinate with engineering, production, and management teams</p></li></ul><h3><strong>Qualifications & Skills</strong></h3><ul><li><p>Proven experience as a Mechanical Supervisor or similar role</p></li><li><p>Strong knowledge of mechanical systems, tools, and equipment</p></li><li><p>Ability to lead and motivate a team</p></li><li><p>Excellent problem-solving and troubleshooting skills</p></li><li><p>Good communication and organizational abilities</p></li><li><p>Knowledge of safety standards and maintenance best practices</p></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Assessment",
+      "uuid": "3177ea52ef79969392fa9605bc638090",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Piping",
+      "uuid": "96d312760756ae17426f3ff9f9731dd1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Corrective Maintenance",
+      "uuid": "b3d1b0b3dec7819721c72cbe33b93f42",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pumps",
+      "uuid": "d9557d324803f584a67619d304dc14b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Petrochemical",
+      "uuid": "dcf84f2c6c4586a2863d1a153804b16a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202033042E",
+    "description": null,
+    "name": "BEST FIT ENGINEERING PTE. LTD.",
+    "ssicCode": "71122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T10:34:42.000Z",
+    "ssicCode2020": "71122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202033042E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202033042E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202033042E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202033042E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "SOON LEE STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PIONEER JUNCTION",
+    "postalCode": "627606",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33378307271647,
+    "lng": 103.697237932835
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184381",
+    "deletedAt": null,
+    "createdBy": "44d21e6d-2078-400a-842e-5ce88a13c6d6",
+    "createdAt": "2026-01-29T12:18:08.000Z",
+    "updatedAt": "2026-01-29T12:18:08.000Z",
+    "emailRecipient": "44d21e6d-2078-400a-842e-5ce88a13c6d6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/mechanical-supervisor-best-fit-engineering-10c825e81cb1814f0fe5c980257b414c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/10c825e81cb1814f0fe5c980257b414c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/10c825e81cb1814f0fe5c980257b414c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

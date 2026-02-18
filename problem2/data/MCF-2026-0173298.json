@@ -1,0 +1,197 @@
+{
+  "uuid": "131fd958c6e445dec879bfa7df11a791",
+  "sourceCode": "Employer Portal",
+  "title": "Cargo Officer/Bunker Clerk",
+  "description": "<h3>Role Overview</h3><p>The Cargo Officer / Bunker Clerk supports bunker operations onboard vessels, ensuring accurate measurements, documentation, and compliance with bunkering standards.</p><h3>Key Responsibilities</h3><ul><li><p>Execute bunker cargo operations onboard bunker tankers.</p></li><li><p>Perform cargo measurements and documentation accurately.</p></li><li><p>Ensure compliance with bunkering standards and procedures.</p></li><li><p>Support shift-based onboard operations.</p></li></ul><h3>Requirements</h3><ul><li><p>Minimum 1 year of experience as bunker clerk or cargo officer onboard bunker tankers.</p></li><li><p>Certification in SS600 & TR48 (Basic & Advanced Bunkering Practices).</p></li><li><p>Certification in SS648:2024 (Bunker Mass Flow Metering).</p></li><li><p>Willingness to stay onboard and follow shift schedules.</p></li><li><p>Meticulous, responsible, and effective communicator.</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "quality standards",
+      "uuid": "06c6b0d5bfd771457ad05591aac616de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loading cargo",
+      "uuid": "33df99b19d9a8543e27b32fd36fc1a6c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Safety Compliance",
+      "uuid": "40dd23180278929d5aee739bbd66fc1c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations",
+      "uuid": "456d0deba6a86c9585590550c797502d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cargo Handling",
+      "uuid": "45a9b07c727fe57072130cb2d570239e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cargo Planning",
+      "uuid": "6bf91d19b481794beb0f5bceac6fb90d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Precision Measurements",
+      "uuid": "72b01bcdaa5bbe28f2010a7451a38e5e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Measurements",
+      "uuid": "930aebcb25f70848f337b0e2f0806d41",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "safety standards",
+      "uuid": "ff5210f59866683d92e6b446e965c7c1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43231",
+  "occupationId": "OCC059870",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "1341",
+  "postedCompany": {
+    "uen": "202429217E",
+    "description": null,
+    "name": "SECOND TALENT SG PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T02:22:51.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202429217E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202429217E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202429217E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202429217E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173298",
+    "deletedAt": null,
+    "createdBy": "0e341885-6392-406a-923c-40aa234a0ce4",
+    "createdAt": "2026-01-28T04:06:50.000Z",
+    "updatedAt": "2026-01-28T04:06:50.000Z",
+    "emailRecipient": "0e341885-6392-406a-923c-40aa234a0ce4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 48,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/cargo-officerbunker-clerk-second-talent-sg-131fd958c6e445dec879bfa7df11a791",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/131fd958c6e445dec879bfa7df11a791"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/131fd958c6e445dec879bfa7df11a791/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

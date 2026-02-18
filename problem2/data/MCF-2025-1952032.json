@@ -1,0 +1,206 @@
+{
+  "uuid": "92fbf9895951d0f219448db969dc41c4",
+  "sourceCode": "Employer Portal",
+  "title": "Pet Groomer Assistant",
+  "description": "<ul>\n  <li>Keen to learn &amp; develop into a Professional Pet Groomer but do not possess any relevant experience yet</li>\n  <li>Must be an effective team-player with good communication and interpersonal skills</li>\n  <li>Able to handle dogs (small &amp; large), cats and rabbits with different temperaments</li>\n  <li>Able to work on weekends and public holidays</li>\n  <li>Must have perseverance, love, patience and passion while working with pets</li>\n  <li>Willing to accept teaching from the mentors and work assigned from time to time</li>\n  <li>Maintain Cleanliness</li>\n</ul>\n<p>Singaporean, PR, or Work Permit are welcome to apply.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Communication",
+      "uuid": "07a3dd247ad6bec7fe401aa11619959f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dog Grooming",
+      "uuid": "11b8737cd1cb2a4d07a5144e5eed5022",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dogs",
+      "uuid": "1ec0aec1cdccfcaa6df8e07b40d3e664",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Collaboration",
+      "uuid": "337e8f4aa741ef97ec3ed8fd7b1accb7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Positive Team Player",
+      "uuid": "74945d22a8f5084853d05730d0932307",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pets",
+      "uuid": "750e92a6a691645ba02c20d6620583e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "effective",
+      "uuid": "8726c9b8485d0b0a70278f303831ec9f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Patience",
+      "uuid": "ae1d1ea3807f6f002a10f17c063ea6d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Persistence",
+      "uuid": "da0b472ac86851a3c0b623260d09546c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51941",
+  "occupationId": "OCC008528",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201919296K",
+    "description": "<p>At Pets Everything Today, we strive to deliver the best products with the best service and we strive to be better. Happy pets, happy customers, makes us our top priority, and our team members are passionate about finding new ways to give back to our pets, owners and industry.<br>\n<br>\nP.E.T - “Pets Everything Today” our corporation's name, derived as Pet’s Everything today, and also Pet is Everything Today. It is amazing how much love and laughter pets can bring into our lives.</p>",
+    "name": "PETS EVERYTHING TODAY PTE. LTD.",
+    "ssicCode": "47746",
+    "employeeCount": null,
+    "companyUrl": "www.petseverythingtoday.com",
+    "lastSyncDate": "2026-02-03T05:14:36.000Z",
+    "ssicCode2020": "47746",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201919296K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201919296K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201919296K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201919296K/schemes"
+      }
+    },
+    "logoFileName": "7b645b93d515a58a5e197832e165e7e5/pets-everything-today.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7b645b93d515a58a5e197832e165e7e5/pets-everything-today.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "JALAN SELASEH",
+    "floor": null,
+    "unit": null,
+    "building": "SELETAR HILLS ESTATE",
+    "postalCode": "808442",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 28,
+        "location": "D28 Seletar",
+        "region": "North",
+        "sectors": [
+          "79",
+          "80"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38563764340348,
+    "lng": 103.872921620236
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1952032",
+    "deletedAt": "2026-01-19T17:15:04.000Z",
+    "createdBy": "d98b1a37-09a3-432b-84d2-6c866c7c7c7d",
+    "createdAt": "2025-12-19T21:19:50.000Z",
+    "updatedAt": "2026-01-31T07:58:40.000Z",
+    "emailRecipient": "d98b1a37-09a3-432b-84d2-6c866c7c7c7d",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 171,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2025-12-20",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/pet-groomer-assistant-pets-everything-today-92fbf9895951d0f219448db969dc41c4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/92fbf9895951d0f219448db969dc41c4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/92fbf9895951d0f219448db969dc41c4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

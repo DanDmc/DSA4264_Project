@@ -1,0 +1,200 @@
+{
+  "uuid": "5a7084fab4e4828dc45302a846cce781",
+  "sourceCode": "Employer Portal",
+  "title": "Waitress (5-Star Hotel) (Up to $3000 / 5 days / City Hall)",
+  "description": "<p>Job Title: Waitress (5-Star Hotel) (ID4758)<br />Location: City Hall<br />Working Hours: 5 days per week, 9.5 hours per day.(morning, afternoon, night shifts)<br />Salary : $2800-$3000<br /><br />Waitress (5-Star Hotel)<br />Key Responsibilities :<br />• Provided friendly and professional food and beverage service to guests<br />• Took orders and served food and drinks promptly<br />• Handled payments and operated POS system<br />• Maintained cleanliness of dining and service areas<br />• Worked closely with kitchen and service team to ensure smooth operations<br /><br />Requirements :<br />• Must have 1 years Waitress experience<br />• Good customer service and communication skills</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Retention",
+      "uuid": "05b317f98571a546ce517f9ce18d5467",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Restaurants",
+      "uuid": "386c1f850fbd5f478fb4ef8a134c1740",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Excellence",
+      "uuid": "de436046b830e7e4e4e5e2d62b4b0f08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51312",
+  "occupationId": "OCC009313",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201404928G",
+    "description": "<p>Job Express Services Pte Ltd is a trusted name in the world of recruitment. With years of experience and a team of dedicated professionals, we connect talent with opportunity. Our mission is to help businesses build strong, dynamic teams, and to guide individuals in their career journeys. We pride ourselves on our commitment to excellence and our personalized approach to every client.</p>",
+    "name": "JOB EXPRESS SERVICES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:28:02.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/schemes"
+      }
+    },
+    "logoFileName": "09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "71",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "PRESTIGE CENTRE",
+    "postalCode": "658071",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33830749021002,
+    "lng": 103.755884101534
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1995814",
+    "deletedAt": "2026-01-29T17:15:04.000Z",
+    "createdBy": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "createdAt": "2025-12-30T03:16:04.000Z",
+    "updatedAt": "2026-01-30T01:21:42.000Z",
+    "emailRecipient": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 119,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-12-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/waitress-job-express-services-5a7084fab4e4828dc45302a846cce781",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5a7084fab4e4828dc45302a846cce781"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5a7084fab4e4828dc45302a846cce781/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

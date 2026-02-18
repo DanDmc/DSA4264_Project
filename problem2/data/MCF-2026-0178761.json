@@ -1,0 +1,238 @@
+{
+  "uuid": "e7b47fb8c0c41b1420be5d78a44e37d0",
+  "sourceCode": "Employer Portal",
+  "title": "Application Engineer",
+  "description": "<p><em><strong>We offer attractive benefits such as 5 days week, Flexible Work Arrangement, AWS, Variable Bonus etc. to successful candidate.</strong></em></p><p>We are looking for a talented <strong>Application Engineer</strong> specializing in Building Management Systems (BMS) to join our team. The successful candidate will be responsible for the detailed engineering, programming, testing, and commissioning of BMS projects, ensuring solutions are delivered to the highest standards and tailored to client requirements. You will collaborate with internal teams, clients, and contractors to deliver robust, efficient, and compliant BMS solutions.</p><p><strong>Key Responsibilities</strong></p><ul><li><strong>Project Engineering:</strong><br />Lead or support the detailed engineering of BMS projects in accordance with country-specific standards, from initial design through to commissioning and handover.</li><li><strong>System Design:</strong><br />Review MEP drawings, identify HVAC equipment, sensors, and control devices, and develop BMS network architecture and I/O summaries.</li><li><strong>Control Strategy & Programming:</strong><br />Develop control strategies, program supervisory and DDC controllers, and prepare test plans for BMS systems.</li><li><strong>Hardware & Software Integration:</strong><br />Select and specify sensors, control valves, dampers, controllers, and related components. Ensure proper wiring, terminations, and interlocks.</li><li><strong>Testing & Commissioning:</strong><br />Simulate, test, and deliver defect-free hardware and software packages. Support field commissioning and troubleshooting as needed.</li><li><strong>Documentation:</strong><br />Prepare technical documentation, including bills of materials, control specifications, RFIs, and commissioning packages.</li><li><strong>Quality Assurance:</strong><br />Ensure all deliverables meet required quality standards and project timelines.</li><li><strong>Technical Support:</strong><br />Provide technical advisory and support to field engineers and clients, including retrofit solutions and technical clarifications.</li><li><strong>Continuous Improvement:</strong><br />Stay updated with industry trends, protocols (BACnet, Modbus, LON, OPC), and best practices to enhance system efficiency and effectiveness.</li></ul><p><strong>Qualifications & Experience</strong></p><ul><li>Bachelor’s degree in Instrumentation, Electrical, Electronics, or related engineering field.</li><li>2–5 years of relevant experience in BMS design engineering, building automation, or industrial automation.</li><li>Strong knowledge of HVAC systems (chilled water, cooling towers, AHUs, FCUs, VAVs, etc.) and BMS architecture (operator workstations, supervisory and DDC controllers, sensors, actuators).</li><li>Proficiency in BMS programming, control strategy development, and integration of various protocols (BACnet, Modbus, LON, OPC).</li><li>Experience in engineering, installing, and commissioning BMS and HVAC systems for commercial, industrial, or infrastructure projects.</li><li>Excellent analytical, troubleshooting, and communication skills.</li><li>Ability to work independently and as part of a multidisciplinary team.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wiring",
+      "uuid": "441b65c8a62ed7904574ee78c84b0963",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Advisory",
+      "uuid": "73eb345c8cd548a1ff38f7f670112125",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Automation",
+      "uuid": "8dbe7ba646ec896fd27a18a62fee60d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Instrumentation",
+      "uuid": "d72da0fd17da5eea9c38b196c5f88dfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Engineering",
+      "uuid": "e6b89f3235d8db958edb5d579db7f056",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Management Systems",
+      "uuid": "f7ef8140a5b113d17154600ce0bf0fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "197903671C",
+    "description": "<p>\r\n\tQUANTUM AUTOMATION PTE LTD</p>\r\n<p>\r\n\tA leading engineering company providing solutions for Facilities Management, Fire, Safety and Security, Industrial Automation and Home Automation Systems.</p>\r\n",
+    "name": "QUANTUM AUTOMATION PTE LTD",
+    "ssicCode": "43293",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:14:58.000Z",
+    "ssicCode2020": "43293",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "9",
+    "street": "SENOKO DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "758197",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45896700339317,
+    "lng": 103.796633334344
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178761",
+    "deletedAt": null,
+    "createdBy": "4db22cfb-a39c-467c-a816-59cea5af2e87",
+    "createdAt": "2026-01-29T01:33:45.000Z",
+    "updatedAt": "2026-01-29T01:33:46.000Z",
+    "emailRecipient": "4db22cfb-a39c-467c-a816-59cea5af2e87",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 53,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/application-engineer-quantum-automation-e7b47fb8c0c41b1420be5d78a44e37d0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e7b47fb8c0c41b1420be5d78a44e37d0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e7b47fb8c0c41b1420be5d78a44e37d0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

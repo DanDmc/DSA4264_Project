@@ -1,0 +1,223 @@
+{
+  "uuid": "de250515352b8c7a9c7480094f61a871",
+  "sourceCode": "Employer Portal",
+  "title": "Data Engineer",
+  "description": "<p>Job Title: Data Engineer</p><p><strong>Key Responsibilities</strong>:</p><p>-         Develop, construct, test, and maintain scalable data systems, pipelines, and architectures (data lakes, warehouses). </p><p>-         Collect raw data from various sources, clean it, and transform it into usable formats (ETL/ELT). </p><p>-         Work with data scientists, analysts, and business stakeholders to understand data requirements and deliver solutions. </p><p>-         Improve existing data frameworks, monitor workflows, and troubleshoot issues. </p><p>-         Implement data governance, validation, and security measures.</p><p><strong>Qualifications & Skills</strong>:</p><p><strong>Education</strong>: Polytechnic Diploma or bachelor’s degree in computer science, Data Analytics, Business Intelligence or any related field (or equivalent experience).  </p><p><strong>Experience</strong>: </p><p>-         Programming: Strong Python and SQL skills are fundamental, with Java/Scala useful for big data.</p><p>-         Databases: Experience with relational (PostgreSQL, MySQL) and NoSQL databases (MongoDB).</p><p>-         Cloud Platforms: Proficiency in major cloud providers (AWS, Azure, GCP) for data services (S3, Redshift, EMR, etc.).</p><p>-         Big Data: Working knowledge of tools like Apache Spark, Kafka, and Hadoop.</p><p>-         ETL/ELT: Designing and implementing data extraction, transformation, and loading processes.</p><p>-         Data Warehousing: Concepts and tools for storing large datasets (e.g., Redshift, Snowflake).</p><p>-         Orchestration: Tools like Apache Airflow for scheduling and managing workflows.</p><p>-         Data Modeling: Designing efficient database and data warehouse schemas.</p><p><strong>Technical</strong> <strong>Skills</strong>: </p><p>-         Programming: Python, Java, SQL (essential).</p><p>-         Databases: Relational (SQL) & NoSQL databases.</p><p>-         Big Data Tools: Hadoop, Spark (often).</p><p>-         Cloud Platforms: AWS, Azure, GCP (increasingly common).</p><p>-         ETL/ELT Tools: Expertise in data integration tools.</p><p>-         Software Engineering: Strong understanding of data structures and algorithms.</p><p><strong>Soft Skills</strong>:  </p><p>-         Strong analytical and problem-solving abilities.  </p><p>-         Good communication skills to collaborate with non-technical teams.  </p><p>-         Eagerness to learn and adapt in a fast-paced environment</p><p>-         Open to learn new software or BI tools in the market.</p><p><strong>Nice to Have</strong>: </p><p><a href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\"></a>-         Experience with BI or Reporting tools (publishing, scheduling, permissions)<br /><br />-         Knowledge of GitHub, GitLab</p><p>-         Knowledge of SDLC & DDLC</p><p>-         Understanding of Agile/Scrum methodologies.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Scala",
+      "uuid": "3012dcff1477e1feaab81764587c9bbd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Big Data",
+      "uuid": "3a9c1c8521b12754fc7582be72383e28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Structures",
+      "uuid": "49110ba9c7e157360ed1b72f643bc1a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hadoop",
+      "uuid": "53eb3dcfbb4c210bcd4fe1a985d7c946",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Integration",
+      "uuid": "6d8ab8489413756b1af6bdab6b80863e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Spark",
+      "uuid": "8cde774d6f7333752ed72cacddb05126",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analytics",
+      "uuid": "e19e98a669ae21f94ffd1659998fd072",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Visualization",
+      "uuid": "f9537812feb3143e5189f1921693b550",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199904845D",
+    "description": "<p>MINDTECK SINGAPORE PTE LTD</p>\r\n\r\n<p>Mindteck, a global technology company established in 1991, provides Product Engineering services to medical device companies, the  energy industry and equipment OEMs, and Information Technology services to government entities, analytical/scientific instrument  manufacturers, top-tier semiconductor companies and financial services companies in the Global 2000. Its depth of knowledge and niche expertise in embedded systems and enterprise applications is complemented by dedicated Centers of Excellence in wireless design and storage testing. </p>\r\n\r\n<p>Presently, Mindteck employs over 1,000 individuals throughout offices in the US and UK, Singapore, Malaysia, Bahrain and India. It also has four development centers (US, Singapore and India [Kolkata, Bangalore]).</p>\r\n\r\n<p>The company is listed on the Bombay Stock Exchange (BSE 517344) and is among a select group of global companies appraised at Maturity Level 5, Version 1.3 of the CMMI Institute’s Capability Maturity Model Integration (CMMI). </p>\r\n\r\n<p> </p>\r\n",
+    "name": "MINDTECK SINGAPORE PTE LTD",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T07:26:47.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "100",
+    "street": "JURONG EAST STREET 21",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "609602",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33649305490517,
+    "lng": 103.744121479437
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176217",
+    "deletedAt": null,
+    "createdBy": "3430db92-2286-4e25-8b45-217f4e42777a",
+    "createdAt": "2026-01-28T09:15:17.000Z",
+    "updatedAt": "2026-01-28T09:15:17.000Z",
+    "emailRecipient": "3430db92-2286-4e25-8b45-217f4e42777a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 133,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 22,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-mindteck-singapore-de250515352b8c7a9c7480094f61a871",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/de250515352b8c7a9c7480094f61a871"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/de250515352b8c7a9c7480094f61a871/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

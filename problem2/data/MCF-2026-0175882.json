@@ -1,0 +1,200 @@
+{
+  "uuid": "bfdc95016b734fd6db1353806bce856d",
+  "sourceCode": "Employer Portal",
+  "title": "Office Cleaner",
+  "description": "<p><strong>Job Description:</strong></p><ul><li><p>Perform daily office cleaning duties to ensure a clean and tidy working environment, including vacuuming/ sweeping, mopping the floors, dusting, wiping tables, clearing trash bins, cleaning office glass doors, windows (reachable areas) and partitions.</p></li><li><p>Clean designated areas including the Managing Director’s, Directors’ and Manager’s rooms, pantry, meeting rooms, office common areas.</p></li><li><p>Carry out periodically cleaning of pantry appliances such as refrigerator, microwave, oven, coffee machine etc.</p></li><li><p>Empty all trash and recycling bins and ensure proper disposal of waste.</p></li><li><p>Refill pantry supplies (e.g. biscuits, coffee, tea, kitchen towels) when required.</p></li></ul><ul><li><p>Report any maintenance issues, damages or low supplies to the Supervisor.</p></li><li><p>Perform other ad hoc duties as assigned by Management or Supervisor.<br /></p></li></ul><p><strong> Job Requirements:</strong></p><ul><li><p>No formal education required.</p></li><li><p>Relevant cleaning or housekeeping experience is an advantage.</p></li><li><p>Ability to handle basic cleaning equipment and materials.</p></li><li><p>Able to perform cleaning tasks including standing, bending, lifting and carrying cleaning equipment.</p></li></ul><ul><li><p>Able to work independently with minimal supervision.</p></li><li><p>Responsible, reliable and punctual.</p></li><li><p>No work pass quota<br /></p></li></ul><p> <strong>Working Hours:</strong></p><p>Monday to Friday: 8am to 5pm (incl. 1hr lunch break)</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91131",
+  "occupationId": "OCC061393",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200706729G",
+    "description": null,
+    "name": "JF FOUNDATION PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T17:15:19.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706729G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706729G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706729G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706729G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "65",
+    "street": "SIMS AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "YI XIU FACTORY BUILDING",
+    "postalCode": "387418",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31416610677453,
+    "lng": 103.876535254949
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175882",
+    "deletedAt": null,
+    "createdBy": "064a20e2-df07-4810-8cdf-2f429519d61d",
+    "createdAt": "2026-01-28T08:53:35.000Z",
+    "updatedAt": "2026-01-28T08:53:35.000Z",
+    "emailRecipient": "064a20e2-df07-4810-8cdf-2f429519d61d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 133,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/office-cleaner-jf-foundation-bfdc95016b734fd6db1353806bce856d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1800,
+    "minimum": 1600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bfdc95016b734fd6db1353806bce856d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bfdc95016b734fd6db1353806bce856d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

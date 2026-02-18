@@ -1,0 +1,247 @@
+{
+  "uuid": "53a67bb62adbed044d81533a0da441a6",
+  "sourceCode": "Employer Portal",
+  "title": "TCM Physician",
+  "description": "<p>We are an established MOH licensed medical clinic of over 7 years looking to expand our services for acupuncture / TCM. <br />Currently we are looking for part-time initially to gain patients and subsequently converting to full-time. <br />We are located in the CBD area. <br /></p><p><strong>Requirements / Job Description</strong></p><p>The candidate should have diploma or degree and registration with TCM practioners board in Singapore <br />At least 2 years of experience<br />Are able to develop a variety of programs using their TCM skills <br />Has good communication skills and interpersonal skills to develop good rapport with patients <br />Not shy to be in marketing videos and able to give educational talks when required.<br /></p><p><strong>Part-Time Role</strong><br /><br /><strong>Salary:</strong> TBD</p><p><br /></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Acupuncture medicine",
+      "uuid": "014ca5537863c11db3f16c5a98e9e26e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Hospitals",
+      "uuid": "2bc847796054c051667ee4170b25ae41",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Direct Patient Care",
+      "uuid": "46417b5e91bda6f197a9a011ac107685",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Traditional Chinese Medicine",
+      "uuid": "5dc2a02d462a6822a49f8419cdfcf29f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Acupuncture",
+      "uuid": "5df806cd4d51dddbb591ad8df0fd4c42",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Treatment Planning",
+      "uuid": "775e05e952e8dbf51c767dc207d4b7fe",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    },
+    {
+      "id": 2,
+      "flexibleWorkArrangement": "Telecommuting"
+    },
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    },
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    },
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    },
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "22302",
+  "occupationId": "OCC006799",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    },
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    },
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201825616R",
+    "description": null,
+    "name": "AQUILA MEDICAL PTE. LTD.",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T13:43:30.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "160",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE BUSINESS FEDERATION CENTER",
+    "postalCode": "068914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27812790985949,
+    "lng": 103.847854628243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174264",
+    "deletedAt": null,
+    "createdBy": "3e8df24a-24ad-4d4a-9e2b-cd4555bc624b",
+    "createdAt": "2026-01-28T06:15:33.000Z",
+    "updatedAt": "2026-01-28T06:15:33.000Z",
+    "emailRecipient": "3e8df24a-24ad-4d4a-9e2b-cd4555bc624b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/tcm-physician-aquila-medical-53a67bb62adbed044d81533a0da441a6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 1000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/53a67bb62adbed044d81533a0da441a6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/53a67bb62adbed044d81533a0da441a6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

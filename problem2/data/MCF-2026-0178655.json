@@ -1,0 +1,206 @@
+{
+  "uuid": "52407bab33f5d050f0cce0953c0fcf02",
+  "sourceCode": "Employer Portal",
+  "title": "Technical Support Assistant (Up to $3000 / 5 days / Joo Koon)",
+  "description": "<p>Job Title: Technical Support Assistant (M1-1027)<br />Location: Joo Koon<br />Working Hours: Mon-Fri 8am-5.10pm<br />Salary: $2800-$3000<br /><br />Responsibilities<br />• Perform regular checks in inventory software system to ensure inventories are in place<br />• Perform regular repairs and maintenance of yard and workshop tools and equipment<br />• Help maintain the tool room through 5S initiatives and good housekeeping practices<br /><br />Requirement<br />• Relevant technical certification<br />• Basic technical knowledge on tooling and vehicle maintenance<br />• Computer literate to navigate inventory system and Microsoft Office suite required on the job<br />• Class 3 driving license. Candidates with forklift driving license will be an added advantage<br />• Able to work with minimal supervision<br />• Able to work overtime including weekends</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "5S",
+      "uuid": "5222a0e0df9790a0e86c4dc688aaa034",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201404928G",
+    "description": "<p>Job Express Services Pte Ltd is a trusted name in the world of recruitment. With years of experience and a team of dedicated professionals, we connect talent with opportunity. Our mission is to help businesses build strong, dynamic teams, and to guide individuals in their career journeys. We pride ourselves on our commitment to excellence and our personalized approach to every client.</p>",
+    "name": "JOB EXPRESS SERVICES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:28:02.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/schemes"
+      }
+    },
+    "logoFileName": "09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "71",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "PRESTIGE CENTRE",
+    "postalCode": "658071",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33830749021002,
+    "lng": 103.755884101534
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178655",
+    "deletedAt": null,
+    "createdBy": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "createdAt": "2026-01-29T01:24:12.000Z",
+    "updatedAt": "2026-01-29T01:24:12.000Z",
+    "emailRecipient": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/technical-support-assistant-job-express-services-52407bab33f5d050f0cce0953c0fcf02",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/52407bab33f5d050f0cce0953c0fcf02"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/52407bab33f5d050f0cce0953c0fcf02/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

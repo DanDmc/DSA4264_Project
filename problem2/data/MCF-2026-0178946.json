@@ -1,0 +1,237 @@
+{
+  "uuid": "99f48465a9739650e6c7a4d0cf0ddd3f",
+  "sourceCode": "Employer Portal",
+  "title": "Production Technician",
+  "description": "<h5>Job Description &amp; Requirements</h5>\n<ul>\n  <li>Start up and shut down processing equipment.</li>\n  <li>Prepare and assemble materials.</li>\n  <li>Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.</li>\n  <li>Monitor and adjust production processes or equipment for quality and productivity.</li>\n  <li>Able to work well independently as well as in a team.</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Independently",
+      "uuid": "3d059b652e8d92de5b85660d5efba49a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "5S",
+      "uuid": "5222a0e0df9790a0e86c4dc688aaa034",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35219",
+  "occupationId": "OCC009015",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201010257K",
+    "description": "<p>SINOPEC LUBRICANT (SINGAPORE) PTE. LTD.</p>    <p>China Petroleum & Chemical Corporation (hereinafter called “Sinopec Corp.” or “the Company”) is an integrated energy and chemical Company with principal businesses of exploration, production and trading of petroleum and natural gas, refining and sales of petroleum products as well as production and sales of chemical products.</p>    <p>Sinopec ranked the 2nd in the Fortune Global 500; The Company’s major chemical products include ethylene, synthetic resins, monomers and polymers for synthetic fibres, synthetic fibre and synthetic rubbers.</p>    <p>Sinopec Lubricant is the only manufacturing plant of Sinopec Corp. outside China. With our plant in Tuas manufacturing lubricant and grease,we are inviting highly motivated and competent individuals to join us for the following position.</p>  ",
+    "name": "SINOPEC LUBRICANT (SINGAPORE) PTE. LTD.",
+    "ssicCode": "19202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T01:30:33.000Z",
+    "ssicCode2020": "19202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010257K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010257K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010257K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010257K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "150",
+    "street": "TUAS SOUTH AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": "SINOPEC LUBRICANT SINGAPORE COMPANY",
+    "postalCode": "637363",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.27364143728238,
+    "lng": 103.620434479708
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178946",
+    "deletedAt": null,
+    "createdBy": "a484663a-fd82-484b-a76b-39d998260ea4",
+    "createdAt": "2026-01-29T01:52:11.000Z",
+    "updatedAt": "2026-01-29T01:52:11.000Z",
+    "emailRecipient": "a484663a-fd82-484b-a76b-39d998260ea4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 163,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/production-technician-sinopec-lubricant-99f48465a9739650e6c7a4d0cf0ddd3f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/99f48465a9739650e6c7a4d0cf0ddd3f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/99f48465a9739650e6c7a4d0cf0ddd3f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

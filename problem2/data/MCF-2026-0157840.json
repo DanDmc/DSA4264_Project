@@ -1,0 +1,209 @@
+{
+  "uuid": "47de4710e410dd15c09197f1667a7a76",
+  "sourceCode": "Employer Portal",
+  "title": "SERVICE STAFF",
+  "description": "<p>Responsible for taking orders and serving food and beverages to guests</p>\n<p>Polite, friendly and well groom</p>\n<p>Verifying the identification and age of any customers order alcoholic beverages</p>\n<p>Submitting food orders to the kitchen staff</p>\n<p>Ensure customer satisfied with their meal</p>\n<p>Work with kitchen staff to resolve any complaints and process customer payments</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Teamwork",
+      "uuid": "16c129bc8a57941c7cdb12241f1058fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process customer payments",
+      "uuid": "27cb6e67b2d1bc32288d002513552650",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Taking orders",
+      "uuid": "53eeacb81025141383b0cba6b6186537",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Building",
+      "uuid": "bc42c84d156c4f70ff6ba18d466fedeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "friendly",
+      "uuid": "be68582f77aecadc0389a785aefd64e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "serving food",
+      "uuid": "eaa51180feefaaeae777473b44bcad18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "polite",
+      "uuid": "f3c2011639f8c82a36fe5279d6f019c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "resolve complaints",
+      "uuid": "ff7a8e88ef86d83560f538c1905b9379",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51312",
+  "occupationId": "OCC009313",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "1323",
+  "postedCompany": {
+    "uen": "201839247K",
+    "description": null,
+    "name": "UNICO TOTAL SOLUTION PTE. LTD.",
+    "ssicCode": "78102",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:20:52.000Z",
+    "ssicCode2020": "78102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839247K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839247K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839247K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839247K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "FISHERY PORT ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "619732",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31074723924416,
+    "lng": 103.722301237315
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157840",
+    "deletedAt": null,
+    "createdBy": "7c966a07-23c7-4d52-b884-a6ffb10329ac",
+    "createdAt": "2026-01-26T05:56:37.000Z",
+    "updatedAt": "2026-01-26T05:56:37.000Z",
+    "emailRecipient": "7c966a07-23c7-4d52-b884-a6ffb10329ac",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 49,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/service-staff-unico-total-solution-47de4710e410dd15c09197f1667a7a76",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/47de4710e410dd15c09197f1667a7a76"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/47de4710e410dd15c09197f1667a7a76/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

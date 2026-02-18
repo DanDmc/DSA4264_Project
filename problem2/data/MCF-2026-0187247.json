@@ -1,0 +1,204 @@
+{
+  "uuid": "18d812139636f3b176391baf053f5449",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Support Specialist",
+  "description": "<p>As our <strong>Sales Support Specialist</strong>, your role is not to sell, but to ensure the smooth execution of sales processes, customer satisfaction and compliance. This role requires responsibility and responsiveness in communication with customers and internally among our teams.</p><p><strong>Key Responsibilities:</strong></p><ul><li>Prepare and submit required official applications/submissions to ensure compliance.</li><li>Track refund reasons and completion status, maintain refund records for audit reference.</li><li>Maintain structured digital filing systems, support document retrieval for audits or disputes.</li><li>Scheduling with customers, for site visits and installation.</li><li>Preparation of order forms.</li><li>Maintain and monitor order tracking sheet to ensure orders are fulfilled early or on time.</li><li>QC items according to order sheet and prepare necessary paperwork for delivery.</li><li>Address post-sales customer enquiries and resolve matters in a timely manner.</li></ul><p><strong>Qualifications:</strong></p><ul><li><strong>Education:</strong> Does not matter to us.</li><li><strong>Experience:</strong> Proven experience in order tracking, sales support, customer service, data entry, or a similar role.</li><li><strong>Technical Proficiency:</strong> Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)</li><li><strong>Language:</strong> Proficiency in English is required; additional language skills are a plus.</li><li><strong>Personal Traits:</strong> Highly organized, with great communication skills.</li></ul><p><strong>Salary Range:</strong> $2,500 - $4,000 monthly, commensurates with experience duration and relevancy.</p><p><strong>Vacancy:</strong> Immediate</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Support",
+      "uuid": "45db51f999b9e9fc7263a7e0ebc2d7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "After-Sales Service",
+      "uuid": "b162079bfef589f95a561c1cc40ee26b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC007877",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202408102K",
+    "description": null,
+    "name": "IRUSU PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T03:17:50.000Z",
+    "ssicCode2020": "43307",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408102K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408102K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408102K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408102K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ADMIRALTY STREET",
+    "floor": null,
+    "unit": null,
+    "building": "NORTH LINK BUILDING",
+    "postalCode": "757695",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.46237118146811,
+    "lng": 103.812451896813
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187247",
+    "deletedAt": null,
+    "createdBy": "feefdb20-83fb-49e8-9a3e-733158ab455b",
+    "createdAt": "2026-01-30T03:24:13.000Z",
+    "updatedAt": "2026-01-30T03:24:13.000Z",
+    "emailRecipient": "feefdb20-83fb-49e8-9a3e-733158ab455b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 116,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-20",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/sales-support-specialist-irusu-18d812139636f3b176391baf053f5449",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/18d812139636f3b176391baf053f5449"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/18d812139636f3b176391baf053f5449/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

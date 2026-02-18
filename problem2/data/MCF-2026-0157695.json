@@ -1,0 +1,239 @@
+{
+  "uuid": "d985f6dfe441de3235363da07b1f21b1",
+  "sourceCode": "Employer Portal",
+  "title": "YOGA INSTRUCTOR",
+  "description": "<h2>Job Overview</h2><p>We are looking for a passionate and certified Yoga Instructor to join our growing team at Avante Gym & Yoga. The ideal candidate is energetic, professional, and committed to helping members improve their strength, flexibility, and overall well-being through safe and effective yoga practice.</p><h2>Key Responsibilities</h2><ul><li><p>Conduct group and/or private yoga classes (e.g. Hatha, Vinyasa, Yin Yang, Stretch, Beginner Yoga, etc.)</p></li><li><p>Plan and structure classes suitable for different levels (beginner to intermediate)</p></li><li><p>Provide clear instructions, demonstrations, and safe adjustments when appropriate</p></li><li><p>Ensure a safe, welcoming, and positive class environment</p></li><li><p>Build rapport with members and encourage long-term practice</p></li><li><p>Maintain punctuality and professionalism for all scheduled classes</p></li><li><p>Assist with basic studio duties before and after class (setup, cleanliness)</p></li><li><p>Follow studio policies and uphold Avante Gym & Yoga brand values</p></li></ul><h2>Requirements</h2><ul><li><p>Certified Yoga Instructor (RYT 200 or equivalent recognised certification)</p></li><li><p>Prior teaching experience preferred (newly certified instructors may apply)</p></li><li><p>Strong communication and interpersonal skills</p></li><li><p>Positive attitude, reliable, and team-oriented</p></li><li><p>Ability to teach confidently to groups</p></li></ul><h2>What We Offer</h2><ul><li><p>Supportive and friendly team environment</p></li><li><p>Opportunity to grow with a well-established gym & yoga studio</p></li><li><p>Flexible working arrangements (for part-time / freelance roles)</p></li><li><p>Complimentary gym / yoga access </p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Personal Training",
+      "uuid": "1dccb9e0e758a9645b4d266ed28ad4f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lifestyle",
+      "uuid": "1efd5a4cb7e8b445ad239f0226526c5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Yoga",
+      "uuid": "8be1c94fdc10945f5704322b08faa2a2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Teaching Experience",
+      "uuid": "b95527420daa0f8ca9ad9ed2c53ef6f0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Wellbeing",
+      "uuid": "c540e0c47d34f94257d9a93cc63b77e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching Children",
+      "uuid": "c5b135299985dd2e7681fbcdbab3e534",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Yoga Instructor",
+      "uuid": "db4d4e2f526c6a72a394a9fb2d4dc05e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Teacher Training",
+      "uuid": "e3784fc5ae0da9f2181556873f57e5a0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34223",
+  "occupationId": "OCC008481",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 3,
+      "category": "Advertising / Media"
+    },
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 13,
+      "category": "Environment / Health"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202299988G",
+    "description": null,
+    "name": "AVANTE GYM & YOGA PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T07:17:23.000Z",
+    "ssicCode2020": "93111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202299988G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202299988G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202299988G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202299988G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "176",
+    "street": "ORCHARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "THE CENTREPOINT",
+    "postalCode": "238843",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30197804494229,
+    "lng": 103.839758893141
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157695",
+    "deletedAt": null,
+    "createdBy": "f906691d-9e9b-4c2d-9eb3-9157a696f08b",
+    "createdAt": "2026-01-26T05:35:42.000Z",
+    "updatedAt": "2026-01-26T05:35:43.000Z",
+    "emailRecipient": "f906691d-9e9b-4c2d-9eb3-9157a696f08b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 89,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/advertising/yoga-instructor-avante-gym-yoga-d985f6dfe441de3235363da07b1f21b1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 1200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d985f6dfe441de3235363da07b1f21b1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d985f6dfe441de3235363da07b1f21b1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

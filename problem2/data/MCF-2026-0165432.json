@@ -1,0 +1,240 @@
+{
+  "uuid": "97cf5bf0754ba05fc228d1ac5ec67675",
+  "sourceCode": "Employer Portal",
+  "title": "Software Developer",
+  "description": "<h3>Responsibilities</h3><ul><li><p>Analyse complex business requirements and translate them into scalable, enterprise-grade Salesforce solutions</p></li><li><p>Design, develop, and maintain advanced Salesforce functionality using Apex, triggers, and custom UI components</p></li><li><p>Diagnose and resolve system issues across integrated Salesforce environments</p></li><li><p>Collaborate with business and technical stakeholders to validate requirements and provide solution recommendations</p></li><li><p>Implement and manage integrations with external platforms and government systems using Salesforce APIs</p></li><li><p>Ensure adherence to Salesforce best practices, security standards, and documentation requirements</p></li></ul><h3>Requirements</h3><ul><li><p>Salesforce Platform Developer certification is must for designing, building, and deploying custom applications, user interfaces, and business logic using Apex and Visualforce on the Lightning Platform.</p></li><li><p>Minimum 3 to 5 years of hands-on Salesforce development experience, with strong expertise in Service Cloud</p></li><li><p>Advanced experience in Salesforce customisation, including Apex, Visualforce, and Lightning development</p></li><li><p>Proven experience with system integrations (APIs, SFTP) and large-scale data migration using CRM tools; experience with DB2-based systems (e.g. Curam) is advantageous</p></li><li><p>Strong Salesforce configuration and administration experience, including security controls, automation, data models, and reporting</p></li><li><p>Experience with Salesforce Public Sector Solutions, OmniStudio, or OmniScript is an added advantage</p></li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "CSS",
+      "uuid": "2c56c360580420d293172f42d85dfbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salesforce",
+      "uuid": "4a6dbb2ff650f82af801f71c3efd72c3",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UI",
+      "uuid": "71ff71526d15db86eb50fcac245d183b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Migration",
+      "uuid": "9b699c59be5ba510cd9c430a31843b23",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Salesforce Administrator",
+      "uuid": "d6551c617c5ff454fb56dbf5b005077b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualforce",
+      "uuid": "ec04a20c4d308665c19387a834fa41b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "201327767Z",
+    "description": "<p>Welcome to Skubbs, where we're on a mission to make technology more delightful and accessible for everyone. Our mission is simple yet powerful: \"To deliver, with excellence, timely apps that users love to use.\" At Skubbs, we're not just creating apps; we're crafting experiences that leave users excited, engaged, and satisfied. Our vision is equally inspiring: \"To be equated with apps that everyone loves,\" reflecting our commitment to setting the gold standard for user-centric app development.<br>\n<br>\nOur Values:<br>\n<br>\nAt the heart of our company culture are four core value pillars that shape everything we do:<br>\n<br>\nPassion: We're passionate about our work, and it shows in the apps we create. Our enthusiasm fuels our creativity and drives us to go above and beyond to exceed expectations.<br>\n<br>\nConstant Improvements: We thrive on learning and growth. Embracing change, we're always looking for ways to make our apps better, staying ahead of the curve in the ever-evolving tech landscape.<br>\n<br>\nTeamwork: Collaboration is our secret sauce. We believe that diverse talents coming together lead to innovation and success. Our teams are supportive, respectful, and inclusive.<br>\n<br>\nInnovativeness: Innovation is in our DNA. We encourage daring ideas, out-of-the-box thinking, and pushing boundaries. Our commitment to innovation keeps us at the forefront of the industry.<br>\n<br>\nWhy Join Us:<br>\n<br>\nSkubbs isn't just a workplace; it's a community of creative minds dedicated to making a difference in the tech world. Here's why you should consider being a part of our dynamic team:<br>\n<br>\nInnovative Culture: Skubbs is the place to be if you want to be at the forefront of technology. Your ideas and creativity will be valued and celebrated.<br>\n<br>\nProfessional Growth: We invest in your development and provide opportunities for you to learn, grow, and advance in your career.<br>\n<br>\nWork-Life Harmony: We believe in balance. We offer flexible work arrangements and prioritize your well-being.<br>\n<br>\nFun and Professionalism: We maintain a professional environment while ensuring there's room for fun and celebration. Expect regular team-building activities and moments of shared joy.<br>\n<br>\nImpactful Work: Your contributions will directly impact our mission of creating apps that users genuinely love and enjoy.<br>\n<br>\nIf you're ready to join a company that's not just building apps but shaping experiences, and if you're passionate about technology, innovation, and making a difference, Skubbs is the place for you. Come be a part of our journey towards becoming synonymous with apps that everyone loves.<br>\n<br>\nSkubbs is an equal opportunity employer. We celebrate diversity and welcome candidates from all backgrounds.</p>",
+    "name": "SKUBBS PRIVATE LIMITED",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": "skubbs.com",
+    "lastSyncDate": "2026-02-04T05:29:15.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327767Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327767Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327767Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327767Z/schemes"
+      }
+    },
+    "logoFileName": "056f7042b7503eb58f80df10d2ddc7c4/skubbs.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/056f7042b7503eb58f80df10d2ddc7c4/skubbs.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "180",
+    "street": "BENCOOLEN STREET",
+    "floor": null,
+    "unit": null,
+    "building": "THE BENCOOLEN",
+    "postalCode": "189646",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30166216224295,
+    "lng": 103.853356159052
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165432",
+    "deletedAt": null,
+    "createdBy": "b82a82b2-b3f6-4b4c-b2d4-0a9a56a679dc",
+    "createdAt": "2026-01-27T04:39:06.000Z",
+    "updatedAt": "2026-01-27T04:39:06.000Z",
+    "emailRecipient": "b82a82b2-b3f6-4b4c-b2d4-0a9a56a679dc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 176,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-skubbs-97cf5bf0754ba05fc228d1ac5ec67675",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/97cf5bf0754ba05fc228d1ac5ec67675"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/97cf5bf0754ba05fc228d1ac5ec67675/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

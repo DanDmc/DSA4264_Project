@@ -1,0 +1,242 @@
+{
+  "uuid": "83d726a6a9dd255afad0febeff9d59a6",
+  "sourceCode": "Employer Portal",
+  "title": "project accountant",
+  "description": "<p>- Manage daily accounting transactions for ship repair projects, including labor, materials, and subcontractor costs.</p><p>- Prepare, verify, and process invoices for shipowners, agents, vendors, and repair subcontractors.</p><p>- Track project-specific budgets, monitor cost allocations, and report variances for repair jobs.</p><p>- Coordinate with yard operations, procurement, and project managers to ensure accurate job costing and documentation.</p><p>- Maintain accounts receivable and accounts payable ledgers for ongoing and completed repair work.</p><p>- Reconcile bank statements and support month-end and year-end closing processes.</p><p>- Generate financial statements, repair job summaries, and management reports required for audits or client review.</p><p>- Ensure compliance with company policies, maritime regulations, and local tax laws in accounting practices.</p><p>- Assist with cost estimation, payroll, inventory tracking, and ad hoc tasks related to shipyard operations.</p><p>- Liaise with external auditors and contribute to continuous process improvement within the ship repair business.</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Process Improvement",
+      "uuid": "48f682e7ada7c952b92dcfd0a776e77c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ACCA",
+      "uuid": "4ce9a1b2a402a5e6476d587279876d88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33131",
+  "occupationId": "OCC007322",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201430308D",
+    "description": "<p>MR MARINE PTE. LTD.</p>",
+    "name": "STARK MARINE PTE. LTD.",
+    "ssicCode": "30110",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:31:32.000Z",
+    "ssicCode2020": "30110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "TUAS SOUTH STREET 3",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "638028",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.30394472540547,
+    "lng": 103.628516425847
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1830443",
+    "deletedAt": "2025-12-01T06:58:33.000Z",
+    "createdBy": "64e5115d-745a-4128-b085-80003d63163a",
+    "createdAt": "2025-11-28T09:17:22.000Z",
+    "updatedAt": "2026-01-27T08:33:21.000Z",
+    "emailRecipient": "64e5115d-745a-4128-b085-80003d63163a",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 242,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-11-28",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 21,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/project-accountant-stark-marine-83d726a6a9dd255afad0febeff9d59a6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/83d726a6a9dd255afad0febeff9d59a6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/83d726a6a9dd255afad0febeff9d59a6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

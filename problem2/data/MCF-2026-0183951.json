@@ -1,0 +1,238 @@
+{
+  "uuid": "85d0f84158c44cdb36bee68f8d093561",
+  "sourceCode": "Employer Portal",
+  "title": "Delivery Driver",
+  "description": "<p><strong>Job Description:</strong></p><ul><li>Drive Class 3 vehicles (van / light truck) as assigned by the company to collect parcels, store them at the required temperature, organize, and deliver to customers</li><li>Ensure the correct quantity and quality of goods are delivered safely and on time, minimizing damage and loss</li><li>Independently load and unload goods and hand over deliveries according to customer requirements</li><li>Assist the warehouse team with housekeeping and basic facility maintenance</li><li>Conduct daily vehicle inspections and cleaning; promptly report any vehicle faults or abnormalities</li><li>Comply with traffic regulations and company safety operating procedures</li><li>Perform any other ad-hoc duties as assigned by the supervisor</li></ul><p><strong>Job Requirement:</strong></p><ul><li>Possess a valid Singapore Class 3 /4 driving license</li><li>Minimum 1 year of driving experience</li><li>Familiar with Singapore roads and traffic regulations; delivery experience is an advantage</li><li>Physically fit and able to perform loading and unloading duties</li><li>Careful, responsible, and detail-oriented</li><li>Good communication skills with a strong service mindset</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Good Driving Record",
+      "uuid": "00d2d4682295ed322013795f93bc5943",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 License",
+      "uuid": "050dd67a228da14c9491d52d038e42ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83223",
+  "occupationId": "OCC061029",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "03",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202245757M",
+    "description": "<p>Big Sailing International (Foodmax) originated from Dingdong Maicai (NYSE: DDL), China's leading fresh food retail platform. Founded in May 2017 and headquartered in Shanghai, China, Foodmax is a fresh food supply chain company focused on delicious food. We provide global customers with food supply chain services including direct sourcing from the source, cross-border customs clearance, product development, warehousing and processing, cold chain logistics, and sales services.</p>",
+    "name": "BIG SAILING INTERNATIONAL PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:31:00.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202245757M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202245757M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202245757M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202245757M/schemes"
+      }
+    },
+    "logoFileName": "831474194517f8c3181d15ee1c57d97f/big-sailing-international.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/831474194517f8c3181d15ee1c57d97f/big-sailing-international.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6",
+    "street": "RAFFLES QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "048580",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28181231655011,
+    "lng": 103.851384344667
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183951",
+    "deletedAt": null,
+    "createdBy": "4eeea1b1-3918-476c-8443-ff017f084be5",
+    "createdAt": "2026-01-29T10:26:59.000Z",
+    "updatedAt": "2026-01-29T10:26:59.000Z",
+    "emailRecipient": "4eeea1b1-3918-476c-8443-ff017f084be5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 101,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/delivery-driver-big-sailing-international-85d0f84158c44cdb36bee68f8d093561",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/85d0f84158c44cdb36bee68f8d093561"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/85d0f84158c44cdb36bee68f8d093561/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

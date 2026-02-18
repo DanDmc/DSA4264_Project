@@ -1,0 +1,240 @@
+{
+  "uuid": "025a94284b00f64fd7ca0fa5c63726be",
+  "sourceCode": "Employer Portal",
+  "title": "SOFTWARE ENGINEER / DEVELOPER (JUNIOR)  (Beckhoff PLC)",
+  "description": "<p><strong>SOFTWARE ENGINEER / DEVELOPER (JUNIOR) - Work Location : UBI</strong><br /><strong>(Beckhoff PLC</strong>)<br />Work Location: UBI</p><p><strong>JOB SUMMARY</strong><br />As a leading and technologically advanced company, our business activities center on developing, manufacturing, and marketing machinery and equipment in the fields of vacuum coating technology, surface engineering, wet chemistry, and thermal processing technologies.</p><p>The Software Engineer shall provide software support to the customer and also be entrusted to document the implementation of codes, configurations, and how the problems were identified and resolved for the customer. The individual is also required to conduct electrical troubleshooting as well. The individual will be working in project teams, support commissioning on-site, and supervise customers during production launch and customer training both locally and abroad.</p><p><strong>RESPONSIBILITIES AND DUTIES</strong><br />The individual is expected to be on-site local and overseas. The individual is to report to the CEO or Head of Projects he or she is assigned to.</p><p><strong>Provide software support:</strong><br />• Attend to customers’ software coding and troubleshooting needs <br />• Documentation of software development and configurations. <br />• Documentation of identified problems and solutions for knowledge management</p><p><strong>Project management </strong><br />• As and when required by the CEO to be assigned as project manager of a project <br />• To prepare and maintain the Project Charter <br />• Working closely with the Project Sponsor / Owner (typically the customer), obtain approval for the contents of the Project Charter from the CEO and sign-off by Project Sponsor / Owner <br />• Identify and define the project (vision, objectives, scope, deliverables) <br />• Maintain and plan the project organisation (customers / stakeholders, roles, responsibilities, structure) <br />• Maintain and plan the project plan (Timeline and work breakdown plan, resource plan, financial plan, quality plan) <br />• Identify project considerations (risks and mitigation, issues, assumptions, constraints).<br /><br /><strong>Implementation / installation of products and solutions on site </strong><br />• On-site commissioning of products / services <br />• Supervision of customers during production launch <br />• Customer training</p><p><strong>QUALIFICATIONS AND SKILLS</strong> <br />• Degree in Electronics or Electrical or Mechanical Engineering <br />• Minimum 2 years’ experience in PLC programming and project management <br />• Good verbal, reading and writing skills <br />• Possess good knowledge in control system configuration, third-party equipment <br />integration, startup of process control projects, or on-going system maintenance / support <br />• Good knowledge of Twincat PLC 2.x and/or Twincat 3 <br />• Very good programming knowledge for structured text according to IEC 61131 and PLCopen <br />• Able to do independent work and project experience in mechanical engineering <br />• Experience in software design, ideally in component and interface design <br />• Knowledge on safety practices and procedures <br />• Certified fit for SCBA <br /><br /><strong>Good to have skills or experiences are: </strong><br />o Experience in sales support is a plus<br />o Knowledge of Beckhoff hardware, Profibus and servo drives / Scope o Experience in programming production machines, for regulated industries <br />o Knowledge of CE and semi standards <br />o Knowledge of MES and SCADA systems <br />o Object-oriented programming <br />o Pair-programming o Git</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "MES",
+      "uuid": "002543019e5829c50ebe806b75cd746d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Beckhoff Twincat",
+      "uuid": "05486793279670008f73828151396f12",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Charter",
+      "uuid": "11347b3d404f701a75282a7993e0dda4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC",
+      "uuid": "7a7b6b49e8183cc144d9d1a8dc9df8b6",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "SCADA",
+      "uuid": "8ebe43fc79c5288888cac7b7106b0045",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Design",
+      "uuid": "c1b8eee14e05c47f56588fb5e842f6e9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "PLC Programming",
+      "uuid": "e130c9f05104588fb5a31a16a62fa288",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process Control",
+      "uuid": "e1eacfce04b409e6c301354ce8df503f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Thermal Processing",
+      "uuid": "e8d51a8dfbacb414a2a6bde38875cd53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing Skills",
+      "uuid": "ebd65911b99b625b1359ab340fb2b666",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Surface Engineering",
+      "uuid": "f34c12ccbfd3f7a2c1c3e79fc5ae585d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "uuid": "f9535181a205d8d5bde37e6e9e324f60",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Wet Chemistry",
+      "uuid": "fbb49cab057aa093ddf1e0188bb2bbba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "53194858K",
+    "description": "<p>GOODMAN EMPLOYMENT AGENCY</p>\r\n",
+    "name": "GOODMAN EMPLOYMENT AGENCY",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:34:43.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53194858K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53194858K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53194858K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53194858K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "33",
+    "street": "UBI AVENUE 3",
+    "floor": null,
+    "unit": null,
+    "building": "VERTEX",
+    "postalCode": "408868",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33292970284991,
+    "lng": 103.894107723466
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166112",
+    "deletedAt": null,
+    "createdBy": "904f99ce-86d4-4ada-895d-04cf209d83f8",
+    "createdAt": "2026-01-27T06:05:31.000Z",
+    "updatedAt": "2026-01-27T06:05:31.000Z",
+    "emailRecipient": "904f99ce-86d4-4ada-895d-04cf209d83f8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 99,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-developer-goodman-employment-agency-025a94284b00f64fd7ca0fa5c63726be",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/025a94284b00f64fd7ca0fa5c63726be"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/025a94284b00f64fd7ca0fa5c63726be/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

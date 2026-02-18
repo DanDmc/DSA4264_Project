@@ -1,0 +1,193 @@
+{
+  "uuid": "791ba7b774f4eaf0c3d195643cba1277",
+  "sourceCode": "Employer Portal",
+  "title": "Chef (Full Time, 6 day work week)",
+  "description": "<h1>Hiring Chefs!</h1><ul><li>Singaporean, PR, Malaysian EP, LTVP preferred</li><li>Malaysian Work Permit available</li><li><strong>Monday to Saturday, 4pm-11pm</strong></li><li><strong>Salary $2800-3200 depending on experience</strong></li><li>Must have experience working in a kitchen</li><li>Prepare all food for service according to recipes, cook and plate food during service</li><li>Will have dishwasher to assist</li><li>Staff meal included</li><li>Transport home for OT shifts</li><li>10 Days of Annual Leave</li><li>No health/dental benefits</li><li>Locations: Pekin Street, Telok Ayer Street</li><li>Positions available immediately, apply here or WhatsApp 81480484</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "running the kitchen",
+      "uuid": "0e35997e454b9d004bae5eac867ae89b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Restaurants",
+      "uuid": "386c1f850fbd5f478fb4ef8a134c1740",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "kitchen support",
+      "uuid": "9d0d9c37dd4f6e865c924e48b6c4e8c7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "worked in a kitchen",
+      "uuid": "a456fe567e3a7281ba2fb60d5b9193db",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Culinary Skills",
+      "uuid": "de9730b19b980c74412a3a5abead9c30",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201838967C",
+    "description": "<p>A specialty coffee brand established in 2017. We are primarily B2B now, providing specialty coffee related goods and services</p>",
+    "name": "DRINK UP PTE. LTD.",
+    "ssicCode": "56123",
+    "employeeCount": 3,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T12:53:10.000Z",
+    "ssicCode2020": "56123",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201838967C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201838967C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201838967C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201838967C/schemes"
+      }
+    },
+    "logoFileName": "e052bf88e4801552cc6d227219d17489/drink.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e052bf88e4801552cc6d227219d17489/drink.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1600285",
+    "deletedAt": "2025-11-20T17:15:05.000Z",
+    "createdBy": "58ee3959-ae29-4a72-a559-d4b30868ba98",
+    "createdAt": "2025-10-21T10:23:20.000Z",
+    "updatedAt": "2026-01-26T12:33:04.000Z",
+    "emailRecipient": "58ee3959-ae29-4a72-a559-d4b30868ba98",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 78,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-10-21",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-drink-791ba7b774f4eaf0c3d195643cba1277",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/791ba7b774f4eaf0c3d195643cba1277"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/791ba7b774f4eaf0c3d195643cba1277/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

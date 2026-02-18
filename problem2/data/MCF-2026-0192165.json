@@ -1,0 +1,240 @@
+{
+  "uuid": "830f2914e8e7a38e7460b9ad31a16843",
+  "sourceCode": "Employer Portal",
+  "title": "Insurance Specialist",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><strong>Advisory & Sales:</strong> Assess client needs, analyze risk profiles, and recommend appropriate insurance solutions (e.g., life, health, general).</li><li><strong>Relationship Management:</strong> Build long-term relationships, providing high-quality service and, in some cases, mentoring junior staff.</li><li><strong>Client Servicing:</strong> Assist with policy administration, renewals, and claims processing to ensure a smooth experience.</li><li><strong>Product Knowledge:</strong> Maintain in-depth knowledge of insurance products, regulations, and market trends.</li><li><strong>Goal Achievement:</strong> Drive business targets by collaborating with partners and sales teams. </li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wealth Management",
+      "uuid": "0350adf5a520e4a3c2d820a482451857",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mentoring",
+      "uuid": "089011f59ea2749a842c1cb289c52c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Loyalty",
+      "uuid": "4aaf36784bf013f0c988481f592f6e07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wealth Accumulation",
+      "uuid": "60552714c5040182b38379eb9e733eb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wealth",
+      "uuid": "64af059324395845d1b24964e19aa55b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loans",
+      "uuid": "64e109fb6dde9d711f1b7cba6ce2e279",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retirement Planning",
+      "uuid": "c34dcee9ce910d9b5c719d07edcb9ebb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wellbeing",
+      "uuid": "c540e0c47d34f94257d9a93cc63b77e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "53502130E",
+    "description": null,
+    "name": "J.S.F",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:39:21.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "VICTORIA WHOLESALE CENTRE",
+    "postalCode": "339508",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31120876952715,
+    "lng": 103.867482955196
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192165",
+    "deletedAt": null,
+    "createdBy": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "createdAt": "2026-01-30T19:29:50.000Z",
+    "updatedAt": "2026-01-30T19:29:51.000Z",
+    "emailRecipient": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 44,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/insurance-specialist-jsf-830f2914e8e7a38e7460b9ad31a16843",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/830f2914e8e7a38e7460b9ad31a16843"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/830f2914e8e7a38e7460b9ad31a16843/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

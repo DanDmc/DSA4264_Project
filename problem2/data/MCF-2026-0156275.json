@@ -1,0 +1,229 @@
+{
+  "uuid": "35a0ea09387f4157add408b01a744b53",
+  "sourceCode": "Employer Portal",
+  "title": "Infant Educator| West",
+  "description": "<p>Job Description:  </p><ul><li>Consistently maintaining regular observation and evaluation of child’s development and progress</li><li>Ensure safety of each child through close supervision, whether in the classroom, play area, or any other areas in the school compound</li><li>Conduct childcare routines in a manner that is prompt, hygienic and consistent with early child development practices. These routines include diapering, feeding, bathing, hand washing, napping and transitioning between activities</li><li>Assist to maintain daily journal of milk feeds, solid feeds, diapering etc, in accordance to relevance for each age group.</li></ul><p><strong>Requirements:</strong></p><ul><li>Certificate in Infant/Toddler Care and Development (CIT) / Higher Certificate in Infant Care (HCIC) / Advanced Certificate in Early Years (ACEY)</li><li>Ability to build good rapport with parents and various stakeholders</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Childcare",
+      "uuid": "08370cd014507701d18597aa6e29050d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Child Development",
+      "uuid": "1e60e49a15e9c4089e8d014312ee53b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Independently",
+      "uuid": "3d059b652e8d92de5b85660d5efba49a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Caregiving",
+      "uuid": "5d888ea19036f8dde3649548e95f2d50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Management",
+      "uuid": "7effb2f87a97b7666a5f62f9f90a493e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wellbeing",
+      "uuid": "c540e0c47d34f94257d9a93cc63b77e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "36100",
+  "occupationId": "OCC060301",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "82",
+  "ssecFos": "0112",
+  "postedCompany": {
+    "uen": "202124909D",
+    "description": null,
+    "name": "MULBERRY LEARNING CENTRE @ DOVER PTE. LTD.",
+    "ssicCode": "88911",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T03:15:05.000Z",
+    "ssicCode2020": "88911",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202124909D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202124909D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202124909D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202124909D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1010",
+    "street": "DOVER ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "139658",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30964603329966,
+    "lng": 103.774586761471
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156275",
+    "deletedAt": null,
+    "createdBy": "eb810c5f-8e1a-4974-ae8d-4e84a0d7b623",
+    "createdAt": "2026-01-26T02:55:22.000Z",
+    "updatedAt": "2026-01-26T02:55:22.000Z",
+    "emailRecipient": "eb810c5f-8e1a-4974-ae8d-4e84a0d7b623",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/infant-educator-west-mulberry-learning-centre-dover-35a0ea09387f4157add408b01a744b53",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3900,
+    "minimum": 2600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/35a0ea09387f4157add408b01a744b53"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/35a0ea09387f4157add408b01a744b53/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,217 @@
+{
+  "uuid": "d52716b0305a11bc2c11dc9411cafeb1",
+  "sourceCode": "Employer Portal",
+  "title": "Infrastructure Engineer (Contract)",
+  "description": "<p>We are looking for an infrastructure engineer who has strong technical expertise in Active Directory / Entra ID and be able to join a global team for over-the-clock activities.<br /><br />Responsibilities:</p><p>•\tAdministration, operation, and hardening of Corporate / Resources / Isolation AD forests.</p><p>•\tManagement of Domain Controllers (Windows Server 2019/2022), GPO, DNS, Sites & Services, replication.</p><p>•\tManagement of Entra ID, IAM, and AD Connect.</p><p>•\tParticipation in Group projects: AD consolidation, DNS redesign, tiering, and securing sensitive accounts.</p><p>•\tAutomation using PowerShell, industrialization of operations (audits, provisioning, remediation).</p><p>•\tContribution to the AD Disaster Recovery Plan (detection, restoration, technical communication).</p><p>•\tMonitoring & auditing: Change Auditor, EDR, log collection.</p><p>•\tParticipation in transversal projects: M&A, application integration, onboarding/offboarding, security compliance.</p><p>•\tDocumentation (DAT/DEX), contribution to AD governance.</p><p>Technical Skills:</p><p>•\t6+ years of significant experience in AD / Entra ID.</p><p>•\tActive Directory Domain Services, DNS, GPO, PKI, ADFS.</p><p>•\tEntra ID / Azure AD Connect / Identity Governance.</p><p>•\tAdvanced PowerShell (audits, automated scripts, remediation).</p><p>•\tSecurity concepts: RBAC, Zero Trust, MFA, AD Tiering.</p><p>•\tTools: Sempris ADFR/Forest Druid, Ranger AD, PingCastle, Microsoft 365, Defender, GraphAPI.</p><p>•\tKnowledge of AD DRP/BCP appreciated.</p><p>Disclaimer: The company is committed to ensuring the privacy and security of your information. By submitting this form, you consent to the collection, processing, and retention of the information you provide. The data collected (which may include your contact details, educational background, work experience and skills) will be used solely for the purpose of evaluating your qualifications for the position you're applying for. Your data will be stored securely and retained for the duration necessary to fulfill our hiring process. If you are not selected for the position, your data will be kept on file for a limited period in case future opportunities arise. You have the right to access, correct, or delete your data at any time by contacting us at Quess Singapore | A Leading Staffing Services Provider in Singapore (quesscorp.sg)</p><p>“This is in partnership with the Employment and Employability Institute Pte Ltd (“e2i”).</p><p>e2i is the empowering network for workers and employers seeking employment and employability solutions. e2i serves as a bridge between workers and employers, connecting with workers to offer job security through job-matching, career guidance and skills upgrading services, and partnering employers to address their manpower needs through recruitment, training, and job redesign solutions. e2i is a tripartite initiative of the National Trades Union Congress set up to support nation-wide manpower and skills upgrading initiatives. By applying for this role, you consent to Quesscorp Singapore’s PDPA and e2i’s PDPA.”</p>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "PKI",
+      "uuid": "06f161d26fcfe02d4fcb91bb4a89fc18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Staffing Services",
+      "uuid": "482ead659aefc7b6d3de0ef095491a40",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Industrialization",
+      "uuid": "4ff659b93a7b32f81cb2282082ff5957",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Auditor",
+      "uuid": "83088ecc77b52a62602337d2c37b4772",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bridge",
+      "uuid": "de8504b73ea228d0ea9bbce69752092e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC060890",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202442294R",
+    "description": null,
+    "name": "QUESSCORP CONSULTING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:18:28.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202442294R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202442294R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202442294R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202442294R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188256",
+    "deletedAt": null,
+    "createdBy": "c2498996-2175-48f9-95c5-f4b35b6dcdab",
+    "createdAt": "2026-01-30T06:06:37.000Z",
+    "updatedAt": "2026-01-30T06:06:37.000Z",
+    "emailRecipient": "c2498996-2175-48f9-95c5-f4b35b6dcdab",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/infrastructure-engineer-quesscorp-consulting-d52716b0305a11bc2c11dc9411cafeb1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10300,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d52716b0305a11bc2c11dc9411cafeb1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d52716b0305a11bc2c11dc9411cafeb1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

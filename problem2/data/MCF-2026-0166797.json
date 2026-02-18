@@ -1,0 +1,205 @@
+{
+  "uuid": "ee7bc28173d00f4073841e2b74218a64",
+  "sourceCode": "Employer Portal",
+  "title": "IC Architect Engineer",
+  "description": "<p><strong>Key Responsibilities:</strong></p>\n<ul>\n  <li>Work with product management, marketing, and customers to define product requirements and specifications.</li>\n  <li>Perform high-level modeling and analysis to explore architectural trade-offs and define optimal micro-architectures.</li>\n  <li>Develop detailed architecture specifications for SoCs, CPUs, GPUs, or other complex IPs.</li>\n  <li>Provide technical guidance and leadership to design and verification teams throughout the product development cycle.</li>\n  <li>Research and evaluate emerging technologies and industry trends.</li>\n  <li>Collaborate with software, system, and hardware teams to ensure a cohesive system architecture.</li>\n  <li>Author and present technical documents and proposals to stakeholders.</li>\n</ul>\n<p><strong>Qualifications and Skills:</strong></p>\n<ul>\n  <li>Master’s or PhD degree in Electrical/Electronics Engineering, Computer Engineering, or a related field.</li>\n  <li>Significant proven experience in chip architecture, micro-architecture, or a senior design role.</li>\n  <li>Deep understanding of computer architecture concepts (e.g., CPUs, GPUs, memory hierarchies, interconnects, coherency).</li>\n  <li>Experience with performance modeling and analysis tools.</li>\n  <li>Strong knowledge of software and hardware interactions.</li>\n  <li>Proficiency in scripting languages (e.g., Python, C++) for modeling and analysis.</li>\n  <li>Excellent leadership, communication, and presentation skills.</li>\n  <li>Ability to think creatively and solve complex, multi-dimensional problems.</li>\n</ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Modeling",
+      "uuid": "36ca8b27f92026a233b4a2f81dc92397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power Management",
+      "uuid": "8882a43011822d064d09588c3c36f409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Management",
+      "uuid": "948590535142d16883c105bb52330fb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SoC",
+      "uuid": "a5cad1b3094bc250999781c7be3ecf07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Architecture",
+      "uuid": "c28e2080351835503966e15b57f58d3c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ASIC",
+      "uuid": "cd2891bad0da1124faa8496670905022",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Development",
+      "uuid": "d324e27fb1cf5931e17c08a9a85f76bf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21523",
+  "occupationId": "OCC061263",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "1134",
+  "postedCompany": {
+    "uen": "202405307E",
+    "description": "<p>XG Tech stands as a pioneering provider of next-generation intelligent integrated vehicle solutions. We are committed to developing cutting-edge spatial computing platforms tailored for intelligent vehicles. By delivering full-stack hardware-software AI solutions, redefining human-machine interactions, and creating premium experiences empowered by AI agents, XG Tech is transforming cars into mobile living spaces for human.</p>",
+    "name": "XG TECH PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T03:08:46.000Z",
+    "ssicCode2020": "72102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202405307E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202405307E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202405307E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202405307E/schemes"
+      }
+    },
+    "logoFileName": "9d15947387a77397625aeb16a6834537/xg-tech.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9d15947387a77397625aeb16a6834537/xg-tech.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "75",
+    "street": "AYER RAJAH CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "JTC LAUNCHPAD @ ONE-NORTH",
+    "postalCode": "139953",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.2974745121783,
+    "lng": 103.786237053304
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166797",
+    "deletedAt": null,
+    "createdBy": "577f126d-abe5-4845-a766-e2821b84d328",
+    "createdAt": "2026-01-27T07:17:21.000Z",
+    "updatedAt": "2026-01-27T07:17:21.000Z",
+    "emailRecipient": "577f126d-abe5-4845-a766-e2821b84d328",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/ic-architect-engineer-xg-tech-ee7bc28173d00f4073841e2b74218a64",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 20000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ee7bc28173d00f4073841e2b74218a64"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ee7bc28173d00f4073841e2b74218a64/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

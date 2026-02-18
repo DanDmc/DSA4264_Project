@@ -1,0 +1,217 @@
+{
+  "uuid": "62b749e3d127fca6ba648b49a3594839",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps Engineer",
+  "description": "<p><strong>Job Summary </strong><br />A global leader in technology consulting and digital transformation, the client delivers innovative solutions that enhance business performance and resilience. With deep expertise in cloud computing, data analytics, and AI-driven insights, they help organizations modernize systems, improve scalability, and accelerate operational efficiency. Their end-to-end approach to enterprise transformation empowers companies across industries to innovate with confidence and stay competitive in a rapidly evolving digital landscape. Our client is looking for a DevOps Engineer responsible for designing, building, and maintaining GitLab CI/CD pipelines for application build, test, and deployment<br /></p><p><strong>Main Responsibilities</strong></p><p>Support hybrid deployment models, including:</p><ul><li>Deployment to on-premise application servers</li><li>Deployment to AWS environments (DEV / SIT / UAT / PROD)</li><li>Manage and operate GitLab Runners (self-hosted on-prem and cloud-based)</li><li>Automate deployment workflows, approvals, and rollback mechanisms</li><li>Integrate CI/CD pipelines with security and quality gates (e.g. SAST, dependency scans, code quality checks)</li><li>Collaborate with application teams to onboard new services into the CI/CD framework</li><li>Troubleshoot pipeline failures and deployment issues across on-prem and cloud environments</li><li>Ensure CI/CD practices comply with organisational security, audit, and governance requirement</li><li>Maintain CI/CD documentation, runbooks, and operational procedures</li></ul><p></p><p><strong>Qualification and Profile </strong></p><p>1. GitLab CI/CD</p><ul><li>Pipeline design using .gitlab-ci.yml</li><li>GitLab Runners (self-hosted and shared)</li><li>Branching, release, and environment promotion strategies</li></ul><p>2. AWS</p><ul><li>Deployment to EC2 / ECS / related AWS services</li><li>IAM roles and least-privilege access for CI/CD</li><li>Integration with VPC, security groups, and load balancers</li><li>Deployment Automation</li><li>Automated deployments to on-premise application servers and cloud targets</li><li>Environment-specific configuration management<br /></li></ul><p><strong>Next Step</strong></p><ul><li>If interested, you can click on “Apply here” or write an e-mail to dimple.jain@adecco.com with your updated resume.</li><li>NOTE: - Only shortlisted candidates will be contacted back.</li></ul><p></p><p>Dimple Jain</p><p>EA LIcence No.91C2918</p><p>Personnel Registration No.  R22107270</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Digital Transformation",
+      "uuid": "0004bc07edb448bc60ced6bdd342725c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud Computing",
+      "uuid": "3de3a4a550829dc4376329c29771bf78",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Servers",
+      "uuid": "5f214e39d86a7ef1494c42e0b2767c87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EC2",
+      "uuid": "81b22456f78954c460ce2f531b5e048f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analytics",
+      "uuid": "e19e98a669ae21f94ffd1659998fd072",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "198500164K",
+    "description": "<p>The Adecco Group is the world's leading provider of HR solutions. With over 35,000 FTE employees and over 5,200 branches, in over 60 countries and territories around the world, we offer a wide variety of services, connecting more than 650,000 associates with over 100,000 clients every day.</p>\n<p>The services we offer fall into the broad categories of temporary staffing, permanent placement, career transition and talent development, as well as outsourcing and consulting. The Adecco Group is based in Zurich-Glattbrugg, Switzerland and we are a Fortune Global 500 company listed on the SIX Swiss Exchange.</p>",
+    "name": "ADECCO PERSONNEL PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": 200,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:36:50.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K/schemes"
+      }
+    },
+    "logoFileName": "0cbd8b342d845e0619f216a9890ba2b5/adecco-personnel.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/0cbd8b342d845e0619f216a9890ba2b5/adecco-personnel.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190068",
+    "deletedAt": null,
+    "createdBy": "d769ebd0-b7eb-4891-811e-12f4776e49b5",
+    "createdAt": "2026-01-30T08:51:38.000Z",
+    "updatedAt": "2026-01-30T08:51:38.000Z",
+    "emailRecipient": "d769ebd0-b7eb-4891-811e-12f4776e49b5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-adecco-personnel-62b749e3d127fca6ba648b49a3594839",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/62b749e3d127fca6ba648b49a3594839"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/62b749e3d127fca6ba648b49a3594839/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

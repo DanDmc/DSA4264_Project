@@ -1,0 +1,228 @@
+{
+  "uuid": "4b7b96c00c1922cee08cbf567acb9fa1",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps Engineer – Azure & Kubernetes",
+  "description": "<p><u><strong>About the Team:</strong></u></p><p>Join a high-performing Data Engineering and AI team working closely with Data Scientists and AI Engineers to deliver cutting-edge solutions on Azure. Our primary product is hosted on Azure Kubernetes Service (AKS), with daily releases of backend services, APIs, and UI components. We are scaling our DevOps capabilities to support secure, observable, and intelligent deployments.</p><p><br /></p><p><u><strong>Key Responsibilities:</strong></u></p><p><strong>CI/CD & DevSecOps:</strong></p><p>• Design, build, and maintain robust CI/CD pipelines using Azure DevOps for data engineering and AI projects</p><p>• Integrate DevSecOps tools such as Snyk Code and Snyk Container for static code analysis and container vulnerability scanning.</p><p>• Automate security gates and compliance checks in the deployment lifecycle.</p><p><br /></p><p><strong>Azure Kubernetes & Deployment Management:</strong></p><p>• Manage and optimize AKS clusters, including scaling, upgrades, and network policies.</p><p>• Collaborate with developers to containerize applications</p><p>• Improve performance and scalability of the cluster</p><p><br /></p><p><strong>Monitoring & Observability:</strong></p><p>• Set up and maintain observability tools like Azure Monitor, Application Insights, Prometheus/Grafana, or Open Telemetry.</p><p>• Define SLIs/SLOs and alerting strategies for proactive issue detection.</p><p><br /></p><p><strong>AI Testing & Integration:</strong></p><p>• Work with AI engineers to integrate automated testing for ML models and APIs into the CI/CD pipeline.</p><p>• Support model versioning, deployment, and rollback strategies using Azure ML and AKS.</p><p><br /></p><p><strong>Collaboration & Architecture Support:</strong></p><p>• Partner with architects and engineers to design scalable, secure, and cost-effective infrastructure.</p><p>• Contribute to infrastructure-as-code (IaC) using Bicep, Terraform, or ARM templates.</p><p><br /></p><p></p><p><u><strong>Required Experience & Skills:</strong></u></p><p>• 3–5 years of experience in DevOps or Site Reliability Engineering roles.</p><p>• Strong hands-on experience with Azure DevOps Pipelines, Azure Kubernetes Service (AKS), Docker & Helm, Azure Key Vault, ACR, and Networking.</p><p>• Experience integrating DevSecOps tools (e.g., Snyk, Aqua, Trivy).</p><p>• Familiarity with monitoring and logging tools in Azure and open-source ecosystems.</p><p>• Exposure to AI/ML workflows and Azure ML is a strong plus.</p><p>• Proficient in scripting (Bash, PowerShell, or Python) and Git-based workflows.</p><p>• Strong understanding of software development lifecycle (SDLC) and agile practices.</p><p><br /></p><p><u><strong>Nice to Have:</strong></u></p><p>• Knowledge of zero-trust security, RBAC, and network policies in Kubernetes.</p><p>• Familiarity with AI testing frameworks or ML model CI/CD.</p><p><br /></p><p><u><strong>Why Join Us?</strong></u></p><p>• Work on impactful AI and data-driven products in the energy and sustainability domain.</p><p>• Collaborate with a passionate team of engineers, scientists, and architects.</p><p>• Opportunity to shape the DevOps and MLOps culture from the ground up.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ARM",
+      "uuid": "47f45e65244c17ec9fa8771a5c6d60e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SDLC",
+      "uuid": "6fb20c4016a1efc028fcb5c917a1a9b5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability Engineering",
+      "uuid": "a31fdced37e546ea0be9fc100351b12a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201716889C",
+    "description": "<h2>Company Overview</h2>\n<p><strong>If you’re seeking for employment or employees, you’re at the right place.</strong>Welcome to Flintex Consulting, a leading Recruitment Agency in Singapore.</p>\n<p><br></p>\n<p><strong>We Match&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Place</strong></p>\n<p><br></p>\n<p>We specialize in Technology, BFSI, Human Resource &amp; Administration, Engineering &amp; Manufacturing, Sales &amp; Marketing,Finance &amp; Accounting sectors.We cater to the needs of a) individual job candidates and b) companies seeking for the right employees to drive their business.</p>\n<p><br></p>\n<p>We have been able to construe and bridge the needs and demands of our individual and corporate clients. Our wide industry expertise and select client base enable us to foster fruitful careers rather than short-term jobs and placements.Our advanced placement platform is designed to match employee skill sets with current vacancies with perfect accuracy. We utilize an efficient, systematic and ultra-precise recruitment method that surpasses industry standards.</p>\n<p><br></p>\n<p>Flintex Consulting has been successful in collaborating multiple leading employers, vendors and clients. We also offer valuable insight to candidates and companies to maximize their recruitment efforts. Candidates are mentored towards finding the best-fit jobs to help build successful careers.We cover all levels of placement, from entry level professionals to mid-level and CEO level posts.We promise to provide the best suited jobs through our research-based methodologies merged with our top qualified personnel.</p>\n<p><br></p>\n<p>Flintex Consulting promises to grow your career the right way. Whether you are a client or a candidate, we have a streamlined platform to match your needs efficiently. With professional, efficient, and timely services, leave it to us when it comes to your Job-Related needs.We take pride in collaborating with leading employers, vendors, and clients. This helps us provide you with extensive job postings across all Major Industries. Additionally, we offer valuable insights and other personalized services designed to maximize productivity and results when it comes to job search.&nbsp;</p>\n<p><br>\nEA License # 17C8724<br>\nUEN # 201716889C</p>\n<p><br></p>\n<h2>Why Join Us?</h2>\n<p><strong>Our Mission</strong></p>\n<p>“To be acknowledged as a team of recruitment professionals with the expertise to consistently facilitate an optimum result for both our clients and candidates”</p>\n<p><br></p>\n<p><strong>Our Vision</strong></p>\n<p>To provide an ‘invaluable’ service that greatly contributes to a company’s or individual’s business success.<br>\nTo always conduct ourselves in a manner that reflects our passion and commitment to delivering a positive outcome for all parties involved.</p>\n<p>To appreciate the responsibility that we assume in assisting people to make important recruitment decisions that can have a significant impact on their lives.Undertake our roles with a sense of dignity, optimism, pride and gratitude.</p>\n<p><br></p>\n<p><strong>Our Core Values</strong></p>\n<p>Integrity, Quality, Professionalism, Teamwork, Commitment and Accountability</p>\n<p><br></p>\n<p><strong>Specialties:</strong></p>\n<p>Recruitments, Staff Augmentation, Contract Staffing, Salary Advisory, Temporary Hiring, Executive Search, Project based Search,&nbsp;RPO, Payroll Services, Work Pass Application, Leadership Hiring, and Trainings</p>",
+    "name": "FLINTEX CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 20,
+    "companyUrl": "www.flintex.com.sg",
+    "lastSyncDate": "2026-02-04T02:48:53.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/schemes"
+      }
+    },
+    "logoFileName": "189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165527",
+    "deletedAt": null,
+    "createdBy": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "createdAt": "2026-01-27T04:51:54.000Z",
+    "updatedAt": "2026-01-27T04:51:55.000Z",
+    "emailRecipient": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 53,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-%E2%80%93-azure-kubernetes-flintex-consulting-4b7b96c00c1922cee08cbf567acb9fa1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4b7b96c00c1922cee08cbf567acb9fa1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4b7b96c00c1922cee08cbf567acb9fa1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

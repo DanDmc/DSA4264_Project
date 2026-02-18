@@ -1,0 +1,202 @@
+{
+  "uuid": "a4fe13991b590c85a465f2d3be11ec14",
+  "sourceCode": "Employer Portal",
+  "title": "F&B Service Captain - Frasers House, a Luxury Collection Hotel, Singapore",
+  "description": "<p><strong>POSITION SUMMARY</strong></p><p>This position is responsible for delivering exceptional customer focused service under the direction of the Restaurant Manager or Supervisor, through adherence to local hotel policies and procedures.</p><p>Adhere to local regulations concerning health, safety, or other compliance requirements, as well as brand standards and local policies and procedures<br /> </p><p><strong>PREFERRED QUALIFICATION</strong></p><p>High school graduate<br />At least 1 year experience in restaurant food service <br /> </p><p><strong>CORE WORK ACTIVITIES</strong></p><ul><li>Take and deliver customer orders, consistently demonstrating high levels of customer service</li><li>Prepare set ups for tables and/or rooms </li><li>Communicates to his / her superior any difficulties, guest comments and other relevant information </li><li>Deliver Food and Beverage service of high standard and in accordance with departmental standards and procedures</li><li>Food and beverage stock is stored in relation to hotel procedures </li><li>Beverages are upsold and regularly replenished, abiding by responsible alcohol service regulations</li><li>Be familiar with property safety, first aid and fire and emergency procedures and operate equipment safely and sensibly</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Property",
+      "uuid": "5ad234cb2cde4266195252a23ca7d84e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Approachable",
+      "uuid": "86d497587a59c7984e4c227b4737a2cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Excellence",
+      "uuid": "de436046b830e7e4e4e5e2d62b4b0f08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51311",
+  "occupationId": "OCC059854",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "51506300B",
+    "description": "<p>80 MIDDLE ROAD 188966                                                                                                             </p>",
+    "name": "BCH HOTEL SINGAPORE",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T01:42:23.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51506300B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51506300B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51506300B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/51506300B/schemes"
+      }
+    },
+    "logoFileName": "116959cfe95772075d62025313d13bbb/bch-hotel-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/116959cfe95772075d62025313d13bbb/bch-hotel-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "80",
+    "street": "MIDDLE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "188966",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29846965352968,
+    "lng": 103.854866949847
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175354",
+    "deletedAt": null,
+    "createdBy": "9d0c32a9-6fbf-4459-91c7-236653a82c30",
+    "createdAt": "2026-01-28T08:05:56.000Z",
+    "updatedAt": "2026-01-28T08:05:56.000Z",
+    "emailRecipient": "9d0c32a9-6fbf-4459-91c7-236653a82c30",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-service-captain-frasers-house-luxury-collection-hotel-singapore-bch-hotel-singapore-a4fe13991b590c85a465f2d3be11ec14",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 2100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a4fe13991b590c85a465f2d3be11ec14"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a4fe13991b590c85a465f2d3be11ec14/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,213 @@
+{
+  "uuid": "f4704fea453defa0842de05dc0d22834",
+  "sourceCode": "Employer Portal",
+  "title": "Security",
+  "description": "<p><strong>Security Officer (Industrial Building)</strong></p><p><strong>Job Responsibilities</strong></p><ol><li>Responsible for daily security operations of the industrial\n     building, including access control for personnel and vehicles;</li><li>Conduct regular patrols of common areas such as factory zones,\n     car parks, elevators, and corridors;</li><li>Manage visitors, contractors, renovation and maintenance\n     personnel, including verification of passes and documents;</li><li>Maintain on-site order and respond to incidents or emergencies\n     when required;</li><li>Support property management in implementing security policies,\n     fire safety procedures, and emergency drills;</li><li>Maintain daily security logs and incident records.</li></ol><p><strong>Job Requirements</strong></p><ol><li>Physically fit, responsible, and able to work on shift\n     schedules;</li><li>Prior experience in industrial parks, commercial buildings, or\n     property security is preferred;</li><li>Basic communication skills; English communication ability is an\n     advantage;</li><li>Familiar with basic security and fire safety procedures;</li><li>Disciplined, reliable, and able to follow instructions.</li></ol>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Fire Safety",
+      "uuid": "0008c4f33e63d589b607aaea694c5e58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Operations",
+      "uuid": "228ae2412a3a14cd1cbf6818128c45ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property Management",
+      "uuid": "382705469d54836b73d21873e919f8d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property",
+      "uuid": "5ad234cb2cde4266195252a23ca7d84e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Penetration Testing",
+      "uuid": "97def0245e723621477eeda0a410ec36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "54144",
+  "occupationId": "OCC061902",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "64",
+  "ssecFos": "1043",
+  "postedCompany": {
+    "uen": "199206445M",
+    "description": "<p>Metech International Limited is a public limited liability company incorporated and domiciled in Singapore with its registered office and principal place of business at 100G Pasir Panjang Road, #04-07 Interlocal Centre, Singapore 118523. The Company is listed on the Catalist of the Singapore Exchange Securities Trading Limited (“SGX-ST”).&nbsp;</p>\n<p><br></p>\n<p>The principal activity of the Company is that of investment holding.</p>",
+    "name": "METECH INTERNATIONAL LIMITED",
+    "ssicCode": "64202",
+    "employeeCount": null,
+    "companyUrl": "www.metechinternational.com",
+    "lastSyncDate": "2026-01-27T12:57:42.000Z",
+    "ssicCode2020": "64202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206445M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206445M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206445M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206445M/schemes"
+      }
+    },
+    "logoFileName": "70c07a6938b446a308b72fcba2a03e65/metech-international.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/70c07a6938b446a308b72fcba2a03e65/metech-international.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "54",
+    "street": "PANDAN ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "609292",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.29990957831579,
+    "lng": 103.747441138964
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1952624",
+    "deletedAt": "2026-01-19T17:15:04.000Z",
+    "createdBy": "ecc45e1d-a2fe-4b2f-bad8-7ba5bda8b3f7",
+    "createdAt": "2025-12-20T04:03:06.000Z",
+    "updatedAt": "2026-01-27T12:58:17.000Z",
+    "emailRecipient": "ecc45e1d-a2fe-4b2f-bad8-7ba5bda8b3f7",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 318,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-20",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/security-metech-international-f4704fea453defa0842de05dc0d22834",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f4704fea453defa0842de05dc0d22834"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f4704fea453defa0842de05dc0d22834/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

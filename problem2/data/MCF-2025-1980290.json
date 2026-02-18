@@ -1,0 +1,200 @@
+{
+  "uuid": "19be6976b02a35799bc0effcd53f1005",
+  "sourceCode": "Employer Portal",
+  "title": "Site Admin (Manufacturing) (Up to $2800 / 5 Days / Punggol)",
+  "description": "<p>Job Title: Site Admin (Manufacturing) ID9032<br />Location: Punggol<br />Working Hours:<br />Monday to Friday: 8am-530pm/830am-6pm<br />Salary: $2500-$2800<br /><br />Benefit:<br />*Bonus given with 14 days AL<br /><br />Job Description:<br />•Process DO, invoices, key in data, arrange training course for workers<br />•Assist in any ad-hoc duties as assigned<br /><br />Requirement:<br />Min 1-year exp in admin</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "admin work",
+      "uuid": "a44a8c2a48089ef2587dd5adaaa7c84a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "admin support",
+      "uuid": "a6ca36e22e6167f06afe0b98e7b85bf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "admin duties",
+      "uuid": "bae7af594c955333117107b88b4656e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201404928G",
+    "description": "<p>Job Express Services Pte Ltd is a trusted name in the world of recruitment. With years of experience and a team of dedicated professionals, we connect talent with opportunity. Our mission is to help businesses build strong, dynamic teams, and to guide individuals in their career journeys. We pride ourselves on our commitment to excellence and our personalized approach to every client.</p>",
+    "name": "JOB EXPRESS SERVICES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:28:02.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/schemes"
+      }
+    },
+    "logoFileName": "09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "71",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "PRESTIGE CENTRE",
+    "postalCode": "658071",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33830749021002,
+    "lng": 103.755884101534
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1980290",
+    "deletedAt": "2026-01-25T17:15:04.000Z",
+    "createdBy": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "createdAt": "2025-12-26T06:24:15.000Z",
+    "updatedAt": "2026-01-26T01:13:26.000Z",
+    "emailRecipient": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 429,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 62,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/site-admin-job-express-services-19be6976b02a35799bc0effcd53f1005",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/19be6976b02a35799bc0effcd53f1005"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/19be6976b02a35799bc0effcd53f1005/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,211 @@
+{
+  "uuid": "11c4dea6bf303e95e5ab06dfabe2b6a6",
+  "sourceCode": "Employer Portal",
+  "title": "ADMINISTRATOR",
+  "description": "<ul>\n  <li>Type general correspondence.</li>\n  <li>Assist in preparing proposals, progress claims, variation orders.</li>\n  <li>Compile and submit equipment and catalogue for project requirements.</li>\n  <li>Assist to request and submit materials requisitions to purchasing department for project’s requirements.</li>\n  <li>Maintain proper filing for every project undertaken.</li>\n  <li>Coordinate work with Project Manager/Engineer on site matters (e.g. scheduled meetings, workers’ name list submission, delivery of items/materials to work site, etc.)</li>\n  <li>Keep confidential material classified and take steps to improve documentation whenever possible.</li>\n  <li>Any other general administrative work assigned by the Project Manager and/or Engineer.</li>\n  <li>Any other duties that may be assigned by the company.</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Work",
+      "uuid": "426f2e6210dd458d29478045ab400e8f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "201015460W",
+    "description": null,
+    "name": "DELUGE E&C PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:09:48.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201015460W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201015460W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201015460W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201015460W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "JOO KOON CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "629026",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32889386934209,
+    "lng": 103.675521177667
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163781",
+    "deletedAt": null,
+    "createdBy": "f599cff3-2c99-41e1-864d-0bb84e57e27d",
+    "createdAt": "2026-01-27T02:13:14.000Z",
+    "updatedAt": "2026-01-27T02:13:14.000Z",
+    "emailRecipient": "f599cff3-2c99-41e1-864d-0bb84e57e27d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 134,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/administrator-deluge-ec-11c4dea6bf303e95e5ab06dfabe2b6a6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/11c4dea6bf303e95e5ab06dfabe2b6a6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/11c4dea6bf303e95e5ab06dfabe2b6a6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,193 @@
+{
+  "uuid": "403358a9c6546e2765ecf4344e89bc2c",
+  "sourceCode": "Employer Portal",
+  "title": "Principal Consultant",
+  "description": "<p>• Manage and Lead end-to-end QA strategy across complex banking platforms (Temenos T24, Murex) covering SIT, UAT, regression, and integration testing.</p><p>• Own Control-M workload automation: batch job scheduling, dependency management, SLA monitoring, and failure recovery across multi-env landscapes.</p><p>• Design and execute automation frameworks using Selenium/UFT/QTP integrated with CI/CD pipelines (Jenkins, Maven).</p><p>• Validate document management workflows (OCR, indexing, metadata, retention) ensuring regulatory, risk, and audit compliance.</p><p>• Drive test governance, defect lifecycle management, and release readiness in agile, multi-vendor global programs.</p><p>• Collaborate with business, DevOps, infra, and data teams to ensure quality alignment with enterprise banking standards.</p>",
+  "minimumYearsExperience": 15,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Document Management",
+      "uuid": "04ab7e9520f65aa6c1c1c1eb8c397873",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Temenos T24",
+      "uuid": "32d1c2b1a02b8d5839cd9dca5aff3a94",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workload Automation",
+      "uuid": "83ffeca8489c1b19b3baaa71d436fde1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drive Test",
+      "uuid": "f8c3327980409b01177d114ea1b4b559",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13302",
+  "occupationId": "OCC014586",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "202515719Z",
+    "description": null,
+    "name": "INNOPEAK ADVISORS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T06:44:46.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515719Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515719Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515719Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515719Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181543",
+    "deletedAt": null,
+    "createdBy": "6f53dbf2-a244-4193-8066-4596ac20b11f",
+    "createdAt": "2026-01-29T06:54:45.000Z",
+    "updatedAt": "2026-01-29T06:54:45.000Z",
+    "emailRecipient": "6f53dbf2-a244-4193-8066-4596ac20b11f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/principal-consultant-innopeak-advisors-403358a9c6546e2765ecf4344e89bc2c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11200,
+    "minimum": 9500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/403358a9c6546e2765ecf4344e89bc2c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/403358a9c6546e2765ecf4344e89bc2c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,240 @@
+{
+  "uuid": "62da215e8af8cfd132b7789815a81f0a",
+  "sourceCode": "Employer Portal",
+  "title": "QC Inspector",
+  "description": "<p>1. Able to Interpret technical drawings and requirements from machining parts.</p>\n<p>2. Familiar with measuring instruments and gauges.</p>\n<p>3. Excel and computer knowledge for drawings report processing.</p>\n<p>4. Familiar with treatment and hardening processes.</p>\n<p>5. Familiar of tolerance requirement and measurement of precision machined parts.</p>\n<p>6. Training will be provided for non-experience personnel</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tolerance",
+      "uuid": "38a4462de8ef7234a58e8f0798e29d04",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Welding Procedures",
+      "uuid": "71594cfc7580985ba5a4f79416a02d9b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Welding",
+      "uuid": "8be92a6dba91189e3e092f2ef2961bbb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Inspection",
+      "uuid": "8fd1f4f1a37c69ac30c6972b4f21dfda",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Piping",
+      "uuid": "96d312760756ae17426f3ff9f9731dd1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machining",
+      "uuid": "9aa437108d30e56322c65bc3703ff829",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ASME",
+      "uuid": "c810c4b8af10e511084381576858169b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "NDT",
+      "uuid": "ed4c02276b8f3078120ac166c16cec42",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21414",
+  "occupationId": "OCC003168",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "N9",
+  "ssecFos": "1174",
+  "postedCompany": {
+    "uen": "198901489E",
+    "description": "<p>\r\n\tE-STAR PRECISION (S) PTE LTD</p>\r\n",
+    "name": "E-STAR PRECISION (S) PTE LTD",
+    "ssicCode": "28224",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T07:15:45.000Z",
+    "ssicCode2020": "28224",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198901489E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198901489E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198901489E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198901489E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2035",
+    "street": "BUKIT BATOK STREET 23",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "659540",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34108072699976,
+    "lng": 103.751433104507
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1995562",
+    "deletedAt": "2026-01-29T17:15:04.000Z",
+    "createdBy": "43fe7e4d-7d49-4b75-895d-48cc888042dd",
+    "createdAt": "2025-12-30T02:59:28.000Z",
+    "updatedAt": "2026-01-30T04:59:20.000Z",
+    "emailRecipient": "43fe7e4d-7d49-4b75-895d-48cc888042dd",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 159,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-12-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/qc-inspector-e-star-precision-62da215e8af8cfd132b7789815a81f0a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/62da215e8af8cfd132b7789815a81f0a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/62da215e8af8cfd132b7789815a81f0a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,239 @@
+{
+  "uuid": "23c4829e04a1bf6c7d25bb7e5ae12393",
+  "sourceCode": "Employer Portal",
+  "title": "Housekeeping Supervisor",
+  "description": "<p><strong>Responsibilities:</strong></p>\n<ul>\n  <li>Supervise housekeeping staff to ensure orderly housekeeping work</li>\n  <li>Maintenance of the general cleanliness of the hotel guest rooms and      public areas</li>\n  <li>Recommend procedures and policies for housekeeping operations to improve      standards and procedures</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n  <li>Minimum GCE 'O' Levels or SPM qualifications</li>\n  <li>Experience in Hotels/ Serviced residences will be an advantage,      with minimum 2 years of supervisory experience in housekeeping operations</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Front Office",
+      "uuid": "0558c4724c1321605189662a0e3f66f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Literacy",
+      "uuid": "4296cdaff1b9d979ae77f796e301e1b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VIP",
+      "uuid": "5a11e0bd65af42743f1db2f10bcbba8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property",
+      "uuid": "5ad234cb2cde4266195252a23ca7d84e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Counseling",
+      "uuid": "6791e85a01bb2e17b923d2f2e8574a9e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Turnover",
+      "uuid": "f0da7d56118485f19220a9d4997b51b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51501",
+  "occupationId": "OCC009220",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "197000400K",
+    "description": "<p>UE PARK AVENUE INTERNATIONAL PTE. LTD.</p>    <p>The hospitality arm of United Engineers Limited, managed under the “Park Avenue” brand name, was established in 1998. Today, the Group operates and manages a total of 708 hotel rooms and serviced suites in four key nodes of Singapore: <em>Park Avenue Clemenceau</em> in <em>UE Square</em>, <em>Park Avenue Rochester</em> in the mixed-use development at one-north, <em>Park Avenue Changi</em> in <em>UE BizHub EAST</em> and <em>Park Avenue Robertson</em> at Kim Yam Road. </p>  ",
+    "name": "UE PARK AVENUE INTERNATIONAL PTE. LTD.",
+    "ssicCode": "68102",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:57:02.000Z",
+    "ssicCode2020": "68102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000400K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000400K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000400K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000400K/schemes"
+      }
+    },
+    "logoFileName": "00573707f03577400e27128df8f4cae1/ue-park-avenue-international.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/00573707f03577400e27128df8f4cae1/ue-park-avenue-international.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "31",
+    "street": "ROCHESTER DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "PARK AVENUE ROCHESTER",
+    "postalCode": "138637",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30535121511821,
+    "lng": 103.788347379295
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175971",
+    "deletedAt": null,
+    "createdBy": "46133338-ce25-41c5-8fe9-807c635d4de5",
+    "createdAt": "2026-01-28T09:00:50.000Z",
+    "updatedAt": "2026-01-28T09:00:50.000Z",
+    "emailRecipient": "46133338-ce25-41c5-8fe9-807c635d4de5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/housekeeping-supervisor-ue-park-avenue-international-23c4829e04a1bf6c7d25bb7e5ae12393",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/23c4829e04a1bf6c7d25bb7e5ae12393"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/23c4829e04a1bf6c7d25bb7e5ae12393/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

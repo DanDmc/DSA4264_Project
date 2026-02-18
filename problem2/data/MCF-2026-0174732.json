@@ -1,0 +1,233 @@
+{
+  "uuid": "09bbbb2b0dd92b2cef19626e4cfa20ad",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Full-Stack Engineer (R&D)",
+  "description": "<p><strong>Who we look for</strong></p><p>We’re seeking a senior Full-Stack Engineer to lead a diverse team to design, implement, and optimize production-grade tools and applications that support video game asset pipelines and production workflows.</p><p><br /><strong>Responsibilities</strong></p><p><br />•\tBackend</p><p>o\tDesign and build scalable backend services and secure RESTful APIs using Python (FastAPI or Flask).</p><p>o\tModel, query, and optimize data across relational and NoSQL databases; implement caching and messaging when needed.</p><p>o\tEnforce authentication/authorization, input validation, and robust error handling.</p><p><br />•\tFrontend (web and desktop)</p><p>o\tDevelop responsive, accessible, and performant web UIs using modern frameworks, HTML5, CSS(Tailwind), and TypeScript/JavaScript.</p><p>o\tBuild and maintain Electron-based desktop applications, including IPC, packaging, auto-update, and native integrations.</p><p>o\tEstablish UI component standards, testing strategies, and performance best practices.</p><p><br />•\tQuality, performance, and delivery</p><p>o\tWrite comprehensive tests with tools such as pytest.</p><p>o\tOwn performance tuning, troubleshooting, code reviews, and technical documentation.</p><p>o\tSet up and maintain CI/CD with Git and GitLab; use Docker for local development and deployment pipelines.</p><p><br />•\tCollaboration and process</p><p>o\tPartner with UI/UX, backend, production, SRE, and IT stakeholders to deliver user-centric solutions.</p><p>o\tContribute to architectural decisions and mentor junior engineers.</p><p>o\tWork within agile methodologies, continuously improving team practices.</p><p><strong>Qualifications</strong></p><p>•\t4+ years of professional experience building production applications as a full stack engineer.</p><p>•\tStrong hands-on expertise in Python (FastAPI or Flask), RESTful API design, and SQLAlchemy/Pydantic or similar tooling.</p><p>•\tProficiency in Vue or React, including routing, state management (Vuex/Pinia or Redux), and component libraries.</p><p>•\tProven experience working on public cloud like AWS/GCP</p><p>•\tDatabase proficiency with relational systems (PostgreSQL) and familiarity with NoSQL (MongoDB, Vector DB); experience with caching and message queues (Redis) is valued.</p><p>•\tProven testing mindset and experience with automated test suites.</p><p>•\tComfortable with Git, GitLab CI/CD, and Docker.</p><p>•\tClear communication skills and experience collaborating with cross-functional teams.</p><p><br /><strong>Nice to have</strong></p><p>•\tExperience with agent development frameworks (LangChain/LangGraph) is a plus.</p><p>•\tCertification: AWS Certified Solutions Architect – Associate</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MongoDB",
+      "uuid": "206e3718af092fd1d12f80cae771ccac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Methodologies",
+      "uuid": "6342d6af2ccaa3545040f5de74760c3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML5",
+      "uuid": "6bff62b10d884fb77428cfe168cd783d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UI",
+      "uuid": "71ff71526d15db86eb50fcac245d183b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Flask",
+      "uuid": "9784e91c7b2657917226bc82afdd6789",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Tuning",
+      "uuid": "bffe7898e0faada14e4fb09bd6717314",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FastAPI",
+      "uuid": "f275f2a55ee4abdf8875dce6987e2f5f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002120",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201802667E",
+    "description": "<p>Virtuos provides the highest quality games and art to publishers and developers worldwide.<br />\nWe have two main divisions to better serve our clients:Games and Art, for a total of 1,500 staff across eight locations worldwide</p>\n",
+    "name": "VIRTUOS HOLDINGS PTE. LTD.",
+    "ssicCode": "62012",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T07:03:34.000Z",
+    "ssicCode2020": "62012",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802667E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802667E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802667E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802667E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "FUSIONOPOLIS WAY",
+    "floor": null,
+    "unit": null,
+    "building": "CONNEXIS",
+    "postalCode": "138632",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29936328832976,
+    "lng": 103.787687643371
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174732",
+    "deletedAt": null,
+    "createdBy": "4a1c68ff-9600-427f-a23d-cd82e387c69e",
+    "createdAt": "2026-01-28T07:07:34.000Z",
+    "updatedAt": "2026-01-28T07:07:34.000Z",
+    "emailRecipient": "4a1c68ff-9600-427f-a23d-cd82e387c69e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 70,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-full-stack-engineer-virtuos-holdings-09bbbb2b0dd92b2cef19626e4cfa20ad",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09bbbb2b0dd92b2cef19626e4cfa20ad"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09bbbb2b0dd92b2cef19626e4cfa20ad/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

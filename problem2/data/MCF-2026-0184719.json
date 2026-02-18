@@ -1,0 +1,228 @@
+{
+  "uuid": "6a0aead7f552b28ef6f4c198ab100550",
+  "sourceCode": "Employer Portal",
+  "title": "AI SOftware Engineer",
+  "description": "<p>Avensys is a reputed global IT professional services company headquartered in Singapore. Our service spectrum includes enterprise solution consulting, business intelligence, business process automation and managed services. Given our decade of success, we have evolved to become one of the top trusted providers in Singapore and service a client base across banking and financial services, insurance, information technology, healthcare, retail and supply chain.</p><p>We are currently looking to hire a AI Software Engineer<strong>.</strong> This is an exciting opportunity to expand your skill set, achieve job satisfaction and work-life balance. More details as below.</p><p><strong>JOB TYPE:</strong></p><p>Long Term Contract</p><p><u><strong>Job Scope:</strong></u></p><p>Design, build, and operate\nproduction-grade agentic and GenAI systems—end to end. You’ll ship services\n(not just notebooks): robust APIs, reusable components, and secure pipelines\nthat connect LLMs, tools, knowledge, and enterprise systems. You’ll pair strong\nsoftware engineering with modern AI practices (RAG, agent orchestration, policy\nchains, evals) to deliver measurable business outcomes at scale.</p><p><strong>1. Agent & Application\nEngineering</strong></p><ul><li>Design\n     multi-agent systems (MAS) with planning, tool-use, and delegation (e.g.,\n     LangGraph/Semantic Kernel); expose them via REST/gRPC APIs\n     (FastAPI/Express/Java/Go).</li><li>Implement\n     tool adapters (SQL, search, document stores, web calls, code exec) with\n     strict type contracts and safe sandboxes.</li><li>Build\n     model gateway integrations (OpenAI/Azure OpenAI/Bedrock/Vertex;\n     self-hosted vLLM/TGI) with routing, rate-limits, retries, and fallback\n     chains.</li></ul><p><strong>2. Retrieval, Data &\nKnowledge</strong></p><ul><li>Stand\n     up RAG services: chunking, enrichment, embeddings, indexing, hybrid/vector\n     search (pgvector/Pinecone/Weaviate; OpenSearch/Azure AI Search).</li><li>Implement\n     ingestion pipelines (Airflow/Prefect/Celery/Ray) for docs, tickets, chat,\n     and ERP/CRM data; handle PII redaction and metadata governance.</li><li>Optimize\n     retrieval quality (chunking strategies, re-rankers, query rewriting) with\n     offline/online evaluation and A/B tests.</li></ul><p><strong>3. Quality, Testing &\nEvaluation</strong></p><ul><li>Treat\n     prompts and graphs as code: version, diff, and test them (unit tests for\n     prompts/tools; golden sets; regression suites).</li><li>Build\n     evaluation harnesses (latency, cost, accuracy, toxicity, hallucination,\n     guardrail hit-rates); wire into CI.</li><li>Add\n     drift detection for conversational systems; implement safe shutdown and\n     auto-rollback.</li></ul><p><strong>4. Platform &\nOperations</strong></p><ul><li>Package\n     services as containers; deploy to Kubernetes with Helm/Argo CD; configure\n     autoscaling, HPA/VPA, and resource quotas.</li><li>Implement\n     policy chains and guardrails (OPA/Gatekeeper for policy, Presidio for PII,\n     Trivy for image scanning).</li><li>Instrument\n     deep observability: tracing (OpenTelemetry), metrics (Prometheus), logs\n     (ELK/OPENSEARCH), cost meters per request/model.</li></ul><p><strong>5. Security &\nCompliance</strong></p><ul><li>Manage\n     secrets (HashiCorp Vault/KMS), signed images, SBOMs; enforce\n     least-privilege IAM.</li><li>Build\n     tenant isolation and data residency controls; implement red/blue team\n     prompts and jailbreak defenses.</li></ul><p><strong>6. Integration &\nEnterprise Workflows</strong></p><ul><li>Ship\n     connectors and events for SAP/CRM/ITSM and Kafka topics; design\n     idempotent, retry-safe processors.</li><li>Automate\n     business workflows with pro-code services first; expose low-code surfaces\n     only where appropriate.</li></ul><p><strong>7. Collaboration &\nLeadership</strong></p><ul><li>Partner\n     with Product, Data, and Platform teams to define SLAs/SLOs and success\n     metrics.</li><li>Mentor\n     engineers on “AI as software” practices; run design reviews and\n     postmortems.</li></ul><p><u><strong>Qualifications</strong></u></p><p>The ideal candidate should\npossess:</p><ul><li>1+ years in software engineering (prod services, not just prototypes),\n     including 1+ year leading small projects.</li><li>Strong in one systems language (Python/TypeScript/Go/Java) and comfortable in a second.</li><li>Hands-on with containers, Kubernetes, CI/CD (GitHub Actions/GitLab/Jenkins), IaC (Terraform), and cloud (Azure/AWS/GCP).</li><li>PracticalLLM experience: building RAG/agent apps, prompt design, tool-use, and safety patterns.</li><li>Data\n     skills: designing schemas, batch/stream pipelines, and search indexes;\n     proficiency with SQL and one vector DB.</li><li>Testing\n     mindset: unit/integration tests, load tests, golden datasets for LLM\n     evals.</li><li>Security\n     basics: secrets, policies, scanning, and least-privilege IAM.</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Agent\n     orchestration (LangGraph, Semantic Kernel) and distributed compute (Ray)\n     in production.</li><li>Search/retrieval\n     tuning (BM25 + vector hybrid, re-ranking, query planning).</li><li>Observability\n     at scale with OpenTelemetry; cost/perf optimization across model/router\n     layers.</li><li>Experience\n     in regulated or high-throughput domains (e.g., telco, finance,\n     healthcare); multi-tenant and data-residency patterns.</li><li>Domain\n     integrations (SAP/CRM/ITSM), event-driven architectures (Kafka/Debezium),\n     and policy enforcement (OPA/Gatekeeper).</li><li>Familiarity\n     with TM Forum APIs / BSS-OSS patterns is a plus (if in telco context).</li></ul><p><strong>Tech Stack (Illustrative)</strong></p><ul><li>Languages:\n     Python, TypeScript/Node.js (plus Go/Java bonus)</li><li>Frameworks:\n     FastAPI/Express, LangGraph/Semantic Kernel, Ray/Celery, Airflow/Prefect</li><li>Storage/Search:\n     Postgres, Redis, S3/Blob; pgvector/Pinecone/Weaviate; OpenSearch/Azure AI\n     Search</li><li>LLM\n     Runtime: OpenAI/Azure OpenAI/Bedrock/Vertex; vLLM/TGI; inference\n     routers/gateways</li><li>Platform:\n     Docker, Kubernetes, Helm, Argo CD, Terraform, Vault, Istio</li><li>Observability:\n     OpenTelemetry, Prometheus/Grafana, ELK/OpenSearch.<br />To submit your application please email your CV to Khalid Farooq at khalid@aven-sys.com.</li></ul><p><strong>CONSULTANT DETAILS</strong></p><p><strong>Consultant Name: Khalid Farooq</strong></p><p><strong>Avensys Consulting Pte Ltd</strong></p><p><strong>EA Licence 12C5759</strong></p><p>Privacy Statement: Data collected will be used for recruitment purposes only. Personal data provided will be used strictly in accordance with the relevant data protection law and Avensys' personal information and privacy policy</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Managed Services",
+      "uuid": "1eb01c0da669b165a05294c5450c7130",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process Automation",
+      "uuid": "27746d2889a20e07549a4ed41eb9f5fd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Enforcement",
+      "uuid": "61438c8d2463d6dd334a1d4b8e7b03ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tenant",
+      "uuid": "6252d0571760e3d285e2e41a2b1e7743",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Metadata",
+      "uuid": "ce21470ab49d1d1976bc3dc72438c183",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Services",
+      "uuid": "f279b250fb9ccc9ae5a43849e8f6fd4c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013771",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200710657H",
+    "description": "<p>Avensys is among the leaders in providing technology enabled business solutions and services. Since inception, Avensys has helped clients use IT more efficiently to improve their operations and profitability, focus on core competencies and achieve business results such as increased agility, innovation and profitable growth. Our in-depth technical knowledge coupled with industry experience and our unique methodologies enable us to successfully deliver and meet our customer’s expectations.</p>\r\n\r\n<p> </p>\r\n",
+    "name": "AVENSYS CONSULTING PTE. LTD.",
+    "ssicCode": "62022",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:15:39.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200710657H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200710657H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200710657H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200710657H/schemes"
+      }
+    },
+    "logoFileName": "c1af874c01627b4b4ecfaa83f0e219e4/avensys-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/c1af874c01627b4b4ecfaa83f0e219e4/avensys-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184719",
+    "deletedAt": null,
+    "createdBy": "7ac75676-d27c-4b7d-b4b6-6eddf3f0c75c",
+    "createdAt": "2026-01-29T15:27:45.000Z",
+    "updatedAt": "2026-01-29T15:27:45.000Z",
+    "emailRecipient": "7ac75676-d27c-4b7d-b4b6-6eddf3f0c75c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 106,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-software-engineer-avensys-consulting-6a0aead7f552b28ef6f4c198ab100550",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a0aead7f552b28ef6f4c198ab100550"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a0aead7f552b28ef6f4c198ab100550/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

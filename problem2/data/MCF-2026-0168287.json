@@ -1,0 +1,223 @@
+{
+  "uuid": "4cf552e757555f0fe89d784f8931d756",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Aircon Technician",
+  "description": "<ul><li>Looking for experienced aircon technician</li><li>6 days working week</li><li>Willing to work overtime</li><li>Must be able to work as a team</li><li>Aircon installation & mainteance servicing and repairing</li><li>Must be able to troubleshoot and repair all type of aircon system (split, VRV etc)</li><li>Able to install split/VRV system</li><li>Able to work independently and ability to interact with staff at all levels.</li></ul>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "GxP",
+      "uuid": "06971495e2530eaf8d1fa1f410a54b32",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Air Conditioning",
+      "uuid": "110a420e14d90135b7faa1464a195b58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vacuum Pumps",
+      "uuid": "11dd780c983d8863e33ee365c192629d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Corrosion",
+      "uuid": "15631ac73c850cd6f0ae773e87669c43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31152",
+  "occupationId": "OCC005596",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202129850R",
+    "description": null,
+    "name": "DING SHUN CONSTRUCTION PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:07:08.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202129850R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202129850R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202129850R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202129850R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168287",
+    "deletedAt": null,
+    "createdBy": "35457df2-4540-4f50-ad0e-5efb07d74636",
+    "createdAt": "2026-01-27T09:37:28.000Z",
+    "updatedAt": "2026-01-27T09:37:28.000Z",
+    "emailRecipient": "35457df2-4540-4f50-ad0e-5efb07d74636",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/senior-aircon-technician-ding-shun-construction-4cf552e757555f0fe89d784f8931d756",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4cf552e757555f0fe89d784f8931d756"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4cf552e757555f0fe89d784f8931d756/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

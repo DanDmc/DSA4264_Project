@@ -1,0 +1,212 @@
+{
+  "uuid": "7b7978afc367e99855688a50c7de9e2b",
+  "sourceCode": "Employer Portal",
+  "title": "Junior Sales and Marketing Representative",
+  "description": "<p>👑 Join Royal Org!<br /><br />No experience? No stress.<br />We’ll train you, support you, and help you grow while having fun along the way.<br /><br />What You’ll Be Doing:<br />• Represent well-known brands at events and campaigns<br />• Travel for networking, and new experiences<br />• Get 1-on-1 coaching from experienced mentors</p><p>What’s In It for You:<br />• Travel & Adventure – Explore new places and meet amazing people<br />• Career Progression – Clear, performance-based path to leadership<br />• Supportive Culture – Work with driven, positive people<br /><br /><br />You’ll Thrive Here If You:<br />• Love meeting and working with people<br />• Are eager to learn and grow fast<br />• Want to be part of a high-energy, supportive team<br /></p><p></p><p>🔥 Ready to build real skills and start something exciting?<br />Apply now!</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamwork",
+      "uuid": "16c129bc8a57941c7cdb12241f1058fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Face to face sales",
+      "uuid": "28d6b0b97e6b9139b31526b4e13e9fd2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mentorship",
+      "uuid": "8b3c953573310534b9f4c36305cf90c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ability to travel",
+      "uuid": "b9f9b791f0fb1be7ed7c9884cb7972d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oral & Written Communication Skills",
+      "uuid": "f044f2eb8533dcf1ade690ec97f202d4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33229",
+  "occupationId": "OCC061860",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201917739G",
+    "description": "<p>At Royal Org, we believe the people make a difference. Like clay in a potter’s hand, we continuously mould each individual by giving them room to make mistakes, opportunities to be exposed to, and grow as a family. We strongly believe in guiding, leading and walking together as a team to achieve success.</p>",
+    "name": "ROYAL ORG PTE. LTD.",
+    "ssicCode": "46100",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:47:55.000Z",
+    "ssicCode2020": "46100",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/schemes"
+      }
+    },
+    "logoFileName": "f5a8e1977d3a1172ee9ae1bc82176d1d/royal-org.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f5a8e1977d3a1172ee9ae1bc82176d1d/royal-org.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "53A",
+    "street": "BOAT QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "049842",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28709716700162,
+    "lng": 103.849263870801
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167306",
+    "deletedAt": null,
+    "createdBy": "2f65ef7e-31d0-48f7-8b00-4e74e0ba0a74",
+    "createdAt": "2026-01-27T08:12:16.000Z",
+    "updatedAt": "2026-01-27T08:12:16.000Z",
+    "emailRecipient": "2f65ef7e-31d0-48f7-8b00-4e74e0ba0a74",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 14,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-17",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/marketing/junior-sales-marketing-representative-royal-org-7b7978afc367e99855688a50c7de9e2b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7b7978afc367e99855688a50c7de9e2b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7b7978afc367e99855688a50c7de9e2b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

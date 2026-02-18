@@ -1,0 +1,229 @@
+{
+  "uuid": "75175dffec2c99decd65ad848adc3681",
+  "sourceCode": "Employer Portal",
+  "title": "Cybersecurity Consultant",
+  "description": "<p>Epergne Solutions is looking for a IT Security Consultant. <br /></p><p><strong>Experience & Qualifications:</strong> </p><ul><li>We require a bachelor’s degree in computer science, Information Technology, Cybersecurity, or a related field with 5 years of relevant  experience.</li><li>You should have experience in one or more of the following domains- Network security design, applications secure development, cryptography, secure mobility management, cloud hosting design and implementation,\nDevSecOps, etc.</li><li>You should also be experienced in working with cross-functional, multi-disciplinary teams or contractors to formulate and security policies, standards, procedures and configurations</li><li>Possessing security certifications such as SANS GCIH, CISSP, CISM, CISA and Azure or AWS cloud service security specialty is an added advantage.</li></ul><p><strong>Technical Skills:</strong></p><ul><li>Proficient with tools like Tenable, Nessus, and Splunk.</li><li>Familiar with cloud security platforms (e.g., AWS Security Hub, Microsoft Defender/Sentinel for Cloud).</li><li>Understand cybersecurity investigation processes and vulnerability assessment/penetration testing (VAPT).</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "uuid": "0889f4cee1d9f42ae2c1daf686377de0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ICT",
+      "uuid": "395b46c50c2eeeefbc2180c8630df2d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cryptography",
+      "uuid": "64ef07ce3e4b420c334227eecb3b3f4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mobility",
+      "uuid": "7393daff1b0755731b3c165b370c333a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Penetration Testing",
+      "uuid": "97def0245e723621477eeda0a410ec36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISA",
+      "uuid": "c4cf1337de12d64001452cba233ff8bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201807042Z",
+    "description": "<p>Epergne Solutions is a leading IT solution provider with niche, comprehensive and leading-edge capabilities. Our primary focus is to be a trusted partner and strategic technology advisor to our clients.</p>\n\n<p>We provide high quality IT solutions and services by adopting to latest technologies with a competent workforce. Our experience allows us to analyze your needs quickly and thus deliver on our promises faster than others, and within budget. </p>\n",
+    "name": "EPERGNE SOLUTIONS PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:25:40.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187959",
+    "deletedAt": null,
+    "createdBy": "e8655040-8947-4e56-a242-c1ede083faaf",
+    "createdAt": "2026-01-30T05:27:05.000Z",
+    "updatedAt": "2026-01-30T05:27:05.000Z",
+    "emailRecipient": "e8655040-8947-4e56-a242-c1ede083faaf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/cybersecurity-consultant-epergne-solutions-75175dffec2c99decd65ad848adc3681",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/75175dffec2c99decd65ad848adc3681"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/75175dffec2c99decd65ad848adc3681/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

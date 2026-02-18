@@ -1,0 +1,219 @@
+{
+  "uuid": "ff272d4ba0e27396b7ee40be047d154c",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Supervisor",
+  "description": "<ul>\n  <li>Supervisory</li>\n  <li>Act as the point of contact</li>\n  <li>Supervise business op</li>\n  <li>Resolve conflicts and provide solutions</li>\n  <li>Supervise outlets and improve sales</li>\n  <li>Report on health of outlet and implyment new ideas</li>\n  <li>Monitor sales metrics (e.g. quarterly sales results and annual forecasts)</li>\n  <li>Supervise actions to improve sales performance and identify opportunities for growth</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n  <li>Proven work experience</li>\n  <li>Suoervising of sales performance metrics</li>\n  <li>Excellent communication and negotiation skills</li>\n  <li>Willing to work on Public Holidays and weekends</li>\n  <li>Business acumen with a problem-solving attitude</li>\n</ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Customer Support",
+      "uuid": "45db51f999b9e9fc7263a7e0ebc2d7f0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Business Acumen",
+      "uuid": "5461a19fc1be807c54a3cb996b236fd5",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52201",
+  "occupationId": "OCC009600",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    },
+    {
+      "id": 42,
+      "category": "Wholesale Trade"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "24287300J",
+    "description": null,
+    "name": "THREE STARS UMBRELLA FACTORY",
+    "ssicCode": "32909",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T01:13:52.000Z",
+    "ssicCode2020": "32909",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/24287300J"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/24287300J/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/24287300J/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/24287300J/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1244891",
+    "deletedAt": "2025-09-04T17:15:04.000Z",
+    "createdBy": "51685207-b750-4e1f-b406-1175d318723c",
+    "createdAt": "2025-08-21T02:20:08.000Z",
+    "updatedAt": "2026-01-28T01:15:08.000Z",
+    "emailRecipient": "51685207-b750-4e1f-b406-1175d318723c",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 58,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2025-08-21",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/marketing/sales-supervisor-three-stars-umbrella-factory-ff272d4ba0e27396b7ee40be047d154c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5100,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff272d4ba0e27396b7ee40be047d154c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff272d4ba0e27396b7ee40be047d154c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

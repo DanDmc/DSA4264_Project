@@ -1,0 +1,209 @@
+{
+  "uuid": "622c2a47d980121aa48a28eb6dae191d",
+  "sourceCode": "Employer Portal",
+  "title": "Driver",
+  "description": "<p>We are looking for full time driver (for 10 & 14 feet lorry). Ideal candidate is expected to drive materials across outlets in Singapore and to customer location.</p><ul><li>Required Skill(s): Class 3 Driving License. Class 4 driving license will be an added advantage.</li><li>Fork lift license will be an added advantage.</li><li>Candidate with reasonable english fluency (spoken english) will be considered.</li><li>Locals are preferred.</li><li>Candidate must possess at least Primary/Secondary School/\"O\" Level</li><li>At least 2 Year(s) of working experience as driver is preferred.</li><li>6 day a week, monday to Saturday; Timing 8.30am until finish.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamwork",
+      "uuid": "16c129bc8a57941c7cdb12241f1058fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Materials",
+      "uuid": "23ce0eb7d180f3dc8391d4af48572d21",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Material Handling",
+      "uuid": "659a66cbbab23b1b3ba8d6f5f6274d04",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Metalworking",
+      "uuid": "a4f5797996754657e3da0cf6bd743c82",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Building",
+      "uuid": "bc42c84d156c4f70ff6ba18d466fedeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "fork lift",
+      "uuid": "d6fb828e8f95bb78578a0f54d169f0a4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "03",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201525238N",
+    "description": "<p>Our business involves buying and selling all types of metal scraps from variety of customers. We intent to provide an ethical, fair business with good service quality. We are an equal opportunity employer with strong belief in inclusive growth.</p>",
+    "name": "DAS RECYCLING PTE. LTD.",
+    "ssicCode": "38301",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:13:51.000Z",
+    "ssicCode2020": "38301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N/schemes"
+      }
+    },
+    "logoFileName": "6ddb7d0c3a15711e0b8a49d7287cb7a2/das-recycling.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6ddb7d0c3a15711e0b8a49d7287cb7a2/das-recycling.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192856",
+    "deletedAt": null,
+    "createdBy": "c90287c7-5301-45b6-bb8e-4904282ff414",
+    "createdAt": "2026-01-31T05:43:04.000Z",
+    "updatedAt": "2026-01-31T05:43:04.000Z",
+    "emailRecipient": "c90287c7-5301-45b6-bb8e-4904282ff414",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/driver-das-recycling-622c2a47d980121aa48a28eb6dae191d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/622c2a47d980121aa48a28eb6dae191d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/622c2a47d980121aa48a28eb6dae191d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

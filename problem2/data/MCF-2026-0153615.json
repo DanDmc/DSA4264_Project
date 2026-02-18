@@ -1,0 +1,267 @@
+{
+  "uuid": "67b4646d0adc5ba31df0a08129072373",
+  "sourceCode": "Employer Portal",
+  "title": "PLASTERER",
+  "description": "<ul><li>Examining and priming surfaces for plastering.</li><li>Selecting the appropriate plastering materials for different sites.</li><li>Protecting non-plastering surfaces with appropriate materials.</li><li>Applying different plasters to exterior and interior surfaces.</li><li>Fixing and repairing previous plastering work when necessary.</li><li>Reporting any structural issues to the site foreman.</li><li>Mixing and preparing mortar, plasters, and other finishes.</li><li>Consulting with other contractors to ensure project deadlines are met timeously.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Store Operations",
+      "uuid": "0466ba3dd935b55b36fa968929f5db8a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cleaning",
+      "uuid": "0647f0776aed243f58bfec4dd81de863",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Producing",
+      "uuid": "1943da116b4d2db7d17c78d7bc64ac92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Restaurants",
+      "uuid": "386c1f850fbd5f478fb4ef8a134c1740",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "plastering",
+      "uuid": "43f22d19b3fd2fcc2def214423951fc8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Critical Thinking",
+      "uuid": "4fb174b9bf8f956e0c1efc8473169c24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Planning",
+      "uuid": "96aced0b7d642ea8c08c5ce8ec6262a1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bakery",
+      "uuid": "c07c35714963668a8ec1b8784f83d143",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Work",
+      "uuid": "e40d1210d4bc1ec33845372c06d29971",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Catering",
+      "uuid": "e5f6696fe35a80686e78bd72bd59ca17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "71230",
+  "occupationId": "OCC010012",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 13,
+      "category": "Environment / Health"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200518029H",
+    "description": null,
+    "name": "NUR AYISA INTERIOR DESIGN PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T12:43:53.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200518029H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200518029H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200518029H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200518029H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "55",
+    "street": "ALIWAL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "199931",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30285772548959,
+    "lng": 103.860575870491
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153615",
+    "deletedAt": null,
+    "createdBy": "5f15422f-111b-41a9-8656-5a397bdc4e69",
+    "createdAt": "2026-01-25T13:33:00.000Z",
+    "updatedAt": "2026-01-25T13:33:00.000Z",
+    "emailRecipient": "5f15422f-111b-41a9-8656-5a397bdc4e69",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 45,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-08",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/plasterer-nur-ayisa-interior-design-67b4646d0adc5ba31df0a08129072373",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/67b4646d0adc5ba31df0a08129072373"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/67b4646d0adc5ba31df0a08129072373/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

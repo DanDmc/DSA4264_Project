@@ -1,0 +1,234 @@
+{
+  "uuid": "516519c35e8833dc00399bcabae3c074",
+  "sourceCode": "Employer Portal",
+  "title": "Supervisor",
+  "description": "<p><strong>Job Description & Requirements</strong></p><p>A <strong>Site Supervisor</strong> is responsible for overseeing and managing daily activities at the construction site to ensure work is carried out safely, efficiently, and in accordance with project requirements. Key duties include:</p><ol><li><p>Monitor the productivity and performance of workers to ensure targets and quality standards are met.</p></li><li><p>Provide technical and engineering support at the work site when required.</p></li><li><p>Prepare daily progress reports and update management on site activities.</p></li><li><p>Ensure proper housekeeping and maintain a clean, safe working environment.</p></li><li><p>Arrange and coordinate materials, tools, and equipment for site operations.</p></li><li><p>Follow instructions and directions issued by the office and management team</p></li></ol>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Engineering Support",
+      "uuid": "c0b951255d52a739ef0d5fa6b202b309",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202005532D",
+    "description": null,
+    "name": "NN ENGINEERING AND CONSTRUCTION PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T11:13:32.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005532D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005532D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005532D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005532D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "404",
+    "street": "ADMIRALTY LINK",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "750404",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.4535665048964,
+    "lng": 103.816469172419
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193765",
+    "deletedAt": null,
+    "createdBy": "fe142264-1968-4773-bcf0-e1c5d8503000",
+    "createdAt": "2026-01-31T11:18:27.000Z",
+    "updatedAt": "2026-01-31T11:18:27.000Z",
+    "emailRecipient": "fe142264-1968-4773-bcf0-e1c5d8503000",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/supervisor-nn-engineering-construction-516519c35e8833dc00399bcabae3c074",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4600,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/516519c35e8833dc00399bcabae3c074"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/516519c35e8833dc00399bcabae3c074/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

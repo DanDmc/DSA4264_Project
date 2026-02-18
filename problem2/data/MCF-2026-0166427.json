@@ -1,0 +1,222 @@
+{
+  "uuid": "55060dc692b96b48c80fd7e5fd487cb5",
+  "sourceCode": "Employer Portal",
+  "title": "Document Controller",
+  "description": "<p><strong>Responsibilities</strong></p><ul><li>Maintain and process company documents to ensure accurate and organized records throughout project phases</li><li>Assist project team by preparing reports, meeting notes, and fulfilling other documentation requests to support project progress</li><li>Manage and transmit project files from initiation through construction and closeout to maintain project continuity</li><li>Collect, scan, and upload documents following established procedures to ensure timely and accurate data entry</li><li>Register all technical documents, including reports, drawings, and blueprints, in the document management system for easy retrieval</li><li>Notify relevant personnel of updated document versions and provide guidance on accessing the latest information</li><li>Print and distribute documents as needed to facilitate communication and workflow across teams</li><li>Collaborate with various departments such as human resources, marketing, and construction to manage documents and records effectively</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Document Management",
+      "uuid": "04ab7e9520f65aa6c1c1c1eb8c397873",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Archiving",
+      "uuid": "2fc383c67ed70aa7f93a5ece39b4abf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21414",
+  "occupationId": "OCC003168",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "81",
+  "ssecFos": "1119",
+  "postedCompany": {
+    "uen": "201809094W",
+    "description": null,
+    "name": "STI ADVANCE (S) PTE. LTD.",
+    "ssicCode": "43299",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T01:53:19.000Z",
+    "ssicCode2020": "43299",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809094W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809094W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809094W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809094W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "280",
+    "street": "WOODLANDS INDUSTRIAL PARK E5",
+    "floor": null,
+    "unit": null,
+    "building": "HARVEST @ WOODLANDS",
+    "postalCode": "757322",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45132505713205,
+    "lng": 103.79109517658
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166427",
+    "deletedAt": null,
+    "createdBy": "19a130b6-6109-4d97-a269-ef771af8709f",
+    "createdAt": "2026-01-27T06:39:21.000Z",
+    "updatedAt": "2026-01-27T06:39:21.000Z",
+    "emailRecipient": "19a130b6-6109-4d97-a269-ef771af8709f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 154,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/document-controller-sti-advance-55060dc692b96b48c80fd7e5fd487cb5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/55060dc692b96b48c80fd7e5fd487cb5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/55060dc692b96b48c80fd7e5fd487cb5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

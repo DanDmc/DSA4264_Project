@@ -1,0 +1,254 @@
+{
+  "uuid": "af8dc80703c0147eb2b0798409c5a1af",
+  "sourceCode": "Employer Portal",
+  "title": "SALES SUPERVISOR",
+  "description": "<p><strong>Responsibilities:</strong></p><p>· Responsible for Sales target set for the business.</p><p>· Perform daily sales activities such as prospecting calls, customer appointments,\npresentations, proposals and closing orders.</p><p>· Engage with all clients in the market area to ensure high levels of clients' satisfaction.</p><p>· Keep abreast of product applications, market conditions, competitive activities and\nindustry trends.</p><p><strong>Requirements:</strong></p><p>· Must have good business acumen.</p><p>· Good communication and interpersonal skills are essential.</p><p>· Must be service & results oriented</p><p>· Able to work on weekend and public holiday</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Trade Shows",
+      "uuid": "02d60473e5ce45c61d329b5f004924c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Support",
+      "uuid": "45db51f999b9e9fc7263a7e0ebc2d7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Sales",
+      "uuid": "6dc9fae99bf94d3db2f640dec2b98dbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written Communication",
+      "uuid": "7f2949efe8a7cc63a1144796a4ce403a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Operations",
+      "uuid": "9dd5e4a3d36861e2bafe904fc2161237",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52201",
+  "occupationId": "OCC009600",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "201832108C",
+    "description": "<p>57 Employment Agency Pte Ltd was incorporated in Singapore since 2018. Our company is licensed with Ministry Of Manpower, license number 18C9450. As the experts in talent recruitment and human resource engagement services, we pride ourselves on the timely delivery of these services through our team of dedicated and experienced professionals.</p>\n\n<p>As a one-stop human capital solution provider, 57 Employment Agency Pte Ltd intensifies the process of recruiting the potential candidates for our valued clients. To ensure a smooth, hassle free and efficient recruitment process, we also provide the necessary documentations, permit applications, medical check-ups and accommodations for the foreign candidates.</p>\n\n<p>Our team of highly dedicated and competent consultants are unparalleled in providing prompt and effective manpower solutions to our valued clients with their wide range of industries knowledge.</p>\n",
+    "name": "57 EMPLOYMENT AGENCY PTE. LTD.",
+    "ssicCode": "88991",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:26:55.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/schemes"
+      }
+    },
+    "logoFileName": "fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201538065W",
+    "description": null,
+    "name": "SMART99 PTE. LTD.",
+    "ssicCode": "47102",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T07:59:46.000Z",
+    "ssicCode2020": "47102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201538065W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201538065W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201538065W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201538065W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189588",
+    "deletedAt": null,
+    "createdBy": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "createdAt": "2026-01-30T08:15:12.000Z",
+    "updatedAt": "2026-01-30T08:15:13.000Z",
+    "emailRecipient": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 26,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/sales-supervisor-smart99-af8dc80703c0147eb2b0798409c5a1af",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/af8dc80703c0147eb2b0798409c5a1af"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/af8dc80703c0147eb2b0798409c5a1af/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

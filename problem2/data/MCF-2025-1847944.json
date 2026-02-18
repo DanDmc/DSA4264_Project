@@ -1,0 +1,233 @@
+{
+  "uuid": "5653695301b90c1225be2e872395cca2",
+  "sourceCode": "Employer Portal",
+  "title": "Director, Senior Engineer, Technology Service Delivery Group",
+  "description": "<h2>Solution Design & Architecture</h2><ul><li>Lead solution design for project deliverables, ensuring timely delivery of comprehensive technical specifications</li><li>Break down complex, ambiguous problems into actionable solutions with clear knowns, unknowns, and resolution paths</li><li>Design cloud-native architecture that enables multiple future scenarios without over-engineering for uncertainty</li><li>Understand and articulate scaling and reliability limits across major business-critical systems</li><li>Map data relationships and dependencies across technology domains and their impact on the platform</li></ul><h2>Technical Delivery & Excellence</h2><ul><li>Work directly with project delivery teams to translate requirements into high-quality technical implementations</li><li>Write clean, maintainable, well-tested code across the full stack as needed</li><li>Conduct proof-of-concepts to evaluate new technologies and approaches when needed</li><li>Ensure comprehensive observability: everything that can be measured is measured</li><li>Champion engineering best practices including testing, documentation, and code quality standards</li></ul><h2>Mentorship & Knowledge Sharing</h2><ul><li>Mentor junior engineers through code reviews, providing constructive feedback that builds their skills</li><li>Pair with engineers to elevate software development practices and accelerate knowledge transfer</li><li>Conduct technical training sessions and workshops on best practices and new technologies</li><li>Act as a go-to technical resource for less experienced team members</li><li>Foster a culture of continuous learning and technical excellence within the team</li></ul><h2>Collaboration & Communication</h2><ul><li>Coordinate across technology domains to ensure alignment and integration</li><li>Create clear, effective technical documentation for diverse audiences</li><li>Facilitate honest technical debates that strengthen decision-making and team dynamics</li><li>Evangelize new ideas, tools, and processes through compelling presentations</li><li>Collaborate with DevOps teams on infrastructure and deployment strategies</li></ul><h2>Continuous Improvement</h2><ul><li>Stay current with emerging software technologies and share knowledge with the team</li><li>Proactively seek feedback on architecture decisions to refine approaches</li><li>Bring new ideas and present them in clear, well-reasoned ways</li><li>Identify technical debt and advocate for its resolution</li></ul><h1>Requirements:</h1><h2>Technical Expertise</h2><p><strong>Must demonstrate high proficiency in at least 5 of the following areas:</strong></p><ul><li>Full Stack Development: 6+ years of hands-on experience with modern web technologies like React/Next.js, Node.js for front-end and/or Java/Spring Boot or similar for back-end technologies</li><li>Cloud Architecture: Solid experience designing and implementing solutions on Azure (preferred) or AWS/GCP, including microservices and cloud-native patterns</li><li>Mobile Development: Experience with React Native, Flutter, or native iOS/Android development</li><li>Testing & Quality: Strong experience with test automation frameworks and strategies across the testing pyramid (unit, integration, end-to-end)</li><li>DevOps Practices: Good understanding of CI/CD, Infrastructure as Code, containerization (Docker/Kubernetes), and observability</li><li>Database & Data Systems: Experience with both SQL and NoSQL databases, caching strategies, and event streaming</li><li>API Design: Strong skills in RESTful API design, GraphQL, and API gateway patterns</li></ul><h2>Professional Qualities</h2><ul><li>Demonstrated ability to learn new domains and technologies quickly (growth mindset)</li><li>Strong sense of appropriate technical trade-offs in design and implementation</li><li>Track record of completing projects and finishing what you start</li><li>Scrappy approach: making the most with available resources</li><li>Clear, effective communication in both written and verbal formats</li><li>Comfortable facilitating conference calls and remote collaboration</li><li>Ability to communicate effectively with technical and non-technical stakeholders</li><li>Strong mentoring and teaching abilities - able to explain complex concepts clearly</li><li>Proactive in seeking feedback and continuously improving</li><li>Comfortable with honest, constructive debate that strengthens outcomes</li><li>Hands-on mentality: willing to roll up sleeves for both strategic work and day-to-day delivery</li></ul><h1>Preferred Qualifications</h1><ul><li>Previous experience in banking, financial services, or highly regulated industries</li><li>Exposure to corporate/institutional or wealth management/private banking business domains</li><li>Experience working in distributed teams across multiple time zones</li><li>Track record of successfully evangelizing technical change in large organizations</li><li>Experience mentoring or training junior engineers in previous roles</li><li>Active participation in tech communities through speaking, writing, or open source contributions</li></ul>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Technologies",
+      "uuid": "74a0824a8e65e97830e03d279957d56d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microservices",
+      "uuid": "7d488fa9de381b31c51f4e86f62c15ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Automation",
+      "uuid": "7e636b60d041a7a4c38232c3a2830397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Open Source",
+      "uuid": "81f4074bd6383b7398ffe2525180cbae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Training",
+      "uuid": "9ad74786e170d14ffcd21cdcc557a038",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Advocate",
+      "uuid": "af26b7afee6c36a5c2a59c608dc405aa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "React Native",
+      "uuid": "bd9b1ab2f29a5f8de84a861f9081bdd5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Flutter",
+      "uuid": "c047b10eee763afb6164e077cf1cc268",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Delivery",
+      "uuid": "e4a9ed5b8ac0f6f0ac00bcb37d4567f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Services",
+      "uuid": "f279b250fb9ccc9ae5a43849e8f6fd4c",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013733",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "T03FC6366F",
+    "description": "<p>\r\n\tBanking and Finance</p>\r\n",
+    "name": "SUMITOMO MITSUI BANKING CORPORATION Singapore Branch",
+    "ssicCode": "64120",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:04:50.000Z",
+    "ssicCode2020": "64120",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T03FC6366F"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T03FC6366F/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T03FC6366F/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T03FC6366F/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1847944",
+    "deletedAt": "2025-12-23T17:15:04.000Z",
+    "createdBy": "d888342c-ee2b-4b06-962a-8d544cfef601",
+    "createdAt": "2025-12-02T07:26:48.000Z",
+    "updatedAt": "2026-01-31T07:15:06.000Z",
+    "emailRecipient": "d888342c-ee2b-4b06-962a-8d544cfef601",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 246,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2025-12-02",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 22,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/director-senior-engineer-technology-service-delivery-group-sumitomo-mitsui-banking-corporation-singapore-branch-5653695301b90c1225be2e872395cca2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 22000,
+    "minimum": 15000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5653695301b90c1225be2e872395cca2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5653695301b90c1225be2e872395cca2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

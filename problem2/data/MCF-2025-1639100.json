@@ -1,0 +1,250 @@
+{
+  "uuid": "71ae77099232eb8470d08e9c4014e421",
+  "sourceCode": "Employer Portal",
+  "title": "Data Engineer",
+  "description": "<p><strong>1.</strong> <strong>Position Summary</strong></p><p><br /></p><p>We are looking for a Data Engineer to join our team and contribute to a major project within the semiconductor manufacturing domain. The role involves designing and implementing data pipelines, managing Oracle-based data environments, and supporting end-to-end BI processes — from data ingestion to visualization. This position is based on-site at our partner’s advanced manufacturing facility, offering hands-on exposure to large-scale industrial data systems.</p><p><br /></p><p><strong>2.</strong> <strong>Key Responsibilities</strong></p><ul><li>Design and create robust data models to support efficient querying and reporting.</li><li>Define relationships, hierarchies, and calculated columns/measures that align with business logic</li><li>Design, develop, and maintain data pipelines and ETL workflows for manufacturing data (ERP, MES, SPC, FDC, etc.).</li><li>Implement and optimize database logic, including stored procedures, functions, and PL/SQL scripts.</li><li>Build and manage staging schemas, data validation processes, and data transformation logic.</li><li>Develop and maintain data marts and dimensional models to support analytics and reporting.</li><li>Collaborate with BI developers and analysts to deliver Power BI dashboards, KPI reports, and visual analytics.</li><li>Ensure data accuracy, consistency, and completeness across multiple source systems.</li><li>Support data governance, documentation, and performance tuning efforts.</li><li>Partner with internal and external stakeholders to ensure timely and high-quality data delivery for business use.</li><li>Perform any ad-hoc duties assigned by the Company as and when required.</li><li>Perform any ad-hoc duties assigned by the Company as and when required.</li></ul><p><strong>3.</strong> <strong>Qualifications & Skills</strong></p><ul><li>Bachelor’s degree in Computer Science, Information Systems, Engineering, or related field.</li><li>Minimum 3 years of experience in data engineering, data integration, or BI development.</li><li>Strong understanding of data warehousing concepts, schema design, and ETL best practices.</li><li>Solid working experience with relational databases (e.g. Oracle, SQL Server, MySQL, PostgreSQL), including stored procedures and query optimization.</li><li>Proficient with ETL tools such as Pentaho Kettle, Informatica, Talend, or similar.</li><li>Experience developing reports and dashboards in Power BI (or Tableau/Qlik).</li><li>Familiarity with SQL pipelines, data validation, and data replication tools.</li><li>Strong analytical and problem-solving mindset with attention to data quality and performance.</li><li>Ability to work collaboratively with business, IT, and engineering teams in fast-paced environments.</li><li>Excellent documentation and communication skills.</li></ul><p><br /></p><p><strong>4.</strong> <strong>Preferred / Additional</strong></p><ul><li>Experience in semiconductor or manufacturing systems (ERP, MES, SPC, FDC) preferred.</li><li>Exposure to data replication frameworks (Oracle Golden Gate, SharePlex, AWS Glue) is an advantage.</li><li>Familiarity with cloud-based data warehouses (Snowflake, Redshift, Synapse) and Giga Report is a plus.</li><li>Knowledge of data governance frameworks, metadata management, and data security best practices.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Informatica",
+      "uuid": "54e7077835580c59b40e6aa12a82c488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Transformation",
+      "uuid": "558f1e5fcbd7f1ca22a287c9997769f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MySQL",
+      "uuid": "62a004b95946bb97541afa471dcca73a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Integration",
+      "uuid": "6d8ab8489413756b1af6bdab6b80863e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Quality",
+      "uuid": "74c365aff7ca1dee7d22bdad58071514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Governance",
+      "uuid": "7c8d5f6eb1e6bf93b12b639d08b57ce9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Metadata",
+      "uuid": "ce21470ab49d1d1976bc3dc72438c183",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power BI",
+      "uuid": "e5c930f4134c3d946962924c7f02aab7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Warehousing",
+      "uuid": "e9ef48a7c8104721d7c1a8e767232597",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202416094W",
+    "description": "<p>Alpha X is an innovative high-tech manufacturing technology company pioneering the integration of advanced automation, transportation and AI-driven solutions to revolutionize traditional manufacturing processes. We harness the power of artificial intelligence, machine learning, and robotics to optimize production efficiency, enhance product quality, and foster sustainability across diverse high-tech industries.</p>",
+    "name": "ALPHA X TECHNOLOGY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://www.alphaxtec.com/",
+    "lastSyncDate": "2026-02-03T02:53:30.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W/schemes"
+      }
+    },
+    "logoFileName": "121a56c3bef6b40405b8e4e52d3a5b35/alpha-x-technology.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/121a56c3bef6b40405b8e4e52d3a5b35/alpha-x-technology.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6",
+    "street": "TEMASEK BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "SUNTEC TOWER FOUR",
+    "postalCode": "038986",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29464636950479,
+    "lng": 103.859724355499
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1639100",
+    "deletedAt": "2025-12-28T17:15:04.000Z",
+    "createdBy": "14986474-c0b7-472a-bedf-89fc87cd4386",
+    "createdAt": "2025-10-28T04:24:53.000Z",
+    "updatedAt": "2026-01-30T04:15:30.000Z",
+    "emailRecipient": "8fe1b362-3fc1-453f-a640-3edad6616383",
+    "editCount": 2,
+    "repostCount": 2,
+    "totalNumberOfView": 574,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-10-28",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 58,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/data-engineer-alpha-x-technology-71ae77099232eb8470d08e9c4014e421",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/71ae77099232eb8470d08e9c4014e421"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/71ae77099232eb8470d08e9c4014e421/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,233 @@
+{
+  "uuid": "256f519d92cd2bc5bb204809d6603e92",
+  "sourceCode": "Employer Portal",
+  "title": "Cloud Operations Engineer (AWS / Terraform)",
+  "description": "<p>As a core member of the team, you will provide <strong>cloud operational support (including code-level fixes)</strong>, own incident management, and continuously improve system reliability and operational excellence across production and non-production environments.</p><ul><li>Working Hours: Mon-Fri</li><li>Working Location: Central</li><li>Salary Package: Up to $8800 (basic) + AWS</li><li>Job Type: Contract</li></ul><p><strong>Key Responsibilities</strong></p><p><ul><li>Monitor and analyse production and non-production environments using <strong>full-stack observability tools</strong> to ensure optimal performance, uptime, and user experience.</li><li>Own <strong>incident management end-to-end</strong>: detect, triage, resolve incidents, conduct root cause analysis (RCA), coordinate across teams/vendors, and produce post-incident reports.</li><li>Drive continuous improvement initiatives through <strong>data-driven insights</strong> in collaboration with product, development, and security teams.</li><li>Build and maintain <strong>operations documentation, runbooks, and SOPs</strong> to support audit compliance and knowledge sharing.</li><li>Automate repetitive operational and infrastructure tasks using <strong>Infrastructure-as-Code and scripting tools</strong> to reduce downtime and human error.</li><li>Implement and enhance <strong>monitoring, alerting, and logging</strong> across application and infrastructure layers (APM).</li><li>Manage day-to-day operational activities, produce performance and availability reports, and present insights to stakeholders and leadership.</li><li>Lead and coordinate <strong>24/7 operations support</strong>, working with internal teams and external vendors to meet SLAs.</li></ul></p><p><strong>Requirements</strong></p><p><ul><li>Bachelor’s degree in <strong>Computer Science, Information Technology</strong>, or a related field.</li><li><strong>Minimum 3 years</strong> of experience in Operations Support, Site Reliability Engineering, DevOps, or similar roles.</li><li>Hands-on experience providing <strong>L1–L3 support</strong>, including troubleshooting at application and infrastructure levels.</li><li>Strong experience with <strong>incident, problem, and change management</strong> using ITSM tools (e.g. ServiceNow, Jira Service Management, PagerDuty).</li><li>Experience implementing <strong>security controls and privileged access management</strong> for test and production environments.</li><li>Proven experience in <strong>full-stack monitoring and observability</strong>, including cloud-native and open-source tools (e.g. CloudWatch, Stackdriver, Prometheus/Grafana, OpenTelemetry).</li><li>Experience with <strong>automation and Infrastructure-as-Code</strong> (e.g. Terraform, Ansible, scripting).</li><li>Familiarity with <strong>Agile/DevOps practices</strong>, CI/CD pipelines, test-driven development, and information security best practices.</li><li>Experience managing <strong>cloud infrastructure and services</strong> (AWS, Azure, Google Cloud); cloud certifications are a plus.</li><li>Strong problem-solving, analytical, and communication skills, with the ability to explain technical issues to non-technical stakeholders.</li><li>A collaborative mindset, proactive attitude, and ability to thrive in a fast-paced, high-performance environment.</li></ul></p><p>By submitting your resume, you consent to the collection, use, and disclosure of your personal information per ScienTec’s Privacy Policy (scientecconsulting.com/privacy-policy).</p><p>This authorizes us to:</p><ul><li>Contact you about potential opportunities.</li><li>Delete personal data as it is not required at this application stage.</li></ul><p>All applications will be processed with strict confidence. Only shortlisted candidates will be contacted.</p><p>Elane Yap Theng Yu- R1989397</p><p>ScienTec Consulting Pte Ltd - 11C5781</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "uuid": "0889f4cee1d9f42ae2c1daf686377de0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Management",
+      "uuid": "3fa1b4ed4bb9bd776a33dc08fd042f31",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit Compliance",
+      "uuid": "7c519abb5d2c4a85911df02214d396c8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability Engineering",
+      "uuid": "a31fdced37e546ea0be9fc100351b12a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Cloud",
+      "uuid": "bbc8a77007b660af585cca528771f800",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ServiceNow",
+      "uuid": "d1cd6e549ab60b728497f73aeeccc9ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Incident Management",
+      "uuid": "f3723f30315ea30f2f4b9101556772e2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25231",
+  "occupationId": "OCC062549",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "200409964K",
+    "description": "<p>An award-winning company founded in 2004, ScienTec has transformed organizations across Asia Pacific with our 4 principal services: Staffing, Specialist Search, Outsourcing and HR Consulting.</p><p>Our \"People First, Always\" core value underpins our mission to redefine the standards of HR services and deliver you top-tier candidate support, as reflected in our attainment of key accolades such as Recruitment Agency of the Year, Best Client Service, and Best Candidate Experience.</p><p><br /></p><p>Our sector and functional coverage include ICT/technology, industrial engineering, and corporate services recruitment.</p><p><br /></p><p>By submitting your resume, you give your express consent that ScienTec Consulting may use your personal information to process your job application and to contact you from time to time for future employment opportunities.<br /><br />For further information on how ScienTec Consulting processes your personal information and how to access and correct your information, please read the ScienTec Consulting’s Privacy Policy (https://www.scientecconsulting.com/privacy-policy).<br /><br />Please do not submit any sensitive personal data to us in your resume (such as government ID numbers, ethnicity, gender, religion, marital status) as we do not collect your personal data at this time.</p><p><br /></p><p>All job applications will be processed with strict confidence and only shortlisted candidates will be contacted.</p><p><br /></p><p>ScienTec Consulting Pte Ltd<br /><br />1 Harbourfront Place, #16-04, Harbourfront Tower One, Singapore 098633</p><p>Tel: +65 6225 3272</p>",
+    "name": "SCIENTEC CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.scientecconsulting.com",
+    "lastSyncDate": "2026-02-04T01:28:10.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200409964K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200409964K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200409964K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200409964K/schemes"
+      }
+    },
+    "logoFileName": "315bdd22e6f3d1592ce1f59f314f8398/scientec-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/315bdd22e6f3d1592ce1f59f314f8398/scientec-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159770",
+    "deletedAt": null,
+    "createdBy": "8f91c002-0570-453d-887c-17eb5780b9f3",
+    "createdAt": "2026-01-26T08:52:53.000Z",
+    "updatedAt": "2026-01-26T08:52:53.000Z",
+    "emailRecipient": "8f91c002-0570-453d-887c-17eb5780b9f3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 60,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-operations-engineer-scientec-consulting-256f519d92cd2bc5bb204809d6603e92",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/256f519d92cd2bc5bb204809d6603e92"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/256f519d92cd2bc5bb204809d6603e92/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

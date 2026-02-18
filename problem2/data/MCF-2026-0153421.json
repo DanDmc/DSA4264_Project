@@ -1,0 +1,197 @@
+{
+  "uuid": "780e5648991a52636779edb2bf93beb4",
+  "sourceCode": "Employer Portal",
+  "title": "Physician Aide",
+  "description": "<p><strong>Job Description</strong></p>\n<ul>\n  <li>To assist physicians in attending to patients.</li>\n  <li>Hands-on experience in administering treatments including cupping, moxibustion and therapy treatments.</li>\n  <li>Explaining wellness treatments to customers and recommend appropriate treatments</li>\n  <li>Ensure turnover and tidiness of treatment beds, towels and equipment</li>\n  <li>Ensuring general clinic cleanliness and harmonious</li>\n  <li>Attentive to customer's need at all times</li>\n  <li>Perform administrative duties as required.</li>\n</ul>\n<p><strong>Job Requirement</strong></p>\n<ul>\n  <li>Candidates must be diligent and be willing to learn</li>\n  <li>At least 1-2 years of relevant experience</li>\n  <li>Good customer service skills</li>\n  <li>Good communication skills</li>\n  <li>Well-groomed, hygienic, and presentable at all times</li>\n  <li>Able to communicate and explain treatment in the language understood by the customer</li>\n  <li>Basic computer knowledge and skills.</li>\n  <li>Able to work retail hours</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medical Physics",
+      "uuid": "255e4fa87634134faa8854ab26850525",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Public Health",
+      "uuid": "49e776b6be7a2a65d108e5e801113557",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment Planning",
+      "uuid": "775e05e952e8dbf51c767dc207d4b7fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "32551",
+  "occupationId": "OCC013682",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "N9",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "200511023H",
+    "description": "REFRESH GROUP PTE. LTD.\r\nf.k.a THE SPA AND WELLNESS ACADEMY PTE. LTD.  ",
+    "name": "REFRESH GROUP PTE. LTD.",
+    "ssicCode": "86202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:25:17.000Z",
+    "ssicCode2020": "86202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153421",
+    "deletedAt": null,
+    "createdBy": "b08e22a4-dcb1-432b-a544-a3edeb47991f",
+    "createdAt": "2026-01-25T12:12:46.000Z",
+    "updatedAt": "2026-01-25T12:12:46.000Z",
+    "emailRecipient": "b08e22a4-dcb1-432b-a544-a3edeb47991f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 29,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/physician-aide-refresh-group-780e5648991a52636779edb2bf93beb4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 2600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/780e5648991a52636779edb2bf93beb4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/780e5648991a52636779edb2bf93beb4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

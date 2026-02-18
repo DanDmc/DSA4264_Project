@@ -1,0 +1,237 @@
+{
+  "uuid": "77aeeee8f090692bb1a721bfafc5bb11",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Production Support Analyst (Banking)",
+  "description": "<p><strong>Job responsibilities:</strong></p><ul><li>Provide top-tier Production Support services to stakeholders.</li><li>Oversee the availability, incident response, problem resolution, and capacity management for assigned applications.</li><li>Analyse and address incidents, problems, and user inquiries effectively.</li><li>Coordinate communications regarding Incidents, including SLA breaches, major application issues, and upstream/downstream disruptions, ensuring timely updates to the team, management, and department.</li><li>Lead technical remediation efforts that meet established non-functional requirements.</li><li>Show ongoing improvement in services and processes, focusing on automation where possible.</li><li>Ensure adherence to key processes and procedures and assist in developing operational standards.</li><li>Translate complex technical matters into clear, understandable information for business users.</li><li>Support knowledge sharing and implement best practices across the team and organization.</li><li>Work collaboratively with both first and third-level support, as well as development teams, to resolve incidents, problems, and user requests within agreed SLAs based on bank severity levels.</li><li>Handle Event Management responsibilities, including patching support and annual RDR activities.</li><li>Provide on-call support according to the team's roster.</li></ul><p></p><p><strong>Key requirements:</strong></p><ul><li>5-7 years in Red Hat Linux, Shell Script, Java</li><li>5-7 years in Oracle, MS SQL,</li><li>5+ years Connect Direct, IBM MQ</li><li>3+ years Host-to-Host File transfer (i.e. SFTP)</li></ul><p></p><p><strong>Requirements:</strong></p><ul><li>Bachelor’s degree in computer science or related field.</li><li>At least 6 years’ relevant experience preferably in a Finance Institution (Corporate or Retail Banking) IT in internet and mobile banking applications and API.</li><li>You must be the experienced in Production Support or System Administrator (Linux, Unix, Oracle) and currently operating in a Level 2 or Level 3 role in a high availability / mission critical environment</li><li>You must have strong understanding of web application architectures and protocols and hands on troubleshooting java application performance issues including writing / debugging scripts, code, and database queries</li><li>You must have strong competency in automation skills (primarily using Unix Shell scripting or Python)</li><li>You must have solid understanding of resiliency and redundancy designs and participated in Disaster Recovery excises task or activities (technical)</li><li>You must be well-versed with ITIL framework and methodology and hands on experience usage of ITSM tools like BMC Helix or ServiceNow (Incident, Problem, Change Management modules)</li><li>You must be efficient at managing tasks independently and under pressure and to adapt quickly, learns new skills with minimal supervision, and maintains strong attention to detail.</li><li>You must excel in team settings and communicates effectively across all organisational levels.</li></ul>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002102",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199600101K",
+    "description": "<p>D L Resources Pte Ltd, established on 5 January 1996, is a Singapore-based Information Technology and Human Capital Services provider. We specialize in delivering end-to-end IT professional services and agency-employed contract staffing solutions to a diverse client base, including leading banks, financial institutions, and multinational corporations.</p>\n<p><br>\nEA License No: 24C2333</p>\n<p><br></p>\n<p>Add us on our recruitment team linkedin profile: https://www.linkedin.com/in/dlresourcesrecruitment/</p>",
+    "name": "D L RESOURCES PTE LTD",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "https://www.linkedin.com/company/d-l-resources/",
+    "lastSyncDate": "2026-02-04T02:24:10.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/schemes"
+      }
+    },
+    "logoFileName": "5a03bb67a7832f44ae754c73d08c48c1/d-l-resources.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5a03bb67a7832f44ae754c73d08c48c1/d-l-resources.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187471",
+    "deletedAt": null,
+    "createdBy": "5feee21b-796d-4dd8-88c7-3ee96fbd92bc",
+    "createdAt": "2026-01-30T03:54:04.000Z",
+    "updatedAt": "2026-01-30T03:54:03.000Z",
+    "emailRecipient": "5feee21b-796d-4dd8-88c7-3ee96fbd92bc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 48,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/senior-production-support-analyst-d-l-resources-77aeeee8f090692bb1a721bfafc5bb11",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/77aeeee8f090692bb1a721bfafc5bb11"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/77aeeee8f090692bb1a721bfafc5bb11/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

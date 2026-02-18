@@ -1,0 +1,199 @@
+{
+  "uuid": "705eab0c3dc4990851dc56acfed64572",
+  "sourceCode": "Employer Portal",
+  "title": "Locum Aestehtic Doctor",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>LAZZ Aesthetic is a dermatology clinic that offers skin condition medical treatments, rejuvenations, enhancements and more.</p><p><strong>Job Summary</strong></p><p>Lazz Aesthetic is a professional Aesthetic Medical Clinic. Our client is from mid to high end. Our commitment is to deliver scientifically proven evidence-based aesthetic and age management treatments with genuine care. Our employees are passionately committed to fundamentally change the future of medical aesthetic and age management care.</p><p><strong>Responsibilities</strong></p><ul><li>Perform medical-grade aesthetic treatments including injectables (Botox, skin boosters, fillers), Pico Laser, Helio laser treatments, chemical treatments, and thread lifts to achieve patient-specific aesthetic goals</li><li>Develop and recommend personalized patient treatment plans based on thorough assessment of patient concerns and clinical evaluation</li><li>Conduct consultations to provide expert advice and education on treatment options and expected outcomes</li><li>Monitor and review patient progress regularly to adjust treatment plans and ensure optimal results</li><li>Administer medical-grade chemical peels safely and effectively in a clinical setting</li><li>Handle patient enquiries promptly and educate patients about their course of treatments to enhance understanding and satisfaction</li><li>Maintain high standards of patient care and clinical safety in all procedures</li><li>Train and mentor clinical staff as required to uphold quality and consistency in service delivery</li><li>Foster a collaborative and respectful workplace environment that supports performance and patient-centered care</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Medical degree: MBBS, MBChB, MBBCh, MD or equivalent</li><li>Registration as a medical doctor with the Singapore Medical Council</li><li>Attainment of all relevant Certificate of Competence (COCs) for aesthetic procedures</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Chemical Peels",
+      "uuid": "1a98eeacf58a95ea351606d8657e02e5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Injectable",
+      "uuid": "350f7dd512a1b7ba17d4d76ce6cd4ff6",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medicine",
+      "uuid": "4ff278b4704d3e44b01ff80f37386777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fillers",
+      "uuid": "60a8f7f6c7970e3d89bb39c21bdc177e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Dermatology",
+      "uuid": "6d595fba7fe4e1d76ea7cf6cb5c71605",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Botox",
+      "uuid": "71d328e3afdcb5d3fdc7c4cae72ad8a7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pico",
+      "uuid": "cba3b736b06870457286524ba747164f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laser",
+      "uuid": "d47bda86cb76322c22950e84e9cd109d",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22110",
+  "occupationId": "OCC003778",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0811",
+  "postedCompany": {
+    "uen": "202001385E",
+    "description": "<p>LAZZ Aesthetic is a dermatology clinic that offers skin condition medical treatments, rejuvenations, enhancements and more.</p>",
+    "name": "LAZZ AESTHETIC & MEDICAL CLINIC PTE. LTD.",
+    "ssicCode": "86202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T12:22:06.000Z",
+    "ssicCode2020": "86202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202001385E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202001385E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202001385E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202001385E/schemes"
+      }
+    },
+    "logoFileName": "8d8cb21cc57b94bc46c363259514ec47/lazz-aesthetic-medical-clinic.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8d8cb21cc57b94bc46c363259514ec47/lazz-aesthetic-medical-clinic.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158124",
+    "deletedAt": null,
+    "createdBy": "e5a73e71-00b5-40b8-846b-957502fd34aa",
+    "createdAt": "2026-01-26T06:27:22.000Z",
+    "updatedAt": "2026-01-26T06:27:22.000Z",
+    "emailRecipient": "e5a73e71-00b5-40b8-846b-957502fd34aa",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/locum-aestehtic-doctor-lazz-aesthetic-medical-clinic-705eab0c3dc4990851dc56acfed64572",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 25000,
+    "minimum": 13000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/705eab0c3dc4990851dc56acfed64572"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/705eab0c3dc4990851dc56acfed64572/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

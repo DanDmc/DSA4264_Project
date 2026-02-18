@@ -1,0 +1,226 @@
+{
+  "uuid": "ec4935dd798d07918a4f10f22f4f0ad5",
+  "sourceCode": "Employer Portal",
+  "title": "Finance Intern",
+  "description": "<p><u><strong>Job Description</strong></u></p><ul><li>Manage financial and investment portfolios for corporate businesses (B2B) and individual clients (B2C) on Investment, Risk and Asset Management.</li><li>Analyse financial markets and investment funds such as Equities, ETFs, Bonds and Unit Trusts.</li><li>Provide integrated financial solutions for clients through Wealth Preservation, Partnership Management, Estate and Business Succession Planning.</li><li>Develop business strategies based on current market developments to grow clients' portfolios</li></ul><p><u><strong>Job Type</strong></u></p><ul><li>Entry level position. Full-time and part-time positions available.</li><li>Open to Undergraduates and Fresh Graduates.</li><li>Flexible working hours, work from home option available.</li><li><u>No</u> prior experience in Finance or Investment required.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETFs",
+      "uuid": "6cee95b4398d0a34364c8dda2153c1c1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bookkeeping",
+      "uuid": "b4ce435600f0451db46463e960fc5e3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bonds",
+      "uuid": "b98e3a37b62f7207c8a0a27e0c0d8777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wealth Preservation",
+      "uuid": "d6fe4cee5504e59588faf388717c17fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Equities",
+      "uuid": "f38992a52cef8611666b2db431b493a6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "53502130E",
+    "description": null,
+    "name": "J.S.F",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:39:21.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "VICTORIA WHOLESALE CENTRE",
+    "postalCode": "339508",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31120876952715,
+    "lng": 103.867482955196
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153504",
+    "deletedAt": null,
+    "createdBy": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "createdAt": "2026-01-25T12:41:11.000Z",
+    "updatedAt": "2026-01-25T12:41:11.000Z",
+    "emailRecipient": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 87,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/finance-intern-jsf-ec4935dd798d07918a4f10f22f4f0ad5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec4935dd798d07918a4f10f22f4f0ad5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec4935dd798d07918a4f10f22f4f0ad5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

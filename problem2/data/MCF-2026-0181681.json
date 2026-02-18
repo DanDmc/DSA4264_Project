@@ -1,0 +1,232 @@
+{
+  "uuid": "f38a002e31ec788bd629c89095b9cf75",
+  "sourceCode": "Employer Portal",
+  "title": "Security Officer",
+  "description": "<p>· Ensure consultants/visitors and workers do facial recognition attendance record before entering the worksite site</p>\n<p>· Report daily manpower to site management personnel</p>\n<p>· Do random check on validity of workers work permit while entering the worksite</p>\n<p>· Ensure workers entering the worksite wears safety helmet and safety shoes before allowing him to enter the worksite</p>\n<p>· Liaise with traffic controller for vehicle movement at site main entrance</p>\n<p>· Daily record visitor record book / vehicle numbers entering and exiting the worksite</p>\n<p>· Occasionally patrol the site and report any suspicious person, events or objects to safety officer</p>\n<p>· Report to safety officer if any other security related issues</p>\n<p>· Any other security and health related duties assigned by site management personnel</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "recognition",
+      "uuid": "0c6a50fbc0c4c91601f873caff2d3a56",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Operations",
+      "uuid": "228ae2412a3a14cd1cbf6818128c45ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security",
+      "uuid": "2fae32629d4ef4fc6341f1751b405e45",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "traffic controllers",
+      "uuid": "54b44d9894d67a191fafae280daf2ee8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "vehicle",
+      "uuid": "5a76e813d6a0a40548b91acc11557bd2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physical Security",
+      "uuid": "62348ee42eb4db60ea4252db60761f97",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Training",
+      "uuid": "6dd238f83c55578b7c7036f50e29d656",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCTV",
+      "uuid": "8f0658e54b370ee4017a51f96267bd2f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Surveillance",
+      "uuid": "9244bd29ea659881b49c67c88e87e5e7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Management",
+      "uuid": "9585c29bae177627218c695773abada9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Editing",
+      "uuid": "b1caf7f21c1b8899e11165a6aed71af9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Patrol",
+      "uuid": "df7a8712303eeadde5d19f0e2955085c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management",
+      "uuid": "fe4dbcab9b910577e5035e97ac068dae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "54144",
+  "occupationId": "OCC009499",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 37,
+      "category": "Security and Investigation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "N9",
+  "ssecFos": "1359",
+  "postedCompany": {
+    "uen": "197200048W",
+    "description": "<p>\r\n\tGUAN HO CONSTRUCTION CO (PTE) LTD</p>\r\n<p>\r\n\tGuan Ho began as a building and engineering services provider in 1948. For over 60 years, Guan Ho has rich history as a company that consistently delivers on our projects. Our continuous efforts to innovate and improve on our processes ensure that we are constantly ahead of prevailing industry standards. With a diverse portfolio encompassing institutional, commercial, industrial, and residential construction projects, we are confident of bringing an unmatched combination of knowledge, skill, experience and customer commitment to every job</p>\r\n",
+    "name": "GUAN HO CONSTRUCTION CO (PTE) LTD",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T01:35:45.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200048W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200048W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200048W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200048W/schemes"
+      }
+    },
+    "logoFileName": "901372b3505ad073af42e02ad79ebf25/guan-ho-construction.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/901372b3505ad073af42e02ad79ebf25/guan-ho-construction.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "395A",
+    "street": "CHANGI ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "419843",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31895101071117,
+    "lng": 103.910552568637
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181681",
+    "deletedAt": null,
+    "createdBy": "33c8be3f-8b20-49f8-8863-a900672dd587",
+    "createdAt": "2026-01-29T07:10:07.000Z",
+    "updatedAt": "2026-01-29T07:10:07.000Z",
+    "emailRecipient": "33c8be3f-8b20-49f8-8863-a900672dd587",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 81,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/security-officer-guan-ho-construction-f38a002e31ec788bd629c89095b9cf75",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f38a002e31ec788bd629c89095b9cf75"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f38a002e31ec788bd629c89095b9cf75/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

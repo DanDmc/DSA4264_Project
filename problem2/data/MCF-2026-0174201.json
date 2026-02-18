@@ -1,0 +1,220 @@
+{
+  "uuid": "feff8aead8070f89ac99d3601bd72802",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer II, Issuing Platform",
+  "description": "<h2>About the Team</h2><p>The issuing engineering team at Airwallex builds and operates core systems for card issuing, transaction processing, and settlement at global scale. The team owns mission-critical platforms that underpin Airwallex’s issuing products, with a strong focus on reliability, scalability, and compliance. Key areas of ownership include:</p><ul><li><p>Cards: Customer-facing and internal systems for card lifecycle management, controls, and configuration.</p></li><li><p>Transactions: A global, high-throughput transaction processing platform designed for low latency, high availability, and resiliency.</p></li><li><p>Settlement: Clearance, settlement, and dispute workflows that ensure financial accuracy and scheme compliance.</p></li></ul><h2><strong>What you’ll do</strong></h2><p>As a <strong>software engineer</strong>, you will contribute to building and operating backend services within the issuing platform. You will work closely with and get to hone your craft from more senior engineers to design, implement, test, and run production systems at scale.</p><p>This role is based in Singapore.</p><h3><strong>Responsibilities:</strong></h3><p><strong>Feature development and delivery</strong></p><ul><li><p>Implement backend features and services that support issuing, transactions, and settlement workflows.</p></li><li><p>Deliver well-tested, maintainable code that meets functional and non-functional requirements.</p></li></ul><p><strong>Learning and technical growth</strong></p><ul><li><p>Develop a strong understanding of the issuing domain, system architecture, and engineering best practices.</p></li><li><p>Learn to reason about scalability, performance, and reliability in distributed systems.</p></li></ul><p><strong>API development</strong></p><ul><li><p>Build and extend RESTful APIs under the guidance of senior engineers.</p></li><li><p>Follow established API design standards and contribute to improving them over time.</p></li></ul><p><strong>Collaboration and teamwork</strong></p><ul><li><p>Work effectively within a cross-functional, multi-region team.</p></li><li><p>Participate in code reviews, design discussions, and sprint ceremonies.</p></li></ul><p><strong>Operational responsibility</strong></p><ul><li><p>Contribute to running production systems, including monitoring, debugging, and incident response with support.</p></li><li><p>Help improve observability and system reliability over time.</p></li></ul><h2><strong>Who you are</strong></h2><p>We're looking for people who meet the minimum qualifications for this role. The preferred qualifications are great to have, but are not mandatory.</p><h3><strong>Minimum qualifications:</strong></h3><ul><li><p>Bachelor degree or above in computer science or software engineering related majors.</p></li><li><p>2+ years of professional software engineering experience.</p></li><li><p>Strong foundations in computer science and object-oriented programming.</p></li><li><p>Experience building backend services using Java, Kotlin, Go, or Python.</p></li><li><p>Exposure to distributed systems and event-driven architectures.</p></li><li><p>Experience working with RESTful APIs.</p></li><li><p>Cloud experience with GCP (preferred) or AWS, including Docker and Kubernetes.</p></li><li><p>Familiarity with observability tooling such as Splunk, Grafana, Prometheus, or similar.<br /></p></li></ul><h3><strong>Preferred qualifications:</strong></h3><ul><li><p>Experience in payments, fintech, or other high-scale backend systems.</p></li><li><p>Experience with JVM-based frameworks such as Spring or Spring Boot.</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Transaction Processing",
+      "uuid": "11046aea11a1da9f4f4bee321b2e2cae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kotlin",
+      "uuid": "539a3a5859d24fb7b129e74d61f09ffa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Boot",
+      "uuid": "926e67801e570a3898ddaef281c23075",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174201",
+    "deletedAt": null,
+    "createdBy": "493e972c-c07a-49ef-8384-05515285f514",
+    "createdAt": "2026-01-28T06:08:42.000Z",
+    "updatedAt": "2026-01-28T06:08:41.000Z",
+    "emailRecipient": "493e972c-c07a-49ef-8384-05515285f514",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 98,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-ii-issuing-platform-airwallex-feff8aead8070f89ac99d3601bd72802",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 16000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/feff8aead8070f89ac99d3601bd72802"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/feff8aead8070f89ac99d3601bd72802/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

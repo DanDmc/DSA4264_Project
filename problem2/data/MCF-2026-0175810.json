@@ -1,0 +1,252 @@
+{
+  "uuid": "ffa636c14f984878e348addff0f1588d",
+  "sourceCode": "Employer Portal",
+  "title": "Junior System and Network Administrator (Training & Simulation Projects)",
+  "description": "<p><strong>Junior System and Network Administrator (Training & Simulation Projects)</strong></p><p>Clearance Requirement: Cat2A and above</p><p></p><p>About the Role:</p><p>We are looking for a motivated and detail-oriented Junior System and Network Administrator to support the infrastructure behind training simulator projects for defense applications. This entry-level role is ideal for candidates with foundational IT knowledge who are eager to grow their skills in a secure, high-performance simulation environment. You will assist in maintaining systems, supporting project deployments, managing hardware assets, and coordinating with vendors under the guidance of senior staff.</p><p>Key Responsibilities:</p><p>Project Support Duties:</p><p>- Assist in setting up and configuring hardware and software for training simulators.</p><p>- Support the deployment and integration of simulation systems under the guidance of senior staff.</p><p>- Help document system configurations, network layouts, and deployment procedures.</p><p>- Participate in system testing and provide technical support during training sessions and demonstrations.</p><p>- Learn and apply best practices in secure system and network design for simulation environments.</p><p>System & Network Administration:</p><p>- Perform basic system administration tasks such as user account setup, software installation, and patching.</p><p>- Monitor system health and report issues to senior administrators.</p><p>- Assist in managing network devices, including switches, firewalls, and routers.</p><p>- Support backup and recovery processes.</p><p>- Follow cybersecurity protocols and assist in maintaining compliance with defense IT standards.</p><p>Hardware & Vendor Management:</p><p>- Assist in inventory tracking, setup, and maintenance of simulation hardware including servers, workstations, and peripherals.</p><p>- Coordinate with vendors for hardware procurement, delivery, and support services.</p><p>- Maintain records of warranties, service agreements, and vendor contacts.</p><p>- Support troubleshooting and escalation of hardware issues with external vendors.<br /><br /></p><p>Qualifications:</p><p>Required:</p><p>- Diploma or Degree in Information Technology, Computer Engineering, or a related field.</p><p>- Basic understanding of Windows/Linux systems and networking fundamentals (TCP/IP, VLANs, firewalls).</p><p>- Familiarity with virtualization platforms (e.g., VMware, Hyper-V) is a plus.</p><p>- Strong willingness to learn and grow in a project-based, secure IT environment.</p><p>- Eligible for or willing to obtain a security clearance.</p><p>Preferred:</p><p>- Exposure to simulation platforms (e.g., VBS, Unity, Unreal Engine) or interest in defense training systems.</p><p>- Basic scripting knowledge (e.g., PowerShell, Bash).</p><p>- Good communication and documentation skills.</p><p>- Team-oriented mindset with a proactive attitude.</p><p>Why Join Us?</p><p>- Gain hands-on experience in defense simulation and training technologies.</p><p>- Work alongside experienced professionals in a collaborative environment.</p><p>- Contribute to national defense and mission-critical training initiatives.</p><p>- Access to mentorship, training, and career development opportunities.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware Support",
+      "uuid": "170b0a85977d5cd94f78b5ab370d1963",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware Design",
+      "uuid": "3c63f42f0d9942db86fccb1bf54edd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Administration",
+      "uuid": "3cf4f951e05fe0fc37313f37a9423adc",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Simulation",
+      "uuid": "4f502b57d2835715eaa382c7d4c32e94",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Design",
+      "uuid": "877d021d74d62b4d6ca9997df7513f67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Simulations",
+      "uuid": "c792245cc7d6406dd7825725277e8f68",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Engineering",
+      "uuid": "d453e96b18c7064112252d0d84ea0da2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Installation",
+      "uuid": "d7e56df61af8f0058c83689595cd08e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Simulation system",
+      "uuid": "e9272ece98de78457ed23813a53ad789",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtualization",
+      "uuid": "ea4c55be196897a16d86999f5c16d582",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unreal Engine",
+      "uuid": "fb2841d2dcf25e860bb777d756c17111",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC061349",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1199",
+  "postedCompany": {
+    "uen": "199904845D",
+    "description": "<p>MINDTECK SINGAPORE PTE LTD</p>\r\n\r\n<p>Mindteck, a global technology company established in 1991, provides Product Engineering services to medical device companies, the  energy industry and equipment OEMs, and Information Technology services to government entities, analytical/scientific instrument  manufacturers, top-tier semiconductor companies and financial services companies in the Global 2000. Its depth of knowledge and niche expertise in embedded systems and enterprise applications is complemented by dedicated Centers of Excellence in wireless design and storage testing. </p>\r\n\r\n<p>Presently, Mindteck employs over 1,000 individuals throughout offices in the US and UK, Singapore, Malaysia, Bahrain and India. It also has four development centers (US, Singapore and India [Kolkata, Bangalore]).</p>\r\n\r\n<p>The company is listed on the Bombay Stock Exchange (BSE 517344) and is among a select group of global companies appraised at Maturity Level 5, Version 1.3 of the CMMI Institute’s Capability Maturity Model Integration (CMMI). </p>\r\n\r\n<p> </p>\r\n",
+    "name": "MINDTECK SINGAPORE PTE LTD",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T07:26:47.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904845D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "24",
+    "street": "ANG MO KIO STREET 65",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "569061",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.3916030315183,
+    "lng": 103.849272321038
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175810",
+    "deletedAt": null,
+    "createdBy": "3430db92-2286-4e25-8b45-217f4e42777a",
+    "createdAt": "2026-01-28T08:42:57.000Z",
+    "updatedAt": "2026-01-28T08:42:57.000Z",
+    "emailRecipient": "3430db92-2286-4e25-8b45-217f4e42777a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 118,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 17,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/junior-system-network-administrator-mindteck-singapore-ffa636c14f984878e348addff0f1588d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ffa636c14f984878e348addff0f1588d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ffa636c14f984878e348addff0f1588d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

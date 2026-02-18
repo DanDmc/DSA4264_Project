@@ -1,0 +1,241 @@
+{
+  "uuid": "cc48275df1cb014df5d407c1e0186052",
+  "sourceCode": "Employer Portal",
+  "title": "Data Entry",
+  "description": "<p><em>Maintain orderly filing systems and keep documents well-organized</em></p>\n<p><em>Assist with basic administrative duties as needed</em></p>\n<p><em>Update and maintain accurate customer database.</em></p>\n<p><em>Simple data entry/checking of documents</em></p>\n<p><em>Secretarial work</em></p>\n<p><br></p>\n<p><em>Only Singaporeans/PR should apply</em></p>\n<p>(<em><strong>renewable/convertible</strong></em>) </p>\n<p><br></p>\n<p>Contract Duration</p>\n<p><em>$14/hr (min 3 Months to 6 Months contract)</em></p>\n<p><em>Twice a week from 10.00am to 2pm</em></p>\n<p><em>Location Taiseng MRT</em></p>\n<p><em>Onboarding in Dec 2025</em></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Information",
+      "uuid": "4faebf8a72ac0ae0e481ae6ad610b7f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spreadsheets",
+      "uuid": "b8f91a58bd97d3f35c54f6e3bb009ee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    },
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008766",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 22,
+      "category": "Insurance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    },
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199103663M",
+    "description": null,
+    "name": "COWELL INSURANCE (AGENCY) PTE. LTD.",
+    "ssicCode": "66221",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T08:50:31.000Z",
+    "ssicCode2020": "66221",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103663M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103663M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103663M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103663M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "BURN ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TRIVEX",
+    "postalCode": "369977",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33578618615279,
+    "lng": 103.885510272428
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1708375",
+    "deletedAt": "2025-11-12T05:21:11.000Z",
+    "createdBy": "8650c698-52bd-4d50-b423-9a2f0b4945b5",
+    "createdAt": "2025-11-08T03:41:18.000Z",
+    "updatedAt": "2026-01-29T02:33:07.000Z",
+    "emailRecipient": "8650c698-52bd-4d50-b423-9a2f0b4945b5",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 1381,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-11-08",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 131,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/data-entry-cowell-insurance-cc48275df1cb014df5d407c1e0186052",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9999,
+    "minimum": 480,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cc48275df1cb014df5d407c1e0186052"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cc48275df1cb014df5d407c1e0186052/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

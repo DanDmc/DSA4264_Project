@@ -1,0 +1,235 @@
+{
+  "uuid": "4e24fe8155b5168e1c142d1576dacf0f",
+  "sourceCode": "Employer Portal",
+  "title": "Finance Manager",
+  "description": "<p><strong>Job Summary</strong></p><p>Oversee and manage comprehensive accounting functions, delivering accurate financial reports and analyses to drive strategic business decisions and enhance financial processes.</p><p><strong>Responsibilities</strong></p><ul><li>Lead the full set of accounts management and execute month-end closing to ensure timely financial closure</li><li>Prepare monthly, quarterly, and annual financial reports with accuracy to support business transparency and compliance</li><li>Manage budgeting, forecasting, and financial planning processes to align financial goals with business strategy</li><li>Monitor cash flow, expenses, and overall financial performance to inform and support effective business decisions</li><li>Ensure adherence to accounting standards, company policies, and statutory requirements to maintain regulatory compliance</li><li>Coordinate with auditors, tax agents, banks, and other external parties to facilitate smooth financial operations</li><li>Provide detailed financial analysis and insights to management to support strategic planning and business growth</li><li>Identify and implement improvements in financial processes, controls, and reporting efficiency to optimize operations</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Bachelor's Degree in Accounting, Finance, or related field</li><li>Minimum 5 years of relevant experience in finance or accounting</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Experience in managing a team</li><li>Proficiency in Microsoft Office, especially Excel</li><li>Strong knowledge of accounting standards and financial reporting</li><li>Demonstrated analytical, problem-solving, and communication skills</li><li>Ability to work independently and meet tight deadlines</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategic Planning",
+      "uuid": "1056ea32e61274889e2f1b9c48a5a515",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Financial Planning",
+      "uuid": "46c1f41e843eb982dc6824549f0d8444",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transparency",
+      "uuid": "6f7956741d5d673ff0c8eacc8d8c961c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Analysis",
+      "uuid": "b8cd16e5a194c7fed6989a0a991a52f0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting Standards",
+      "uuid": "c1c271d82742dcaa62a3f95307fe126e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cash Flow",
+      "uuid": "dc62425edd02dcb2af9e79ae9bb0d053",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Financial Reporting",
+      "uuid": "f8cc933992ca4af7cb5eddd6b9d44778",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "12111",
+  "occupationId": "OCC000769",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0539",
+  "postedCompany": {
+    "uen": "202512362Z",
+    "description": null,
+    "name": "MIDEA (SINGAPORE) PRODUCT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:00:15.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512362Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512362Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512362Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512362Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "151",
+    "street": "LORONG CHUAN",
+    "floor": null,
+    "unit": null,
+    "building": "NEW TECH PARK",
+    "postalCode": "556741",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35206196118773,
+    "lng": 103.860698338514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181878",
+    "deletedAt": null,
+    "createdBy": "d502c27f-a376-46c0-a955-336cb277e1e2",
+    "createdAt": "2026-01-29T07:29:09.000Z",
+    "updatedAt": "2026-01-29T07:29:09.000Z",
+    "emailRecipient": "d502c27f-a376-46c0-a955-336cb277e1e2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 1031,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 256,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/finance-manager-midea-product-4e24fe8155b5168e1c142d1576dacf0f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e24fe8155b5168e1c142d1576dacf0f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e24fe8155b5168e1c142d1576dacf0f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

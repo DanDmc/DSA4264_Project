@@ -1,0 +1,228 @@
+{
+  "uuid": "61a9b02d8aa6781043a00964979516ba",
+  "sourceCode": "Employer Portal",
+  "title": "logistic manager",
+  "description": "<ul>\n  <li>Assist in logistics planning, including layout design, space optimization, racking setup, and workflow analysis, under the supervision of the Department Manager.</li>\n  <li>Evaluate logistics operations and suggest improvements to enhance efficiency and reduce costs.</li>\n  <li>Apply Lean principles (5S, Kaizen, Six Sigma) to drive operational excellence.</li>\n  <li>Create and maintain standard operating procedures (SOPs), visual management boards, and performance dashboards.</li>\n  <li>Collaborate with IT teams to support WMS integration during system implementations or upgrades.</li>\n  <li>Contribute to new business setups by assisting with facility layout, workforce planning, and procurement of necessary equipment.</li>\n  <li>Utilize tools such as Excel, Power BI, and SQL to monitor and report on operational performance.</li>\n  <li>Develop warehouse simulation models using software like MS Visio or AutoCAD.</li>\n  <li>Ensure adherence to safety, health, and environmental standards.</li>\n  <li>Support the development of long-term warehouse strategies in line with business growth objectives.</li>\n</ul>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "WMS",
+      "uuid": "007f57eb93ce5816f4a5f294f7d24f5e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workforce Planning",
+      "uuid": "4b1d7e1264a5b0eee4de7a0105e419f7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "5S",
+      "uuid": "5222a0e0df9790a0e86c4dc688aaa034",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visio",
+      "uuid": "5f5736b60a263f141203b17d617ee3d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workflow Analysis",
+      "uuid": "6d07c30225ff52e5c82bb5882b4b0d6a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Freight",
+      "uuid": "a2eca8f6be5b0bf0f2cddcda7cfca376",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain Management",
+      "uuid": "bd5476e8f33749530f87777476eeda72",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kaizen",
+      "uuid": "d418a4f13569b41b3734d2dac34cbf02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power BI",
+      "uuid": "e5c930f4134c3d946962924c7f02aab7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Six Sigma",
+      "uuid": "f07975a00f5b3d1e025709beaf8958db",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0514",
+  "postedCompany": {
+    "uen": "202525974H",
+    "description": null,
+    "name": "NEXIFY PRIVATE LIMITED",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T04:00:54.000Z",
+    "ssicCode2020": "52292",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525974H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525974H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525974H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525974H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187608",
+    "deletedAt": null,
+    "createdBy": "80a9b077-d8b2-4e46-ac49-e7fe588917df",
+    "createdAt": "2026-01-30T04:15:04.000Z",
+    "updatedAt": "2026-01-30T04:15:05.000Z",
+    "emailRecipient": "80a9b077-d8b2-4e46-ac49-e7fe588917df",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/logistic-manager-nexify-61a9b02d8aa6781043a00964979516ba",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/61a9b02d8aa6781043a00964979516ba"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/61a9b02d8aa6781043a00964979516ba/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,235 @@
+{
+  "uuid": "0b5a353ea2bab7ba0ed1b027a9430ffa",
+  "sourceCode": "Employer Portal",
+  "title": "Cloud DevOps Engineer (AWS & Automation)",
+  "description": "<p>Our client is seeking a Cloud DevOps Engineer with strong AWS and automation experience to design, build, and operate secure, scalable cloud infrastructure. You will work closely with architects and technical teams to deliver infrastructure as part of mission-critical projects.</p><p><strong>Responsibilities</strong></p><p><ul><li>Build and manage AWS infrastructure using IaC tools (Terraform, GitLab, Ansible, CloudFormation)</li><li>Automate operational workflows using AWS Lambda, Step Functions, and Systems Manager</li><li>Enhance Control Tower / Landing Zone pipelines and cloud operations</li><li>Troubleshoot AWS infrastructure issues and implement security best practices</li></ul></p><p><strong>Requirements</strong></p><p><ul><li>2+ years’ experience with Ansible</li><li>Hands-on experience with AWS, CI/CD, and IaC tools</li><li>Strong knowledge of RHEL or Windows OS</li><li>Familiarity with Python, Bash, or PowerShell</li><li>Understanding of AWS security best practices</li><li>Cloud certifications (AWS/Azure/GCP) are a plus</li><li>Singaporeans Only</li></ul></p><p><strong>To Apply</strong><br />To apply or find out more information on this role, please email us or send in your updated resume to:<br /><a href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\">lynn.tay@starcareerconsulting.com</a></p><p><strong>Lynn Tay</strong> (Reg. No. R1876711)<br /><strong>STAR CAREER CONSULTING PTE LTD</strong> (EA Licence: 20C0353)</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Azure",
+      "uuid": "1668ca1bd914c1d847f23b491319ac91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Terraform",
+      "uuid": "1b1ed905d54c18e3dd8828986c14be17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCNA",
+      "uuid": "3d645983387566a4af67b11ff5f6bc1d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CloudFormation",
+      "uuid": "58e3bfbabf904de43a6a22aca509b0d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bash",
+      "uuid": "7024ff0860dec6ab1519a3f71c7d8779",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RHEL",
+      "uuid": "8b6f93f33bce541c7f50f8aff637e2e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bash/Shell/PowerShell",
+      "uuid": "b3716106176522072d136848c2419457",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud",
+      "uuid": "c8e2277ecfb1427838c488c217f99466",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Gitlab",
+      "uuid": "d0498fac9d755142b3dfd9f05281701f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS Lambda",
+      "uuid": "dee7ff8f7b10b9d388c7c561e9413b0d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VPN",
+      "uuid": "eaef8590a83770745b6591921835bf08",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25231",
+  "occupationId": "OCC062506",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "201724587C",
+    "description": null,
+    "name": "STAR CAREER CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:44:52.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724587C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724587C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724587C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201724587C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158236",
+    "deletedAt": null,
+    "createdBy": "75957325-8663-4f07-90ea-f504dc5a59d6",
+    "createdAt": "2026-01-26T06:38:59.000Z",
+    "updatedAt": "2026-01-26T06:38:59.000Z",
+    "emailRecipient": "75957325-8663-4f07-90ea-f504dc5a59d6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 71,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-devops-engineer-star-career-consulting-0b5a353ea2bab7ba0ed1b027a9430ffa",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0b5a353ea2bab7ba0ed1b027a9430ffa"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0b5a353ea2bab7ba0ed1b027a9430ffa/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

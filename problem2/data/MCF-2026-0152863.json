@@ -1,0 +1,228 @@
+{
+  "uuid": "63e235fad62e806e8c63532adb798091",
+  "sourceCode": "Employer Portal",
+  "title": "Manager",
+  "description": "<p><strong>Responsibilities and Requiresment</strong></p>\n<p><br></p>\n<ul>\n  <li>Developing and implementing operational policies and procedures to ensure efficient and effective operations.</li>\n  <li>Improving systems, processes, and best practices.</li>\n  <li>Managing day-to-day operations as well as the operations team and operations department.</li>\n  <li>Ensuring that organizational processes remain legally compliant with regulations and standards.</li>\n  <li>Maintaining and enforcing health and safety guidelines.</li>\n  <li>Monitoring the performance and productivity of employees and teams, providing coaching, training, and feedback to improve performance.</li>\n  <li>Managing budgets, forecasting, and allocating resources to help meet business and strategic goals.</li>\n  <li>Working cross-departmentally with a wide range of stakeholders to ensure that all operations are aligned with organizational objectives.</li>\n  <li>Developing and maintaining good relationships with vendors and suppliers.</li>\n  <li>Negotiating contracts with suppliers and vendors to obtain the best pricing.</li>\n  <li>Performing quality assurance controls to ensure the company’s products and services meet customer expectations and monitoring production KPIs and metrics.</li>\n  <li>Developing ways to increase the quality of customer service and increase customer satisfaction.</li>\n  <li>Analyzing data and trends to identify opportunities for process improvement and cost savings.</li>\n  <li>Maintaining good supply chain management processes, including inventory management, production processes, sales, and sourcing of suppliers</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Streamlining",
+      "uuid": "231f8002c0dd16017d0444eeefac5114",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production Planning",
+      "uuid": "4c89dbee82b7b1dd9d379c2d00562947",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Travel",
+      "uuid": "81ac232eb92294fc9e91ecee83b7190e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain Management",
+      "uuid": "bd5476e8f33749530f87777476eeda72",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "11201",
+  "occupationId": "OCC061139",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "201327865M",
+    "description": null,
+    "name": "CLUB PARAGON ENTERTAINMENT PTE. LTD.",
+    "ssicCode": "93203",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T10:05:16.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327865M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327865M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327865M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327865M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "150",
+    "street": "ORCHARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ORCHARD PLAZA",
+    "postalCode": "238841",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30125729409969,
+    "lng": 103.841150144584
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0152863",
+    "deletedAt": null,
+    "createdBy": "f6e13a39-9431-4a49-99a3-c8ec70fd8b7b",
+    "createdAt": "2026-01-25T06:19:10.000Z",
+    "updatedAt": "2026-01-25T06:19:11.000Z",
+    "emailRecipient": "f6e13a39-9431-4a49-99a3-c8ec70fd8b7b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 122,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-08",
+    "totalNumberJobApplication": 29,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/manager-club-paragon-entertainment-63e235fad62e806e8c63532adb798091",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/63e235fad62e806e8c63532adb798091"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/63e235fad62e806e8c63532adb798091/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

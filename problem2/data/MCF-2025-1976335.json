@@ -1,0 +1,241 @@
+{
+  "uuid": "945cb321130595c50d15ad6a0da94cfb",
+  "sourceCode": "Employer Portal",
+  "title": "Team Leader",
+  "description": "<p>Team Leader Packer (Jurong West)</p>\n<p><br></p>\n<p>Full Time &amp; Part Time Available </p>\n<ul>\n  <li>Packing</li>\n  <li>Labeling</li>\n  <li>Stickering</li>\n  <li>Picking</li>\n  <li>Quality checking on products.</li>\n</ul>\n<p><br></p>\n<p>Requirements:</p>\n<ul>\n  <li>Able to start ASAP</li>\n  <li>Dress code - Long pants/jeans, T-shirt, and covered shoes.</li>\n</ul>\n<p><br></p>\n<p>Working Hours: Mon to Fri (8.00 am to 5.30 pm).</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Outsourcing",
+      "uuid": "421676a5f89101900835f44561985964",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ABLE",
+      "uuid": "4c69daf136f6d97acc20e2e4c389fed9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Channel",
+      "uuid": "781dc97dc62331eec3ea9ec4373a3ca8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "93334",
+  "occupationId": "OCC062399",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200010141M",
+    "description": null,
+    "name": "HMLY PTE LTD",
+    "ssicCode": "82920",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:52:16.000Z",
+    "ssicCode2020": "18113",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1976335",
+    "deletedAt": "2026-01-24T17:15:04.000Z",
+    "createdBy": "934bfe12-4bb4-4a30-bd62-16cc3aa08748",
+    "createdAt": "2025-12-25T12:36:59.000Z",
+    "updatedAt": "2026-01-26T13:38:08.000Z",
+    "emailRecipient": "934bfe12-4bb4-4a30-bd62-16cc3aa08748",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 155,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-25",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/events/team-leader-hmly-945cb321130595c50d15ad6a0da94cfb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 1600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/945cb321130595c50d15ad6a0da94cfb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/945cb321130595c50d15ad6a0da94cfb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

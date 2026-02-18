@@ -1,0 +1,206 @@
+{
+  "uuid": "bb497fa034f8b33da175b843b168c408",
+  "sourceCode": "Employer Portal",
+  "title": "Not a Scam Lah, Just a Fun Job 🤡💼",
+  "description": "<p>📍 Singapore | Full-Time | Fresh Grads Welcome</p><p>Just graduated and unsure where to start? Royal Organisation provides <strong>hands-on training, mentorship, and real career exposure</strong> for fresh graduates.</p><p>No prior experience needed — we focus on attitude, willingness to learn, and growth potential.</p><p><strong>Ideal for:</strong> Fresh graduates seeking real-world experience and career clarity.<br /><br /><strong>What We’re Looking For</strong></p><p><ul><li>🎓 Fresh graduates or early-career individuals</li><li>📚 Willingness to learn and grow</li><li>😊 Positive attitude and strong commitment</li></ul></p><p><strong>What You’ll Be Doing</strong></p><p><ul><li>🧑‍🏫 Learn sales & marketing fundamentals</li><li>🎪 Support live event campaigns</li><li>📈 Build practical, real-world experience</li></ul></p><p><strong>What You’ll Gain</strong></p><p><ul><li>🎓 Hands-on sales industry training</li><li>🤝 1-on-1 mentorship</li><li>🚀 Clear career direction and growth</li><li>🌍 Travelling opportunities</li></ul></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing Strategy",
+      "uuid": "51ac36774e76e2d980c7aaa5491ab817",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Relationships",
+      "uuid": "59d71aae92a15e9390de18ec4eae0528",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Process",
+      "uuid": "7e10720fb56494b0e75eb221ed88be3e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mentorship",
+      "uuid": "8b3c953573310534b9f4c36305cf90c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12211",
+  "occupationId": "OCC000657",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53496379W",
+    "description": "<p>Royal Org is one of the newest and fastest growing outsourced sales and marketing firm that specialises in face to face marketing and revenue generation for our clients. Our committed team enhance different clients’ branding and reputation by sharing with thousands of people every day about their vision and their products.</p>",
+    "name": "SIMPLE RECRUIT",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://royalorg.asia/",
+    "lastSyncDate": "2026-02-04T00:09:04.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53496379W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53496379W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53496379W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53496379W/schemes"
+      }
+    },
+    "logoFileName": "4de8ec44ba5171a30a6b1731115aa443/simple-recruit.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4de8ec44ba5171a30a6b1731115aa443/simple-recruit.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "53A",
+    "street": "BOAT QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "049842",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28709716700162,
+    "lng": 103.849263870801
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182870",
+    "deletedAt": null,
+    "createdBy": "2af1e3a5-cc68-40b1-931f-528f0480ce62",
+    "createdAt": "2026-01-29T09:04:39.000Z",
+    "updatedAt": "2026-01-29T09:04:39.000Z",
+    "emailRecipient": "2af1e3a5-cc68-40b1-931f-528f0480ce62",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 15,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-05",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/events/scam-lah-just-fun-job-%F0%9F%A4%A1%F0%9F%92%BC-simple-recruit-bb497fa034f8b33da175b843b168c408",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bb497fa034f8b33da175b843b168c408"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bb497fa034f8b33da175b843b168c408/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

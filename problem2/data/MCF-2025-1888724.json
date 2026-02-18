@@ -1,0 +1,199 @@
+{
+  "uuid": "b5ac60ebc08e90577605c086bbbb2068",
+  "sourceCode": "Employer Portal",
+  "title": "Community Worker (Programme & Enterprise Lead)",
+  "description": "<p><strong>Job Description</strong></p><ul><li>Lead income generation projects, oversee the community learn and train initiative and collective involvement of residents in the public rental blocks communities.</li><li>Oversee and manage day-to-day operations for the social enterprise.</li><li>Collaborate with corporate and community partners and volunteers for resource mobilisation.</li><li>Drive marketing and sales efforts including digital, content creation and social media to grow visibility and engagement.</li><li>Manage budgeting, scheduling, monitoring, reporting and documentation across both programme and enterprise work.</li><li>Any other responsibilities or duties assigned.</li></ul><p><strong>Requirements</strong></p><ul><li>At least 3-5 years of experience in business development, marketing, social enterprise, or a related field.</li><li>Has a diploma or degree in Business, Marketing, Entrepreneurship or a related field.</li><li>Strong communication and relation-building skills.</li><li>Entrepreneurial and problem-solving mindset.</li><li>Proactive and hands-on professional with a proven ability to thrive in fast-paced environments and take initiative in problem-solving, event management, and on-the-ground support.</li><li>Digital and social media proficiency.</li><li>Willing and able to work during some weekday evenings and weekends.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Media",
+      "uuid": "3ce446e5cb3c779f621bb5ee76e666c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Management",
+      "uuid": "7effb2f87a97b7666a5f62f9f90a493e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Entrepreneurship",
+      "uuid": "87fabb18f38548d73b059a44d5e2d059",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excellent Written Communication Skills",
+      "uuid": "9cc388aa8bfcba68a4f5d2f961a513ad",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Digital Marketing",
+      "uuid": "9f48c58dc921bf2333df287cd82ed21b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "26351",
+  "occupationId": "OCC008097",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 38,
+      "category": "Social Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0541",
+  "postedCompany": {
+    "uen": "S87SS0025J",
+    "description": "<p>\r\n\tBeyond Social Services began as a charity based in Bukit Ho Swee, one of the oldest housing estates in Singapore.  All our work moves toward development of children and youth from disadvantaged and troubled backgrounds for them to escape the cycle of poverty and crime and be responsible citizens. Our programmes are managed within 3 departments namely Problem De-escalation, Family Strengthening and Community Integration.</p>\r\n",
+    "name": "Beyond Social Services",
+    "ssicCode": "88913",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:14:00.000Z",
+    "ssicCode2020": "00000",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S87SS0025J"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S87SS0025J/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S87SS0025J/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S87SS0025J/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "26",
+    "street": "Jalan Klinik",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "160026",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28817134538562,
+    "lng": 103.828454024092
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1888724",
+    "deletedAt": "2025-12-30T17:15:04.000Z",
+    "createdBy": "75362d2c-c943-402e-8b71-4ef74939ed08",
+    "createdAt": "2025-12-09T07:41:21.000Z",
+    "updatedAt": "2026-01-26T07:01:37.000Z",
+    "emailRecipient": "1b076c0f-76d5-4bd4-9ec6-0d65c7455807",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 279,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-09",
+    "expiryDate": "2026-02-16",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/social-services/community-worker-beyond-social-services-b5ac60ebc08e90577605c086bbbb2068",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b5ac60ebc08e90577605c086bbbb2068"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b5ac60ebc08e90577605c086bbbb2068/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

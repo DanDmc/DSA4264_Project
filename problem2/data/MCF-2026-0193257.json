@@ -1,0 +1,237 @@
+{
+  "uuid": "19355e36fb4456baabb2507c8cdf134d",
+  "sourceCode": "Employer Portal",
+  "title": "Spa Therapist",
+  "description": "<p>Job Description & Requirements</p><p>· Possess relevant certificate/s from ITEC, CIBTAC, CIDESCO or equivalent will be an added advantage.</p><p>· Minimum 1 years’ experience /tcm expericence also welcome</p><p>· Positive attitude and personality</p><p>· Dedicated with desire to strive towards excellence</p><p>· Team player and passionate to learn</p><p>· Highly motivated with good insight of customer service.</p><p>· Service oriented with high enthusiasm to serve.</p><p>· Friendly personality and team player</p><p>· Able to work on shift, weekends and public holidays OT if required</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Secondary Education",
+      "uuid": "391d57d40e34d7c7c635abbb49aab7ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reflexology",
+      "uuid": "6951388b66b4900565a162dd53857a66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Sales",
+      "uuid": "6dc9fae99bf94d3db2f640dec2b98dbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Target Oriented",
+      "uuid": "c2a200a2c7065079e6d083fef01113a8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Skin Care",
+      "uuid": "fe37e386b185b3d924935f52cb56182c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "32551",
+  "occupationId": "OCC013639",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "21",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202040137K",
+    "description": null,
+    "name": "BLUE OCEAN SPA PTE. LTD.",
+    "ssicCode": "96024",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T04:51:09.000Z",
+    "ssicCode2020": "96024",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040137K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040137K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040137K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040137K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "350",
+    "street": "JURONG EAST AVENUE 1",
+    "floor": null,
+    "unit": null,
+    "building": "YUHUA PLACE",
+    "postalCode": "600350",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34404941857385,
+    "lng": 103.73125555964
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193257",
+    "deletedAt": null,
+    "createdBy": "bb085701-827b-431d-a096-727e44b8fdeb",
+    "createdAt": "2026-01-31T07:50:17.000Z",
+    "updatedAt": "2026-01-31T07:50:18.000Z",
+    "emailRecipient": "bb085701-827b-431d-a096-727e44b8fdeb",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 25,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/spa-therapist-blue-ocean-spa-19355e36fb4456baabb2507c8cdf134d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/19355e36fb4456baabb2507c8cdf134d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/19355e36fb4456baabb2507c8cdf134d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

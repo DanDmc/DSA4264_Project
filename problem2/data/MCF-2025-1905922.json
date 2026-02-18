@@ -1,0 +1,234 @@
+{
+  "uuid": "61b46c4ec4efd33e094e994aadcd32f9",
+  "sourceCode": "Employer Portal",
+  "title": "SysOps Administrator",
+  "description": "<p><strong>Key Research Areas & Responsibilities</strong></p><ul><li>Configuration of the AWS and GCP cloud management; Configure and fine-tune the cloud infrastructure systems; monitoring and managing cloud services</li><li>Improvement of resources and work on the resources which will designate costs required for planning of governance, budgeting, and reporting</li><li>Understanding metrics and monitors for the utilization of AWS and GCP resources on a full scale by making use of highly complex Amazon CloudWatch alarms, and Stackdriver metrics</li><li>Upgrading software, patching kernels and errata patching; managing the disaster recovery and  data backups</li><li>Maintaining an active continuous integration environment, developing system configuration management, good security practices and supporting production applications</li><li>Continually, identify, plan and methodically improve infrastructure systems, practices and processes</li><li>Owning and executing the release process across all environments.</li><li>Familiarity with DevOps and IT Automation tools such as Ansible,Terraform,..</li><li>Investigate and contribute to solving various issues in production environments.</li><li>Experience with some, if not all, of the following AWS services: EC2, S3, Lambda, API Gateway, Redshift, Route53, CodeDeploy, DynamoDB, Elasticsearch Service, Kinesis, CloudWatch, SQS</li><li>Experience with equivalent GCP services</li><li>Experience with configuration management tools such as BitBucket Pipelines, Chef, Terraform, Ansible, and Serverless</li><li>Maintain system pipelines and ensure consistent runtime and health.</li></ul><p><strong>Required Qualifications</strong></p><ul><li>Extremely strong problem solving and troubleshooting skills.</li><li>Excellent interpersonal skills.</li><li>Prior experience working alongside an Engineering team developing and supporting a complicated technical product.</li><li>Fundamental basic networking troubleshooting skills</li><li>Responsiveness in terms of connectivity, responding to alerts, or inquiries via Slack</li><li>Mobile phone with Slack installed to be carried at all times (provided by Pixalate)</li><li>Coding/Scripting knowledge a big plus</li></ul><p><strong>Benefits</strong></p><p>We focus on doing things differently and challenge each other to be the best we can be.</p><ul><li>Monthly internet reimbursement</li><li>Casual, remote work environment</li><li>Hybrid, flexible hours</li><li>Opportunity for advancement</li><li>Fun annual team events</li><li>Being part of a high-performing team that wants to win and have fun doing it</li></ul><p>We're particularly interested in candidates who can demonstrate both theoretical depth and practical implementation skills. Show us how your research can transform the landscape of online trust and safety.</p><p>Pixalate is an online trust and safety platform that protects businesses, consumers and children from deceptive, fraudulent and non-compliant mobile, CTV apps and websites. We're seeking a PhD-level AI Engineer to lead cutting-edge research in agentic AI systems, multimodal analysis, and advanced reasoning architectures that will directly impact millions of users worldwide.</p><p>Our software and data have been used to unearth multiple high profile criminal and illegal surveillance cases including:</p><p>Gizmodo:<a href=\"https://gizmodo.com/apple-icloud-private-relay-ad-fraud-scam-research-1849803510\" target=\"_blank\" rel=\"noopener noreferrer\"> An iCloud Feature Is Enabling a $65 Million Scam, New Research Says</a></p><p>Adweek:<a href=\"https://www.adweek.com/programmatic/pixalate-ad-fraud-scheme-roku-murkiness-ctv/\" target=\"_blank\" rel=\"noopener noreferrer\"> A 7-Figure Ad Fraud Scheme Running on Roku Underlines Murkiness of CTV</a></p><p>Washington Post:<a href=\"https://www.washingtonpost.com/technology/2022/06/09/apps-kids-privacy/\" target=\"_blank\" rel=\"noopener noreferrer\"> Your kids’ apps are spying on them</a></p><p>Pro Publica:<a href=\"https://www.propublica.org/article/google-display-ads-piracy-porn-fraud\" target=\"_blank\" rel=\"noopener noreferrer\"> Porn, Piracy, Fraud: What Lurks Inside Google’s Black Box Ad Empire</a></p><p>ABC7 News:<a href=\"https://www.youtube.com/watch?v=qhFAxvs-mBY\" target=\"_blank\" rel=\"noopener noreferrer\"> The State of Children's Privacy Online</a></p><p>NBC News:<a href=\"https://www.pixalate.com/blog/jalal-nasir-nbc-12news-apps-tracking-child\" target=\"_blank\" rel=\"noopener noreferrer\"> How many apps are tracking your children</a></p><p>Our team of lawyers, data scientists, engineers, economists and researchers span globally with presence in California, New York, Washington DC, London and Singapore.</p><p>Pixalate is an equal opportunity employer committed to building a diverse team. We particularly encourage applications from underrepresented groups in AI research.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Amazon AWS",
+      "uuid": "3fcb666743f4142cc3b9eeeb9bccafb4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Tools",
+      "uuid": "6610f9d34d0252187120a02b66c88b5b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "DynamoDB",
+      "uuid": "6ebb7423072c5943f52c11274fd71b0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EC2",
+      "uuid": "81b22456f78954c460ce2f531b5e048f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Surveillance",
+      "uuid": "9244bd29ea659881b49c67c88e87e5e7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Configuration Management",
+      "uuid": "a4934331bbf896399132d3d20f141ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fraud",
+      "uuid": "b130f12d0f2e4cc10edbe80fe31738dc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC060890",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "202336409H",
+    "description": "<p>Pixalate is an online trust and safety platform that protects businesses, consumers and children from deceptive, fraudulent and non-compliant mobile, CTV apps and websites.<br>\n<br>\nOur software and data have been used to unearth multiple high profile criminal and illegal surveillance cases including:<br>\n<br>\nGizmodo: An iCloud Feature Is Enabling a $65 Million Scam, New Research Says<br>\nAdweek: A 7-Figure Ad Fraud Scheme Running on Roku Underlines Murkiness of CTV<br>\nWashington Post: Your kids’ apps are spying on them<br>\nPro Publica: Porn, Piracy, Fraud: What Lurks Inside Google’s Black Box Ad Empire<br>\nABC7 News: The State of Children's Privacy Online<br>\nNBC News: How many apps are tracking your children<br>\nOur team of lawyers, data scientists, engineers, economists and researchers span globally with presence in California, New York, Washington DC , London and Singapore.<br>\n<br>\nAt Pixalate, we are building technology products for a trustworthy, clean and safe supply chain for Connected TV and Mobile advertising. Our software has transformed how the advertising industry approaches quality and safety through our ratings, risk assessment, compliance, and fraud prevention technology.</p>",
+    "name": "PIXALATE ASIA PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://www.pixalate.com/",
+    "lastSyncDate": "2026-02-04T05:22:51.000Z",
+    "ssicCode2020": "62013",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336409H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336409H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336409H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202336409H/schemes"
+      }
+    },
+    "logoFileName": "5e8213130dd2eb4d904db9975a67aa42/pixalate-asia.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5e8213130dd2eb4d904db9975a67aa42/pixalate-asia.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1905922",
+    "deletedAt": "2025-12-26T17:15:04.000Z",
+    "createdBy": "22398939-6e26-4f74-91d1-544df930ecb6",
+    "createdAt": "2025-12-11T19:59:06.000Z",
+    "updatedAt": "2026-01-28T16:37:03.000Z",
+    "emailRecipient": "22398939-6e26-4f74-91d1-544df930ecb6",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 146,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-12",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/sysops-administrator-pixalate-asia-61b46c4ec4efd33e094e994aadcd32f9",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/61b46c4ec4efd33e094e994aadcd32f9"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/61b46c4ec4efd33e094e994aadcd32f9/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

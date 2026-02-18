@@ -1,0 +1,236 @@
+{
+  "uuid": "2cbd1c974bcddbf55a51d97cbcb95c14",
+  "sourceCode": "Employer Portal",
+  "title": "Microservices Developer",
+  "description": "<p>8 years of hands-on experience on large complex projects,preferably in Banking domain with internet banking and cash management functionalities, payments, Account reporting, customer on boarding etc. </p><p>• 8 years of hands-on experience with technical development,design and debugging, preferably internet banking functionalities software. </p><p>• Strong experience on Java,J2EE ,Spring boot, spring security, Spring data JPA , Spring batch, Spring Cloud& Spring MVC framework. </p><p>• Added advantage if experience in Internet banking and self service channels Implementation </p><p>• Must have a strong understanding of rapid application development, automate unit testing </p><p>• Experience in both agile and waterfall methods. </p><p>• Strong Database knowledge such as Mysql, Oracle, Mariadband NoSql like MongoDB </p><p>• DevSecOps methodologies and CI/CD pipelines. </p><p>• API development, concepts of authentications viaJWT/oauth/OIDC </p><p>• Translating software requirements into stable, working,high performance software.</p><p>• Ensure that software packages and programs are well documented and has reasonable test coverage. </p><p>• Collaborate closely with other internal technical teams/business users in investigating, testing and deployments </p><p>• Responsible for handling Release Management, raising Change Request and scheduling for the implementation of fixes and enhancements.</p><p>• Root cause analysis, management communication and client relationship management in partnership with Infrastructure Service Support team members. </p><p>• Ensures all production changes are made in accordance with life-cycle methodology and risk guidelines </p><p>• Application pre and go live support, Deployment of Release, patches & fixes on Platform </p><p>• Having hands-on experience in deployment and implementation. </p><p>• Analyze application performance, perform tuning and ensure high availability & stability of platform. </p><p>• Capable to handle multiple concurrent initiatives. </p><p>• Proactive and able to work under pressure.</p>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "API Development",
+      "uuid": "063a7ca63ca51def94796e9d6824ceb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MVC",
+      "uuid": "0b9221b0599697618c27449e89d9b07a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MongoDB",
+      "uuid": "206e3718af092fd1d12f80cae771ccac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural Patterns",
+      "uuid": "2a86e8863e7cc9573deaf8e5a9410a84",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Cloud",
+      "uuid": "33d0d327026a3129f67aeecf0300507b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Security",
+      "uuid": "3d4fd12f77464ed3c4a4ca384d671f22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Release Management",
+      "uuid": "4c7dc07514bb55680be853591410c0ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Driven Development",
+      "uuid": "538e0297e61ba282fe30ba183cccabb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tuning",
+      "uuid": "89dd2948ecda7325c0001d8a0e51a2d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Boot",
+      "uuid": "926e67801e570a3898ddaef281c23075",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Management",
+      "uuid": "bc0c62f1f262a46872a871ec65c16e12",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rapid Application Development",
+      "uuid": "be90ceac18cbab2a72acf55cebebce77",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "J2EE",
+      "uuid": "eebcf464f6d32c22c814c8e964c94771",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002070",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "201801831N",
+    "description": null,
+    "name": "NIBAARA TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T02:55:15.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201801831N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201801831N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201801831N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201801831N/schemes"
+      }
+    },
+    "logoFileName": "b88c556f4fe72936a8bbfaea6c7b10ce/nibaara-technologies.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b88c556f4fe72936a8bbfaea6c7b10ce/nibaara-technologies.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "UBI CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "UBI TECHPARK",
+    "postalCode": "408564",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32627524038924,
+    "lng": 103.896130679533
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172607",
+    "deletedAt": null,
+    "createdBy": "929443fd-2fd0-4fe6-80f8-954a29b0f7ae",
+    "createdAt": "2026-01-28T03:02:34.000Z",
+    "updatedAt": "2026-01-28T03:02:33.000Z",
+    "emailRecipient": "929443fd-2fd0-4fe6-80f8-954a29b0f7ae",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/microservices-developer-nibaara-technologies-2cbd1c974bcddbf55a51d97cbcb95c14",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2cbd1c974bcddbf55a51d97cbcb95c14"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2cbd1c974bcddbf55a51d97cbcb95c14/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

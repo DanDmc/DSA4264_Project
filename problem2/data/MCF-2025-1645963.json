@@ -1,0 +1,204 @@
+{
+  "uuid": "f389dc51d32ab09918091a3c46257454",
+  "sourceCode": "Employer Portal",
+  "title": "Curtain & Interior Furnishing Installer (Operator)",
+  "description": "<p>Roles &amp; Responsibilities:</p>\n<p><br></p>\n<p>We are looking for a reliable and motivated individuals to join our installation team.</p>\n<p>you are physically fit, responsible, eager to learn, and enjoy working in a hands-on environment, we’d love to hear from you!</p>\n<p><br></p>\n<p>Key Responsibilities:</p>\n<p><br></p>\n<p>Assist in the installation of curtains, blinds, zipblinds, wallpapers, and vinyl flooring.</p>\n<p>Provide on-site technical support and basic troubleshooting for clients.</p>\n<p>Prepare, pack, and organize installation tools, equipment, and materials.</p>\n<p>Maintain cleanliness and safety at work sites during and after installations.</p>\n<p>Work closely with the team to ensure timely and quality completion of jobs.</p>\n<p>Operate company vehicles to transport materials and team members (Good to have valid Class 3 driving license but not compulsory).</p>\n<p><br></p>\n<p>Preferred Skills &amp; Requirements:</p>\n<p>Prior experience in curtain, blinds, wallpaper, or vinyl installation is an advantage but not mandatory.</p>\n<p>Good to have a valid Class 3 driver’s license but not compulsory</p>\n<p>Physically able to handle heavy lifting and work on ladders or scaffolding if needed.</p>\n<p>Good communication skills and a team-oriented attitude.</p>\n<p>Willingness to learn new skills and take on various installation-related tasks.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Energetic Team Player",
+      "uuid": "2c2c0f34631c40042b40224d7c422e5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Team Player",
+      "uuid": "36f5faf5941b340fbb366e6b27b4012a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamoriented",
+      "uuid": "aaecf2d156e42dacee5de7b530913748",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71192",
+  "occupationId": "OCC010131",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202515895M",
+    "description": null,
+    "name": "BEAUTIFUL CURTAIN PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T05:30:29.000Z",
+    "ssicCode2020": "13921",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515895M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515895M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515895M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202515895M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "45",
+    "street": "KALLANG PUDDING ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ALPHA BUILDING",
+    "postalCode": "349317",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32922242996714,
+    "lng": 103.878996925493
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1645963",
+    "deletedAt": "2025-11-12T17:15:05.000Z",
+    "createdBy": "9c97ae4b-32a1-4c3c-9bbc-013e6af27996",
+    "createdAt": "2025-10-29T03:54:07.000Z",
+    "updatedAt": "2026-01-27T05:31:16.000Z",
+    "emailRecipient": "9c97ae4b-32a1-4c3c-9bbc-013e6af27996",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 91,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-10-29",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/curtain-interior-furnishing-installer-beautiful-curtain-f389dc51d32ab09918091a3c46257454",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f389dc51d32ab09918091a3c46257454"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f389dc51d32ab09918091a3c46257454/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

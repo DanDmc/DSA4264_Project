@@ -1,0 +1,204 @@
+{
+  "uuid": "9cfaf1261a00c45629fdfd34aa5c81d6",
+  "sourceCode": "Employer Portal",
+  "title": "SINGER",
+  "description": "<ul><li>Interpret music or dance and perform in a production.</li><li>Audition for roles.</li><li>Attend rehearsals and confer with other band members.</li><li>Work with music director to fine-tune performance.</li><li>Arrange for musical instruments</li><li>Perform on stage in front of a live audience.</li><li>Interpret criticism from directors.</li><li>Memorize lines or musical notes.</li><li>Read scripts.</li></ul><p><strong>Requirement</strong></p><ul><li>May include weekend and public holidays.</li><li>Working hours 3pm to 3am</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Performance Testing",
+      "uuid": "0e2f0f77407bfd956f621e13b8c1be34",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vocal",
+      "uuid": "36381e29a4c255d5e51e3f43f53da690",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performing Arts",
+      "uuid": "753732671ec1c264e37265824d4adb90",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "time keeping",
+      "uuid": "9fdd3af560f653a25ac9f6ace383429f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performing",
+      "uuid": "a13692fe9acc59d44fd5399f245180c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Management",
+      "uuid": "ec665405336acd4dabdc93b50935ac7a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Always On Time",
+      "uuid": "f50fe919fd6ce4fbb10f02a15d8f335e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "26549",
+  "occupationId": "OCC005095",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 6,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 12,
+      "category": "Entertainment"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202410538Z",
+    "description": null,
+    "name": "KENBAR PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T05:38:40.000Z",
+    "ssicCode2020": "93203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202410538Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202410538Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202410538Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202410538Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "FOCH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "209252",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31177349235844,
+    "lng": 103.859720055464
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188312",
+    "deletedAt": null,
+    "createdBy": "53e3b527-fe03-4ce0-9fe5-cfe41298e27d",
+    "createdAt": "2026-01-30T06:13:26.000Z",
+    "updatedAt": "2026-01-30T06:13:26.000Z",
+    "emailRecipient": "53e3b527-fe03-4ce0-9fe5-cfe41298e27d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/entertainment/singer-kenbar-9cfaf1261a00c45629fdfd34aa5c81d6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9cfaf1261a00c45629fdfd34aa5c81d6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9cfaf1261a00c45629fdfd34aa5c81d6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

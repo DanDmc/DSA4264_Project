@@ -1,0 +1,202 @@
+{
+  "uuid": "6ea343d3859fb6e899019bc905d6bf32",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Executive – F&B / Indian Bar",
+  "description": "<h3>Job Description</h3><p>We are an Indian bar specialising in authentic Karnataka (Bangalore-style) bar bites and small plates. We are seeking a Sales Executive to support business growth by driving sales through corporate bookings, events, and partnerships.</p><p>This role focuses on generating revenue, managing client relationships, and promoting the restaurant’s offerings to new and existing customers.</p><h3>Key Responsibilities</h3><p><p><p>Identify and develop new sales opportunities, including group bookings and events</p></p><p><p>Manage enquiries related to reservations, private events, and corporate functions</p></p><p><p>Build and maintain relationships with corporate clients and partners</p></p><p><p>Promote the restaurant’s food and beverage offerings to increase sales</p></p><p><p>Prepare sales proposals, quotations, and follow up on enquiries</p></p><p><p>Coordinate with operations and kitchen teams to ensure smooth event execution</p></p><p><p>Track sales performance and maintain accurate records of bookings</p></p><p><p>Support marketing initiatives and promotional activities</p></p></p><h3>Job Requirements</h3><p><p><p>Minimum 2–4 years of relevant sales experience, preferably in F&B or hospitality</p></p><p><p>Strong communication, negotiation, and interpersonal skills</p></p><p><p>Customer-focused and results-driven mindset</p></p><p><p>Ability to work independently and manage multiple enquiries</p></p><p><p>Comfortable interacting with clients and stakeholders</p></p><p><p>Basic computer skills for reporting and coordination</p></p></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Team Worker",
+      "uuid": "0bd5d31a0fcc6a30e9d34568fa29167d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Upselling",
+      "uuid": "145a82e8fef194ddf65ec7cc37c395f7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management skills",
+      "uuid": "af01b2833ddeb67b2dec528470b57dec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "customer friendly",
+      "uuid": "b2cf293a05f3070ede05615725d17782",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multitasker",
+      "uuid": "d10a78b743418553cd1d166c06d2aae0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51311",
+  "occupationId": "OCC060445",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202535399Z",
+    "description": null,
+    "name": "KANAXS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:11:52.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "80",
+    "street": "SYED ALWI ROAD",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "207659",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30891794593689,
+    "lng": 103.856140586344
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183807",
+    "deletedAt": null,
+    "createdBy": "1fa75f98-c917-48a0-a770-70dbe70cc087",
+    "createdAt": "2026-01-29T10:10:59.000Z",
+    "updatedAt": "2026-01-29T10:10:59.000Z",
+    "emailRecipient": "1fa75f98-c917-48a0-a770-70dbe70cc087",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 30,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/sales-executive-%E2%80%93-fb-indian-bar-kanaxs-6ea343d3859fb6e899019bc905d6bf32",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6ea343d3859fb6e899019bc905d6bf32"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6ea343d3859fb6e899019bc905d6bf32/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

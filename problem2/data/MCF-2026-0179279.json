@@ -1,0 +1,200 @@
+{
+  "uuid": "082ae1140622e5ec2033b0474ce09a01",
+  "sourceCode": "Employer Portal",
+  "title": "Tilers",
+  "description": "<p><u><strong>Requirements:</strong></u></p><ul><li>Willingness to work in non-climate-controlled conditions (heat, cold, outdoors)</li><li>Ability to lift heavy materials and equipment</li><li>Willingness to work overtime</li><li>Willing to work midnight shift</li><li>Excellent customer service skills</li><li>Min 3 Years relevant working experiences</li><li>Secondary School / high school / diploma or equivalent</li><li>Carpentry and renovation experience a plus</li></ul><p><u><strong>Job Responsibilities:</strong></u></p><ul><li>Cut tiles and shape them properly to ensure they fit around obstacles and in tight corners and odd spaces using power and handtools</li><li>Form tile beds using concrete, plaster, mastic, cement, glue or mortar utilizing tools such as screeds, brushes and trowels</li><li>Align tiles and straighten them with straightedges, levels and squares to ensure patterns are even and precise</li><li>Cut, install, polish and surface granite and marble and ensure accuracy during the installation process for lasting results</li><li>Prepare various surfaces for tiling with waterproofing material or lath and by cleaning the surfaces properly</li><li>Create decorative wall and floor designs by laying and setting mosaic tiles in kitchens, bathrooms and living rooms</li><li>Tap tiles into place carefully using tools to properly adhere tiles to the base, making sure not to break or damage tiles</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Finishes",
+      "uuid": "20f47bc22a498ac0e1c4ac5dc748c4cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loading & unloading",
+      "uuid": "544d69ceb3202e4e7d7c27956e848f5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cement",
+      "uuid": "5cb91ac72b6016809690064a5e7e30e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Safety",
+      "uuid": "6472ce41c26babff27b4c28028093d77",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tile-laying",
+      "uuid": "7b9daf3ded10ccd2821b1f32eca2dcf8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sand casting",
+      "uuid": "7e80754fd3e194e179eb932c92d7678e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waterproofing",
+      "uuid": "b398d126cf83089e8f32d01bc3952697",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71220",
+  "occupationId": "OCC009927",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201329135E",
+    "description": "<p>CHONG TAT CONSTRUCTION IS A BCA registered firm which is established in 2013. Its bussiness cover private condominium, private detached houses, HDB BTO and HDB HIP projects, etc.</p>\n<p>It is&nbsp;young, but positive, active and full of energy, wish all friends with the same dream&nbsp;join us&nbsp;and creat a beautiful tomorrow together.</p>",
+    "name": "CHONG TAT CONSTRUCTION PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T02:19:30.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201329135E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201329135E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201329135E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201329135E/schemes"
+      }
+    },
+    "logoFileName": "ecd2cdd991b61fe7a60a81d200d3d8ae/chong-tat-construction.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ecd2cdd991b61fe7a60a81d200d3d8ae/chong-tat-construction.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "105",
+    "street": "SIMS AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "CHANCERLODGE COMPLEX",
+    "postalCode": "387429",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31461636363512,
+    "lng": 103.877394876988
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179279",
+    "deletedAt": null,
+    "createdBy": "92f9c3fe-1777-4318-a084-de906333dc28",
+    "createdAt": "2026-01-29T02:20:32.000Z",
+    "updatedAt": "2026-01-29T02:20:31.000Z",
+    "emailRecipient": "92f9c3fe-1777-4318-a084-de906333dc28",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 39,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/tilers-chong-tat-construction-082ae1140622e5ec2033b0474ce09a01",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/082ae1140622e5ec2033b0474ce09a01"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/082ae1140622e5ec2033b0474ce09a01/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

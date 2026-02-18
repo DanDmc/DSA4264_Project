@@ -1,0 +1,217 @@
+{
+  "uuid": "15b03b825cde2279a0d3983a62b92234",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps Expert",
+  "description": "<h1><u><strong>DevOps Coach Expert</strong></u></h1><p>Reports to: Head of Digital Infrastructure</p><h1>Introduction</h1><p>As DevOps Expert, you will report to our Client's Head of DigitalInfrastructure. They aim to create a pioneering team in digital infrastructure,and you will be one of its founding members. This is a unique opportunity toshape the future of technological infrastructure in the private banking sector,starting from scratch. You will influence the direction, processes, and cultureof this new team while working closely with their Head of Digital Infrastructureto build a next-generation platform and an industrialized CI/CD pipeline.</p><h1>Team Composition</h1><p>The team consists of 2 ContainerSpecialists, 2 Cloud Specialists, 5 CI/CD Platform Administrators, and 3 DevOpsExperts.</p><h1>Key Responsibilities</h1><p>·      Design and Deployment ofContainerization Infrastructures using Docker, Kubernetes, and OpenShift.</p><p>·      Management and Optimization ofKubernetes/OpenShift Clusters for performance, availability, and security.</p><p>·      Continuous Integration andContinuous Deployment (CI/CD): Design and maintain pipelines using Jenkins,GitLab CI, etc.</p><p>·      Development and Maintenance ofAutomation Scripts for deployment and infrastructure management.</p><p>·      Container Governance andSecurity: Establish policies for container security and vulnerabilitymanagement.</p><p>·      Technical Support forDevelopment Teams and provide training/documentation.</p><p>·      Support Development andOperations Teams in adopting DevOps practices and fostering collaboration.</p><p>·      Development of DevOpsStrategies aligned with long-term platform goals.</p><p>·      Process Improvement: Optimizedevelopment, deployment, and operation processes.</p><p>·      Training and Skill Developmentfor team autonomy and proactivity.</p><p>·      Communication and Collaboration: Facilitate smooth communication between teams to eliminate silos.</p><p>You will have the opportunity to work on innovative projects in a dynamic and international environment. We value autonomy and proactivity and offer a conducive environment for creativity and professional development.</p><h1>Required Skills</h1><p>·      More than 10 years’ experiencein IT.</p><h3>·      Expertise in ContainerizationTechnologies: Docker.</h3><h3>·      Expertise in ContainerOrchestration: Kubernetes and OpenShift.</h3><p>·      Development and Automation:Skills in Python for task automation.</p><p>·      Configuration Management:Knowledge of Ansible, Puppet, or Chef.</p><p>·      Container Networking andSecurity: Understanding of Docker networks, Kubernetes Ingress, and securitybest practices.</p><p>·      Monitoring and Logging:Familiarity with Prometheus, Grafana, ELK Stack, or Splunk.</p><h3>·      CI/CD: Experience with Jenkins,GitLab CI, or ArgoCD.</h3><p>·      In-depth Knowledge of AgileMethodology.</p><p>·      Autonomy, Proactivity, andInnovation in implementing DevOps practices.</p><p>·      Continuous Learning andTechnological Watch to stay ahead of DevOps trends.</p><p>·      Fluent English is mandatory.<br /></p><h2>Excellent SOFT SKILLS </h2>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Puppet",
+      "uuid": "14590850b4107a6f92feb1af739b82eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Jenkins",
+      "uuid": "2e54334c0a5ce2e3e5a5845df3ab3ada",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Splunk",
+      "uuid": "2f9304fe9b427489507405bef9a0bb9f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "OpenShift",
+      "uuid": "3021808e247cf53a757ffb56670d8ed8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DevOps",
+      "uuid": "407432c641358300c37673ae96305f3a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Gitlab",
+      "uuid": "d0498fac9d755142b3dfd9f05281701f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Grafana",
+      "uuid": "d9c0e52dd15274d51041b489c7cea0ad",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202452019W",
+    "description": "<p>The HISTORICAL PURE PLAYER in banking and finance.<br>\nSince 2007, Quanteam has been advising and supporting all the major players in the banking and financial sectors, thanks to more than 1000 expert consultants worldwide.<br>\nOur strength? Dual business and IT expertise... and resolutely human values!<br>\n<br>\nOUR MAIN OFFICES :<br>\n<br>\n*PARIS<br>\n*LYON<br>\n*NEW YORK<br>\n*MONTREAL<br>\n*LONDON<br>\n*LISBON<br>\n*PORTO</p>\n<p>*GENEVA<br>\n*BRUXELLES<br>\n*CASABLANCA</p>\n<p>*SINGAPORE</p>\n<p>*HONG KONG<br>\n</p>\n<p>We partner worldwide with leading banks and financial institutions to drive impactful business and IT projects.<br>\nWe turn complex challenges into innovative solutions that create real value.<br>\nHuman at our core, we build lasting impact and help our clients stay ahead of change.</p>\n<p><br></p>\n<p>Interested?&nbsp;</p>\n<p>Let's connect!</p>\n<p>catherine.remeur@quanteam.sg</p>\n<p><br></p>",
+    "name": "QUANTEAM (SINGAPORE) PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://quanteam.fr/en/quanteam-singapore/",
+    "lastSyncDate": "2026-02-04T01:29:10.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202452019W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202452019W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202452019W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202452019W/schemes"
+      }
+    },
+    "logoFileName": "6f8c9ba0d57c0edbd49138fcc0eadd7a/quanteam.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6f8c9ba0d57c0edbd49138fcc0eadd7a/quanteam.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159033",
+    "deletedAt": null,
+    "createdBy": "b33bf7cc-1763-4e35-b418-8b8a4115fc88",
+    "createdAt": "2026-01-26T08:03:05.000Z",
+    "updatedAt": "2026-01-26T09:53:10.000Z",
+    "emailRecipient": "b33bf7cc-1763-4e35-b418-8b8a4115fc88",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 86,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/devops-expert-quanteam-15b03b825cde2279a0d3983a62b92234",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15b03b825cde2279a0d3983a62b92234"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15b03b825cde2279a0d3983a62b92234/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,198 @@
+{
+  "uuid": "746a13ca530726f3d8a3e22917983e39",
+  "sourceCode": "Employer Portal",
+  "title": "Personal driver/Chauffeur（Lorong Chuan, up to $4500）",
+  "description": "<p>Hiring: Private Driver</p><p>Location: Lorong Chuan</p><p>Salary: Around SGD 4,500, depends on your work experience</p><p>Working Hours: 7:00 AM – 7:00 PM, 1 day off per week,working hours are flexible with time-off in lieu (early off on some days, later off on others) depending on schedule</p><p>🚗 Job Requirements:</p><p>Prior experience as a Private Driver</p><p>Proficient in driving Toyota Alphard</p><p>Familiar with Singapore roads and safe driving practices</p><p>Responsible, reliable, and well-mannered</p><p>Able to start work as soon as possible is an advantage</p><p></p><p>📲 Interested candidates, please WhatsApp: Melissa – 9172 7088</p><p>(Please include your resume and basic details)</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPS",
+      "uuid": "8c578de37278ada488d763ea86c5cf20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "83222",
+  "occupationId": "OCC013078",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53462304B",
+    "description": "<p>Five Star Recruitment is a professional manpower and recruitment agency based in Singapore, dedicated to connecting employers with high-quality local talent. With over a decade of industry experience, we specialise in providing reliable, well-screened candidates for households and businesses, ensuring a smooth and efficient hiring process.</p><p>At Five Star Recruitment, we believe in professionalism, transparency, and long-term partnerships. We pride ourselves on understanding our clients’ needs deeply and matching them with the right people—improving household operations, enhancing lifestyle convenience, and supporting business productivity.</p><p>Driven by integrity and service excellence, our mission is to make hiring simple, efficient, and trustworthy—just like our name suggests: truly five-star service.</p>",
+    "name": "FIVE STAR RECRUITMENT",
+    "ssicCode": null,
+    "employeeCount": 10,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T05:36:30.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53462304B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53462304B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53462304B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53462304B/schemes"
+      }
+    },
+    "logoFileName": "e3f90c2dda1c7609ee8f4ad81335fe24/five-star-recruitment.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e3f90c2dda1c7609ee8f4ad81335fe24/five-star-recruitment.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190965",
+    "deletedAt": null,
+    "createdBy": "b9e36554-1dba-48b2-b818-946760951ded",
+    "createdAt": "2026-01-30T09:41:41.000Z",
+    "updatedAt": "2026-01-30T09:41:42.000Z",
+    "emailRecipient": "b9e36554-1dba-48b2-b818-946760951ded",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 151,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/personal-driverchauffeur%EF%BC%88lorong-chuan-4500%EF%BC%89-five-star-recruitment-746a13ca530726f3d8a3e22917983e39",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/746a13ca530726f3d8a3e22917983e39"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/746a13ca530726f3d8a3e22917983e39/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

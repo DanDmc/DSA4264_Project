@@ -1,0 +1,256 @@
+{
+  "uuid": "6a61904a04d7f799b0e485ac95e90332",
+  "sourceCode": "Employer Portal",
+  "title": "SUPERVISOR",
+  "description": "<p>Oversee and coordinate the activities of team members during assigned shifts</p><p>Ensure employees follow company policies and meet productivity goals</p><p>Train, coach, and mentor new and existing staff</p><p>Monitor performance, provide feedback, and conduct evaluations</p><p>Schedule shifts and manage attendance or coverage issues</p><p>Address employee and customer concerns in a timely and professional manner</p><p>Maintain a safe and organized work environment</p><p>Communicate with upper management regarding team performance and operational needs</p><p>Ensure quality standards are met and service expectations are exceeded</p><p>Complete reports, inventory counts, and other administrative tasks as required</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202040948K",
+    "description": "<p><em>Founded 2021 in Singapore, i-LINK is a multi-Talent Acquisition and the HR outsourcing partner-of-choice for local conglomerates and multinational corporations within the Asia Pacific region.</em></p>\n<p><em>We believe that employee always the key to SUCCESS “Clients Do Not Come First, Employees Come First. If You Take Care Of Your Employees, They Will Take Care Of The Clients”. </em>Link the right Job to the right Person</p>",
+    "name": "I-LINK MANPOWER CONSULTANCY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 5,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:02:16.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/schemes"
+      }
+    },
+    "logoFileName": "4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "200811088K",
+    "description": null,
+    "name": "TOPWIN TECHNOLOGY PTE. LTD.",
+    "ssicCode": "74111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T02:51:15.000Z",
+    "ssicCode2020": "74111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811088K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811088K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811088K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811088K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "TOH GUAN ROAD EAST",
+    "floor": null,
+    "unit": null,
+    "building": "TOH GUAN CENTRE",
+    "postalCode": "608609",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33764519913571,
+    "lng": 103.754683157475
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189223",
+    "deletedAt": null,
+    "createdBy": "dd2233f6-9e28-441d-9e26-07f1b5a4a079",
+    "createdAt": "2026-01-30T07:36:00.000Z",
+    "updatedAt": "2026-01-30T07:36:00.000Z",
+    "emailRecipient": "dd2233f6-9e28-441d-9e26-07f1b5a4a079",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 28,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/supervisor-topwin-technology-6a61904a04d7f799b0e485ac95e90332",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a61904a04d7f799b0e485ac95e90332"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a61904a04d7f799b0e485ac95e90332/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

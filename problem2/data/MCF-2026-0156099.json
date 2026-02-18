@@ -1,0 +1,209 @@
+{
+  "uuid": "43ea75b6b275f2d649aa690c89fdff75",
+  "sourceCode": "Employer Portal",
+  "title": "Crewing Executive",
+  "description": "<p><strong>Job Summary</strong></p><p>The Crewing Executive ensures vessels are fully manned with competent personnel in compliance with Company standards, national and international regulations, and industry requirements. This role drives efficient and safe vessel operations through effective crew recruitment, training, and management.</p><p><strong>Responsibilities</strong></p><ul><li>Lead the planning and execution of crew manning to ensure vessels operate in compliance with Company standards and meet charterers’ expectations.</li><li>Manage vessel manning processes to comply with all applicable legislative and Company requirements, ensuring regulatory adherence.</li><li>Oversee the performance and compliance of Manning Agencies by conducting regular audits and enforcing contractual obligations.</li><li>Organize and direct daily departmental operations to optimize crew management and operational planning.</li><li>Maintain and update position descriptions for self and subordinate managers to align roles with operational needs and organizational goals.</li><li>Apply knowledge of relevant maritime rules, regulations, codes, and the Company’s Safety, Health, Environmental, and Security policies to ensure safe and compliant operations.</li><li>Develop and propose staff promotion plans, compensation adjustments, and wage reviews to support workforce motivation and retention.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ships",
+      "uuid": "4d091c3139a28c131b75656586631457",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Recruiting",
+      "uuid": "5231dee7156b84b0d1854de1a18dd169",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33493",
+  "occupationId": "OCC007504",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 20,
+      "category": "Human Resources"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1341",
+  "postedCompany": {
+    "uen": "202233973M",
+    "description": null,
+    "name": "BEYOND SHIPMANAGEMENT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:33:10.000Z",
+    "ssicCode2020": "52226",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202233973M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202233973M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202233973M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202233973M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "COMMONWEALTH LANE",
+    "floor": null,
+    "unit": null,
+    "building": "ONE COMMONWEALTH",
+    "postalCode": "149544",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30442793513963,
+    "lng": 103.79679428886
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156099",
+    "deletedAt": null,
+    "createdBy": "b840f607-f7bf-4d2c-9d5f-9ebe1c600338",
+    "createdAt": "2026-01-26T02:44:05.000Z",
+    "updatedAt": "2026-01-26T02:44:03.000Z",
+    "emailRecipient": "b840f607-f7bf-4d2c-9d5f-9ebe1c600338",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 169,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/human-resources/crewing-executive-beyond-shipmanagement-43ea75b6b275f2d649aa690c89fdff75",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/43ea75b6b275f2d649aa690c89fdff75"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/43ea75b6b275f2d649aa690c89fdff75/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

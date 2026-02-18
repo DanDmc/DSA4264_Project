@@ -1,0 +1,229 @@
+{
+  "uuid": "0eddd349ad3649eb3bb194f08961d6ad",
+  "sourceCode": "Employer Portal",
+  "title": "Application Support (Validation & Security Engineer)",
+  "description": "<p><u><strong>Job Responsibilities</strong></u></p><ul><li>Provide technical and administrative support for enterprise applications, including laboratory and manufacturing systems (e.g., Empower, LabX, LIMS, PowerApps, ServiceNow).</li><li>Collaborate with cross-functional teams to resolve application issues and ensure optimal performance.</li><li>Lead Computer System Validation (CSV) activities for new implementations and upgrades, ensuring compliance with GxP, 21 CFR Part 11, and global regulatory standards (USFDA, HSA, PMDA, WHO).</li><li>Author and maintain validation documentation, SOPs, and SDLC artifacts.</li><li>Support audit readiness and respond to regulatory inspections by providing evidence of compliance.</li><li>Implement and manage security tools such as Qualys, Sophos, and Dynatrace for vulnerability management and proactive threat monitoring.</li><li>Integrate cybersecurity controls into validation processes and enforce security policies across systems.</li><li>Conduct risk assessments and support remediation of vulnerabilities within defined timelines.</li><li>Lead end-to-end lifecycle of application upgrade projects (e.g., Empower upgrade across multiple sites).</li><li>Manage change, deviation, and incident processes in alignment with QMS standards.</li><li>Coordinate with global teams for deployment and implementation of security and compliance solutions.</li><li>Administer enterprise servers, cloud VM environments, and Active Directory.</li><li>Develop and implement automated user access management solutions (e.g., SailPoint) to streamline provisioning and enhance security.</li><li>Perform proactive system monitoring using tools like Dynatrace to ensure data integrity and system performance.</li><li>Prepare audit reports and compliance documentation for internal and external stakeholders.</li></ul><p><u><strong>Job Requirements</strong></u></p><ul><li>Master’s or Bachelor’s degree in Electrical Power Engineering or related IT discipline.</li><li>Minimum 10+ years of experience in IT application support, validation, and security operations.</li><li>Proven experience in managing CSV projects and regulatory audits.</li><li>Hands-on experience with enterprise applications and infrastructure in pharma or regulated environments.</li><li>Expertise in CSV, GxP, 21 CFR, GAMP guidelines.</li><li>Strong experience in security tools (Qualys, Sophos), monitoring tools (Dynatrace), and access management solutions (SailPoint).</li><li>Strong experience of SDLC, SOP development, and audit readiness.</li><li>Strong analytical and problem-solving abilities.</li><li>Excellent communication and collaboration skills.</li><li>Ability to manage multiple projects and work under regulatory compliance pressure.</li><li>Preferred ITIL or equivalent IT Service Management certification.</li><li>Preferred Security certifications such as CISSP, CISA, or CCSP.</li><li>Preferred Cloud certifications (AWS, Azure).</li></ul>",
+  "minimumYearsExperience": 9,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "GxP",
+      "uuid": "06971495e2530eaf8d1fa1f410a54b32",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Service Management",
+      "uuid": "1856585762a862d699c7538b61d6fa8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Qualys",
+      "uuid": "362894792c463aa1b242d5c586ef7d5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CSV files",
+      "uuid": "39f01623c7dd6fe882514a5de0136872",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Management",
+      "uuid": "41e9c1de32e11815893b9077e9b2d58b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GAMP",
+      "uuid": "63dc56f8cbc6ffb5a7e28b1a0edf61d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SDLC",
+      "uuid": "6fb20c4016a1efc028fcb5c917a1a9b5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer System Validation",
+      "uuid": "9b7b28cc1b1eff18851159e740099fe1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "LIMS",
+      "uuid": "a32b0cd787c376715c1bde261ff34f5e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dynatrace",
+      "uuid": "bca31ebdc6806aa2669e343aa3cf1c4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISA",
+      "uuid": "c4cf1337de12d64001452cba233ff8bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002103",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "202435429C",
+    "description": null,
+    "name": "EXASOFT CONSULTING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T07:43:28.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435429C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435429C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435429C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435429C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176807",
+    "deletedAt": null,
+    "createdBy": "4317b1c2-be5d-4f4e-80cc-d0c2a9dd6031",
+    "createdAt": "2026-01-28T09:50:45.000Z",
+    "updatedAt": "2026-01-28T09:50:46.000Z",
+    "emailRecipient": "4317b1c2-be5d-4f4e-80cc-d0c2a9dd6031",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 72,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/application-support-exasoft-consulting-0eddd349ad3649eb3bb194f08961d6ad",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11500,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0eddd349ad3649eb3bb194f08961d6ad"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0eddd349ad3649eb3bb194f08961d6ad/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,216 @@
+{
+  "uuid": "869d2ca260937862724a0efcde3b4608",
+  "sourceCode": "Employer Portal",
+  "title": "Warehouse Operator- (Gross salary $2500-$3000)- East Area",
+  "description": "<p>Job Description &amp; Requirements<br>\nElectronic Components Distributor Company<br>\n<br>\nPosition: Warehouse Assistant<br>\n<br>\nBasic salary $2200 (depends on experience)<br>\n<br>\nGross salary can get around $2500-$3000<br>\n<br>\nWorking hours: 9am to 6pm/10am-7pm/11am-8pm (Monday to Friday)<br>\n<br>\nlocation: near Expo MRT<br>\n<br>\nCompany benefits: AWS, variable bonus, medical and dental benefits, air-conditioned working environment<br>\n<br>\nJobscope:<br>\n<br>\nreceiving and processing of incoming stock and materials<br>\npicking and filling orders from stock<br>\noperate stacker machine<br>\npacking and shipping orders and managing<br>\norganising and retrieving stock in the warehouse<br>\noperate simple machinery in the warehouse</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "WMS",
+      "uuid": "007f57eb93ce5816f4a5f294f7d24f5e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Control",
+      "uuid": "83506d0acff3216fd8efd79be7e181f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "93334",
+  "occupationId": "OCC008974",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201833592E",
+    "description": null,
+    "name": "MARVEOUS EMPLOYMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T04:43:20.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201833592E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201833592E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201833592E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201833592E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "27",
+    "street": "WOODLANDS INDUSTRIAL PARK E1",
+    "floor": null,
+    "unit": null,
+    "building": "HIANGKIE INDUSTRIAL BUILDING",
+    "postalCode": "757718",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45523613025453,
+    "lng": 103.79806532818
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1632109",
+    "deletedAt": "2026-01-03T17:15:04.000Z",
+    "createdBy": "24d25a45-6503-40b7-84fa-935d253493cd",
+    "createdAt": "2025-10-27T07:22:01.000Z",
+    "updatedAt": "2026-01-26T02:43:35.000Z",
+    "emailRecipient": "24d25a45-6503-40b7-84fa-935d253493cd",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 239,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-10-27",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/warehouse-operator-east-area-marveous-employment-869d2ca260937862724a0efcde3b4608",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/869d2ca260937862724a0efcde3b4608"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/869d2ca260937862724a0efcde3b4608/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

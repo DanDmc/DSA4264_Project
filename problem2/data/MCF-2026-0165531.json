@@ -1,0 +1,203 @@
+{
+  "uuid": "71932e4b211ee0fc9ac49c6a455f8f71",
+  "sourceCode": "Employer Portal",
+  "title": "Plumber",
+  "description": "<p>- Mainly doing renovation work on installation of sanitary wares and piping works,able to work independently & install complex sanitary wares.</p><p>- 6 days work week.</p><p>- Preferably with experience in relevant industry & have Class 3 driving license</p><p>- If interested, please whatsapp to 96879496 for more details.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Piping repairs",
+      "uuid": "05f74269a63c466d41c10a08f41b6032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "kitchen sinks",
+      "uuid": "1484ac4f8f899c8705508f2a4df6a05b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "piping layout",
+      "uuid": "33fc1873149cbf45ece7f4abd26c33cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "piping activities",
+      "uuid": "40230843a6ff686c199beac965c75dbc",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Plumbing",
+      "uuid": "8a680eb764594dc868e62a10671df799",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Piping",
+      "uuid": "96d312760756ae17426f3ff9f9731dd1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Plumbing work",
+      "uuid": "c8f8707691992088aacbaefaf59f72fb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Welding pipes",
+      "uuid": "d3b3fecc17b9efa3d336b15f47e5992c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pipe cutting",
+      "uuid": "d862914c2f7cd9d8f32b1c89b67e4798",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pipe bending",
+      "uuid": "fb385cf1b65dc84389bacfab21af03f5",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71261",
+  "occupationId": "OCC014410",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201311523Z",
+    "description": null,
+    "name": "SIANG KHOON PLUMBING & CONSTRUCTION PTE. LTD.",
+    "ssicCode": "43220",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T04:36:56.000Z",
+    "ssicCode2020": "43220",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201311523Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201311523Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201311523Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201311523Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165531",
+    "deletedAt": null,
+    "createdBy": "aac9cf90-c8a3-47a8-aa9b-65221b0b49c3",
+    "createdAt": "2026-01-27T04:52:22.000Z",
+    "updatedAt": "2026-01-27T04:52:22.000Z",
+    "emailRecipient": "aac9cf90-c8a3-47a8-aa9b-65221b0b49c3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 49,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/plumber-siang-khoon-plumbing-construction-71932e4b211ee0fc9ac49c6a455f8f71",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 4800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/71932e4b211ee0fc9ac49c6a455f8f71"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/71932e4b211ee0fc9ac49c6a455f8f71/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

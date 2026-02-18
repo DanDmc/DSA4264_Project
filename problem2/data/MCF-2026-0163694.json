@@ -1,0 +1,238 @@
+{
+  "uuid": "9511fc0488fb76c5fadd0d5154042324",
+  "sourceCode": "Employer Portal",
+  "title": "Systems Engineers (DevOps Engineers)",
+  "description": "<p>We are looking for a <strong>hands-on On-Premises DevOps Engineer</strong> to support and operate our <strong>on-prem Kubernetes and container platform</strong> for a 1-year project. This role is well-suited for <strong>mid-level DevOps engineers</strong> with practical experience running production environments, especially in <strong>on-prem or private infrastructure setups</strong>.</p><p>You will work closely with application, infrastructure, and operations teams to ensure <strong>stable deployments, system availability, and platform reliability</strong>.</p><p><strong>Responsibilities</strong></p><p>•                     <strong>Kubernetes Clusters: </strong>Install, configure, and maintain Kubernetes clusters on-premises.</p><p>•                     <strong>Containerization: </strong>Work with Docker containers and containerd for application deployments.</p><p>•                     <strong>Kafka Integration: </strong>Integrate Kafka for event-driven communication and data streaming within our on-premises setup.</p><p>•                     <strong>Guacamole Experience: </strong>Leverage Guacamole for secure remote access to our systems.</p><p>•                     <strong>Infrastructure as Code: </strong>Use tools like Terraform, Ansible, or CloudFormation to manage on-premises infrastructure.</p><p>•                     <strong>Monitoring and Alerting: </strong>Set up monitoring, logging, and alerting for Kubernetes clusters in our on-premises environment (e.g., Prometheus, Grafana, ELK stack).</p><p>•                     <strong>Security Best Practices: </strong>Implement Kubernetes security measures within our on-premises setup, including RBAC, network policies, and pod security policies.</p><p><strong>Our Requirements:</strong></p><ul><li><p>Diploma & bachelor’s degree in computer science, Engineering, or related field (or equivalent experience).                    </p></li><li><p>Technical Skills: Proficiency in Kubernetes concepts (pods, services, deployments, stateful sets) within an on-premises context.</p></li><li><p>Experience with Docker and containerd for on-premises container management</p></li><li><p>Experience with on-premises infrastructure and data centers</p></li><li><p>Familiarity with Kubernetes networking (CNI plugins, ingress controllers, service meshes) in an on-premises environment.</p></li><li><p>Knowledge of infrastructure as code tools (e.g., Helm, Kustomize, Terraform) for on-premises deployments.</p></li><li><p>Ability to set up monitoring, logging, and alerting for Kubernetes clusters in an on-premises setup.</p></li><li><p>Understanding of Kubernetes security best practices within an on-premises context.</p></li><li><p>Soft Skills: Strong problem-solving abilities in complex on-premises Kubernetes environments.</p></li><li><p>Excellent communication skills for collaboration with cross-functional teams.</p></li></ul><ul><li><p>Ability to thrive in a fast-paced, on-premises environment.</p></li><li><p>A continuous learning mindset to keep up with the evolving Kubernetes ecosystem.</p></li><li><p>Attention to detail when configuring and managing on-premises Kubernetes resources.</p></li><li><p>Proactive approach to identifying and resolving potential issues within our on-premises systems.</p></li><li><p>[Optional: Relevant certifications, e.g., <strong>Certified Kubernetes Administrator (CKA)]</strong> will be at an advantage</p></li><li><p><strong>Only Singaporeans to apply as Cat Clearance (Security Clearance) is required in this project.</strong></p></li></ul><p>    EA License No: 09C4235 I EA Reg: R1103307 (Hong Mei Lin)</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Clearance",
+      "uuid": "00a888b9d1b135929dd3bc7023c56006",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Terraform",
+      "uuid": "1b1ed905d54c18e3dd8828986c14be17",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200917438G",
+    "description": "<p>\r\n\tES RECRUITMENT PTE. LTD. (License No: 09C4235) is  one STOP premier agency set up to cater to the needs of employers who require staffing solutions over a wide spectrum of industries: <strong>MARINE OFFSHORE/ OIL & GAS, MANUFACTURING, ENGINEERING, SHIPYARD, INFORMATION, RETAIL & SERVICE</strong>. We aim to provide quality services in recruitment & human resource management & development functions.We are here to assist our clients to bring on quality staffs & talents that will help them beat the competition. Our Vision is to be the preferred manpower provider company that source for excellent overseas & local talents to cater to different organizations' needs.  </p>\r\n",
+    "name": "ES RECRUITMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T05:44:32.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200917438G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200917438G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200917438G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200917438G/schemes"
+      }
+    },
+    "logoFileName": "124a56e366aab8d58f2467802454997a/es-recruitment.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/124a56e366aab8d58f2467802454997a/es-recruitment.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "50",
+    "street": "TAGORE LANE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "787494",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 26,
+        "location": "D26 Upper Thomson, Springleaf",
+        "region": "North",
+        "sectors": [
+          "77",
+          "78"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38370867365828,
+    "lng": 103.828441108556
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163694",
+    "deletedAt": null,
+    "createdBy": "9e743945-483e-444e-b643-601b442fd4c1",
+    "createdAt": "2026-01-27T02:08:10.000Z",
+    "updatedAt": "2026-01-27T02:08:10.000Z",
+    "emailRecipient": "9e743945-483e-444e-b643-601b442fd4c1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/systems-engineers-es-recruitment-9511fc0488fb76c5fadd0d5154042324",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9511fc0488fb76c5fadd0d5154042324"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9511fc0488fb76c5fadd0d5154042324/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,236 @@
+{
+  "uuid": "b1259d627e5c7313a6ddc9c101aba6d8",
+  "sourceCode": "Employer Portal",
+  "title": "Site Engineer",
+  "description": "<p><u><strong>Job Description</strong></u></p><ul><li>Supervise daily site operations and coordinate with contractors and subcontractors</li><li><p>Ensure works are executed according to approved drawings, specifications, and schedule</p></li><li><p>Monitor project progress and report on site activities</p></li><li><p>Coordinate with consultants, suppliers, and project teams</p></li><li><p>Ensure compliance with workplace safety and regulatory requirements</p></li><li><p>Conduct site inspections and resolve technical issues</p></li><li><p>Prepare daily/weekly site reports and documentation</p></li><li><p>Ensure quality control and proper workmanship on site</p></li></ul><p></p><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Diploma or Degree in Civil Engineering or related field</li><li>At least three years of related working experience in A&A, R&R, General Building Work & Civil Works</li><li>Proficient in construction methods, materials, site safety practices, AutoCAD, Microsoft Office, and design analysis software</li><li>Ability to work independently and collaboratively within a team environment</li><li>Singapore Class 3 driving license and ability to process own vehicles (preferred)</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shop Drawing",
+      "uuid": "67e843da0d36840f0ed55d9437fbb7b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1129",
+  "postedCompany": {
+    "uen": "201924015E",
+    "description": "<p>A small and progressive company set up in 2019 which established the core foundation of professionlism, integrity and teamwork. We uphold and aspires to achieve continuous growth through competitive pricing, excellence in quality as well as value added services.</p>\n<p><br></p>\n<p>We invest heavily in human resource and staff training to equip staff effectively for their roles and responsibilties, thus embark on expansion for the future.</p>",
+    "name": "Y-5G BUILDERS PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T06:24:26.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924015E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924015E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924015E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924015E/schemes"
+      }
+    },
+    "logoFileName": "9ccae6486748e9d0ab8987a4d30b09ff/y-5g-builders.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9ccae6486748e9d0ab8987a4d30b09ff/y-5g-builders.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "55",
+    "street": "KIM CHUAN DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "PRECISE TREE",
+    "postalCode": "537098",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.34009062643184,
+    "lng": 103.891886930431
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164071",
+    "deletedAt": null,
+    "createdBy": "d27b9299-02ad-4606-aaba-fc520f8c13ad",
+    "createdAt": "2026-01-27T02:34:13.000Z",
+    "updatedAt": "2026-01-27T02:34:13.000Z",
+    "emailRecipient": "d27b9299-02ad-4606-aaba-fc520f8c13ad",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 96,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/site-engineer-y-5g-builders-b1259d627e5c7313a6ddc9c101aba6d8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b1259d627e5c7313a6ddc9c101aba6d8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b1259d627e5c7313a6ddc9c101aba6d8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

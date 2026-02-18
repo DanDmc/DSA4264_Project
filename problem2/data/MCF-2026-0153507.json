@@ -1,0 +1,208 @@
+{
+  "uuid": "c8b2d3d18b31c1015f3762056c2e9c1e",
+  "sourceCode": "Employer Portal",
+  "title": "MANAGEMENT EXECUTIVE",
+  "description": "<p><u><strong>Key Responsibilities</strong></u></p><p>•\tHandle hosting duties including guest reception, reservations flow, table management, and guest engagement</p><p>•\tMaintain strong floor presence to ensure smooth service flow and high service standards</p><p>•\tOversee guest experience throughout the dining and bar journey</p><p>•\tHandle and execute events including setup coordination, guest flow management, service supervision, and event wrap-up</p><p>•\tManage guest feedback professionally and resolve service-related matters promptly</p><p>•\tEnsure compliance with grooming standards, service procedures.<br /></p><p><u><strong>Requirements</strong></u></p><p>•\tMinimum 2 years of experience in hospitality, F&B service, hosting, or supervisory roles</p><p>•\tStrong hosting presence with excellent guest interaction skills</p><p>•\tComfortable handling high-volume service and events</p><p>•\tWell-groomed, professional, and service-oriented</p><p>•\tAble to work flexible shifts including weekends and public holidays</p><p>•\tCalm under pressure and confident in guest-facing situations</p><p>•\tStrong sense of responsibility and accountability</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33491",
+  "occupationId": "OCC007488",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0516",
+  "postedCompany": {
+    "uen": "201839008C",
+    "description": null,
+    "name": "LE NOIR MBS PTE. LIMITED",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T12:26:24.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839008C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839008C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839008C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201839008C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "BAYFRONT AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA BAY SANDS",
+    "postalCode": "018972",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28423066458139,
+    "lng": 103.858981982401
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153507",
+    "deletedAt": null,
+    "createdBy": "c1ede9d0-090d-424a-82fc-2871642c6218",
+    "createdAt": "2026-01-25T12:42:06.000Z",
+    "updatedAt": "2026-01-25T12:42:06.000Z",
+    "emailRecipient": "c1ede9d0-090d-424a-82fc-2871642c6218",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 49,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/events/management-executive-le-noir-mbs-c8b2d3d18b31c1015f3762056c2e9c1e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3300,
+    "minimum": 3150,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c8b2d3d18b31c1015f3762056c2e9c1e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c8b2d3d18b31c1015f3762056c2e9c1e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

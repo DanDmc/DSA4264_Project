@@ -1,0 +1,205 @@
+{
+  "uuid": "ea09ba6f2c7ca9cc26f8226242baf339",
+  "sourceCode": "Employer Portal",
+  "title": "FLOOR TILER",
+  "description": "<p>· Cut tiles and shape them properly to ensure they fit around obstacles and in tight corners and odd spaces using power and hand tools.</p><p>· Form tile beds using concrete, plaster, mastic, cement, glue or mortar utilizing tools such as screeds, brushes and trowels</p><p>· Align tiles and straighten them with straightedges, levels and squares to ensure patterns are even and precise</p><p>· Cut, install, polish and surface granite and marble and ensure accuracy during the installation process for lasting results</p><p>· Prepare various surfaces for tiling with waterproofing material or lath and by cleaning the surfaces properly</p><p>· Create decorative wall and floor designs by laying and setting mosaic tiles in kitchens, bathrooms and living rooms</p><p>· Tap tiles into place carefully using tools to properly adhere tiles to the base, making sure not to break or damage tiles</p><p>· Follow blueprints precisely and mark and measure surfaces that need to be tiled to determine how to go about jobs.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Painting",
+      "uuid": "2875ec54afbd9922e0553f4b441aa54b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cement",
+      "uuid": "5cb91ac72b6016809690064a5e7e30e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waterproofing",
+      "uuid": "b398d126cf83089e8f32d01bc3952697",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "71220",
+  "occupationId": "OCC009923",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "11",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202111191G",
+    "description": null,
+    "name": "ALLSTAR METAL & GLASS TECH. PTE. LTD.",
+    "ssicCode": "43305",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T07:33:52.000Z",
+    "ssicCode2020": "43305",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202111191G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202111191G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202111191G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202111191G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "IRVING PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "THE COMMERZE@IRVING",
+    "postalCode": "369546",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.3362367870862,
+    "lng": 103.88643382511
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175084",
+    "deletedAt": null,
+    "createdBy": "5205fac1-b321-4876-a665-a60476b63aae",
+    "createdAt": "2026-01-28T07:37:25.000Z",
+    "updatedAt": "2026-01-28T07:37:24.000Z",
+    "emailRecipient": "5205fac1-b321-4876-a665-a60476b63aae",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 31,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/floor-tiler-allstar-metal-glass-tech-ea09ba6f2c7ca9cc26f8226242baf339",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4200,
+    "minimum": 3600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ea09ba6f2c7ca9cc26f8226242baf339"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ea09ba6f2c7ca9cc26f8226242baf339/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

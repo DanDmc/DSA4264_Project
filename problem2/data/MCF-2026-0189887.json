@@ -1,0 +1,262 @@
+{
+  "uuid": "368744a39cbe161ad29ab1c9ffdee56a",
+  "sourceCode": "Employer Portal",
+  "title": "TECHNICAN / SENIOR TECHNICIAN",
+  "description": "<p>Job Description & Requirements : <br /><br />Job Description and Requirements : <br /><u><strong>Job Description :</strong></u> <br /><br />We are an established engineering system integrator looking for a skilled technician like you to bring expertise to our team.<br />Your primary role is to provide high quality, cost effective repair services and technical support to our valued air technology users.<br />You will work closely with our service, engineering and project teams in implementing this strategy.<br /><br /><u><strong>Responsibilities : </strong></u><br />- Troubleshooting and repair of mechanical and electrical equipment such as vacuum pumps, compressors, control panels, sensors etc.<br />-Running and interpreting QC tests results and make diagnostic recommendations<br />- Assist in preparation of service and safety documentation including Work Permits, Safe Work Procedures, Method of Statement, Risk Assessments and Service Reports<br />- Keeping abreast of advancements in your field, attending courses and workshops as required<br />- Build and maintain strong relationships with customers<br />- Work closely together with other technicians /engineers as a team in projects and site work<br /><br /><u><strong>Requirements : </strong></u><br />-Minimum higher NITEC/ITE qualification in Electrical or Mechanical Engineering<br />- At least 2 years experience in servicing and repair of  facilities equipment. Experience in control panels, PLC, lo T, vacuum pumps, compressors and diaphragm pumps is an important plus<br />- Working knowledge in control panel electrical circuits & troubleshooting, Instrument circuit drawings, understand pumps construction drawings and MOM safety regulations.<br />- Good interpersonal and communication skills<br />-Able to work with others in a team<br />-Self motivated and result orientated<br />-Shows initiative and eagerness for self-improvement</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Vacuum Pumps",
+      "uuid": "11dd780c983d8863e33ee365c192629d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weather",
+      "uuid": "1441df6b1c10f910ccdc400e40b5fce9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hydraulics",
+      "uuid": "1de58ed39cdde4fef95664611800f3f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "PLC",
+      "uuid": "7a7b6b49e8183cc144d9d1a8dc9df8b6",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpreting",
+      "uuid": "883f9bc828196c913b19f32b6ed23366",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Piping",
+      "uuid": "96d312760756ae17426f3ff9f9731dd1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Drawings",
+      "uuid": "b7ddd6b4070e952489bf1ec071d10bac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pumps",
+      "uuid": "d9557d324803f584a67619d304dc14b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "198100280M",
+    "description": "<p>\r\n\tWESTERN PNEUMATIC PTE LTD</p>\r\n",
+    "name": "WESTERN PNEUMATIC PTE LTD",
+    "ssicCode": "28242",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:50:41.000Z",
+    "ssicCode2020": "28242",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198100280M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198100280M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198100280M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198100280M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "KAKI BUKIT ROAD 2",
+    "floor": null,
+    "unit": null,
+    "building": "RUBY WAREHOUSE COMPLEX",
+    "postalCode": "417841",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33788204633939,
+    "lng": 103.898649636371
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189887",
+    "deletedAt": null,
+    "createdBy": "f6d0fcc2-e5b8-4cb7-b7b0-f2856d17e5a1",
+    "createdAt": "2026-01-30T08:38:57.000Z",
+    "updatedAt": "2026-01-30T08:38:57.000Z",
+    "emailRecipient": "f6d0fcc2-e5b8-4cb7-b7b0-f2856d17e5a1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 39,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/technican-senior-technician-western-pneumatic-368744a39cbe161ad29ab1c9ffdee56a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/368744a39cbe161ad29ab1c9ffdee56a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/368744a39cbe161ad29ab1c9ffdee56a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

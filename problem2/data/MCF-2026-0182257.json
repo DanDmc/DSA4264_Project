@@ -1,0 +1,206 @@
+{
+  "uuid": "1363e2818351c1d62b619dde8ff93c95",
+  "sourceCode": "Employer Portal",
+  "title": "Staff Nurse",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>LC Nursing Home is a private nursing home conveniently located in Siglap, just off East Coast Road, and is easily accessible by public transport. It is nestled within a residential estate and enjoys the peaceful, clean and quiet privacy that serves the residents well.</p><p><strong>Job Summary</strong></p><p>LC Nursing Home seeks a Staff Nurse to deliver compassionate, high-quality geriatric nursing care while collaborating effectively with the care team to enhance resident well-being.</p><p><strong>Responsibilities</strong></p><ul><li>Deliver comprehensive nursing care to geriatric residents in accordance with MOH and SNB standards to ensure safety and quality outcomes</li><li>Collaborate with multidisciplinary teams to develop and implement individualized care plans that address residents’ health needs</li><li>Monitor and assess residents’ health status regularly, identifying changes and escalating concerns promptly to support timely interventions</li><li>Demonstrate professionalism and genuine concern by providing courteous, empathetic support to residents and their families</li><li>Contribute positively to team dynamics by maintaining a cooperative attitude and supporting colleagues in daily nursing operations</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Diploma or Degree in Nursing recognized by the Singapore Nursing Board</li><li>Registration as a nurse with the Singapore Nursing Board</li><li>Compliance with Ministry of Health (MOH) and Singapore Nursing Board (SNB) standards of nursing practice</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Minimum of 3 years’ experience as a Staff Nurse, with a focus on geriatric nursing care</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "ICU",
+      "uuid": "26bf7a7e68c0acc2c819ec1621630389",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitals",
+      "uuid": "2bc847796054c051667ee4170b25ae41",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Theatre",
+      "uuid": "46abaf0ddcb73d5e90d6a09439713431",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Improvement",
+      "uuid": "4878c13f97a57cf6c56adfe645e0f537",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Infection Control",
+      "uuid": "5a089e9aa9c19f7297f2ad669d21baec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medication Administration",
+      "uuid": "704e3e58602b30c3713a0bac9d71d0da",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Care",
+      "uuid": "dfe9a5014f4387967da54a6e80631e69",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22200",
+  "occupationId": "OCC006676",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0841",
+  "postedCompany": {
+    "uen": "199409504C",
+    "description": "<p>LC NURSING HOME (PTE.) LIMITED</p>\n<p>LC Nursing Home is a private nursing home conveniently located in Siglap, just off East Coast Road, and is easily accessible by public transport. It is nestled within a residential estate and enjoys the peaceful, clean and quiet privacy that serves the residents well.&nbsp;</p>",
+    "name": "LC NURSING HOME (PTE.) LIMITED",
+    "ssicCode": "86909",
+    "employeeCount": 35,
+    "companyUrl": "www.lcnursinghome.com",
+    "lastSyncDate": "2026-01-29T02:39:40.000Z",
+    "ssicCode2020": "86909",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199409504C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199409504C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199409504C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199409504C/schemes"
+      }
+    },
+    "logoFileName": "dbca1775b3fd91cc637981cdfb2d5fd2/lc-nursing-home.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/dbca1775b3fd91cc637981cdfb2d5fd2/lc-nursing-home.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "JALAN ULU SIGLAP",
+    "floor": null,
+    "unit": null,
+    "building": "LC NURSING HOME",
+    "postalCode": "457121",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.3139138270169,
+    "lng": 103.928544893421
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182257",
+    "deletedAt": null,
+    "createdBy": "67c05856-e63a-4460-b275-07d3e137fad3",
+    "createdAt": "2026-01-29T08:13:53.000Z",
+    "updatedAt": "2026-01-29T08:13:53.000Z",
+    "emailRecipient": "67c05856-e63a-4460-b275-07d3e137fad3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 75,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/staff-nurse-lc-nursing-home-1363e2818351c1d62b619dde8ff93c95",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1363e2818351c1d62b619dde8ff93c95"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1363e2818351c1d62b619dde8ff93c95/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,238 @@
+{
+  "uuid": "2f444423832bc240519a72ad7bfa7091",
+  "sourceCode": "Employer Portal",
+  "title": "Service Desk Engineer (Field Support, Concierge and Service Desk)",
+  "description": "<p>As a member of the Service Desk team, this position serves as a single point of contact for all IT issues and requests reported by users through the different support channels (phone, email, Self-Service Portal, Tech Concierge Desk). It is responsible for providing support (remotely or onsite) on company supported computer software, applications, and platforms.</p><h3><strong>Key Responsibilities</strong></h3><ul><li>Serve as the first point of contact for users experiencing technical issues via different support channels (phone, email, Self-Service Portal, Tech Concierge Desk).</li><li>Diagnose, troubleshoot, and resolve hardware, software, and network issues efficiently. Log incidents and requests accurately in the service management tool, categorizing and prioritizing them based on urgency and documenting with event timeline.</li><li>Escalate unresolved issues to relevant next level support team (L2/L3)</li><li>Ensure effective management of all incident priorities including Major Incidents, Priority 1,2,3 and 4 and service requests through various communication channels, including phone, email, and in-person interactions at the concierge desk.</li><li>Act as an Incident Manager and drive end-to-end Major Incident and Priority 1 incident management process</li><li>Monitor ticket, email, chat, phone queues and agent performance to ensure adherence to service level agreements (SLAs) and quality standards</li><li>Handle user account lifecycle management (Joiner, Mover & Leaver), access provisioning in accordance with company IT security policies.</li><li>Perform regular out of office hours on call duties as per operational needs</li><li>Oversee DSAT feedbacks and take corrective action</li><li>Handle account provisioning across various system platforms (Active Directory, GSuite email account, Windows, Linux etc) for staff and generic accounts such as service accounts, admin account or FTP.</li><li>Oversee daily cessation activities and evaluate any potential issues to ensure compliance with audit requirements.</li><li>Provide reports upon stakeholder requests to list the active users or users associated with a specific application.</li><li>Manage and process IT service requests, assist in projects including user profiling setup, software installation, and system configuration</li><li>Assist in DWS (Digital Workplace Services) BAU tasks and projects such as but not limited to the following:OS imaging, deployment, upgrade, and tracking (Windows and Mac)Endpoint device managementHardware refresh</li><li>Maintain up-to-date knowledge base articles for common issues, troubleshooting steps, and SOPs used by the Service Desk team</li><li>Collaborate with cross-functional teams (Product Managers, Engineering, Architects, etc.), and business stakeholders and ensure proper escalation to improve service delivery and user experience.</li><li>Communicate effectively with end-users, keeping them informed of the status of incidents and requests.</li><li>Monitor alerts triggered from servers, databases, or systems and inform the respective teams for necessary actions.</li></ul><h3>Requirements</h3><h3><strong>Required Qualifications</strong></h3><ul><li>Degree/Diploma in Computer Science, Information Technology, or related field</li><li>Proven work experience in an IT support function such as a Service Desk Agent, Desktop Support Engineer, or other similar roles</li><li>Working knowledge and experience on ITSM ticketing tools (ServiceNow, etc.)</li><li>Working knowledge and experience on computer hardware, OS, software, and applications both in Windows and Mac environments.</li><li>Comfortable in supporting users over the phone, onsite, or remotely using remote access tools such as Teamviewer</li><li>Possess an ITIL v3 and above Foundation certification is an advantage</li><li>Knowledge of user access management processes and tools such as Sailpoint or OKTA is a plus.</li></ul><p><strong>Required Competencies</strong></p><ul><li>Excellent written and verbal communication skills</li><li>A minimum of 3 years of experience in a 24X7 service desk or technical support role</li><li>Good interpersonal and problem-solving skills</li><li>Able to multitask and prioritize the tasks accordingly</li><li>Pragmatic and flexible mindset to succeed in an ever-changing and dynamic environment</li><li>Capacity to learn and adapt to new technologies fast</li><li>Ability to proactively carry out tasks independently or with minimal supervision</li><li>Clearly and calmly communicating with team members or stakeholders to manage expectations and coordinate efforts during high-stress situations.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Mac",
+      "uuid": "1748c0644a50090814d3e170723ccc5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ticketing",
+      "uuid": "3d521aae366391a2922976fc88af7f6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Management",
+      "uuid": "3fa1b4ed4bb9bd776a33dc08fd042f31",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Level",
+      "uuid": "79f05e8f99917560625d1cf3f2d4fc5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Desk",
+      "uuid": "a195858a1cdd04af83f69aa17ff207d1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Installation",
+      "uuid": "d7e56df61af8f0058c83689595cd08e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Incident Management",
+      "uuid": "f3723f30315ea30f2f4b9101556772e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC014072",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "202242771D",
+    "description": "<p>Axpara Solutions is where top tech talent meets opportunity. We specialize in connecting developers, engineers, product managers, and digital innovators with companies that value cutting-edge skills and remote flexibility. Whether you're passionate about building scalable platforms, diving deep into DevOps, or shaping next-gen AI solutions, Axpara Solutions helps you land roles where your work makes an impact. We partner with startups and established firms across Asia who are actively hiring for full-time, remote, hybrid, or on-site positions — and we’re with you at every step, from CV tips to offer negotiations. Join us and build the future, one line of code at a time.</p>",
+    "name": "AXPARA SOLUTIONS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T03:05:21.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202242771D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202242771D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202242771D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202242771D/schemes"
+      }
+    },
+    "logoFileName": "ca910dbe08203b74d99c728bcbb8ac35/axpara-solutions.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ca910dbe08203b74d99c728bcbb8ac35/axpara-solutions.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "TEMASEK BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "SUNTEC TOWER ONE",
+    "postalCode": "038987",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2954356977891,
+    "lng": 103.858374825349
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156150",
+    "deletedAt": null,
+    "createdBy": "a4453bd5-30e6-4557-9e5e-f69fde38d3c6",
+    "createdAt": "2026-01-26T02:47:23.000Z",
+    "updatedAt": "2026-01-26T02:47:23.000Z",
+    "emailRecipient": "a4453bd5-30e6-4557-9e5e-f69fde38d3c6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 220,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 38,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/service-desk-engineer-axpara-solutions-2f444423832bc240519a72ad7bfa7091",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4350,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2f444423832bc240519a72ad7bfa7091"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2f444423832bc240519a72ad7bfa7091/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

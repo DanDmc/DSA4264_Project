@@ -1,0 +1,202 @@
+{
+  "uuid": "bca2fba5badf3b82132bf1136804a1c5",
+  "sourceCode": "Employer Portal",
+  "title": "Sales & Marketing Support Executive",
+  "description": "<p>Provide operational support to both sales and marketing functions by handling campaign logistics, customer outreach, and follow-ups. Assist with promotional events, presentations, and data tracking to evaluate performance. Develop interpersonal and organizational skills while supporting overall business development goals.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presentation Skills",
+      "uuid": "c2a974ed87a951bb16ce092a5ea5071f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leader",
+      "uuid": "c5d426fa2801131aa59d5f7839ccc997",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33229",
+  "occupationId": "OCC061176",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53508976K",
+    "description": "<p>RYO Marketing is a sales-focused agency dedicated to helping businesses grow through genuine connections and smart strategies. We specialize in both B2B and B2C markets, creating conversations that turn into loyal customers. Our approach makes sales sharp, personal, and enjoyable, leading to real success. At RYO, we prioritize building lasting relationships that drive measurable&nbsp;results.</p>",
+    "name": "RYO GLOBAL",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T08:26:14.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53508976K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53508976K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53508976K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53508976K/schemes"
+      }
+    },
+    "logoFileName": "2f208a4dc5b727556b57967176609623/ryo-global.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/2f208a4dc5b727556b57967176609623/ryo-global.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "PHILLIP STREET",
+    "floor": null,
+    "unit": null,
+    "building": "ROYAL ONE PHILLIP",
+    "postalCode": "048692",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28497457584878,
+    "lng": 103.850025190454
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170979",
+    "deletedAt": null,
+    "createdBy": "e3074783-20ee-4245-b857-9cc02f732722",
+    "createdAt": "2026-01-28T01:14:42.000Z",
+    "updatedAt": "2026-01-28T01:14:41.000Z",
+    "emailRecipient": "e3074783-20ee-4245-b857-9cc02f732722",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 36,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/marketing/sales-marketing-support-executive-ryo-global-bca2fba5badf3b82132bf1136804a1c5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3600,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bca2fba5badf3b82132bf1136804a1c5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bca2fba5badf3b82132bf1136804a1c5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

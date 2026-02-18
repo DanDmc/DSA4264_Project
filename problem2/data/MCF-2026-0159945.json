@@ -1,0 +1,210 @@
+{
+  "uuid": "1cb6f8d8933a229fd49ec0a221ad7038",
+  "sourceCode": "Employer Portal",
+  "title": "Junior Software Engineer",
+  "description": "<p><strong>Position Summary</strong></p><p>This is an entry-level position designed for fresh graduates or early-career engineers. As a Junior Software Engineer, you will focus on building a strong technical foundation under the mentorship of senior staff. Your primary goal is to learn the Alpha X technology stack, assist in code development, and support the team during on-site deployments in the manufacturing sector.<br /></p><p><strong>Key Responsibilities</strong></p><ul><li>Assist in developing and testing software components according to strict technical specifications and Object-Oriented principles</li><li>Rapidly acquire skills in new programming languages and tools to meet changing project requirements.</li><li>Accompany senior engineers to client sites (local and regional) to support software installation, customization, enhancement and testing.</li><li>Prepare basic technical documentation and help logs for developed modules.</li><li>Perform any ad-hoc duties assigned by the Company as and when required.</li></ul><p><br /><strong>Qualifications & Skills</strong><br /></p><ul><li>Bachelor’s Degree in Computer Science, Engineering, or related field.</li><li>Strong academic understanding of <strong>Object-Oriented Programming (OOP)</strong>.</li><li>Willingness and ability to learn new programming languages quickly.</li><li>Willingness to travel and work on-site at client factories.</li><li>Professional fluency in English (written and spoken)</li></ul><p><br /><strong>Preferred/ Additional</strong></p><ul><li>Knowledge of <strong>Java</strong> or <strong>Go-lang, SECS and GEM</strong> are added advantage.</li><li>Ability to communicate in Mandarin or Malay is an added advantage for regional\ncoordination.</li><li>Basic understanding of <strong>Manufacturing Execution Systems (MES) </strong>or industrial concepts.                                                                  </li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Object-oriented programming",
+      "uuid": "00f9d583d42fe665e70963350164f527",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Installation",
+      "uuid": "d7e56df61af8f0058c83689595cd08e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Execution Systems",
+      "uuid": "eac7fee81bdabb31f0fe49598ecc26e7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SECS/GEM",
+      "uuid": "f0438cba69534a8885631190759baaf1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202416094W",
+    "description": "<p>Alpha X is an innovative high-tech manufacturing technology company pioneering the integration of advanced automation, transportation and AI-driven solutions to revolutionize traditional manufacturing processes. We harness the power of artificial intelligence, machine learning, and robotics to optimize production efficiency, enhance product quality, and foster sustainability across diverse high-tech industries.</p>",
+    "name": "ALPHA X TECHNOLOGY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://www.alphaxtec.com/",
+    "lastSyncDate": "2026-02-03T02:53:30.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202416094W/schemes"
+      }
+    },
+    "logoFileName": "121a56c3bef6b40405b8e4e52d3a5b35/alpha-x-technology.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/121a56c3bef6b40405b8e4e52d3a5b35/alpha-x-technology.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "TEMASEK BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "SUNTEC TOWER THREE",
+    "postalCode": "038988",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29512778965533,
+    "lng": 103.859545797162
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159945",
+    "deletedAt": null,
+    "createdBy": "8fe1b362-3fc1-453f-a640-3edad6616383",
+    "createdAt": "2026-01-26T09:02:47.000Z",
+    "updatedAt": "2026-01-29T02:45:00.000Z",
+    "emailRecipient": "8fe1b362-3fc1-453f-a640-3edad6616383",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 239,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 33,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/junior-software-engineer-alpha-x-technology-1cb6f8d8933a229fd49ec0a221ad7038",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1cb6f8d8933a229fd49ec0a221ad7038"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1cb6f8d8933a229fd49ec0a221ad7038/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,208 @@
+{
+  "uuid": "d7afd68a88eab7f28b54efe8f7fac866",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Executive",
+  "description": "<p><strong>About us</strong></p><p>Founded in 2016, Car Choice Group is one of the largest pre-owned automotive dealerships in Singapore, operating 5 showrooms islandwide. We are dedicated to redefining the car buying experience, focusing on nurturing long-term relationships and ownership. We stand out from our competitors by offering diversified services, which include our in-house loan service GEM Credit, the service centre Auto Infinite, and even a home appliances division via SK Magic Singapore.</p><p><strong>Mission & Vision: Driving Progress</strong></p><ul><li>Mission: Redefine car buying, nurturing long-term relationships, and ownership.</li><li>Vision: Be the preferred destination for car buying in Singapore while upholding our commitment to sustainability  and social responsibility.</li></ul><p><strong>Why Join Us</strong></p><ul><li>Attractive Base - High commission with top performers earning up to $10,000/month.</li><li>Training Provided - Covers essential skills such as loan calculations, customer follow-up, and lead generation. Every new team member is assigned a buddy to provide dedicated mentorship!</li><li>Growth Opportunities - Continuously learn and advance your career with us with possible promotions or lateral transfer within 2 years for high achievers.</li></ul><p><strong>Perks & Benefits</strong></p><ul><li>Comprehensive Leave Benefits - Enjoy a full suite of leaves inclusive of company initiatives such as Birthday Leave and Parental Care Leave.</li><li>Flexi-Benefit Scheme - Enjoy up to $500 flexi-scheme that can be used on travel, medical, or optical expenses.</li></ul><p><strong>Responsibilities</strong></p><ul><li>Foster strong customer relationships and deliver exceptional service</li><li>Facilitate sales, including logistics, insurance, financing and service arrangements</li><li>Manage sales process, agreements and communication between clients and internal teams</li></ul><p><strong>Skills Required</strong></p><ul><li>Minimum GCE ‘N’ Levels required</li><li>Possess good interpersonal and communication skills</li></ul><p><strong>Other Requirements</strong></p><ul><li>Valid Class 3/3A driving license</li><li>Team player with positive work attitude</li><li>Meticulous and able to multi-task</li><li>Prior experience in the automotive industry will be an added advantage</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52421",
+  "occupationId": "OCC009633",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202308503R",
+    "description": "<p>Bike Choice Singapore is a renowned player in the motorcycle industry providing full suite of motorcycle retail for brand-new, pre-owned, and leasing bikes. We are proud to be a subsidiary of Car Choice Singapore – one of Singapore’s largest full-suite car dealerships. As part of the group, we guarantee exceptional service to our customers, backed with top-tier awards including the prestigious Singapore Excellent Service Award and Association of Trade and Commerce’s Entrepreneur 100 for two consecutive years.</p>",
+    "name": "BIKECHOICE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://bikechoice.com.sg/",
+    "lastSyncDate": "2026-02-04T08:08:29.000Z",
+    "ssicCode2020": "47312",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202308503R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202308503R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202308503R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202308503R/schemes"
+      }
+    },
+    "logoFileName": "82034356e0d7e1d47c6c96f1903ab2f9/bikechoice.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/82034356e0d7e1d47c6c96f1903ab2f9/bikechoice.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "ANG MO KIO STREET 62",
+    "floor": null,
+    "unit": null,
+    "building": "LINK@AMK",
+    "postalCode": "569139",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38645003228455,
+    "lng": 103.844788518574
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187334",
+    "deletedAt": null,
+    "createdBy": "d956b0d0-988f-4c15-9042-d31a41dc96b8",
+    "createdAt": "2026-01-30T03:38:02.000Z",
+    "updatedAt": "2026-01-30T03:38:02.000Z",
+    "emailRecipient": "d956b0d0-988f-4c15-9042-d31a41dc96b8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-06",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/sales-executive-bikechoice-d7afd68a88eab7f28b54efe8f7fac866",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7afd68a88eab7f28b54efe8f7fac866"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7afd68a88eab7f28b54efe8f7fac866/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

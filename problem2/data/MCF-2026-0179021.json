@@ -1,0 +1,228 @@
+{
+  "uuid": "4bb0de6a4f2a5e3006568ccee08e9f76",
+  "sourceCode": "Employer Portal",
+  "title": "Excavator Operator",
+  "description": "<p>Job Description & Requirements</p><p><strong>Roles & Responsibilities:</strong></p><ul><li>Operate the excavator safely at Waste Management Company, indoor environment</li><li>Coordinate with supervisor and team members</li><li>Perform daily routine checks and maintain the excavator in good condition</li><li>Always comply with the authorities' rules and regulations</li><li>Perform other adhoc duties assigned by superior</li></ul><p><strong>Job Requirements:</strong></p><ul><li>Must possessed valid Registered Excavator Operator (REO) license</li><li>Physically fit</li><li>Minimum 2 year experience in operating excavator</li><li>Team Player and able to work independently with positive work attitude</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Excavation",
+      "uuid": "00c9b3f93f7c830f305c0d8367bf622f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Erosion Control",
+      "uuid": "1f7ec162e930e79ab42f2cd312d9af18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "uuid": "9ad19466be36a021a93f871bbbc87c2d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waste Management",
+      "uuid": "a9d3e472572d2adad47f0328594c9215",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soil",
+      "uuid": "e4b9dca2448724ca25e388a0317a09c8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83421",
+  "occupationId": "OCC013138",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201428740W",
+    "description": "<p>TBS ENVIRONMENTAL SERVICES PTE. LTD.</p>\r\n",
+    "name": "TBS ENVIRONMENTAL SERVICES PTE. LTD.",
+    "ssicCode": "38100",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:08:51.000Z",
+    "ssicCode2020": "38100",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201428740W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201428740W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201428740W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201428740W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2028",
+    "street": "BUKIT BATOK STREET 23",
+    "floor": null,
+    "unit": null,
+    "building": "BUKIT BATOK INDUSTRIAL ESTATE PARK A",
+    "postalCode": "659533",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34161568542835,
+    "lng": 103.751442262093
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179021",
+    "deletedAt": null,
+    "createdBy": "1f6d7a78-99d5-4717-b9d7-6971cc1f0afd",
+    "createdAt": "2026-01-29T01:59:07.000Z",
+    "updatedAt": "2026-01-29T01:59:07.000Z",
+    "emailRecipient": "1f6d7a78-99d5-4717-b9d7-6971cc1f0afd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 43,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/excavator-operator-tbs-environmental-services-4bb0de6a4f2a5e3006568ccee08e9f76",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4bb0de6a4f2a5e3006568ccee08e9f76"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4bb0de6a4f2a5e3006568ccee08e9f76/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

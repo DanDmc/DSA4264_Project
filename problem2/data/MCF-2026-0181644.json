@@ -1,0 +1,239 @@
+{
+  "uuid": "02d81d44ad3f84e84b82eeac2c802bdb",
+  "sourceCode": "Employer Portal",
+  "title": "Field Service Technician",
+  "description": "<p>Job Description:</p><p>• Provide field service support for water treatment</p><p>• Provide testing and on-site water management services at customers plants</p><p>• Check chemical dosing and monitoring equipment and carry out repair when necessary</p><p>• Carry out disinfection of cooling towers</p><p>• Conduct site survey and obtain samples for laboratory analysis</p><p>• Maintain housekeeping at allocated areas within customer premises<br /></p><p>Job Requirement:</p><p>• Higher NITEC qualifications</p><p>• Minimum 1-2 years in providing on-site service works in the field of cooling/boiler water</p><p>treatment</p><p>• Good understanding of plant equipment and chemical treatment program applied</p><p>• Able to interact with customers and assist in enhancing customer satisfaction</p><p>• Assist account manager/engineer in start-up of chemical treatment program and</p><p>troubleshooting in customer facilities</p><p>• Computer literate and must have Class 3 Driving License</p><p>Working hours:</p><p>• Monday to Friday from 8.30am to 5pm</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Field Service",
+      "uuid": "1306ca34d307dfc008db6370ee290c3d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water Management",
+      "uuid": "a5b4ae78866c9596cb6bea6749782603",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laboratory",
+      "uuid": "e684d8eeee72ed2583865b78e8d3f57a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31144",
+  "occupationId": "OCC060481",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "202206266E",
+    "description": "<p>As a customer-centric organisation, Prospect Workforce Solution inspire fulfillment, employability, and the future of work by offering our clients customizable recruitment solutions by incorporating the best in recruitment practices and technology with the aim of exceeding recruitment standards and services</p>",
+    "name": "PROSPECT WORKFORCE SOLUTION PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 10,
+    "companyUrl": "www.prospectworkforce.com",
+    "lastSyncDate": "2026-02-04T08:15:06.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206266E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206266E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206266E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202206266E/schemes"
+      }
+    },
+    "logoFileName": "aaaf40733f52e86277a74afe0dd726af/prospect-workforce-solution.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/aaaf40733f52e86277a74afe0dd726af/prospect-workforce-solution.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "ALEXANDRA ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "DELTA HOUSE",
+    "postalCode": "159919",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29102791800183,
+    "lng": 103.825340807968
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181644",
+    "deletedAt": null,
+    "createdBy": "a152a837-7ab8-458b-a984-6b836af01dcd",
+    "createdAt": "2026-01-29T07:06:28.000Z",
+    "updatedAt": "2026-01-29T07:06:28.000Z",
+    "emailRecipient": "a152a837-7ab8-458b-a984-6b836af01dcd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 82,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/field-service-technician-prospect-workforce-solution-02d81d44ad3f84e84b82eeac2c802bdb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02d81d44ad3f84e84b82eeac2c802bdb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02d81d44ad3f84e84b82eeac2c802bdb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

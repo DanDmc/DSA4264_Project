@@ -1,0 +1,228 @@
+{
+  "uuid": "15db35edb2be060b3882a5328f78d017",
+  "sourceCode": "Employer Portal",
+  "title": "CONSTRUCTION SUPERVISOR",
+  "description": "<p><strong>Job Summary</strong></p><p>Lead and oversee daily construction site operations to ensure safety, quality, and schedule adherence. Coordinate resources and resolve on-site challenges to drive successful project execution and deliver measurable outcomes.</p><p><strong>Responsibilities</strong></p><ul><li>Monitor daily construction activities to enforce safety protocols and ensure compliance with building regulations</li><li>Coordinate subcontractors, personnel, and equipment to achieve project schedules and budget targets</li><li>Inspect ongoing and completed work to verify adherence to technical specifications and quality standards</li><li>Manage on-site materials by ensuring timely delivery and proper storage to prevent shortages and delays</li><li>Maintain detailed records of work progress and daily logs, providing accurate reports to project managers</li><li>Identify and resolve on-site issues, design challenges, or changes in project scope to maintain workflow continuity</li><li>Supervise and motivate on-site staff and subcontractors to optimize team performance and project outcomes</li><li>Utilize computer software to generate reports and manage project scheduling effectively</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Diploma in building or construction management, supporting effective site and project management</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Site Management",
+      "uuid": "4ca69a44b0270bec6838c1ade1ede455",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Counseling",
+      "uuid": "6791e85a01bb2e17b923d2f2e8574a9e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "201602490K",
+    "description": null,
+    "name": "JEYASRI SAIRAM ENGINEERING PTE. LTD.",
+    "ssicCode": "49212",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T13:18:42.000Z",
+    "ssicCode2020": "49212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201602490K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201602490K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201602490K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201602490K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "CT HUB",
+    "postalCode": "339407",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31221743176265,
+    "lng": 103.862824192961
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193893",
+    "deletedAt": null,
+    "createdBy": "5b6342af-22e5-473a-9d79-6819faa1ae02",
+    "createdAt": "2026-01-31T13:40:40.000Z",
+    "updatedAt": "2026-01-31T13:40:40.000Z",
+    "emailRecipient": "5b6342af-22e5-473a-9d79-6819faa1ae02",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 48,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-supervisor-jeyasri-sairam-engineering-15db35edb2be060b3882a5328f78d017",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15db35edb2be060b3882a5328f78d017"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15db35edb2be060b3882a5328f78d017/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

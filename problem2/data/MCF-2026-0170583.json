@@ -1,0 +1,232 @@
+{
+  "uuid": "ced36b72625e950b46ce19b98b1b52d7",
+  "sourceCode": "Employer Portal",
+  "title": "Front Desk Receptionist & Administrator",
+  "description": "<p><strong>Job Summary</strong></p><p>You will greet and assist guests, clients, and team members with professionalism and warmth while managing communications and coordinating schedules to support smooth daily office operations.</p><p><strong>Responsibilities</strong></p><ul><li>Greet and assist guests, clients, and team members to create a welcoming and professional environment</li><li>Manage incoming calls, emails, and general enquiries to ensure timely and accurate responses</li><li>Coordinate schedules, appointments, and calendar updates to maintain organized team planning</li><li>Maintain the front desk area tidy, organized, and presentable to uphold a professional workspace</li><li>Perform administrative tasks such as filing, data entry, and document preparation to support office efficiency</li><li>Support the team with daily office coordination and operational needs to facilitate smooth workflow</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Prior reception or administrative experience to contribute to effective office management</li><li>Proficiency with Google Workspace and Microsoft Office to complete digital tasks efficiently</li><li>Strong communication and customer service skills to engage effectively with visitors and colleagues</li><li>Highly organized, detail-oriented, and able to multitask smoothly to manage competing priorities</li><li>Friendly, approachable, and professional appearance and demeanor to represent the company positively</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Wealth Management",
+      "uuid": "0350adf5a520e4a3c2d820a482451857",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dispatching",
+      "uuid": "37a1fd1eb583ca2a29ead248117451fa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Approachable",
+      "uuid": "86d497587a59c7984e4c227b4737a2cc",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Investment Management",
+      "uuid": "897c91670daad7cba272861918d6e06a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Services",
+      "uuid": "ab95d19092c1a3dad3e953fd284a509e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Wellbeing",
+      "uuid": "c540e0c47d34f94257d9a93cc63b77e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Corporate Events",
+      "uuid": "c7fc35adbf7020894967fa1e27ecb8bc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "42241",
+  "occupationId": "OCC060606",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202555760W",
+    "description": null,
+    "name": "KANEZE INTERNATIONAL GROUP PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T04:16:43.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202555760W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202555760W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202555760W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202555760W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170583",
+    "deletedAt": null,
+    "createdBy": "68d0ec62-6899-4d1e-a9be-a7ef1ec8637c",
+    "createdAt": "2026-01-27T22:12:38.000Z",
+    "updatedAt": "2026-01-27T22:12:38.000Z",
+    "emailRecipient": "68d0ec62-6899-4d1e-a9be-a7ef1ec8637c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 295,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 54,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/front-desk-receptionist-administrator-kaneze-international-group-ced36b72625e950b46ce19b98b1b52d7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ced36b72625e950b46ce19b98b1b52d7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ced36b72625e950b46ce19b98b1b52d7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

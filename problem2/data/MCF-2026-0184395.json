@@ -1,0 +1,242 @@
+{
+  "uuid": "73f8e8af506194e0540e0e360db9bf4b",
+  "sourceCode": "Employer Portal",
+  "title": "HAIR STYLIST / HAIRDRESSER",
+  "description": "<p><strong>Responsibility:</strong></p><p>* Conferring with clients to determine their hairdressing needs, preferences, and specifications.</p><p>* Advising clients on suitable haircuts as well as hairstyles and hair color based on their physical features and hair type.</p><p>* Cutting, trimming, and shaping clients' hair as well as wigs, hair extensions, hairpieces, and toupees based on clients’ preferences and specifications.</p><p>* Shampooing, conditioning, and drying clients’ hair.</p><p>* Using various hairstyling tools and equipment, including hair straighteners, curling irons, rollers, hairdryers, and hot combs, to style clients’ hair accordingly.</p><p>* Cleaning and sterilizing all hairdressing tools and instruments to ensure that state health and safety standards are met.</p><p>* Operating the cash register to process client payments when necessary.</p><p><strong>Requirements:</strong></p><p>* The ability to stand for extended periods.</p><p>* The ability to work under pressure.</p><p>* The ability to follow instructions.</p><p>* Excellent organizational and time management skills.</p><p>* Effective communication skills.</p><p>* Exceptional customer service skills.</p><p>* Patient and detail-oriented.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Exceptional Customer Service",
+      "uuid": "5bffe35f53148d0dd4216d2b2e2393e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Cutting",
+      "uuid": "60f807b6543169da8a03e9cbfa47e768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Advising Clients",
+      "uuid": "a64d38a9caca31493f9aef86f4fce772",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Extensions",
+      "uuid": "bb5a435b7cce79a2c78523716c33d938",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tinting",
+      "uuid": "c137de3f1baf0cb3ed4446ff84eee642",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "1311",
+  "postedCompany": {
+    "uen": "201832108C",
+    "description": "<p>57 Employment Agency Pte Ltd was incorporated in Singapore since 2018. Our company is licensed with Ministry Of Manpower, license number 18C9450. As the experts in talent recruitment and human resource engagement services, we pride ourselves on the timely delivery of these services through our team of dedicated and experienced professionals.</p>\n\n<p>As a one-stop human capital solution provider, 57 Employment Agency Pte Ltd intensifies the process of recruiting the potential candidates for our valued clients. To ensure a smooth, hassle free and efficient recruitment process, we also provide the necessary documentations, permit applications, medical check-ups and accommodations for the foreign candidates.</p>\n\n<p>Our team of highly dedicated and competent consultants are unparalleled in providing prompt and effective manpower solutions to our valued clients with their wide range of industries knowledge.</p>\n",
+    "name": "57 EMPLOYMENT AGENCY PTE. LTD.",
+    "ssicCode": "88991",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:26:55.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/schemes"
+      }
+    },
+    "logoFileName": "fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "53481002X",
+    "description": null,
+    "name": "KEEP BEAUTY YS",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T12:18:27.000Z",
+    "ssicCode2020": "96022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481002X"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481002X/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481002X/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481002X/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184395",
+    "deletedAt": null,
+    "createdBy": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "createdAt": "2026-01-29T12:21:21.000Z",
+    "updatedAt": "2026-01-29T12:21:21.000Z",
+    "emailRecipient": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/personal-care/hair-stylist-hairdresser-keep-beauty-ys-73f8e8af506194e0540e0e360db9bf4b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/73f8e8af506194e0540e0e360db9bf4b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/73f8e8af506194e0540e0e360db9bf4b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

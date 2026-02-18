@@ -1,0 +1,226 @@
+{
+  "uuid": "aba986605ba2c22e796dc249da5b5337",
+  "sourceCode": "Employer Portal",
+  "title": "Assistant Supervisor",
+  "description": "<ul>\n  <li>Supervise daily laundry operations including washing, drying, ironing, folding, and packing.</li>\n  <li>Monitor staff performance, provide guidance and support, and ensure adequate staffing levels.</li>\n  <li>Assign tasks and schedule work shifts to meet operational needs.</li>\n  <li>Inspect cleaned items to ensure quality standards are maintained.</li>\n  <li>Monitor use of laundry chemicals and equipment, ensuring proper handling and safety.</li>\n  <li>Train new employees on laundry procedures, machine operation, and safety guidelines.</li>\n  <li>Handle minor repairs and maintenance of laundry equipment or report issues to maintenance staff.</li>\n  <li>Maintain inventory of supplies (detergents, fabric softeners, etc.) and order as needed.</li>\n  <li>Maintain cleanliness and organization of the laundry area.</li>\n  <li>Ensure all hygiene and health regulations are followed according to company policy.</li>\n  <li>Communicate with other departments (housekeeping, maintenance, or clients) to coordinate laundry needs.</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n  <li>1+ year of experience in laundry operations or a similar role.</li>\n  <li>Strong leadership and team management skills</li>\n  <li>Basic mechanical knowledge of laundry equipment</li>\n  <li>Good communication and interpersonal skills</li>\n  <li>Attention to detail and high-quality standards</li>\n  <li>Ability to work under pressure and manage multiple tasks<br>\n</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multi Tasking",
+      "uuid": "126f0dd5e1cdb558fe6b032bf8f7f30f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stock Control",
+      "uuid": "156476e9da5d48f51b7b42bd3ce557f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SOPs",
+      "uuid": "260e38af36a7c2002fb8dc01249d65ed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supervise staff",
+      "uuid": "4a4e30f94ee5d9d575fb821ac1f2ada2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Job Descriptions",
+      "uuid": "51e39855001bb289da12c7a6183dcd54",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Punctual",
+      "uuid": "6cee593f0a29dd198f6ae5a38c4cd0ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "09852400C",
+    "description": "<p><strong>Orchid Laundry&nbsp;established in 1973, has its strength and focus in the commercial laundry industry. The very broad and diversified clientele base includes airlines, high-end restaurant chains, hotels, banks, fitness clubs, petrol-chemical companies, laboratories, serviced apartments, spas, and others.</strong></p>\n<p><strong>With&nbsp;more than decades in the buisness , Orchid Laundry has the experiences that few others can equal.</strong></p>\n<p><br></p>\n<p><strong>Orchid Laundry</strong>&nbsp;together with DrycleanExpress and DryclynExpress are part of a group wholly owned by Tohly Investments &amp; Holding Pte Ltd. It is run and managed by owners who have been in the business for decades. Always strive to provide the best dry-cleaning and laundry services for the nation, high-quality chemicals, and up-to-date machines are used.</p>\n<p><br></p>\n<p><strong>With&nbsp;</strong>an ever-growing, maturing, and discerning customer base, the organization is always sensitive to the needs of our customers, and thus, different brands have been created to cater to the different needs of our clients.</p>",
+    "name": "ORCHID LAUNDRY",
+    "ssicCode": "13100",
+    "employeeCount": 150,
+    "companyUrl": "www.ol.com.sg",
+    "lastSyncDate": "2026-01-30T08:47:31.000Z",
+    "ssicCode2020": "13100",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/09852400C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/09852400C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/09852400C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/09852400C/schemes"
+      }
+    },
+    "logoFileName": "f79313a53c6db52b4baa03d9e3f932fc/orchid-laundry.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f79313a53c6db52b4baa03d9e3f932fc/orchid-laundry.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "GUL LINK",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "629373",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31513957575141,
+    "lng": 103.661276696376
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1988783",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "77ff9ef7-7c5b-4c8c-895e-90695485c2db",
+    "createdAt": "2025-12-29T01:53:21.000Z",
+    "updatedAt": "2026-01-30T08:49:01.000Z",
+    "emailRecipient": "ea968df6-3680-45bb-a538-aba9c3a25b95",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 111,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-12-29",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/assistant-supervisor-orchid-laundry-aba986605ba2c22e796dc249da5b5337",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aba986605ba2c22e796dc249da5b5337"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aba986605ba2c22e796dc249da5b5337/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

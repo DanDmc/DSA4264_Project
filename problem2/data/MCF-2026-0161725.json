@@ -1,0 +1,239 @@
+{
+  "uuid": "6ee1c38d69448e1c63a2ebc2186f9564",
+  "sourceCode": "Employer Portal",
+  "title": "SUPERVISOR",
+  "description": "<p>Core Responsibilities of a Massage Shop Supervisor</p><p>Daily Operations Management: Fully responsible for the shop’s daily operations, ensuring service quality and customer satisfaction.</p><p>Team Supervision and Guidance: Oversee therapists and service staff, check shift handovers and hygiene, and provide skill coaching.</p><p>Goal Setting and Execution: Develop annual, quarterly, and monthly business goals based on market conditions, and break them down into actionable tasks.</p><p>Customer Relationship Maintenance: Analyze customer needs, optimize service processes, enhance customer experience, and handle complaints or feedback.</p><p>Product and Equipment Management: Manage product inventory, display, and promotions, as well as maintain and inspect equipment for safety.</p><p>Employee Training and Motivation: Organize onboarding training, improve team professional skills, conduct performance evaluations, and implement reward and penalty systems.</p><p>Financial and Cost Control: Monitor shop finances, control operating costs, and ensure profit targets are met.</p><p>External Relations Coordination: Maintain relationships with the community, peers, and local authorities to enhance the shop’s image and influence.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations Management",
+      "uuid": "62c2ba9d720feb926f15cc065ce696b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53513165L",
+    "description": null,
+    "name": "RED HORSE MASSAGE REFLEXOLOGY",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T13:27:59.000Z",
+    "ssicCode2020": "96024",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513165L"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513165L/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513165L/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53513165L/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "529",
+    "street": "ANG MO KIO AVENUE 10",
+    "floor": null,
+    "unit": null,
+    "building": "CHENG SAN CENTRE",
+    "postalCode": "560529",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37234358233885,
+    "lng": 103.855455428073
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0161725",
+    "deletedAt": null,
+    "createdBy": "88ce3516-77c3-4781-8721-f7fea07472bc",
+    "createdAt": "2026-01-26T13:37:14.000Z",
+    "updatedAt": "2026-01-26T13:37:14.000Z",
+    "emailRecipient": "88ce3516-77c3-4781-8721-f7fea07472bc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 36,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/supervisor-red-horse-massage-reflexology-6ee1c38d69448e1c63a2ebc2186f9564",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6ee1c38d69448e1c63a2ebc2186f9564"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6ee1c38d69448e1c63a2ebc2186f9564/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

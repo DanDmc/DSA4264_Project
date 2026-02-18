@@ -1,0 +1,205 @@
+{
+  "uuid": "aa212d08c5b475a2dc652331bd7ec8ef",
+  "sourceCode": "Employer Portal",
+  "title": "Pest/Vector Control Technician",
+  "description": "<p><strong>Company:</strong> Repair.sg<br /><strong>Working Days:</strong> 5.5 days per week<br /><strong>Employment Type:</strong> Full-time<br /><strong>Salary:</strong> $2,000 – $3,000 </p><h3><strong>Job Summary</strong></h3><p>We are looking for a reliable and experienced <strong>Vector Control Technician</strong> to perform onsite pest and vector management services. Candidates <strong>must have a valid NEA Vector Control Technician Licence</strong> and <strong>at least 1 year of relevant experience</strong>. A company vehicle is provided and may be driven home.</p><h3><strong>Key Responsibilities</strong></h3><ul><li><p>Travel to customer locations to carry out vector control and pest treatment services.</p></li><li><p>Conduct inspections, identify pest/vector issues, and determine appropriate treatment methods.</p></li><li><p>Apply chemicals and perform treatments safely in line with NEA guidelines.</p></li><li><p>Communicate clearly with customers about the treatment process and aftercare.</p></li><li><p>Maintain accurate service reports, job documentation, and records.</p></li><li><p>Ensure equipment, tools, and company vehicle are well-maintained.</p></li><li><p>Follow safety protocols and proper handling of chemicals at all times.</p></li><li><p>Assist with operational tasks and perform ad hoc duties assigned by the supervisor.</p></li></ul><h3><strong>Requirements / Qualifications</strong></h3><ul><li><p>Valid NEA Vector Control Technician Licence.</p></li><li><p>Class 3/3A driving licence - company vehicle provided.</p></li><li><p>Minimum 1 year of experience in pest or vector control.</p></li><li><p>Comfortable with outdoor, hands-on fieldwork.</p></li><li><p>Responsible, punctual, and able to work independently.</p></li><li><p>Able to communicate professionally with customers.</p></li></ul><h3><strong>What We Offer</strong></h3><ul><li><p>Company vehicle provided that may be driven home.</p></li><li><p>Opportunities for skill development and upskilling.</p></li><li><p>Supportive team environment.</p></li><li><p>Statutory benefits included.</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pest Control",
+      "uuid": "d57b2240ee82525e8134bd2298187c12",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service Experience",
+      "uuid": "fa63d7f8c765d48aafb86bd9c5adc310",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75440",
+  "occupationId": "OCC009436",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202100025M",
+    "description": "<p>Repair.sg provides repair, maintenance, and installation services to 30,000 homeowners and businesses.</p>",
+    "name": "REPAIR PTE. LTD.",
+    "ssicCode": "42101",
+    "employeeCount": 20,
+    "companyUrl": "repair.sg",
+    "lastSyncDate": "2026-02-02T14:27:55.000Z",
+    "ssicCode2020": "42101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202100025M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202100025M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202100025M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202100025M/schemes"
+      }
+    },
+    "logoFileName": "5b6b2d937d69fda412e718131ef5fbf0/repair.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5b6b2d937d69fda412e718131ef5fbf0/repair.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1864818",
+    "deletedAt": "2026-01-03T17:15:04.000Z",
+    "createdBy": "cf3ceb04-fb27-4807-b859-af69bde3a4a5",
+    "createdAt": "2025-12-04T14:55:05.000Z",
+    "updatedAt": "2026-01-30T04:29:04.000Z",
+    "emailRecipient": "0a02a724-89a9-4051-8cb3-ec1e625bcea5",
+    "editCount": 2,
+    "repostCount": 1,
+    "totalNumberOfView": 205,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-12-04",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/pestvector-control-technician-repair-aa212d08c5b475a2dc652331bd7ec8ef",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aa212d08c5b475a2dc652331bd7ec8ef"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aa212d08c5b475a2dc652331bd7ec8ef/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,210 @@
+{
+  "uuid": "bc884e31dbd12ffa8600f1c79e0475d6",
+  "sourceCode": "Employer Portal",
+  "title": "Interior Designer - In House",
+  "description": "<p><strong>RESPONSIBILITIES</strong></p><ul><li>Develop creative design idea solutions and concepts</li><li>Manage design assignment from inception to completion</li><li>Prepare Auto CAD Drawing</li><li>Coordinate perspective drawings</li><li>Working closely with Sales departments</li><li>Other ad-hoc duties as assigned</li></ul><p><strong>JOB REQUIREMENTS: </strong></p><ul><li>Minimum 1 – 3 years of interior design experience</li><li>Passionate and Creative in interior design</li><li>Computer literate & proficient inWindows, MS Office, Photoshop, 3D Studio Max and Autocad</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Designer",
+      "uuid": "0aad40f415c9173fcc83acd984c0c83c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D Studio Max",
+      "uuid": "65492d5bd27b4a6fda829556382d2fa5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Photoshop",
+      "uuid": "b54639d99cf1d38dd97e8904e94bc63e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interior Design",
+      "uuid": "b70d39e4c20b2a45df4f50c334773f63",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Space Planning",
+      "uuid": "b83995f54d3a5aa29ff407bbd86a7d8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SketchUp",
+      "uuid": "e9cdba62ea90ae2e58d00d1fa6a892a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CAD",
+      "uuid": "eccb0954fca9f2005aea084605df5ee9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "uuid": "f544f262e964e2067e7fb53aa23c6379",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34321",
+  "occupationId": "OCC008152",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 4,
+      "category": "Architecture / Interior Design"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0223",
+  "postedCompany": {
+    "uen": "201212872H",
+    "description": null,
+    "name": "BRILLIANT WORKS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:04:09.000Z",
+    "ssicCode2020": "43301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212872H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212872H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212872H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212872H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "144",
+    "street": "UPPER BUKIT TIMAH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "BEAUTY WORLD CENTRE",
+    "postalCode": "588177",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 21,
+        "location": "D21 Upper Bukit Timah, Clementi Park, Ulu Pandan",
+        "region": "West",
+        "sectors": [
+          "58",
+          "59"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34241264188644,
+    "lng": 103.776539385406
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193037",
+    "deletedAt": null,
+    "createdBy": "a4b52651-83b9-4446-a1d5-bf9b38a46c61",
+    "createdAt": "2026-01-31T06:55:05.000Z",
+    "updatedAt": "2026-01-31T07:01:15.000Z",
+    "emailRecipient": "a4b52651-83b9-4446-a1d5-bf9b38a46c61",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 58,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/architecture/interior-designer-house-brilliant-works-bc884e31dbd12ffa8600f1c79e0475d6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bc884e31dbd12ffa8600f1c79e0475d6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bc884e31dbd12ffa8600f1c79e0475d6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

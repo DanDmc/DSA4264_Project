@@ -1,0 +1,200 @@
+{
+  "uuid": "17d63d7b2f1ce2ff8012febaf46c95b2",
+  "sourceCode": "Employer Portal",
+  "title": "Warehouse Assistant (Up to $2,600 / 5 days / Kranji)",
+  "description": "<p>Kranji【Logistic company】<br />Position: Warehouse Assistant (ID6089)<br />Salary: $2,400 – $2,600<br />Working Mon to Fri 7:45am – 5:30pm<br />Location: Kranji<br /><br />Requirements:<br />*At least 1 year of warehouse experience<br />*Experience with microsoft excel<br />*willing to OT<br />Benefit: AWS, VB</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "93334",
+  "occupationId": "OCC008974",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201404928G",
+    "description": "<p>Job Express Services Pte Ltd is a trusted name in the world of recruitment. With years of experience and a team of dedicated professionals, we connect talent with opportunity. Our mission is to help businesses build strong, dynamic teams, and to guide individuals in their career journeys. We pride ourselves on our commitment to excellence and our personalized approach to every client.</p>",
+    "name": "JOB EXPRESS SERVICES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:28:02.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201404928G/schemes"
+      }
+    },
+    "logoFileName": "09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/09632c7dccb9019042e42610341903f3/job-express-services.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "71",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "PRESTIGE CENTRE",
+    "postalCode": "658071",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33830749021002,
+    "lng": 103.755884101534
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183036",
+    "deletedAt": null,
+    "createdBy": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "createdAt": "2026-01-29T09:14:49.000Z",
+    "updatedAt": "2026-01-29T09:14:49.000Z",
+    "emailRecipient": "b16ff521-6a31-4b34-87ae-0596d4ad5c22",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 46,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/warehouse-assistant-job-express-services-17d63d7b2f1ce2ff8012febaf46c95b2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2600,
+    "minimum": 2400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/17d63d7b2f1ce2ff8012febaf46c95b2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/17d63d7b2f1ce2ff8012febaf46c95b2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,203 @@
+{
+  "uuid": "03f6de97e197439231e548e060a61cf0",
+  "sourceCode": "Employer Portal",
+  "title": "manager",
+  "description": "<p>Roles & Responsibilities</p><p><strong>Job Summary</strong></p><p>You will lead the management of revenue and cost elements to drive profitability. Oversee sales, marketing, and daily operations to ensure efficient business performance. Apply strategic planning, delegation, coordination, staffing, and decision-making to achieve targeted profit outcomes.</p><p><strong>Responsibilities</strong></p><ul><li>Manage revenue streams and control cost structures to maximize company profitability</li><li>Direct sales and marketing teams to execute strategies that increase market share and customer engagement</li><li>Oversee daily business operations to ensure smooth and efficient workflow across departments</li><li>Develop and implement effective plans that align resources and activities with organizational profit goals</li><li>Delegate tasks and coordinate cross-functional teams to optimize productivity and operational effectiveness</li><li>Make informed decisions to resolve business challenges and capitalize on growth opportunities</li><li>Organize staffing and resource allocation to support business objectives and maintain operational continuity</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "201929631R",
+    "description": null,
+    "name": "TOPWELD ENGINEERING & CONSTRUCTION PTE. LTD.",
+    "ssicCode": "71122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T10:29:44.000Z",
+    "ssicCode2020": "71122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201929631R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201929631R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201929631R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201929631R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "186",
+    "street": "WOODLANDS INDUSTRIAL PARK E5",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "757515",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45104940840729,
+    "lng": 103.793261861858
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184033",
+    "deletedAt": null,
+    "createdBy": "d80bbd8e-545e-4652-8401-bd4835574041",
+    "createdAt": "2026-01-29T10:38:11.000Z",
+    "updatedAt": "2026-01-29T10:38:11.000Z",
+    "emailRecipient": "d80bbd8e-545e-4652-8401-bd4835574041",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 149,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 26,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/manager-topweld-engineering-construction-03f6de97e197439231e548e060a61cf0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 22500,
+    "minimum": 12000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/03f6de97e197439231e548e060a61cf0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/03f6de97e197439231e548e060a61cf0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

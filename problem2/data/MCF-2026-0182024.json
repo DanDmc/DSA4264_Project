@@ -1,0 +1,213 @@
+{
+  "uuid": "aeb17fcf64cd9f0cb5ec97f4722cd752",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Control & Automation Engineer",
+  "description": "<p>We are looking for a passionate and experienced <strong>Senior Control & Automation Engineer </strong>to join our engineering team. The ideal candidate will have hands-on experience in control panel design, system integration, and automation solutions for critical equipment in the oil & gas, marine, and industrial sectors.<br /></p><p><strong>Key Responsibilities:</strong><br />1. Design and engineer control systems for:</p><p>(a) Generator Control Panels (synchronization, load sharing, paralleling control)</p><p>(b) Compressor Control Panels</p><p>(c) Fire Water Pump Control Systems</p><p>(d) Motor Control Center (MCC) & Distribution boards</p><p>2. Develop and prepare engineering deliverables such as:</p><p>(a) System architecture diagrams network architecture and industrial communication protocols (Modbus, Ethernet / IP, Profibus, etc.)</p><p>(b) General Arrangement (GA) drawings</p><p>(c) Control & Power Schematics</p><p>(d) Power distribution calculations</p><p>3. Involve in PLC/DCS programming, HMI configuration, and system FAT / SAT activities.</p><p>4. Ensure designs comply with industry standards, client specifications, and cybersecurity requirements.</p><p>5. Coordinate with cross-functional teams for procurement, panel fabrication, and site commissioning.</p><p>6. Provide technical support and troubleshooting during project execution and commissioning stages.</p><p><strong>Requirements:</strong></p><ul><li>Degree or Diploma in Electrical / Electronics / Instrumentation / Automation Engineering.</li><li>Minimum 10 years of experience in automation systems for oil & gas, offshore, or industrial plants.</li><li>Strong knowledge in generator synchronization, load sharing, and control system logic.</li><li>Proficiency in AutoCAD / EPLAN for electrical design.</li><li>Hands-on experience with PLC programming (Siemens, Allen Bradley, Schneider, etc.).</li><li>Familiarity with IEC / API / ATEX standards and cybersecurity compliance is an advantage.</li><li>Good communication skills and the ability to work independently or as part of a team.</li></ul><p><strong>Added Advantage:</strong></p><ul><li>Knowledge & able to do with SCADA / HMI integration / PLC programming.</li></ul>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Integration",
+      "uuid": "626344660999389da9c6589588184206",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SCADA",
+      "uuid": "8ebe43fc79c5288888cac7b7106b0045",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Power Distribution",
+      "uuid": "a6e82d9af6319b33a16c2a878bac043a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "PLC Programming",
+      "uuid": "e130c9f05104588fb5a31a16a62fa288",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1131",
+  "postedCompany": {
+    "uen": "201001817E",
+    "description": "<p>ROS is a dynamic, results-driven organization serving the evolving needs of the global Oil & Gas sector. We specialize in the engineering of custom-built compressors, generators, pumps, and separation systems. Proudly recognized as an E50 (Enterprises 50) Award for the last 4 years running, we are committed to excellence. We empower our team members to accelerate their career growth through comprehensive, knowledge-based training and a collaborative approach to performance management.</p>",
+    "name": "ROTATING OFFSHORE SOLUTIONS PTE. LTD.",
+    "ssicCode": "30110",
+    "employeeCount": null,
+    "companyUrl": "https://www.ros.com.sg/home",
+    "lastSyncDate": "2026-02-04T01:50:38.000Z",
+    "ssicCode2020": "30110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001817E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001817E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001817E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001817E/schemes"
+      }
+    },
+    "logoFileName": "9acad57fbcba0f8bfffbbbda91ddb4b5/rotating-offshore-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9acad57fbcba0f8bfffbbbda91ddb4b5/rotating-offshore-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "109",
+    "street": "TUAS SOUTH AVENUE 8",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "637037",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.29517081142411,
+    "lng": 103.643629366284
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182024",
+    "deletedAt": null,
+    "createdBy": "bce47f23-9580-4d1f-91a0-1916a8c464a2",
+    "createdAt": "2026-01-29T07:44:37.000Z",
+    "updatedAt": "2026-01-29T07:44:37.000Z",
+    "emailRecipient": "bce47f23-9580-4d1f-91a0-1916a8c464a2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-control-automation-engineer-rotating-offshore-solutions-aeb17fcf64cd9f0cb5ec97f4722cd752",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aeb17fcf64cd9f0cb5ec97f4722cd752"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aeb17fcf64cd9f0cb5ec97f4722cd752/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

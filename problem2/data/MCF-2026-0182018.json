@@ -1,0 +1,235 @@
+{
+  "uuid": "2081dcb463c775afd98a2a60bfdc2318",
+  "sourceCode": "Employer Portal",
+  "title": "Data Engineer(Hadoop and Pyspark)_Contract",
+  "description": "<p>We’re looking for a hands-on Data Engineer to design, build, and optimize scalable data pipelines on Hadoop ecosystem leveraging PySpark. You will partner with data scientists, analytics teams, and product engineering to deliver reliable datasets and streaming/Batch pipelines that power business insights and ML use cases.</p><h3>Key Responsibilities</h3><ul><li><strong>Design & build data pipelines</strong> using PySpark/Spark (Batch & Streaming), integrating data from diverse sources (RDBMS, APIs, files, Kafka).</li><li><strong>Develop and optimize ETL/ELT workflows</strong> on Hadoop ecosystem (HDFS, Hive, Spark), ensuring data quality, lineage, and reliability.</li><li><strong>Model data for analytics/BI/ML</strong> (star/snowflake schemas, partitioning, bucketing) and implement efficient storage formats (Parquet/ORC).</li><li><strong>Orchestrate workflows</strong> using Airflow (or similar schedulers) with robust dependency management, retries, alerting, and SLA monitoring.</li><li><strong>Implement streaming pipelines</strong> with Kafka (or similar), including windowed aggregations, exactly-once semantics (where applicable), and schema evolution management.</li><li><strong>Enable data governance & security</strong> (RBAC, masking, encryption at-rest/in-transit, audit logging, schema registry).</li><li><strong>Performance tuning & cost optimization</strong> across Spark configs, shuffle strategies, broadcast joins, caching, and resource sizing.</li><li><strong>Automate CI/CD</strong> for data pipelines (unit/integration tests, data quality checks, deployment automation, infrastructure-as-code).</li><li><strong>Collaborate cross-functionally</strong> with data scientists, analytics, and platform teams to define SLAs, data contracts, and consumption patterns.</li><li><strong>Documentation & support</strong>: Maintain runbooks, metadata, lineage, and provide L2/L3 support for production incidents.</li></ul><h3>Required Qualifications</h3><ul><li><strong>2–6 years</strong> of experience in data engineering (adjust as needed), with strong expertise in <strong>PySpark</strong> and the <strong>Hadoop ecosystem</strong> (HDFS, Hive, Spark).</li><li>Advanced <strong>Python</strong> and <strong>SQL</strong> skills (analytical functions, performance tuning).</li><li>Experience with <strong>workflow orchestration</strong> (Airflow/Luigi/Prefect) and <strong>version control</strong> (Git).</li><li>Hands-on with <strong>data warehousing and modeling</strong> concepts; experience optimizing large-scale distributed computations.</li><li>Exposure to <strong>streaming</strong> (Kafka, Spark Structured Streaming) and <strong>schema management</strong>.</li><li>Experience in at least one <strong>cloud platform</strong> (AWS EMR/Glue, Azure HDInsight/Synapse/Databricks, or GCP Dataproc/BigQuery).</li><li>Strong understanding of <strong>data quality</strong> (DQ rules, Great Expectations or equivalent), <strong>metadata</strong>, and <strong>lineage</strong>.</li><li>Familiarity with <strong>Linux</strong>, shell scripting, and containerization (<strong>Docker</strong>); basic understanding of <strong>CI/CD</strong>.</li><li>Excellent communication, stakeholder management, and problem‑solving skills.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PySpark",
+      "uuid": "17e918efeeeb8f100c695e284d5c0a08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Airflow",
+      "uuid": "2528f15a184a14d75d2e092e396dd03e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Modeling",
+      "uuid": "36ca8b27f92026a233b4a2f81dc92397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hadoop",
+      "uuid": "53eb3dcfbb4c210bcd4fe1a985d7c946",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Quality",
+      "uuid": "74c365aff7ca1dee7d22bdad58071514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Governance",
+      "uuid": "7c8d5f6eb1e6bf93b12b639d08b57ce9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Metadata",
+      "uuid": "ce21470ab49d1d1976bc3dc72438c183",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Warehousing",
+      "uuid": "e9ef48a7c8104721d7c1a8e767232597",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199701382M",
+    "description": "<p><strong>NTT Singapore Pte Ltd (NTTS)</strong> is the regional headquarters of NTT Communications Corporation (NTT Com) for Asia Pacific Region. </p>    <p>Established in 1997, NTT Singapore has more than 10 years of expertise in providing information and communications technology (ICT) solutions worldwide.</p>    <p>NTT Singapore offers diverse high-quality connectivity, data centre solutions, security services, IT management services, voice and conferencing solutions and solution integration services to its enterprise customers.</p>    <p>NTT Communications is a wholly owned subsidiary of Nippon Telegraph and Telephone Corporation (NTT Corp.), one of the world’s largest providers of telecommunications services.</p>    <p> In 2013, NTT Corp. is ranked no.1 in telecom industry in the Fortune Global 500* list with operating revenues of more than $133,077 million. It is positioned 32nd among the top 500 corporations worldwide.</p>    <p> NTT Com's extensive global infrastructure includes Arcstar secure private networks, which cover 196 countries/regions and a tier-1 IP backbone network connected with major ISPs worldwide, as well as secure data centers at over 150 locations worldwide.</p>  ",
+    "name": "NTT SINGAPORE PTE. LTD.",
+    "ssicCode": "61011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:30:35.000Z",
+    "ssicCode2020": "61011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "APERIA",
+    "postalCode": "339509",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.3108667281683,
+    "lng": 103.863929573292
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182018",
+    "deletedAt": null,
+    "createdBy": "bb0057d3-b3a2-41cd-9caa-6f6612db4dba",
+    "createdAt": "2026-01-29T07:43:42.000Z",
+    "updatedAt": "2026-01-29T07:43:42.000Z",
+    "emailRecipient": "bb0057d3-b3a2-41cd-9caa-6f6612db4dba",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/data-engineercontract-ntt-singapore-2081dcb463c775afd98a2a60bfdc2318",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2081dcb463c775afd98a2a60bfdc2318"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2081dcb463c775afd98a2a60bfdc2318/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

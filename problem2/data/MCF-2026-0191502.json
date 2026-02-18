@@ -1,0 +1,233 @@
+{
+  "uuid": "705de435beecad1bfe9f6f002742bdc9",
+  "sourceCode": "Employer Portal",
+  "title": "HR Business Operation – Interface Ops",
+  "description": "<p><strong>Job Description</strong></p><p>·      The HR Business Operation – Interface Ops / LLM Operations Engineer is responsible for managing and supporting daily system integrations between e-HR systems and interfacing platforms across OSIT/WOG environments.</p><p>·       The role ensures end-to-end operability, data integrity, and stability of HR interfaces, including batch jobs, middleware integrations, and manual data transfers.</p><p>·       The position requires strong coordination skills, technical analysis capabilities, and operational discipline in a multi-stakeholder environment.</p><p> <strong>Key Responsibilities </strong></p><p>·      Interface & Integration Operations Manage all daily system integrations between e-HR and interfacing systems, ensuring successful and timely data exchanges.</p><p>·       Track multiple concurrent daily activities and coordinate with Subject Matter Experts (SMEs), middleware teams, interfacing counterpart systems, and other suppliers to ensure end-to-end interface operability.</p><p>·       Manage all incoming and outgoing system interfaces from OSIT/WOG systems, including: External interfaces External projects eServices MINDEF/SAF applications on Internet portals and Commercial Cloud platforms Operations Support & Monitoring Provide daily operations support, including batch job monitoring, error detection, and resolution.</p><p>·       Monitor interface error logs and ensure timely investigation and remediation of issues.</p><p>·       Perform manual data uploads and transfers when required by the Authority.</p><p>·       Change Requests, Data Analysis & Issue Resolution Provide inputs and support for the development and deployment of Change Requests (CRs) related to interfaces, including participation in requirements gathering and User Acceptance Testing (UAT).</p><p>·       Profile and analyse data to identify issues and discrepancies using approved software tools such as: Microsoft Office tools (especially Excel) SAP programs or queries SQL (as provided by the Authority) Conduct root cause analysis for interface and data-related issues and propose effective solutions.</p><p>·       Provide analysis and consultation services to OSIT/WOG systems to resolve operational and data-related issues.</p><p>·       Coordinate with data owners for HR data matters requiring man-in-the-loop decisions.</p><p>·       Coordination, Reporting & Governance Perform secretariat duties for meetings involving internal teams and external stakeholders.</p><p>·       Prepare operational reports, management updates, and presentation materials (slides) for various forums and meetings.</p><p>·       Maintain project resource assignments, track progress, and initiate corrective actions to address deviations from plans and keep projects on track.</p><p>·       Documentation & Continuous Improvement Review, propose, and update operational and technical documentation where necessary </p><p>·      including but not limited to: Standard Operating Procedures (SOPs) Authority approval documents (e.g. file upload/download approvals) Data Catalogue and related artefacts Education Qualification At least a Diploma or Degree in Computer Science, Information Systems, Science, Engineering, or equivalent. </p><p><strong>Required Competencies Technical & Analytical Skills</strong></p><p>·       Good knowledge of information technology, particularly in SAP HCM ERP or HCM SaaS environments.</p><p>·       Good understanding of data design and data structures within SAP HCM ERP or HCM SaaS.</p><p>·       Demonstrated ability to investigate issues, identify root causes, and propose effective remediation solutions.</p><p>·       Proficiency in SQL programming is preferred.</p><p>·       Strong competency in Microsoft Excel, including advanced functions for data analysis.</p><p>·       Professional & Interpersonal Skills Strong planning, coordination, and stakeholder management skills.</p><p>·       Excellent writing, verbal communication, and presentation skills.</p><p>·       Strong sense of ownership; responsible and conscientious in operational delivery. </p><p>·      Resourceful, independent, responsive, and proactive.</p><p>·       Good team player with the ability to work across multiple parties and suppliers.</p><p>·       Required Working Experience Minimum 2 years of working experience in Information Technology.</p><p>·       Experience in SAP HCM ERP is preferred.</p><p>·       Experience in operations support, including end-user support, troubleshooting, and testing, is preferred.</p><p>·       Hands-on SQL working experience and competency in SQL programming is preferred.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Requirements Gathering",
+      "uuid": "1723b433914d54481e91978db672d057",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Analysis",
+      "uuid": "26af413410cd69cda1323ea98284ad2c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Verbal Communication",
+      "uuid": "29d0b1d35790a5bf184dccacd3e641ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Structures",
+      "uuid": "49110ba9c7e157360ed1b72f643bc1a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ERP",
+      "uuid": "5202bfaff162a71345cc0f3dde1940a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Design",
+      "uuid": "7fc8a78ebe3c826cc2ca3e7083c48bfd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SaaS",
+      "uuid": "b0ca9e41d61885345eef09f928c9ea58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Acceptance Testing",
+      "uuid": "bfccbf376ac7227cf93a80049f34f5c6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stakeholder Management",
+      "uuid": "df48c911be7822810d6973e86dca6cd6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013738",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201705267M",
+    "description": "<p>ELLIOTT MOSS CONSULTING PTE. LTD.</p>\r\n\r\n<p>We at Elliott Moss Consultng inspire individuals and organisations to work more effectively and efficiently, and create greater choice in the work domain, for the benefit of all concerned. Our primary mission is to provide our clients with the best suitable employees who bring success to your organiza,on and allows us to grow together.</p>\r\n",
+    "name": "ELLIOTT MOSS CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:43:04.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/schemes"
+      }
+    },
+    "logoFileName": "786e07536678a6deae78dcfce453ad6b/elliott-moss-consulting.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/786e07536678a6deae78dcfce453ad6b/elliott-moss-consulting.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "77",
+    "street": "HIGH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "HIGH STREET PLAZA",
+    "postalCode": "179433",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 6,
+        "location": "D06 Beach Road, High Street",
+        "region": "East",
+        "sectors": [
+          "17"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29045407468311,
+    "lng": 103.849358869172
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191502",
+    "deletedAt": null,
+    "createdBy": "512e3cf5-2300-49bc-9183-a07f3ca80bd8",
+    "createdAt": "2026-01-30T11:13:07.000Z",
+    "updatedAt": "2026-01-30T11:13:07.000Z",
+    "emailRecipient": "512e3cf5-2300-49bc-9183-a07f3ca80bd8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 43,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/hr-business-operation-%E2%80%93-interface-ops-elliott-moss-consulting-705de435beecad1bfe9f6f002742bdc9",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/705de435beecad1bfe9f6f002742bdc9"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/705de435beecad1bfe9f6f002742bdc9/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,209 @@
+{
+  "uuid": "59fbba37606d4c599938833a4e0595a7",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Staff Nurse",
+  "description": "<p>Provide a high standard of patient care by performing clinical procedures and nursing care plans that wll meet the patients' immediate physical and emotional needs.</p>\n<ul>\n  <li>Registered Nurse with 5 years of relevant experience</li>\n  <li>Highly motivated with the ability to work in a team and in a fast paced environment</li>\n  <li>Excellent communication and interpersonal skills</li>\n</ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "uuid": "1962abe9b550ef4c341f5602a9c574ed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Direct Patient Care",
+      "uuid": "46417b5e91bda6f197a9a011ac107685",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Infection Control",
+      "uuid": "5a089e9aa9c19f7297f2ad669d21baec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medication Administration",
+      "uuid": "704e3e58602b30c3713a0bac9d71d0da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Patient Safety",
+      "uuid": "7fca8f4d2133e12a36c8e07715ab8044",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Patient Education",
+      "uuid": "834fafcfdea0ddaeabe1611f04e99f15",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Care",
+      "uuid": "dfe9a5014f4387967da54a6e80631e69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Home Care",
+      "uuid": "fa2791d2b8ce05af6f28cd305d891eac",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22200",
+  "occupationId": "OCC006676",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0841",
+  "postedCompany": {
+    "uen": "29698200L",
+    "description": "<div>   Lee Ah Mooi Old Age Home was established in the mid 1960s by the late Madam Lee Ah Mooi. The Home is a Geriatric nursing home that is dedicated to provide high quality healthcare services to 110 aged residents.</div>  ",
+    "name": "LEE AH MOOI OLD AGE HOME",
+    "ssicCode": "87021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:01:32.000Z",
+    "ssicCode2020": "87021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L/schemes"
+      }
+    },
+    "logoFileName": "95715efe5fd707edb1b50a361d4d50bd/lee-ah-mooi-old-age-home.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/95715efe5fd707edb1b50a361d4d50bd/lee-ah-mooi-old-age-home.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "THOMSON LANE",
+    "floor": null,
+    "unit": null,
+    "building": "LEE AH MOI OLD AGE HOME",
+    "postalCode": "297728",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 11,
+        "location": "D11 Novena, Thomson, Watten Estate",
+        "region": "Central",
+        "sectors": [
+          "28",
+          "29",
+          "30"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33075696892324,
+    "lng": 103.840146564333
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178468",
+    "deletedAt": null,
+    "createdBy": "d1e58dc3-a489-4304-a91f-c7dfd7e4a251",
+    "createdAt": "2026-01-29T00:30:07.000Z",
+    "updatedAt": "2026-01-29T00:30:06.000Z",
+    "emailRecipient": "d1e58dc3-a489-4304-a91f-c7dfd7e4a251",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/senior-staff-nurse-lee-ah-mooi-old-age-home-59fbba37606d4c599938833a4e0595a7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/59fbba37606d4c599938833a4e0595a7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/59fbba37606d4c599938833a4e0595a7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

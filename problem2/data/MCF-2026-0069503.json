@@ -1,0 +1,204 @@
+{
+  "uuid": "80721e639ec5b8c1b3fd449583c5f1dd",
+  "sourceCode": "Employer Portal",
+  "title": "SUPERVISOR",
+  "description": "<p>1. Store Operations Management</p><p></p><p>Oversee daily shop operations to ensure smooth and efficient workflow</p><p></p><p>Ensure compliance with company policies, SOPs, and relevant health regulations</p><p></p><p>Maintain cleanliness, hygiene, and proper storage of herbs and TCM products</p><p></p><p>Monitor opening and closing procedures and cash handling</p><p></p><p>2. Staff Supervision & Training</p><p></p><p>Supervise TCM practitioners, sales staff, and assistants</p><p></p><p>Arrange staff schedules, attendance, and duty rosters</p><p></p><p>Train new staff on product knowledge, customer service, and shop procedures</p><p></p><p>Conduct performance evaluations and provide coaching</p><p></p><p>3. Customer Service & Patient Support</p><p></p><p>Ensure high standards of customer service and patient care</p><p></p><p>Handle customer inquiries, feedback, and complaints professionally</p><p></p><p>Support TCM physicians by coordinating consultation flow and appointments</p><p></p><p>Educate customers on basic product usage (non-medical advice)</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Store Operations",
+      "uuid": "0466ba3dd935b55b36fa968929f5db8a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53507911K",
+    "description": null,
+    "name": "XIANG KANG TANG TCM",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T10:24:22.000Z",
+    "ssicCode2020": "86202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53507911K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53507911K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53507911K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53507911K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "168",
+    "street": "RANGOON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITIGATE RESIDENCE",
+    "postalCode": "218437",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31660769082394,
+    "lng": 103.853325843807
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0069503",
+    "deletedAt": "2026-01-26T17:15:05.000Z",
+    "createdBy": "5645bf94-9a8b-46ef-895c-8fa576d9efb5",
+    "createdAt": "2026-01-12T09:13:15.000Z",
+    "updatedAt": "2026-01-28T10:26:12.000Z",
+    "emailRecipient": "5645bf94-9a8b-46ef-895c-8fa576d9efb5",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 62,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-12",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/supervisor-xiang-kang-tang-tcm-80721e639ec5b8c1b3fd449583c5f1dd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4900,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/80721e639ec5b8c1b3fd449583c5f1dd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/80721e639ec5b8c1b3fd449583c5f1dd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

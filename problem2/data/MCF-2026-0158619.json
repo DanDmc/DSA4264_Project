@@ -1,0 +1,204 @@
+{
+  "uuid": "9a01bd57e3cf1429d37468f6034fe57f",
+  "sourceCode": "Employer Portal",
+  "title": "Clinic Assistant",
+  "description": "<p>The Clinic Assistant will play a crucial role in managing the reception area, attending to patients, performing administrative tasks, and providing support to doctors during consultations. The duties and responsibilities include:</p>\n<p><br></p>\n<p>Manage the reception area, greeting patients, and handling phone calls professionally.</p>\n<p>Attend to patients and perform front-desk duties including registration, scheduling appointments, verifying insurance, and managing billing.</p>\n<p>Process insurance claims, handle Medisave transactions, and conduct regular stock-taking of medical supplies.</p>\n<p>Update billing records accurately and reconcile daily collections.</p>\n<p>Provide assistance to doctors during consultations, ensuring patients’ needs are met efficiently.</p>\n<p>Maintain a clean and organized clinic environment.</p>\n<p><br></p>\n<p>Job Requirements</p>\n<p>Experience in a healthcare setting would be advantageous.</p>\n<p>Excellent interpersonal and communication skills.</p>\n<p>Strong customer-service mindset with a focus on patient satisfaction.</p>\n<p>Ability to multitask and work efficiently in a fast-paced environment.</p>\n<p>Proficiency in medical billing software and basic computer skills.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medical Billing",
+      "uuid": "3b7b1a6884a285ee5d47c09fd87c056b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medicine",
+      "uuid": "4ff278b4704d3e44b01ff80f37386777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42243",
+  "occupationId": "OCC009122",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0842",
+  "postedCompany": {
+    "uen": "202225160E",
+    "description": null,
+    "name": "ASSURE UROLOGY & ROBOTIC CENTRE PTE. LTD.",
+    "ssicCode": "86203",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T11:30:42.000Z",
+    "ssicCode2020": "86203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202225160E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202225160E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202225160E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202225160E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "MOUNT ELIZABETH",
+    "floor": null,
+    "unit": null,
+    "building": "MOUNT ELIZABETH HOSPITAL",
+    "postalCode": "228510",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30516521383703,
+    "lng": 103.835439337571
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158619",
+    "deletedAt": null,
+    "createdBy": "35f7a9a8-4fc0-4700-851e-7d826c3ff2a1",
+    "createdAt": "2026-01-26T07:15:57.000Z",
+    "updatedAt": "2026-01-26T07:15:57.000Z",
+    "emailRecipient": "35f7a9a8-4fc0-4700-851e-7d826c3ff2a1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 255,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 61,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/clinic-assistant-assure-urology-robotic-centre-9a01bd57e3cf1429d37468f6034fe57f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a01bd57e3cf1429d37468f6034fe57f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a01bd57e3cf1429d37468f6034fe57f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

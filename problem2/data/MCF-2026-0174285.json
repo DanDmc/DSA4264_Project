@@ -1,0 +1,232 @@
+{
+  "uuid": "3fedde757ed4cf3336d8ef6b6cdb59c9",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps Engineer (GitHub / Azure DevOps)",
+  "description": "<p><strong>About the Role</strong></p><p>We are looking for a DevOps Engineer todesign, build, and maintain CI/CD pipelines using GitHub Actions or AzureDevOps. You will enable fast, reliable, and automated software delivery acrossmultiple environments.</p><p><strong>Key Responsibilities</strong></p><p>·       Build and manage CI/CDpipelines for application and infrastructure deployments</p><p>·       Automate testing, packaging,and release workflows</p><p>·       Implement DevSecOps practicesincluding vulnerability, dependency, and code-quality scanning</p><p>·       Manage GitHub/Azure DevOpsenvironments, runners, and artifacts</p><p>·       Support containerization usingDocker and Kubernetes</p><p>·       Collaborate with developmentteams to streamline build and deployment processes</p><p><strong>Requirements</strong></p><p>·       Min 5 years of DevOps orbuild/release engineering experience</p><p>·       Strong hands-on GitHub Actionsand/or Azure DevOps pipeline expertise</p><p>·       Knowledge of YAML, Docker,Kubernetes, Terraform</p><p>·       Understanding of cloudfundamentals (Azure/AWS)</p><p>·       Familiarity with securityscanning tools and DevSecOps principle</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Application Architecture",
+      "uuid": "0d285fa81c0e9f4de7513d1472d5e54f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "YAML",
+      "uuid": "9463f87bbed1fcdacfb8d40e185ca2bc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Authentication",
+      "uuid": "c75f7811d70d17dbcd88e9d03752cbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Resource Management",
+      "uuid": "cb39ac09dca88d69876f8730b7461b4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "201719238H",
+    "description": "<p>LeapThought is a leading provider of strategic consulting services and business technology solutions focused on driving transformational outcomes.</p>\n<p><br></p>\n<p>We design and build platforms that enable businesses to be more efficient and deliver frictionless experiences for more customers.</p>\n<p><br></p>\n<p>Everyday, tens of thousands of New Zealanders use services developed by LeapThought to manage essential daily activities - from booking transport and paying power bills to interacting with their local council.</p>\n<p><br></p>\n<p>Our core philosophy of do it once reflects how common problems can be tackled with repeatable frameworks and accelerators. This makes better technology solutions that more accessible and are more cost effective for everyone.</p>\n<p><br></p>\n<p>We advocate and follow an inclusive \"business driven\" approach at all times connecting the strategic, operational and technical viewpoints together to ensure our on-going success in delivering results for our customers. While we are \"agile\" we easily fit in with our customer preferences in terms of methodologies, standards and tools.</p>\n<p><br></p>\n<p>We are privately held and based in New Zealand with offices in Auckland, Singapore, Sydney and Hyderabad, India.</p>",
+    "name": "LEAPTHOUGHT ASIA PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "https://www.leapthought.co.nz/about-us.html",
+    "lastSyncDate": "2026-02-03T13:45:30.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H/schemes"
+      }
+    },
+    "logoFileName": "1d9d1498dc3fbdd2896c8ede818426f5/leapthought-asia.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/1d9d1498dc3fbdd2896c8ede818426f5/leapthought-asia.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "160",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE BUSINESS FEDERATION CENTER",
+    "postalCode": "068914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27812790985949,
+    "lng": 103.847854628243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174285",
+    "deletedAt": null,
+    "createdBy": "cef68b1e-a8d0-40cc-b6d9-a855e0eb3de8",
+    "createdAt": "2026-01-28T06:18:29.000Z",
+    "updatedAt": "2026-01-28T06:18:28.000Z",
+    "emailRecipient": "cef68b1e-a8d0-40cc-b6d9-a855e0eb3de8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-18",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-leapthought-asia-3fedde757ed4cf3336d8ef6b6cdb59c9",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 8500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3fedde757ed4cf3336d8ef6b6cdb59c9"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3fedde757ed4cf3336d8ef6b6cdb59c9/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

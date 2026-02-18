@@ -1,0 +1,244 @@
+{
+  "uuid": "a225b985eb82a608f7c64b30c837fdac",
+  "sourceCode": "Employer Portal",
+  "title": "Principal SRE Engineer",
+  "description": "<p>Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs.</p><p>We give Entrepreneurs time back to focus on what they love doing - growing their business and being with customers. With a surging number of Entrepreneurs globally, we are innovating in a highly lucrative space.</p><p>We operate 3 business segments:</p><p><strong>Corporate Secretary</strong>: Automating the company incorporation, secretarial, filing, Nominee Director, mailroom and immigration processes via custom online robots and SleekSign. We are the market leaders in Singapore with ~5% market share of all new business incorporations</p><p><strong>Accounting & Bookkeeping</strong>: Redefining what it means to do Accounting, Bookkeeping, Tax and Payroll thanks to our proprietary SleekBooks ledger, AI tools and exceptional customer service</p><p><strong>FinTech payments</strong>: Overcoming a key challenge for Entrepreneurs by offering digital banking services to new businesses</p><p>Sleek launched in 2017 and now has around 15,000 customers across our offices in Singapore, Hong Kong, Australia and the UK. We have around 500 staff with an intact startup mindset. </p><p>We have recently raised Series B financing off the back of >70% compound annual growth in Revenue over the last 5 years. Sleek has been recognised by The Financial Times, The Straits Times, Forbes and LinkedIn as one of the fastest growing companies in Asia. </p><p>Backed by world-class investors, we are on track to be one of the few cash flow positive, tech-enabled unicorns based out of Singapore.</p><p>At Sleek, we are on a mission to streamline operations and elevate customer experience through intelligent automation and modern engineering. </p><p><strong>About the Role:</strong></p><p><strong>Mission:</strong></p><p>At Sleek, we are on a mission to streamline operations and elevate customer experience through intelligent automation and modern engineering. We are seeking a Principal SRE Engineer who will be a key individual contributor responsible for architecting, building, and scaling Sleek’s next-generation infrastructure and AI-powered capabilities.</p><p>As one of Sleek’s most senior technical contributors, you will partner closely with Product, Engineering, and AI teams to define our infrastructure strategy, design resilient cloud architectures, and ensure our platforms remain secure, scalable, and high-performing. You will play a central role in integrating AI systems into production environments, enabling efficient delivery, observability, and reliability across Sleek’s products and internal operations.</p><p>You will ensure:</p><ul><li><strong>High-quality, secure, and scalable infrastructure</strong> capable of supporting modern applications and advanced AI workloads</li><li><strong>Robust automation</strong> across CI/CD, infrastructure provisioning, and operations to increase reliability and reduce manual overhead</li><li><strong>Thoughtful and pragmatic integration of AI</strong> into operational workflows to improve efficiency, detect anomalies, and accelerate delivery</li><li><strong>Reliable systems engineering practices</strong>, including monitoring, incident response, performance tuning, and capacity planning</li><li><strong>Strong DevOps standards,</strong> including reproducibility, testing, documentation, and operational excellence</li><li><strong>Clear technical communication and cross-team alignment</strong> to enable predictable delivery and collaborative problem-solving</li><li><strong>Mentorship and technical leadership</strong> that elevates platform engineering, DevOps maturity, and overall engineering quality across the organisation</li></ul><p><strong>Outcomes:</strong></p><p><strong>Strengthen Reliability, Scalability, and Infrastructure Health</strong></p><ul><li>Conduct a full review of Sleek’s cloud infrastructure and propose a roadmap for reliability and scalability improvements</li><li>Lead upgrades or redesigns of core platform components such as networking, containers, orchestration, or databases</li><li>Improve incident response processes, SLIs, SLOs, and on-call readiness.</li></ul><p><strong>Introduce Platform Enhancements to Support AI Workloads</strong></p><ul><li>Ensure platform and infrastructure are capable of supporting AI-powered features</li><li>Build or refine pipelines for model hosting, embeddings, vector search, or related AI services if required</li><li>Implement monitoring and guardrails for AI service performance, cost, and stability</li></ul><p><strong>Increase Engineering Velocity Through Automation</strong></p><ul><li>Enhance CI/CD pipelines for speed, safety, and reliability</li><li>Introduce infrastructure automation, testing automation, and deployment tooling to reduce manual steps</li><li>Champion modern DevOps and AI-assisted tooling to improve engineering productivity.</li></ul><p><strong>Improve Observability and Operational Excellence</strong></p><ul><li>Strengthen logging, monitoring, tracing, and alerting across services</li><li>Reduce noisy alerts and improve the signal-to-noise ratio for incidents</li><li>Implement readiness checks, runbooks, and automated recovery paths for critical services</li></ul><p><strong>Security and Compliance Improvements</strong></p><ul><li>Ensure secure configuration, secrets management, access control, and identity management</li><li>Implement automated security scanning, dependency monitoring, and hardened pipeline practices</li><li>Prepare platform-level requirements needed for reliable and secure AI usage</li></ul><p><strong>Mentor and Support Engineering Teams</strong></p><ul><li>Coach engineers on cloud best practices, reliability, and operational readiness</li><li>Lead architecture reviews, workshops, and platform knowledge-sharing session</li><li>Build tooling, templates, and patterns that elevate team productivity</li></ul><p>To do this you will have:</p><ul><li>8+ years of progressive experience in Site Reliability Engineering (SRE)</li><li>5+ years of strong, hands-on experience across multi-cloud environments such as AWS, GCP, Azure including expertise in networking, compute, storage, security, and cost optimization.</li><li>5+ years of deep expertise in containerization and orchestration (e.g., Kubernetes, EKS, ECS)</li><li>8+ years of extensive experience with Infrastructure as Code (IaC) (e.g., Terraform, Pulumi, CloudFormation).</li><li>System Reliability: Proven ability to design, build, and operate highly reliable, scalable production systems utilizing advanced Zero-Downtime Deployment Patterns (e.g., Blue/Green, Canary, progressive delivery).</li><li>Modern Delivery & Tooling: Expertise in modernizing deployments via GitOps practices (e.g., ArgoCD, Flux) and building Self-Service Developer Platforms that enable engineering efficiency (e.g., environment automation, internal tooling).</li><li>Networking & Edge Routing: Experience implementing and managing Multi-Cloud API Gateways and Edge Routing solutions (e.g., Kong, Traefik, Cloudflare, multi-cluster ingress).</li><li>Security & Hardening: Strong background in platform security, including secrets management, Identity and Access Control (IAM), and Runtime/Security Hardening with tools like Falco/eBPF and WAFs.</li><li>Observability: Solid understanding and practical experience with modern observability stacks (e.g., Prometheus, OpenTelemetry, OpenSearch, ELK, CloudWatch).</li><li>AI/ML Infrastructure: Experience supporting or deploying AI/ML workloads (e.g., model inference, vector databases, GPU workloads), or strong familiarity with the infrastructure requirements for these systems.</li><li>Mentorship & Communication: Excellent communication and collaboration skills with a proven ability to describe complex infrastructure decisions clearly and a background in mentoring engineers and driving improvements in engineering practices.</li><li>Development Expertise: Familiarity with modern programming languages like Node.js, NestJS, and Python is highly desirable for extending DevOps capabilities or integrating tooling.</li></ul><p>Behavioural fit is also important at Sleek, and we will be looking for candidates that have a proven track record of embodying the below attributes in their recent roles:</p><p><strong>Ownership:</strong> This shows reliability and helps build trust within the team. We move fast and need to know that everyone will see things through to completion and proactively help to get things back on track when challenges arise. Accountability is really important to us.</p><p><strong>Humility:</strong> There is so much we don’t know. Humility allows for open-mindedness to feedback and a willingness to learn from others. It paves the way for collaboration and creates a positive work environment. It is a key ingredient of self awareness and emotional intelligence.</p><p><strong>Structured Thinking</strong>: Our business is complex with many layers (many services, many countries, many cultures). Regardless of whether you’re more analytical or creative in nature, being able to show sound judgement is important to us. It ensures solutions are pragmatic and balance the needs of the organisation, team and customers.</p><p><strong>Attention to detail</strong>: You’ll be managing multiple, complex workstreams from numerous stakeholders. It will be important for you to keep track of everything and notice when information is missing or inconsistent.</p><p><strong>Excellent listener and clear communicator</strong>: We have a variety of nationalities and for many people, English isn’t their first language. For you to excel, you’ll need to be present in your calls and make sure you properly receive and thoughtfully send messages to others in the business.<br /></p><p><strong>About the interview process </strong></p><p>The successful candidate will participate in the below interview stages (note that the order might be different to what you read below). </p><p>We anticipate the process to last no more than 3 weeks from start to finish. Whether the interviews are held over video call or in person will depend on your location and the role. </p><p><strong>Screening call</strong><br /> A ~30 minute chat with our Talent Acquisition team to learn more about you, your background, and what you’re looking for.</p><p><strong>Take Home Assessment</strong></p><p>A 2-3 hour take-home assessment that would assess your SRE Skills.</p><p><strong>Technical Interview </strong><br /> A ~90 minute technical interview with Delivery Lead and/or Head of Engineering</p><p><strong>Final interview</strong><br />A closing conversation with our CTO, giving you the opportunity to ask any final questions and hear more about our vision and priorities.</p><p><strong>Offer + references</strong><br />We’ll make a non-binding offer verbally or by email, followed by a couple of short phone or video calls with references that you provide.</p><p><strong>Requirement for background screening</strong></p><p>Please be aware that Sleek is a regulated entity and as such is required to perform different levels of background checks on staff depending on their role. </p><p>This may include using external vendors to verify the below:</p><p>- Your education</p><p>- Any criminal history</p><p>- Any political exposure</p><p>- Any bankruptcy or adverse credit history</p><p>We will ask for your consent before conducting these checks. Depending on your role at Sleek, an adverse result on one of these checks may prohibit you from passing probation.</p><p>By submitting a job application, you confirm that you have read and agree to our Data Privacy Statement for Candidates, found at sleek.com.</p>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Mentoring",
+      "uuid": "089011f59ea2749a842c1cb289c52c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Engineering",
+      "uuid": "77d3c2a59d9947a495204bc9156b6726",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Reliability Engineering",
+      "uuid": "b36a6998874b0a199503b9cae45d1506",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Technical Communication",
+      "uuid": "bbf1f26a792c168c6a7ebfe043655eac",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Technical Leadership",
+      "uuid": "d54f15f3c6e8d607c7c90d6de015217e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC060890",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202310792R",
+    "description": "<p>Sleek is on a mission to revolutionize how entrepreneurs operate their business. We want to give small business owners peace of mind and the power of online solutions to allow them to focus on what they do best - growing their business. As we work for our thousands of customers, we gather millions of data points about their business, and in turn we transform those into useful, actionable insights and recommendations to accelerate their growth through smart algorithms.</p>\n<p>We are a team of 500 builders from 18 countries, with offices in Singapore, Philippines, India, Vietnam, Hong Kong, Australia and the UK committed to delivering a delightful experience to our clients!</p>",
+    "name": "SLEEK R&D AND MANAGEMENT (PTE. LTD.)",
+    "ssicCode": null,
+    "employeeCount": 500,
+    "companyUrl": "https://sleek.com/sg/jobs/",
+    "lastSyncDate": "2026-02-04T08:57:37.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202310792R/schemes"
+      }
+    },
+    "logoFileName": "a47f632d5abdaf803e738a229fa942da/sleek-rd-management.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a47f632d5abdaf803e738a229fa942da/sleek-rd-management.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "160",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE BUSINESS FEDERATION CENTER",
+    "postalCode": "068914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27812790985949,
+    "lng": 103.847854628243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181517",
+    "deletedAt": null,
+    "createdBy": "d159d90b-88f3-4944-96da-47d509784867",
+    "createdAt": "2026-01-29T06:51:20.000Z",
+    "updatedAt": "2026-01-29T06:51:20.000Z",
+    "emailRecipient": "d159d90b-88f3-4944-96da-47d509784867",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 95,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/principal-sre-engineer-sleek-rd-management-a225b985eb82a608f7c64b30c837fdac",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a225b985eb82a608f7c64b30c837fdac"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a225b985eb82a608f7c64b30c837fdac/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

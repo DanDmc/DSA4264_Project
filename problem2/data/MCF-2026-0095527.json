@@ -1,0 +1,235 @@
+{
+  "uuid": "18a89e91e17f887b83ec897fa68b276c",
+  "sourceCode": "Employer Portal",
+  "title": "AI Engineer",
+  "description": "<p>- Support the production of scalable and optimised AI/machine learning (ML) models.<br />- Focus on building algorithms for the extraction, transformation and loading of large volumes of real-time, unstructured data to deploy AI/ML solutions from theoretical data science models.<br />- Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process.<br />- Work in a team setting and apply knowledge in statistics, scripting and programming languages required by the firm.<br />- Work with the relevant software platforms in which the models are deployed.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "TensorFlow",
+      "uuid": "074dd699710da0ec1eb45f13b31788e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Video Analytics",
+      "uuid": "481f3a3cdbc7bfcf27e176be66c4deea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rollout",
+      "uuid": "56ee398637559b61c89c9924f3f19733",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Vision",
+      "uuid": "753a222580475bbbb7ef8d7deea446f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Keras",
+      "uuid": "7fee7bb66f4294c3e32783efa7d9bafc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PyTorch",
+      "uuid": "95b88f180e9eb5678e0f9ebac2cbe643",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Statistics",
+      "uuid": "c33e404a441c6ba9648f88af3c68a1ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Science",
+      "uuid": "c78e2ad97b328dbafbd49edf182136f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Development",
+      "uuid": "d324e27fb1cf5931e17c08a9a85f76bf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC013825",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "202347630M",
+    "description": null,
+    "name": "ONE NORTH FOUNDATION LIMITED",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:32:01.000Z",
+    "ssicCode2020": "85405",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202347630M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202347630M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202347630M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202347630M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "71",
+    "street": "AYER RAJAH CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "139951",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29678114217926,
+    "lng": 103.786757049969
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0095527",
+    "deletedAt": "2026-01-29T17:15:04.000Z",
+    "createdBy": "67aa90fd-fc16-4bff-b606-6851e3de7340",
+    "createdAt": "2026-01-15T10:15:00.000Z",
+    "updatedAt": "2026-01-30T03:53:50.000Z",
+    "emailRecipient": "67aa90fd-fc16-4bff-b606-6851e3de7340",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 465,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-15",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 87,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-one-north-foundation-18a89e91e17f887b83ec897fa68b276c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/18a89e91e17f887b83ec897fa68b276c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/18a89e91e17f887b83ec897fa68b276c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

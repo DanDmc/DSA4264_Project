@@ -1,0 +1,207 @@
+{
+  "uuid": "39baf408ed3159f5aa49180634f7915a",
+  "sourceCode": "Employer Portal",
+  "title": "TILER",
+  "description": "<ul><li>Measuring the area that must be tiled or marbled to determine stock requirements.</li><li>Able to provide accurate measurements and quotes for the intended job.</li><li>Ordering stock supplies and gathering tiling equipment.</li><li>Cutting and shaping tiles or marble to size.</li><li>Cleaning and levelling the surface area.</li><li>Applying tiling cement and arranging tiles or marble according to design plans.</li><li>Applying tiling grout.</li><li>Cleaning off excess grout and conducting post-installation inspections.</li><li>Maintaining clean and tidy working environment before and after work</li><li>Able to work independently withminimum or no supervision</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "taking measurements",
+      "uuid": "1096b4d70c275eef45865be3c989cc8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "cutting staff",
+      "uuid": "46094b17639a18e162615abe90cf031c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ceramic Tile",
+      "uuid": "5a1182b2d2ac7f5260e048374e28eaa8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cement",
+      "uuid": "5cb91ac72b6016809690064a5e7e30e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Grouting",
+      "uuid": "769083f979bbdb583bd0c26a15552d34",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cutting Tools",
+      "uuid": "814d0bbe99543cf622437008f4e2552c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excess",
+      "uuid": "d1d25b9ff7906919775079068a81aee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71220",
+  "occupationId": "OCC009928",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202512448N",
+    "description": null,
+    "name": "OCEAN BEE CONTRACTOR PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T03:07:54.000Z",
+    "ssicCode2020": "42101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512448N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512448N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512448N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202512448N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "SOON LEE STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PIONEER JUNCTION",
+    "postalCode": "627606",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33378307271647,
+    "lng": 103.697237932835
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172827",
+    "deletedAt": null,
+    "createdBy": "9dfb473e-6a58-4d91-9c36-c4b1c2e7528e",
+    "createdAt": "2026-01-28T03:17:14.000Z",
+    "updatedAt": "2026-01-28T03:17:14.000Z",
+    "emailRecipient": "9dfb473e-6a58-4d91-9c36-c4b1c2e7528e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 30,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/tiler-ocean-bee-contractor-39baf408ed3159f5aa49180634f7915a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 40000,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/39baf408ed3159f5aa49180634f7915a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/39baf408ed3159f5aa49180634f7915a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,236 @@
+{
+  "uuid": "f6bd04afef16f9513d98d766cd2916aa",
+  "sourceCode": "Employer Portal",
+  "title": "Business Intelligent Engineer",
+  "description": "<p><strong>Key Responsibilities</strong>:</p><ul><li>Develop, maintain, and optimize Tableau dashboards and reports based on business requirements.          </li><li>Assist in data preparation, blending, and transformation for visualization.          </li><li>Work with stakeholders to gather requirements and translate them into effective visualizations.  </li><li>Troubleshoot and resolve issues related to dashboards, data sources, and performance.        </li><li>Ensure dashboards follow best practices for usability, performance, and design.          </li><li>Collaborate with data engineers and analysts to integrate data from various sources (SQL, Excel, APIs, etc.).     </li><li>Document dashboard designs, data flows, and development processes.        </li><li>Stay updated with the latest Tableau features and BI trends.  </li></ul><p><strong>Qualifications & Skills</strong>:</p><ul><li><strong>Education</strong>: Polytechnic Diploma or bachelor’s degree in computer science, Data Analytics, Business, or a related field (or equivalent experience).  </li></ul><p><strong>Experience</strong>:        </p><ul><li>0–2 years of experience with Tableau Desktop (certification is a plus).      </li><li>Basic understanding of data visualization principles and dashboard design.         </li><li>Familiarity with SQL for data querying and manipulation.         </li><li>Exposure to data modelling, ETL processes, or BI tools is a bonus.  </li></ul><p><strong>Technical</strong> <strong>Skills</strong>:        </p><ul><li>Proficiency in Tableau (calculations, parameters, LOD expressions).        </li><li>Basic knowledge of data warehousing concepts.     </li><li>Experience with Excel or other data analysis tools.  </li></ul><p><strong>Soft Skills</strong>:          </p><ul><li>Strong analytical and problem-solving abilities.           </li><li>Good communication skills to collaborate with non-technical teams.          </li><li>Eagerness to learn and adapt in a fast-paced environment.  </li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Tableau",
+      "uuid": "020982e25cf5c16928fcf3c24a2058aa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Usability",
+      "uuid": "16d1034d74164e0d782a4f32f3af3698",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Intelligence",
+      "uuid": "218d34377078030bf9dfdc6fb78b5914",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dashboard",
+      "uuid": "2938c7f7e560ed972f8a4f68e80ff834",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soft Skills",
+      "uuid": "777a598047f83d94505540ab7b46432b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualization",
+      "uuid": "ce09e3d68182639402e8fd2f50368167",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analytics",
+      "uuid": "e19e98a669ae21f94ffd1659998fd072",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Warehousing",
+      "uuid": "e9ef48a7c8104721d7c1a8e767232597",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Visualization",
+      "uuid": "f9537812feb3143e5189f1921693b550",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199707349R",
+    "description": "<p>TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD.</p>\r\n\r\n<p>Software Quality Assurance and Software Testing Services.</p>\r\n",
+    "name": "TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD.",
+    "ssicCode": "82999",
+    "employeeCount": 50,
+    "companyUrl": "www.tescom-apac.com",
+    "lastSyncDate": "2026-02-04T03:21:14.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199707349R/schemes"
+      }
+    },
+    "logoFileName": "e86d19dc7786607f32d88b044ff5e0fb/tescom-software-systems-testing.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e86d19dc7786607f32d88b044ff5e0fb/tescom-software-systems-testing.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "CHURCH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "SAMSUNG HUB",
+    "postalCode": "049483",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28326322317331,
+    "lng": 103.849626546611
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175868",
+    "deletedAt": null,
+    "createdBy": "67a76067-0e76-455d-a998-caf216be65cf",
+    "createdAt": "2026-01-28T08:52:23.000Z",
+    "updatedAt": "2026-01-28T08:52:24.000Z",
+    "emailRecipient": "67a76067-0e76-455d-a998-caf216be65cf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 94,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/business-intelligent-engineer-tescom-software-systems-testing-f6bd04afef16f9513d98d766cd2916aa",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f6bd04afef16f9513d98d766cd2916aa"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f6bd04afef16f9513d98d766cd2916aa/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

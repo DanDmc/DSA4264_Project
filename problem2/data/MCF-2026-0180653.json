@@ -1,0 +1,238 @@
+{
+  "uuid": "7373ca3055ea2c5d5f4118c4316ee36a",
+  "sourceCode": "Employer Portal",
+  "title": "software engineer",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>Design, develop, and maintain scalable backend systems and APIs.</li></ul><ul><li>Build and optimize data pipelines to support real-time and batch processing.</li></ul><ul><li>Ensure system reliability, performance, and security across services.</li></ul><ul><li>Collaborate with product and data teams to deliver robust technical solutions.</li></ul><ul><li>Participate in code reviews, testing, and continuous integration/deployment practices.</li></ul><p><strong>Requirements:</strong></p><ul><li>Strong proficiency in backend programming languages (e.g., Java, Python, Go).</li></ul><ul><li>Experience with API design, microservices architecture, and distributed systems.</li></ul><ul><li>Hands-on experience with big data frameworks (e.g., Spark, Kafka, Hadoop).</li></ul><ul><li>Familiarity with cloud platforms (AWS, GCP, Azure) and containerization (Docker, Kubernetes).</li></ul><ul><li>Solid understanding of database systems (SQL and NoSQL).</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Big Data",
+      "uuid": "3a9c1c8521b12754fc7582be72383e28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microservices",
+      "uuid": "7d488fa9de381b31c51f4e86f62c15ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200907301Z",
+    "description": "<p>Mars Consulting is a rapidly growing provider of Human Capital Solutions &amp; Business Consulting Solutions, offering a wide range of mid to senior resources across multiple functions. We focus on providing resources &amp; headhunting services across specific areas such as Top Management, Enterprise Applications, IT, Sales &amp; Marketing, Finance &amp; Accounting, &amp; Human Resources. Our customers come from verticals including Banking &amp; Finance, IT, Service, Real Estate, Energy, &amp; Healthcare. As a highly customer-focused organization with expertise in managed services, our team consistently delivers exceptional solutions that meet and exceed our clients' expectations.</p>",
+    "name": "MARS CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "marsconsulting.com.sg",
+    "lastSyncDate": "2026-02-04T07:14:38.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200907301Z/schemes"
+      }
+    },
+    "logoFileName": "fe2bc04adf4081b919a3a9cf9c8e610d/mars-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fe2bc04adf4081b919a3a9cf9c8e610d/mars-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6",
+    "street": "RAFFLES BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA SQUARE",
+    "postalCode": "039594",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29102527387961,
+    "lng": 103.857541728669
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180653",
+    "deletedAt": null,
+    "createdBy": "ea51b1be-de63-474b-9ca7-77edad89e9ba",
+    "createdAt": "2026-01-29T04:25:47.000Z",
+    "updatedAt": "2026-01-29T04:25:47.000Z",
+    "emailRecipient": "ea51b1be-de63-474b-9ca7-77edad89e9ba",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 110,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-mars-consulting-7373ca3055ea2c5d5f4118c4316ee36a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7373ca3055ea2c5d5f4118c4316ee36a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7373ca3055ea2c5d5f4118c4316ee36a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

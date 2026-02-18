@@ -1,0 +1,227 @@
+{
+  "uuid": "793b1f219911a1ca6d50ba8f0c7621aa",
+  "sourceCode": "Employer Portal",
+  "title": "Motor Mechanic Technician",
+  "description": "<p>Key Responsibilities:</p>\n<p>• Diagnose and repair motorcycles, including engine, transmission, and suspension systems</p>\n<p>• Perform routine maintenance tasks, such as oil changes and tire replacements</p>\n<p>• Provide accurate estimates for repair costs and timeframes</p>\n<p>• Communicate effectively with customers to understand their needs and concerns</p>\n<p>• Provide exceptional customer service and build lasting relationships with customers</p>\n<p>• Maintain a clean and organized work area</p>\n<p><br></p>\n<p>Requirements:</p>\n<p>• At least 3 years of experience working as a motorcycle mechanic</p>\n<p>• Ability to diagnose and troubleshoot complex mechanical problems</p>\n<p>• Ability to work in a fast-paced environment and handle multiple tasks simultaneously</p>\n<p>• Physical ability to lift and move heavy motorcycle parts and equipment</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Maintenance",
+      "uuid": "10d0de28911c5f66463b9c8783f8148a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "repair work",
+      "uuid": "5d17bd36bc4c445634bbcbdbda401ad2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Motor Vehicle Mechanics",
+      "uuid": "837c1cd264e5bd3e6f3476503e3ad1e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transmission",
+      "uuid": "eb2d9ac048f63b514bd26677c6142d1f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "72310",
+  "occupationId": "OCC061294",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201813494R",
+    "description": null,
+    "name": "FIRSTCARE EMPLOYMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:56:38.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813494R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813494R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813494R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813494R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "53061777C",
+    "description": null,
+    "name": "TUNE IN MOTOR.COM",
+    "ssicCode": "47312",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T03:44:48.000Z",
+    "ssicCode2020": "47312",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53061777C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53061777C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53061777C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53061777C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1016",
+    "street": "YISHUN INDUSTRIAL PARK A",
+    "floor": null,
+    "unit": null,
+    "building": "YISHUN INDUSTRIAL PARK A",
+    "postalCode": "768758",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44131959009802,
+    "lng": 103.833487033799
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165032",
+    "deletedAt": null,
+    "createdBy": "c16033dd-ffc9-4379-a8b9-5549d8633350",
+    "createdAt": "2026-01-27T03:49:10.000Z",
+    "updatedAt": "2026-01-27T03:49:11.000Z",
+    "emailRecipient": "c16033dd-ffc9-4379-a8b9-5549d8633350",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/motor-mechanic-technician-tune-motorcom-793b1f219911a1ca6d50ba8f0c7621aa",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/793b1f219911a1ca6d50ba8f0c7621aa"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/793b1f219911a1ca6d50ba8f0c7621aa/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

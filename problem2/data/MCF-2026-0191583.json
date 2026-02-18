@@ -1,0 +1,209 @@
+{
+  "uuid": "1b60068f9882fd64ecb392fb0ffede60",
+  "sourceCode": "Employer Portal",
+  "title": "Cafe Manager",
+  "description": "<p>We are looking to hire a motivated and team player to join our family as Cafe Supervisor.</p>\n<p><br></p>\n<p>Job scope includes (and is not limited to):</p>\n<p>- in charge of stock take and ordering</p>\n<p>- training of new servers</p>\n<p>- oversee day-to-day cafe operation</p>\n<p>- table service; manage complaints</p>\n<p>- cashiering</p>\n<p>- oversee cleanliness and order of cafe</p>\n<p>- preparation of coffee, other beverages and desserts</p>\n<p><br></p>\n<p>--------</p>\n<p><br></p>\n<p>- Flexible timing, available to work weekends</p>\n<p>- Shift work available</p>\n<p>- Meals provided</p>\n<p>- Cafe is 8 mins walk from Farrer Park MRT, Lavender MRT, Jalan Besar MRT stations.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operation",
+      "uuid": "2a78ed76450c3cb42320882b3e055b31",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "scope",
+      "uuid": "31a1fd140be4bef2d11e121ec9a18a58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "stock take",
+      "uuid": "63384bac9489ddea201033f3c3535385",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Motivated",
+      "uuid": "827b1b3da582cd562ee87a9bfa227d5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adaptability",
+      "uuid": "9b9c820d2859453f8e672a614ff7d501",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Building",
+      "uuid": "bc42c84d156c4f70ff6ba18d466fedeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Training",
+      "uuid": "cf270e40d273f9e7fd7c3061729060c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management",
+      "uuid": "fe4dbcab9b910577e5035e97ac068dae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0516",
+  "postedCompany": {
+    "uen": "201313857W",
+    "description": null,
+    "name": "HERO HOLDINGS PTE. LTD.",
+    "ssicCode": "56112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T11:38:34.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313857W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313857W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313857W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313857W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191583",
+    "deletedAt": null,
+    "createdBy": "aaf6368f-2d08-43cf-9659-3dfc9fe2266b",
+    "createdAt": "2026-01-30T11:39:37.000Z",
+    "updatedAt": "2026-01-30T11:39:37.000Z",
+    "emailRecipient": "aaf6368f-2d08-43cf-9659-3dfc9fe2266b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cafe-manager-hero-holdings-1b60068f9882fd64ecb392fb0ffede60",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1b60068f9882fd64ecb392fb0ffede60"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1b60068f9882fd64ecb392fb0ffede60/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

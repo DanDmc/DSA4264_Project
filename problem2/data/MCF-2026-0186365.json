@@ -1,0 +1,198 @@
+{
+  "uuid": "403100a66f98840a578fde20edfd9615",
+  "sourceCode": "Employer Portal",
+  "title": "Care Aide @ Upper Thomson",
+  "description": "<p>The Care Aide will assist and support the training officers/staff including but not limited to:<br /></p><ul><li>Supporting the work done by the training officers/staff</li><li>Food preparation and feeding of clients</li><li>Assisting clients to walk to toilets, cleaning up and changing diapers for clients as and when necessary</li><li>Assisting in running groups, sessions, outings</li><li>Assisting staff to supervise clients (during meals or activity time)</li></ul><p>As an independent service provider, there will be no other employee benefits like leave, medical insurance or performance bonus)</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "coordinate and communicate effectively",
+      "uuid": "0ba0fe44f9df59a47839f8997ae75f30",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamwork",
+      "uuid": "16c129bc8a57941c7cdb12241f1058fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Empathy",
+      "uuid": "34d8802feb648a414c3cfe0c348e4d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Open Minded",
+      "uuid": "36c65ced72d8a71637b32ba344103fb0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Services",
+      "uuid": "4f20b99cd1a83a132e2765e8d3340389",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Caregiving",
+      "uuid": "5d888ea19036f8dde3649548e95f2d50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assist team",
+      "uuid": "62daf44ac1390b83e14e1f0f895c1d99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "managing clients",
+      "uuid": "7b5f7db3cf22b962f1ea52380b783a7e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Friendly Personality",
+      "uuid": "bf0ecf7da8b7d88a0f783d5173be608c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34122",
+  "occupationId": "OCC059878",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 38,
+      "category": "Social Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "S93SS0060K",
+    "description": "<p>SUN-DAC is a non-profit social service agency affiliated with the National Council of Social Service. It serves and cares for persons with disabilities in 3 Day Activities Centres (Upper Thomson, Choa Chua Kang &amp; Bedok South). Most of our clients are persons with moderate to severe disabilities.<br>\n<br>\nSUN-DAC mission is to help people with disabilities to live each day positively with tailored programmes of constructive activities. It also provides respite for parents and caregivers of people with disability through support and assistance services.</p>",
+    "name": "SUN-DAC",
+    "ssicCode": "87029",
+    "employeeCount": 60,
+    "companyUrl": "https://www.sundac.org/",
+    "lastSyncDate": "2026-02-03T06:26:07.000Z",
+    "ssicCode2020": "00000",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S93SS0060K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S93SS0060K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S93SS0060K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S93SS0060K/schemes"
+      }
+    },
+    "logoFileName": "55654070ebd24ae1904a31394d0f3394/sun-dac.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/55654070ebd24ae1904a31394d0f3394/sun-dac.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "600",
+    "street": "UPPER THOMSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "UPPER THOMSON COMMUNITY HUB",
+    "postalCode": "574421",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37550156413588,
+    "lng": 103.829112311287
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186365",
+    "deletedAt": null,
+    "createdBy": "9c4e8dce-6ecd-4621-97bd-f92300164cca",
+    "createdAt": "2026-01-30T02:10:52.000Z",
+    "updatedAt": "2026-01-30T02:10:52.000Z",
+    "emailRecipient": "9c4e8dce-6ecd-4621-97bd-f92300164cca",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 75,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/social-services/care-aide-upper-thomson-sun-dac-403100a66f98840a578fde20edfd9615",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2000,
+    "minimum": 1960,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/403100a66f98840a578fde20edfd9615"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/403100a66f98840a578fde20edfd9615/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

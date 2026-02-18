@@ -1,0 +1,235 @@
+{
+  "uuid": "a54baad3ee9243c76445f3f4a49a04fc",
+  "sourceCode": "Employer Portal",
+  "title": "Retail Sales Executive",
+  "description": "<ul><li>Attractive basic salary + allowances + high commission</li><li>Retail Environment</li><li>Possess good interpersonal and communication skills</li><li>Prepared to work in a reputable international premium brand</li><li>Positive disposition with strong passion working in retail industry</li><li>Must be proactive , positive working attitude and stay alert</li><li>Highly self-motivated, energetic with pleasant personality</li><li>Pleasant personality with excellent communication skills</li><li>Experience in retail sales is an added advantage</li><li>Able to communicate effectively in English</li><li>Fresh graduates will also be considered</li><li>Aggressive and target oriented</li><li>Work on weekends and public holidays</li><li>Comprehensive training will be provided</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Retail",
+      "uuid": "053e0bc8b9627b28e2ed8029a34b35bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Account Management",
+      "uuid": "09f0c5159c5e34504e453eff3fc70324",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "energetic",
+      "uuid": "22b4119971b1a4fa40ee3620bb7defbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "autonomous",
+      "uuid": "272e0d38ac308d0249f6841532c99ae3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "retail environment",
+      "uuid": "476e8309e49ac8583df68d3179506490",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing Strategy",
+      "uuid": "51ac36774e76e2d980c7aaa5491ab817",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Management",
+      "uuid": "5570b1274928746e87170e404f4553a1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "proactive",
+      "uuid": "649fad33d5dfe9bc2db640f8d09bb099",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "allowance",
+      "uuid": "6508daf87f38ab1c1686989f9051215e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "New Business Development",
+      "uuid": "b0663aff7f5d34d384fa0010772717c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salary",
+      "uuid": "b083a446a3588547410dbd6c571c2a09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Industry",
+      "uuid": "e16dee300ab3a2867a329b62c3ef29db",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management",
+      "uuid": "fe4dbcab9b910577e5035e97ac068dae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52202",
+  "occupationId": "OCC007006",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "0599",
+  "postedCompany": {
+    "uen": "201508796N",
+    "description": "<p>We strive to bring quality and purposeful products to cater for the Singaporean household. It is not about just having something that looks nice and of good quality, but it must actually work well. &nbsp;We embrace the idea that technology has progressed and should serve its purpose of making life easier. We are focused on household appliances as that means our target market is basically every household in Singapore. We are the exclusive distributor for global brands such as Laurastar, Blueair, Bluewater, Dyson Airblade, Hizero and Dafni.</p>",
+    "name": "VISO PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": 20,
+    "companyUrl": "www.viso.com.sg",
+    "lastSyncDate": "2026-02-04T04:44:32.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201508796N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201508796N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201508796N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201508796N/schemes"
+      }
+    },
+    "logoFileName": "d197c6b42d4978638426987cf1d90d81/VISO PTE. LTD..jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/d197c6b42d4978638426987cf1d90d81/VISO%20PTE.%20LTD..jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176087",
+    "deletedAt": null,
+    "createdBy": "62976c64-eccd-4be1-8c67-b8131dc1d891",
+    "createdAt": "2026-01-28T09:07:00.000Z",
+    "updatedAt": "2026-01-28T09:07:00.000Z",
+    "emailRecipient": "62976c64-eccd-4be1-8c67-b8131dc1d891",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 54,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/retail-sales-executive-viso-a54baad3ee9243c76445f3f4a49a04fc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a54baad3ee9243c76445f3f4a49a04fc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a54baad3ee9243c76445f3f4a49a04fc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

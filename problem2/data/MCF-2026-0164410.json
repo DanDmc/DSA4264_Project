@@ -1,0 +1,198 @@
+{
+  "uuid": "dc01cc574f049a28f5bf9c0a943618e3",
+  "sourceCode": "Employer Portal",
+  "title": "Sou Chef / Junior Sou Chef",
+  "description": "<p>Location : Orchard Central Region</p><p>Work type : Full-time</p><p>Pay range : SGD 3,500 – SGD 4,000</p><p>We are seeking an experienced and talented Sou Chef/Junior Sou Chef to join our vibrant team at KSS Solutions Services Pte Ltd in the Orchard Central Region. You will be responsible for overseeing the kitchen operations, ensuring the highest standards of food quality and customer service. Prior experience in Putian Chinese Cuisine a plus.<br /></p><p><br /><u><em><strong>Responsibilities</strong></em></u></p><p>Manage and coordinate kitchen staff to ensure efficient and timely meal preparation</p><p>Develop and refine menu items, ensuring they are fresh, creative and aligned with the restaurant's culinary vision</p><p>Maintain strict food safety and hygiene standards throughout the kitchen</p><p>Monitor inventory levels and liaise with suppliers to order necessary ingredients</p><p>Provide guidance, training and mentorship to junior kitchen staff</p><p>Collaborate with the management team to identify opportunities for process improvements and cost savings</p><p><br /><u><em><strong>What we're looking for</strong></em></u></p><p>Minimum 3-5 years of experience as a Sou Chef/Junior Sou Chef in a high-volume restaurant.</p><p>Formal culinary training and/or certification, with a strong understanding of food preparation techniques and flavour profiles</p><p>Excellent time management and organisational skills, with the ability to multi-task and work well under pressure</p><p>Strong leadership and mentorship skills, with the ability to motivate and develop a team</p><p>A keen eye for detail and a commitment to maintaining the highest standards of food quality and presentation</p><p>Excellent communication and interpersonal skills, with the ability to work collaboratively with the broader team</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Restaurants",
+      "uuid": "386c1f850fbd5f478fb4ef8a134c1740",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mentorship",
+      "uuid": "8b3c953573310534b9f4c36305cf90c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202125686E",
+    "description": null,
+    "name": "KSS SOLUTIONS SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T01:19:40.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125686E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125686E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125686E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125686E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "14",
+    "street": "SCOTTS ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "FAR EAST PLAZA",
+    "postalCode": "228213",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30717698071191,
+    "lng": 103.833792932243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164410",
+    "deletedAt": null,
+    "createdBy": "79863814-7ba6-4908-ba8e-03b9e8cc2ea8",
+    "createdAt": "2026-01-27T02:57:25.000Z",
+    "updatedAt": "2026-01-27T02:57:24.000Z",
+    "emailRecipient": "79863814-7ba6-4908-ba8e-03b9e8cc2ea8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 47,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sou-chef-junior-sou-chef-kss-solutions-services-dc01cc574f049a28f5bf9c0a943618e3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dc01cc574f049a28f5bf9c0a943618e3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dc01cc574f049a28f5bf9c0a943618e3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

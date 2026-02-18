@@ -1,0 +1,214 @@
+{
+  "uuid": "7d81c85c07af3dc28608b3b701900a70",
+  "sourceCode": "Employer Portal",
+  "title": "Cost Analyst (Manufacturing)",
+  "description": "<p>This role leads cost analysis within a manufacturing environment, focusing on COGS, production costs, and inventory valuation. The analyst will partner closely with Production and Procurement to drive cost transparency, control, and improvement.</p><p><strong>Key Responsibilities</strong></p><ul><li><p><strong>Cost Accounting & Variance Review</strong><br />Analyze monthly actual vs. standard costs, investigate material/labor/overhead variances, and provide clear insights with recommended actions.</p></li><li><p><strong>Production Cost & Performance Analysis</strong><br />Assess material usage, labor efficiency, machine utilization, and overhead absorption. Track manufacturing KPIs and highlight cost drivers affecting gross profit.</p></li><li><p><strong>Inventory Valuation & Standard Costing</strong><br />Ensure accurate inventory valuation, proper COGS flow, and effective management of manufacturing variances. Support regular standard cost reviews.</p></li><li><p><strong>Budgeting, Forecasting & Decision Support</strong><br />Provide cost assumptions, GP projections, and analysis for budgets, forecasts, CapEx, and cost‑benefit studies. Identify opportunities to optimize cost and margin.</p></li><li><p><strong>Process & System Improvements</strong><br />Strengthen ERP costing processes, improve BOM and cost accuracy, and drive continuous improvement in costing methodologies and reporting.</p></li></ul><p><strong>Qualifications</strong></p><ul><li>Bachelor’s in Accounting/Finance/Economics</li><li>3–5 years of cost or management accounting experience in manufacturing industry</li><li>Solid understanding of COGS, manufacturing processes, and margin drivers</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Accounting",
+      "uuid": "147373ac7e1de7d886ef7c89f0968fee",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cost Management",
+      "uuid": "4e0c7fb2fac186d1b3b5afd0fe2c278a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "uuid": "5622ca1c7df0a0744d6e884ea12e1e66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Variance Analysis",
+      "uuid": "73bea97d1715700f102e73fd650314de",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Accounting",
+      "uuid": "a51ba4cfcdc3038d5f11cae6ca7b7243",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Financial Analysis",
+      "uuid": "b8cd16e5a194c7fed6989a0a991a52f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24111",
+  "occupationId": "OCC004160",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201115450H",
+    "description": "<p>Evolution Recruitment Solutions are an award winning, specialist IT and Digital recruitment consultancy with offices in Singapore, Sydney, UK, Germany and US. Formed in 2000 we have helped thousands of IT and Digital professionals secure their next Permanent, Contract or Interim position with companies ranging from SME to multinationals. Our professional and quality driven approach has led to Evolution being regularly recommended to others. &nbsp;</p>\n<p>Evolution have received a number of awards in recognition of the outstanding training, development and support we provide to our consultants which in turn results in a higher level of service for both applicants and clients: &nbsp;&nbsp;</p>\n<p><br></p>\n<p>Investors In People - Gold &nbsp;</p>\n<p>2nd place The Sunday Times - 100 Best Small Companies to work for&nbsp;</p>\n<p>Best Companies - 3 Stars for Extraordinary Workforce Engagement &nbsp;</p>\n<p>Jobsite 'Best Industry Knowledge'​ Award &nbsp;</p>\n<p>Global Recruiter Asia Pacific Awards: &nbsp;</p>\n<p>- Best in-house training - Best Newcomer&nbsp;</p>\n<p>- APSCo Asia Member of the Year&nbsp;</p>\n<p>- Best Specialist Recruitment Business &nbsp;</p>\n<p>- Best Small Recruitment Business</p>",
+    "name": "EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.",
+    "ssicCode": "70204",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:38:48.000Z",
+    "ssicCode2020": "70204",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201115450H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201115450H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201115450H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201115450H/schemes"
+      }
+    },
+    "logoFileName": "b0901267bca1de47a651a3f82b0ff7ed/evolution-recruitment-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b0901267bca1de47a651a3f82b0ff7ed/evolution-recruitment-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "16",
+    "street": "RAFFLES QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "HONG LEONG BUILDING",
+    "postalCode": "048581",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28136359915759,
+    "lng": 103.850914468583
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164154",
+    "deletedAt": null,
+    "createdBy": "5ce698cd-d81f-4971-b8da-19deab067458",
+    "createdAt": "2026-01-27T02:38:14.000Z",
+    "updatedAt": "2026-01-27T02:38:15.000Z",
+    "emailRecipient": "5ce698cd-d81f-4971-b8da-19deab067458",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 86,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-17",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/cost-analyst-evolution-recruitment-solutions-7d81c85c07af3dc28608b3b701900a70",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7d81c85c07af3dc28608b3b701900a70"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7d81c85c07af3dc28608b3b701900a70/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

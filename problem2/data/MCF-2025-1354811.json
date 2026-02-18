@@ -1,0 +1,233 @@
+{
+  "uuid": "89bbeccd293766a5fc997144764035a5",
+  "sourceCode": "Employer Portal",
+  "title": "Chef",
+  "description": "<p>Employment Type: Full-Time</p>\n<p>Location: [Insert Restaurant Name / Location]</p>\n<p>Eligibility: Only Singapore Citizens / PR need apply</p>\n<p>Roles &amp; Responsibilities</p>\n<p>1. Prepare and cook menu items according to restaurant standards and recipes.</p>\n<p>2. Ensure food presentation and quality meet company expectations.</p>\n<p>3. Maintain cleanliness and hygiene of kitchen and cooking equipment.</p>\n<p>4. Assist in food preparation, portioning, and storage.</p>\n<p>5. Monitor food inventory and notify supervisor for replenishment.</p>\n<p>6. Comply with food safety and hygiene regulations at all times.</p>\n<p>7. Work with the team to ensure smooth kitchen operations.</p>\n<p><br></p>\n<p>Requirements</p>\n<p>1. Singaporean / PR only.</p>\n<p>2. At least 1–2 years of cooking experience in a restaurant / café environment preferred.</p>\n<p>3. Knowledge of food hygiene and safety practices.</p>\n<p>4. Ability to work in a fast-paced environment.</p>\n<p>5. Team player with initiative and responsibility.</p>\n<p>6. Willing to work shifts, weekends, and public holidays.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Culinary Skills",
+      "uuid": "de9730b19b980c74412a3a5abead9c30",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    },
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    },
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC014739",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "82",
+  "ssecFos": "1323",
+  "postedCompany": {
+    "uen": "201830567M",
+    "description": null,
+    "name": "CHONG PANG OLD-TIME FLAVOR PTE. LTD.",
+    "ssicCode": "47213",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T07:48:32.000Z",
+    "ssicCode2020": "47213",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201830567M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201830567M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201830567M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201830567M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "UPPER WELD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "LITTLE INDIA CONSERVATION AREA",
+    "postalCode": "207377",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30550650835811,
+    "lng": 103.854635841759
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1354811",
+    "deletedAt": "2025-10-09T17:15:04.000Z",
+    "createdBy": "a607ac2a-3b51-4e18-bb6d-a2b42c5efac8",
+    "createdAt": "2025-09-09T03:49:49.000Z",
+    "updatedAt": "2026-01-30T07:51:51.000Z",
+    "emailRecipient": "a607ac2a-3b51-4e18-bb6d-a2b42c5efac8",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-09-09",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-chong-pang-old-time-flavor-89bbeccd293766a5fc997144764035a5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/89bbeccd293766a5fc997144764035a5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/89bbeccd293766a5fc997144764035a5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

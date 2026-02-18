@@ -1,0 +1,227 @@
+{
+  "uuid": "d4f99defbb3feca2089e60e91d0a0b9b",
+  "sourceCode": "Employer Portal",
+  "title": "HR Business Operation - Interface Ops",
+  "description": "<p><strong>Job Description:</strong></p><ul><li>The Supplier shall manage all daily system integrations between other systems and e-HR and ensure data integrations are successful.</li><li>Track activities run concurrently on daily basis and each track needs to work with multiple parties including Subject Matter Expert, middleware, the interfacing counter-part and other suppliers, to ensure end-to-end operability of the interfaces.</li><li>The Supplier shall manage all incoming and outgoing system interfaces from OSIT/WOG systems. This includes external interfaces, external projects, eServices, and applications from MINDEF/SAF on Internet portals and Commercial Cloud.</li><li>The Supplier shall provide daily operations support in terms of batch job monitoring and error resolution.</li><li>The Supplier shall provide inputs for the development and deployment of CRs related to interfaces, such as during requirements gathering and UAT.</li><li>The Supplier shall profile and analyse data for issues and discrepancies using software tools (such as Microsoft office tools, SAP programs/queries or SQL provided by Authority) when required.</li><li>The Supplier shall provide analysis and consultation services to OSIT/WOG systems to address operational issues and advise on resolutions to data-related issues.</li><li>The Supplier shall coordinate with the data owner, for HR data where man-in-the-loop decision is required.</li><li>The Supplier shall monitor error logs and ensure timely resolution of interface errors.</li><li>The Supplier shall coordinate and perform secretariat role for meetings with different stakeholders and internal meetings. The Supplier shall generate reports to management, various forums and prepare slides for presentations during meetings when required.</li><li>The Supplier shall maintain project resource assignments, track status and initiate appropriate actions in response to deviations from plan to keep the project on-track.</li><li>The Supplier shall perform data uploads for manual data transfers where required by Authority.</li><li>The Supplier shall review, propose and update changes to the documentation where necessary.</li></ul><p>Examples of documentation are:</p><ol><li>SOPs</li><li>Approval documents from Authority such as uploading and downloading of files</li><li>Data Catalogue</li></ol><p><strong>Requirements:</strong></p><p>Education Qualification:</p><ul><li>At least a Diploma/Degree in Computer Science, Information System, Science, Engineering or Equivalent.</li></ul><p>Required Competencies:</p><ul><li>Good knowledge of information technology, especially in the areas of SAP HCM ERP or HCM SaaS.</li><li>Good understanding of the data design in SAP HCM ERP or HCM SaaS.</li><li>Demonstrated competency in investigating and identifying causes of issues, and able to propose solutions to rectify the issue.</li><li>Proficiency in SQL programming is preferred.</li><li>Competent in applying Microsoft Excel functions.</li><li>Good planning and coordination skills.</li><li>Strong writing, verbal communication and presentation skills.</li><li>Good team player, responsible and conscientious.</li><li>Resourceful, independent, responsive and pro-active.</li></ul><p>Required Working Experience:</p><ul><li>At least 2 years of working experience in information technology.</li><li>Experience in SAP HCM ERP is preferred.</li><li>Experience in operation support including end user support, troubleshooting and testing is preferred.</li><li>SQL working experience and competent in SQL Programming is preferred.</li><li>Experience in MINDEF/SAF HR projects is preferred.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ERP",
+      "uuid": "5202bfaff162a71345cc0f3dde1940a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HR Operations",
+      "uuid": "59189c14a20d2aa5f10ea6574b883674",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SaaS",
+      "uuid": "b0ca9e41d61885345eef09f928c9ea58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presentation Skills",
+      "uuid": "c2a974ed87a951bb16ce092a5ea5071f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP HR",
+      "uuid": "ca40c2a3b188d9e8615628075a352cce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200600706G",
+    "description": "<p>KRIS INFOTECH PTE. LTD.</p>    <p>We partner with the IT industry providing comprehensive short and long-term technology & staffing solutions. We offer different options, to enable clients to optimize their human resources and at the same time reduce the risk and total cost of ownership. </p>    <p>Under our <em>Professional Services </em>, we serve our client's manpower needs by providing smooth talent pipeline with flexible partnering options.</p>    <p>We have been very successful in reducing ownership costs and recruitment turnaround time for our clients.  </p>    <ul>   <li>Our offerings are tailored around the identified domain, allowing us the ease to service our clients with domain experts.</li>   <li>We primary source talents from Singapore, Malaysia, Philippines, Thailand, Australia, Hong Kong and Japan</li>   <li>We have been supporting our clients regionally for business languages other than English viz. Mandarin, Thai, Japanese.</li>  </ul>    <p> </p>    <p><strong>Our IT Professional Services include:</strong></p>    <p>ü  Agency Contract</p>    <p>ü  Contingency Search</p>    <p>ü  Retained Search</p>    <p> </p>    <p><strong>Our Value-Added Services include:</strong></p>    <p>-       Managed Payroll Services</p>    <p>-       Re-batching & Vendor Consolidation</p>    <p>-       Recruitment Process Outsourcing (RPO)</p>    <p> </p>    <p><strong>Our Focus: Technology Stack </strong></p>    <ul>   <li>ERP and CRM</li>   <li>Datawarehousing</li>   <li>Mobile and Web</li>   <li>Microsoft (.Net & Sharepoint)</li>   <li>Midrange (AS/400)</li>   <li>Infra (Networking, Sys Admin, DBAs, Storage, Telephony)</li>   <li>Subject Matter Expert, Project Managers and Business Analyst</li>  </ul>    <p> </p>    <p>Under our <em>Technology Services brand</em> – we specialize in IT Systems Integration encompassing the wide expanse of software, hardware and network technologies to enable businesses.</p>    <p>By combining best of breed solutions, cutting edge technologies and our proven processes, we aim to enhance your business productivity.</p>    <p>With time, we have invested in and collaborated with few specific Technology companies in the region to enhance our Technology Services.</p>    <p>We are very pleased bring to you the following FOUR service offerings:</p>    <p> </p>    <p>ü  <strong>Big Data Consulting</strong></p>    <p>ü  <strong>SAP Development Services</strong></p>    <p>ü  <strong>Oracle E-Business Suite Services</strong></p>    <p>ü  <strong>GRC Consulting</strong></p>    <p> </p>  ",
+    "name": "KRIS INFOTECH PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:06:45.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176259",
+    "deletedAt": null,
+    "createdBy": "1dac805c-e26c-422d-8da7-df8e6c8a4b60",
+    "createdAt": "2026-01-28T09:17:24.000Z",
+    "updatedAt": "2026-01-28T09:17:24.000Z",
+    "emailRecipient": "1dac805c-e26c-422d-8da7-df8e6c8a4b60",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 86,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/hr-business-operation-interface-ops-kris-infotech-d4f99defbb3feca2089e60e91d0a0b9b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d4f99defbb3feca2089e60e91d0a0b9b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d4f99defbb3feca2089e60e91d0a0b9b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

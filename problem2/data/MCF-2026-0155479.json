@@ -1,0 +1,226 @@
+{
+  "uuid": "5b65edf1694b1c5b7e0412fe608b9fde",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Software Engineer, Corporate IT",
+  "description": "<h2><strong>About the team</strong></h2><p>Corporate IT drives many functions within Airwallex, including IT Support, IT Engineering, Corporate Networks, and Business Engineering at Airwallex. IT Engineering is the core team that drives our technology experiences from collaboration and automation, AI to hardware, applications, identity and access management. We design, build and run the systems and services our Airwallex team uses to build our product, serve our customers and run our business. We partner with every team in the business and solve some of the most difficult problems for our business, all at lightning speed.</p><h2><strong>What you’ll do</strong></h2><p>You will be part of a team working on new product features, and solving difficult problems for our business across our internal IT systems and finance systems with the goal of dramatically improving operational efficiency. You’ll work across our product and our internal teams to build features in our product, focusing on our procurement and ERP functions. This will include integrations with ERP systems, our Airwallex product, and integrations to and from the Airwallex Platform. You’ll also work on new AI projects within the IT engineering incubator, where we’re building systems, agents and platforms for our business and employees to build their AI projects and services on – with a laser focus on solving real problems and demonstrating success. This will appeal to you if you’re excited to work on many things across multiple areas, with a lot of opportunity to build from zero.</p><p>This role can be based in Singapore, Sydney or Melbourne.</p><h2><strong>Who you are</strong></h2><p>We're looking for people who meet the minimum qualifications for this role. The preferred qualifications are great to have, but are not mandatory.</p><h3><strong>Minimum qualifications:</strong></h3><ul><li><p>5+ years experience in modern engineering practices focused on continuous integration/delivery and quality engineering</p></li><li><p>A commitment to producing high quality and well tested solutions</p></li><li><p>Strong computer science fundamentals/JVM based programming. While we do not mind what language you have most recently been using, we are using Kotlin</p></li><li><p>Systems design experience in complex integration environments</p></li><li><p>Experience in API design best practices</p></li><li><p>Familiar with HTTP, TCP / IP protocol and REST specifications</p></li><li><p>Mastery of Gradle / Maven or other build tools</p></li><li><p>Experience with AI tools and services (Copilot, Claude Code, Cursor, etc.)</p></li><li><p>Familiar with the use of common container environments (Docker, Rancher, etc.) / Kubernetes</p></li><li><p>Strong understanding of cloud infrastructure and development practices (i.e. Github, Gitlab, etc.)</p></li></ul><h3><strong>Preferred qualifications:</strong></h3><ul><li><p>Experience in Kotlin / Scala;</p></li><li><p>Asynchronous ‘reactive’ programming (RxJava, Akka, Spring Reactor, Vert.x);</p></li><li><p>Kafka event streams;</p></li><li><p>GCP, Alicloud or AWS (EC2, RDS, ELB, CloudFront, etc) and Kubernetes exposure;</p></li><li><p>Operational tooling such as Splunk, New Relic, StatsD, Elk, Datadog, Prometheus;</p></li><li><p>Experience with procurement systems and development, either features or integrations (i.e. Oracle Fusion, Oracle EBS, SAP ERP, etc.) ;</p></li><li><p>Experience with low-code platform or no-code platform;</p></li><li><p>Finance or accounting knowledge would be a plus</p></li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Akka",
+      "uuid": "1565c979ff6d5255fd3c81f57219fffc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kotlin",
+      "uuid": "539a3a5859d24fb7b129e74d61f09ffa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Protocol",
+      "uuid": "888a77f5ac0748b6c8001822417df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Maven",
+      "uuid": "9115c10980645c41313f244ac1a377f7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IP",
+      "uuid": "a12a3079e14ced46e69ba52b8a90b21a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP ERP",
+      "uuid": "b13389e54f5e8ed70d8d654cfebc7db1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TCP",
+      "uuid": "b136ef5f6a01d816991fe3cf7a6ac763",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155479",
+    "deletedAt": null,
+    "createdBy": "905be453-9e39-41ba-9068-6bf493302a1f",
+    "createdAt": "2026-01-26T02:06:49.000Z",
+    "updatedAt": "2026-01-26T02:06:50.000Z",
+    "emailRecipient": "905be453-9e39-41ba-9068-6bf493302a1f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 122,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-software-engineer-corporate-airwallex-5b65edf1694b1c5b7e0412fe608b9fde",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 23999,
+    "minimum": 11999,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5b65edf1694b1c5b7e0412fe608b9fde"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5b65edf1694b1c5b7e0412fe608b9fde/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

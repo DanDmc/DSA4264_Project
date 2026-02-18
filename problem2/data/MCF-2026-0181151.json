@@ -1,0 +1,223 @@
+{
+  "uuid": "5dc97f0a60b2373c3eabde0e0bd4e3f5",
+  "sourceCode": "Employer Portal",
+  "title": "Bus Driver",
+  "description": "<p>Hiring Local / PR drivers with class 4 and Vocational Licence</p><p>Parking available at Bulim, Marsiling, Sembawang, Yishun, Seletar Farmway, Braddell Road, Hougang ave 7/ Tampines road</p><p>40-49 seater manual / auto</p><p>workers trip</p><p>must maintain bus cleaniness and puntuality</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Charter",
+      "uuid": "11347b3d404f701a75282a7993e0dda4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weather",
+      "uuid": "1441df6b1c10f910ccdc400e40b5fce9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lighting",
+      "uuid": "2e4b97fde8cf63085ec969fcc7e490c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Prevention",
+      "uuid": "c53b76cb09d84442ddd9d86d81959436",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83311",
+  "occupationId": "OCC013104",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201010850C",
+    "description": "<p>At Hui Leong Bus we have been delivering superior service and experiences to our clients for 32 years and counting.</p>\n<p>Established in 1994, we are a family owned and operated organisation that has experienced significant growth since our humble beginnings of 5 buses operated from a HDB. The past 20+ years has seen the organisation evolve to encompass a wide range of transport solutions and experiences throughout the Singapore. We have been consistently improving ourselves in the areas of innovation and sustainability.</p>\n<p>Today our office cum workshop is conveniently located at woodlands to provide immediate and emergency transport repairs to our fleet of buses.</p>\n<p>We take pride in moving people and connecting communities. Our company is also strongly immersed in the education sectors with our extensive offerings in transport services.</p>\n<p>We do it all, and most importantly we offer complete, personalised transport solutions tailored to your needs so that you have peace of mind and benefit from every level of interaction with Hui Leong Bus</p>\n<p>We love what we do and pour that passion into delivering dependable, professional and memorable experiences for each of our valued customers</p>",
+    "name": "HUI LEONG TRANSPORT (2010) PTE. LTD.",
+    "ssicCode": "49212",
+    "employeeCount": 60,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:08:08.000Z",
+    "ssicCode2020": "49212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010850C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010850C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010850C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201010850C/schemes"
+      }
+    },
+    "logoFileName": "59f23daec4131cd3ce8f8f078914767c/hui-leong-transport.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/59f23daec4131cd3ce8f8f078914767c/hui-leong-transport.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181151",
+    "deletedAt": null,
+    "createdBy": "7874eef4-23cf-4be6-b23e-e17cc23f5f78",
+    "createdAt": "2026-01-29T06:01:46.000Z",
+    "updatedAt": "2026-01-29T06:01:46.000Z",
+    "emailRecipient": "7874eef4-23cf-4be6-b23e-e17cc23f5f78",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 103,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/bus-driver-hui-leong-transport-5dc97f0a60b2373c3eabde0e0bd4e3f5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5dc97f0a60b2373c3eabde0e0bd4e3f5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5dc97f0a60b2373c3eabde0e0bd4e3f5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

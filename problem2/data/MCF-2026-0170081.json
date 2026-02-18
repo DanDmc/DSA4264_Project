@@ -1,0 +1,232 @@
+{
+  "uuid": "0a9a54a5f7a543a5f09999e172bc381b",
+  "sourceCode": "Employer Portal",
+  "title": "SUPERVISOR AND GENERAL FOREMAN (M&E) (AIR-CONDITIONING)",
+  "description": "<p>Review electrical engineering drawings and refer issues requiring changes.</p><p>Assign job tasks and work as per electrical project schedules.</p><p>Review all electrical drawings with Leadmen performing on assigned jobs to them.</p><p>Stimulate fabrication standards to ensure quality work attained from assigned staff.</p><p>Recruit, guide, train, monitor and terminate assigned employees as required.</p><p>Recommend effective solutions specified particular weight related to employment status of employees.</p><p>Schedule, assign, plan and supervise electrical shop personnel performance on different electrical projects.</p><p>Plan and prepare work and equipment usage schedule</p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Lead",
+      "uuid": "1adf03b9036155937b8e3deeecf27bd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Drawing",
+      "uuid": "1f8f5168f6af8c32df45f0c2144748dc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical report",
+      "uuid": "732654c82b28ab0649a5e4ef81e001d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "technical input",
+      "uuid": "7e374ef73671121248c653f2e9272dd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "technical files",
+      "uuid": "8d08367cbb4c060bb1847225627a7877",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Review",
+      "uuid": "e2b4546c1d9684f3bcdc250916bc8655",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "technical coding",
+      "uuid": "e31922d1d63ae436275cd7e8ee5c0d1a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "technical issues",
+      "uuid": "e88e27ece51e10f8ff30a5b3569d9c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "74002",
+  "occupationId": "OCC062135",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53393511C",
+    "description": null,
+    "name": "VVV EMPLOYMENT AGENCY",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T13:22:58.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201836239K",
+    "description": null,
+    "name": "SRS BUILDING SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T16:32:38.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201836239K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201836239K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201836239K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201836239K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "TOH GUAN ROAD EAST",
+    "floor": null,
+    "unit": null,
+    "building": "TOH GUAN CENTRE",
+    "postalCode": "608609",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33764519913571,
+    "lng": 103.754683157475
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170081",
+    "deletedAt": null,
+    "createdBy": "c6425835-8977-4545-9a65-0fdc42c11750",
+    "createdAt": "2026-01-27T16:33:24.000Z",
+    "updatedAt": "2026-01-27T16:33:25.000Z",
+    "emailRecipient": "c6425835-8977-4545-9a65-0fdc42c11750",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 16,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/supervisor-general-foreman-srs-building-services-0a9a54a5f7a543a5f09999e172bc381b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 2700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0a9a54a5f7a543a5f09999e172bc381b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0a9a54a5f7a543a5f09999e172bc381b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

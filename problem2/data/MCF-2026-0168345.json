@@ -1,0 +1,212 @@
+{
+  "uuid": "51cbfaed7c353e9ea0d328bf0e84ef39",
+  "sourceCode": "Employer Portal",
+  "title": "Administrative Assistant",
+  "description": "<ul>\n  <li>Managing schedules, appointments, and meetings for supervisors or managers, ensuring smooth daily operations.</li>\n  <li>Responsible for answering phones, responding to emails, and directing inquiries to the appropriate person or department.</li>\n  <li>Maintaining filing systems, organizing and updating records to ensure easy access and retrieval of information.</li>\n  <li>Performing various administrative tasks such as data entry, expense reporting, and ordering office supplies.</li>\n  <li>Acting as a point of contact for employees, clients, vendors, and other external parties to maintain positive relationships.</li>\n  <li>Assisting with the coordination and execution of events and projects, providing support to various team members and departments.</li>\n  <li>Ensuring the office remains clean, organized, and presentable for both employees and visitors.</li>\n  <li>Continuously improving administrative processes and procedures to enhance efficiency and productivity within the office.</li>\n</ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "200204215G",
+    "description": "<p>星 &nbsp;華 &nbsp;企 &nbsp;业 &nbsp;私 &nbsp;人 &nbsp;有 &nbsp;限 &nbsp;公 &nbsp;司</p>\n<p>SING WAH ENTERPRISE PTE. LTD.</p>\n<p>Company UEN &amp; GST Number : 200204215G</p>\n<p>Tel : 62421393 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fax : 62423793</p>",
+    "name": "SING WAH ENTERPRISE PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": 165,
+    "companyUrl": "singwah.com",
+    "lastSyncDate": "2026-01-27T09:13:47.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200204215G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200204215G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200204215G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200204215G/schemes"
+      }
+    },
+    "logoFileName": "8202418fd55c510b25a542306c3d7eef/sing-wah-enterprise.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8202418fd55c510b25a542306c3d7eef/sing-wah-enterprise.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "NEW INDUSTRIAL ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "LHK 3",
+    "postalCode": "536200",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.34171604345464,
+    "lng": 103.88552351518
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168345",
+    "deletedAt": null,
+    "createdBy": "44bf3b4b-6e79-4677-b376-72b540c21c82",
+    "createdAt": "2026-01-27T09:41:11.000Z",
+    "updatedAt": "2026-01-27T09:41:12.000Z",
+    "emailRecipient": "44bf3b4b-6e79-4677-b376-72b540c21c82",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 395,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 53,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/administrative-assistant-sing-wah-enterprise-51cbfaed7c353e9ea0d328bf0e84ef39",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/51cbfaed7c353e9ea0d328bf0e84ef39"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/51cbfaed7c353e9ea0d328bf0e84ef39/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

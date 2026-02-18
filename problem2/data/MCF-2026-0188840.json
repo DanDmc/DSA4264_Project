@@ -1,0 +1,218 @@
+{
+  "uuid": "a25d37887eead6366831d5996c461726",
+  "sourceCode": "Employer Portal",
+  "title": "ADMIN ASSISTANT",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><p>Handle daily administrative tasks including filing, documentation, and data entry</p></li><li><p>Assist recruitment consultants with candidate profiles, resume screening, and system updates</p></li><li><p>Coordinate interview schedules and send interview confirmations</p></li><li><p>Prepare offer letters, employment contracts, and onboarding documents</p></li><li><p>Maintain employee and candidate records accurately</p></li><li><p>Support basic HR, payroll, and claims administration (if required)</p></li><li><p>Handle incoming calls, emails, and basic communication with clients and candidates</p></li><li><p>Perform other ad-hoc administrative duties as assigned</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>Diploma or relevant working experience</p></li><li><p>Prior experience in recruitment, HR, or administrative roles is an advantage. Welcome fresh graduate, we provide training.</p></li><li><p>Proficient in Microsoft Office (Word, Excel, Outlook)</p></li><li><p>Detail-oriented, organized, and responsible</p></li><li><p>Basic English communication skills (written and spoken)</p></li><li><p>Able to work independently and as part of a team</p></li></ul><p><strong>Preferred / Advantage</strong></p><ul><li><p>Familiarity with basic HR processes in Singapore</p></li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "11150",
+  "occupationId": "OCC000030",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "199704685W",
+    "description": "<p>\r\n\tACETECH MANPOWER CONSULTANCY PTE LTD</p>\r\n<p>\r\n\t </p>\r\n",
+    "name": "ACETECH MANPOWER CONSULTANCY PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:45:30.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704685W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704685W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704685W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704685W/schemes"
+      }
+    },
+    "logoFileName": "03f075290b231b32b3bbb2c5a310af51/acetech-manpower-consultancy.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/03f075290b231b32b3bbb2c5a310af51/acetech-manpower-consultancy.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "135",
+    "street": "JURONG GATEWAY ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "600135",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33385883563725,
+    "lng": 103.739812093742
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188840",
+    "deletedAt": null,
+    "createdBy": "c8b71ed0-25cc-43fa-b01e-641615614180",
+    "createdAt": "2026-01-30T06:56:45.000Z",
+    "updatedAt": "2026-01-30T06:56:46.000Z",
+    "emailRecipient": "c8b71ed0-25cc-43fa-b01e-641615614180",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 322,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 60,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-acetech-manpower-consultancy-a25d37887eead6366831d5996c461726",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a25d37887eead6366831d5996c461726"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a25d37887eead6366831d5996c461726/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

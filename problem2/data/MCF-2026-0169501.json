@@ -1,0 +1,269 @@
+{
+  "uuid": "685af38c24dad202322eb3782d0c5f8f",
+  "sourceCode": "Employer Portal",
+  "title": "Group Fitness Instructor (Part Time/Full Time welcome)",
+  "description": "<p>Ready to be part of a fun/exciting community? As a Group Fitness Instructor, you will lead and instruct group fitness classes, create engaging workouts, motivate participants, and ensure a safe and inclusive environment for all members.</p>\n<p><br></p>\n<p><strong>Click Apply if you are: </strong></p>\n<ul>\n  <li>A genuine passion for fitness and helping others achieve their goals</li>\n  <li>Certification in group fitness instruction or relevant fitness certification</li>\n  <li>Strong interpersonal and communication skills</li>\n  <li>Ability to create a motivating and inclusive fitness environment</li>\n  <li>Knowledge of safe and effective exercise techniques</li>\n  <li>Experience in leading group fitness classes</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Personal Training",
+      "uuid": "1dccb9e0e758a9645b4d266ed28ad4f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lifestyle",
+      "uuid": "1efd5a4cb7e8b445ad239f0226526c5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness Training",
+      "uuid": "245b9bb2c84bf6ba42dabbc3eb3d7ca5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AED",
+      "uuid": "28d7f7e7bb50b46af38d9d150256df4e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kinesiology",
+      "uuid": "3fa49a6d1c33db7d8b286717f3465b65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Swimming",
+      "uuid": "7b7a0411718cea15c3f9dc675af1b7c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Yoga",
+      "uuid": "8be1c94fdc10945f5704322b08faa2a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness Instruction",
+      "uuid": "909d8c9079404d23975d104e270db75c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nutrition",
+      "uuid": "cf6586f786c56ead1647fd78046397cd",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34223",
+  "occupationId": "OCC008487",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 10,
+      "category": "Education and Training"
+    },
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    },
+    {
+      "id": 38,
+      "category": "Social Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    },
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    },
+    {
+      "id": 10,
+      "employmentType": "Internship/Attachment"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202211098M",
+    "description": null,
+    "name": "SMV FITNESS (ALEXANDRA) PTE. LTD.",
+    "ssicCode": "93111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:11:34.000Z",
+    "ssicCode2020": "93111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202211098M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202211098M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202211098M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202211098M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169501",
+    "deletedAt": null,
+    "createdBy": "2ea9785c-4f8e-46d9-a4b5-c1ee49984a75",
+    "createdAt": "2026-01-27T13:17:54.000Z",
+    "updatedAt": "2026-01-27T13:17:54.000Z",
+    "emailRecipient": "2ea9785c-4f8e-46d9-a4b5-c1ee49984a75",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 68,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/group-fitness-instructor-smv-fitness-685af38c24dad202322eb3782d0c5f8f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4300,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/685af38c24dad202322eb3782d0c5f8f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/685af38c24dad202322eb3782d0c5f8f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

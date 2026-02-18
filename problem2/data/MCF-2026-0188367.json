@@ -1,0 +1,230 @@
+{
+  "uuid": "5551c82c49d02c40397c04fcb4fe4eb4",
+  "sourceCode": "Employer Portal",
+  "title": "SITE SUPERVISOR",
+  "description": "<p>Inspecting construction sites regularly to identify and eliminate potential safety hazards.</p><ul><li>Supervising and instructing the construction team as well as subcontractors.</li><li>Educating site workers on construction safety regulations and accident protocol.</li><li>Enforcing site safety rules to minimize work-related accidents and injuries.</li><li>Handling site accidents in accordance with established accident protocol.</li><li>Maintaining an accurate record of construction employee attendance.</li><li>Evaluating the performance of construction employees and instituting disciplinary measures as needed.</li><li>Analyzing blueprints to ensure that construction projects meet design, safety, and budget specifications.</li><li>Recommending changes to construction operations or procedures to increase efficiency.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Safety",
+      "uuid": "8313259ce4d9c3ca71d6fb7e3afa3226",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Drawings",
+      "uuid": "b7ddd6b4070e952489bf1ec071d10bac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71000",
+  "occupationId": "OCC009896",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "201630442K",
+    "description": "<p>We are specialized <br /><br />Timber <br />- Flooring<br />- Ceiling<br />- Fencing <br />- Decking<br /><br />Composite decking & Fencing<br />Vinyl flooring<br /></p>",
+    "name": "THE GALAXY FLOOR PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T06:07:09.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201630442K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201630442K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201630442K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201630442K/schemes"
+      }
+    },
+    "logoFileName": "505c87533e150498093e0ff61cc62e49/galaxy-floor.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/505c87533e150498093e0ff61cc62e49/galaxy-floor.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "25",
+    "street": "KAKI BUKIT ROAD 4",
+    "floor": null,
+    "unit": null,
+    "building": "SYNERGY @ KB",
+    "postalCode": "417800",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33967687532657,
+    "lng": 103.91079929077
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188367",
+    "deletedAt": null,
+    "createdBy": "7c6d2ea3-7cbb-445d-b54c-baa3f2c0234d",
+    "createdAt": "2026-01-30T06:19:40.000Z",
+    "updatedAt": "2026-01-30T06:19:40.000Z",
+    "emailRecipient": "7c6d2ea3-7cbb-445d-b54c-baa3f2c0234d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 48,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/site-supervisor-galaxy-floor-5551c82c49d02c40397c04fcb4fe4eb4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5551c82c49d02c40397c04fcb4fe4eb4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5551c82c49d02c40397c04fcb4fe4eb4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

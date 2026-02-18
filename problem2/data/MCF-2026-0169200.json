@@ -1,0 +1,245 @@
+{
+  "uuid": "08b208de460f1f7980615ecf936f00f4",
+  "sourceCode": "Employer Portal",
+  "title": "PERSONAL ASSISTANT",
+  "description": "<p><u><strong>Roles & Responsibilities</strong></u><br /><br />Executive & Calendar Management: Manage and update monthly and daily calendars for the CEO and COO, ensuring all meetings and appointments are scheduled efficiently.</p><p>Corporate Communication & Coordination: Represent the management team in communications with stakeholders, drafting and proofreading correspondence, and recording minutes for management meetings.</p><p>Travel & Event Planning: Coordinate business trips and assist in planning management retreats, ensuring all logistical details are handled seamlessly.</p><p>Claims & Reporting: Process expense claims and prepare monthly reports, ensuring accuracy and timely submission.</p><p>General Support: Provide light housekeeping and assist with personal errands, ensuring the CEO and COO can focus on their key responsibilities.</p><p>Requirements</p><p>Experience: Minimum of 5 years in a PA/EA role or similar executive support position.</p><p>Skills: Proficiency in Microsoft Office, calendar tools, and PowerPoint. Strong communication skills and the ability to multitask and prioritize effectively.</p><p>Attributes: Comfortable with after-hours responsiveness, confidential matters, and able to act quickly under pressure. High emotional intelligence and professional discretion.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Travel Arrangements",
+      "uuid": "425d4e37642519db8b4463d5a132edd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PowerPoint",
+      "uuid": "8e30baf47f024c0ce4a7f380214194ed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Planning",
+      "uuid": "96aced0b7d642ea8c08c5ce8ec6262a1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "uuid": "ae0bc5d28c185ff5ac023030334c6f8a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Proofreading",
+      "uuid": "ddbc19f1600a45d88c6af674eb0c7014",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41201",
+  "occupationId": "OCC008600",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "11",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202031126E",
+    "description": null,
+    "name": "ATM ENGINEERING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T05:36:21.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031126E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031126E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031126E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202031126E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169200",
+    "deletedAt": null,
+    "createdBy": "3139dbe0-23b6-4274-a8d7-2aef2608267e",
+    "createdAt": "2026-01-27T11:50:28.000Z",
+    "updatedAt": "2026-01-27T11:50:28.000Z",
+    "emailRecipient": "3139dbe0-23b6-4274-a8d7-2aef2608267e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 144,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 14,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/personal-assistant-atm-engineering-08b208de460f1f7980615ecf936f00f4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08b208de460f1f7980615ecf936f00f4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08b208de460f1f7980615ecf936f00f4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

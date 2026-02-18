@@ -1,0 +1,229 @@
+{
+  "uuid": "2acaf3f4f7befe5ccb48aef5ce5b4ba1",
+  "sourceCode": "Employer Portal",
+  "title": "BAKERY CHEF",
+  "description": "<p>• Preparation</p>\n<p>- Oversee central kitchen bakery team</p>\n<p>- Producation planning and employee scheduling.</p>\n<p>- Advance preparation, weighing is done accurately, check extensibility and following the daily mixing schedule</p>\n<p>• Dividing - Understanding the characteristics of each dough and able to perform troubleshooting</p>\n<p>• Shaping - Understanding the amount of portion filling, roll up without damaging the dough, shape properly and according to the procedure</p>\n<p>• Baking - Understanding and following the baking procedure and process</p>\n<p>• Filing - Can weight correctly and understand the expiration date of each filling</p>\n<p>• Sanitation – Understand and follow the correct cleaning procedures</p>\n<p>• Other duties – Any ad-hoc duties as required by the manager such as housekeeping</p>\n<p>Requirements:</p>\n<p>• Minimum 5 years experience of bakery culinary</p>\n<p>• Rotating shift (44 hrs 6 days - Day and night shift)</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "uuid": "5622ca1c7df0a0744d6e884ea12e1e66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Very Organized",
+      "uuid": "6819bb12a0e5fc4045706eeb25448479",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cakes",
+      "uuid": "7481b14989ab4298a3e0437d5b45b3b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weight",
+      "uuid": "8c489d0946f66d17d73f26366a4bf620",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Baking",
+      "uuid": "a11e3d7212c369ba1a229ea7a8ae65de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bakery",
+      "uuid": "c07c35714963668a8ec1b8784f83d143",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pastry",
+      "uuid": "e8c3f5ae850a71c6d443395839ffe9ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Training Staff",
+      "uuid": "f377d4e6cfd21b9ea9dc3f05a53cc079",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75121",
+  "occupationId": "OCC059684",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "N9",
+  "ssecFos": "1322",
+  "postedCompany": {
+    "uen": "198801832Z",
+    "description": "<p><strong>RE&S Enterprises Pte Ltd</strong> is a leading restaurant chain with more than 60 outlets dotting the Singapore landscape. Our 25 years of presence in Singapore signifies the commitment to continual growth and innovation. Our business and customer mantra seizes opportunities to offer an experience of Japanese culture via relevant, affordable quality and service that are focused on Food for Life. </p>    <p> </p>    <p> </p>    <p>We welcome you to be part of our Growing Team!</p>    <p> </p>    <p> </p>    <p> </p>  ",
+    "name": "R E & S ENTERPRISES PTE LTD",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:23:53.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801832Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801832Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801832Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801832Z/schemes"
+      }
+    },
+    "logoFileName": "5214946d16cb0df74a4887f71af4008f/r-e-s-enterprises.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5214946d16cb0df74a4887f71af4008f/r-e-s-enterprises.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160125",
+    "deletedAt": null,
+    "createdBy": "32d96529-4bbb-464b-8466-a3e7d89e642d",
+    "createdAt": "2026-01-26T09:12:44.000Z",
+    "updatedAt": "2026-01-26T09:12:43.000Z",
+    "emailRecipient": "32d96529-4bbb-464b-8466-a3e7d89e642d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 49,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/bakery-chef-r-e-s-enterprises-2acaf3f4f7befe5ccb48aef5ce5b4ba1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2acaf3f4f7befe5ccb48aef5ce5b4ba1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2acaf3f4f7befe5ccb48aef5ce5b4ba1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,202 @@
+{
+  "uuid": "9f4d6d854e2730283201a85d40c97d92",
+  "sourceCode": "Employer Portal",
+  "title": "Project Claim Admin",
+  "description": "<h2><strong>Job Description</strong></h2>\n<p>A Project Claim Administrator is responsible for managing the administrative aspects of project claims, ensuring that all claims are properly documented, submitted, and processed in a timely manner. Their job scope typically includes the following:</p>\n<p><br></p>\n<p><strong>i. Claim Preparation &amp; Submission</strong></p>\n<ul>\n  <li>Prepare and compile claim documents, invoices, and supporting evidence.</li>\n  <li>Ensure all claims are accurately documented and comply with contract terms.</li>\n  <li>Submit claims to clients, main contractors, or relevant authorities.</li>\n</ul>\n<p><strong>ii. Verification &amp; Documentation</strong></p>\n<ul>\n  <li>Cross-check claim details against contracts, and work completion records.</li>\n  <li>Check and verify sub-con claim ensure the sub-con claim is claim accordingly to the job completion.</li>\n  <li>Maintain accurate and organized records of submitted claims, approvals, and pending payments.</li>\n  <li>Follow up on missing or incomplete claim documents.</li>\n</ul>\n<p><strong>iii. Follow-up &amp; Payment Tracking</strong></p>\n<ul>\n  <li>Monitor the status of submitted claims and follow up with clients on claim approval or SES status.</li>\n  <li>Communicate with stakeholders (e.g., project managers, finance teams, subcontractors) to resolve disputes or clarifications on claims.</li>\n  <li>Maintain a tracking system for outstanding payments and expected claim receipts.</li>\n</ul>\n<p><strong>iv. Coordination with Project &amp; Finance Teams</strong></p>\n<ul>\n  <li>Work closely with project managers to ensure work completion aligns with claimable amounts.</li>\n  <li>Liaise with finance and accounting departments for payment processing and reconciliation.</li>\n  <li>Provide updates on claim statuses.</li>\n</ul>\n<p><strong>v. Compliance &amp; Reporting</strong></p>\n<ul>\n  <li>Ensure claims comply with contract terms, regulatory requirements, and company policies.</li>\n  <li>Prepare reports on claims submitted, approved, pending, and rejected.</li>\n  <li>Identify discrepancies and recommend solutions to improve claim efficiency.</li>\n</ul>\n<p><strong>vi. Handling Disputes &amp; Adjustments</strong></p>\n<ul>\n  <li>Address claim disputes with clients or contractors and provide supporting documents for resolution.</li>\n  <li>Revise and resubmit claims, when necessary, based on feedback or clarifications.</li>\n  <li>Ensure proper documentation of rejected or disputed claims for future reference.</li>\n</ul>\n<h2><strong>Requirement</strong></h2>\n<ul>\n  <li>At least 1 year of relevant experience with Diploma in Civil Engineering or related Engineering Discipline.</li>\n  <li>AutoCAD drafting knowledge is an advantage</li>\n  <li>Proficiency in Microsoft Office</li>\n  <li>Good communication skills</li>\n  <li>Able to meet tight deadline</li>\n  <li>Able to work in a team as well as independently</li>\n  <li>Preferably Singaporean and Singapore Permanent Resident</li>\n</ul>\n<h2><strong>Other References:</strong></h2>\n<ul>\n  <li>5 Days Work Week, 8.30 AM to 6.00 PM.</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Claims Handling",
+      "uuid": "31a239baa483f37b4bca014bd6daf06a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Evidence",
+      "uuid": "c7b2a4d55fbea4d044644cf5b2b45d29",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "uuid": "d4df0f19b94b428d347bbf56d9d5a4c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "200300608D",
+    "description": "<p>Vistek Pte Ltd is a Singapore-based company providing one-stop <strong>network infrastructure solutions</strong> for the telecommunications and underground electrical utilities industry.</p>",
+    "name": "VISTEK PTE. LTD.",
+    "ssicCode": "43210",
+    "employeeCount": 130,
+    "companyUrl": "https://vistek.com.sg/",
+    "lastSyncDate": "2026-01-27T02:37:34.000Z",
+    "ssicCode2020": "43210",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300608D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300608D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300608D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300608D/schemes"
+      }
+    },
+    "logoFileName": "91aabec0540483c38a395a41d512e78c/vistek.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/91aabec0540483c38a395a41d512e78c/vistek.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "39",
+    "street": "WOODLANDS CLOSE",
+    "floor": null,
+    "unit": null,
+    "building": "MEGA@WOODLANDS",
+    "postalCode": "737856",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43809143188122,
+    "lng": 103.807119160141
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164173",
+    "deletedAt": null,
+    "createdBy": "166f09c5-31ee-4fca-af67-83822f9ec22b",
+    "createdAt": "2026-01-27T02:39:01.000Z",
+    "updatedAt": "2026-01-27T02:39:02.000Z",
+    "emailRecipient": "166f09c5-31ee-4fca-af67-83822f9ec22b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 107,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/project-claim-admin-vistek-9f4d6d854e2730283201a85d40c97d92",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f4d6d854e2730283201a85d40c97d92"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f4d6d854e2730283201a85d40c97d92/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

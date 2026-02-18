@@ -1,0 +1,270 @@
+{
+  "uuid": "44271f8c08b3aca2e28d4df2bc8a63a0",
+  "sourceCode": "Employer Portal",
+  "title": "Driver",
+  "description": "<p><strong>Class 3A Wheelchair Transport Driver (Day & Night Shifts Available)</strong><br />We have new vehicles coming in and are hiring <strong>one day-shift driver</strong> and <strong>one night-shift driver</strong>. Bonus available.</p><p><strong>Salary:</strong> SGD <strong>$3,000 – $3,300</strong> + Overtime Pay (OT paid separately)<br /><strong>Working Days:</strong> Monday to Saturday<br /><strong>Working Hours:</strong> 06:00–18:00 (night shift also available)</p><p><strong>Job Requirements:</strong></p><ul><li><p>Valid <strong>Class 3 Singapore Driving Licence</strong></p></li><li><p>Familiar with Singapore routes</p></li><li><p>Hardworking and responsible</p></li><li><p>Good service attitude</p></li><li><p>Must be able to commit to <strong>regular overtime</strong></p></li><li><p>Main duties include transporting government dialysis patients, airport arrivals for tourists, and charter services</p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 License",
+      "uuid": "050dd67a228da14c9491d52d038e42ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Charter",
+      "uuid": "11347b3d404f701a75282a7993e0dda4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPS",
+      "uuid": "8c578de37278ada488d763ea86c5cf20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "83311",
+  "occupationId": "OCC013104",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202040948K",
+    "description": "<p><em>Founded 2021 in Singapore, i-LINK is a multi-Talent Acquisition and the HR outsourcing partner-of-choice for local conglomerates and multinational corporations within the Asia Pacific region.</em></p>\n<p><em>We believe that employee always the key to SUCCESS “Clients Do Not Come First, Employees Come First. If You Take Care Of Your Employees, They Will Take Care Of The Clients”. </em>Link the right Job to the right Person</p>",
+    "name": "I-LINK MANPOWER CONSULTANCY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 5,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:02:16.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/schemes"
+      }
+    },
+    "logoFileName": "4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "202340465C",
+    "description": null,
+    "name": "YOUR SG TOURS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T22:17:17.000Z",
+    "ssicCode2020": "79101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202340465C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202340465C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202340465C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202340465C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "PAYA LEBAR ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA LEBAR SQUARE",
+    "postalCode": "409051",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31881487007652,
+    "lng": 103.892580778514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0162564",
+    "deletedAt": null,
+    "createdBy": "e3d9972d-9a6f-4681-bceb-498d00ece275",
+    "createdAt": "2026-01-26T22:19:39.000Z",
+    "updatedAt": "2026-01-26T22:19:39.000Z",
+    "emailRecipient": "e3d9972d-9a6f-4681-bceb-498d00ece275",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 121,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/driver-sg-tours-44271f8c08b3aca2e28d4df2bc8a63a0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/44271f8c08b3aca2e28d4df2bc8a63a0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/44271f8c08b3aca2e28d4df2bc8a63a0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

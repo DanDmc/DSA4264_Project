@@ -1,0 +1,238 @@
+{
+  "uuid": "f7e6bc1f11857a8525da0f10611e90c2",
+  "sourceCode": "Employer Portal",
+  "title": "Building Electrician",
+  "description": "<p>Electrical Work In Work site<br /></p><p>House Wiring<br /></p><p>DB Installation<br /></p><p>Working site Maintain<br /></p><p>Any Type Electrical Work</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sustainability",
+      "uuid": "19bea5bec76c66ef8bd189aa23a4c860",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property Management",
+      "uuid": "382705469d54836b73d21873e919f8d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tender Process",
+      "uuid": "3beea52c6ed2517487dcb21fea689b89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BIM",
+      "uuid": "418d8681b964b0a772325e03a076bb26",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wiring",
+      "uuid": "441b65c8a62ed7904574ee78c84b0963",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written Communication",
+      "uuid": "7f2949efe8a7cc63a1144796a4ce403a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71000",
+  "occupationId": "OCC006497",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202116988H",
+    "description": null,
+    "name": "ALINK CONSTRUCTION PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T09:57:37.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202116988H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202116988H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202116988H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202116988H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "UPPER ALJUNIED LANE",
+    "floor": null,
+    "unit": null,
+    "building": "JOO SENG GREEN",
+    "postalCode": "360003",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33399297498366,
+    "lng": 103.879892742452
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183729",
+    "deletedAt": null,
+    "createdBy": "af58df63-9204-41e7-941e-082b313fc9db",
+    "createdAt": "2026-01-29T10:03:09.000Z",
+    "updatedAt": "2026-01-29T10:03:09.000Z",
+    "emailRecipient": "af58df63-9204-41e7-941e-082b313fc9db",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 44,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/building-electrician-alink-construction-f7e6bc1f11857a8525da0f10611e90c2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f7e6bc1f11857a8525da0f10611e90c2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f7e6bc1f11857a8525da0f10611e90c2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

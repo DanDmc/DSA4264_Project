@@ -1,0 +1,227 @@
+{
+  "uuid": "b2fdfc5447e7866132f8682ae368934b",
+  "sourceCode": "Employer Portal",
+  "title": "HR Executive",
+  "description": "<ul>\n  <li>Handle payroll calculation, tax submission &amp; etc</li>\n  <li>Handle recruitment such as job posting, selection, interview &amp; etc</li>\n  <li>Handle onboarding &amp; offboarding process</li>\n  <li>Handle foreign work pass application</li>\n  <li>Assist in the communication, interpretation, and all other HR related matters.</li>\n  <li>Ensure accuracy in the maintenance of manpower records in the system</li>\n  <li>Any other ad-hoc duties as required or assigned</li>\n</ul>\n<p><br></p>\n<p>We regret only shortlisted candidates will be contacted. All applications will be handled confidentially. By submitting your application, you agree to the collection, use, retention, and disclosure of your personal information to prospective employers.</p>\n<p><br></p>\n<p>Wecruit Pte Ltd</p>\n<p>EA License No: 20C0270</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HR Policies",
+      "uuid": "a769b9ac5a11ed3a1a30d64b03bf99da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HRIS",
+      "uuid": "be2482121734b2bf4e33367076781447",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Resource Management",
+      "uuid": "cb39ac09dca88d69876f8730b7461b4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Employee Relations",
+      "uuid": "df9fec21f43c469540c70b03af7bf453",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Management",
+      "uuid": "ec665405336acd4dabdc93b50935ac7a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24231",
+  "occupationId": "OCC060816",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 20,
+      "category": "Human Resources"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0512",
+  "postedCompany": {
+    "uen": "202024371N",
+    "description": "<p>Wecruit is one of the leading recruitment firms based in Singapore, dedicated to helping job seekers find the right career opportunities.</p>\n<p><br>\nWe partner with reputable companies across a wide range of industries, including Healthcare, IT, Corporate Support, Engineering, Education, Logistics &amp; Supply Chain, Oil &amp; Gas, and Maritime.&nbsp;</p>\n<p><br></p>\n<p>Whether you're looking for permanent roles or short-term assignments, our consultants take the time to understand your experience, preferences, and goals to match you with suitable roles.<br>\n<br>\nWith over 1,000 successful placements and a strong track record of candidate satisfaction, Wecruit is here to support your career journey.</p>\n<p><br>\nLet us help you take the next step—reach out to explore current opportunities or to speak with our team.<br>\n<br>\n</p>",
+    "name": "WECRUIT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "https://www.wecruit.com.sg/",
+    "lastSyncDate": "2026-02-04T00:57:12.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/schemes"
+      }
+    },
+    "logoFileName": "f09a3c1d371654245747359aeb85459d/wecruit.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f09a3c1d371654245747359aeb85459d/wecruit.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174241",
+    "deletedAt": null,
+    "createdBy": "7a258823-b9f0-4d5c-9a57-14778a290df8",
+    "createdAt": "2026-01-28T06:12:33.000Z",
+    "updatedAt": "2026-01-28T06:12:33.000Z",
+    "emailRecipient": "7a258823-b9f0-4d5c-9a57-14778a290df8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/human-resources/hr-executive-wecruit-b2fdfc5447e7866132f8682ae368934b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b2fdfc5447e7866132f8682ae368934b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b2fdfc5447e7866132f8682ae368934b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

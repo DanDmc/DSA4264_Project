@@ -1,0 +1,209 @@
+{
+  "uuid": "4a0a6668203a375847faeb78b8eaf295",
+  "sourceCode": "Employer Portal",
+  "title": "Shop Manger/Assistant",
+  "description": "<p><strong>Job Summary</strong></p><p>You will assist customers at a moxibustion shop located in the west of Singapore, working six days a week with training provided.</p><p><strong>Responsibilities</strong></p><ul><li>Communicate clearly with customers in Mandarin to understand their needs and provide appropriate service</li><li>Follow training instructions to perform moxibustion-related tasks safely and effectively</li><li>Maintain a clean and organized shop environment during shifts</li><li>Collaborate with team members to ensure smooth daily operations</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Management",
+      "uuid": "5570b1274928746e87170e404f4553a1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Sales",
+      "uuid": "6dc9fae99bf94d3db2f640dec2b98dbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Train New Employees",
+      "uuid": "be3d051a301a3f5f156a4a27e000613b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Window Displays",
+      "uuid": "d11d233d9570002ac43e4d6e6346ef1a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52202",
+  "occupationId": "OCC009623",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202602264M",
+    "description": null,
+    "name": "QCM HOLDINGS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T02:39:08.000Z",
+    "ssicCode2020": "46462",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202602264M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202602264M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202602264M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202602264M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "JURONG WEST AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": "SCAL ACADEMY",
+    "postalCode": "649485",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34970414499779,
+    "lng": 103.703072680741
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192496",
+    "deletedAt": null,
+    "createdBy": "fa14a494-c776-4925-bc67-fbc0e6c84e86",
+    "createdAt": "2026-01-31T02:53:58.000Z",
+    "updatedAt": "2026-01-31T02:53:58.000Z",
+    "emailRecipient": "fa14a494-c776-4925-bc67-fbc0e6c84e86",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-07",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/shop-mangerassistant-qcm-holdings-4a0a6668203a375847faeb78b8eaf295",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a0a6668203a375847faeb78b8eaf295"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a0a6668203a375847faeb78b8eaf295/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,211 @@
+{
+  "uuid": "2a47867dc6b1e98acc308eeee7dc5fcd",
+  "sourceCode": "Employer Portal",
+  "title": "VMware Engineer",
+  "description": "<p><p>Requirement :<br />4+ years of experience as a System Administrator in enterprise IT environments.<br />Strong expertise in Microsoft Azure (IaaS, PaaS, Networking, Cost Management).<br />Hands-on experience with VMware, ESXi, and Windows (Wintel) administration.<br />Proficiency in Terraform, Bicep, ARM Templates, and Infrastructure as Code.<br />Experience with Azure DevOps, GitHub Actions, PowerShell, and Azure CLI.<br />Knowledge of AKS, Docker, and container platforms.<br />Experience in monitoring, logging, security, and governance in Azure.<br /></p><p>Responsibilities :<br />Administer and support virtual servers and hosts in a corporate production environment.<br />Provide hands-on support for VMware, ESXi, and Wintel (Windows Server) administration.<br />Design, deploy, and manage Microsoft Azure infrastructure using IaaS and PaaS services <br />Develop and maintain infrastructure usingTerraform, Bicep, and ARM Templates<br />Participate in<br />incident, problem, and change management aligned with ITIL Foundation practices.</p><p><p>.</p></p></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Vmware Esxi",
+      "uuid": "12c67fc75006b32c2c5e8c63bf1bbe27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Azure",
+      "uuid": "1668ca1bd914c1d847f23b491319ac91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ARM",
+      "uuid": "47f45e65244c17ec9fa8771a5c6d60e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtual Servers",
+      "uuid": "9633fe472cd7951b6692d7934deb29cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firmware",
+      "uuid": "a940a548ba41bc988f99d51fd02f21de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC060890",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202135937N",
+    "description": null,
+    "name": "MINDGRAPH PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:21:07.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135937N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135937N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135937N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135937N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164876",
+    "deletedAt": null,
+    "createdBy": "7433c3a1-83e0-4195-a40d-0f57da90e4e2",
+    "createdAt": "2026-01-27T03:32:34.000Z",
+    "updatedAt": "2026-01-27T03:32:34.000Z",
+    "emailRecipient": "7433c3a1-83e0-4195-a40d-0f57da90e4e2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 72,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/vmware-engineer-mindgraph-2a47867dc6b1e98acc308eeee7dc5fcd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a47867dc6b1e98acc308eeee7dc5fcd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a47867dc6b1e98acc308eeee7dc5fcd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

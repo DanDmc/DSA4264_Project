@@ -1,0 +1,206 @@
+{
+  "uuid": "481d31e090147da3195ffba7a9a783a5",
+  "sourceCode": "Employer Portal",
+  "title": "Masseur, Massage Therapist (Including Foot Reflexology)",
+  "description": "<p>Job Descriptions</p>\n<ul>\n  <li>Provide consistent professional spa massage (body and/or foot) in accordance with spa standards.</li>\n  <li>Ensure high level of service standards</li>\n  <li>Responsible for the maintenance of cleanliness and neaness of the spa facilities, treatment rooms and other parts of the spa.</li>\n  <li>Responsible in preparing the necessary treatment products, replenishment of stocks, towels supply etc.</li>\n  <li>Handle customer queries and conerns effcieintly and politely</li>\n  <li>Follow and comply with the intrucstions given by Spa Manager</li>\n</ul>\n<p>Requirements</p>\n<ul>\n  <li>Preperably with iTEC/WSQ certification or massage certification</li>\n  <li>Able to commit on Weekends/public holidays</li>\n  <li>6 days work week</li>\n  <li>Mininum one year relevant experience</li>\n  <li>Pleasant personality and hardworking</li>\n</ul>\n<p>Benefits</p>\n<ul>\n  <li>Attractive Salary</li>\n  <li>Conducive working environment</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Swedish",
+      "uuid": "41171a0fcd362ce98b5f0f11398713b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reflexology",
+      "uuid": "6951388b66b4900565a162dd53857a66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Relaxation",
+      "uuid": "832b64944eab4d40bd15c304d8d52efa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shoulder",
+      "uuid": "83cb4c144b3d6ee1a847bee51a44b933",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Target Oriented",
+      "uuid": "c2a200a2c7065079e6d083fef01113a8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "32551",
+  "occupationId": "OCC013682",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "46",
+  "ssecFos": "1319",
+  "postedCompany": {
+    "uen": "202040877D",
+    "description": null,
+    "name": "HAI TIAN HEALTHCARE PTE. LTD.",
+    "ssicCode": "96024",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T09:07:00.000Z",
+    "ssicCode2020": "96024",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040877D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040877D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040877D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040877D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "698",
+    "street": "HOUGANG STREET 61",
+    "floor": null,
+    "unit": null,
+    "building": "HOUGANG SPRING",
+    "postalCode": "530698",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37506138986041,
+    "lng": 103.886910503596
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153079",
+    "deletedAt": null,
+    "createdBy": "2bdbb987-3fa5-4fac-87a3-0c98dc6bf258",
+    "createdAt": "2026-01-25T09:07:33.000Z",
+    "updatedAt": "2026-01-25T09:07:33.000Z",
+    "emailRecipient": "2bdbb987-3fa5-4fac-87a3-0c98dc6bf258",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/personal-care/masseur-massage-therapist-hai-tian-healthcare-481d31e090147da3195ffba7a9a783a5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/481d31e090147da3195ffba7a9a783a5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/481d31e090147da3195ffba7a9a783a5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

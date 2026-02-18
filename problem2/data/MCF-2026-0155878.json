@@ -1,0 +1,272 @@
+{
+  "uuid": "f626bccf111ad0f6ed8ae3380fe99435",
+  "sourceCode": "Employer Portal",
+  "title": "Driver cum general worker",
+  "description": "<ul><li>A valid driver's license.</li><li>1-year driving experience.</li><li>Extensive knowledge of the operating area.</li><li>Physical strength and ability to lift up to 70 pounds.</li><li>Excellent organizational and time management skills.</li><li>Exceptional interpersonal skills.</li><li>Good verbal communication.</li><li>Proficiency using GPS devices.</li><li>Picking up office purchases or other administrative needs.</li><li>Utilizing navigation apps to find the most optimal route.</li><li>Interacting with clients in professional conduct.</li><li>Ensuring that vehicles have sufficient gas and are always ready for use.</li><li>Arranging for vehicle repairs when necessary.</li><li>Updating monthly mileage records.</li><li>Driving a variety of vehicles, including motorbikes, cars, buses and trucks.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Painting",
+      "uuid": "2875ec54afbd9922e0553f4b441aa54b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPS",
+      "uuid": "8c578de37278ada488d763ea86c5cf20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warranty",
+      "uuid": "b10f0c75b7b48c70aab4aed9e84e55da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200617609W",
+    "description": "<p>\r\n\tSTEEL ALLY RESOURCES PTE. LTD.</p>\r\n",
+    "name": "STEEL ALLY RESOURCES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:06:50.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200617609W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200617609W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200617609W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200617609W/schemes"
+      }
+    },
+    "logoFileName": "831317d3ab0e104415b74f3a6968350c/steel-ally-resources.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/831317d3ab0e104415b74f3a6968350c/steel-ally-resources.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "199103758H",
+    "description": null,
+    "name": "SINMAH FOOD SERVICES (S) PTE LTD",
+    "ssicCode": "10109",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T02:29:42.000Z",
+    "ssicCode2020": "10109",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103758H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103758H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103758H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199103758H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "BUROH LANE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "618285",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155878",
+    "deletedAt": null,
+    "createdBy": "0aed1e3f-a8f5-4bf5-9f0c-48c54df93b6e",
+    "createdAt": "2026-01-26T02:30:39.000Z",
+    "updatedAt": "2026-01-26T02:30:39.000Z",
+    "emailRecipient": "0aed1e3f-a8f5-4bf5-9f0c-48c54df93b6e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/driver-cum-general-worker-sinmah-food-services-f626bccf111ad0f6ed8ae3380fe99435",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f626bccf111ad0f6ed8ae3380fe99435"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f626bccf111ad0f6ed8ae3380fe99435/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

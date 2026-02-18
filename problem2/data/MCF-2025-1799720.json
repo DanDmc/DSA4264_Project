@@ -1,0 +1,227 @@
+{
+  "uuid": "8971074f22dda57f8b834c28ad370b7a",
+  "sourceCode": "Employer Portal",
+  "title": "ADMIN EXECUTIVE",
+  "description": "<ul>\n  <li>Handle general administrative duties, including filing, data entry, and document control</li>\n  <li>Assist in preparing invoices, purchase orders, and other accounting documents</li>\n  <li>Maintain and update company records, staff files, and databases</li>\n  <li>Support HR matters such as attendance tracking and leave records</li>\n  <li>Assist in coordinating training courses, permit applications, and company events</li>\n  <li>Liaise with suppliers, customers, and government agencies when required</li>\n  <li>Perform any other ad hoc duties assigned by management</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "General administrative support",
+      "uuid": "709aa41bd88bd6174bca552b6345d880",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "199905742M",
+    "description": null,
+    "name": "QUAN ZHI CONSTRUCTION PTE LTD",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:40:07.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199905742M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199905742M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199905742M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199905742M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "55",
+    "street": "CHUN TIN ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "MANDARIN PARK",
+    "postalCode": "599629",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 21,
+        "location": "D21 Upper Bukit Timah, Clementi Park, Ulu Pandan",
+        "region": "West",
+        "sectors": [
+          "58",
+          "59"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34174535163905,
+    "lng": 103.772582574245
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1799720",
+    "deletedAt": "2025-12-08T17:15:05.000Z",
+    "createdBy": "6d23d2d7-6dfe-4d6f-a087-e5cc8be4db42",
+    "createdAt": "2025-11-24T07:35:44.000Z",
+    "updatedAt": "2026-01-29T08:42:13.000Z",
+    "emailRecipient": "6d23d2d7-6dfe-4d6f-a087-e5cc8be4db42",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 1276,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-11-24",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 258,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/admin-executive-quan-zhi-construction-8971074f22dda57f8b834c28ad370b7a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8971074f22dda57f8b834c28ad370b7a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8971074f22dda57f8b834c28ad370b7a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

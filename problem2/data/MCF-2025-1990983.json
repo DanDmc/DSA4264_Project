@@ -1,0 +1,204 @@
+{
+  "uuid": "872c6c1aa9ccbc84ee8d32bdd760bb0b",
+  "sourceCode": "Employer Portal",
+  "title": "INTERIOR DESIGNER",
+  "description": "<p><strong>SHADES OF LIFE</strong> is a Singapore based multi-disciplinary design studio with own in house carpentry that practices spatial , furniture and product design.</p><p>With a vast experiences in hospitality , commercial and residential projects , SHADES OF LIFE is able to offer a wide spectrum of design proposals and solutions to our clientele.</p><p><strong>WHO WE WANT</strong></p><p>Seeking for that creative individual who is self motivational , responsible with a never-say-die attitude to be part of the fun dynamic design crew</p><p><strong>QUALIFICATIONS</strong></p><ul><li>Diploma / Degree in Interior Design.</li></ul><p><strong>PROFICIENCY</strong></p><ul><li>Proficient in CAD.</li><li>3DS MAX, VRAY CORONA RENDER, RHINO (bonus attributes)</li><li>Creative eye for details in conceptualisation , design and design presentation process.</li><li>Familiarity with all phrases of projects , potential issues and proven history to produce completed projects.</li><li>Problem solving skills and self starter.</li></ul><p><strong>HOW TO APPLY</strong></p><p>Interested applicants do send us your CV and recent portfolio , attached with a current photo of yourself to <strong>shadesoflife729@gmail.com</strong><br /><br /><strong>Priority SINGAPOREAN AND PR </strong></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Designer",
+      "uuid": "0aad40f415c9173fcc83acd984c0c83c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Design",
+      "uuid": "352bb1e322c25c574bc3ff1a6d427380",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interior Design",
+      "uuid": "b70d39e4c20b2a45df4f50c334773f63",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Space Planning",
+      "uuid": "b83995f54d3a5aa29ff407bbd86a7d8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SketchUp",
+      "uuid": "e9cdba62ea90ae2e58d00d1fa6a892a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "uuid": "f544f262e964e2067e7fb53aa23c6379",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34321",
+  "occupationId": "OCC008152",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 9,
+      "category": "Design"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202105952K",
+    "description": null,
+    "name": "SHADES OF LIFE PRIVATE LIMITED",
+    "ssicCode": "74191",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T09:23:06.000Z",
+    "ssicCode2020": "74191",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202105952K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202105952K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202105952K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202105952K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "ANG MO KIO INDUSTRIAL PARK 2A",
+    "floor": null,
+    "unit": null,
+    "building": "AMK TECH II",
+    "postalCode": "567760",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37805596326229,
+    "lng": 103.870426466058
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1990983",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "85367734-c918-4b37-a13a-2f5d2f524ee6",
+    "createdAt": "2025-12-29T06:39:28.000Z",
+    "updatedAt": "2026-01-29T09:22:36.000Z",
+    "emailRecipient": "85367734-c918-4b37-a13a-2f5d2f524ee6",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 144,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/design/interior-designer-shades-life-872c6c1aa9ccbc84ee8d32bdd760bb0b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/872c6c1aa9ccbc84ee8d32bdd760bb0b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/872c6c1aa9ccbc84ee8d32bdd760bb0b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

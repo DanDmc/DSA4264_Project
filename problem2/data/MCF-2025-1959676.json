@@ -1,0 +1,238 @@
+{
+  "uuid": "c07d7f00799a369678cd20d0c456d986",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Software Developer (Full Stack)",
+  "description": "<p><strong>Description:</strong></p><p>A senior full stack developer to produce scalable software solutions working with a cross-functional team of AI engineers and cloud developers, responsible for the full software development life cycle, from conception to deployment.</p><p><br /></p><p><strong>Responsibilities:</strong></p><ul><li>Conduct research and propose relevant software and hardware systems that align to business needs.</li><li>Design and Develop new software systems to support business requirements.</li><li>Conduct systems testing to ensure applications conform to user & operating requirements.</li><li>Compose and review software design architecture and technical documents.</li><li>Work independently and collaborative as required.</li></ul><p><br /></p><p><strong>Qualifications:</strong></p><ul><li>Diploma /Degree or post graduate degree in Information System, Computer Science or Computer Engineering or equivalent.</li><li>5+ years of hands on experience in modern OOP languages, proficiency with C++ is a plus.</li><li>Hands on experience with SQL or NoSQL database.</li><li>Hands on experience on Typescript(React) as frontend stack.</li><li>Hands on experience with TensorFlow and/or PyTorch is a plus.</li><li>Experience with large-scale distributed systems and microservice architectures is a plus.</li><li>Exposure with tools and processes like Git, Docker, Kubernetes etc.</li><li>Exposure with Continuous Delivery methodologies. i.e. build, integrate and deploy. Familiar with continuous integration tools like Jenkins is a plus.</li></ul><p><br /></p><p><strong>Why you should apply:</strong></p><ul><li>Competitive remuneration and benefits.</li><li>Flat hierarchy with minimal bureaucracy.</li><li>Learning opportunities through courses, seminars, and conferences.</li><li>Be at the forefront of innovation and gain access to cutting-edge technologies.</li><li>Contribute to enhancing Singapore’s position as a thriving innovation hub.</li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "TensorFlow",
+      "uuid": "074dd699710da0ec1eb45f13b31788e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud Computing",
+      "uuid": "3de3a4a550829dc4376329c29771bf78",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PyTorch",
+      "uuid": "95b88f180e9eb5678e0f9ebac2cbe643",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Design",
+      "uuid": "c1b8eee14e05c47f56588fb5e842f6e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "OOP",
+      "uuid": "ce4195da808656beae0c97fed9194192",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "202213457C",
+    "description": "<p>Knovel Engineering is a technology consultancy and solutioning company headquartered in Singapore. Our team have decades of experience in government&nbsp;and commercial sector on both side of the technology innovation fence (client&nbsp;&amp; service provider), we strived to collaborate closely with our clients to contribute to their core business. Our vision is to empower our clients to bring about exponential impact through novel technology and solutioning.</p>",
+    "name": "KNOVEL ENGINEERING PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": 20,
+    "companyUrl": "www.knoveleng.com",
+    "lastSyncDate": "2026-01-28T02:55:47.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213457C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213457C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213457C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202213457C/schemes"
+      }
+    },
+    "logoFileName": "5a66fda04ec11f6e9a446400d2249e25/knovel-engineering.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5a66fda04ec11f6e9a446400d2249e25/knovel-engineering.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "82",
+    "street": "UBI AVENUE 4",
+    "floor": null,
+    "unit": null,
+    "building": "EDWARD BOUSTEAD CENTRE",
+    "postalCode": "408832",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33288462898325,
+    "lng": 103.892303618387
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1959676",
+    "deletedAt": "2026-01-21T17:15:04.000Z",
+    "createdBy": "f3c2d16c-c25d-489c-9af7-a1a06e83b14b",
+    "createdAt": "2025-12-22T06:56:03.000Z",
+    "updatedAt": "2026-01-28T02:56:24.000Z",
+    "emailRecipient": "f3c2d16c-c25d-489c-9af7-a1a06e83b14b",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 210,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2025-12-22",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 12,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-software-developer-knovel-engineering-c07d7f00799a369678cd20d0c456d986",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c07d7f00799a369678cd20d0c456d986"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c07d7f00799a369678cd20d0c456d986/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

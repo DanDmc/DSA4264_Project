@@ -1,0 +1,233 @@
+{
+  "uuid": "7ff8054424b74a08ac1bc3571380486e",
+  "sourceCode": "Employer Portal",
+  "title": "Temporary Class 4 Driver Wanted",
+  "description": "<p> <strong>Temporary Class 4 Driver Wanted</strong> ��<br />* Valid Class 4 license<br />* Short-term assignment<br />* Immediate availability</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 4 License",
+      "uuid": "550ad6326e7ba8a926fe6ddb2d92fb13",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPS",
+      "uuid": "8c578de37278ada488d763ea86c5cf20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trucking",
+      "uuid": "a49db90c7d7e1b333a16a1be1741b491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soil",
+      "uuid": "e4b9dca2448724ca25e388a0317a09c8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200923252K",
+    "description": null,
+    "name": "SH ENGINEERING & CONSTRUCTION PTE. LTD.",
+    "ssicCode": "71121",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T04:13:34.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200923252K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200923252K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200923252K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200923252K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "9012",
+    "street": "TAMPINES STREET 93",
+    "floor": null,
+    "unit": null,
+    "building": "TAMPINES INDUSTRIAL PARK A",
+    "postalCode": "528845",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 18,
+        "location": "D18 Tampines, Pasir Ris",
+        "region": "East",
+        "sectors": [
+          "51",
+          "52"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.34087590102933,
+    "lng": 103.943710846592
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180634",
+    "deletedAt": null,
+    "createdBy": "d3c1f14f-713d-41e1-90c7-8c7bed5e9ce3",
+    "createdAt": "2026-01-29T04:23:39.000Z",
+    "updatedAt": "2026-01-29T04:23:39.000Z",
+    "emailRecipient": "d3c1f14f-713d-41e1-90c7-8c7bed5e9ce3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-05",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/temporary-class-4-driver-wanted-sh-engineering-construction-7ff8054424b74a08ac1bc3571380486e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 150,
+    "minimum": 120,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7ff8054424b74a08ac1bc3571380486e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7ff8054424b74a08ac1bc3571380486e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

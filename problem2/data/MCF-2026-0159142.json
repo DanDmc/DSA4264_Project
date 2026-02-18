@@ -1,0 +1,231 @@
+{
+  "uuid": "f09b6f8e260f56d16c4a05e125173437",
+  "sourceCode": "Employer Portal",
+  "title": "Quantity Surveyor",
+  "description": "<p>1) Must have 3 years' experience in ACMV QS work<br />2) Good knowledge in Building M&E services with experience in ACMV<br />3) Patient personality & pleasant demeanor<br />4) Self driven, willing to learn and pick up new skills<br />5) Assist in tender exercise <br />6) Take-off Quantities based on tender drawings <br />7) Liase with all suppliers </p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quantity Surveying",
+      "uuid": "432d30f5253617c75681fab93563c4b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tendering",
+      "uuid": "dce72ae17f6f9c488e4be5f4943ebc55",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21494",
+  "occupationId": "OCC003295",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "1129",
+  "postedCompany": {
+    "uen": "199405969E",
+    "description": "<p>\r\n\tAIRCON DESIGNS PTE LTD</p>\r\n",
+    "name": "AIRCON DESIGNS PTE LTD",
+    "ssicCode": "28300",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T07:59:15.000Z",
+    "ssicCode2020": "28300",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "199405969E",
+    "description": "<p>\r\n\tAIRCON DESIGNS PTE LTD</p>\r\n",
+    "name": "AIRCON DESIGNS PTE LTD",
+    "ssicCode": "28300",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T07:59:15.000Z",
+    "ssicCode2020": "28300",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199405969E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "199",
+    "street": "KAKI BUKIT AVENUE 1",
+    "floor": null,
+    "unit": null,
+    "building": "SHUN LI INDUSTRIAL PARK",
+    "postalCode": "416034",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33759621943082,
+    "lng": 103.912056789421
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159142",
+    "deletedAt": null,
+    "createdBy": "ad9f231c-f2fb-4d45-824d-58372dc4f774",
+    "createdAt": "2026-01-26T08:12:35.000Z",
+    "updatedAt": "2026-01-26T08:12:35.000Z",
+    "emailRecipient": "ad9f231c-f2fb-4d45-824d-58372dc4f774",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 79,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/quantity-surveyor-aircon-designs-f09b6f8e260f56d16c4a05e125173437",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f09b6f8e260f56d16c4a05e125173437"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f09b6f8e260f56d16c4a05e125173437/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

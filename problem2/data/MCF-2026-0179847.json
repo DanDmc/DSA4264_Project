@@ -1,0 +1,199 @@
+{
+  "uuid": "9d75a9e00fa7b18ea9aa5a2291f20d08",
+  "sourceCode": "Employer Portal",
+  "title": "Mechatronics Engineer (Junior)",
+  "description": "<p><strong>Responsibilities (Junior)</strong></p><p>· Assist senior engineers in installation and commissioning activities</p><p>· Perform routine maintenance and basic troubleshooting</p><p>· Support testing and inspection of equipment</p><p>· Maintain and update records and reports</p><p>· Learn system operations and company procedures</p><p>· Provide on-site technical support when required</p><p><strong>Job Requirements (Junior)</strong></p><p>· Diploma or Degree in Mechatronics, Mechanical, Electrical, or related field</p><p>· Fresh graduates are welcome to apply</p><p>· Basic knowledge of:</p><ul><li>Mechanical systems</li><li>Electrical wiring and components</li><li>Sensors and actuators</li><li>PLC or basic automation (advantage)</li></ul><p>· Willingness to learn and take guidance</p><p>· Good teamwork and communication skills</p><p>· Able to travel to project sites if required</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Solidworks",
+      "uuid": "5dcbc8d322035b0c6a6ecee8a3348fc8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raspberry Pi",
+      "uuid": "6409a2bc3aca99ce56cae5c623b237ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arduino",
+      "uuid": "ee5bced252ab77ec8d633c1afda7c5da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communicaitons",
+      "uuid": "fffb1311a3f5048b80ac4fabb5c47ce8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31291",
+  "occupationId": "OCC014146",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1151",
+  "postedCompany": {
+    "uen": "201304783R",
+    "description": "<p>Infolog is a global software company that provides streamlined, omni-channel software solutions, exclusively for the Distribution, Logistics and Supply Chain industries.</p>",
+    "name": "INFOLOG PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "https://www.infolog.com.sg/en/",
+    "lastSyncDate": "2026-02-02T01:15:35.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201304783R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201304783R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201304783R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201304783R/schemes"
+      }
+    },
+    "logoFileName": "93c6d25e169aef88dfc23f6beb3305df/infolog.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/93c6d25e169aef88dfc23f6beb3305df/infolog.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179847",
+    "deletedAt": null,
+    "createdBy": "1bc697a5-968d-42e0-8521-0714ae81036d",
+    "createdAt": "2026-01-29T02:57:46.000Z",
+    "updatedAt": "2026-01-29T02:57:47.000Z",
+    "emailRecipient": "1bc697a5-968d-42e0-8521-0714ae81036d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 31,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/mechatronics-engineer-infolog-9d75a9e00fa7b18ea9aa5a2291f20d08",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9d75a9e00fa7b18ea9aa5a2291f20d08"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9d75a9e00fa7b18ea9aa5a2291f20d08/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

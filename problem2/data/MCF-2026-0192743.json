@@ -1,0 +1,230 @@
+{
+  "uuid": "4fa64341244d46ab8d6ef0379bc3d36b",
+  "sourceCode": "Employer Portal",
+  "title": "Kitchen Assistant",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>PANEVINO (\"bread and wine\") is a company that is dedicated to delivering handmade food from traditional recipes using quality ingredients. Cugini Trattoria Pizzeria, which launched in early 2009 is our main restaurant. We serve authentic Italian food and excel in customer satisfaction.</p><p><strong>Job Summary</strong></p><p>We are looking for motivated and reliable individuals to join our kitchen team. This role supports daily kitchen operations, focusing on mise en place, pasta plating, and preparation of starters and desserts.</p><p><strong>Responsibilities</strong></p><ul><li>Prepare mise en place items to support timely food preparation during service</li><li>Plate pasta dishes following kitchen standards to ensure consistent presentation and quality</li><li>Prepare starters and desserts as directed by the Chef to meet menu requirements</li><li>Maintain cleanliness and organization of kitchen workstations to uphold hygiene and safety standards</li><li>Follow food safety, hygiene, and workplace safety procedures to ensure a safe kitchen environment</li><li>Assist with other kitchen duties as assigned to support smooth kitchen operations during service</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Prior kitchen or food preparation experience is an advantage (training provided)</li><li>Willingness to learn and follow instructions to improve kitchen skills</li><li>Ability to work effectively in a fast-paced environment</li><li>Team player with a positive attitude to contribute to a supportive work culture</li><li>Physical fitness to stand for long hours and perform kitchen tasks</li><li>Flexibility to work shifts, weekends, and public holiday</li></ul><p><strong>What we offer</strong><br /></p><ul><li>Stable full time employment</li><li>Staff meals</li><li>Supportive team environment and leadership that encourages learning and career growth</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Italian",
+      "uuid": "4be8e06d27bca7e1828f2fa9a49ca985",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Wine",
+      "uuid": "b9eadba3c35f7f89e93c92eb2c8d39b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "94101",
+  "occupationId": "OCC013299",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202228215Z",
+    "description": "<p>PANEVINO (\"bread and wine\") is a company that is dedicated to delivering handmade food from traditional recipes using quality ingredients. </p><p><br /></p><p>Cugini Trattoria Pizzeria, which launched in early 2009 is our main restaurant. We serve authentic Italian food and excel in customer satisfaction.</p>",
+    "name": "PANEVINO PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": 10,
+    "companyUrl": "https://www.cugini.com.sg/",
+    "lastSyncDate": "2026-02-04T05:00:23.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228215Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228215Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228215Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228215Z/schemes"
+      }
+    },
+    "logoFileName": "7d7e3318cd6aa2bdd9348db8ddb736a8/panevino.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7d7e3318cd6aa2bdd9348db8ddb736a8/panevino.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "37",
+    "street": "JOO CHIAT PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "427761",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31352480415359,
+    "lng": 103.900540759355
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192743",
+    "deletedAt": null,
+    "createdBy": "f219cf4e-3eb0-4abb-8a4f-8bc24c21ce35",
+    "createdAt": "2026-01-31T04:26:12.000Z",
+    "updatedAt": "2026-01-31T04:26:12.000Z",
+    "emailRecipient": "f219cf4e-3eb0-4abb-8a4f-8bc24c21ce35",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/kitchen-assistant-panevino-4fa64341244d46ab8d6ef0379bc3d36b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fa64341244d46ab8d6ef0379bc3d36b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fa64341244d46ab8d6ef0379bc3d36b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

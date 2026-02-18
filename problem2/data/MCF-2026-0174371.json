@@ -1,0 +1,236 @@
+{
+  "uuid": "4a287e59477a123ca8d463517bdbbb73",
+  "sourceCode": "Employer Portal",
+  "title": "IT System Administrator",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><p>Perform Microsoft 365 and Azure administration, including:</p><ul><li><p>Intune, Entra ID, Exchange, SharePoint, Teams, Defender, and security configuration</p></li><li><p>PowerShell scripting for automation and administration tasks</p></li></ul></li><li><p>Provide Level 1.5 support for Microsoft 365 issues and escalations</p></li><li><p>Manage and support Intune and Entra, including:</p><ul><li><p>Application packaging for deployment and removal</p></li><li><p>Configuration and Compliance Policies</p></li><li><p>Conditional Access configuration</p></li><li><p>Scripts and remediation activities</p></li><li><p>Application protection and AppLocker deployment</p></li><li><p>Device enrollment and device administration</p></li></ul></li><li><p>Provide support for:</p><ul><li><p>Windows endpoints (laptops/desktops)</p></li><li><p>Printers and peripherals</p></li><li><p>Basic network devices (routers, switches, access points)</p></li></ul></li><li><p>Participate in MS 365, network, and infrastructure projects and implementations</p></li><li><p>Research, diagnose, and resolve new or evolving technical issues independently<br /></p></li></ul><p><strong>Requirements</strong></p><ul><li><p>Hands-on experience in independent MS 365 administration</p></li><li><p>Strong knowledge of Intune and Entra administration</p></li><li><p>Experience with PowerShell scripting</p></li><li><p>Good troubleshooting skills for Level 1.5 incidents</p></li><li><p>Experience with Windows endpoint and basic network support</p></li><li><p>Ability to work independently and proactively research solutions</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Powershell",
+      "uuid": "531b84ad41b2a753da83acf367990701",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SharePoint",
+      "uuid": "97f02f6993b93732b0d39dfe00466949",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25220",
+  "occupationId": "OCC002200",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200816975W",
+    "description": "<p>Nanyang Tech Pte Ltd is an IT system integrator. We provide IT support, &nbsp;Outsourced IT services, Computer hardware, PC Rental to our customer. We&nbsp;are a Lenovo Business Partner – Large Enterprise, Apple Authorized &nbsp;Reseller, and Dell Managed Final Tier Partner.</p>\n<p><br></p>\n<p>Our clientele includes fortune 500 companies, SMEs, public-listed companies, banks and multi-national companies.</p>",
+    "name": "NANYANG TECH PTE. LTD.",
+    "ssicCode": "47412",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T01:28:13.000Z",
+    "ssicCode2020": "47412",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200816975W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200816975W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200816975W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200816975W/schemes"
+      }
+    },
+    "logoFileName": "7550b0d113df7f05e2e10b11e084746d/nanyang-tech.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7550b0d113df7f05e2e10b11e084746d/nanyang-tech.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "46",
+    "street": "LORONG 17 GEYLANG",
+    "floor": null,
+    "unit": null,
+    "building": "ENTERPRISE INDUSTRIAL BUILDING",
+    "postalCode": "388568",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31484076794936,
+    "lng": 103.87867010725
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174371",
+    "deletedAt": null,
+    "createdBy": "c8afa831-cdad-4d9d-9bbd-72b7f0f60d31",
+    "createdAt": "2026-01-28T06:28:45.000Z",
+    "updatedAt": "2026-01-28T06:28:45.000Z",
+    "emailRecipient": "c8afa831-cdad-4d9d-9bbd-72b7f0f60d31",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 74,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/system-administrator-nanyang-tech-4a287e59477a123ca8d463517bdbbb73",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a287e59477a123ca8d463517bdbbb73"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a287e59477a123ca8d463517bdbbb73/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

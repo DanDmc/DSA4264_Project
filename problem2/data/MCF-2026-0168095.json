@@ -1,0 +1,198 @@
+{
+  "uuid": "dd2ef4da2c000f228679545a42f5eaa4",
+  "sourceCode": "Employer Portal",
+  "title": "Social Worker",
+  "description": "<p><strong>JOB SUMMARY</strong><br />We are seeking a dedicated and passionate individual to support at-risk youth through the YMCA’s Vocational and Soft Skills Programme (Project Bridge). The role involves conducting workshops, case management, and community engagement. Additionally, the candidate will contribute to programme development and cross-functional projects to enhance service delivery. Strong interpersonal and communication skills are essential for engaging with clients, families, and professional partners. The ideal candidate is proactive, adaptable, and committed to making a meaningful impact on the lives of young people.<br /></p><p><strong>JOB RESPONSIBILITIES</strong></p><ul><li><p>Case Assessment & Intake – Evaluate referral cases, conduct needs assessments, and determine suitability for intervention.</p></li><li><p>Client Engagement & Support – Build rapport with clients and stakeholders, set intervention goals, and sustain engagement in problem-solving.</p></li><li><p>Case Planning & Management – Develop case plans, coordinate interventions, and collaborate with community resources and agencies.</p></li><li><p>Documentation & Reporting – Maintain case files and prepare reports in compliance with required documentation standards.</p></li><li><p>Group Work Facilitation – Assist in planning, implementing, and evaluating group-based interventions.</p></li><li><p>Community Needs Assessment – Conduct environmental scanning, data collection, and analysis to identify social trends and community needs.</p></li><li><p>Programme Development & Execution – Support programme development, implementation, and feasibility studies based on client and community needs.</p></li><li><p>Stakeholder & Outreach Engagement – Promote programmes to target groups and advise stakeholders on relevant services and interventions.</p></li><li><p>Cross-Functional Projects – Collaborate with various teams and stakeholders on interdisciplinary projects to enhance service delivery, programme effectiveness, and organisational goals.<br /></p></li></ul><p><strong>JOB REQUIREMENTS</strong></p><ul><li><p>A Degree in Social Work or a related field is required.</p></li><li><p>Prior experience working with youths is preferred.</p></li><li><p>Experience in group work facilitation, community needs assessments, or stakeholder engagement is an advantage.</p></li><li><p>Passionate about supporting youths and their families.</p></li><li><p>Strong interpersonal and communication skills to engage effectively with youths, families, and professional partners.</p></li><li><p>A collaborative team player with excellent organizational and administrative skills.</p></li><li><p>Resourceful and proactive in problem-solving.</p></li><li><p>Adaptable and flexible in responding to diverse situations.</p></li><li><p>Demonstrates independence, personal effectiveness, and strong time management skills.</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Social Services",
+      "uuid": "4f20b99cd1a83a132e2765e8d3340389",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Soft Skills",
+      "uuid": "777a598047f83d94505540ab7b46432b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stakeholder Engagement",
+      "uuid": "867e5c27fed3f9f4f75a8996b1ff2d19",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Adaptable",
+      "uuid": "8f510dc4fa921821d40a6a8c732cff56",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interventions",
+      "uuid": "a9fa395bfb2297bb985c6f29ecd4eb76",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Case Management",
+      "uuid": "d799928eb48a88cb861f3283005d227a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Facilitation",
+      "uuid": "e141d61309d06eb02ea67f44dd876d32",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "26351",
+  "occupationId": "OCC008081",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 38,
+      "category": "Social Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0341",
+  "postedCompany": {
+    "uen": "S61SS0045E",
+    "description": "<p>   YMCA of Singapore is a volunteer-based Christian organisation that seeks to serve and impact all members of the community regardless of race, language or religion, through programmes, services and enterprises to develop body, mind and spirit.</p>  <p>   YMCA also owns various social enterprises, such as the YMCA International House, YMCA Child Development and Student Care Centres, YMCA School and YMCA Higher Education.</p>  ",
+    "name": "Young Men's Christian Association of Singapore",
+    "ssicCode": "88992",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:00:19.000Z",
+    "ssicCode2020": "00000",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S61SS0045E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S61SS0045E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S61SS0045E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S61SS0045E/schemes"
+      }
+    },
+    "logoFileName": "2725e99473a5defb03dbf393a85658c7/young-mens-christian-association-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/2725e99473a5defb03dbf393a85658c7/young-mens-christian-association-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "Orchard Road",
+    "floor": null,
+    "unit": null,
+    "building": "YMCA of Singapore",
+    "postalCode": "238824",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29759959462393,
+    "lng": 103.848124401147
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168095",
+    "deletedAt": null,
+    "createdBy": "b265b65e-6ba3-41d8-8062-ef8d8cd86db7",
+    "createdAt": "2026-01-27T09:26:19.000Z",
+    "updatedAt": "2026-01-27T09:26:20.000Z",
+    "emailRecipient": "b265b65e-6ba3-41d8-8062-ef8d8cd86db7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 92,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/social-services/social-worker-young-mens-christian-association-singapore-dd2ef4da2c000f228679545a42f5eaa4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dd2ef4da2c000f228679545a42f5eaa4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dd2ef4da2c000f228679545a42f5eaa4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

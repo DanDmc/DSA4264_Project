@@ -1,0 +1,233 @@
+{
+  "uuid": "83c4f12b515b3d15ea3aa38e3ffb610b",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Executive",
+  "description": "<p>Job Description</p><ul><li>Sales of Pharmaceutical products (GPs & Hospitals)</li><li>Prospect and build new customer base on achieve sales targets.</li><li>Build rapport with customers.</li><li>Perform specific customer and market survey.</li></ul><p>Requirements</p><ul><li>Minimum 'O' level to Diploma holders in any discipline</li><li>Fresh Diploma holders may apply</li><li>Possess excellent communication and interpersonal skills</li><li>Professional sales etiquettes</li><li>Good planning and organizing skills</li><li>Possess drive, resourceful & dedicated</li><li>Must be independent but also works well in a team</li><li>Possess own transport is a must</li><li>Possess own transport</li></ul><p><strong>Preferred Qualifications</strong>:</p><ul><li>Experience in the pharmaceuticals industry relevant to the company</li><li>Familiarity with the local market and customer preferences</li></ul><p>Benefit</p><ul><li>Attractive commission achievable</li><li>Incentives given when sales target are exceeded</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cold Calling",
+      "uuid": "6a7a1480db29457c46ea8dc4f1be1342",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24332",
+  "occupationId": "OCC007071",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "197000900D",
+    "description": "<p>\r\n\tBEACONS PHARMACEUTICALS PTE. LTD.</p>\r\n<p>\r\n\tWe are the largest generic pharmaceutical manufacturer in Singapore, specalizing in all major therapeutics in a variety of dosage forms from tablets and capsules to ointments, creams and liquids. The Beacons name is found on over 200 competitively priced products ranging from prescribed medicine to vitamins used everday in most hospitals and clinics in Singapore.</p>\r\n<p>\r\n\tWith over 43 years in the pharmaceutical industry, servicing both government and private medical communities, Beacons Pharmaceuticals has earned strong market leadership positions in Singapore and its surrounding regions of Asia.</p>\r\n",
+    "name": "BEACONS PHARMACEUTICALS PTE. LTD.",
+    "ssicCode": "46461",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:26:05.000Z",
+    "ssicCode2020": "46461",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000900D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000900D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000900D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197000900D/schemes"
+      }
+    },
+    "logoFileName": "95298393fd8b43dd647ffe4f61280230/beacons-pharmaceuticals.JPG",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/95298393fd8b43dd647ffe4f61280230/beacons-pharmaceuticals.JPG",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "SECOND CHIN BEE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "618769",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.3305840978905,
+    "lng": 103.715436238107
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178461",
+    "deletedAt": null,
+    "createdBy": "2a89b0cd-aa91-4e0e-bab1-3ccfa7f660c3",
+    "createdAt": "2026-01-29T00:27:24.000Z",
+    "updatedAt": "2026-01-29T00:27:24.000Z",
+    "emailRecipient": "2a89b0cd-aa91-4e0e-bab1-3ccfa7f660c3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/sales-executive-beacons-pharmaceuticals-83c4f12b515b3d15ea3aa38e3ffb610b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2200,
+    "minimum": 1600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/83c4f12b515b3d15ea3aa38e3ffb610b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/83c4f12b515b3d15ea3aa38e3ffb610b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

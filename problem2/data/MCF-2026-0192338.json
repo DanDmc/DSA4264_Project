@@ -1,0 +1,259 @@
+{
+  "uuid": "adeddcc721d68c76c985d3f7aaf3cab3",
+  "sourceCode": "Employer Portal",
+  "title": "welder",
+  "description": "<ul>\n  <li>Reading and interpreting blueprints: Understanding designs, specifications, and diagrams to determine the appropriate welding process.</li>\n  <li>Operating welding equipment: Utilizing various welding techniques like MIG, TIG, and arc welding.</li>\n  <li>Sourcing and preparing materials: Measuring, cutting, and preparing metal pieces for welding.</li>\n  <li>Performing welding tasks: Joining metal parts with precision and accuracy.</li>\n  <li>Inspecting welds: Ensuring structural integrity and quality.</li>\n  <li>Maintaining equipment and tools: Ensuring proper functioning and safety.</li>\n</ul>\n<p>Depending on the specific role and industry, welders may also be responsible for:</p>\n<ul>\n  <li>Shaping and polishing metal after welding: Ensuring a smooth and polished finish.</li>\n  <li>Working with different types of metals: Handling various alloys and materials.</li>\n  <li>Following safety regulations: Adhering to safety procedures and using personal protective equipment.</li>\n  <li><br></li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Polishing",
+      "uuid": "298c17948857de446ea2aea7dcf904d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arc",
+      "uuid": "2b73f91683611c489560a1d163e37902",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpreting",
+      "uuid": "883f9bc828196c913b19f32b6ed23366",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Welding",
+      "uuid": "8be92a6dba91189e3e092f2ef2961bbb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Finish",
+      "uuid": "a20ddccbb6f808ec42cd66323e6c6061",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stainless Steel",
+      "uuid": "dbe24a202605a94f66b1c42d3af326b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arc Welding",
+      "uuid": "e6aa61f2ad1c92ea46f2c1980a3357b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "72120",
+  "occupationId": "OCC010205",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "49",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "202114494M",
+    "description": null,
+    "name": "ADVANCE RECRUITMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T11:21:08.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202114494M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202114494M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202114494M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202114494M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "200800668W",
+    "description": null,
+    "name": "PRECISION SURVEY CONSULTANTS PTE. LTD.",
+    "ssicCode": "71114",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T01:54:41.000Z",
+    "ssicCode2020": "71114",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200800668W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200800668W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200800668W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200800668W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "GAMBAS CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "ARK@GAMBAS",
+    "postalCode": "757087",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44485765403798,
+    "lng": 103.812834544627
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192338",
+    "deletedAt": null,
+    "createdBy": "630bde1d-b096-4a5f-8f60-3f2a8f76f2ba",
+    "createdAt": "2026-01-31T01:55:34.000Z",
+    "updatedAt": "2026-01-31T01:55:34.000Z",
+    "emailRecipient": "630bde1d-b096-4a5f-8f60-3f2a8f76f2ba",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/welder-precision-survey-consultants-adeddcc721d68c76c985d3f7aaf3cab3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/adeddcc721d68c76c985d3f7aaf3cab3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/adeddcc721d68c76c985d3f7aaf3cab3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

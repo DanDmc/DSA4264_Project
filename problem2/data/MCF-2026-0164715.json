@@ -1,0 +1,231 @@
+{
+  "uuid": "6e3303a645a7b3f0ad15449a68328ca3",
+  "sourceCode": "Employer Portal",
+  "title": "Resident Technical Officer",
+  "description": "<p><strong>Company Overview</strong></p><p>Brown Consulting Pte. Ltd. is an independent civil & structural engineering consultant. For over 25 years, we have been providing professional engineering consulting services and solutions to meet the most stringent requirements from many large scale infrastructure and architectural projects.</p><p><strong>Job Summary</strong></p><p>You will carryout site supervision activities for the LTA project, ensuring compliance with regulatory standards and driving quality and safety outcomes on site.</p><p><strong>Responsibilities</strong></p><ul><li>Conduct thorough site inspections to verify compliance with project specifications and regulatory requirements under the Building Control Act and Regulations</li><li>Review, evaluate, and assess method statements to ensure safe and effective execution of construction activities</li><li>Supervise and enforce site quality control measures to maintain high standards of workmanship and materials</li><li>Coordinate site works proactively to uphold construction safety and minimize risks to personnel and assets</li><li>Collaborate with relevant authorities and stakeholders to fulfill statutory duties and project requirements</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Minimum diploma in Civil or Structural discipline or NCCS or equivalent.</li><li>Accredited by JAC of IES/ACES as Qualified Site Supervisor (RTO-C&S)</li><li>Minimum 3 years of relevant experience supervising civil works similar in nature</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Experience working on LTA projects is preferred.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Excavation",
+      "uuid": "00c9b3f93f7c830f305c0d8367bf622f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Drainage",
+      "uuid": "19f08c5d64cd095d2108126419a12e8c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assurance",
+      "uuid": "5f0d8f614176ed32572ffc4e25701af9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Safety",
+      "uuid": "8313259ce4d9c3ca71d6fb7e3afa3226",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Engineering",
+      "uuid": "931140d8e607636c929c269fa1d409b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Instrumentation",
+      "uuid": "d72da0fd17da5eea9c38b196c5f88dfa",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31124",
+  "occupationId": "OCC005323",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1121",
+  "postedCompany": {
+    "uen": "200300889E",
+    "description": "<p><strong>Brown Consulting Pte. Ltd.</strong> is an independent civil &amp; structural engineering consultant. &nbsp;For over 25 years, we have been providing professional engineering consulting services and solutions to meet the most stringent requirements from many large scale infrastructure and architectural projects.</p>",
+    "name": "BROWN CONSULTING PTE. LTD.",
+    "ssicCode": "71125",
+    "employeeCount": null,
+    "companyUrl": "www.brownconsulting.com.sg",
+    "lastSyncDate": "2026-02-04T01:09:13.000Z",
+    "ssicCode2020": "71125",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300889E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300889E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300889E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200300889E/schemes"
+      }
+    },
+    "logoFileName": "bb4f6d5142a2262d2d1ae9614f4bca76/brown-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/bb4f6d5142a2262d2d1ae9614f4bca76/brown-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164715",
+    "deletedAt": null,
+    "createdBy": "a75f9826-c4c5-4db6-a60e-52a3566ab3eb",
+    "createdAt": "2026-01-27T03:20:53.000Z",
+    "updatedAt": "2026-01-27T03:20:54.000Z",
+    "emailRecipient": "a75f9826-c4c5-4db6-a60e-52a3566ab3eb",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 83,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/resident-technical-officer-brown-consulting-6e3303a645a7b3f0ad15449a68328ca3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5800,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6e3303a645a7b3f0ad15449a68328ca3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6e3303a645a7b3f0ad15449a68328ca3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

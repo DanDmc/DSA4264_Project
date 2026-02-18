@@ -1,0 +1,248 @@
+{
+  "uuid": "e8c14b65d8b0024a27a81d9bdc26ec90",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps Software O&M Engineer",
+  "description": "<p><strong>Company Overview</strong></p><p>Blue Silo is a leading technology company specializing in mission-critical, enterprise-grade software solutions for defense, government, and industrial sectors. We build and deploy robust, secure, and scalable systems.</p><p>To ensure the continued excellence of our deployed systems, we are establishing a dedicated Operations & Maintenance (O&M) services team. This team is integral to delivering the sustained performance and support our high-stakes client environments demand, bridging the gap between cutting-edge deployment and long-term operational success.</p><p><strong>Job Description</strong></p><p>As an O&M Engineer at Blue Silo, you will be the cornerstone of our new on-site operations team. You are responsible for the ongoing health, performance, and stability of deployed client systems within sensitive and demanding environments. Acting as the first line of defense, you will manage daily operations, execute deployments, and respond to emergencies as defined by strict client SLAs. You will work autonomously on-site with direct backing from our remote development team for complex troubleshooting. This role is ideal for a hands-on engineer who thrives on ensuring system reliability in mission-critical settings and is keen to implement modern practices.</p><p><strong>Responsibilities</strong></p><p>1. Core Operations & Maintenance (Primary Focus)</p><ul><li><p>Provide on-site operational management and support for deployed client projects.</p></li><li><p>Respond to and resolve emergency incidents and service requests within defined SLA timelines.</p></li><li><p>Perform routine system maintenance, including OS/application patching and health checks.</p></li><li><p>Administer Linux and Windows server environments.</p></li><li><p>Manage virtualization platforms (e.g., VMware, Hyper-V).</p></li><li><p>Monitor system health and performance using tools like Zabbix, proactively addressing alerts.</p></li><li><p>Manage Docker containers and their lifecycle.</p></li><li><p>Implement and verify backup and replication jobs using Veeam or similar tools.</p></li></ul><p>2. DevOps & Cloud Support (Growing Focus)</p><ul><li><p>Assist in provisioning and maintaining cloud infrastructure (AWS, Azure, or GCP).</p></li><li><p>Utilize scripting (Bash, PowerShell, Python) to automate routine tasks.</p></li><li><p>Support the implementation of Infrastructure as Code (IaC) using tools like Terraform.</p></li><li><p>Help integrate and maintain monitoring with cloud-native tools (e.g., CloudWatch, Azure Monitor).</p></li><li><p>Follow and improve established CI/CD and configuration management practices.</p></li></ul><p>3. Documentation & Collaboration</p><ul><li><p>Maintain detailed documentation of procedures, configurations, and incidents.</p></li><li><p>Liaise between the client site and the remote Blue Silo development team for escalated troubleshooting.</p></li><li><p>Participate in on-call rotations and contribute to post-incident reviews.</p></li></ul><p><strong>Required Qualifications</strong></p><ul><li><p>Proven experience in a technical support, system administration, or related hands-on role.</p></li><li><p>Strong practical knowledge and troubleshooting skills in:</p></li><li><li><p>Linux and Windows Server administration.</p></li><li><p>Networking configuration and protocols.</p></li><li><p>Virtualization technologies (VMware, Hyper-V).</p></li><li><p>System patching and security updates.</p></li><li><p>Service monitoring tools (Zabbix preferred).</p></li></li><li><p>Experience with software deployment processes.</p></li><li><p>Ability to work independently on-site with clients and communicate effectively.</p></li><li><p>Strong problem-solving skills and a methodical approach to incident management.</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>Hands-on experience with a major cloud platform (AWS, Azure, or GCP).</p></li><li><p>Familiarity with Infrastructure as Code (Terraform, CloudFormation) and configuration management (Ansible).</p></li><li><p>Proficiency in a scripting language (Python, Bash, PowerShell).</p></li><li><p>Experience with container technologies (Docker).</p></li><li><p>Knowledge of CI/CD pipeline concepts and tools.</p></li></ul><p><strong>What We Offer</strong></p><ul><li><p>The opportunity to be a foundational member of our new O&M services team.</p></li><li><p>Direct engagement with deployed projects in high-stakes environments.</p></li><li><p>Supportive backup from an experienced development team.</p></li><li><p>A competitive compensation and benefits package.</p></li></ul><p><strong>How to Apply</strong></p><p>Please send your resume and a cover letter explaining your relevant experience and interest in this position to hr@bluesilo.studio.</p><p>Include \"DevOps O&M Engineer Application\" in the subject line.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Work Autonomously",
+      "uuid": "01640076e999c34d6e705f91e3fb1ef9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Veeam",
+      "uuid": "05241239c2e205951eabc51d0b39de96",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Suse",
+      "uuid": "403f5d2e0d35fd03d5596c275ba99340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SUSE Linux Enterprise Server",
+      "uuid": "4ae0b3e9c82d7212e106b8d937d888f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Defense",
+      "uuid": "4b088aaa68446b6ec08cdc385d03516d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bash",
+      "uuid": "7024ff0860dec6ab1519a3f71c7d8779",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Replication",
+      "uuid": "8c340dc334134096f68b880b42a8692c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Configuration Management",
+      "uuid": "a4934331bbf896399132d3d20f141ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Zabbix",
+      "uuid": "d1ddc1b1c3c258570ba6994be1aeaddf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtualization",
+      "uuid": "ea4c55be196897a16d86999f5c16d582",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013758",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "201426808R",
+    "description": "<p>At Blue Silo, we specialize in cutting-edge IT solutions for government and enterprise clients, focusing on the digitalization of processes through technologies like Digital Twins, IoT, and Computer Vision. Our expertise in these areas allows us to create advanced, customized software solutions that improve operational efficiency and solve complex problems for our clients. We are committed to innovation and excellence, and we’re looking for a dynamic Sales Leader to join our team and drive our business forward.</p>",
+    "name": "BLUE SILO PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://bluesilo.studio/",
+    "lastSyncDate": "2026-02-02T06:08:49.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201426808R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201426808R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201426808R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201426808R/schemes"
+      }
+    },
+    "logoFileName": "173ee6b4aab928dd5181b1c259ab1c3e/blue-silo.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/173ee6b4aab928dd5181b1c259ab1c3e/blue-silo.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177824",
+    "deletedAt": null,
+    "createdBy": "85571d9f-5304-4917-b95e-b0781b0775de",
+    "createdAt": "2026-01-28T14:58:31.000Z",
+    "updatedAt": "2026-01-28T14:58:31.000Z",
+    "emailRecipient": "85571d9f-5304-4917-b95e-b0781b0775de",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/devops-software-om-engineer-blue-silo-e8c14b65d8b0024a27a81d9bdc26ec90",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e8c14b65d8b0024a27a81d9bdc26ec90"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e8c14b65d8b0024a27a81d9bdc26ec90/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

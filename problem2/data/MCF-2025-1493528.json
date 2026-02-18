@@ -1,0 +1,232 @@
+{
+  "uuid": "ef8ce4380a90a8ed7493328482c82321",
+  "sourceCode": "Employer Portal",
+  "title": "Salesforce Developer",
+  "description": "<p><strong>Role: Salesforce Developer</strong></p>\n<p><br></p>\n<p><strong>Job Summary</strong></p>\n<p>The Salesforce Senior Developer position will work as Salesforce Developers, Salesforce Admins, Configuration Managers, and various organizational units. This position will be responsible for technical aspects of Salesforce, including data migration/integration, data quality, systems integration, and custom code.</p>\n<p><br></p>\n<p><strong>Key Responsibilities</strong></p>\n<p>· Perform hands-on technical implementation, with a focus on delivering functional solutions on the Salesforce.com platform.</p>\n<p>· Take a lead role in the design, implementation, deployment and documentation of projects that leverage the Salesforce.com toolset.</p>\n<p>· Serve as the subject matter expert for solution architecture that will include configuration, development, integration and customization of complex environments.</p>\n<p>· Serve as technical lead for Salesforce projects.</p>\n<p>· Develop strategies to solve complex technical challenges.</p>\n<p>· Strong understanding of Salesforce Declarative Programming and Administration (develop code, custom objects, LWC, Visual Force pages, Apex, reports, workflows and assignment rules).</p>\n<p>· Design and develop solutions primarily on the Salesforce platform using Apex programming language, Visual Force, Lightning Web Components.</p>\n<p>· Create and maintain lighting community templates, lightning web components and flows.</p>\n<p>· Develop software solutions using Salesforce.com API framework, and 3rd party APIs.</p>\n<p>· Perform unit testing and defect fixes.</p>\n<p>· Liaise with internal clients and users to understand their business needs in developing solutions through Salesforce.</p>\n<p>· Juggle multiple projects involving various end users, meet deadlines and proactively communicate status updates.</p>\n<p>· Demonstrate calm under pressure and be a proactive contributor with an eagerness to learn.</p>\n<p>· Ad hoc analysis and projects as needed.</p>\n<p><br></p>\n<p><strong>Skills:</strong></p>\n<p>· Solid understanding of and detailed experience with Salesforce architecture and API.</p>\n<p>· Detailed experience writing Visualforce and Apex classes and triggers.</p>\n<p>· Strong understanding of Oracle relational databases.</p>\n<p>· Demonstrative success with multiple Salesforce migration/integration projects.</p>\n<p>· Strong business analysis and functional experience, including requirements gathering.</p>\n<p>· Strong attention to detail and excellent problem-solving skills.</p>\n<p>· Strong verbal/written communication and data presentation skills, including an ability to effectively communicate with both customers, leadership, and technical teams.</p>\n<p><br></p>\n<p><strong>Qualifications:</strong></p>\n<p>· Bachelor’s degree in Computer Science, Software Engineering, MIS or related field is preferred.</p>\n<p>· 3 - 5+ years previous development experience with Salesforce (Certified Salesforce Developer preferred).</p>\n<p>· SFDC Dev certification (good to have)</p>\n<p>· Experience in Lightning development project.</p>\n<p>· Good communication, documentation and interpersonal skill.</p>\n<p>· Good team-work spirit.</p>\n<p>· Positive, enthusiastic, and self-motivated</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Requirements Gathering",
+      "uuid": "1723b433914d54481e91978db672d057",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lighting",
+      "uuid": "2e4b97fde8cf63085ec969fcc7e490c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apex Programming",
+      "uuid": "4fc38b23e422e144c9ddd8a436d96317",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Systems Integration",
+      "uuid": "67068f2e67fac7a2ac39102eea3abfe1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visual Force",
+      "uuid": "948cad08a2f5c28e31938f57b18fec7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Solution Architecture",
+      "uuid": "9f6302143996033ebb94d536b860acc3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualforce",
+      "uuid": "ec04a20c4d308665c19387a834fa41b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MIS",
+      "uuid": "fac1240d9bec673e6b735e209b16c3cf",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202324649W",
+    "description": "<p>At Sedha Consulting, we harness the power of technology to drive business growth and transformation. Sedha Consulting is a professional services company operating across Asia Pacific with leading capabilities in digital, cloud, and security. Combining unmatched experience and specialized skills, we offer Advisory, Consulting, Project Delivery, Managed Services, Training and Resourcing. With a strong focus on driving digital transformation, we leverage cutting-edge technologies to help businesses across industries achieve their goals and thrive in today's rapidly evolving digital landscape.</p>",
+    "name": "SEDHA CONSULTING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "www.sedhaconsulting.com",
+    "lastSyncDate": "2026-02-04T01:56:41.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202324649W/schemes"
+      }
+    },
+    "logoFileName": "496e1d4eae945e230a9b3a2fa591f045/sedha-consulting.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/496e1d4eae945e230a9b3a2fa591f045/sedha-consulting.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "TEMASEK BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "SUNTEC TOWER ONE",
+    "postalCode": "038987",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2954356977891,
+    "lng": 103.858374825349
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1493528",
+    "deletedAt": "2025-10-16T17:15:04.000Z",
+    "createdBy": "b32905c0-7ef2-47e3-8453-968654c6561c",
+    "createdAt": "2025-10-02T06:39:18.000Z",
+    "updatedAt": "2026-01-29T06:40:11.000Z",
+    "emailRecipient": "b32905c0-7ef2-47e3-8453-968654c6561c",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 89,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-10-02",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/salesforce-developer-sedha-consulting-ef8ce4380a90a8ed7493328482c82321",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef8ce4380a90a8ed7493328482c82321"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef8ce4380a90a8ed7493328482c82321/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

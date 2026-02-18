@@ -1,0 +1,234 @@
+{
+  "uuid": "e196f7109a480d1f56d7cf108fdf9b64",
+  "sourceCode": "Employer Portal",
+  "title": "Bank Sales Officer",
+  "description": "<p><strong>Responsibilities – Digital Sales Agent</strong></p><ul><li>Promote, sell & retain: Perform outbound calls to promote, upsell + retain loans products</li><li>Objection handling: Manage and handle customer’s resistance and objections</li><li>Meet sales targets: Achieve & exceed sales target assigned</li><li>Leads management: Maximise conversions within timeline for leads assigned</li><li>Customer Experience: Ensure great customer onboarding journey</li></ul><p><strong>Requirement</strong></p><ul><li>Strong communication skills and the ability to handle customer objections</li><li>Sales-driven & result oriented mindset</li><li>Prior Sales experience is a plus</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Referrals",
+      "uuid": "14eac32351aaebc9d0b5ec42fe95e3ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Telesales",
+      "uuid": "2e9424bec86738ad6fc2be050f6fb249",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Telemarketing",
+      "uuid": "3e7ebe7c174ad5da159a3aafa043f620",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loans",
+      "uuid": "64e109fb6dde9d711f1b7cba6ce2e279",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Credit Cards",
+      "uuid": "72cd903d1d9af33f8b8df3c7cc0c760e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Direct Sales",
+      "uuid": "8c7c3b47b0b2b69756e8fadec4a584c3",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52440",
+  "occupationId": "OCC062193",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202141661R",
+    "description": null,
+    "name": "AI-TALENT PERSONNEL SERVICES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T01:18:07.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202141661R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202141661R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202141661R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202141661R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160254",
+    "deletedAt": null,
+    "createdBy": "837f1e44-a8d9-4c57-91cd-204e12800e22",
+    "createdAt": "2026-01-26T09:21:19.000Z",
+    "updatedAt": "2026-01-26T09:21:19.000Z",
+    "emailRecipient": "837f1e44-a8d9-4c57-91cd-204e12800e22",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/bank-sales-officer-ai-talent-personnel-services-e196f7109a480d1f56d7cf108fdf9b64",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 2650,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e196f7109a480d1f56d7cf108fdf9b64"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e196f7109a480d1f56d7cf108fdf9b64/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

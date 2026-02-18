@@ -1,0 +1,229 @@
+{
+  "uuid": "d887c3a6453601f846704506c90d24a5",
+  "sourceCode": "Employer Portal",
+  "title": "COOK",
+  "description": "<p>Roles &amp; Responsibilities</p>\n<ol>\n  <li>Managing the workflow of the employees,</li>\n  <li>Creating a team schedules and delegating tasks accordinly</li>\n  <li>Assessing the work performance of the employees and identifying areas of improvement</li>\n  <li>Ensuring the business goals, deadlines and performance standards are met</li>\n  <li>Training and onboarding new hires to make sure they understand their roles</li>\n  <li>Setting goals for workers and making sure they comply with the company's plans and vision</li>\n  <li>Recommend a new employees to the human resources team based on an assessment of their performance</li>\n</ol>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Baking",
+      "uuid": "a11e3d7212c369ba1a229ea7a8ae65de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembling",
+      "uuid": "b65bcd4c023847cafb39151dfa9ddd7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HACCP",
+      "uuid": "c38d1935edec2f6cf463602abdfbabf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hazard Analysis",
+      "uuid": "d9b11377454884e4f7322d8db1aa9e19",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51202",
+  "occupationId": "OCC009285",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202006385G",
+    "description": null,
+    "name": "MASTER CHIPPY PTE. LTD.",
+    "ssicCode": "56122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T04:55:06.000Z",
+    "ssicCode2020": "56122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006385G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006385G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006385G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006385G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187815",
+    "deletedAt": null,
+    "createdBy": "18d56def-b24c-4eef-bcd9-b343312851b8",
+    "createdAt": "2026-01-30T04:57:11.000Z",
+    "updatedAt": "2026-01-30T04:57:11.000Z",
+    "emailRecipient": "18d56def-b24c-4eef-bcd9-b343312851b8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 25,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-master-chippy-d887c3a6453601f846704506c90d24a5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d887c3a6453601f846704506c90d24a5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d887c3a6453601f846704506c90d24a5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

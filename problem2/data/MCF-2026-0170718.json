@@ -1,0 +1,226 @@
+{
+  "uuid": "a3cfadbc97cf09f6b2c81d782f40bc19",
+  "sourceCode": "Employer Portal",
+  "title": "CLIENT ACCOUNT SERVICE EXECUTIVE",
+  "description": "<p>Address customer enquiries and concerns professionally, balancing company policies with individual needs.<br />Handle incoming calls and written enquiries, delivering timely and high-quality customer serviceand Manage assigned customer needs and provide ongoing support.<br />Deliver exceptional customer service and maintain a positive client experience at all times.<br />Monitor and manage customer reviews and report on customer feedback to help improve service standards.<br />Deliver exceptional customer service and maintain a positive client experience at all times</p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "serve customer",
+      "uuid": "13f2db8500be0eedf011d1e1a342726b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "customer calls",
+      "uuid": "1d5545629fce5cea2733e38d0d9d058d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "customer needs",
+      "uuid": "5563075134aa3a4b403ef5eea5f4b167",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Relationship Management",
+      "uuid": "5e0277be453b4b61d6cccb9bdc95594c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Driven",
+      "uuid": "60e8e3b9d579cb05cc43ac9ffae077a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Value",
+      "uuid": "9abac747d764180a5fe55920e00e887d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "help customers",
+      "uuid": "bc8c78bc2954dab85bf6194c014f2aac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33222",
+  "occupationId": "OCC007100",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53393511C",
+    "description": null,
+    "name": "VVV EMPLOYMENT AGENCY",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T13:22:58.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201818330D",
+    "description": null,
+    "name": "PDS ENGINEERING PTE. LTD.",
+    "ssicCode": "30110",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T00:00:30.000Z",
+    "ssicCode2020": "30110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201818330D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201818330D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201818330D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201818330D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "SOON LEE STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PIONEER JUNCTION",
+    "postalCode": "627606",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33378307271647,
+    "lng": 103.697237932835
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170718",
+    "deletedAt": null,
+    "createdBy": "c6425835-8977-4545-9a65-0fdc42c11750",
+    "createdAt": "2026-01-28T00:00:12.000Z",
+    "updatedAt": "2026-01-28T00:00:13.000Z",
+    "emailRecipient": "c6425835-8977-4545-9a65-0fdc42c11750",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 35,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/client-account-service-executive-pds-engineering-a3cfadbc97cf09f6b2c81d782f40bc19",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4200,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a3cfadbc97cf09f6b2c81d782f40bc19"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a3cfadbc97cf09f6b2c81d782f40bc19/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

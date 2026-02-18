@@ -1,0 +1,268 @@
+{
+  "uuid": "1f38b2dd9f900e67b5295baf1ebecb59",
+  "sourceCode": "Employer Portal",
+  "title": "Network Cable Supervisor",
+  "description": "<p>The Network Cable Supervisor is responsible for supervising the installation, repair, and maintenance of network cabling systems. This role includes managing a team of cable technicians, ensuring quality standards, ensuring safety protocols are followed, and ensuring timely completion of network cabling projects.<br /></p><p><u>Key Responsibilities:</u><br /></p><p><strong>Supervision & Team Management</strong></p><ul><li>Lead and supervise a team of cable installers and technicians. </li><li>Assign daily tasks, provide training, and ensure adherence to project timelines. </li><li>Monitor team performance and conduct performance evaluations.</li></ul><p><strong>Network Cabling Installation</strong></p><ul><li>Oversee the installation and termination of network cables (e.g., Ethernet, fiber optic) for new builds, upgrades, or renovations. </li><li>Ensure that cables are installed properly, labeled clearly, and meet all relevant standards and regulations.</li></ul><p><strong>Quality Assurance & Compliance</strong></p><ul><li>Ensure that all installations comply with local and international safety regulations and industry standards (e.g., TIA/EIA standards). </li><li>Perform inspections and troubleshoot installations to ensure cable systems function correctly and meet quality standards.</li></ul><p><strong>Cable Maintenance & Repairs</strong></p><ul><li>Manage cable maintenance and perform troubleshooting to resolve network issues caused by faulty or damaged cables. </li><li>Organize and coordinate cable repairs for both temporary and permanent systems.</li></ul><p><strong>Documentation & Reporting</strong></p><ul><li>Keep accurate records of installation procedures, cable routes, and any changes to the network system. </li><li>Generate detailed reports for management regarding project status, issues, and resolutions.</li></ul><p><strong>Collaboration with Other Teams</strong></p><ul><li>Work closely with network engineers, IT specialists, and other departments to ensure the integration of the cabling system with other network components. </li><li>Assist with network troubleshooting and provide recommendations for upgrades or replacements.</li></ul><p><strong>Safety Protocols</strong></p><ul><li>Enforce safety protocols and ensure compliance with health and safety regulations. </li><li>Conduct regular safety training for the team, emphasizing safe handling of cables and electrical equipment.</li></ul><p><u>Skills & Qualifications:</u></p><p><strong>Technical Skills</strong></p><ul><li>Extensive knowledge of network cabling (Ethernet, fiber optics, coaxial cables). </li><li>Proficiency in cable testing equipment and troubleshooting tools. </li><li>Understanding of network topology and the role of cabling in network performance.</li></ul><p><strong>Experience</strong></p><ul><li>Proven experience as a cable installer or technician, with at least 3 years in a supervisory or lead role. </li><li>Experience with large-scale network installations and data center projects is a plus.</li></ul><p><strong>Certifications</strong></p><ul><li>Industry certifications, such as BICSI (Building Industry Consulting Service International), CompTIA Network+, or similar, are highly preferred.</li></ul><p><strong>Soft Skills</strong></p><ul><li>Strong leadership and team management skills.</li><li>Excellent communication skills, with the ability to work collaboratively with other teams.</li><li>Problem-solving and troubleshooting skills.</li><li>Organizational and time management skills to handle multiple projects simultaneously.</li></ul><p><strong>Physical Requirements</strong></p><ul><li>Ability to lift and carry heavy equipment (up to 50 lbs).</li><li>Ability to work in various environments, including tight spaces, high altitudes, and outside conditions.</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Experience with wireless network infrastructure or security camera installations. Familiarity with network management software and tools.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "CCNA",
+      "uuid": "3d645983387566a4af67b11ff5f6bc1d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCNP",
+      "uuid": "4f0bfac243b0cece6b00889e526c7304",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fiber Optics",
+      "uuid": "79f90d1b6b87bdf672f88b3a21670f3f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Wireless",
+      "uuid": "7beff197adfc70df7ee315bfa4b1af75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "uuid": "9a572f869560bf1946b1595198d3d7a6",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "IP",
+      "uuid": "a12a3079e14ced46e69ba52b8a90b21a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cabling",
+      "uuid": "d223aabe6d0751ac7fb17d3493f3c6c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WAN",
+      "uuid": "e4c50e7a3518208e18c827187578acdf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "VPN",
+      "uuid": "eaef8590a83770745b6591921835bf08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Safety Training",
+      "uuid": "ef711fddca21bb190be27dc2b385573f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BGP",
+      "uuid": "fb5acc0324e3e6ac8d1a62b0bf195775",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35123",
+  "occupationId": "OCC005423",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    },
+    {
+      "id": 37,
+      "category": "Security and Investigation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "0917",
+  "postedCompany": {
+    "uen": "202024037E",
+    "description": "<p>TGN started with a plan to be a one-stop-shop for wireless resellers, installers, and all those who need access to a wide range of high-quality wireless communications equipment at competitive prices.</p>",
+    "name": "TGN TECHNOLOGY PTE. LTD.",
+    "ssicCode": "46511",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T02:20:45.000Z",
+    "ssicCode2020": "46511",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024037E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024037E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024037E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024037E/schemes"
+      }
+    },
+    "logoFileName": "2cdc4d88d7f436dd3e57a0be05341fbb/tgn-technology.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/2cdc4d88d7f436dd3e57a0be05341fbb/tgn-technology.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "47",
+    "street": "KALLANG PUDDING ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "THE CRESCENT @ KALLANG",
+    "postalCode": "349318",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32880372021878,
+    "lng": 103.879249516011
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175957",
+    "deletedAt": null,
+    "createdBy": "24a77eaa-d54e-493d-a5f9-61e7292e0f49",
+    "createdAt": "2026-01-28T09:00:05.000Z",
+    "updatedAt": "2026-01-28T09:00:06.000Z",
+    "emailRecipient": "24a77eaa-d54e-493d-a5f9-61e7292e0f49",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/network-cable-supervisor-tgn-technology-1f38b2dd9f900e67b5295baf1ebecb59",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4200,
+    "minimum": 3600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1f38b2dd9f900e67b5295baf1ebecb59"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1f38b2dd9f900e67b5295baf1ebecb59/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

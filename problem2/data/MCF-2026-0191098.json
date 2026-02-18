@@ -1,0 +1,217 @@
+{
+  "uuid": "f87f712af909ac55e5546ff3464d191e",
+  "sourceCode": "Employer Portal",
+  "title": "Dish Washer",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>Master Clean Solutions Service Crews can quickly arrive at your requested location for a one-time cleaning or you can also discuss and schedule Cleaning Services on an ongoing basis – always at reasonable prices. Master Clean Solutions Cleaning, where “One Call, Cleans It All.” Master Clean Solutions Services works with Homeowners, Condominium Owners, Apartment Owners and Tenants, Property Managers, Real Estate Professionals, Business Owners, Commercial Real Estate Owners and Managers, Home Builders and Residential and Commercial Construction Crews.</p><p><strong>Job Summary</strong></p><p>You will perform dishwashing duties near Bugis Junction MRT, ensuring cleanliness and sanitation of kitchenware to support smooth kitchen operations.</p><p><strong>Responsibilities</strong></p><ul><li>Wash and sanitize dishes, utensils, and kitchen equipment to maintain hygiene standards</li><li>Operate dishwashing machines or wash by hand to ensure all items are clean and ready for use</li><li>Maintain a clean and organized dishwashing area to promote safety and efficiency</li><li>Manage workload effectively during the shift from 7 am to 3 pm, including a one-hour rest break</li><li>Collaborate with kitchen and cleaning team members to support overall service quality</li><li>Work on Saturdays and Sundays, with days off on either Wednesday or Thursday</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Harbour",
+      "uuid": "03ccdb81810e695bfba4cb0ef662e35b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commercial Real Estate",
+      "uuid": "37875cbf8a407a7b62f70bb69fad9774",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property",
+      "uuid": "5ad234cb2cde4266195252a23ca7d84e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality Industry",
+      "uuid": "66617cd7c71408ce47697c344ff8ad58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wine",
+      "uuid": "b9eadba3c35f7f89e93c92eb2c8d39b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Real Estate",
+      "uuid": "d84514acf6dd2dbbac51a77bd394e0ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Homeowners",
+      "uuid": "f1551a82a2889cc9c9431f9daa59ca41",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91153",
+  "occupationId": "OCC060261",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53407782W",
+    "description": "<p>Master Clean Solutions Service Crews can quickly arrive at your &nbsp;requested location for a one-time cleaning or you can also discuss and &nbsp;schedule Cleaning Services on an ongoing basis – always at reasonable &nbsp;prices. Master Clean Solutions Cleaning, where “One Call, Cleans It &nbsp;All.” <br>\n <br>\nMaster Clean Solutions Services works with Homeowners, Condominium &nbsp;Owners, Apartment Owners and Tenants, Property Managers, Real Estate &nbsp;Professionals, Business Owners, Commercial Real Estate Owners and &nbsp;Managers, Home Builders and Residential and Commercial Construction &nbsp;Crews.</p>",
+    "name": "MASTER CLEAN SOLUTIONS",
+    "ssicCode": "81299",
+    "employeeCount": null,
+    "companyUrl": "www.mastercs.sg",
+    "lastSyncDate": "2026-01-30T09:35:43.000Z",
+    "ssicCode2020": "81299",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53407782W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53407782W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53407782W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53407782W/schemes"
+      }
+    },
+    "logoFileName": "e661f4f6769ca089ecf2a6fa8e1675d8/master-clean-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e661f4f6769ca089ecf2a6fa8e1675d8/master-clean-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191098",
+    "deletedAt": null,
+    "createdBy": "04cb8b05-6d9a-4b35-9439-2165369d82ab",
+    "createdAt": "2026-01-30T09:52:40.000Z",
+    "updatedAt": "2026-01-30T09:52:40.000Z",
+    "emailRecipient": "04cb8b05-6d9a-4b35-9439-2165369d82ab",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 49,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-06",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/dish-washer-master-clean-solutions-f87f712af909ac55e5546ff3464d191e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2200,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f87f712af909ac55e5546ff3464d191e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f87f712af909ac55e5546ff3464d191e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

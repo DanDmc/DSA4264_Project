@@ -1,0 +1,208 @@
+{
+  "uuid": "b47bf2a46c9774a5dcbd758559daeca7",
+  "sourceCode": "Employer Portal",
+  "title": "IT Manager",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>KHA Pte Ltd is an architectural and interior design services company.</p><p><strong>Job Summary</strong></p><p>You will ensure the seamless operation of office IT infrastructure to support business functions, managing communication systems, security, and data organization to enhance productivity and operational efficiency.</p><p><strong>Responsibilities</strong></p><ul><li>Maintain and troubleshoot office IT software and hardware to ensure uninterrupted daily business operations</li><li>Manage and optimize emailing systems and in-house communication platforms to facilitate effective internal and external communication</li><li>Oversee online meeting technologies, including equipment and software, to support virtual collaboration and business continuity</li><li>Implement and monitor IT security measures to protect company data and systems from threats</li><li>Organize and manage data storage and distribution processes to ensure efficient access and compliance with business needs</li><li>Optimize software license usage and computer system configurations to maximize resource efficiency and cost-effectiveness</li><li>Apply graphic design skills and/or maintain the company website to support marketing and communication efforts (optional)</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtual Collaboration",
+      "uuid": "378473dd933024e15aa0e82560d50060",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interior Design",
+      "uuid": "b70d39e4c20b2a45df4f50c334773f63",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13304",
+  "occupationId": "OCC060963",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "200608194D",
+    "description": "<p>\r\n\tKerry Hill Architects Pte Ltd is an architectural and interior design services company.</p>\r\n",
+    "name": "KHA PTE. LTD.",
+    "ssicCode": "71111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T01:26:41.000Z",
+    "ssicCode2020": "71111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608194D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608194D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608194D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608194D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "11",
+    "street": "CRAIG ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "089671",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27774497010062,
+    "lng": 103.842664427511
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178803",
+    "deletedAt": null,
+    "createdBy": "766326ca-4531-4054-b083-485ce8a60a6d",
+    "createdAt": "2026-01-29T01:39:39.000Z",
+    "updatedAt": "2026-01-29T01:39:40.000Z",
+    "emailRecipient": "766326ca-4531-4054-b083-485ce8a60a6d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 375,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 82,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/manager-kha-b47bf2a46c9774a5dcbd758559daeca7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b47bf2a46c9774a5dcbd758559daeca7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b47bf2a46c9774a5dcbd758559daeca7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

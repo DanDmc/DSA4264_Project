@@ -1,0 +1,193 @@
+{
+  "uuid": "cdbc2aad706c37d5c9504bba5087cc18",
+  "sourceCode": "Employer Portal",
+  "title": "CONSTRUCTION PROJECT MANAGER",
+  "description": "<ul>\n  <li>Supervising, coordinating and scheduling the daily activities of construction trades-people</li>\n  <li>Coordinating work activities with subcontractors</li>\n  <li>Establishing methods to meet work schedules and coordinating work activities with other departments/subcontractors/supervisors/managers</li>\n  <li>Resolving work problems and recommending measures to improve productivity and product quality</li>\n  <li>Ordering materials and supplies</li>\n  <li>Training or arranging for the training of workers in job duties, safety procedures and company policies</li>\n  <li>Ensuring standards for safe working conditions are observed</li>\n  <li>Recommending personnel actions such as hirings and promotions</li>\n  <li>Preparing schedules, work progress, production and other reports</li>\n  <li>Supervising, coordinating and scheduling the activities of related apprentices, helpers and labourers</li>\n</ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Assessment",
+      "uuid": "3177ea52ef79969392fa9605bc638090",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Safety",
+      "uuid": "8313259ce4d9c3ca71d6fb7e3afa3226",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Drawings",
+      "uuid": "b7ddd6b4070e952489bf1ec071d10bac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13230",
+  "occupationId": "OCC000491",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201317649D",
+    "description": null,
+    "name": "MING SHENG GLASS PTE. LTD.",
+    "ssicCode": "43305",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T03:36:20.000Z",
+    "ssicCode2020": "43305",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201317649D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201317649D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201317649D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201317649D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164933",
+    "deletedAt": null,
+    "createdBy": "7886938a-f3a0-402c-b690-5c193d67d827",
+    "createdAt": "2026-01-27T03:38:27.000Z",
+    "updatedAt": "2026-01-27T03:38:27.000Z",
+    "emailRecipient": "7886938a-f3a0-402c-b690-5c193d67d827",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 148,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 33,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-project-manager-ming-sheng-glass-cdbc2aad706c37d5c9504bba5087cc18",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11500,
+    "minimum": 6500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cdbc2aad706c37d5c9504bba5087cc18"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cdbc2aad706c37d5c9504bba5087cc18/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

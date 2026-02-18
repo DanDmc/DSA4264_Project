@@ -1,0 +1,211 @@
+{
+  "uuid": "31c2c6052fcc9a3383fab803917e0e5e",
+  "sourceCode": "Employer Portal",
+  "title": "Store Manager",
+  "description": "<ul><li>Lead daily store operations and manpower planning to achieve operational targets and business goals</li></ul><ul><li>Recruit, train, and motivate team members to enhance performance and deliver exceptional customer service</li></ul><ul><li>Manage administrative functions including inventory control, sales forecasting, invoice consolidation, and report generation (sales and costing) to support management decision-making</li></ul><ul><li>Conduct monthly inventory audits of operating equipment and supplies to maintain optimal stock levels and reduce losses</li></ul><ul><li>Collaborate effectively with cross-functional teams and stakeholders to ensure smooth execution of store activities and promotional campaigns</li></ul><ul><li>Enforce compliance with product quality, hygiene, and safety standards to uphold brand reputation and customer trust</li></ul><ul><li>Evaluate employee performance regularly and provide constructive feedback to foster continuous improvement</li></ul><ul><li>Investigate and resolve customer feedback related to service and product quality to enhance customer satisfaction</li></ul><ul><li>Maintain comprehensive knowledge of menu items and presentation standards to ensure consistent product delivery</li></ul><ul><li>Oversee shift handover, opening, and closing procedures to guarantee operational continuity and accuracy</li></ul><ul><li>Perform additional duties as assigned to support store operations and business objectives</li></ul><p><strong>Requirements:</strong></p><ul><li>Minimum 2 years of supervisory experience in managing a cafe and/or restaurant</li></ul><ul><li>Strong people management and communication skills, with a hands-on approach to operations</li></ul><ul><li>Ability to prioritize tasks and manage time effectively in a dynamic environment</li></ul><ul><li>Comfortable working in a fast-paced setting and able to perform well under pressure</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Store Operations",
+      "uuid": "0466ba3dd935b55b36fa968929f5db8a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Manpower Planning",
+      "uuid": "2d53010d70c26cfd06505f26ad79b498",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Food Hygiene standards",
+      "uuid": "3acebd63c6ebf9148029998f82a04e00",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Under Pressure",
+      "uuid": "47e2827f5623d7107195408b20d5d598",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Work",
+      "uuid": "e40d1210d4bc1ec33845372c06d29971",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "People Management",
+      "uuid": "f348ff6bfac32a0d81f92e84fbf3691f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "14121",
+  "occupationId": "OCC060572",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201619041M",
+    "description": "<p>KOI CAFÉ GROUP PTE. LTD., established in 2007, the overseas headquarters of Taiwan YA-LAN CO. LTD. The vision of the organization is to provide high quality products with emphasis on customized beverages for meeting the satisfaction of each individual customer. KOI CAFÉ upholds the spirit of customer-first and providing the original taste of Taiwan Bubble Tea to different parts of the world. On 1st September 2016, KOI CAFÉ GROUP (S) PTE. LTD. has acquired new name, KOI THÉ&nbsp;SINGAPORE PTE. LTD. THÉ&nbsp;means “TEA” in French, its pronunciation also sounds like Taiwanese “TÉ”. KOI THÉ has successfully expanded to 83&nbsp;outlets in Singapore, and in 12 other countries over the world.</p>",
+    "name": "KOI THE SINGAPORE PTE. LTD.",
+    "ssicCode": "56112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T07:03:23.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201619041M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201619041M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201619041M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201619041M/schemes"
+      }
+    },
+    "logoFileName": "8a10c08bcb9ceaadc25e1a064aef8b5f/koi-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8a10c08bcb9ceaadc25e1a064aef8b5f/koi-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0154986",
+    "deletedAt": null,
+    "createdBy": "f3694bb4-5f2f-490d-83a5-3aeea1fb0f70",
+    "createdAt": "2026-01-26T01:25:59.000Z",
+    "updatedAt": "2026-01-26T01:25:59.000Z",
+    "emailRecipient": "f3694bb4-5f2f-490d-83a5-3aeea1fb0f70",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/store-manager-koi-singapore-31c2c6052fcc9a3383fab803917e0e5e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3400,
+    "minimum": 2900,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/31c2c6052fcc9a3383fab803917e0e5e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/31c2c6052fcc9a3383fab803917e0e5e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

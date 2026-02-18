@@ -1,0 +1,234 @@
+{
+  "uuid": "fed9e9885e21ab99064a670504315b1c",
+  "sourceCode": "Employer Portal",
+  "title": "Assistant Restaurant Manager",
+  "description": "<p><strong>Job Summary</strong></p><p>Lead and support daily operations at a Japanese sushi/omakase restaurant located at Robertson Quay, driving exceptional guest experiences and operational excellence.</p><p><strong>Responsibilities</strong></p><ul><li>Oversee restaurant operations to ensure smooth service delivery and high customer satisfaction</li><li>Manage and motivate the restaurant team to achieve performance goals and maintain service standards</li><li>Coordinate with kitchen and front-of-house staff to optimize workflow and guest experience</li><li>Implement and monitor compliance with health, safety, and hygiene regulations</li><li>Resolve guest issues promptly to uphold the restaurant’s reputation and customer loyalty</li><li>Assist in inventory management and cost control to support profitability</li><li>Collaborate with senior management to contribute to strategic planning and business growth initiatives</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategic Planning",
+      "uuid": "1056ea32e61274889e2f1b9c48a5a515",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Micros",
+      "uuid": "e58055ecfb3fc5453968083dee69bbeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202510762E",
+    "description": null,
+    "name": "LUREATUS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:22:51.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510762E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510762E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510762E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510762E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "ROBERTSON QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "VILLAGE RESIDENCE ROBERTSON QUAY",
+    "postalCode": "238251",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29123687496454,
+    "lng": 103.841283434622
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192569",
+    "deletedAt": null,
+    "createdBy": "ed894e23-e1fb-4a47-9499-1562a8142e49",
+    "createdAt": "2026-01-31T03:26:52.000Z",
+    "updatedAt": "2026-02-03T03:41:40.000Z",
+    "emailRecipient": "ed894e23-e1fb-4a47-9499-1562a8142e49",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 32,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/assistant-restaurant-manager-lureatus-fed9e9885e21ab99064a670504315b1c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fed9e9885e21ab99064a670504315b1c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fed9e9885e21ab99064a670504315b1c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

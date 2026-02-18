@@ -1,0 +1,206 @@
+{
+  "uuid": "a56e30990d7943d69973d8f2fe7660d9",
+  "sourceCode": "Employer Portal",
+  "title": "Cashier (Airport Retail)",
+  "description": "<p><u><strong>Cashier</strong></u></p>\n<p>Location: Changi Airport </p>\n<p>Working Hours: Rotating shift between 0600 and 0100 </p>\n<p>Full-Time Shift: 9.5 hours including 1 hour unpaid break, 42.5 hours per week </p>\n<p>Perm Part-Time Shift: Min 4/6 hours per shift, min 5 days a week (Min 6 months commitment)</p>\n<p>Salary: 2k - 2.4k (Part-time: 13/hour) </p>\n<p><br></p>\n<p><u><em>Responsibilities:</em></u></p>\n<ul>\n  <li>Process sales using a Point-of-Sale (POS) system, handle all types of payments including foreign currency, and ensure end-of-shift cash reconciliation.</li>\n  <li>Greet customers, handle inquiries, resolve complaints, and promote products to boost sales.</li>\n  <li>Keep the checkout area clean and organized; ensure essential items like receipt rolls and bags are in stock.</li>\n  <li>Perform daily housekeeping duties to maintain cleanliness and safety of work environment.</li>\n  <li>Any other ad-hoc duties as assigned.</li>\n</ul>\n<p><u><em>Requirements:</em></u></p>\n<ul>\n  <li>Min N-Level or equivalent. </li>\n  <li>No experience required, training will be provided. </li>\n  <li>Strong interpersonal and communication skills. </li>\n  <li>Customer satisfaction-oriented. </li>\n  <li>Basic computer skills. </li>\n  <li>Comfortable to work retail and shift hours. </li>\n  <li>Comfortable to handle liquor and tobacco products. </li>\n  <li>Must be 21 years old and above as per Tobacco Act. </li>\n</ul>\n<p><u><em>Benefits:</em></u></p>\n<ul>\n  <li>Monthly allowances up to $255. </li>\n  <li>Attractive ticketing incentives. </li>\n  <li>Annual leave of 12 to 18 days per calendar year. </li>\n  <li>Medical and dental insurance. </li>\n  <li>Joining Bonus of $600 for local Full Time new hires, subject to T&amp;C. </li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Currency",
+      "uuid": "386c339d37e737a436499d423a77df0c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ticketing",
+      "uuid": "3d521aae366391a2922976fc88af7f6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Credit Cards",
+      "uuid": "72cd903d1d9af33f8b8df3c7cc0c760e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Flows",
+      "uuid": "cafa41aae33c12114bc0e8ba5213af4f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52302",
+  "occupationId": "OCC009021",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201941177E",
+    "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>LOTTE Duty Free was founded in 1980 and it has been ranked number one in the Korean duty-free industry for more than 45 years. LOTTE Duty Free is operating overseas duty free operations in various countries including <strong>Australia, Guam, Japan, South Korea, New Zealand and Vietnam </strong>and we had landed in Singapore in 2020. LOTTE Duty Free is now in Singapore Changi Airport operating 18 stores across 4 terminals.</p><p>Linkedin: https://www.linkedin.com/company/lotte-tr-singapore</p>",
+    "name": "LOTTE TRAVEL RETAIL SINGAPORE PTE. LTD.",
+    "ssicCode": "47230",
+    "employeeCount": 350,
+    "companyUrl": "https://apply.workable.com/lotte-travel-retail-singapore/",
+    "lastSyncDate": "2026-02-04T02:21:46.000Z",
+    "ssicCode2020": "47230",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201941177E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201941177E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201941177E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201941177E/schemes"
+      }
+    },
+    "logoFileName": "02494f0257be80400490bb0f70d99592/lotte-travel-retail-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/02494f0257be80400490bb0f70d99592/lotte-travel-retail-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "9",
+    "street": "TAMPINES GRANDE",
+    "floor": null,
+    "unit": null,
+    "building": "ASIA GREEN",
+    "postalCode": "528735",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 18,
+        "location": "D18 Tampines, Pasir Ris",
+        "region": "East",
+        "sectors": [
+          "51",
+          "52"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.35586162479928,
+    "lng": 103.941492709268
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155490",
+    "deletedAt": null,
+    "createdBy": "e09f3e43-a278-4f70-8b26-d3ae8a5d1034",
+    "createdAt": "2026-01-26T02:07:44.000Z",
+    "updatedAt": "2026-01-26T02:07:44.000Z",
+    "emailRecipient": "e09f3e43-a278-4f70-8b26-d3ae8a5d1034",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 101,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/cashier-lotte-travel-retail-singapore-a56e30990d7943d69973d8f2fe7660d9",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a56e30990d7943d69973d8f2fe7660d9"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a56e30990d7943d69973d8f2fe7660d9/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

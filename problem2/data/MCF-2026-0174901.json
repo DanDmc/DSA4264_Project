@@ -1,0 +1,216 @@
+{
+  "uuid": "6b195c23ed2f8010fb0949c47fa4b71f",
+  "sourceCode": "Employer Portal",
+  "title": "Instructor (Cheerleading & Dance)",
+  "description": "<p>- Create a positive learning environment for primarily japanese children through cheerdance.</p>\n<p>- Responsible for planning, preparation and delivery of the session.</p>\n<p>- Coordinate and deliver a high energy, fun and inclusive session that engages children.</p>\n<p>- Experience of leading cheer dance sessions to children.</p>\n<p>- Passion for cheerdancing/cheerleading</p>\n<p>- Vibrant, fun, energetic, confident personality</p>\n<p>- Ability to speak japanese language</p>\n<p><br></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese Language",
+      "uuid": "33c147499f160adef341f57d5d3b7fb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Spirit",
+      "uuid": "600b76b49b52ddab1ef5f9f9ca4a6572",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performing Arts",
+      "uuid": "753732671ec1c264e37265824d4adb90",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Choreography",
+      "uuid": "db53a6d0cbd78915a1360a5c23c932b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "36205",
+  "occupationId": "OCC060191",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "200308473Z",
+    "description": "<p>ALBIREX SINGAPORE PTE. LTD.</p>\r\n",
+    "name": "NSG GLOBAL PTE. LTD.",
+    "ssicCode": "64202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:59:40.000Z",
+    "ssicCode2020": "93120",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308473Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308473Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308473Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308473Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "JURONG EAST STREET 31",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "609517",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34679361539211,
+    "lng": 103.729228629547
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174901",
+    "deletedAt": null,
+    "createdBy": "9c94b55f-78ab-4fda-80c7-d0a082dcda52",
+    "createdAt": "2026-01-28T07:19:35.000Z",
+    "updatedAt": "2026-01-28T07:19:35.000Z",
+    "emailRecipient": "9c94b55f-78ab-4fda-80c7-d0a082dcda52",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/instructor-nsg-global-6b195c23ed2f8010fb0949c47fa4b71f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3600,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6b195c23ed2f8010fb0949c47fa4b71f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6b195c23ed2f8010fb0949c47fa4b71f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

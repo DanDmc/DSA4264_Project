@@ -1,0 +1,193 @@
+{
+  "uuid": "905f2fe78db206fb8895c48aea470236",
+  "sourceCode": "Employer Portal",
+  "title": "Clinic Nurse",
+  "description": "<p><strong>Job Summary</strong></p><p>Register patients for consultation and assist with appointment scheduling. Prepare and dispense medications while advising patients on payment options. Handle phone and walk-in queries professionally and with care. Support doctors by assisting with simple procedures such as taking vitals, performing tests, setting up equipment, chaperoning, preparing lab forms, and assisting in clinic procedures. Maintain a clean and organized clinic environment. Support the Clinic Manager and doctors with additional duties as needed.</p><p><strong>Responsibilities</strong></p><ul><li>Register patients accurately for consultations and manage appointment scheduling to ensure smooth clinic operations</li><li>Prepare and dispense medications correctly and provide clear advice on payment options to patients</li><li>Respond to phone and walk-in patient queries professionally and with empathy to maintain high service standards</li><li>Monitor medication and supply levels by topping up, packing, and ordering as needed to ensure clinic readiness</li><li>Assist doctors with simple clinical procedures including taking vital signs, performing tests, setting up equipment, chaperoning, and preparing lab forms to support patient care</li><li>Maintain a clean, organized, and safe clinic environment to promote hygiene and operational efficiency</li><li>Collaborate with the Clinic Manager and doctors by performing additional tasks as required to support clinic workflow</li><li>Adapt quickly to cover shifts at short notice to maintain consistent clinic staffing</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Minimum GCE “O”/ “A” Levels or Diploma holders</li><li>Experience as a nursing Assistant Nurse (AN) or Staff Nurse</li><li>Proficient in using computers and the Internet for clinic-related tasks</li><li>Ability to communicate effectively in both Mandarin and English</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Strong interpersonal and customer service skills demonstrated through patient interactions</li><li>Demonstrated humility, responsibility, and a hardworking attitude in previous roles</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Care",
+      "uuid": "dfe9a5014f4387967da54a6e80631e69",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22200",
+  "occupationId": "OCC062545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "0842",
+  "postedCompany": {
+    "uen": "201803851M",
+    "description": null,
+    "name": "JIREH HEART CENTRE PTE. LTD.",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T03:10:59.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201803851M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201803851M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201803851M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201803851M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169482",
+    "deletedAt": null,
+    "createdBy": "2bc413c3-9ef4-4800-ac9e-e99bfd9d386b",
+    "createdAt": "2026-01-27T13:10:29.000Z",
+    "updatedAt": "2026-01-27T13:10:30.000Z",
+    "emailRecipient": "2bc413c3-9ef4-4800-ac9e-e99bfd9d386b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/clinic-nurse-jireh-heart-centre-905f2fe78db206fb8895c48aea470236",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/905f2fe78db206fb8895c48aea470236"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/905f2fe78db206fb8895c48aea470236/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

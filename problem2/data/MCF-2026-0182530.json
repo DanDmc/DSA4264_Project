@@ -1,0 +1,221 @@
+{
+  "uuid": "6d64ff77c9dfb8e3d284581c9c2d7cfc",
+  "sourceCode": "Employer Portal",
+  "title": "Cleaning Supervisor",
+  "description": "<p>1. Supervise multiple teams of cleaners in multiple cleaning projects while ensuring service quality delivery and safety.</p>\n<p>2. Assist in the planning of cleaning service operations work plans, incident management, and managing inventory of the cleaning equipment and materials used in multiple project sites.</p>\n<p>3. Provide guidance to the cleaners.</p>\n<p>4. Communicate with stakeholders.</p>\n<p>5. Able to multi-task.</p>\n<p>6. Monitor and manage cleaning services and teams</p>\n<p>7. Ensure adherence to safety measures during cleaning operations.</p>\n<p>8. Submit cleaning reports to management.</p>\n<p>9. Manage inventory, equipment, and maintenance schedule</p>\n<p>Manage cleaning related incidents</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Planning",
+      "uuid": "21d28aa03f67eb242b1c95a6a0594ff5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Literacy",
+      "uuid": "4296cdaff1b9d979ae77f796e301e1b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leader",
+      "uuid": "c5d426fa2801131aa59d5f7839ccc997",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Incident Management",
+      "uuid": "f3723f30315ea30f2f4b9101556772e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91000",
+  "occupationId": "OCC013860",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 13,
+      "category": "Environment / Health"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200609315W",
+    "description": null,
+    "name": "SUN CITY (CASHBOX) PTE. LTD.",
+    "ssicCode": "68203",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:32:40.000Z",
+    "ssicCode2020": "68203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200609315W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200609315W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200609315W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200609315W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182530",
+    "deletedAt": null,
+    "createdBy": "0617b44a-3bf5-4538-93e0-9be76d0019de",
+    "createdAt": "2026-01-29T08:36:45.000Z",
+    "updatedAt": "2026-01-29T08:36:45.000Z",
+    "emailRecipient": "0617b44a-3bf5-4538-93e0-9be76d0019de",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 53,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/environment/cleaning-supervisor-sun-city-6d64ff77c9dfb8e3d284581c9c2d7cfc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2455,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6d64ff77c9dfb8e3d284581c9c2d7cfc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6d64ff77c9dfb8e3d284581c9c2d7cfc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,225 @@
+{
+  "uuid": "039445a8a0ba6cce9c7a4b722ed1b7a5",
+  "sourceCode": "Employer Portal",
+  "title": "Junior Production Support Analyst (Banking)",
+  "description": "<p><strong>Job responsibilities:</strong></p><ul><li>Investigate production issues, respond based on production defect severity SLAs</li><li>Manage and respond to users on timely manner.</li><li>Log incident ticket for production issues and user queries</li><li>Follow up on defect and incident closure and meet incident closure KPI</li><li>Make sure system availability as per respective agreed SLA</li><li>Ensure daily start of day(SOD) and end of day(EOD) execution for supported applications complete successfully</li><li>Provide support for annual Disaster Recovery (DR) exercise for supported applications</li><li>Provide support to System Engineers on server level patches / upgrade as and when applicable</li><li>Knowledge with 3rd party monitoring tools like Control-M, Geneos, Splunk, SQL Monitor</li><li>Knowledge with Market Data, and Geneos monitoring setup and dashboard configuration</li><li>Ensure application incident & task documentation is properly updated for each production release</li><li>Enthusiastic, hardworking, proactive and goal-oriented, with excellent communication and presentation skills, demonstrated professionalism and attention to detail</li><li>Proven ability to work and resolve production incidents under strict time constraints and provide workarounds using AS400/mainframe or unix shell or DB scripts etc</li><li>Strong skills in AS400, Linux/Unix Shell scripting, MS SQL, Oracle, BMC Control-M Scheduler</li><li>Good to have understanding and experience of ITIL methodology [service operation]</li></ul><p></p><p><strong>Key requirements:</strong></p><ul><li>SQL, AS400, Control-M, Mainframe</li><li>Unix, Shell Script, Geneos, Splunk</li></ul><p></p><p><strong>Requirements:</strong></p><ul><li>Bachelor’s Degree in Computer Science or a related field.</li><li>Minimum 2 years of production support experience in banking or financial services across multiple technologies/platforms.</li><li>Prior hands-on production support experience on Open Systems and/or AS/400.</li></ul><ul><li><em><strong>Strong support knowledge in at least one of the following:</strong></em></li><li>Retail or wholesale payment systems</li><li>Customer information systems</li><li>Batch monitoring</li><li>Monitoring tool – Splunk, Geneos</li><li>Willingness to work in an onsite shift-support model (24×7).</li><li><em><strong>Hands-on experience in:</strong></em></li><li>Writing AS/400 and SQL queries</li><li>Parsing logs for issue investigation</li><li>Writing shell scripts (UNIX) to optimize incident investigation</li><li>Strong written and verbal communication skills; ability to manage user interactions effectively.</li><li>Ability to quickly adapt to new technologies and environments.</li><li>Ability to work in a fast-paced, high-pressure environment.</li><li>Willingness to work across multiple platforms: UNIX/Open Systems, AS/400, and Mainframe.</li><li>Additional Considerations:</li><li>Candidates with experience in operations teams, batch monitoring, or similar roles in different industries are also encouraged to apply.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Dashboard",
+      "uuid": "2938c7f7e560ed972f8a4f68e80ff834",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "As400",
+      "uuid": "35837dff29a884884039821d12659c50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mainframe",
+      "uuid": "5640ee4b2a998e5e30c09401c3dd4542",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix shell",
+      "uuid": "6a128ec4ad414f45f3d46d696eb98b1c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Services",
+      "uuid": "f279b250fb9ccc9ae5a43849e8f6fd4c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002102",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199600101K",
+    "description": "<p>D L Resources Pte Ltd, established on 5 January 1996, is a Singapore-based Information Technology and Human Capital Services provider. We specialize in delivering end-to-end IT professional services and agency-employed contract staffing solutions to a diverse client base, including leading banks, financial institutions, and multinational corporations.</p>\n<p><br>\nEA License No: 24C2333</p>\n<p><br></p>\n<p>Add us on our recruitment team linkedin profile: https://www.linkedin.com/in/dlresourcesrecruitment/</p>",
+    "name": "D L RESOURCES PTE LTD",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "https://www.linkedin.com/company/d-l-resources/",
+    "lastSyncDate": "2026-02-04T02:24:10.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/schemes"
+      }
+    },
+    "logoFileName": "5a03bb67a7832f44ae754c73d08c48c1/d-l-resources.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5a03bb67a7832f44ae754c73d08c48c1/d-l-resources.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187408",
+    "deletedAt": null,
+    "createdBy": "5feee21b-796d-4dd8-88c7-3ee96fbd92bc",
+    "createdAt": "2026-01-30T03:48:23.000Z",
+    "updatedAt": "2026-01-30T03:49:11.000Z",
+    "emailRecipient": "5feee21b-796d-4dd8-88c7-3ee96fbd92bc",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 71,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/junior-production-support-analyst-d-l-resources-039445a8a0ba6cce9c7a4b722ed1b7a5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3950,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/039445a8a0ba6cce9c7a4b722ed1b7a5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/039445a8a0ba6cce9c7a4b722ed1b7a5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

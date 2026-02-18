@@ -1,0 +1,234 @@
+{
+  "uuid": "ffcc09217cbb905f246711f94dbb12ed",
+  "sourceCode": "Employer Portal",
+  "title": "FOOD PROCESSING WORKER",
+  "description": "<ul><li><p>Perform general production duties to maintain quality and safety standards</p></li><li><p>Operate cooking machines and prepare ingredients as per standard procedures</p></li><li><p>Inspect raw and finished materials for quality consistency</p></li><li><p>Maintain cleanliness and hygiene in the production area</p></li><li><p>Follow safety, BRCGS, SFA, and company SOPs at all times</p></li><li><p>Report and assist in resolving production issues</p></li><li><p>Support any other ad-hoc duties as assigned</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Childcare",
+      "uuid": "08370cd014507701d18597aa6e29050d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Boilers",
+      "uuid": "843a83abef8e5bd14d0db71955b43991",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weight",
+      "uuid": "8c489d0946f66d17d73f26366a4bf620",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HACCP",
+      "uuid": "c38d1935edec2f6cf463602abdfbabf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Processing",
+      "uuid": "e9e73e85482ab04cdfc3767dfdaba36f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "81602",
+  "occupationId": "OCC012718",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "1329",
+  "postedCompany": {
+    "uen": "202032046M",
+    "description": "<p>Since 2003 , Oishi Manufacturing Pte Ltd produces and distributes ice cream, gelato, waffle mixes, softserve pre-mixes and related equipent to QSR chains, hotels, cafes chains, western restaurants, japanese restaurants, multiple chain stores, ship supplies, food distributors, wholesalers &amp; dealers in singapore and regionally. &nbsp;Our production facility comprises 18,000 sqft with multiple production lines.&nbsp;Halal certified and BRCGS / FSSC 22000 accredited. We are a sales driven business underpinned by sold R&amp;D capabilities. &nbsp;</p>",
+    "name": "OISHI MANUFACTURING PTE. LTD.",
+    "ssicCode": "10799",
+    "employeeCount": 25,
+    "companyUrl": "oishi.com.sg",
+    "lastSyncDate": "2026-02-02T01:06:07.000Z",
+    "ssicCode2020": "10799",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202032046M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202032046M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202032046M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202032046M/schemes"
+      }
+    },
+    "logoFileName": "590b76c7581e19699bb174d78f8782b7/oishi-manufacturing.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/590b76c7581e19699bb174d78f8782b7/oishi-manufacturing.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8A",
+    "street": "ADMIRALTY STREET",
+    "floor": null,
+    "unit": null,
+    "building": "FOOD XCHANGE @ ADMIRALTY",
+    "postalCode": "757437",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.46304653406293,
+    "lng": 103.814359812718
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167530",
+    "deletedAt": null,
+    "createdBy": "49dbe8c9-5a5f-4910-9c3d-21ec5dbad910",
+    "createdAt": "2026-01-27T08:36:50.000Z",
+    "updatedAt": "2026-01-27T08:36:50.000Z",
+    "emailRecipient": "49dbe8c9-5a5f-4910-9c3d-21ec5dbad910",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/food-processing-worker-oishi-manufacturing-ffcc09217cbb905f246711f94dbb12ed",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ffcc09217cbb905f246711f94dbb12ed"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ffcc09217cbb905f246711f94dbb12ed/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

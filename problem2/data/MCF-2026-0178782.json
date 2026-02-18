@@ -1,0 +1,230 @@
+{
+  "uuid": "3d58b6a2bfc3eb2003ed042bc4fc1a62",
+  "sourceCode": "Employer Portal",
+  "title": "Admin Assistant",
+  "description": "<p><strong>Job Description:</strong></p><ul><li>Perform routine administrative duties, maintaining all project files and filing quality records.</li><li>Procurement of construction materials and hardware.</li><li>Handle general admin tasks.</li><li>Provide clerical and administrative support to the project team.</li><li>Filing and maintaining up-to-date file records.</li><li>Accuracy in updating and maintaining the database of stock control records, schedule, VO/SOI and minute meetings.</li><li>Prepare project reports and submissions to the customer.</li><li>Other ad-hoc duties assigned by the project management.</li></ul><p><strong>Job Requirement:</strong></p><ul><li>Minimum GCE \"A\" level</li><li>Minimum 2 years experience in the construction industry</li><li>Proficient in Microsoft Office</li><li>Able to communicate proficiently in English</li><li>Excellent interpersonal communication ability</li><li>Possess a positive attitude towards work and team oriented</li><li>Able to work independently and possess good team spirit</li><li>Able to operate AutoCAD is an advantage</li></ul><p><strong>What we offer:</strong></p><ul><li>5 days week</li><li>Medical benefits</li><li>Insurance</li><li>Company transport provided at Admiralty and Sengkang MRT</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Spirit",
+      "uuid": "600b76b49b52ddab1ef5f9f9ca4a6572",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    },
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "197903671C",
+    "description": "<p>\r\n\tQUANTUM AUTOMATION PTE LTD</p>\r\n<p>\r\n\tA leading engineering company providing solutions for Facilities Management, Fire, Safety and Security, Industrial Automation and Home Automation Systems.</p>\r\n",
+    "name": "QUANTUM AUTOMATION PTE LTD",
+    "ssicCode": "43293",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:14:58.000Z",
+    "ssicCode2020": "43293",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "9",
+    "street": "SENOKO DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "758197",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45896700339317,
+    "lng": 103.796633334344
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178782",
+    "deletedAt": null,
+    "createdBy": "4db22cfb-a39c-467c-a816-59cea5af2e87",
+    "createdAt": "2026-01-29T01:35:48.000Z",
+    "updatedAt": "2026-01-29T01:35:48.000Z",
+    "emailRecipient": "4db22cfb-a39c-467c-a816-59cea5af2e87",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 171,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-quantum-automation-3d58b6a2bfc3eb2003ed042bc4fc1a62",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3d58b6a2bfc3eb2003ed042bc4fc1a62"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3d58b6a2bfc3eb2003ed042bc4fc1a62/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

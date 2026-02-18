@@ -1,0 +1,210 @@
+{
+  "uuid": "73faf20e3a0cf4dd4dc1b9ec1bd775b2",
+  "sourceCode": "Employer Portal",
+  "title": "CHEF",
+  "description": "<p><strong>Company Overview</strong></p><p>AMRA CATERING PTE. LTD.</p><p><strong>Job Summary</strong></p><p>You will prepare and cook South Indian cuisine, focusing on meal menus for foreign workers from Tamil Nadu. You will also support kitchen operations, maintain cleanliness, and train new staff to ensure consistent food quality.</p><p><strong>Responsibilities</strong></p><ul><li>Prepare and cook South Indian dishes with at least 1 year of experience to meet menu requirements for foreign workers from Tamil Nadu</li><li>Plan and create varied breakfast and meal menus within budget and cost guidelines</li><li>Collaborate with kitchen team members to ensure smooth operations and complete tasks within scheduled timeframes</li><li>Maintain kitchen cleanliness and uphold safety standards to provide a safe working environment</li><li><u><strong>Operate and troubleshoot packing machines to handle minor errors and ensure efficient packaging</strong></u></li><li>Train new employees and cooks to standardize food quality and maintain consistent preparation methods</li><li>Utilize knowledge of North Indian cuisine to support menu variety when applicable</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Catering",
+      "uuid": "e5f6696fe35a80686e78bd72bd59ca17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tamil",
+      "uuid": "f0670813020969b39ff8d85744b40400",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "1323",
+  "postedCompany": {
+    "uen": "201129696W",
+    "description": "<p>AMRA CATERING PTE. LTD.</p>\r\n",
+    "name": "AMRA CATERING PTE. LTD.",
+    "ssicCode": "56200",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T04:01:03.000Z",
+    "ssicCode2020": "56200",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201129696W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201129696W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201129696W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201129696W/schemes"
+      }
+    },
+    "logoFileName": "972435c8b75ee2e431d60227210d922c/amra-catering.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/972435c8b75ee2e431d60227210d922c/amra-catering.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8A",
+    "street": "ADMIRALTY STREET",
+    "floor": null,
+    "unit": null,
+    "building": "FOOD XCHANGE @ ADMIRALTY",
+    "postalCode": "757437",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.46304653406293,
+    "lng": 103.814359812718
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180677",
+    "deletedAt": null,
+    "createdBy": "0f32719b-3a55-4159-bd4a-d218cbdf8aff",
+    "createdAt": "2026-01-29T04:29:13.000Z",
+    "updatedAt": "2026-01-29T04:29:13.000Z",
+    "emailRecipient": "0f32719b-3a55-4159-bd4a-d218cbdf8aff",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 31,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-amra-catering-73faf20e3a0cf4dd4dc1b9ec1bd775b2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4300,
+    "minimum": 3700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/73faf20e3a0cf4dd4dc1b9ec1bd775b2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/73faf20e3a0cf4dd4dc1b9ec1bd775b2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

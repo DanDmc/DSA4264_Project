@@ -1,0 +1,233 @@
+{
+  "uuid": "468ab4f19ddac29f97e1936c010ee648",
+  "sourceCode": "Employer Portal",
+  "title": "Human Resource Executive",
+  "description": "<p>Key Responsibilities</p><p>1.⁠ ⁠Onboarding & Employee Administration</p><p>•⁠  ⁠Coordinate employee onboarding activities, including preparation of Letters of Appointment (LOA) and onboarding documentation.</p><p>•⁠  ⁠Maintain accurate employee</p><p>•⁠  ⁠Prepare HR related letters and documentation.</p><p>2.⁠ ⁠Work Pass Administration</p><p>•⁠  ⁠Handle work pass applications, renewals, and cancellations</p><p>•⁠  ⁠Liaise with MOM, agents, and internal stakeholders on work pass matters.</p><p>3.⁠ ⁠Training & Compliance</p><p>•⁠  ⁠Coordinate training administration, including:</p><p>o\tSourcing training courses and providers</p><p>o\tTracking attendance and completion</p><p>•⁠  ⁠Maintain up-to-date records of mandatory training requirements and ensure compliance with statutory and internal policies.</p><p>•⁠  ⁠Support training cost and training hours tracking.</p><p>4.⁠ ⁠Employee Life Cycle Management</p><p>•⁠  ⁠Provide administrative support throughout the employee life cycle, including:</p><p>o\tOnboarding</p><p>o\tConfirmation</p><p>o\tInternal transfers</p><p>o\tSalary adjustments</p><p>o\tCessation</p><p>•⁠  ⁠Ensure HR processes are consistently applied and properly documented.</p><p>5.⁠ ⁠HR Reporting & Support</p><p>•⁠  ⁠Assist in maintaining HR reports</p><p>•⁠  ⁠Provide general HR administrative support and respond to basic employee HR queries.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Childcare",
+      "uuid": "08370cd014507701d18597aa6e29050d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Grants",
+      "uuid": "9d332be9f118dea31ba2e8a321935d1f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HR Policies",
+      "uuid": "a769b9ac5a11ed3a1a30d64b03bf99da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Resource Management",
+      "uuid": "cb39ac09dca88d69876f8730b7461b4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Management",
+      "uuid": "ec665405336acd4dabdc93b50935ac7a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24231",
+  "occupationId": "OCC060816",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 20,
+      "category": "Human Resources"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0512",
+  "postedCompany": {
+    "uen": "201132453H",
+    "description": null,
+    "name": "FOOD COLLECTIVE PTE. LTD.",
+    "ssicCode": "56122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T05:41:48.000Z",
+    "ssicCode2020": "56122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201132453H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201132453H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201132453H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201132453H/schemes"
+      }
+    },
+    "logoFileName": "b7d50dcafac0e8ee28c9173054e049b8/food-collective.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b7d50dcafac0e8ee28c9173054e049b8/food-collective.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "JALAN PENJARA",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "149375",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29967493754685,
+    "lng": 103.806535862776
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1969969",
+    "deletedAt": "2026-01-22T17:15:04.000Z",
+    "createdBy": "df1dc5f0-05ea-415c-9d00-fd7f34e99998",
+    "createdAt": "2025-12-23T10:46:31.000Z",
+    "updatedAt": "2026-01-29T08:13:52.000Z",
+    "emailRecipient": "df1dc5f0-05ea-415c-9d00-fd7f34e99998",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 255,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-23",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 28,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/human-resource-executive-food-collective-468ab4f19ddac29f97e1936c010ee648",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/468ab4f19ddac29f97e1936c010ee648"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/468ab4f19ddac29f97e1936c010ee648/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,251 @@
+{
+  "uuid": "456c4dd56e3eea42dc42c5a700a9da28",
+  "sourceCode": "Employer Portal",
+  "title": "Operation manager",
+  "description": "<p>Supervising daily, weekly, and monthly operations to ensure smooth execution</p><p>Resolving guest complaints and ensuring a positive, consistent dining experience</p><p>Manage stock levels, verify inventory accuracy, and coordinate with suppliers</p><p>Oversee the maintenance of restaurant equipment and premises, liaising with contractors for repairs.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Recruiting",
+      "uuid": "5231dee7156b84b0d1854de1a18dd169",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations Management",
+      "uuid": "62c2ba9d720feb926f15cc065ce696b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "14123",
+  "occupationId": "OCC060568",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    },
+    {
+      "id": 31,
+      "category": "Purchasing / Merchandising"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0920",
+  "postedCompany": {
+    "uen": "T11LL2024B",
+    "description": null,
+    "name": "ZION FOOD LLP",
+    "ssicCode": "56122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T05:15:28.000Z",
+    "ssicCode2020": "56122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T11LL2024B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T11LL2024B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T11LL2024B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T11LL2024B/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "56",
+    "street": "BAYSHORE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "BAYSHORE PARK",
+    "postalCode": "469980",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31178907218058,
+    "lng": 103.936230035968
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174037",
+    "deletedAt": null,
+    "createdBy": "0d74f982-d638-4cd1-beaa-ed2e3448844e",
+    "createdAt": "2026-01-28T05:49:55.000Z",
+    "updatedAt": "2026-01-28T06:05:17.000Z",
+    "emailRecipient": "0d74f982-d638-4cd1-beaa-ed2e3448844e",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 51,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-04",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/operation-manager-zion-food-456c4dd56e3eea42dc42c5a700a9da28",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/456c4dd56e3eea42dc42c5a700a9da28"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/456c4dd56e3eea42dc42c5a700a9da28/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

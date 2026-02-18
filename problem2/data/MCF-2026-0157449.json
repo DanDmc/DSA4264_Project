@@ -1,0 +1,233 @@
+{
+  "uuid": "4fe5c8430065d1f6e57a914bc9973666",
+  "sourceCode": "Employer Portal",
+  "title": "Supply Chain Professional",
+  "description": "<p>Requirements:</p><ul><li>Professional graduated in Engineering with experience in multidisciplinary engineering projects in the oil and gas sector, and in designing oil exploration platform.</li></ul><ul><li>The professional shall be able to execute the following activities, at least</li><li>Monitor and expedite the issuance of pending engineering and vendor documents</li><li>Analyze project documentation</li><li>Follow up and expedite change control in the project for the issuance of as-built documents</li><li>Prepare PowerPoint presentations and dashboards in Excel</li><li>Expedite supply issues and late deliveries with equipment suppliers.</li><li>Mon - Thu: 0730 - 1730hrs</li><li>Fri: 0730 - 1630hrs = total 44hrs/week</li><li>location - TBY yard.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Amazon Web Services",
+      "uuid": "6beccc67ff905f7da0b29dece26b0485",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Strategy",
+      "uuid": "86f75080ba5c7cb8c54c5256af817698",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PowerPoint",
+      "uuid": "8e30baf47f024c0ce4a7f380214194ed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Program Management",
+      "uuid": "8e83fdfa2cceddecd354135d153a0c2b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Mining",
+      "uuid": "9514250aed2f02a588ec899e8b7fadc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Control",
+      "uuid": "bbc49b5e6e2338a046a0f3dd110a3042",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain Management",
+      "uuid": "bd5476e8f33749530f87777476eeda72",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Decision Making",
+      "uuid": "d993039c571024700ce3fb88ea433c75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing Skills",
+      "uuid": "ebd65911b99b625b1359ab340fb2b666",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13241",
+  "occupationId": "OCC001137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "200806168D",
+    "description": "<p>A-STAR TESTING & INSPECTION (S) PTE. LTD.</p>  <p> </p>",
+    "name": "A-STAR TESTING & INSPECTION (S) PTE. LTD.",
+    "ssicCode": "30110",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T06:43:04.000Z",
+    "ssicCode2020": "30110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200806168D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200806168D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200806168D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200806168D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "SOON LEE STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PIONEER POINT",
+    "postalCode": "627607",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33384318239259,
+    "lng": 103.698856274639
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157449",
+    "deletedAt": null,
+    "createdBy": "f28f767f-afa6-4e55-a5cc-62ee740d9296",
+    "createdAt": "2026-01-26T05:05:11.000Z",
+    "updatedAt": "2026-01-26T05:05:11.000Z",
+    "emailRecipient": "f28f767f-afa6-4e55-a5cc-62ee740d9296",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 107,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/supply-chain-professional-a-star-testing-inspection-4fe5c8430065d1f6e57a914bc9973666",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fe5c8430065d1f6e57a914bc9973666"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fe5c8430065d1f6e57a914bc9973666/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,214 @@
+{
+  "uuid": "d0e75e94aff7febc624b7397f12ea86d",
+  "sourceCode": "Employer Portal",
+  "title": "Administrative Assistant",
+  "description": "<p><strong>About Us</strong>\nSCDA is an international practice integrating Architecture, Interiors, and Landscape to create holistic spatial experiences. With offices in Singapore, Shanghai, Manila, and New York City, SCDA has projects in over 80 locations across Asia, Africa, Europe, Oceania, and North America. In parallel, SCDA Lab pioneers social and cultural initiatives, applying research and design to enact measurable change and advance the environmental cause.<br /><br /><strong>The Role</strong></p><p>Be part of a fast-paced design studio and support the team through project administration, office operations, and travel coordination—helping keep everything running smoothly behind the scenes.<br /><br /><strong>Key Responsibilities</strong></p><p>Project Administration</p><ul><li>Support architects in preparing, organising, and managing project documentation.</li><li>Maintain clear filing systems and keep track of project correspondence, reports, and records.</li><li>Assist project teams in meeting deadlines by coordinating and circulating documents efficiently.</li></ul><p>Office & Travel Administration</p><ul><li>Provide day-to-day office support, ensuring the workspace is well maintained and organised.</li><li>Monitor and track costs for stationery, pantry supplies, and courier services.</li><li>Manage procurement of office supplies, name cards, and pantry items.</li><li>Coordinate meeting room bookings, mail handling, and courier arrangements.</li><li>Prepare Purchase Orders and verify invoices for payment processing.</li><li>Support staff travel coordination, including flights, visas, and hotel arrangements.</li></ul><p><strong>Requirements</strong></p><ul><li>Minimum Polytechnic Diploma in Business or a related field.</li><li>1–2 years of relevant experience is an advantage (but not required).</li><li>Proficient in Microsoft Office (Word, Excel).</li><li>Strong organisational and communication skills, with good attention to detail.</li></ul><p><strong>Application</strong></p><p>Please send your resume to careers@scdaarchitects.com including your availability and expected salary. Only shortlisted candidates will be contacted.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Administration",
+      "uuid": "b33553e6f71340f9f3daea6ebc6ab105",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Travel Coordination",
+      "uuid": "b51be1b250cf41a2710fdf8426a88c04",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "200008978R",
+    "description": "<p>\r\n\tSCDA is a multi-disciplinary and award winning architectural practice established in 1995 with headquarters in Singapore and offices in Shanghai and New York.</p>\r\n<p>\r\n\tSCDA's holistic approach to Architecture includes full interior design and planning services. The works ranges from Architectural, Interior and Landscape Design of individual buildings to Master Planning and design of large residential developments.</p>\r\n<p>\r\n\tProjects which SCDA are involved in includes private residences, resort and boutique hotels, commercial buildings, serviced apartments, residential developments, a columbarium and a museum.</p>\r\n",
+    "name": "SCDA ARCHITECTS PTE LTD",
+    "ssicCode": "71111",
+    "employeeCount": 120,
+    "companyUrl": "www.scdaarchitects.com",
+    "lastSyncDate": "2026-02-04T04:44:27.000Z",
+    "ssicCode2020": "71111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008978R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008978R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008978R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008978R/schemes"
+      }
+    },
+    "logoFileName": "9904c91251890ae23857ace6fe42b524/scda-architects.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9904c91251890ae23857ace6fe42b524/scda-architects.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "TECK LIM ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "088385",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28028682909081,
+    "lng": 103.842030975989
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0161434",
+    "deletedAt": null,
+    "createdBy": "340d78d8-5191-42b3-861e-02067e228125",
+    "createdAt": "2026-01-26T11:32:55.000Z",
+    "updatedAt": "2026-01-26T11:32:55.000Z",
+    "emailRecipient": "340d78d8-5191-42b3-861e-02067e228125",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 320,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 34,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/administrative-assistant-scda-architects-d0e75e94aff7febc624b7397f12ea86d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d0e75e94aff7febc624b7397f12ea86d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d0e75e94aff7febc624b7397f12ea86d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

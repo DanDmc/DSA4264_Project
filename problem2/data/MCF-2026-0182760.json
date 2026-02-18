@@ -1,0 +1,234 @@
+{
+  "uuid": "9a05d34a4ba62f3c67b0856a252a4b45",
+  "sourceCode": "Employer Portal",
+  "title": "Senior System Administrator / Engineer",
+  "description": "<p><u><strong>Summary</strong></u></p><p></p><p>The System Administrator/Engineer (SA/E) is responsible for effective provisioning, installation/configuration, operation, and maintenance of systems hardware and software  and related infrastructure. This individual participates in technical research and development to enable continuing innovation within the infrastructure. This individual ensures that system hardware, operating systems, software systems, and related procedures adhere to organizational values, enabling staff, volunteers, and Partners.</p><p></p><p><u><strong>Job Description</strong></u></p><p></p><p>•\tInfrastructure Management: Configure, deploy, and manage cloud resources like virtual machines, storage, and databases.</p><p>•\tSecurity: Implement and enforce security policies, monitor for threats, and manage user access controls.</p><p>•\tPerformance Optimization: Monitor system performance, identify bottlenecks, and optimize resource utilization.</p><p>•\tTroubleshooting: Diagnose and resolve technical issues with cloud infrastructure and applications.</p><p>•\tAutomation: Automate routine tasks using scripting and automation tools.</p><p>•\tCollaboration: Work with other IT teams, including development, operations, and security, to support cloud deployments.</p><p>•\tCompliance: Ensure compliance with relevant regulations and industry standards.</p><p>•\tCost Optimization: Identify and implement cost-saving measures for cloud resources.</p><p>•\tSoftware and System Deployment: Plan and deploy new application software upgrades /  Reports as required</p><p>•\tIncident Management: Perform incident management, vendor management and reporting</p><p>•\tDisaster Recovery: Involve in the Disaster Recovery planning and execution of DR procedures during simulated dry runs and actual disaster runs</p><p></p><p></p><p><u><strong>Requirements</strong></u></p><p></p><p>•\tWorking knowledge of cloud infrastructure is essential</p><p></p><p><strong>Technical Expertise and Knowledge preferred:</strong></p><p>•\tOS : Windows, Linux, AIX,</p><p>•\tMiddleware : WebSphere Application Servers, WebSphere Message Queue, Solace.</p><p>•\tDatawarehouse : Snowflake</p><p>•\tData Integration Tools : Fivetran</p><p>•\tCloud Platform Expertise: Experience with one or more cloud platforms such as AWS,</p><p>•\tAzure, Google Cloud, or other similar providers</p><p>•\tInfrastructure as Code (IaC): Proficiency in using tools like Terraform, CloudFormation, or Ansible to manage cloud infrastructure</p><p>•\tCloud Resource Management: Experience in deploying, managing, and monitoring cloud based instances (e.g., virtual machines, storage, networking, etc.)</p><p>•\tAutomation & Scripting: Strong scripting skills (e.g., Python, PowerShell, Bash) to automate tasks in a cloud environment</p><p>•\tCloud Security: Understanding of cloud security best practices (e.g., IAM roles, security groups, firewall configurations)</p><p>•\tMonitoring & Performance: Strong experience with cloud monitoring tools (e.g., AWS</p><p>•\tCloudWatch, Azure Monitor) to track performance and troubleshoot issues</p><p>•\tScalability & Cost Management: Practical knowledge in scaling cloud infrastructure dynamically and optimizing costs using reserved instances, spot instances, and autoscaling</p><p></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Servers",
+      "uuid": "5f214e39d86a7ef1494c42e0b2767c87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AIX",
+      "uuid": "7e6bb0931a72759d39514aa924b420bc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows 2012",
+      "uuid": "8e81245b7f02b8484320ddb3e4b13c18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tivoli Storage Manager",
+      "uuid": "9f74c9e738b058daef9537555c29a861",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Cloud",
+      "uuid": "bbc8a77007b660af585cca528771f800",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25220",
+  "occupationId": "OCC002200",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201716889C",
+    "description": "<h2>Company Overview</h2>\n<p><strong>If you’re seeking for employment or employees, you’re at the right place.</strong>Welcome to Flintex Consulting, a leading Recruitment Agency in Singapore.</p>\n<p><br></p>\n<p><strong>We Match&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Place</strong></p>\n<p><br></p>\n<p>We specialize in Technology, BFSI, Human Resource &amp; Administration, Engineering &amp; Manufacturing, Sales &amp; Marketing,Finance &amp; Accounting sectors.We cater to the needs of a) individual job candidates and b) companies seeking for the right employees to drive their business.</p>\n<p><br></p>\n<p>We have been able to construe and bridge the needs and demands of our individual and corporate clients. Our wide industry expertise and select client base enable us to foster fruitful careers rather than short-term jobs and placements.Our advanced placement platform is designed to match employee skill sets with current vacancies with perfect accuracy. We utilize an efficient, systematic and ultra-precise recruitment method that surpasses industry standards.</p>\n<p><br></p>\n<p>Flintex Consulting has been successful in collaborating multiple leading employers, vendors and clients. We also offer valuable insight to candidates and companies to maximize their recruitment efforts. Candidates are mentored towards finding the best-fit jobs to help build successful careers.We cover all levels of placement, from entry level professionals to mid-level and CEO level posts.We promise to provide the best suited jobs through our research-based methodologies merged with our top qualified personnel.</p>\n<p><br></p>\n<p>Flintex Consulting promises to grow your career the right way. Whether you are a client or a candidate, we have a streamlined platform to match your needs efficiently. With professional, efficient, and timely services, leave it to us when it comes to your Job-Related needs.We take pride in collaborating with leading employers, vendors, and clients. This helps us provide you with extensive job postings across all Major Industries. Additionally, we offer valuable insights and other personalized services designed to maximize productivity and results when it comes to job search.&nbsp;</p>\n<p><br>\nEA License # 17C8724<br>\nUEN # 201716889C</p>\n<p><br></p>\n<h2>Why Join Us?</h2>\n<p><strong>Our Mission</strong></p>\n<p>“To be acknowledged as a team of recruitment professionals with the expertise to consistently facilitate an optimum result for both our clients and candidates”</p>\n<p><br></p>\n<p><strong>Our Vision</strong></p>\n<p>To provide an ‘invaluable’ service that greatly contributes to a company’s or individual’s business success.<br>\nTo always conduct ourselves in a manner that reflects our passion and commitment to delivering a positive outcome for all parties involved.</p>\n<p>To appreciate the responsibility that we assume in assisting people to make important recruitment decisions that can have a significant impact on their lives.Undertake our roles with a sense of dignity, optimism, pride and gratitude.</p>\n<p><br></p>\n<p><strong>Our Core Values</strong></p>\n<p>Integrity, Quality, Professionalism, Teamwork, Commitment and Accountability</p>\n<p><br></p>\n<p><strong>Specialties:</strong></p>\n<p>Recruitments, Staff Augmentation, Contract Staffing, Salary Advisory, Temporary Hiring, Executive Search, Project based Search,&nbsp;RPO, Payroll Services, Work Pass Application, Leadership Hiring, and Trainings</p>",
+    "name": "FLINTEX CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 20,
+    "companyUrl": "www.flintex.com.sg",
+    "lastSyncDate": "2026-02-04T02:48:53.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/schemes"
+      }
+    },
+    "logoFileName": "189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182760",
+    "deletedAt": null,
+    "createdBy": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "createdAt": "2026-01-29T08:56:28.000Z",
+    "updatedAt": "2026-01-29T08:56:28.000Z",
+    "emailRecipient": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 47,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-system-administrator-engineer-flintex-consulting-9a05d34a4ba62f3c67b0856a252a4b45",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a05d34a4ba62f3c67b0856a252a4b45"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a05d34a4ba62f3c67b0856a252a4b45/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

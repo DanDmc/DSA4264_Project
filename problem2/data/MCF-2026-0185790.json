@@ -1,0 +1,206 @@
+{
+  "uuid": "55bf6847858d333fa421a0487d1e9bc0",
+  "sourceCode": "Employer Portal",
+  "title": "Fulfilment Manager",
+  "description": "<p>Candidate should be experienced in telco service delivery, capable of managing OLLC and GIS orders end-to-end while proactively handling delays, coordinating with suppliers and customers, and maintaining a high standard of customer experience through clear communication and issue resolution.<br /></p><ul><li>Deliver OLLC & GIS works orders for customers whilst complying to Singtel’s internal methodologies.</li><li>Manage and follow-thru fallouts from the OLLC & GIS works orders (provide, change, cease).</li><li>Manage issues arising from the OLLC & GIS works orders (provide, change, cease).</li><li>Ensure the key OLLC & GIS milestone dates are met.</li><li>Prepare and submit weekly & monthly reports.</li><li>Execute effective communications with Customers, LSPs and other stakeholders, and manage their expectations.</li><li>Uphold customer experience.</li><li>Meet Team KPIs and targets.</li></ul><p></p><p><strong>Skills For Success:</strong></p><ul><li>Diploma in any ICT equivalent domain.</li><li>Min 3 years of telco delivery or coordination.</li><li>MS O365 (Excel, Word, Outlook, PowerPoint, SharePoint)</li><li>Network architecture and concepts</li><li>Basic technical network knowledge</li><li>Problem Management</li><li>Supplier Management</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dispatching",
+      "uuid": "37a1fd1eb583ca2a29ead248117451fa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ICT",
+      "uuid": "395b46c50c2eeeefbc2180c8630df2d4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "GIS",
+      "uuid": "715ecda3bb03efbf6f1326d8a6c32193",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PowerPoint",
+      "uuid": "8e30baf47f024c0ce4a7f380214194ed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13303",
+  "occupationId": "OCC001987",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    },
+    {
+      "id": 39,
+      "category": "Telecommunications"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "199201624D",
+    "description": "<p>The Singtel Group is Asia's leading communications group, providing a wide spectrum of multimedia and infocomms technology (ICT) solutions across 3 global business units.</p>\n<p>Group Consumer focuses on next-generation communication, infotainment and technology services to consumers and small businesses. Group Enterprise provides innovative and comprehensive ICT solutions, i.e. satellite services, international data and managed services, cloud computing, enterprise mobility services, and end-to-end solutions. Group Digital L!fe strives to bring people together with a cutting edge mix of digital services such as NextGen TV, e-books, music, digital concierge, cloud-based gaming and hyperlocal content.</p>\n<p>Headquartered in Singapore, Singtel’s 130 years of operating experience has played a pivotal role in the country’s transformation into a major communications hub. Our Australian arm, Optus is an innovative leader in integrated telecommunications. Through our strategic investments in five regional mobile operators, Telkomsel, Globe Telecom, Advanced Info Service, PBTL, and Bharti Airtel, we are a major communications player in Asia and Africa.</p>\n<p>Singtel is the largest listed company on the Singapore Exchange by market capitalisation. We have a vast network of offices in countries and territories throughout Asia Pacific, in Europe, USA and Australia. The Group employs more than 21,000 staff worldwide and has served 468 million mobile customers globally as of 31 March 2013.</p>",
+    "name": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+    "ssicCode": "61011",
+    "employeeCount": null,
+    "companyUrl": "https://groupcareers.singtel.com/",
+    "lastSyncDate": "2026-02-04T04:50:22.000Z",
+    "ssicCode2020": "61011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201624D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201624D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201624D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201624D/schemes"
+      }
+    },
+    "logoFileName": "8fee0abfb79de7358e212c5e58379825/SINGAPORE TELECOMMUNICATIONS LIMITED.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8fee0abfb79de7358e212c5e58379825/SINGAPORE%20TELECOMMUNICATIONS%20LIMITED.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "CHOON GUAN STREET",
+    "floor": null,
+    "unit": null,
+    "building": "CITY SOUTH TELEPHONE EXCHANGE",
+    "postalCode": "079809",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27581282150955,
+    "lng": 103.845376280274
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0185790",
+    "deletedAt": null,
+    "createdBy": "438c7307-34f8-4a0d-8632-c456b72a5508",
+    "createdAt": "2026-01-30T01:13:23.000Z",
+    "updatedAt": "2026-01-30T01:13:23.000Z",
+    "emailRecipient": "438c7307-34f8-4a0d-8632-c456b72a5508",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 81,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/fulfilment-manager-singapore-telecommunications-55bf6847858d333fa421a0487d1e9bc0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/55bf6847858d333fa421a0487d1e9bc0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/55bf6847858d333fa421a0487d1e9bc0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

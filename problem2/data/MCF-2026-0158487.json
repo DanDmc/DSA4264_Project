@@ -1,0 +1,206 @@
+{
+  "uuid": "8f47ada20050a5db63338a4d70b5e283",
+  "sourceCode": "Employer Portal",
+  "title": "Lashing Specialist",
+  "description": "<p>The role of a Stevedore Cargo Master is to perform lashing/Unlashing operations on board vessels, vessel berthing/unberthing operations, plugging/unplugging operations, and water bunkering operations at PSA Container Terminal.<br /><br /><u><em>Salary Package Includes: Basic Salary + Overtime Pay (OT) + Meal Incentive + Transport Incentive + Other Allowances & Performance Incentives Location: PSA Port, Pasir Panjang.</em></u><br /></p><p><u><strong>Key Responsibilities:</strong></u></p><p>•Responsible for the positioning and securing of containers on board.</p><p>•Ensure smooth operations and safety compliance.</p><p>•Operate lashing gears safely following SOP.</p><p>•Other ad-hoc duties as assigned.</p><p>•Follow all safety rules and procedures.</p><p><u><strong>Requirements:</strong></u></p><p>•No experience needed <strong>(training provided!)</strong></p><p>•Able to work at heights is a plus</p><p>•Willing to work on rotating shifts and outdoors</p><p></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "reporting on freight",
+      "uuid": "5ca960ed08f7ecd719d232fb61f61a7b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inbound Freight",
+      "uuid": "8afc786e4552d4d506d4db56a05e34ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Freight",
+      "uuid": "a2eca8f6be5b0bf0f2cddcda7cfca376",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "daily operations",
+      "uuid": "d0ee67a50c949a255701ec49725c30dc",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "shipping vessels",
+      "uuid": "d134fd003e0c13e619492f9a36913876",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Learning Management",
+      "uuid": "d328c8429d6ec437008f4bcac0e66432",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Facilitation",
+      "uuid": "e141d61309d06eb02ea67f44dd876d32",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Training Delivery",
+      "uuid": "feff2d5d18da43d11f883fd57faba911",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "93337",
+  "occupationId": "OCC014085",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "11",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199500061H",
+    "description": "<p>BIG - FOOT LOGISTIC PTE LTD</p>\r\n",
+    "name": "BIG - FOOT LOGISTIC PTE LTD",
+    "ssicCode": "16293",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:05:12.000Z",
+    "ssicCode2020": "16293",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500061H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500061H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500061H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199500061H/schemes"
+      }
+    },
+    "logoFileName": "d1bbef319763bd3a3a034c8b6a3aa909/big-foot-logistic.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/d1bbef319763bd3a3a034c8b6a3aa909/big-foot-logistic.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "JOO KOON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "628972",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32644519989147,
+    "lng": 103.674673952604
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158487",
+    "deletedAt": null,
+    "createdBy": "59bf1bfe-0cd0-43dc-b818-db7cb342da73",
+    "createdAt": "2026-01-26T07:04:27.000Z",
+    "updatedAt": "2026-01-26T07:04:27.000Z",
+    "emailRecipient": "59bf1bfe-0cd0-43dc-b818-db7cb342da73",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 54,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/lashing-specialist-big-foot-logistic-8f47ada20050a5db63338a4d70b5e283",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8f47ada20050a5db63338a4d70b5e283"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8f47ada20050a5db63338a4d70b5e283/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

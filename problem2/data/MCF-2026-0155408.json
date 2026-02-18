@@ -1,0 +1,235 @@
+{
+  "uuid": "70b7a3483e37746b4cb3c1cb603b2868",
+  "sourceCode": "Employer Portal",
+  "title": "Bartender",
+  "description": "<p><strong>Job Summary</strong></p><p>As a Bartender at The Warehouse Lobby Bar, you will deliver exceptional beverage service while creating a warm, engaging experience for every guest. You will work efficiently behind the bar, maintain high standards of cleanliness and consistency, and contribute to the energy and culture of the venue.</p><p><strong>Responsibilities</strong></p><ul><li>Prepare and serve classic and house cocktails, wine, beer, and non-alcoholic beverages accurately to specification</li><li>Provide friendly, attentive, and confident guest service to ensure a positive customer experience</li><li>Engage guests by recommending drinks and creating a welcoming bar atmosphere that encourages repeat visits</li><li>Maintain cleanliness and organization of the bar, tools, and workstations to meet hygiene standards</li><li>Manage bar stock by restocking supplies and monitoring basic inventory levels to avoid shortages</li><li>Follow responsible service of alcohol policies and comply with local regulations to ensure safe service</li><li>Handle POS transactions accurately and efficiently to maintain smooth payment processes</li><li>Collaborate with service and kitchen teams to coordinate timely and seamless service delivery</li><li>Open and close the bar following established procedures to ensure operational readiness and security</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Previous bartending experience preferred but not essential</li><li>Strong knowledge of spirits, cocktails, and bar service fundamentals to support quality beverage preparation</li><li>Confident communication skills to interact effectively with guests and team members</li><li>Ability to stay calm and efficient in a fast-paced environment to maintain service quality</li><li>High personal standards of cleanliness, consistency, and presentation to uphold venue reputation</li><li>Team-oriented mindset with a positive, professional attitude to foster a collaborative workplace</li><li>Flexible availability, including evenings, weekends, and public holidays, to meet operational needs</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Product Knowledge",
+      "uuid": "008a8d8a377a59673ee533a01f0590a2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bartending",
+      "uuid": "29cd81c0f4704929111bcd9dc8d9170c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wine",
+      "uuid": "b9eadba3c35f7f89e93c92eb2c8d39b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cocktails",
+      "uuid": "e4d3bd814ab985a66f2401ad59307647",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51321",
+  "occupationId": "OCC009315",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201511759Z",
+    "description": null,
+    "name": "NUVE HOLDINGS PTE. LTD.",
+    "ssicCode": "64202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:54:11.000Z",
+    "ssicCode2020": "70203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511759Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511759Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511759Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201511759Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "320",
+    "street": "HAVELOCK ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "THE WAREHOUSE HOTEL",
+    "postalCode": "169628",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.2892070443924,
+    "lng": 103.83774649555
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155408",
+    "deletedAt": null,
+    "createdBy": "5baa5df9-593b-4c9e-b232-cefe9ba44e1c",
+    "createdAt": "2026-01-26T02:01:38.000Z",
+    "updatedAt": "2026-01-26T02:01:38.000Z",
+    "emailRecipient": "5baa5df9-593b-4c9e-b232-cefe9ba44e1c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 46,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/bartender-nuve-holdings-70b7a3483e37746b4cb3c1cb603b2868",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2850,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/70b7a3483e37746b4cb3c1cb603b2868"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/70b7a3483e37746b4cb3c1cb603b2868/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,221 @@
+{
+  "uuid": "e705fde4999f3201378576b216fdd765",
+  "sourceCode": "Employer Portal",
+  "title": "Legal Secretaries",
+  "description": "<p>Lee & Lee LLP invites applications for Legal Secretaries to join our Real Estate and Property Department.<br /><br />Candidates should:</p><ol><li>Be experienced in the preparation of conveyancing documents and legal completions;</li><li>Be familiar with the usual word processing programs, e.g. Word, Excel and Power Point;</li><li>Be competent with searches and lodgements;</li><li>Expected with searches and lodgements;</li><li>Expected to work with more than one Lawyer;</li><li>Be a team player and also able to work independently.</li></ol><p>Please send your detailed resume and academic results to hr@leenlee.com.sg with a recent photograph, current and expected salary.<br /></p><p></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legal Documents",
+      "uuid": "25c9b3d4708aae10b0134e7b74a2cbce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property",
+      "uuid": "5ad234cb2cde4266195252a23ca7d84e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Title Searches",
+      "uuid": "970f0abcd0fa8106ee9817cdf649efd6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Conveyancing",
+      "uuid": "ca8de3a1a365db14a5b3f07fff08fae2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Maintaining a Positive Attitude",
+      "uuid": "d6eed118578eabdb22b4c10614b8b5cd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Real Estate",
+      "uuid": "d84514acf6dd2dbbac51a77bd394e0ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "44170",
+  "occupationId": "OCC008664",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 23,
+      "category": "Legal"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0602",
+  "postedCompany": {
+    "uen": "T25LL8888A",
+    "description": null,
+    "name": "LEE & LEE LLP",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:11:11.000Z",
+    "ssicCode2020": "69101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T25LL8888A"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T25LL8888A/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T25LL8888A/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T25LL8888A/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "25",
+    "street": "NORTH BRIDGE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "25 NORTH BRIDGE",
+    "postalCode": "179104",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 6,
+        "location": "D06 Beach Road, High Street",
+        "region": "East",
+        "sectors": [
+          "17"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29017120639077,
+    "lng": 103.849700617519
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181751",
+    "deletedAt": null,
+    "createdBy": "8ab58b29-cdab-4699-9f6c-c8b078a44a31",
+    "createdAt": "2026-01-29T07:17:32.000Z",
+    "updatedAt": "2026-01-29T07:17:32.000Z",
+    "emailRecipient": "8ab58b29-cdab-4699-9f6c-c8b078a44a31",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 119,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/legal/legal-secretaries-lee-lee-e705fde4999f3201378576b216fdd765",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e705fde4999f3201378576b216fdd765"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e705fde4999f3201378576b216fdd765/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

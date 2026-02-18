@@ -1,0 +1,234 @@
+{
+  "uuid": "cf69f3abd92b6a5509441ff3fe59f4a6",
+  "sourceCode": "Employer Portal",
+  "title": "Technician",
+  "description": "<h3><strong>Areas of Responsibility</strong></h3><p><br /></p><p>1) Provides technical services including installation & maintenance services on systems, workstations, PC, Lans etc.</p><p>2) Handles customer and channel & sales' queries on service details and work progress.</p><p>3) Performs housekeeping administrative jobs to ensure compliance of internal policies and procedures.</p><p>4) Schedules maintenance jobs based on customer needs and contractual agreements.</p><p>5) Determines usage of parts & labour for repairs and recommend service changes.</p><p>6) Escalate problems as appropriate.</p><p><br /></p><h3>Requirements</h3><p>1) At least a Diploma holder in Electronic Engineering or related fields</p><p>2) Preferably with 1 or 2 years of working experience</p><p>3) Able to work in a team</p><p>4) Bilingual in English & Mandarin due to requirements to communicate with our Taiwan HQ.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Maintenance",
+      "uuid": "10d0de28911c5f66463b9c8783f8148a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Schedule",
+      "uuid": "25f7347236b51a5eae4ba01a7862cb55",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Hardware Support",
+      "uuid": "3baafb0762fa9fd62fb88f8f966b5c56",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Hardware Installation",
+      "uuid": "3c2657686125df5defbace04f09cb5c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ensure compliance",
+      "uuid": "41d25ee00edfd249a175056cfca35801",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Progress",
+      "uuid": "46b5f8c58b679b4243cbdb5749642c86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Policy",
+      "uuid": "51359e8b51c63b87d50cb1bab73380e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "system",
+      "uuid": "54b53072540eeeb8f8e9343e71f28176",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "customer needs",
+      "uuid": "5563075134aa3a4b403ef5eea5f4b167",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Hardware",
+      "uuid": "7607933aeca8709d8c025b104ae5c492",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware Diagnostics",
+      "uuid": "8c4f29b2600d08c15f7fe4ef95afaa95",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware Installation",
+      "uuid": "9723f184aed4670a501f325534ec88b4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Hardware Troubleshooting",
+      "uuid": "bd2467dcfc995f6647a6346cb918901c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "199507032R",
+    "description": "<p><strong>ADVANTECH</strong> is the world leader in Embedded & Applied Computing, eAutomation and Industrial & Network computing platforms. With a global presence and an extensive network of offices worldwide, we manufacture and integrate advanced industrial computing platforms and provide system expertise to system integrators for their solution needs.</p>\r\n\r\n<p>In <strong>ADVANTECH</strong>, Our culture empowers our people to achieve their true potential and creativity. We believe in sharing success with our people and in listening to the many voices that work together to support our single vision. We are looking for aspiring talents to join our fast-growing and dynamic organization.</p>\r\n",
+    "name": "ADVANTECH CO. SINGAPORE PTE LTD",
+    "ssicCode": "26209",
+    "employeeCount": 40,
+    "companyUrl": "www.advantech.com",
+    "lastSyncDate": "2026-02-04T01:02:50.000Z",
+    "ssicCode2020": "26209",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199507032R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199507032R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199507032R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199507032R/schemes"
+      }
+    },
+    "logoFileName": "01395d1cc289215ab45908f320889e75/advantech-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/01395d1cc289215ab45908f320889e75/advantech-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7002",
+    "street": "ANG MO KIO AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "569914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157818",
+    "deletedAt": null,
+    "createdBy": "6159f7cc-60b9-4a73-b261-b9e02754479d",
+    "createdAt": "2026-01-26T05:51:52.000Z",
+    "updatedAt": "2026-01-26T05:51:52.000Z",
+    "emailRecipient": "6159f7cc-60b9-4a73-b261-b9e02754479d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 78,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/technician-advantech-singapore-cf69f3abd92b6a5509441ff3fe59f4a6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cf69f3abd92b6a5509441ff3fe59f4a6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cf69f3abd92b6a5509441ff3fe59f4a6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

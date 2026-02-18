@@ -1,0 +1,201 @@
+{
+  "uuid": "9b37c4619d120f1ead03df311c30e7bb",
+  "sourceCode": "Employer Portal",
+  "title": "Counter Clerk (Container Depot / West)",
+  "description": "<ul>\n  <li>Update and track container movements.</li>\n  <li>Perform data entry and maintain an organized filing system.</li>\n  <li>Collect cash payments and issue receipts.</li>\n  <li>Coordinate with external parties regarding container release and collection.</li>\n  <li>Communicate internally to ensure seamless operations.</li>\n</ul>\n<p>We regret only shortlisted candidates will be contacted. All applications will be handled confidentially. By submitting your application, you agree to the collection, use, retention, and disclosure of your personal information to prospective employers.</p>\n<p><br></p>\n<p>Wecruit Pte Ltd</p>\n<p>EA License No: 20C0270</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Container",
+      "uuid": "0e7278cda02a9c0446dcc75a4df34eb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Filing",
+      "uuid": "ff9408a021572bc64e13292dfa5bc715",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43231",
+  "occupationId": "OCC008917",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202024371N",
+    "description": "<p>Wecruit is one of the leading recruitment firms based in Singapore, dedicated to helping job seekers find the right career opportunities.</p>\n<p><br>\nWe partner with reputable companies across a wide range of industries, including Healthcare, IT, Corporate Support, Engineering, Education, Logistics &amp; Supply Chain, Oil &amp; Gas, and Maritime.&nbsp;</p>\n<p><br></p>\n<p>Whether you're looking for permanent roles or short-term assignments, our consultants take the time to understand your experience, preferences, and goals to match you with suitable roles.<br>\n<br>\nWith over 1,000 successful placements and a strong track record of candidate satisfaction, Wecruit is here to support your career journey.</p>\n<p><br>\nLet us help you take the next step—reach out to explore current opportunities or to speak with our team.<br>\n<br>\n</p>",
+    "name": "WECRUIT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "https://www.wecruit.com.sg/",
+    "lastSyncDate": "2026-02-04T00:57:12.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202024371N/schemes"
+      }
+    },
+    "logoFileName": "f09a3c1d371654245747359aeb85459d/wecruit.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f09a3c1d371654245747359aeb85459d/wecruit.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175694",
+    "deletedAt": null,
+    "createdBy": "7a258823-b9f0-4d5c-9a57-14778a290df8",
+    "createdAt": "2026-01-28T08:31:26.000Z",
+    "updatedAt": "2026-01-28T08:31:26.000Z",
+    "emailRecipient": "7a258823-b9f0-4d5c-9a57-14778a290df8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/counter-clerk-wecruit-9b37c4619d120f1ead03df311c30e7bb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2600,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b37c4619d120f1ead03df311c30e7bb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b37c4619d120f1ead03df311c30e7bb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

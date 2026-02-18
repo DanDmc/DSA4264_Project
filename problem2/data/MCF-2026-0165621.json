@@ -1,0 +1,223 @@
+{
+  "uuid": "3934449205273d0dbad86e78f4a40ae4",
+  "sourceCode": "Employer Portal",
+  "title": "Agentic AI Engineer - Contract",
+  "description": "<p><strong>ABOUT THE COMPANY</strong><br />Zenith Infotech (S) Pte Ltd. was started in 1997, primarily with the vision of offering state-of-the-art IT\nProfessionals and solutions to various organizations and thereby helping them increase their productivity and competitiveness. From deployment of one person to formation of whole IT teams, <br /><br />Zenith Infotech has helped clients with their staff augmentation needs. Zenith offers opportunity to be engaged in long term projects with large IT savvy companies, Consulting organizations, System\nIntegrators, Government, and MNCs.<br /></p><h2>About the Role</h2><p>We're seeking an experienced <strong>Agentic AI Engineer</strong> to design, develop, and deploy production-grade AI agent systems that solve complex, real-world problems. You'll build sophisticated multi-agent workflows <strong>using LangGraph and large language models (LLMs)</strong>, crafting reusable components that enable autonomous decision-making, task orchestration, and agent-to-agent collaboration.</p><p>This is a hands-on engineering role where you'll bridge cutting-edge AI capabilities with robust software engineering practices. You'll write <strong>clean, testable Python code</strong>, engineer reliable prompts that control agent behavior, and build CI/CD pipelines that automate deployment of intelligent systems.<br /></p><h2>Key Responsibilities</h2><h3>AI Agent Development</h3><ul><li>Design and develop <strong>reusable agentic AI workflows</strong> using LangGraph and state-of-the-art LLMs</li><li>Build multi-agent systems where autonomous agents collaborate to complete complex tasks</li><li>Implement <strong>Agent-to-Agent (A2A) communication patterns</strong> for coordinated problem-solving</li><li>Create modular, composable agent components that can be reused across different workflows</li></ul><h3>Prompt Engineering & LLM Control</h3><ul><li>Craft and refine <strong>clear, effective prompts</strong> for diverse tasks and agent behaviors</li><li>Optimize prompts for reliability, consistency, and output quality</li><li>Develop prompt templates and frameworks that ensure predictable agent performance</li><li>Implement prompt versioning and testing strategies</li></ul><h3>Software Engineering & Testing</h3><ul><li>Write <strong>clean, production-grade Python code</strong> following best practices and design patterns</li><li>Develop <strong>comprehensive pytest unit tests</strong> to ensure agent reliability and correctness</li><li>Build integration tests for multi-agent workflows and A2A interactions</li><li>Maintain high code quality through code reviews and documentation</li></ul><h3>DevOps & Automation</h3><ul><li>Use <strong>Git for version control</strong> in a collaborative team environment</li><li>Design and maintain <strong>GitLab CI/CD pipelines</strong> to automate build, test, and deployment processes</li><li>Implement monitoring and observability for agent systems in production</li><li>Automate agent workflow testing and validation</li></ul><p><br />Required Qualifications</p><h3>Must Have</h3><p>✅ <strong>Strong prompt engineering skills</strong> for LLM control and output reliability</p><ul><li>Demonstrated ability to craft prompts that produce consistent, high-quality results</li><li>Experience debugging and optimizing LLM behavior through prompt refinement</li><li>Understanding of prompt engineering patterns (few-shot learning, chain-of-thought, etc.)</li></ul><p>✅ <strong>Proven ability to build and maintain LangGraph workflows and reusable components</strong></p><ul><li>Hands-on experience building stateful agent workflows with LangGraph</li><li>Track record of creating modular, reusable agent components</li><li>Experience with graph-based agent orchestration patterns</li></ul><p>✅ <strong>Proficiency in Python, including writing pytest unit tests</strong></p><ul><li>Strong Python programming skills with emphasis on clean, maintainable code</li><li>Experience writing comprehensive test suites with pytest</li><li>Familiarity with Python async/await patterns and concurrency</li></ul><p>✅ <strong>Git version control and GitLab CI/CD experience</strong></p><ul><li>Comfortable using Git in a team environment (branching, merging, pull requests)</li><li>Experience building and maintaining GitLab CI/CD pipelines</li><li>Knowledge of automated testing, deployment, and release strategies</li></ul><h3>Good to Have</h3><p>🎯 <strong>Hands-on experience in agentic AI system design and orchestration</strong></p><ul><li>Experience designing multi-agent architectures for complex workflows</li><li>Understanding of agent planning, reasoning, and decision-making patterns</li><li>Familiarity with agent evaluation and benchmarking methodologies</li></ul><p>🎯 <strong>Solid understanding of A2A orchestration principles</strong></p><ul><li>Experience with agent communication protocols and message passing</li><li>Knowledge of coordination patterns (delegation, collaboration, negotiation)</li><li>Understanding of when to use single vs. multi-agent approaches</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "TensorFlow",
+      "uuid": "074dd699710da0ec1eb45f13b31788e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PyTorch",
+      "uuid": "95b88f180e9eb5678e0f9ebac2cbe643",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Benchmarking",
+      "uuid": "da02a82356735ded82f6661108abe7ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python Programming",
+      "uuid": "de6ae90465e75b350ed18a2024ca16ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bridge",
+      "uuid": "de8504b73ea228d0ea9bbce69752092e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013733",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "199702119G",
+    "description": "<p>Zenith Infotech (S) Pte Ltd. was started in 1997, primarily with the vision of offering state-of-the-art IT Professionals and solutions to various organizations and thereby helping them increase their productivity and competitiveness. From deployment of one person to formation of whole IT teams, Zenith Infotech has helped clients with their staff augmentation needs. Zenith offers opportunity to be engaged in long term projects with large IT savvy companies, Consulting organizations, System Integrators, Government, and MNCs.</p>",
+    "name": "ZENITH INFOTECH (S) PTE LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "https://www.zenithinfotech.com.sg/AboutUs",
+    "lastSyncDate": "2026-02-04T01:02:30.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702119G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702119G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702119G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199702119G/schemes"
+      }
+    },
+    "logoFileName": "850bacc9fc1fb4600eff66ba182b9d01/zenith-infotech.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/850bacc9fc1fb4600eff66ba182b9d01/zenith-infotech.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165621",
+    "deletedAt": null,
+    "createdBy": "98433685-0a5f-4368-a6c7-1b181c6664b2",
+    "createdAt": "2026-01-27T05:07:46.000Z",
+    "updatedAt": "2026-01-27T05:07:46.000Z",
+    "emailRecipient": "98433685-0a5f-4368-a6c7-1b181c6664b2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 91,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 21,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/agentic-ai-engineer-contract-zenith-infotech-3934449205273d0dbad86e78f4a40ae4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7300,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3934449205273d0dbad86e78f4a40ae4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3934449205273d0dbad86e78f4a40ae4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

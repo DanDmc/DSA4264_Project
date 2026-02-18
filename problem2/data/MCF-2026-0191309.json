@@ -1,0 +1,248 @@
+{
+  "uuid": "e6c870915dc5613908d735d0def20eb8",
+  "sourceCode": "Employer Portal",
+  "title": "SUPERVISOR",
+  "description": "<p><strong>Requirements</strong></p><p>* Proven experience as Supervisor or similar role</p><p>* Organizational and leadership abilities</p><p>* Communication and interpersonal skills</p><p>* Self-motivated with a results-driven approach</p><p>* Problem-solving skills</p><p>* Able to work longer hours with prolonged period of standing.</p><p>* Must work on weekends/PH.</p><p><strong>Responsibilities</strong></p><p>* Set daily/weekly/monthly objectives and communicate them to employees</p><p>* Organize workflow by assigning responsibilities and preparing schedules</p><p>* Oversee and coach employees</p><p>* Identify issues in efficiency and suggest improvements</p><p>* Enforce strict safety guidelines and company standards</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "201832108C",
+    "description": "<p>57 Employment Agency Pte Ltd was incorporated in Singapore since 2018. Our company is licensed with Ministry Of Manpower, license number 18C9450. As the experts in talent recruitment and human resource engagement services, we pride ourselves on the timely delivery of these services through our team of dedicated and experienced professionals.</p>\n\n<p>As a one-stop human capital solution provider, 57 Employment Agency Pte Ltd intensifies the process of recruiting the potential candidates for our valued clients. To ensure a smooth, hassle free and efficient recruitment process, we also provide the necessary documentations, permit applications, medical check-ups and accommodations for the foreign candidates.</p>\n\n<p>Our team of highly dedicated and competent consultants are unparalleled in providing prompt and effective manpower solutions to our valued clients with their wide range of industries knowledge.</p>\n",
+    "name": "57 EMPLOYMENT AGENCY PTE. LTD.",
+    "ssicCode": "88991",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:26:55.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/schemes"
+      }
+    },
+    "logoFileName": "fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202128602H",
+    "description": null,
+    "name": "E PIN MALA PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T10:18:32.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128602H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128602H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128602H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202128602H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191309",
+    "deletedAt": null,
+    "createdBy": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "createdAt": "2026-01-30T10:25:59.000Z",
+    "updatedAt": "2026-01-30T10:25:59.000Z",
+    "emailRecipient": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 12,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/supervisor-e-pin-mala-e6c870915dc5613908d735d0def20eb8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e6c870915dc5613908d735d0def20eb8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e6c870915dc5613908d735d0def20eb8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

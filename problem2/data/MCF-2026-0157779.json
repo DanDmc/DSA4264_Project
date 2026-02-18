@@ -1,0 +1,229 @@
+{
+  "uuid": "6840c65d23c07777f78d25cf55f1970b",
+  "sourceCode": "Employer Portal",
+  "title": "Accounting Intern",
+  "description": "<p>An Accounting Intern supports the finance department with daily tasks, including data entry, account reconciliation, accounts payable/receivable, and financial reporting</p><p><strong>Key Responsibilities</strong></p><ul><li><strong>Data Entry & Bookkeeping:</strong> Perform data entry, maintain accurate financial records, and update accounting files.</li><li><strong>Financial Reporting:</strong> Assist in preparing, analyzing, and reviewing financial reports and statements.</li><li><strong>Accounts Payable/Receivable:</strong> Process invoices, follow up on payments, and manage expense reports.</li><li><strong>Reconciliation & Auditing:</strong> Assist with bank reconciliations, internal audits, and compliance checks.</li><li><strong>Administrative Support:</strong> Maintain filing systems, research discrepancies, and assist with month-end/year-end closing processes. </li></ul><p><strong>Required Qualifications & Skills</strong></p><ul><li><strong>Education:</strong> Currently pursuing or recently completed a Bachelor's degree in Accounting, Finance, or Economics.</li><li><strong>Skills:</strong> Strong understanding of basic accounting principles and GAAP.</li><li><strong>Software:</strong> Proficiency in Microsoft Office (especially Excel) and familiarity with accounting software like QuickBooks, Xero, or SAP.</li><li><strong>Attributes:</strong> High attention to detail, strong analytical, organizational, and communication skills.</li><li><strong>Integrity:</strong> Ability to handle confidential financial information with discretion</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Account Reconciliation",
+      "uuid": "098772ec0f6bbc36e10e8515a32237fc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Auditing",
+      "uuid": "78f48b8a03facd61000db8f7ae6f9227",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "QuickBooks",
+      "uuid": "8b9527ffb3d380369ae95af9525475ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bookkeeping",
+      "uuid": "b4ce435600f0451db46463e960fc5e3b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Xero",
+      "uuid": "b4d48785c36047d95628c353e568040f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "43111",
+  "occupationId": "OCC059469",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "200705106E",
+    "description": "<p>Nice Minimart is a heartland minimart undergoing major changes with a new management in line. Modernising our operation and fulfillment, serving the community since 2007.&nbsp;</p>",
+    "name": "NICE MINIMART PTE. LTD.",
+    "ssicCode": "47102",
+    "employeeCount": null,
+    "companyUrl": "nice.com.sg",
+    "lastSyncDate": "2026-02-04T09:56:44.000Z",
+    "ssicCode2020": "47102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200705106E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200705106E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200705106E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200705106E/schemes"
+      }
+    },
+    "logoFileName": "ccc1221f612d4e8b7dd4c923633108d2/nice-minimart.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ccc1221f612d4e8b7dd4c923633108d2/nice-minimart.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "UBI CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "UBI TECHPARK",
+    "postalCode": "408564",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32627524038924,
+    "lng": 103.896130679533
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157779",
+    "deletedAt": null,
+    "createdBy": "2ce05755-3f44-4ed2-99f7-d84283681cbd",
+    "createdAt": "2026-01-26T05:46:52.000Z",
+    "updatedAt": "2026-01-26T05:46:52.000Z",
+    "emailRecipient": "2ce05755-3f44-4ed2-99f7-d84283681cbd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounting-intern-nice-minimart-6840c65d23c07777f78d25cf55f1970b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1100,
+    "minimum": 700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6840c65d23c07777f78d25cf55f1970b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6840c65d23c07777f78d25cf55f1970b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

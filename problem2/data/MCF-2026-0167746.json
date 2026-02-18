@@ -1,0 +1,225 @@
+{
+  "uuid": "f4669ea8cc45a8cc31f0836432cfc8dc",
+  "sourceCode": "Employer Portal",
+  "title": "WAREHOUSE ASSISTANT",
+  "description": "<ul>\n  <li>Prepare and complete orders for delivery or pickup according to schedule (load, pack, wrap, label, ship)</li>\n  <li>Loading and unloading trucks, receiving products, and picking, packing, wrapping, labeling, and/or shipping products.</li>\n  <li>Makes sure that incoming and outgoing products and material are in good condition.</li>\n  <li>Report any discrepancies</li>\n  <li>The efficient utilisation of space and mechanical handling equipment, ensuring quality, budgetary targets and environmental objectives are met;</li>\n</ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "93334",
+  "occupationId": "OCC008974",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 42,
+      "category": "Wholesale Trade"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    },
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    },
+    {
+      "id": 10,
+      "employmentType": "Internship/Attachment"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "21",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201006441C",
+    "description": null,
+    "name": "GLOBAL COPIER RESOURCE PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-01T04:06:02.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201006441C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201006441C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201006441C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201006441C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "31",
+    "street": "JURONG PORT ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "JURONG LOGISTICS HUB",
+    "postalCode": "619115",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31197625193454,
+    "lng": 103.720151695849
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167746",
+    "deletedAt": null,
+    "createdBy": "54b7b918-c288-4ac1-9605-02b26e556fc0",
+    "createdAt": "2026-01-27T08:58:45.000Z",
+    "updatedAt": "2026-01-27T08:58:45.000Z",
+    "emailRecipient": "54b7b918-c288-4ac1-9605-02b26e556fc0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 162,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/wholesale-trade/warehouse-assistant-global-copier-resource-f4669ea8cc45a8cc31f0836432cfc8dc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2700,
+    "minimum": 2600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f4669ea8cc45a8cc31f0836432cfc8dc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f4669ea8cc45a8cc31f0836432cfc8dc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

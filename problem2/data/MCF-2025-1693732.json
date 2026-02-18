@@ -1,0 +1,223 @@
+{
+  "uuid": "fb5100429d1b65d772ff94a8131e3dec",
+  "sourceCode": "Employer Portal",
+  "title": "办公室清洁工 一个星期 一次 3 小时 $20/hour",
+  "description": "<p>Experienced office cleaner immediate. Small office.<br /><br /><strong>一个星期 一次 3 小时 办公室清洁工 </strong></p><p>Once a week cleaning  at Ubi Ave 1</p><p>$20/hr x 3 = $60<br /></p><ol><li>2 toilets</li><li>wipe all table tops/cupboard/copier machine</li><li>vacuum carpets</li><li>Clean pantry/fridge</li><li>Clear office rubbish bins</li><li>8 steps 4 flights of stairs sweep & mops</li><li>Wipe railings/handles/all touch surfaces<br /></li></ol>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Cleaning of toilets",
+      "uuid": "118ba035bdf15959e3cae938a10977d9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "doors & windows",
+      "uuid": "1a16f52a501e859cec2f7167d6a3aa88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "SOAP",
+      "uuid": "4de91f0fcb9cd3a20b6b1d64610a0a3d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Highly responsible",
+      "uuid": "5fd5ce43a85c9c2ee5e88398fce9b8eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Internals",
+      "uuid": "771d278bbea128cb9e92533a70c8b7fa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hard Worker",
+      "uuid": "9604f2ceb86b1e3da7b1bf8280e15601",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vacuum carpet",
+      "uuid": "dfd58db7dbb544d42542b536b84d4254",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "moping floor",
+      "uuid": "e30cb9f8e23d634942799aa10766e050",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "hardworking",
+      "uuid": "e5bafd3db41afda1b9bf9aa7871e2aa6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "91131",
+  "occupationId": "OCC061393",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200308996K",
+    "description": "<p>DE HYGIENIQUE (ASIA) PTE. LTD established since 2003 is a leading Mattress/ Carpet/ Upholstery cleaning service provider in Singapore, using the latest technology and innovation to provide our clients with a high level of standard.</p>\r\n",
+    "name": "DE HYGIENIQUE (ASIA) PTE. LTD.",
+    "ssicCode": "96011",
+    "employeeCount": null,
+    "companyUrl": "www.dh-asia.com",
+    "lastSyncDate": "2026-02-02T02:55:38.000Z",
+    "ssicCode2020": "96011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308996K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308996K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308996K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308996K/schemes"
+      }
+    },
+    "logoFileName": "302b2e84c732290b6ced4d70dd85ad85/DE HYGIENIQUE (ASIA) PTE. LTD..gif",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/302b2e84c732290b6ced4d70dd85ad85/DE%20HYGIENIQUE%20(ASIA)%20PTE.%20LTD..gif",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "53",
+    "street": "UBI AVENUE 1",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA UBI INDUSTRIAL PARK",
+    "postalCode": "408934",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32540813900279,
+    "lng": 103.896601335955
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1693732",
+    "deletedAt": "2025-12-06T17:15:04.000Z",
+    "createdBy": "55aaf825-312d-4c56-8788-8204eb2752c5",
+    "createdAt": "2025-11-06T01:51:40.000Z",
+    "updatedAt": "2026-01-28T02:54:33.000Z",
+    "emailRecipient": "55aaf825-312d-4c56-8788-8204eb2752c5",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 191,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2025-11-06",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%B8%85%E6%B4%81%E5%B7%A5-%E4%B8%80%E4%B8%AA%E6%98%9F%E6%9C%9F-%E4%B8%80%E6%AC%A1-3-%E5%B0%8F%E6%97%B6-20hour-de-hygienique-fb5100429d1b65d772ff94a8131e3dec",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 60,
+    "minimum": 20,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fb5100429d1b65d772ff94a8131e3dec"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fb5100429d1b65d772ff94a8131e3dec/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

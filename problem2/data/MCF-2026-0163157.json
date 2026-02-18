@@ -1,0 +1,202 @@
+{
+  "uuid": "af68d05d62257430351e780e78d56f4c",
+  "sourceCode": "Employer Portal",
+  "title": "Secretary",
+  "description": "<p>We have an opening for the following position:</p><h3><u><strong>Legal Secretary</strong></u></h3><p><u><em>Responsibilities (not limited to):</em></u></p><ul><li>Assisting with the preparation of legal documents</li><li>Answering calls and handling requests</li><li>Scheduling of meetings/appointments and preparing of meeting materials</li><li>Maintaining client contact list</li><li>Performing general administrative duties such as photocopying, scanning, binding, file management</li><li>Providing administrative support on a day-to-day basis, such as expense claims and time recording</li><li>Preparing of billings</li><li>Booking of flights and accommodations<br /></li></ul><p><u><em>Requirements:</em></u></p><ul><li>Minimum 5 GCE \"O\" level credits including English</li><li>Proficient in Microsoft office applications</li><li>2 years' working experience as a Secretary</li><li>Takes initiative and is a team player</li><li>Excellent communication, interpersonal and organizational skill</li><li>Good time management</li></ul><p></p><p>A competitive and attractive remuneration package awaits the successful candidate.<br /></p><p>Please submit your resume stating qualifications, work experience, current and expected salary.</p><p></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Travel Arrangements",
+      "uuid": "425d4e37642519db8b4463d5a132edd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41201",
+  "occupationId": "OCC008616",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "196900743E",
+    "description": "<p>SLAB SERVICES PRIVATE LIMITED</p>\r\n",
+    "name": "SLAB SERVICES PRIVATE LIMITED",
+    "ssicCode": "70209",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:36:05.000Z",
+    "ssicCode2020": "70209",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196900743E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196900743E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196900743E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/196900743E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "AIA TOWER",
+    "postalCode": "048542",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28197963693191,
+    "lng": 103.851115002446
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163157",
+    "deletedAt": null,
+    "createdBy": "93bf8c65-59df-4129-b9d4-24b7f7a4ba7e",
+    "createdAt": "2026-01-27T01:30:15.000Z",
+    "updatedAt": "2026-01-27T01:30:16.000Z",
+    "emailRecipient": "93bf8c65-59df-4129-b9d4-24b7f7a4ba7e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 140,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 22,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/secretary-slab-services-af68d05d62257430351e780e78d56f4c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/af68d05d62257430351e780e78d56f4c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/af68d05d62257430351e780e78d56f4c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

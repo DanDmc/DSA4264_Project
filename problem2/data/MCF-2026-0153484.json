@@ -1,0 +1,203 @@
+{
+  "uuid": "59eaa14b437450fcaa1bcdf389b3e989",
+  "sourceCode": "Employer Portal",
+  "title": "COOK",
+  "description": "<p>The Assistant Cook supports the Head Cook/Chef in preparing and cooking food according to the restaurant’s standards. The role includes assisting with food preparation, maintaining kitchen cleanliness, and ensuring food safety and hygiene practices are followed at all times.<br /></p><p><p>Basic knowledge of cooking and kitchen operations.</p></p><p><p>Prior experience in a restaurant or kitchen environment preferred.</p></p><p><p>Willingness to learn and follow instructions.</p></p><p><p>Ability to work long hours, weekends, and public holidays.</p></p><p><p>Physically fit and able to stand for long periods.</p></p><p><p>Good teamwork and positive attitude.</p></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Baking",
+      "uuid": "a11e3d7212c369ba1a229ea7a8ae65de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembling",
+      "uuid": "b65bcd4c023847cafb39151dfa9ddd7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HACCP",
+      "uuid": "c38d1935edec2f6cf463602abdfbabf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hazard Analysis",
+      "uuid": "d9b11377454884e4f7322d8db1aa9e19",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "51201",
+  "occupationId": "OCC009299",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202022291M",
+    "description": null,
+    "name": "BUHARI RESTAURANT PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T12:27:13.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022291M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022291M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022291M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202022291M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "54",
+    "street": "MAUDE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TOWNSHEND BUILDING",
+    "postalCode": "208346",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30817300318496,
+    "lng": 103.858435827659
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153484",
+    "deletedAt": null,
+    "createdBy": "e7b46d48-5869-41bc-ab35-946095d137b8",
+    "createdAt": "2026-01-25T12:31:31.000Z",
+    "updatedAt": "2026-01-25T12:31:31.000Z",
+    "emailRecipient": "e7b46d48-5869-41bc-ab35-946095d137b8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-08",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/cook-buhari-restaurant-59eaa14b437450fcaa1bcdf389b3e989",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/59eaa14b437450fcaa1bcdf389b3e989"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/59eaa14b437450fcaa1bcdf389b3e989/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

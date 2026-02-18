@@ -1,0 +1,238 @@
+{
+  "uuid": "6b8a2d2a26dbda40046f38aedf97a3ed",
+  "sourceCode": "Employer Portal",
+  "title": "SAP Treasury Consultant",
+  "description": "<ul><li>Led end-to-end implementation of SAP S/4HANA Treasury & Risk Management (TRM) including Commodity Management, Cash Management, Liquidity Planning, and In-House Cash</li><li>Configured Bank Account Management and integrated different formats for global payment processing</li><li>Designed and executed FX hedge exposure strategies using Market Risk Analyzer, improving forecast accuracy by 25%</li><li>Conducted UAT, end-user training, and post-go-live support for Treasury and FICO modules</li><li>Integrated FSCM Commodity Management with core finance processes</li><li>Supported Universal Parallel Accounting (UPA) and multi-ledger reporting for compliance with IFRS and local GAAP</li><li>Implementation experience in SAP S/4HANA Finance modules including GL, AP, AR, Asset Accounting, and Controlling </li><li>Automated month-end close and financial reporting, reducing cycle time minimum</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Commodity",
+      "uuid": "02d27077acec93af7e3a98cd2edd28bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IFRS",
+      "uuid": "07abed514ef36a21ae697f475d40e312",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Account Management",
+      "uuid": "09f0c5159c5e34504e453eff3fc70324",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treasury",
+      "uuid": "20e968a2ef4cbdc5bea5e34d0b1e7333",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market Risk",
+      "uuid": "27684e082650e32c0066c080b543d4c6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treasury Management",
+      "uuid": "3a13f28b4731866371061143b82f9809",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Details",
+      "uuid": "aadca85dd728e361bc3e0851ca0efb4a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Management",
+      "uuid": "bc0c62f1f262a46872a871ec65c16e12",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Flow",
+      "uuid": "dc62425edd02dcb2af9e79ae9bb0d053",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Reporting",
+      "uuid": "f8cc933992ca4af7cb5eddd6b9d44778",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013738",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200413557M",
+    "description": "<p>ITCAN PTE LTD , headquartered in Singapore, offers a full spectrum of integrated IT S/W Solutions & Services.</p>\r\n\r\n<p>Empowered to deliver enterprise client Server or web based solutions across the entire value chain, spanning on - site consulting services to turn key S/ W projects</p>\r\n\r\n<p>Regional Offices : Malaysia / Australia / HKG /</p>\r\n\r\n<p>Clients in : Europe / US / Canada /China / Japan / Middle East</p>\r\n\r\n<p>Multi Awards Winner : E50 , APEA, AREA, SOE , ASME, SIEA , AEA, TGE, (Visit Website for more details)</p>\r\n",
+    "name": "ITCAN PTE. LIMITED",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:02:17.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200413557M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "CECIL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PRUDENTIAL TOWER",
+    "postalCode": "049712",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28279709576622,
+    "lng": 103.849887722614
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169101",
+    "deletedAt": null,
+    "createdBy": "c2513d31-6bf9-49d2-8ac5-8ccbe4cf4d1d",
+    "createdAt": "2026-01-27T11:11:38.000Z",
+    "updatedAt": "2026-01-27T11:11:37.000Z",
+    "emailRecipient": "c2513d31-6bf9-49d2-8ac5-8ccbe4cf4d1d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 59,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/sap-treasury-consultant-itcan-6b8a2d2a26dbda40046f38aedf97a3ed",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6b8a2d2a26dbda40046f38aedf97a3ed"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6b8a2d2a26dbda40046f38aedf97a3ed/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

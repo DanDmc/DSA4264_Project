@@ -1,0 +1,200 @@
+{
+  "uuid": "fa50e81bfc1376d34f3310b3f6c9007b",
+  "sourceCode": "Employer Portal",
+  "title": "FLOOR AND WALL TILE SETTER (TILER)",
+  "description": "<p>1) Align and straighten tile using levels, squares and straightedges.<br>\n <strong>2) </strong>Determine and implement the best layout to achieve a desired pattern.</p>\n<p><strong>3) </strong>Cut and shape tile to fit around obstacles and into odd spaces and corners, using hand and power cutting tools.<br>\n <br>\n <strong>4) </strong>Finish and dress the joints and wipe excess grout from between tiles, using damp sponge.<br>\n <br>\n <strong>5) </strong>Apply mortar to tile back, position the tile and press or tap with trowel handle to affix tile to base.</p>\n<p><strong>6) </strong>Mix, apply, and spread plaster, concrete, mortar, cement, mastic, glue or other adhesives to form a bed for the tiles, using brush, trowel and screed.<br>\n <br>\n <strong>7) </strong>Prepare cost and labor estimates based on calculations of time and materials needed for project.<br>\n <br>\n <strong>8) </strong>Measure and mark surfaces to be tiled, following blueprints.</p>\n<p><strong>9) </strong>Level concrete and allow to dry.<br>\n <br>\n <strong>10) </strong>Build underbeds and install anchor bolts, wires and brackets.<br>\n <br>\n <strong>11) </strong>Prepare surfaces for tiling by attaching lath or waterproof paper, or by applying a cement mortar coat onto a metal screed</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Flooring",
+      "uuid": "4ab5f53873db7250dc192ada23cb02b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Floor Plans",
+      "uuid": "52600791cdef0692bf53234dcaa9a502",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cement",
+      "uuid": "5cb91ac72b6016809690064a5e7e30e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Finish",
+      "uuid": "a20ddccbb6f808ec42cd66323e6c6061",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excess",
+      "uuid": "d1d25b9ff7906919775079068a81aee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Floor-laying",
+      "uuid": "d88e415aa4597f223b4cc441fbb54124",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71220",
+  "occupationId": "OCC009922",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200103482M",
+    "description": null,
+    "name": "I.D.M. CONSTRUCTION (S) PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T12:24:20.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200103482M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200103482M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200103482M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200103482M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1016",
+    "street": "GEYLANG EAST AVENUE 3",
+    "floor": null,
+    "unit": null,
+    "building": "GEYLANG EAST INDUSTRIAL ESTATE",
+    "postalCode": "389731",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31882459329674,
+    "lng": 103.891428602021
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1593354",
+    "deletedAt": "2025-11-03T17:15:04.000Z",
+    "createdBy": "1a0fbfa0-d812-43b2-925f-f260fd3417b6",
+    "createdAt": "2025-10-20T12:26:46.000Z",
+    "updatedAt": "2026-01-29T12:27:45.000Z",
+    "emailRecipient": "1a0fbfa0-d812-43b2-925f-f260fd3417b6",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 78,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-10-20",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/floor-wall-tile-setter-idm-construction-fa50e81bfc1376d34f3310b3f6c9007b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3900,
+    "minimum": 2900,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fa50e81bfc1376d34f3310b3f6c9007b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fa50e81bfc1376d34f3310b3f6c9007b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

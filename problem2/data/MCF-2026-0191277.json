@@ -1,0 +1,200 @@
+{
+  "uuid": "ab9345752e44572599f1ff6b2a20786c",
+  "sourceCode": "Employer Portal",
+  "title": "Safety Coordinator",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li><p>Identify and rectify unsafe acts and unsafe conditions at the worksite</p></li><li><p>Conduct regular site inspections and ensure corrective actions are implemented</p></li><li><p>Ensure compliance with Workplace Safety & Health (WSH) regulations and company policies</p></li><li><p>Enforce all WSH requirements and in-house safety rules</p></li><li><p>Assist in accident/incident investigations and reporting</p></li><li><p>Conduct safety training, toolbox meetings, briefings, and safety time-outs</p></li><li><p>Liaise with project teams and contractors on safety and health matters</p></li><li><p>Monitor SHE performance and follow up on safety documentation</p></li><li><p>Perform other duties as assigned</p></li></ul><p><strong>Requirements:</strong></p><ul><li><p>Advanced Certificate in WSH Level B and/or relevant safety certifications</p></li><li><p>Minimum 3 years’ experience in high-rise building projects</p></li><li><p>Good interpersonal and communication skills</p></li><li><p>Able to work in a fast-paced environment and under pressure</p></li><li><p>Willing to work at night shifts</p></li><li><p>6-day work week</p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Risk Assessment",
+      "uuid": "3177ea52ef79969392fa9605bc638090",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Safety Training",
+      "uuid": "ef711fddca21bb190be27dc2b385573f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "EHS",
+      "uuid": "fcb71c29df8b022ba715500512af3cc3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC007877",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 34,
+      "category": "Risk Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "47",
+  "ssecFos": "1355",
+  "postedCompany": {
+    "uen": "199904844M",
+    "description": null,
+    "name": "GOOD YEAR CONTRACTOR PTE LTD",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T04:09:41.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904844M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904844M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904844M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199904844M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "56",
+    "street": "LOYANG WAY",
+    "floor": null,
+    "unit": null,
+    "building": "LOYANG ENTERPRISE BUILDING",
+    "postalCode": "508775",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 17,
+        "location": "D17 Loyang, Changi",
+        "region": "East",
+        "sectors": [
+          "49",
+          "50",
+          "81",
+          "91"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.3804113851882,
+    "lng": 103.976687005095
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191277",
+    "deletedAt": null,
+    "createdBy": "83c333c3-0a51-4959-814c-39654829a880",
+    "createdAt": "2026-01-30T10:20:49.000Z",
+    "updatedAt": "2026-01-30T10:20:49.000Z",
+    "emailRecipient": "83c333c3-0a51-4959-814c-39654829a880",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 159,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 30,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/risk-management/safety-coordinator-good-year-contractor-ab9345752e44572599f1ff6b2a20786c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ab9345752e44572599f1ff6b2a20786c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ab9345752e44572599f1ff6b2a20786c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

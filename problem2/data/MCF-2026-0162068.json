@@ -1,0 +1,231 @@
+{
+  "uuid": "e50fff874df337f6db0a94f1ac3d317f",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer (Internship)",
+  "description": "<p><strong>Job Summary</strong></p><p>Build and maintain backend software solutions that empower businesses to manage their operations efficiently.</p><p><strong>Responsibilities</strong></p><ul><li>Develop and implement backend features using Laravel to meet client requirements</li><li>Translate client business needs into scalable and effective technical solutions</li><li>Write clean, maintainable code with comprehensive testing to ensure software quality</li><li>Collaborate with the mobile development team to integrate APIs seamlessly</li><li>Conduct testing and deploy applications through continuous integration and continuous deployment (CI/CD) pipelines</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Experience with backend development in PHP, Go, C#, TypeScript, Java, or Python</li><li>Proficient in Object-Relational Mapping (ORM) and database management to optimize data handling</li><li>Strong understanding of Laravel architecture patterns, including MVC, to design robust applications</li><li>Familiarity with queue systems and background processing to manage asynchronous tasks</li><li>Competent with Unix/Linux command line for system operations and troubleshooting</li><li>Knowledge of system design fundamentals to architect scalable backend systems</li><li>Understanding of Single Page Application (SPA) fundamentals using React or Vue frameworks</li><li>Experience with AWS infrastructure, such as S3 integration, to support cloud-based solutions</li><li>Good understanding of UI/UX design tools like Figma and Adobe XD to collaborate on user interface considerations</li><li>Experience in creating and maintaining technical documentation</li><li>Familiarity with TypeScript for enhancing code quality and maintainability</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "MVC",
+      "uuid": "0b9221b0599697618c27449e89d9b07a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PHP",
+      "uuid": "2fec392304a5c23ac138da22847f9b7c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "TypeScript",
+      "uuid": "558b544cf685f39d34e4903e39c38b67",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "XD",
+      "uuid": "5ff64bccdd09d2c6a66149191d20d6a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Interface",
+      "uuid": "93f513d52499bc3d21ffbcaa1dfa29d5",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laravel",
+      "uuid": "a5c95b86291ea299fcbe64458ed12702",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Adobe XD",
+      "uuid": "d415802cc9639ff8511502310ba2a804",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Single Page Application",
+      "uuid": "ec2be8f71cbac9a242fe795d84f1e823",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mapping",
+      "uuid": "f84f4a69bdc03d4a4251db12ee746ce3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 10,
+      "employmentType": "Internship/Attachment"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "0913",
+  "postedCompany": {
+    "uen": "202451111H",
+    "description": null,
+    "name": "ORDERING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:22:44.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202451111H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202451111H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202451111H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202451111H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "54",
+    "street": "TEBAN GARDENS ROAD",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "600054",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32158216370413,
+    "lng": 103.736917808793
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0162068",
+    "deletedAt": null,
+    "createdBy": "aa408bf7-15a4-4c4a-b00d-2ae0c537c4a8",
+    "createdAt": "2026-01-26T15:39:05.000Z",
+    "updatedAt": "2026-01-29T08:24:32.000Z",
+    "emailRecipient": "aa408bf7-15a4-4c4a-b00d-2ae0c537c4a8",
+    "editCount": 2,
+    "repostCount": 0,
+    "totalNumberOfView": 222,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-ordering-e50fff874df337f6db0a94f1ac3d317f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2000,
+    "minimum": 1000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e50fff874df337f6db0a94f1ac3d317f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e50fff874df337f6db0a94f1ac3d317f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

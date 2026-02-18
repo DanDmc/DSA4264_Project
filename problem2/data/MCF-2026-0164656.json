@@ -1,0 +1,196 @@
+{
+  "uuid": "f909523307ab442ca4d80a41a751475c",
+  "sourceCode": "Employer Portal",
+  "title": "CNC Programmer (VMC – Mastercam, 2D Drawings)",
+  "description": "<p>Kay’s Manufacturing Pte Ltd is seeking a CNC Programmer to support our machining operations. This role focuses on programming Vertical Machining Centres (VMCs) using Mastercam, working primarily from 2D technical drawings to produce precision parts, jigs and fixtures.</p><p>You will be responsible for generating efficient CNC programs, selecting appropriate tools and machining parameters, and supporting production to improve quality and cycle time.</p><h3>Key Responsibilities</h3><ul><li><p>Program CNC jobs for VMCs using Mastercam</p></li><li><p>Interpret and work from 2D technical drawings</p></li><li><p>Select tools, cutting parameters and machining strategies</p></li><li><p>Support machining operations and continuous improvement</p></li><li><p>Ensure accuracy, surface finish and dimensional quality</p></li></ul><h3>Requirements</h3><ul><li><p>Experience in CNC programming for VMCs</p></li><li><p>Proficient in Mastercam</p></li><li><p>Able to interpret 2D engineering drawings</p></li><li><p>Familiar with machining processes and tooling</p></li></ul><h3>Added Advantage</h3><ul><li><p>Able to operate manual milling machines</p></li><li><p>Able to operate turning lathes</p></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Programming CNC milling machines",
+      "uuid": "76b2b0dbd14b39bc0156ac2d05ee1267",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Milling",
+      "uuid": "80b896f943b2c90b7a5d30b025159df0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC",
+      "uuid": "896554fed40d705b7fcf2fb3a7b385a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Milling, CNC",
+      "uuid": "96e0d37ed40a2fac14eab83717a7f779",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machining",
+      "uuid": "9aa437108d30e56322c65bc3703ff829",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Finish",
+      "uuid": "a20ddccbb6f808ec42cd66323e6c6061",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31174",
+  "occupationId": "OCC060073",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "1171",
+  "postedCompany": {
+    "uen": "198802784G",
+    "description": "<p>Kay’s Manufacturing Pte Ltd was established in 1988. Our main business focus is to provide engineering solutions within the shortest possible time to customers in the PCBA industry.</p>\n<p>With our relentless commitment to quality and customer service, we are well positioned to take advantage of the expanding PCBA industry.</p>\n<p>Our commitment to our customers is best exemplified by our customer base which includes some of the very best in the electronic industry.</p>\n<p>Distributors were appointed in Penang and Bangkok in 1990 &amp; 1992 respectively.</p>",
+    "name": "KAY'S MANUFACTURING PTE LTD",
+    "ssicCode": "28223",
+    "employeeCount": null,
+    "companyUrl": "www.kays.com.sg",
+    "lastSyncDate": "2026-02-02T06:10:07.000Z",
+    "ssicCode2020": "28223",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802784G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802784G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802784G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198802784G/schemes"
+      }
+    },
+    "logoFileName": "a4d2cd8f746500faebe5d37f59183d47/kays-manufacturing.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a4d2cd8f746500faebe5d37f59183d47/kays-manufacturing.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "ANG MO KIO STREET 65",
+    "floor": null,
+    "unit": null,
+    "building": "JTC SPACE @ ANG MO KIO",
+    "postalCode": "569063",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164656",
+    "deletedAt": null,
+    "createdBy": "ab7fc1c4-243a-43d7-aedc-92b23aa19153",
+    "createdAt": "2026-01-27T03:16:45.000Z",
+    "updatedAt": "2026-01-27T03:16:45.000Z",
+    "emailRecipient": "ab7fc1c4-243a-43d7-aedc-92b23aa19153",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 105,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/cnc-programmer-kays-manufacturing-f909523307ab442ca4d80a41a751475c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f909523307ab442ca4d80a41a751475c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f909523307ab442ca4d80a41a751475c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

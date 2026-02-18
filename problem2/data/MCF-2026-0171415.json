@@ -1,0 +1,205 @@
+{
+  "uuid": "0fbce25bcf1b25e31b2387afb22bb7af",
+  "sourceCode": "Employer Portal",
+  "title": "Application Developer",
+  "description": "<p><strong>Role Overview</strong><br /><br />We are looking for a Application Developer to design, develop, and maintain reliable, reusable workflow systems. The role focuses on software engineering best practices, workflow orchestration, testing, and automation in a production environment.</p><p><strong>Key Responsibilities</strong></p><ul><li>Design and develop reusable workflow pipelines using Python-based orchestration frameworks (e.g. LangGraph)</li><li>Build and maintain modular, reusable components for workflow execution</li><li>Write clear and structured prompts or configuration logic to ensure predictable system behaviour</li><li>Implement agent-to-agent or component-to-component communication patterns within workflows</li><li>Develop clean, maintainable, production-quality Python code</li><li>Write and maintain unit tests using pytest</li><li>Use Git for version control and participate in code reviews</li><li>Build, maintain, and improve GitLab CI/CD pipelines for automated testing and deployment</li></ul><p><strong>Required Skills & Experience</strong></p><ul><li>Experience designing and maintaining workflow-based or distributed systems</li><li>Strong proficiency in Python, including writing unit tests with pytest</li><li>Experience building and maintaining reusable software components</li><li>Understanding of orchestration or coordination patterns between system components</li><li>Hands-on experience using Git and GitLab CI/CD in a team environment</li><li>Ability to write clear technical documentation and structured system logic</li></ul><p><strong>Must-Have Skills</strong></p><ul><li>Proficiency in Python with test-driven or test-supported development</li><li>Experience with workflow orchestration frameworks (e.g. LangGraph or similar)</li><li>Experience with Git-based version control and CI/CD pipelines</li><li>Strong problem-solving and debugging skills</li></ul><p><strong>Good-to-Have Skills</strong></p><ul><li>Experience with agent-based, event-driven, or service-oriented architectures</li><li>Familiarity with prompt design or control mechanisms for LLM-based systems</li><li>Exposure to production monitoring, reliability, or automation tooling</li></ul><p>Simply click on 'Apply here' to drop your resume or email at <strong>marcus.wong@adecco.com</strong><br />Marcus Wong<br />EA Licence No. 91C2918<br />Personnel Registration No. R23114184</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML5",
+      "uuid": "6bff62b10d884fb77428cfe168cd783d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "198500164K",
+    "description": "<p>The Adecco Group is the world's leading provider of HR solutions. With over 35,000 FTE employees and over 5,200 branches, in over 60 countries and territories around the world, we offer a wide variety of services, connecting more than 650,000 associates with over 100,000 clients every day.</p>\n<p>The services we offer fall into the broad categories of temporary staffing, permanent placement, career transition and talent development, as well as outsourcing and consulting. The Adecco Group is based in Zurich-Glattbrugg, Switzerland and we are a Fortune Global 500 company listed on the SIX Swiss Exchange.</p>",
+    "name": "ADECCO PERSONNEL PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": 200,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:36:50.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198500164K/schemes"
+      }
+    },
+    "logoFileName": "0cbd8b342d845e0619f216a9890ba2b5/adecco-personnel.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/0cbd8b342d845e0619f216a9890ba2b5/adecco-personnel.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171415",
+    "deletedAt": null,
+    "createdBy": "8f1703bd-d189-4117-a30d-e05ceb661cfd",
+    "createdAt": "2026-01-28T01:49:58.000Z",
+    "updatedAt": "2026-01-28T01:49:58.000Z",
+    "emailRecipient": "8f1703bd-d189-4117-a30d-e05ceb661cfd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/application-developer-adecco-personnel-0fbce25bcf1b25e31b2387afb22bb7af",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0fbce25bcf1b25e31b2387afb22bb7af"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0fbce25bcf1b25e31b2387afb22bb7af/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

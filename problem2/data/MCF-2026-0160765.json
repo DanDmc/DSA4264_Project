@@ -1,0 +1,221 @@
+{
+  "uuid": "d226a3f38fe762c881650013eafb53ba",
+  "sourceCode": "Employer Portal",
+  "title": "Network & Security Specialist (Hedge Fund)",
+  "description": "<h2>Job Summary</h2><p>A global hedge fund is seeking an experienced <strong>Network & Security Specialist</strong> to support and secure mission-critical trading infrastructure. This role sits at the intersection of network operations, security monitoring, and incident response, ensuring high availability, low latency, and strong security controls across on-prem and cloud environments.</p><h2>Key Responsibilities</h2><ul><li><p>Provide <strong>L2/L3 support</strong> for trading, market data, and corporate network infrastructure in a low-latency environment.</p></li><li><p>Troubleshoot and resolve <strong>complex, non-routine network and security incidents</strong>, including trading-impacting issues.</p></li><li><p>Perform <strong>Root Cause Analysis (RCA)</strong> for major incidents and implement permanent remediation to prevent recurrence.</p></li><li><p>Administer and support <strong>firewalls, VPNs, IDS/IPS, and SSL</strong> technologies.</p></li><li><p>Monitor network performance, authentication activity, and security alerts; investigate anomalous or suspicious behavior.</p></li><li><p>Support <strong>Identity Detection & Response (IDR)</strong>, including monitoring identity misuse, privilege escalation, and access anomalies.</p></li><li><p>Utilize <strong>Operations Bridge Manager (OBM)</strong> or equivalent monitoring platforms to correlate events and accelerate resolution.</p></li><li><p>Partner closely with trading, infrastructure, and security engineering teams to enhance resilience and reduce operational risk.</p></li></ul><h2>Required Skills & Experience</h2><ul><li><p>Strong hands-on expertise in <strong>TCP/IP, VLANs, routing, switching, and firewall management</strong>.</p></li><li><p>Experience supporting <strong>high-availability, low-latency</strong> environments within financial services.</p></li><li><p>Solid knowledge of <strong>SIEM, IDS/IPS, EDR</strong>, and security monitoring frameworks.</p></li><li><p>Experience with <strong>Active Directory</strong>, identity controls, and access governance.</p></li><li><p>Exposure to <strong>AWS and/or Azure</strong> in hybrid environments.</p></li><li><p>Familiarity with monitoring tools (e.g. <strong>SolarWinds, Nagios</strong>) and automation/scripting (<strong>Python, Bash</strong>) is advantageous.</p></li></ul><h2>Role Scope</h2><ul><li><p><strong>L2:</strong> Deep troubleshooting, configuration analysis, and log review for production issues.</p></li><li><p><strong>L3:</strong> Complex root-cause resolution, architectural improvements, and collaboration on strategic infrastructure design.</p></li></ul><h2>Why Join</h2><p>This is a critical role within a hedge fund environment where <strong>system stability, security, and speed directly impact trading outcomes</strong>. You’ll work on high-impact infrastructure, with direct ownership of incident resolution and continuous improvement.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Nagios",
+      "uuid": "0ac0f6fa3e0978f35e72cab6b4c088f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Authentication",
+      "uuid": "c75f7811d70d17dbcd88e9d03752cbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bridge",
+      "uuid": "de8504b73ea228d0ea9bbce69752092e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC061349",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200601302C",
+    "description": "<p>CHARTERHOUSE PTE. LTD.</p>\r\n\r\n<p>Charterhouse is a boutique executive search firm with footprints in Asia, Australasia and the Middle East. We offer professional and bespoke contingency and retained search services across a variety of industrial sectors.</p>\r\n\r\n<p>Recruitment is a people-focused business – our success and growth are reliant upon our people. Our team of consultants offers a blend of international recruitment experience, coupled with a platform of local market and industry knowledge. The development and success of our team requires continued focus, and we ensure that the latest market data, trends and information are at their fingertips. Performance and industry training is also regularly provided, and naturally the rigorous development of strong networks is vital to help us deliver the highest level of service for our clients.</p>\r\n",
+    "name": "CHARTERHOUSE PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.charterhouse.com.sg",
+    "lastSyncDate": "2026-02-04T06:44:30.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601302C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601302C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601302C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200601302C/schemes"
+      }
+    },
+    "logoFileName": "6fffdbd3bbd72a6dbca9cd6109cd57e5/charterhouse.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6fffdbd3bbd72a6dbca9cd6109cd57e5/charterhouse.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160765",
+    "deletedAt": null,
+    "createdBy": "f0d15a6e-8517-4923-9278-883a7e522c50",
+    "createdAt": "2026-01-26T09:57:30.000Z",
+    "updatedAt": "2026-01-26T09:57:30.000Z",
+    "emailRecipient": "f0d15a6e-8517-4923-9278-883a7e522c50",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 117,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/network-security-specialist-charterhouse-d226a3f38fe762c881650013eafb53ba",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d226a3f38fe762c881650013eafb53ba"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d226a3f38fe762c881650013eafb53ba/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

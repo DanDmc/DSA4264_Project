@@ -1,0 +1,222 @@
+{
+  "uuid": "643d3936681af1705b4d08dbae7ef5b6",
+  "sourceCode": "Employer Portal",
+  "title": "Construction Manger",
+  "description": "<p>Project Oversight</p><p>Plan, coordinate, and supervise painting projects from start to finish.</p><p>Ensure work is completed on time, within budget, and to quality standards.</p><p>Team Leadership</p><p>Manage painters, site supervisors, and subcontractors.</p><p>Assign tasks, monitor progress, and resolve on-site issues. Client Liaison</p><p>Communicate with clients to understand requirements, provide updates, and handle concerns.</p><p>Ensure customer satisfaction through quality delivery.</p><p>Safety & Compliance</p><p>Enforce workplace safety standards (scaffolding, ladders, protective gear, chemical handling).</p><p>Ensure compliance with local building codes, environmental regulations, and company policies.</p><p>🛠 Key Responsibilities</p><p>Category\tResponsibilities</p><p>Planning & Scheduling\tDevelop work scope</p>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Lifesciences",
+      "uuid": "0dfc764c114d33795f8b358fad1408fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dynamics",
+      "uuid": "405d9a69e5139b9df0df6b66e18fc9e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quantity Surveying",
+      "uuid": "432d30f5253617c75681fab93563c4b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Management",
+      "uuid": "4ca69a44b0270bec6838c1ade1ede455",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Quality",
+      "uuid": "63ca84405c8a223a04b8feb2e43c157a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Environmental Health",
+      "uuid": "7e9b1d914bbdde0bc4dcef3e71a30d7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tender Preparation",
+      "uuid": "e89e1087857838ac5e7adb08192fc245",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "13230",
+  "occupationId": "OCC000491",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1129",
+  "postedCompany": {
+    "uen": "199204550M",
+    "description": null,
+    "name": "DK COATINGS PTE. LTD.",
+    "ssicCode": "71122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:22:17.000Z",
+    "ssicCode2020": "71122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199204550M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199204550M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199204550M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199204550M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "18",
+    "street": "BOON LAY WAY",
+    "floor": null,
+    "unit": null,
+    "building": "TRADEHUB 21",
+    "postalCode": "609966",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32851621312928,
+    "lng": 103.752877813706
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180493",
+    "deletedAt": null,
+    "createdBy": "40a1553b-eacf-404e-b3d2-317d9ef4f0cf",
+    "createdAt": "2026-01-29T04:01:15.000Z",
+    "updatedAt": "2026-01-29T04:01:15.000Z",
+    "emailRecipient": "40a1553b-eacf-404e-b3d2-317d9ef4f0cf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 45,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-manger-dk-coatings-643d3936681af1705b4d08dbae7ef5b6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 4800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/643d3936681af1705b4d08dbae7ef5b6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/643d3936681af1705b4d08dbae7ef5b6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

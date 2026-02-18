@@ -1,0 +1,205 @@
+{
+  "uuid": "bdbbf0c9081f750e36c615822bfc26f5",
+  "sourceCode": "Employer Portal",
+  "title": "admin and AR",
+  "description": "<p>Admin and Account Receivable , can start work immediately , Independent , must have some knowledge of<br />account , and know how to use account system , looking forward to hear you soon<br /></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ACCA",
+      "uuid": "4ce9a1b2a402a5e6476d587279876d88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Flow Management",
+      "uuid": "4f04b41c718a99c0978df092166dd9aa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Flow",
+      "uuid": "dc62425edd02dcb2af9e79ae9bb0d053",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008766",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201600571W",
+    "description": "<p>   STONE ZONE PTE. LTD.</p>  <p>   Position: Admin Manager            </p>  <p>   Duty:-</p>  <p>   • Provide clerical and administrative support to the department</p>  <p>   • Handle shipping documents, reports and invoices.</p>  <p>   • Data entry and maintain the filing system of the department.</p>  <p>   • Assist in sorting, organizing, and updating sales data of the internal database.</p>  <p>    </p>  <p>   Requirement:-</p>  <p>   1.       1-2 years of relevant working experience in construction industry.</p>  <p>   2.       Good communication and interpersonal skill.</p>  <p>   3.       Detail-minded, sensitive to number and figures, well organized, responsible, self motivated and willing to learn.</p>  <p>   4.       Bilingual can speak Chinese and English.</p>  <p>   5.       Immediate availability is an advantage.</p>  <p>    </p>  <p>   <strong>Email address: stonezone1101@yahoo.com.sg</strong></p>  <p>    </p>  ",
+    "name": "STONE ZONE PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:00:26.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201600571W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201600571W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201600571W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201600571W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "HARVEY ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TAN HENG LEE BUILDING",
+    "postalCode": "369610",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33281904074964,
+    "lng": 103.884450756971
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165672",
+    "deletedAt": null,
+    "createdBy": "953e7302-065b-41f1-a087-c70b8468d908",
+    "createdAt": "2026-01-27T05:14:57.000Z",
+    "updatedAt": "2026-01-27T05:14:56.000Z",
+    "emailRecipient": "953e7302-065b-41f1-a087-c70b8468d908",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 93,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/admin-ar-stone-zone-bdbbf0c9081f750e36c615822bfc26f5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bdbbf0c9081f750e36c615822bfc26f5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bdbbf0c9081f750e36c615822bfc26f5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

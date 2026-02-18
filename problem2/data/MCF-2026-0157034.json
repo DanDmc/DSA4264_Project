@@ -1,0 +1,261 @@
+{
+  "uuid": "d589360f3f9eb195eb7fddf7d9f2c40f",
+  "sourceCode": "Employer Portal",
+  "title": "Infrastructure Engineer (Maintenance)",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>Configure, maintain, and upgrade servers, networks, and related systems</li><li>Perform asset management and maintain accurate records</li><li>Monitor infrastructure health and security on a daily basis</li><li>Troubleshoot infrastructure and network issues</li><li>Manage and document change management processes</li><li>Respond to incidents and service requests within SLA</li><li>Liaise with vendors and service providers</li><li>Automate tasks using Bash/PowerShell and scripting languages (e.g. Python, Perl)</li><li>Support infrastructure projects and ad-hoc tasks</li></ul><p><strong>Requirements:</strong></p><ul><li>Minimum 2 years of relevant experience (Engineer level)</li><li>Strong troubleshooting skills using log analysis and systematic problem tracing</li><li><strong>Servers:</strong> Windows Server, Red Hat</li><li><strong>Hypervisors:</strong> Hyper-V, VMware, Nutanix</li><li><strong>Networking:</strong> Cisco, Aruba, Dell, HPE</li><li><strong>Backup:</strong> NetBackup, Veeam, Cohesity</li><li><strong>Storage:</strong> Hitachi, Pure Storage, HPE, Dell EMC</li></ul><p><strong>Work Location:</strong> Tampines<br /></p><p>(EA Reg No: 20C0312)<br />Please email a copy of your detailed resume to <strong>qianyu@talentsis.com.sg</strong> for immediate processing.<br />Only shortlisted candidates will be notified.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Veeam",
+      "uuid": "05241239c2e205951eabc51d0b39de96",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "IT infrastructure",
+      "uuid": "5992bf91ab6d1bb0037d5e450d11c5f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT hardware",
+      "uuid": "67707d6306a7cff39e890a989df0680b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cisco",
+      "uuid": "7b1d1185b835814de783483f686e9825",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aruba Wireless",
+      "uuid": "818f06a52883e5454a5c041ab7810c20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RedHat",
+      "uuid": "a82007c47b25723539a00ff94e8b3d27",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtualization",
+      "uuid": "ea4c55be196897a16d86999f5c16d582",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC060890",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202030608W",
+    "description": "<p>Talentsis Pte Ltd is a new-age talent acquisition and staffing service company. The company aims to be a one-stop service to provide a full spectrum of HR related services, including but not limited to the following:</p>\n<ol>\n  <li>Recruitment and Talent Acquisition</li>\n  <li>Executive Search</li>\n  <li>Headhunting</li>\n  <li>Contract &amp; Flexible Staffing</li>\n  <li>Manpower Outsourcing</li>\n  <li>Reskilling &amp; Upskilling</li>\n  <li>HR Consultancy &amp; Advisory Service</li>\n</ol>\n<p><br></p>\n<p>(EA Reg No: 20C0312)</p>",
+    "name": "TALENTSIS PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 10,
+    "companyUrl": "https://talentsis.com.sg/",
+    "lastSyncDate": "2026-02-04T00:56:42.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202030608W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202030608W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202030608W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202030608W/schemes"
+      }
+    },
+    "logoFileName": "8f102815b85be9e9a8f4e27124b80a3a/talentsis.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8f102815b85be9e9a8f4e27124b80a3a/talentsis.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157034",
+    "deletedAt": null,
+    "createdBy": "fa800b65-1b49-4479-87cf-66c7802bae43",
+    "createdAt": "2026-01-26T03:56:32.000Z",
+    "updatedAt": "2026-01-26T03:56:32.000Z",
+    "emailRecipient": "fa800b65-1b49-4479-87cf-66c7802bae43",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 43,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/infrastructure-engineer-talentsis-d589360f3f9eb195eb7fddf7d9f2c40f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d589360f3f9eb195eb7fddf7d9f2c40f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d589360f3f9eb195eb7fddf7d9f2c40f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

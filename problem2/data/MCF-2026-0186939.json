@@ -1,0 +1,266 @@
+{
+  "uuid": "497f54d5c30c04bef7491fe8482ca871",
+  "sourceCode": "Employer Portal",
+  "title": "CHEF",
+  "description": "<p>· Setting up the kitchen with cooking utensils and equipment, like knives, pans and food scales</p><p>· Follow SOP each recipe and gathering all necessary ingredients</p><p>· Cooking food in a timely manner</p><p>· Hands-on experience with various-kitchen equipment</p><p>· Ability to remain calm and undertake various tasks</p><p>· Excellent time management abilities</p><p>· Up-to-date knowledge of cooking techniques and recipes</p><p>· Familiarity with sanitation regulations</p><p>· The ability to work in a fast-paced environment.</p><p>· The ability to stand for extended periods.</p><p>· Willing to work late, weekends and public holidays.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Baking",
+      "uuid": "a11e3d7212c369ba1a229ea7a8ae65de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Culinary Skills",
+      "uuid": "de9730b19b980c74412a3a5abead9c30",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pastry",
+      "uuid": "e8c3f5ae850a71c6d443395839ffe9ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202040948K",
+    "description": "<p><em>Founded 2021 in Singapore, i-LINK is a multi-Talent Acquisition and the HR outsourcing partner-of-choice for local conglomerates and multinational corporations within the Asia Pacific region.</em></p>\n<p><em>We believe that employee always the key to SUCCESS “Clients Do Not Come First, Employees Come First. If You Take Care Of Your Employees, They Will Take Care Of The Clients”. </em>Link the right Job to the right Person</p>",
+    "name": "I-LINK MANPOWER CONSULTANCY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 5,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:02:16.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/schemes"
+      }
+    },
+    "logoFileName": "4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "201702147D",
+    "description": null,
+    "name": "EAST FOOD DELIGHTS PRIVATE LIMITED",
+    "ssicCode": "47219",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T02:47:00.000Z",
+    "ssicCode2020": "47219",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201702147D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201702147D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201702147D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201702147D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6",
+    "street": "LAKEPOINT DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "LAKEPOINT CONDOMINIUM",
+    "postalCode": "648925",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34128625590857,
+    "lng": 103.717423207084
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186939",
+    "deletedAt": null,
+    "createdBy": "24f68181-9819-4222-b074-a942e2547226",
+    "createdAt": "2026-01-30T02:55:01.000Z",
+    "updatedAt": "2026-01-30T02:55:01.000Z",
+    "emailRecipient": "24f68181-9819-4222-b074-a942e2547226",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 31,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-east-food-delights-497f54d5c30c04bef7491fe8482ca871",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/497f54d5c30c04bef7491fe8482ca871"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/497f54d5c30c04bef7491fe8482ca871/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

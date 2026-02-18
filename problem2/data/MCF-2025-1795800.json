@@ -1,0 +1,242 @@
+{
+  "uuid": "1c0bb98e611a13d80c54ac99084ffce7",
+  "sourceCode": "Employer Portal",
+  "title": "Lead AI Software Engineer with 7 year Experience (Contract",
+  "description": "<p>[1 year contract, renewable]</p>\n<p><br></p>\n<p><u><strong>About the Role</strong></u></p>\n<p>We are seeking a <strong>Lead Software Engineer</strong> with deep expertise in <strong>full stack development</strong>, <strong>Generative AI</strong>, and <strong>DevSecOps practices</strong>. This is a hands-on leadership role at the forefront of building <strong>AI-native products</strong> that combine robust engineering with cutting-edge generative capabilities.</p>\n<p>You will drive the architecture, development, and deployment of secure, scalable applications infused with AI — from <strong>LLM-powered experiences and intelligent agents</strong> to <strong>automated workflows and decisioning systems</strong>. Beyond technical execution, you will embed <strong>shift-left quality and security</strong>, mentor engineers, and set the direction for how Generative AI shapes our product strategy.</p>\n<p><br></p>\n<p><br></p>\n<p><u><strong>Key Responsibilities</strong></u></p>\n<ul>\n  <li><strong>Generative AI Engineering</strong></li>\n</ul>\n<ol>\n  <li>Design and build <strong>LLM-powered applications</strong> (retrieval-augmented generation, multi-agent systems,       generative search, AI copilots).</li>\n  <li>Implement <strong>prompt engineering, fine-tuning, and evaluation frameworks</strong> for production-grade reliability.</li>\n  <li>Optimize AI inference at scale (latency, cost efficiency, guardrails).</li>\n  <li>Ensure <strong>responsible AI use</strong> (bias detection, explainability, data privacy).</li>\n</ol>\n<ul>\n  <li><strong>Full Stack Development</strong></li>\n</ul>\n<ol>\n  <li>Architect and deliver end-to-end features across <strong>frontend (React/Next.js)</strong>, <strong>backend       (Node.js/Python/Java)</strong>, and <strong>cloud-native infrastructure</strong>.</li>\n  <li>Build secure APIs, data pipelines, and real-time services that power AI-driven user experiences.</li>\n</ol>\n<ul>\n  <li><strong>DevSecOps &amp; Shift-Left Practices</strong></li>\n</ul>\n<ol>\n  <li>Embed security and testing early in the development lifecycle.</li>\n  <li>Own <strong>CI/CD pipelines</strong> with automated testing, vulnerability scanning, and compliance guardrails.</li>\n  <li>Implement <strong>Infrastructure as Code (IaC)</strong> and observability for resilience and scalability.</li>\n</ol>\n<ul>\n  <li><strong>Leadership &amp; Collaboration</strong></li>\n</ul>\n<ol>\n  <li>Mentor engineers on AI software engineering best practices.</li>\n  <li>Collaborate with product managers and data scientists to translate business problems into AI-first solutions.</li>\n  <li>Drive technical decision-making, balancing innovation speed with long-term system sustainability.</li>\n</ol>\n<p><br></p>\n<p><u><strong>Qualifications</strong></u></p>\n<p>Must-Have:</p>\n<p>• 7+ years of professional software engineering experience, with 2+ years in a senior/lead role.</p>\n<p>• Strong full stack development skills (React/Next.js, Node.js, Python, Java, etc.).</p>\n<p>• Proven experience delivering Generative AI applications into production, including:</p>\n<p>o LLM integration (OpenAI, Anthropic, Llama, etc.)</p>\n<p>o RAG pipelines (vector databases, embeddings, semantic search)</p>\n<p>o Fine-tuning and evaluation of models</p>\n<p>o Safety/guardrail implementation</p>\n<p>• Solid knowledge of DevSecOps and shift-left practices (automated testing, SAST/DAST, IaC, CI/CD).</p>\n<p>• Hands-on experience with cloud-native platforms (AWS, GCP, Azure) and container orchestration (Docker, Kubernetes) and infrastructure provisioning.</p>\n<p>• Strong foundation in software architecture and distributed systems.</p>\n<p>• Singapore citizenship due to security clearance requirements.</p>\n<p><br></p>\n<p><u><strong>Nice-to-Have:</strong></u></p>\n<p>• Experience with multi-agent architectures or autonomous AI workflows.</p>\n<p>• Familiarity with AI evaluation frameworks (LangSmith, Weights &amp; Biases, MLflow).</p>\n<p>• Contributions to open-source AI/ML or developer tooling.</p>\n<p>• Startup or high-growth environment experience.</p>\n<p><br></p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Clearance",
+      "uuid": "00a888b9d1b135929dd3bc7023c56006",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Generative model",
+      "uuid": "05cec11ac3a03f4ef68283041499335b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sustainability",
+      "uuid": "19bea5bec76c66ef8bd189aa23a4c860",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Scanning",
+      "uuid": "2e13bb78d37cd17ddbb8b90a8015802c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Engineering Design",
+      "uuid": "a89c487bebcfde7f9c60f164d9f68c81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200820249C",
+    "description": "<p>We are an award-winning, full-service Web Solutions Company based in Singapore. Websparks Pte Ltd is formed in 2008.</p>\n<p><br></p>\n<p>Each of our Websparkers should be Curious, Collaborative, Committed, and a Challenger. We wake up daily to deliver extraordinary digital experiences to our customers.</p>\n<p><br></p>\n<p>Websparks is an ISO 27001 certified company. ISO/IEC 27001 is the leading international standard for information security management and helps organizations to keep information assets secure. Websparks is an ISO 9001:2015 certified company. We have demonstrated to external auditors our commitment to quality. We are able to consistently provide products and services that meet our client’s requirements.</p>\n<p><br></p>\n<p>Websparks is named as <strong>APN Select Consulting</strong> Partner as a result of our investment in technical resource development aimed at ensuring efficient usage of the AWS cloud. Websparks is certified as a Microsoft <strong>Gold</strong> <strong>Application Development, Silver Application Integration and DevOps </strong>Partner. We are equipped with the tools and resources to deliver the best quality of software.</p>\n<p><br></p>\n<p>Websparks is a Progress Gold Partner. As a Progress partner, we play a key role in helping organizations of all sizes – across all industries – transform and run their businesses. Websparks is a Sitecore Solution Partner. &nbsp;Solution partners bring their customers' unique visions to dynamic life on their websites with the Sitecore Experience Platform.</p>",
+    "name": "WEBSPARKS PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": 120,
+    "companyUrl": "https://www.websparks.sg/",
+    "lastSyncDate": "2026-02-03T05:41:08.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200820249C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200820249C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200820249C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200820249C/schemes"
+      }
+    },
+    "logoFileName": "926d3c664f6163314c4b202ab703265c/WEBSPARKS PTE. LTD..jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/926d3c664f6163314c4b202ab703265c/WEBSPARKS%20PTE.%20LTD..jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "61",
+    "street": "KAKI BUKIT AVENUE 1",
+    "floor": null,
+    "unit": null,
+    "building": "SHUN LI INDUSTRIAL PARK",
+    "postalCode": "417943",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33668906305609,
+    "lng": 103.910663762094
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1795800",
+    "deletedAt": "2026-01-26T17:15:05.000Z",
+    "createdBy": "91b01b3d-afb9-4029-9607-b4569dadd4df",
+    "createdAt": "2025-11-23T17:38:54.000Z",
+    "updatedAt": "2026-01-28T18:09:33.000Z",
+    "emailRecipient": "91b01b3d-afb9-4029-9607-b4569dadd4df",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 299,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-11-24",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/lead-ai-software-engineer-7-year-experience-contract-websparks-1c0bb98e611a13d80c54ac99084ffce7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1c0bb98e611a13d80c54ac99084ffce7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1c0bb98e611a13d80c54ac99084ffce7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

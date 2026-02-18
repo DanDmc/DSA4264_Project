@@ -1,0 +1,201 @@
+{
+  "uuid": "6675b87bd29a623d4112a2f3c8a98e00",
+  "sourceCode": "Employer Portal",
+  "title": "TILER",
+  "description": "<ul><li>Measuring the area that must be tiled or marbled to determine stock requirements.</li><li>Able to provide accurate measurements and quotes for the intended job.</li><li>Ordering stock supplies and gathering tiling equipment.</li><li>Cutting and shaping tiles or marble to size.</li><li>Cleaning and levelling the surface area.</li><li>Applying tiling cement and arranging tiles or marble according to design plans.</li><li>Applying tiling grout.</li><li>Cleaning off excess grout and conducting post-installation inspections.</li><li>Maintaining clean and tidy working environment before and after work</li><li>Able to work independently with minimum or no supervision</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "taking measurements",
+      "uuid": "1096b4d70c275eef45865be3c989cc8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ceramic Tile",
+      "uuid": "5a1182b2d2ac7f5260e048374e28eaa8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cement",
+      "uuid": "5cb91ac72b6016809690064a5e7e30e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Grouting",
+      "uuid": "769083f979bbdb583bd0c26a15552d34",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cutting Tools",
+      "uuid": "814d0bbe99543cf622437008f4e2552c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excess",
+      "uuid": "d1d25b9ff7906919775079068a81aee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71220",
+  "occupationId": "OCC009928",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201926012E",
+    "description": null,
+    "name": "A&N ENGINEERING & CONSTRUCTION PTE. LTD.",
+    "ssicCode": "43301",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T16:24:53.000Z",
+    "ssicCode2020": "43301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926012E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926012E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926012E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926012E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "SOON LEE STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PIONEER JUNCTION",
+    "postalCode": "627606",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33378307271647,
+    "lng": 103.697237932835
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176756",
+    "deletedAt": null,
+    "createdBy": "c391c6dd-220f-4a63-baa7-37e02fecadf5",
+    "createdAt": "2026-01-28T09:45:33.000Z",
+    "updatedAt": "2026-01-28T09:45:33.000Z",
+    "emailRecipient": "c391c6dd-220f-4a63-baa7-37e02fecadf5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 36,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/tiler-an-engineering-construction-6675b87bd29a623d4112a2f3c8a98e00",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6675b87bd29a623d4112a2f3c8a98e00"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6675b87bd29a623d4112a2f3c8a98e00/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

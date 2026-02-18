@@ -1,0 +1,228 @@
+{
+  "uuid": "e8a2d12111e232ae5a1d6e95ca38d1fa",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Cybersecurity Engineer",
+  "description": "<p>Job Requirements:</p><ol><li>Strong hands-on SailPoint implementation(IdentityIQ and/or IdentityNow)- End-to-end SailPoint implementation including application onboarding, connectors, Joiner-Mover-Leaver (JML) workflows, access\ncertification campaigns, role modeling/mining, SoD policies, integrations with HR/AD, UAT and production rollout</li><li>IAM & IGA engineering (beyond operations/support) -Hands-on design and implementation of IAM governance processes, identity lifecycle management, RBAC/ABAC, access reviews, audit\n& compliance alignment</li><li>Hands-on deployment & management of native cloud security solutions (AWS, Azure, OCI, GCP) - Cloud IAM/security services integration with SailPoint preferred</li><li>Hands-on with at least 2 tools: XDR (Trend Micro Vision One), Vulnerability Mgmt (Tenable SC / Tenable.io), DLP (Trellix)-Engineering, rollout, tuning, and operational optimization experience</li><li>Security solution rollout from POC to full deployment; UAT execution; vendor coordination-Must show project implementation ownership</li><li>Managing incidents including zero-day vulnerabilities, patching, misconfigurations-Engineering response, root cause analysis, remediation (not SOC)</li><li>Networking, Unix/Linux, shell scripting-Required for integration and troubleshooting</li><li>Certifications – SailPoint preferred</li><li>Self-driven, able to work independently, strong stakeholder collaboration</li></ol>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "uuid": "0889f4cee1d9f42ae2c1daf686377de0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trend Micro",
+      "uuid": "0faeab173fc35417073d49e65490f0a8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rollout",
+      "uuid": "56ee398637559b61c89c9924f3f19733",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tuning",
+      "uuid": "89dd2948ecda7325c0001d8a0e51a2d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062567",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202444935E",
+    "description": "<p>We Hi5 Consulting Solutions Pte Ltd specialize in professional recruitment in IT , Manufacturing &nbsp;, Construction and Service Sectors with a strong focus on building personalized long-term relationships dedicated to local employment in Singapore.</p>",
+    "name": "HI5 CONSULTING SOLUTIONS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T07:36:57.000Z",
+    "ssicCode2020": "78101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444935E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444935E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444935E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444935E/schemes"
+      }
+    },
+    "logoFileName": "36e68d81a957009451c6bb15f8237fd2/hi5-consulting-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/36e68d81a957009451c6bb15f8237fd2/hi5-consulting-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "ANG MO KIO INDUSTRIAL PARK 2A",
+    "floor": null,
+    "unit": null,
+    "building": "AMK TECH I",
+    "postalCode": "568050",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37799349332811,
+    "lng": 103.86882023145
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175258",
+    "deletedAt": null,
+    "createdBy": "ab3829fe-3e86-475e-a998-8c05c0775096",
+    "createdAt": "2026-01-28T07:56:53.000Z",
+    "updatedAt": "2026-01-28T07:56:53.000Z",
+    "emailRecipient": "ab3829fe-3e86-475e-a998-8c05c0775096",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 51,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-cybersecurity-engineer-hi5-consulting-solutions-e8a2d12111e232ae5a1d6e95ca38d1fa",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e8a2d12111e232ae5a1d6e95ca38d1fa"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e8a2d12111e232ae5a1d6e95ca38d1fa/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

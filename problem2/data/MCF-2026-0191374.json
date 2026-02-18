@@ -1,0 +1,234 @@
+{
+  "uuid": "0a604b4d79fbd78c8b77c5de824ec386",
+  "sourceCode": "Employer Portal",
+  "title": "MTS-HIG-HBM-PE-COMPONENT-VAL",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><p><strong>Validation Execution & Coverage</strong></p></li><li><p>Plan and execute <strong>Validation Runs</strong>: define coverage, select flows (VALDOT, VALBBC, VALASC, VALRHR, VALCHAR, VALV2V), and deliver high-quality summaries and sightings.</p></li><li><p>Drive Hot/Cold corner testing, TSV screen/AQLK, and async timing boundary coverage to close functional/timing/stress gaps.</p></li><li><p><strong>Technical Excellence (Core IC Focus)</strong></p></li><li><p><strong>High-Speed I/O Validation Leadership:</strong></p></li><li><p>Validate ultra-high-speed interfaces at <strong>11Gbps+;</strong> perform eye diagram quality assessment, jitter analysis, and signal integrity validation across voltage/temperature/process corners.</p></li><li><p>Expand <strong>speed grades</strong> and <strong>shmoo ranges</strong> for CS/QS phases; define acceptance thresholds and margining strategies.</p></li><li><p><strong>Power and Thermal Characterization:</strong></p></li><li><p>Measure and optimize <strong>IDD profiles</strong>, thermal behavior, and energy efficiency under realistic workloads and environmental stress.</p></li><li><p>Build models correlating IDD/thermal data with performance and reliability; recommend test content changes and silicon fixes.</p></li><li><p><strong>Comprehensive Coverage Planning:</strong></p></li><li><p>Architect coverage across <strong>MBIST</strong> and <strong>Native Mode</strong> ensuring no gaps in functional/timing/stress conditions.</p></li><li><p>Own execution fidelity for ValRuns across flows, including <strong>log review</strong>, <strong>pattern sensitivity analysis</strong>, <strong>corner completeness</strong>, and <strong>AQLK compliance</strong>.</p></li><li><p><strong>Multi-Platform Test Enablement:</strong></p></li><li><p>Develop, port, and debug test programs on <strong>SM3.5 Cobra (MBIST)</strong> and <strong>Advantest V93K (Native)</strong>; ensure hardware configs (handler, socket, loadboard, probe card) are aligned with test intent.</p></li><li><p>Collaborate on <strong>Teradyne UltraFlex ETV</strong> strategy: enable partner IP patterns, dual cube/die validation, and targeted Rev flows.</p></li><li><p><strong>Data-Driven Validation:</strong></p></li><li><p>Build automated pipelines for <strong>log parsing</strong>, <strong>data crunching</strong>, <strong>statistical anomaly detection</strong>, and <strong>trend dashboards</strong> using Python/Perl and modern analytics.</p></li><li><p>Maintain validation artifacts in <strong>Confluence/Jira</strong>; version test code/content in <strong>Git/Perforce</strong> with branching/release discipline.</p></li><li><p><strong>Quality & Continuous Improvement:</strong></p></li><li><p>Codify the <strong>“Definition of Success”</strong> for component validation; lead <strong>DFMEA gap closure</strong> and learning cycles that <strong>reduce IQP dependency</strong> while <strong>increasing early detection</strong>.</p></li><li><p>Propose and implement cycle-time improvements (e.g., parallelization, smarter sampling, content pruning with evidence).</p></li><li><p><strong>Innovation & Future Readiness:</strong></p></li><li><p>Prototype <strong>automation</strong> and <strong>AI/ML-driven</strong> analytics (e.g., classifier-based sighting triage, predictive margining, outlier detection) to boost throughput and detection efficiency.</p></li><li><p>Anticipate requirements for <strong>HBM4E and beyond</strong>; author technical roadmaps for speed, power, reliability, and platform capabilities.</p></li><li><p><strong>Root Cause Analysis & Debug</strong></p></li><li><p>Lead silicon issue triage; reproduce, localize, and isolate root causes; recommend corrective actions spanning design edits, test content, and platform setup.</p></li><li><p>Drive cross-functional debug with <strong>Design, Verification, Quality, System Engineering</strong>; document findings and closure evidence.</p></li><li><p><strong>Global Collaboration</strong></p></li><li><p>Partner with Boise, Folsom, Hyderabad, and Taiwan teams for material readiness, platform enablement, handler/sockets/loadboard readiness, and joint debug; share best practices and playbooks.</p></li></ul><p><strong>Minimum Qualifications</strong></p><ul><li><p>Master’s in Electrical or Computer Engineering (or related).</p></li><li><p><strong>10+ years</strong> in DRAM/HBM/NAND product or validation engineering with deep, hands-on experience across <strong>MBIST</strong> and <strong>Native Mode</strong> testing.<strong> At least 2 years</strong> of <strong>HBM Validation</strong> experience.</p></li><li><p>Expertise in <strong>SM3/Cobra</strong> code flows and <strong>Advantest V93K</strong> program development/debug; <strong>Teradyne UltraFlex</strong> exposure preferred.</p></li><li><p>Proven execution of <strong>Validation Runs</strong> on IQP/ETV materials: coverage definition, Hot/Cold corners, <strong>TSV screen/AQLK</strong>, and sighting closure.</p></li><li><p>Strong command of <strong>HBM datasheet functions</strong>, interface timing, and component-level coverage.</p></li><li><p>Demonstrated success in <strong>high-speed (>11Gbps)</strong> I/O validation, <strong>eye/IDD characterization</strong>, and performance optimization in <strong>CS/QS</strong> environments.</p></li><li><p>Proficiency in <strong>Python/Perl</strong> scripting, data pipelines, and analytics; experience with <strong>Confluence/Jira</strong> and <strong>Git/Perforce</strong>.</p></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li><p>Track record in <strong>Rev flow development</strong>, <strong>CS/QS shmoo targets</strong>, and <strong>async timing boundaries</strong> coverage.</p></li><li><p>Experience coordinating <strong>ETV/dual cube/die</strong> validation and enabling partner IP patterns on UltraFlex.</p></li><li><p>Contributions to <strong>DFMEA gap closure</strong>, zero-miss charter alignment, and formal “Definition of Success” frameworks.</p></li><li><p>Hands-on development of automation or <strong>ML-based validation analytics</strong> (e.g., anomaly classifiers, trend predictors).</p></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Signal Integrity",
+      "uuid": "08789ec7228e2129b9b76c11c9ce1d75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Charter",
+      "uuid": "11347b3d404f701a75282a7993e0dda4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sampling",
+      "uuid": "1d07814d12178c958e4233501cb0bdc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trend",
+      "uuid": "349d789f5d11f630c282f547b568d08d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality System",
+      "uuid": "454a15798134414183f6a48bd16b9690",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Throughput",
+      "uuid": "6d26d43c61c837e46ffa031e6c4feabb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DFMEA",
+      "uuid": "7b9654269dc39fd0e5a7dc6cfc62b557",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Energy Efficiency",
+      "uuid": "9681bd12acedfa040971802e4e086c5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "COBRA",
+      "uuid": "985bf7b5455f91cc73fa62f46eb1ef03",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Characterization",
+      "uuid": "9e5f445ebf003c759747d85d953c4b28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IP",
+      "uuid": "a12a3079e14ced46e69ba52b8a90b21a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Anomaly Detection",
+      "uuid": "aac9771bc17dccac4eeec7fba2d5a846",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IC",
+      "uuid": "dc3a6c32f5a8d1f8a8e264566f815ed7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Silicon",
+      "uuid": "ec47388b272f906a796414eaf6ea8563",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "201815216Z",
+    "description": "<p>MICRON SEMICONDUCTOR ASIA OPERATIONS PTE LTD&nbsp;is a subsidiary of Micron Technology, Inc.&nbsp; (‘Micron’).</p>\n<p>Micron is a global leader in the semiconductor industry. For more than 35 years, Micron has dedicated itself to collaborating with customers and partners to engineer technology that drives innovation and transforms what’s possible.&nbsp; Micron offers the industry’s broadest portfolio of silicon-to-semiconductor memory solutions—starting with foundational DRAM, NAND, and NOR Flash memory, and extending to SSDs, modules, MCPs, HMC, and other semiconductor systems. This best-in-class technology powers leading-edge computing, consumer, enterprise server and storage, networking, embedded, automotive, industrial, and mobile products.</p>\n<p>Micron is strategically located in Singapore to efficiently and effectively accommodate its global customers, while also serving as the base of the company’s worldwide operations. Singapore is home to Micron’s largest manufacturing footprint with three fabrication facilities, an upcoming fabrication facility expansion, and a test and assembly facility. Its presence in Singapore also includes a technology center supporting innovation across the company and a sales and marketing office that offers all Micron memory products to our regional customers.</p>\n<p>Micron provides opportunities for team members’ personal and career development through challenging work assignments, training and educational programs. We hire, train, develop, and educate a workforce that is competent in performing job expectations by providing orientation, job specific training, professional certifications, external training and various continuous learning opportunities.<br>\n<br>\nAs Micron enters into a new era of growth, its presence in Singapore plays an important role in its worldwide operations and overall success.</p>",
+    "name": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+    "ssicCode": "26112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:30:45.000Z",
+    "ssicCode2020": "26112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/schemes"
+      }
+    },
+    "logoFileName": "530f48fafcd5e0428b954861a6d185d3/micron-semiconductor-asia-operations.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/530f48fafcd5e0428b954861a6d185d3/micron-semiconductor-asia-operations.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "NORTH COAST DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "757432",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45482224576261,
+    "lng": 103.793643009918
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191374",
+    "deletedAt": null,
+    "createdBy": "976a8cec-f26b-42ed-8f9c-6ee8f65334b0",
+    "createdAt": "2026-01-30T10:38:36.000Z",
+    "updatedAt": "2026-01-30T10:38:36.000Z",
+    "emailRecipient": "976a8cec-f26b-42ed-8f9c-6ee8f65334b0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 85,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/mts-hig-hbm-pe-component-val-micron-semiconductor-asia-operations-0a604b4d79fbd78c8b77c5de824ec386",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 17000,
+    "minimum": 12000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0a604b4d79fbd78c8b77c5de824ec386"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0a604b4d79fbd78c8b77c5de824ec386/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

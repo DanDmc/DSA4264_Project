@@ -1,0 +1,247 @@
+{
+  "uuid": "d5cea44ad57f11749449ab38583380c4",
+  "sourceCode": "Employer Portal",
+  "title": "Robotics Software Engineer",
+  "description": "<p>Join Primech AI to be part of the team developing cutting-edge technology for optimizing facilities solutions. You’ll be central to building the software behind <strong>HYTRON</strong>, our pioneering autonomous commercial cleaning robot, tackling real-world challenges and ensuring it operates reliably in everyday environments. Collaborating with our AI and systems engineers, your expertise will directly shape the performance, impact, and future of our robotics systems.<br /></p><p><em>Learn more about HYTRON and our work at: https://primech.ai/</em><br /></p><p><strong>Responsibilities:</strong></p><ul><li><p>Develop and maintain robotics control software using ROS2.</p></li><li><p>Implement and optimise robot motion control, state machines, and safety logic.</p></li><li><p>Integrate sensors, actuators, and real-time control systems.</p></li><li><p>Support system debugging, testing, and on-site deployment.</p></li><li><p>Work closely with AI and systems engineers to ensure stable robot operation.<br /></p></li></ul><p><strong>Minimum Requirements:</strong></p><ul><li><p>Degree in Computer Science, Robotics, or related field.</p></li><li><p>3+ years experience in robotics software development.</p></li><li><p>Strong hands-on experience with ROS / ROS2.</p></li><li><p>Proficiency in Python and/or C++.</p></li><li><p>Experience working with real robotic hardware.</p></li><li><p>Solid Linux system knowledge.<br /></p></li></ul><p><strong>Preferred:</strong></p><ul><li><p>Experience with force control or manipulation systems.</p></li><li><p>Experience with embedded platforms (Jetson, ARM).</p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "ROS",
+      "uuid": "05665b7826ff460887094429e8a32116",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "uuid": "5cd2adc9e2a5254e4c1da803519f298b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Autonomous robot",
+      "uuid": "626846f74adfd7e311399f6fabced427",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Research and Development",
+      "uuid": "82be779191266b6ef0597be0c7f60d6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Algorithm Development",
+      "uuid": "a5dfcc7653ea733e8ce32ebfe3015d3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21413",
+  "occupationId": "OCC061838",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "198801704H",
+    "description": "<p>Primech A &amp; P Pte Ltd is a leading facilities services provider in Singapore. Our company has extended our services to a wide range of sectors including hotels, educational institutions, airports, government organisations and town councils amongst others. With an aim of making Singapore a greener and better environment to live in, we strive to provide only the best cleaning and maintenance services to commercial buildings.</p>",
+    "name": "PRIMECH A & P PTE. LTD.",
+    "ssicCode": "81211",
+    "employeeCount": null,
+    "companyUrl": "https://www.primech.com.sg/",
+    "lastSyncDate": "2026-02-04T01:10:34.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801704H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801704H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801704H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801704H/schemes"
+      }
+    },
+    "logoFileName": "099929ef46b1bc46ba8ef9ff2c2836d6/primech-p.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/099929ef46b1bc46ba8ef9ff2c2836d6/primech-p.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "202421551D",
+    "description": null,
+    "name": "PRIMECH AI PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T04:00:03.000Z",
+    "ssicCode2020": "72102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202421551D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202421551D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202421551D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202421551D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "23",
+    "street": "UBI CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "408579",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32715555057005,
+    "lng": 103.894838137385
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184337",
+    "deletedAt": null,
+    "createdBy": "ee067ce5-1811-42a7-8d12-6eb9a802281c",
+    "createdAt": "2026-01-29T11:56:59.000Z",
+    "updatedAt": "2026-01-29T11:56:59.000Z",
+    "emailRecipient": "ee067ce5-1811-42a7-8d12-6eb9a802281c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 137,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/robotics-software-engineer-primech-ai-d5cea44ad57f11749449ab38583380c4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d5cea44ad57f11749449ab38583380c4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d5cea44ad57f11749449ab38583380c4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,238 @@
+{
+  "uuid": "55007626b1fb33a42297c921973186d7",
+  "sourceCode": "Employer Portal",
+  "title": "Software Development Manager",
+  "description": "<p><strong>About Airwallex</strong></p><p>At Airwallex (airwallex.com), we’re building the future of global finance on one platform. Founded in 2015 in Melbourne, Airwallex is the leading financial technology platform for modern businesses to grow beyond borders. With one of the world’s most powerful payments infrastructure, our technology empowers businesses of all sizes to accept payments, move money globally, and simplify their financial operations, all on one single platform.</p><h3>Attributes We Value</h3><p>We hire successful builders with founder-like energy who want real impact, accelerated learning, and true ownership. You bring strong role-related expertise and sharp thinking, and you’re motivated by our mission and <a href=\"https://www.airwallex.com/us/operating-principles\" target=\"_blank\" rel=\"noopener noreferrer\">operating principles</a>. You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor.</p><p>You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end-to-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next.</p><h3>About the team</h3><p>The Payments team spans China, the Netherlands, and Singapore, embracing a rich tapestry of cultures and perspectives.<br />Our mission is to simplify the complexities of payments for businesses by designing solutions that seamlessly integrate into their workflows, enhancing efficiency and driving customer conversion rates. Within our diverse and dynamic team, you'll find yourself at the intersection of innovation and practicality, where every contribution is essential in making payment processes effortless.<br />Joining us means becoming part of a global community of engineers leading the charge in reshaping the payments landscape while actively contributing to the operational success of businesses worldwide. </p><h3>What you’ll do</h3><p>As an Engineering lead, you will be responsible for working on a range of exciting initiatives across our international payments platform. The role includes both people & technical responsibilities, and you’ll be responsible for both the product delivery & overall health of the Engineering Team.<br />We strongly value your experience in building, designing and engineering payment systems (gateway, acquiring, issuing or equivalent). If you don’t have them already, you will learn all the intricacies of the Visa and Mastercard payment platforms. You will work closely with the payments product team and will be given the opportunity to interact with the partners engineering teams when required. As part of our core acquiring payment team you are building the next generation Payment Acceptance infrastructure, and Merchant needs are always top of mind.<br /></p><p>Responsibilities:</p><ul><li><p>Lead a team of engineers, set goals and development targets for the engineers within the team and support the team with feedback and development plans as they progress</p></li><li><p>Work closely with product managers and key stakeholders to define product roadmap, prioritize projects and ship incrementally to production</p></li><li><p>Develop various REST services and integration components within a backend microservices architecture, connecting with our React frontend</p></li><li><p>Conduct architectural reviews for current and upcoming solutions</p></li><li><p>Address tech debt, and enhance operational effectiveness such as MTTD and MTTR</p></li><li><p>Contribute to the hiring, training and development of the engineers within the managed team</p></li></ul><p>Who you are</p><ul><li><p>We're looking for people who meet the minimum qualifications for this role. The preferred qualifications are great to have, but are not mandatory.</p></li><li><p>Minimum qualifications:</p></li><li><p>8+ years of software engineering experience, with a focus on low latency, distributed systems</p></li><li><p>At least one year experience in managing teams</p></li><li><p>Strong computer science fundamentals. While we do not mind what language you have most recently been using we are using Java or Kotlin, Spring / Spring Boot</p></li><li><p>Experience in designing and building REST APIs; High volume distributed systems; Kafka event streams; Distributed data storage systems (Cassandra, Hazelcast, Oracle Coherence or similar); GCP or AWS (EC2, RDS, ELB, CloudFront, etc), docker and Kubernetes exposure; Javascript / Typescript</p></li><li><p>Operational tooling such as New Relic, StatsD, Elk, Datadog, Prometheus</p></li></ul><p>Preferred qualifications:</p><ul><li><p>Experience in building a payment gateway, acquiring platform or issuing platform</p></li><li><p>Experience integrating Local Payment Methods (i.e. iDeal, Klarna, Trustly or equivalent) or Cards (i.e. Visa, Mastercard, etc.)</p></li></ul>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sustainability",
+      "uuid": "19bea5bec76c66ef8bd189aa23a4c860",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CSS",
+      "uuid": "2c56c360580420d293172f42d85dfbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Experimentation",
+      "uuid": "45071f255ad41e414e8f5404497caf0c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML",
+      "uuid": "4c4ad5fca2e7a3f74dbb1ced00381aa4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Relationships",
+      "uuid": "59d71aae92a15e9390de18ec4eae0528",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Experience",
+      "uuid": "5d5f7dbd435846b9cc3e3c777d7eae8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HVAC",
+      "uuid": "6ace317b96ae4d73c074b5e1d6694b86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UI",
+      "uuid": "71ff71526d15db86eb50fcac245d183b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FOCAL",
+      "uuid": "82e68920f599767a03c0fa76ca2af028",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rapid Prototyping",
+      "uuid": "9e5411fbc539fa01ff7e03ec4795153d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Xcode",
+      "uuid": "a3b5ebd8a1e9ebf44a172e80d5a7d3a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ab Testing",
+      "uuid": "d24eaf7c05337fd86979ecd96b975707",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Small Business",
+      "uuid": "d31baabd13774aa1b450a5e1d043d925",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IC",
+      "uuid": "dc3a6c32f5a8d1f8a8e264566f815ed7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Silicon",
+      "uuid": "ec47388b272f906a796414eaf6ea8563",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13302",
+  "occupationId": "OCC001962",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1995049",
+    "deletedAt": "2026-01-29T17:15:04.000Z",
+    "createdBy": "7a4faa36-ff4e-4ccb-a786-a7b54629665c",
+    "createdAt": "2025-12-30T02:17:31.000Z",
+    "updatedAt": "2026-01-30T12:31:21.000Z",
+    "emailRecipient": "7a4faa36-ff4e-4ccb-a786-a7b54629665c",
+    "editCount": 2,
+    "repostCount": 1,
+    "totalNumberOfView": 254,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-12-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/software-development-manager-airwallex-55007626b1fb33a42297c921973186d7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 20670,
+    "minimum": 16730,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/55007626b1fb33a42297c921973186d7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/55007626b1fb33a42297c921973186d7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

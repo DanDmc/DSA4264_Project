@@ -1,0 +1,215 @@
+{
+  "uuid": "8dc0b36cd58802182c7919a7aacb7be5",
+  "sourceCode": "Employer Portal",
+  "title": "Admin and Accounts Officer",
+  "description": "<p><strong>Roles & Responsibilities:</strong></p><ul><li><strong>Accounts Payable:</strong> Sort, code, and\n     match invoices, set invoices up for payment, enter and upload invoices into\n     Xero, track expenses, process expense reports, and prepare electronic\n     transfers and payments.</li><li><strong>General Ledger (G/L) Data Entries:</strong>\n     Generate G/L details for year end closing.</li><li><strong>Month-End Closing:</strong> Perform\n     month-end close procedures.</li><li><strong>Financial Reporting:</strong> Prepare and\n     maintain financial reports and records.</li><li><strong>Accounts Receivable:</strong> Issue\n     customers’ invoices from Xero.</li><li><strong>Prepare Monthly payroll and CPF Submission</strong></li><li><strong>Application for Work permit for employee</strong></li><li><strong>Application for Grant whenever needed</strong></li><li><strong>Collection of debts, when needed</strong></li><li><strong>Ad-Hoc Tasks:</strong> Perform various tasks\n     as required.</li></ul><p><strong>Job Requirements:</strong></p><ul><li><strong>Education:</strong> Diploma in Accounting or\n     equivalent.</li><li><strong>Experience:</strong> 2 to 3 years of\n     experience in accounting or finance.</li><li><strong>Skills:</strong> Proficient in Microsoft\n     Office, especially Excel, and accounting software, Xero. Strong attention\n     to detail, organizational skills, and the ability to work independently.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Account Reconciliation",
+      "uuid": "098772ec0f6bbc36e10e8515a32237fc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strong Attention To Detail",
+      "uuid": "33b35b73b6037ea6228f8be98813c4d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Journal Entries",
+      "uuid": "65132de5d513a810e68aa75ed0a14cfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Xero",
+      "uuid": "b4d48785c36047d95628c353e568040f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33131",
+  "occupationId": "OCC007285",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201625461H",
+    "description": null,
+    "name": "BUSINESS RESILIENCE TECHNOLOGY PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:51:39.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201625461H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201625461H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201625461H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201625461H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1001",
+    "street": "JALAN BUKIT MERAH",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "159455",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28505510887319,
+    "lng": 103.813063039901
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189079",
+    "deletedAt": null,
+    "createdBy": "3e01f1a4-a248-45e5-b7f4-f188d4fc6972",
+    "createdAt": "2026-01-30T07:23:22.000Z",
+    "updatedAt": "2026-01-30T07:23:21.000Z",
+    "emailRecipient": "3e01f1a4-a248-45e5-b7f4-f188d4fc6972",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 141,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-06",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/admin-accounts-officer-business-resilience-technology-8dc0b36cd58802182c7919a7aacb7be5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8dc0b36cd58802182c7919a7aacb7be5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8dc0b36cd58802182c7919a7aacb7be5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

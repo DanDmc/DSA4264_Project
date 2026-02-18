@@ -1,0 +1,218 @@
+{
+  "uuid": "1b041abb798bd3cfccc7980612c395ef",
+  "sourceCode": "Employer Portal",
+  "title": "Admin and Accounts Executive",
+  "description": "<p>Job Description:</p><p>- Perform carpark administrative duties<br />- Handle client’s enquiries through calls and email<br />- Handle client’s invoices in a timely manner<br />- Assist in processing and updating client’s data<br />- Perform month-end closing duties<br />- Prepare monthly financial report<br />- Prepare and submit quarterly GST return<br />- Perform monthly bank reconciliation and closing of accounts<br />- Perform month end closing and prepare reconciliation for GL account<br />- Liaise with insurance agent for car park equipment, bankers guarantee<br />- Liaise with external auditors, company secretary, banker and tax agents<br />- Other adhoc duties as and when assigned</p><p>Requirements:</p><p>- Minimum Degree in Accounting.<br />- Minimum 1-2 years’ experience in Accounting<br />- Knowledge of Moneyworks or other accounting software<br />- Self-motivated<br />- Able to work independently with minimal supervision<br />- Team player</p><p><em>Able to start work immediately or on a short notice will\nbe advantageous.</em></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ACCA",
+      "uuid": "4ce9a1b2a402a5e6476d587279876d88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Flow",
+      "uuid": "dc62425edd02dcb2af9e79ae9bb0d053",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24252",
+  "occupationId": "OCC004581",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "200210788N",
+    "description": null,
+    "name": "G. TECH PTE. LTD.",
+    "ssicCode": "70209",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T02:09:05.000Z",
+    "ssicCode2020": "70209",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200210788N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "16",
+    "street": "NEW INDUSTRIAL ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "HUDSON TECHNOCENTRE",
+    "postalCode": "536204",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.3429215098965,
+    "lng": 103.886076778567
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183436",
+    "deletedAt": null,
+    "createdBy": "0fe656a0-ba4f-431f-8c20-58aa402d20f4",
+    "createdAt": "2026-01-29T09:36:55.000Z",
+    "updatedAt": "2026-01-29T09:36:56.000Z",
+    "emailRecipient": "0fe656a0-ba4f-431f-8c20-58aa402d20f4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 239,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/admin-accounts-executive-g-tech-1b041abb798bd3cfccc7980612c395ef",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1b041abb798bd3cfccc7980612c395ef"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1b041abb798bd3cfccc7980612c395ef/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

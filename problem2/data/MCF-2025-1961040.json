@@ -1,0 +1,193 @@
+{
+  "uuid": "24925ef443269d550e54ece70d3a97c4",
+  "sourceCode": "Employer Portal",
+  "title": "Shopping Mall Cleaners needed at Orchard",
+  "description": "<p>~ NO toilet washing</p>\n<p>~ Dust, clean and polish all items within the premises.<br>\n~ Empty waste bins.<br>\n~ Maintain cleanliness of assigned areas.<br>\n~ Polish glass doors.<br>\n~ Report anything in need of repair or replacement to team leader or cleaning supervisor.<br>\n~ Sweep or vacuum floor or carpets of assigned areas.<br>\n~ Wash and maintain the cleanliness of bathrooms and toilets.<br>\n~ Wipe table tops, shelves and partitions of assigned areas</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Childcare",
+      "uuid": "08370cd014507701d18597aa6e29050d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SOAP",
+      "uuid": "4de91f0fcb9cd3a20b6b1d64610a0a3d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publishing",
+      "uuid": "9fb1f5afe9ff67d5c606041aca565287",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leader",
+      "uuid": "c5d426fa2801131aa59d5f7839ccc997",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91131",
+  "occupationId": "OCC061976",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 40,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 13,
+      "category": "Environment / Health"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "198801700E",
+    "description": "<p>CHYE THIAM MAINTENANCE PTE LTD</p>\r\n",
+    "name": "CHYE THIAM MAINTENANCE PTE LTD",
+    "ssicCode": "81211",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T14:00:24.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198801700E/schemes"
+      }
+    },
+    "logoFileName": "a42ee3fd48e09a0819bf3f2201a18e47/chye-thiam-maintenance.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a42ee3fd48e09a0819bf3f2201a18e47/chye-thiam-maintenance.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1961040",
+    "deletedAt": "2026-01-21T17:15:04.000Z",
+    "createdBy": "f73811cf-17a1-478d-be14-ad934ed85864",
+    "createdAt": "2025-12-22T09:11:10.000Z",
+    "updatedAt": "2026-01-25T08:06:35.000Z",
+    "emailRecipient": "f73811cf-17a1-478d-be14-ad934ed85864",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 183,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2025-12-22",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/environment/shopping-mall-cleaners-needed-orchard-chye-thiam-maintenance-24925ef443269d550e54ece70d3a97c4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 1910,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/24925ef443269d550e54ece70d3a97c4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/24925ef443269d550e54ece70d3a97c4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

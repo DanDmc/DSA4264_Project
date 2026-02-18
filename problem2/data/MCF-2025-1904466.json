@@ -1,0 +1,220 @@
+{
+  "uuid": "4d15e5a23ca0edc50fbd3d41fc1356b7",
+  "sourceCode": "Employer Portal",
+  "title": "ACCOUNTS ASSISTANT",
+  "description": "<h1><strong>Job Title: Accounts Assistant</strong></h1><h2><strong>Overview</strong></h2><p>We are seeking a detail-oriented and motivated Accounts Assistant to support our finance operations. The ideal candidate will assist with daily accounting tasks, maintain accurate financial records, and ensure timely processing of transactions.</p><h2><strong>Key Responsibilities</strong></h2><ul><li><p>Assist with data entry of daily financial transactions into the accounting system</p></li><li><p>Prepare and process invoices, receipts, and payments</p></li><li><p>Support accounts payable and accounts receivable functions</p></li><li><p>Reconcile bank statements and Company accounts</p></li><li><p>Maintain proper filing and documentation of financial records</p></li><li><p>Assist in month-end closing activities and financial reporting</p></li><li><p>Liaise with vendors, customers, and internal departments on billing or payment matters</p></li><li><p>Support the Finance team with ad-hoc administrative and accounting tasks</p></li></ul><h2><strong>Qualifications</strong></h2><ul><li><p>Diploma or degree in Accounting, Finance, or related field</p></li><li><p>1–2 years of accounting experience preferred (fresh graduates may be considered)</p></li><li><p>Basic knowledge of accounting principles</p></li><li><p>Proficient in MS Excel and accounting software </p></li><li><p>Strong attention to detail and accuracy</p></li><li><p>Good organizational and time-management skills</p></li><li><p>Ability to work well independently and as part of a team</p></li></ul><h2><strong>Additional Skills (Optional)</strong></h2><ul><li><p>Experience with GST submissions or payroll processes</p></li><li><p>Familiarity with Singapore accounting standards (if applicable)</p></li><li><p>Good communication and interpersonal skills</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strong Attention To Detail",
+      "uuid": "33b35b73b6037ea6228f8be98813c4d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Independently",
+      "uuid": "3d059b652e8d92de5b85660d5efba49a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Transactions",
+      "uuid": "6fc947c90a099fc04d5b5a3d607acef9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting Standards",
+      "uuid": "c1c271d82742dcaa62a3f95307fe126e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008765",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201507721N",
+    "description": "<p>WSG ENGINEERING PTE LTD is a leading construction company specializing in plumbing and sanitary solutions. With a strong focus on quality, safety, and innovation, we have built a solid reputation for delivering successful projects that contribute to the development of Singapore's infrastructure.<br>\n<br>\nTake the first step towards an exciting career with WSG ENGINEERING PTE LTD.<br>\n<br>\n <br>\nPlease apply via MyCareerFuture or email your updated CV to recruit@wsg.com.sg.</p>",
+    "name": "WSG ENGINEERING PTE. LTD.",
+    "ssicCode": "42201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:58:14.000Z",
+    "ssicCode2020": "42201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507721N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507721N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507721N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507721N/schemes"
+      }
+    },
+    "logoFileName": "5615d92f5a7c33801953f17e06ef5131/wsg-engineering.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5615d92f5a7c33801953f17e06ef5131/wsg-engineering.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "190",
+    "street": "WOODLANDS INDUSTRIAL PARK E5",
+    "floor": null,
+    "unit": null,
+    "building": "WOODLANDS BIZHUB",
+    "postalCode": "757516",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45208365880506,
+    "lng": 103.792084389706
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1904466",
+    "deletedAt": "2025-12-25T17:15:04.000Z",
+    "createdBy": "4eaadb47-d446-479b-93c3-3ebed8d620d7",
+    "createdAt": "2025-12-11T09:32:04.000Z",
+    "updatedAt": "2026-01-29T02:51:44.000Z",
+    "emailRecipient": "4eaadb47-d446-479b-93c3-3ebed8d620d7",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 700,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-11",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 42,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-assistant-wsg-engineering-4d15e5a23ca0edc50fbd3d41fc1356b7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4d15e5a23ca0edc50fbd3d41fc1356b7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4d15e5a23ca0edc50fbd3d41fc1356b7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

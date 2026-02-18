@@ -1,0 +1,208 @@
+{
+  "uuid": "d7ad345bdfa2b13613d7d84207e02283",
+  "sourceCode": "Employer Portal",
+  "title": "Full time/Part time Telemarketer",
+  "description": "<p>Location: Office Telok Ayer during probation period, can be Work From Home after</p>\n<p>Salary Range:</p>\n<p>Part-time: $12 to $15 per hour + Commissions</p>\n<p>Full-time: $1,800 to $2,100 + Commissions</p>\n<p>Job Description: Cold call to fix appointment (no selling over the phone involved)</p>\n<p>Script, training, and approved leads will be provided</p>\n<p>Working location: Can be remote or hybrid or in office, once pass probation period, can be discussed</p>\n<p>Working hours:</p>\n<p>Part-time: Minimum average 12 hours per week</p>\n<p>Full-time - Monday to Fridays (except PH, 10am to 7pm, with 1 hour break)</p>\n<p>Commission will be given with appointment fixed, and if a sale is closed from the appointment</p>\n<p>Salary will comprise of fixed monthly pay and commission</p>\n<p>Experience: Good to have, but no experience needed as training will be provided</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Excellent Communication Skills",
+      "uuid": "0720b6afb8ec48831c9b1b6b847d03e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Telemarketing",
+      "uuid": "3e7ebe7c174ad5da159a3aafa043f620",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cold Calling",
+      "uuid": "6a7a1480db29457c46ea8dc4f1be1342",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adaptability",
+      "uuid": "9b9c820d2859453f8e672a614ff7d501",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "52440",
+  "occupationId": "OCC009642",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 39,
+      "category": "Telecommunications"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202316336D",
+    "description": null,
+    "name": "WEALTH INFINITY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T10:22:07.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202316336D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202316336D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202316336D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202316336D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183918",
+    "deletedAt": null,
+    "createdBy": "a6a79ea4-a3c3-455d-bb51-b871af67d1f6",
+    "createdAt": "2026-01-29T10:22:52.000Z",
+    "updatedAt": "2026-01-29T10:22:52.000Z",
+    "emailRecipient": "a6a79ea4-a3c3-455d-bb51-b871af67d1f6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/telecommunications/full-timepart-time-telemarketer-wealth-infinity-d7ad345bdfa2b13613d7d84207e02283",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2100,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7ad345bdfa2b13613d7d84207e02283"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7ad345bdfa2b13613d7d84207e02283/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

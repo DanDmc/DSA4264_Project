@@ -1,0 +1,234 @@
+{
+  "uuid": "fb8af2871456fd2f6970e01362bf289c",
+  "sourceCode": "Employer Portal",
+  "title": "Investment Broker",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><strong>Portfolio Management:</strong> Build, monitor, and adjust tailored investment portfolios for high-net-worth clients.</li><li><strong>Advisory & Strategy:</strong> Offer expert investment advice on asset allocation and financial planning, ensuring alignment with client objectives and risk appetite.</li><li><strong>Business Development:</strong> Actively acquire new clients, retain relationships, and, in some models, handle transaction executions as a broker.</li><li><strong>Market Analysis:</strong> Stay updated on economic trends, market volatility, and investment products to provide timely advice.</li><li><strong>Compliance:</strong> Adhere strictly to internal policies, ethical standards, and regulatory requirements (e.g., MAS in Singapore).</li><li><strong>Client Reporting:</strong> Prepare and present performance reports to clients. </li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Commodity",
+      "uuid": "02d27077acec93af7e3a98cd2edd28bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trade Shows",
+      "uuid": "02d60473e5ce45c61d329b5f004924c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Brokerage",
+      "uuid": "2818b0d1c374b63876155078db509908",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Asset Allocation",
+      "uuid": "29745a0ff1e90b3e1520e11e6eb71b21",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Valuation",
+      "uuid": "3e6564c044acd49698fd70c9aaa79bb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mergers",
+      "uuid": "3e659377d61ff455d27e20878f284714",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Planning",
+      "uuid": "46c1f41e843eb982dc6824549f0d8444",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Under Pressure",
+      "uuid": "47e2827f5623d7107195408b20d5d598",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investments",
+      "uuid": "58b5a31d0fe1c8f8bb513b2d78aed40d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Private Equity",
+      "uuid": "6ce05b44bcf0db4df779778a1e1bd944",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investment Management",
+      "uuid": "897c91670daad7cba272861918d6e06a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Modelling",
+      "uuid": "aa10b0acb54d9e821629ef83fa0f1a92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "uuid": "d4df0f19b94b428d347bbf56d9d5a4c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legal Issues",
+      "uuid": "f82d14fbaab35ec3692b5e0dfb06c227",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "53502130E",
+    "description": null,
+    "name": "J.S.F",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:39:21.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "VICTORIA WHOLESALE CENTRE",
+    "postalCode": "339508",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31120876952715,
+    "lng": 103.867482955196
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192160",
+    "deletedAt": null,
+    "createdBy": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "createdAt": "2026-01-30T19:27:41.000Z",
+    "updatedAt": "2026-01-30T19:27:41.000Z",
+    "emailRecipient": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 43,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/investment-broker-jsf-fb8af2871456fd2f6970e01362bf289c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fb8af2871456fd2f6970e01362bf289c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fb8af2871456fd2f6970e01362bf289c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

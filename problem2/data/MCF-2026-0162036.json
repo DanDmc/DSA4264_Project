@@ -1,0 +1,230 @@
+{
+  "uuid": "08aa33c9e577d8a41c2d12dd01fb13d5",
+  "sourceCode": "Employer Portal",
+  "title": "Art teacher",
+  "description": "<p>Planning lessons on art in accordance with student’s learning objectives.</p><p></p><p>Preparing the classroom by gathering and setting up equipment.</p><p></p><p>Developing student’s drawing, coloring, and painting techniques.</p><p></p><p>Providing instruction on the use media such as graphite and charcoal pencils, as well as oil, acrylic, and watercolor paint.</p><p></p><p>Assigning and grading project and examinations.</p><p></p><p>Recording and reporting on student’s progress.</p><p></p><p>Ensuring that the classroom is clean after each lesson.</p><p></p><p>Monitoring inventory and sourcing art supplies, as needed.</p><p></p><p>Attending faculty and parent- teacher meetings.</p><p></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Painting",
+      "uuid": "2875ec54afbd9922e0553f4b441aa54b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Art Education",
+      "uuid": "4e501d7950d94f3faa337cbb068adf5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Watercolor",
+      "uuid": "563cf0ad6c1bae59c23e2505122d680f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sketching",
+      "uuid": "728830e5aa0a66b46f6602a994349df1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performing Arts",
+      "uuid": "753732671ec1c264e37265824d4adb90",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coloring",
+      "uuid": "8fea9135f9300abbaa4ab2d566a09148",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Acrylic",
+      "uuid": "920809ad6f3521061418a1ee2f8837b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Acrylic Painting",
+      "uuid": "b12f3dabfa7d07de17f5b02a1ec19ff2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oil Painting",
+      "uuid": "b57d65751cf6b27e579a4093c3de190b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artistic",
+      "uuid": "d4572294cbf0d8a2ade1269d27d667f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "36202",
+  "occupationId": "OCC059604",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "0211",
+  "postedCompany": {
+    "uen": "202130484K",
+    "description": null,
+    "name": "KIDS' COLOUR FACTORY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T15:02:18.000Z",
+    "ssicCode2020": "85408",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202130484K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202130484K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202130484K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202130484K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "MARINE PARADE CENTRAL",
+    "floor": null,
+    "unit": null,
+    "building": "PARKWAY CENTRE",
+    "postalCode": "449408",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30188732078193,
+    "lng": 103.905996468402
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0162036",
+    "deletedAt": null,
+    "createdBy": "6c856e81-cc3e-4c27-ad49-f535feb42de5",
+    "createdAt": "2026-01-26T15:07:12.000Z",
+    "updatedAt": "2026-01-26T15:07:12.000Z",
+    "emailRecipient": "6c856e81-cc3e-4c27-ad49-f535feb42de5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 215,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-16",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/art-teacher-kids-colour-factory-08aa33c9e577d8a41c2d12dd01fb13d5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3650,
+    "minimum": 3650,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08aa33c9e577d8a41c2d12dd01fb13d5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08aa33c9e577d8a41c2d12dd01fb13d5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

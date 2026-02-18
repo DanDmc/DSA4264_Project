@@ -1,0 +1,211 @@
+{
+  "uuid": "02a24649eb387649168a325172bbad1a",
+  "sourceCode": "Employer Portal",
+  "title": "QA Engineer",
+  "description": "<ul><li>Design, maintain, and scale test frameworks and unit tests for software application,ensuring comprehensive coverage and reliability.</li></ul><ul><li>Integrate automated and unit testing within the GitHub CI/CD pipeline to ensure tests are executed as part of the development lifecycle.</li></ul><ul><li>Utilize testing tools, including the Unity Test Framework, to develop and execute automated and unit tests.</li></ul><ul><li>Manage bug tracking and test case management using Jira, with Zephyr to streamline test planning and execution within the software development workflow.</li></ul><ul><li>Develop detailed automated and unit test plans and test cases, and maintain them.</li></ul><ul><li>Optimize automated and unit testing strategies and tools.</li></ul><ul><li>Analyze test results, document systematically, and collaborate with the developmentteam for issue resolution.</li></ul><ul><li>Stay informed on the latest testing technologies, and best practices to continuously improve the testing process.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Automation",
+      "uuid": "7e636b60d041a7a4c38232c3a2830397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Zephyr",
+      "uuid": "85122087e3f252874f22ae45bf974115",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Testing Process",
+      "uuid": "c452de62ee4ef0db5d9930faeee87cad",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selenium",
+      "uuid": "c49dfb55f06bb406e2c5ca786f557d38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Case Management",
+      "uuid": "d799928eb48a88cb861f3283005d227a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Planning",
+      "uuid": "fc0d5955316377f73eedb4f333346e22",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21414",
+  "occupationId": "OCC003345",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201936944N",
+    "description": "<p>Augmentus is a robotics software company that offers a no-code and unified AI-robot programming platform. You will dive deep into cutting edge tech such as AI and Robotics while working closely with our industry partners who are some of the largest robotic manufacturers and automation service providers.</p>",
+    "name": "AUGMENTUS PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "https://www.augmentus.tech/",
+    "lastSyncDate": "2026-02-02T07:08:25.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201936944N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201936944N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201936944N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201936944N/schemes"
+      }
+    },
+    "logoFileName": "86cf82204716696338d350ec8c07a085/augmentus.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/86cf82204716696338d350ec8c07a085/augmentus.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "81",
+    "street": "SCIENCE PARK DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "THE CHADWICK",
+    "postalCode": "118257",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28902930173883,
+    "lng": 103.79052815225
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166668",
+    "deletedAt": null,
+    "createdBy": "0d607cb7-3370-43f7-9431-90d8b7b1de6d",
+    "createdAt": "2026-01-27T07:05:26.000Z",
+    "updatedAt": "2026-01-27T07:05:26.000Z",
+    "emailRecipient": "0d607cb7-3370-43f7-9431-90d8b7b1de6d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 142,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/qa-engineer-augmentus-02a24649eb387649168a325172bbad1a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02a24649eb387649168a325172bbad1a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02a24649eb387649168a325172bbad1a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

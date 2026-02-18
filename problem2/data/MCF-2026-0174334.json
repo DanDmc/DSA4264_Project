@@ -1,0 +1,202 @@
+{
+  "uuid": "ec2a77a57c8158fb93e8d3bbdb30107e",
+  "sourceCode": "Employer Portal",
+  "title": "Cybersecurity Engineer",
+  "description": "<p><strong>Key Responsibilities</strong></p><p><strong>Design & Planning</strong></p><ul><li>Contribute to <strong>Low-Level Design (LLD) </strong>activities related to Zscaler integration with Azure, Cisco SD-WAN, an distribution centres.</li><li>Validate Zscaler prerequisites and dependencies across Azure tenancy, SD-WAN vHeadends, and on-prem DC     environments.</li><li>Support design of <strong>GRE/IPsec tunnels </strong>or cloud connector-based integrations between Azure SD-WAN infrastructure and Zscaler.</li><li>Participate in customer requirements workshops covering SD-WAN, cloud security, and internet breakout design. </li></ul><p><strong>Implementation & Configuration</strong></p><ul><li>Configure and validate <strong>Zscaler cloud connectivity</strong> for Azure-hosted SD-WAN vHeadends.</li><li>Support integration between Zscaler, Cisco SD-WAN controllers, and routing policies for internet-bound traffic.</li><li>Assist with policy alignment to ensure secure access to internet and cloud services post migration.</li><li>Support test environment builds and execute Zscaler-related implementation tasks during planned change windows. </li></ul><p><strong>Migration & Cutover Support</strong></p><ul><li>Provide Zscaler engineering support during <strong>DC migration events</strong> </li><li>Validate end-to-end connectivity post-migration, including: </li><li>Internet access via Zscaler</li><li>SD-WAN path selection </li><li>Cloud and Woolworths network reachability</li><li>Participate in structured weekend cutovers and next-business-day operational support following migrations. </li></ul><p><strong>Testing & Validation</strong></p><ul><li>Execute and support <strong>technical and business verification tests </strong>related to Zscaler traffic flows.</li><li>Troubleshoot routing, policy, or performance issues impacting Zscaler-integrated traffic.</li><li>Review and contribute to test artefacts, validation outputs, and operational handover documentation. </li></ul><p><strong>Documentation & Handover</strong></p><ul><li>Contribute to As-Built documentation\n     covering Zscaler architecture and integrations.</li></ul><p><strong>Required\nSkills & Experience</strong></p><p><strong>Technical Skills</strong></p><ul><li>Strong hands-on experience with <strong>Zscaler\n     Internet Access (ZIA)</strong> and cloud-based security architectures.</li><li>Experience integrating Zscaler with <strong>SD-WAN\n     solutions</strong>, preferably <strong>Cisco SD-WAN</strong>.</li><li>Solid understanding of <strong>Azure\n     networking</strong>, virtual appliances, and cloud connectivity patterns.</li><li>Experience with <strong>GRE/IPsec tunnels</strong>,\n     routing, and internet breakout design.</li><li>Strong troubleshooting skills across\n     routing, security policies, and cloud connectivity.</li></ul><p><strong>Project & Operational\nSkills</strong></p><ul><li>Experience supporting <strong>enterprise-scale\n     migrations</strong> with change control and structured cutovers.</li><li>Ability to work from LLDs, run-sheets,\n     and formal change documentation.</li><li>Comfortable working in multi-vendor\n     environments (Cisco, Azure, Zscaler).</li><li>Strong communication skills to engage\n     with network, cloud, and customer stakeholders.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "uuid": "0889f4cee1d9f42ae2c1daf686377de0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Penetration Testing",
+      "uuid": "97def0245e723621477eeda0a410ec36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IPSec",
+      "uuid": "99a98e067af6b09e64f3740767096c96",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "uuid": "e5ad6b40151becc1063fa71bd7e18322",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062567",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201623696W",
+    "description": "<p>YM GLOBAL TECHNOLOGIES PTE. LTD.&nbsp;</p>\n<p><br></p>\n<p>YM Global is a Singapore based IT technology services and outsourcing company.</p>",
+    "name": "YM GLOBAL TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "www.ymgit.com",
+    "lastSyncDate": "2026-02-04T03:06:34.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/schemes"
+      }
+    },
+    "logoFileName": "7ebbd753cae65d8dbd441759c4cc340b/ym-global-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7ebbd753cae65d8dbd441759c4cc340b/ym-global-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "MARINA BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA BAY FINANCIAL CENTRE",
+    "postalCode": "018982",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27901700601654,
+    "lng": 103.854464808366
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174334",
+    "deletedAt": null,
+    "createdBy": "2a7b50f5-7b76-438f-b7fc-a03672dacf27",
+    "createdAt": "2026-01-28T06:25:18.000Z",
+    "updatedAt": "2026-01-28T06:25:18.000Z",
+    "emailRecipient": "2a7b50f5-7b76-438f-b7fc-a03672dacf27",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cybersecurity-engineer-ym-global-technologies-ec2a77a57c8158fb93e8d3bbdb30107e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec2a77a57c8158fb93e8d3bbdb30107e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec2a77a57c8158fb93e8d3bbdb30107e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

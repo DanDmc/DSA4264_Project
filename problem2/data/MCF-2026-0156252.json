@@ -1,0 +1,218 @@
+{
+  "uuid": "bb5c79a6a91d8531ac3f2600fee1cd4d",
+  "sourceCode": "Employer Portal",
+  "title": "Analyst/Associate - AI Developer/Engineer",
+  "description": "<p>We are seeking an AI Developer/Engineer to support the design, development, and deployment of AI-driven solutions for key business functions including Investment, Relationship Management, Risk, Operations, and Compliance. Working under the guidance of senior team members, you will help translate business requirements into functional AI applications. This is an excellent opportunity for someone early in their career to gain hands-on experience with modern AI technologies, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI agents.</p><p>This role offers exposure to a variety of AI projects, from intelligent automation and document processing to investment analytics and risk monitoring.<a href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\"></a></p><p><strong>Duties & Responsibilities</strong></p><p>AI Solution Development</p><ul><li>Assist in building AI-powered applications using LLMs and RAG pipelines under the guidance of senior team members.</li><li>Support the development and optimization of retrieval systems, including vector databases, embedding strategies, and semantic search capabilities.</li><li>Implement and refine prompt engineering techniques to improve model accuracy, context understanding, and response quality.</li><li>Help develop AI agents—tool-using LLM workflows that integrate with internal systems, knowledge bases, and external APIs to automate tasks and provide intelligent recommendations.</li></ul><p>Full-Stack Development</p><ul><li>Contribute to building web applications with intuitive user interfaces that deliver AI capabilities to business users.</li><li>Assist in developing APIs and microservices to support AI features and integrate with existing systems.</li><li>Ensure applications are responsive, secure, and follow development best practices.</li></ul><p>Data Management & Integration</p><ul><li>Support the development of data pipelines for ingesting, processing, and indexing content from internal and external sources.</li><li>Work with various teams to understand data requirements and ensure secure handling of sensitive information.</li><li>Assist in integrating third-party APIs, market data feeds, and internal databases to enhance AI application capabilities.</li></ul><p>Collaboration & Learning</p><ul><li>Partner with stakeholders in Investment, Relationship Management, Risk, Operations, and Compliance to understand requirements and deliver solutions.</li><li>Contribute to documentation and training materials to support adoption of AI-powered features.</li><li>Stay current with emerging AI technologies, frameworks, and best practices; share learnings with the team.</li></ul><p><strong>Key Qualifications</strong></p><p>Technical Skills</p><ul><li>Programming Languages: Strong proficiency in Python; familiarity with JavaScript/TypeScript is a plus.</li><li>AI/ML Technologies: Hands-on experience or strong academic projects involving LLMs (e.g., OpenAI, Anthropic, or open-source models), RAG architectures, vector databases, and frameworks such as LangChain or similar.</li><li>Full-Stack Development: Exposure to front-end frameworks (e.g., React, Vue.js, or similar) and back-end development (e.g., FastAPI, Flask, or similar).</li><li>Database Systems: Basic knowledge of relational databases (e.g., PostgreSQL) and/or NoSQL solutions.</li></ul><p>Business Understanding</p><ul><li>Interest in financial services, investment management, or fintech; willingness to learn domain-specific concepts.</li><li>Ability to understand business requirements and contribute to technical solutions with guidance from senior team members.</li></ul><p>Soft Skills</p><ul><li>Collaboration & Communication: Ability to work effectively with both technical and non-technical colleagues.</li><li>Problem-Solving: Willingness to tackle ambiguous problems and learn through experimentation.</li><li>Adaptability: Eager to learn new technologies, AI approaches, and evolving project needs.</li><li>Proactive Mindset: Self-driven with the ability to take initiative while knowing when to seek guidance.</li></ul><p>Education & Experience</p><ul><li>Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Software Engineering, or a related field (or equivalent practical experience).</li><li>0–4 years of professional experience in software development, AI/ML applications, or related projects.</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "uuid": "5cd2adc9e2a5254e4c1da803519f298b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microservices",
+      "uuid": "7d488fa9de381b31c51f4e86f62c15ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Flask",
+      "uuid": "9784e91c7b2657917226bc82afdd6789",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Science",
+      "uuid": "c78e2ad97b328dbafbd49edf182136f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Applications",
+      "uuid": "c93aadf0c53f10fa9715606886defad9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FastAPI",
+      "uuid": "f275f2a55ee4abdf8875dce6987e2f5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC013826",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201422117K",
+    "description": "<p>Lighthouse Canton is an independent asset manager to institutional investors and private clients, with headquarters in Singapore. Our wealth management business serves ultra-high net worth individuals, families and family offices across their investment, estate, tax, and philanthropic needs. The asset management business offers strong internal product capabilities in hedge funds, private equity, and traditional fundamental analysis-based strategies. Lighthouse Canton has offices in Singapore, Dubai, and Bengaluru in India.</p>\n<p>We believe in hiring smart and curious people with the highest integrity. We offer talented professionals an opportunity to grow in a collaborative environment, surrounded by driven colleagues and the opportunity to make an impact from the first day in the organization.</p>",
+    "name": "LIGHTHOUSE CANTON PTE. LTD.",
+    "ssicCode": "66309",
+    "employeeCount": null,
+    "companyUrl": "https://www.lighthouse-canton.com/",
+    "lastSyncDate": "2026-02-04T02:36:28.000Z",
+    "ssicCode2020": "66309",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201422117K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201422117K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201422117K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201422117K/schemes"
+      }
+    },
+    "logoFileName": "62ee883cab15713cfbad258079990fe7/lighthouse-canton.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/62ee883cab15713cfbad258079990fe7/lighthouse-canton.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "16",
+    "street": "COLLYER QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "COLLYER QUAY CENTRE",
+    "postalCode": "049318",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28412271103558,
+    "lng": 103.852544637414
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156252",
+    "deletedAt": null,
+    "createdBy": "2bfb83e5-f318-457f-8770-7fe4649bd367",
+    "createdAt": "2026-01-26T02:53:56.000Z",
+    "updatedAt": "2026-01-26T02:53:57.000Z",
+    "emailRecipient": "2bfb83e5-f318-457f-8770-7fe4649bd367",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 353,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 69,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/analystassociate-ai-developerengineer-lighthouse-canton-bb5c79a6a91d8531ac3f2600fee1cd4d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bb5c79a6a91d8531ac3f2600fee1cd4d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bb5c79a6a91d8531ac3f2600fee1cd4d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

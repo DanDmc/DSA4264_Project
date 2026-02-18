@@ -1,0 +1,223 @@
+{
+  "uuid": "4cde353565228cb51a274ae50af82ba6",
+  "sourceCode": "Employer Portal",
+  "title": "ACCOUNTS ASSISTANT",
+  "description": "<p>Verifying invoices</p><p>Data posting</p><p>Prepare payments</p><p>Filing</p><p>Petty cash management</p><p>General administrative work</p><p><br /></p><p>Working hours:</p><p>Monday to Friday</p><p>9am to 6pm</p><p><br /></p><p>Alternate Saturday</p><p>9am to 1pm</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Work",
+      "uuid": "426f2e6210dd458d29478045ab400e8f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting System",
+      "uuid": "80f02cec3e05a1d93e286971a1b3bf22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cash Management",
+      "uuid": "bc0c62f1f262a46872a871ec65c16e12",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008766",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "198501315D",
+    "description": "<p>Established in 1985, Thong Chew Food Industries Pte Ltd is a leading supplier of food & beverage to government agencies and other foodservice institutions. With a staff strength of over 60 employees and a full facilty warehouse, the company distributes a wide range of foodstuff and can offer customers a one-stop solution to their provisioning requirements.</p>\n",
+    "name": "THONG CHEW FOOD INDUSTRIES PTE LTD",
+    "ssicCode": "10793",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T04:17:16.000Z",
+    "ssicCode2020": "10793",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "29",
+    "street": "TUAS AVENUE 11",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "639089",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32510240119344,
+    "lng": 103.641012733235
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1901709",
+    "deletedAt": "2026-01-10T17:15:04.000Z",
+    "createdBy": "6c8ad73f-aa3e-4e5a-9d22-6dbb4f969bf4",
+    "createdAt": "2025-12-11T05:29:18.000Z",
+    "updatedAt": "2026-01-31T04:44:59.000Z",
+    "emailRecipient": "6c8ad73f-aa3e-4e5a-9d22-6dbb4f969bf4",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 377,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2025-12-11",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-assistant-thong-chew-food-industries-4cde353565228cb51a274ae50af82ba6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4cde353565228cb51a274ae50af82ba6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4cde353565228cb51a274ae50af82ba6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

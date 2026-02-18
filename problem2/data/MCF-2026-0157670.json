@@ -1,0 +1,201 @@
+{
+  "uuid": "155839f8740fee4a69753ecc4b206e16",
+  "sourceCode": "Employer Portal",
+  "title": "Kitchen Attendant",
+  "description": "<p><strong>Job Description</strong></p>\n<ul>\n  <li>Assist the chef / cooks in the preparation and cooking of meals</li>\n  <li>Preparation and setting up of food to be deliver to the wards.</li>\n  <li>Ensure that the Kitchen equipment is kept clean and food preparation is compliance as accordance to the guideline under MOH / NEA regulations.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n  <li>Able to read and understand simple English</li>\n  <li>Non-Halal Kitchen</li>\n</ul>\n<p><br></p>\n<p><strong>Working hour</strong></p>\n<ul>\n  <li>5.5-day work week; must be willing to work on weekends and public holidays, with rotating shifts (off day on a weekday).</li>\n</ul>\n<p><strong>Benefit</strong></p>\n<ul>\n  <li>Annual Leave</li>\n  <li>Family Care Leave</li>\n  <li>Medical &amp; Dental</li>\n  <li>AWS and Variable Bonus</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kitchen",
+      "uuid": "33fa00a66f2edf0d1c5697a9f8693ba8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "kitchen support",
+      "uuid": "9d0d9c37dd4f6e865c924e48b6c4e8c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "worked in a kitchen",
+      "uuid": "a456fe567e3a7281ba2fb60d5b9193db",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Verbal Skills",
+      "uuid": "ae7b51bd21671faab7fcb2aafd716268",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "94101",
+  "occupationId": "OCC013297",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "11",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201615448C",
+    "description": "<p>Kwong Wai Shiu Hospital is a charitable organisation, established to provide healthcare services to the sick and poor in Singapore regardless of race, language or religion. Our vision is to be a highly regarded healthcare institution by promoting the well-being and dignity of the people we serve through compassion, charity and the delivery of quality.</p>\r\n\r\n<p> </p>\r\n\r\n<p>We provide a continuum of care ranging from out-patient, in-patient, rehabilitation therapy and Traditional Chinese Medicine services.</p>\r\n",
+    "name": "KWONG WAI SHIU HOSPITAL",
+    "ssicCode": "87010",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:45:17.000Z",
+    "ssicCode2020": "87010",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615448C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615448C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615448C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615448C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157670",
+    "deletedAt": null,
+    "createdBy": "52ec5e68-de61-4be6-a307-1216b87c7bed",
+    "createdAt": "2026-01-26T05:30:03.000Z",
+    "updatedAt": "2026-01-26T05:30:03.000Z",
+    "emailRecipient": "52ec5e68-de61-4be6-a307-1216b87c7bed",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/kitchen-attendant-kwong-wai-shiu-hospital-155839f8740fee4a69753ecc4b206e16",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2200,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/155839f8740fee4a69753ecc4b206e16"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/155839f8740fee4a69753ecc4b206e16/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

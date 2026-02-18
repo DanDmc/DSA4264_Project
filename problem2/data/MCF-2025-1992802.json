@@ -1,0 +1,237 @@
+{
+  "uuid": "a05cfa5d8fd59c7951bea244821a5133",
+  "sourceCode": "Employer Portal",
+  "title": "Senior iOS Engineer",
+  "description": "<p>At AppLovin, we're building the future of social connectivity - a next-generation platform that redefines how people create, discover and engage with content. This new venture represents a unique opportunity to shape the future of mobile social experiences, combining the innovation of a startup with the scale and resources of an industry leader. We're assembling an exceptional team to bring this vision to life, starting with foundational roles like yours.</p><p>【A Day in the Life】</p><p>As a founding iOS Engineer for this venture, you will be a primary architect of our core mobile experience. Your code will define the performance, feel, and innovation of our social platform for millions of potential users. One day, you might be crafting buttery-smooth, custom gesture-driven interfaces for content discovery; the next, you could be optimizing memory-intensive media rendering pipelines, or building sophisticated real-time capture and creation tools from the ground up. You won't just be implementing tickets - you'll be solving complex technical challenges, making key architectural decisions, and collaborating directly with product and design to shape the future of the app. This role offers the rare opportunity to build a world-class iOS application from a blank slate, with a focus on technical excellence and user delight.</p><p>【The Impact You'll Make】</p><ul><li>Architect and Build: Design, develop, and maintain core features of our iOS application, ensuring robustness, performance, and scalability from inception</li><li>Optimize Performance: Take ownership of the app's performance, focusing on critical metrics like interface fluency, media playback efficiency, and memory management to deliver best-in-class user experiences</li><li>Innovate on Core Features: Tackle complex technical challenges in areas such as custom media playback, real-time content processing, intuitive gesture handling, and seamless social interactions</li><li>Collaborate and Influence: Work closely with Product Managers, Designers, and Backend Engineers to define feature specifications, propose technical solutions, and influence product direction</li><li>Establish Foundations: Help establish engineering best practices including code architecture, review processes, and testing standards for a codebase built to last and scale</li></ul><p>【Who You Are】</p><ul><li>Bachelor's degree in Computer Science or related field, or equivalent practical experience</li><li>3+ years of professional iOS development experience with deep proficiency in Swift and strong understanding of iOS frameworks including UIKit and SwiftUI</li><li>Proven track record of building and shipping complex, high-performance consumer mobile applications to the App Store</li><li>Deep understanding of iOS memory management, multithreading, networking, and performance profiling tools</li><li>Experience with software architecture patterns and passion for writing clean, maintainable, and testable code</li><li>Product-minded engineer who cares about user experience and enjoys cross-functional collaboration</li><li>Self-starter who thrives in fast-paced, entrepreneurial environments - proactive, ownership-driven, and excited to build from zero to one</li></ul><p>【Bonus Qualifications】</p><ul><li>Experience with media-intensive applications involving video, audio, or camera functionality</li><li>Background in social, content creation, or community-driven products</li><li>Familiarity with real-time communication technologies and protocols</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "iOS",
+      "uuid": "1bdf605991920db11cbdf8508204c4eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multithreading",
+      "uuid": "30db3f061dd39d166fe53c11118a8ec2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "iOS Development",
+      "uuid": "452d755cc69f3eef17048a6980ebcf48",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Experience",
+      "uuid": "5d5f7dbd435846b9cc3e3c777d7eae8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Camera",
+      "uuid": "967d35e40f3f95b1f538bd248640bf3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UIKit",
+      "uuid": "9cfed124ecbe655af2584273379c6af4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rendering",
+      "uuid": "a6e8f9aed2ac6481dc25a18a33342d03",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembling",
+      "uuid": "b65bcd4c023847cafb39151dfa9ddd7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mobile Applications",
+      "uuid": "bdbaee6f9b112dae8d710848124d484a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25122",
+  "occupationId": "OCC062593",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202315459Z",
+    "description": null,
+    "name": "APPLOVIN (SINGAPORE) PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:51:38.000Z",
+    "ssicCode2020": "58202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315459Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315459Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315459Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202315459Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1992802",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "d0031bce-20bf-4cba-914a-c760d8be202d",
+    "createdAt": "2025-12-29T09:54:45.000Z",
+    "updatedAt": "2026-01-29T02:37:03.000Z",
+    "emailRecipient": "d0031bce-20bf-4cba-914a-c760d8be202d",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 193,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-ios-engineer-applovin-a05cfa5d8fd59c7951bea244821a5133",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 25000,
+    "minimum": 15000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a05cfa5d8fd59c7951bea244821a5133"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a05cfa5d8fd59c7951bea244821a5133/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

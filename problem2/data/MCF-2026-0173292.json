@@ -1,0 +1,205 @@
+{
+  "uuid": "d394c5abe8b0676e912c55ffedef4545",
+  "sourceCode": "Employer Portal",
+  "title": "MANAGEMENT EXECUTIVE",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>Support to HR team the end-to-end hiring process, posting job vacancy, arrange interview, managing employee onboarding. Update existing employee records, HR database.</li></ul><ul><li>Prepare employee letters, contracts, reports. Support workforce planning, manpower budgeting, optimization efforts. Serve as main contact for employee employment issues.</li></ul><ul><li>Support HR team to implement innovative HR strategies that support talent attraction, development, retention. Drive employee engagement initiatives to strengthen workplace culture, performance.</li></ul><ul><li>Manage employee relations, performance management. Conduct job analysis, forecasting to determine future staffing needs.</li></ul><ul><li>Organize meeting, assist planning company events. Oversee daily administrative tasks to maintain efficient office operations. Monitor office inventory, equipment, maintenance contracts and track company assets.</li></ul><p><strong>Requirement:</strong></p><ul><li>Qualified with working experience, preferably in relevant industry.</li><li>Willingness to learn and demonstrates a positive working attitude.</li><li>Well-groomed, hygienic, and presentable at all times.</li><li>Experience in beauty, healthcare, postpartum care sector.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Employee Engagement",
+      "uuid": "83bcc1cf7f0bf55fc46290aeaf71ba27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "uuid": "9ad19466be36a021a93f871bbbc87c2d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Management",
+      "uuid": "ec665405336acd4dabdc93b50935ac7a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33491",
+  "occupationId": "OCC007488",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201933514H",
+    "description": null,
+    "name": "SJ 4 PTE. LTD.",
+    "ssicCode": "86202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T03:41:22.000Z",
+    "ssicCode2020": "86202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201933514H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201933514H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201933514H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201933514H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173292",
+    "deletedAt": null,
+    "createdBy": "11d419d7-6f99-4c47-ad00-622da13fea77",
+    "createdAt": "2026-01-28T04:06:25.000Z",
+    "updatedAt": "2026-01-28T04:06:26.000Z",
+    "emailRecipient": "11d419d7-6f99-4c47-ad00-622da13fea77",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 44,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/management-executive-sj-4-d394c5abe8b0676e912c55ffedef4545",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d394c5abe8b0676e912c55ffedef4545"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d394c5abe8b0676e912c55ffedef4545/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

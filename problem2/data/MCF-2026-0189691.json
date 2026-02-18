@@ -1,0 +1,199 @@
+{
+  "uuid": "9f353836200043cac97b52bdad7ef858",
+  "sourceCode": "Employer Portal",
+  "title": "Field Solutions Architect, Generative AI, Google Cloud (Mandarin) - Singapore",
+  "description": "<h3>Product area</h3><p>Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.</p><h3>Job description</h3><p>In this role, you will be an embedded builder who bridges the gap between Artificial Intelligence (AI) products and production-grade reality within customers. You will manage blocker to production including solving the integration complexities, data readiness issues, and state-management tests that prevent AI from reaching enterprise-grade maturity. You will be providing deployment of AI systems and act as a feedback loop, transforming field insights into Google Cloud’s future product road map.</p><h3>Qualifications</h3><h3>Job responsibilities</h3><ul><li>Serve as the lead developer for the AI applications, transitioning from prototypes to production-grade agentic workflows (e.g., multi-agent systems, MCP servers) that drive return-on-investment.</li><li>Architect and code the connections between Google’s AI products and customers' live infrastructure, including APIs, legacy data silos, and security perimeters.</li><li>Build evaluation pipelines and observability frameworks to ensure agentic systems meet requirements for safety.</li><li>Identify repeatable field patterns and technical friction points in Google’s AI stack, converting them into reusable modules or formal product feature requests for the engineering teams.</li><li>Co-build with customer engineering teams to instill Google-grade development best practices, ensuring project success and end-user adoption.</li></ul><h3>Minimum qualifications</h3><ul><li>Bachelor's degree in Science, Technology, Engineering, Mathematics, or equivalent practical experience.</li><li>6 years of experience in providing production-grade AI solutions to external or internal customers, and experience architecting AI systems on cloud platforms.</li><li>Experience leading technical discovery sessions with executive stakeholders and engineering teams to define AI and hardware infrastructure requirements.</li><li>Ability to communicate in Mandarin fluently to support client relationship management in this region.</li></ul><h3>Preferred qualifications</h3><ul><li>Master’s degree or PhD in AI, Computer Science, or a related technical field.</li><li>Experience implementing multi-agent systems using frameworks (e.g., LangGraph, CrewAI, or Google’s ADK) and patterns like ReAct, self-reflection, and hierarchical delegation.</li><li>Knowledge of Large Language Model (LLM)-native metrics (e.g., tokens/sec, cost-per-request) and techniques for enhanvcing state management and granular tracing.</li><li>Ability to implement agentic workflows incorporating<br />Model Context Protocol (MCP), tool-calling, and OAuth-based authentication.</li></ul>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Teamwork",
+      "uuid": "16c129bc8a57941c7cdb12241f1058fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Engineering Mathematics",
+      "uuid": "21f8deeab3ff29dbe8eabacce5cbd41c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "uuid": "5cd2adc9e2a5254e4c1da803519f298b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Relationship Management",
+      "uuid": "5e0277be453b4b61d6cccb9bdc95594c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Protocol",
+      "uuid": "888a77f5ac0748b6c8001822417df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Cloud",
+      "uuid": "bbc8a77007b660af585cca528771f800",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Authentication",
+      "uuid": "c75f7811d70d17dbcd88e9d03752cbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communications",
+      "uuid": "cf948ca3c9fa8aa0d50b7af90489dbab",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25113",
+  "occupationId": "OCC014589",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0599",
+  "postedCompany": {
+    "uen": "200817984R",
+    "description": "<p>GOOGLE ASIA PACIFIC PTE. LTD.</p>\r\n",
+    "name": "GOOGLE ASIA PACIFIC PTE. LTD.",
+    "ssicCode": "63120",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:51:06.000Z",
+    "ssicCode2020": "63120",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817984R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817984R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817984R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200817984R/schemes"
+      }
+    },
+    "logoFileName": "26b00abe7acb9b5449204a64fb45ab5a/google-asia-pacific.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/26b00abe7acb9b5449204a64fb45ab5a/google-asia-pacific.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "70",
+    "street": "PASIR PANJANG ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "MAPLETREE BUSINESS CITY",
+    "postalCode": "117371",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.27617859659935,
+    "lng": 103.800039933678
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189691",
+    "deletedAt": null,
+    "createdBy": "dd134370-1448-4e72-8afc-1ce12a0fee97",
+    "createdAt": "2026-01-30T08:26:57.000Z",
+    "updatedAt": "2026-01-30T08:26:58.000Z",
+    "emailRecipient": "dd134370-1448-4e72-8afc-1ce12a0fee97",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 103,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/field-solutions-architect-generative-ai-google-cloud-singapore-google-asia-pacific-9f353836200043cac97b52bdad7ef858",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 22000,
+    "minimum": 11000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f353836200043cac97b52bdad7ef858"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f353836200043cac97b52bdad7ef858/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

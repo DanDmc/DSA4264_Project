@@ -1,0 +1,229 @@
+{
+  "uuid": "2a7de9ee88e8101e7e57fc0891a6a2eb",
+  "sourceCode": "Employer Portal",
+  "title": "IT Operations & Security Intern",
+  "description": "<p><strong>Key Role 1: Infrastructure & End-User Support</strong></p><p>This section is focused on keeping day-to-day operations running smoothly and ensuring a good experience for all employees.</p><ul><li><u>Help Desk Triage & Resolution</u>: Serve as the Tier 1 point of contact for internal IT issues. This includes diagnosing and resolving problems related to hardware, operating systems, networking (VPN, Wi-Fi), and business applications (e.g., email, collaboration tools).</li><li><u>Asset Management & Deployment</u>: Assist with the entire lifecycle of IT assets. This includes preparing and deploying new laptops/devices, performing hardware inventories, and coordinating device collection and wiping for departing employees.</li><li><u>User Account Management</u>: Perform routine administrative tasks like creating, modifying, and disabling user accounts across various systems (e.g., Active Directory, cloud services) following established security protocols.</li><li><u>Routine Maintenance</u>: Conduct regular checks and maintenance on IT equipment and onsite clinic technology (e.g., security cameras) to ensure optimal functionality.</li></ul><p><strong>Key Role 2: Cybersecurity & Documentation</strong></p><p>This section provides exposure to core IT governance, risk, and compliance activities.</p><ul><li><u>Documentation & Knowledge Base</u>: Support with a IT Senior & Vendor on improving internal IT documentation. This involves creating and updating Standard Operating Procedures (SOPs), technical guides for internal systems, and user-friendly troubleshooting articles for the company knowledge base.</li><li><u>Policy Support</u>: Assist the IT team & inter-department in organizing and digitizing existing IT policies, such as Acceptable Use, Incident Response, and Data Backup procedures.</li><li><u>Security Monitoring & Review</u>: Assist in the review of basic security logs and reports (e.g., firewall logs, access reports) and escalate any unusual activity to the supervisor.</li><li><u>Security Awareness Assistance</u>: Help prepare simple training materials or infographics to promote cybersecurity best practices to the general staff, such as identifying phishing attempts.</li></ul><p><u>What the Intern Will Learn</u></p><p>By the end of the 6 months, the intern will gain valuable experience in:</p><ul><li><u>Customer Service in IT</u>: Effectively communicating with non-technical users to diagnose and resolve issues.</li><li><u>Practical Networking & OS Skills</u>: Hands-on experience with configuration, troubleshooting, and network basics.</li><li><u>IT Service Management (ITSM)</u>: Understanding and applying ticketing systems and IT service workflows.</li><li><u>Importance of Compliance</u>: The role of clear documentation and procedures in maintaining a secure and compliant IT environment.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Architecture",
+      "uuid": "09162aa1970c16d1328b5f8a48519a7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Management",
+      "uuid": "3fa1b4ed4bb9bd776a33dc08fd042f31",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Governance",
+      "uuid": "53e2044ef06b074cddb716a1e80e3274",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Integration",
+      "uuid": "626344660999389da9c6589588184206",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Tools",
+      "uuid": "6610f9d34d0252187120a02b66c88b5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RabbitMQ",
+      "uuid": "7eaa993723e57b3bfc99923c196e2e17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ticketing Systems",
+      "uuid": "8a7567355f652d580e1e3b157e068ffe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Automation",
+      "uuid": "8dbe7ba646ec896fd27a18a62fee60d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Phishing",
+      "uuid": "936b58ef16bb5c6235f8ef7be420ad21",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ruby",
+      "uuid": "9916d1fc59fe22cc046a2fe1615bc764",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud Services",
+      "uuid": "be0182262c2a113bbb6936e4e0451e50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ruby on Rails",
+      "uuid": "d41a9e3915fd905f6427a8e3770546cf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC014060",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201318328Z",
+    "description": "<p><strong>Oriental Remedies Group (ORG)</strong> is a leading patient-centred healthcare provider offering effective treatments grounded in Traditional Chinese Medicine (TCM) and enhanced with medical technology.</p>\n<p>We are a modern TCM with a start-up that grew from 5 to 60+ people strong in merely 3 years. Despite the pandemic, we continued with our expansion to provide more patients with quality healthcare. We recently expanded our Jurong East outlet and opened our 3rd outlet at Upper Thomson this year.</p>\n<p>Not only were we awarded the Best TCM Clinic of The Year in Asia Pacific Not only were we awarded the Best TCM Clinic of The Year in Asia Pacific by Global Health Asia-Pacific in 2021, but we were also featured during Prime Minister Lee’s 2022 May Day Rally speech for our safe and conducive workplace policies.</p>\n<p>ORG does things differently; we believe that our employees are the key drivers of the company. We provide our employees with equal opportunities to initiate change and have a say in the work that they do while supporting them with mentors to guide them through challenges.</p>\n<p>With Employee Growth in our DNA and our belief that a good life begins with a good company, we hope to grow our team with dynamic talents who are independent workers committed to a growth mindset.</p>\n<p>Come onboard an exciting journey with us and be part of the best TCM Clinic in Asia Pacific!</p>\n<p><br></p>\n<p><br></p>\n<p><strong>Why Should You Join Us?</strong></p>\n<p><br></p>\n<p><strong>GREAT CULTURE AND ATMOSPHERE:</strong></p>\n<p>Because the people here are Amazing and Crazily Fun. And you will get to have great autonomy in managing your priority and careers. You will definitely love it here in ORG. #workfam</p>\n<p><strong>ATTRACTIVE SALARY PACKAGE AND BENEFITS:</strong></p>\n<p>Because we offer benefits which are most desired and valued by people. The people in ORG are the backbone of the Company, and they are the core of everything we do; hence we believe in caring and investing in our employee's future.</p>\n<p><strong>GROWTH AND CAREER DEVELOPMENT:</strong></p>\n<p>Because the sky's the limit, and in ORG, we firmly believe that our employees' growth, development, and well-being are the most significant factor ever. Receive quality coaching from experienced managers from diverse backgrounds to grow in your skills and career.</p>\n<p><strong>DIVERSITY:</strong></p>\n<p>Because we are diverse, equity, and inclusion in ORG, we are an equal opportunity employer who makes decisions without regard to age, identity, gender, race, color, ethnicity, etc. We let our people be themself and accommodate each other's differences and grow together.</p>",
+    "name": "ORIENTAL REMEDIES INCORPORATED (PRIVATE LIMITED)",
+    "ssicCode": "47723",
+    "employeeCount": null,
+    "companyUrl": "https://www.orientalremediesgroup.com/",
+    "lastSyncDate": "2026-02-04T00:47:12.000Z",
+    "ssicCode2020": "47723",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201318328Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201318328Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201318328Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201318328Z/schemes"
+      }
+    },
+    "logoFileName": "d14b442655dfb2fdbb801b3149510b0d/oriental-remedies-incorporated.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/d14b442655dfb2fdbb801b3149510b0d/oriental-remedies-incorporated.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0185394",
+    "deletedAt": null,
+    "createdBy": "6bde9074-9c06-4124-b35a-68051e0751ba",
+    "createdAt": "2026-01-29T23:34:24.000Z",
+    "updatedAt": "2026-01-29T23:34:24.000Z",
+    "emailRecipient": "6bde9074-9c06-4124-b35a-68051e0751ba",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 44,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/operations-security-intern-oriental-remedies-incorporated-2a7de9ee88e8101e7e57fc0891a6a2eb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1000,
+    "minimum": 1000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a7de9ee88e8101e7e57fc0891a6a2eb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a7de9ee88e8101e7e57fc0891a6a2eb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

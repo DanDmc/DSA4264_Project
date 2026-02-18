@@ -1,0 +1,222 @@
+{
+  "uuid": "0e21974ddb3633113b25223f29d14735",
+  "sourceCode": "Employer Portal",
+  "title": "Receptionist",
+  "description": "<p>Gross: $2000 - $2300</p><p>5 day work week (rotating shift)</p><p>Working hours (8-hr shift):</p><ul><li>7.15am to 3.15pm or 1pm to 9pm on weekdays</li><li>7.30am to 3.30pm or 8am to 4pm on weekend/PH</li></ul><p><br /></p><p><u>Responsibilities</u></p><ul><li>Welcoming members & assisting with check-ins</li><li>Building rapport with new and existing members</li><li>Handling payments when required</li><li>Assisting with bookings, cancellations or requests by members</li><li>Achieving membership monthly target set by HQ</li><li>Attending to phone/walk-in/email/text enquiries</li><li>Actively seeking new sale opportunities</li><li>Maintaining studio's cleanliness</li><li>Printing and emailing EOD sales reports to Directors</li><li>All other ad-hoc duties given by Store Manager</li></ul><p><u>Requirements</u></p><ul><li>Pleasant personality and loves meeting new people</li><li>Relevant working experience in customer service and/or sales</li><li>Outstanding communication skills</li><li>Basic computer skills</li><li>A great team player with strong initiative</li><li>Ability to multitask</li><li>Reliable and punctual</li><li>Fluency in English oral and written. </li><li>Having a fitness background will be an added advantage!</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fitness",
+      "uuid": "5fdc392497df040d7becce28583ce58f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Yoga",
+      "uuid": "8be1c94fdc10945f5704322b08faa2a2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC009125",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "11",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201319229M",
+    "description": null,
+    "name": "SUMI SGP PTE. LTD.",
+    "ssicCode": "93111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:14:18.000Z",
+    "ssicCode2020": "93111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201319229M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201319229M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201319229M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201319229M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "KIM SENG PROMENADE",
+    "floor": null,
+    "unit": null,
+    "building": "GREAT WORLD CITY",
+    "postalCode": "237994",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29344052187939,
+    "lng": 103.832015762404
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1993594",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "c3244614-964a-4cc3-8f20-9d0bb1137732",
+    "createdAt": "2025-12-29T11:38:06.000Z",
+    "updatedAt": "2026-01-29T03:28:32.000Z",
+    "emailRecipient": "c3244614-964a-4cc3-8f20-9d0bb1137732",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 511,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/receptionist-sumi-sgp-0e21974ddb3633113b25223f29d14735",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2300,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0e21974ddb3633113b25223f29d14735"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0e21974ddb3633113b25223f29d14735/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

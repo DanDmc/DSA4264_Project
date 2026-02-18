@@ -1,0 +1,217 @@
+{
+  "uuid": "d347a0fd3614d1505407bb1fad3dea46",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Principal Data Scientist",
+  "description": "<p><strong>Get to Know the Team</strong></p><p>The Fulfilment Tech Family is an integral part of Grab, connecting our wide-ranging marketplaces across Southeast Asia. We develop real-time distributed systems and machine learning solutions to process hundreds of millions of requests daily, ensuring efficient allocation of supply, pricing, and seamless order matching.</p><p>Our mission:</p><ul><li><p>Build reliable and impactful products for driver-partners.</p></li><li><p>Optimize the ability to fulfil consumer needs in any conditions.</p></li><li><p>Develop sustainable marketplaces, balancing user experience and operational costs across stakeholders.</p></li></ul><p>We're hiring a Senior Principal Data Scientist to join the Fulfilment team. You're an individual contributor whom will lead strategic optimization initiatives that elevate pricing, dispatch, and supply management strategies. You'll combine in-depth data-driven methodologies with a strategic mindset to drive automation and marketplace efficiency.</p><p><strong>Get to Know the Role</strong></p><p>As a Senior Principal Data Scientist, you'll shape and advance cross-system Fulfilment strategies, accounting for how passengers and driver-partners respond to platform interventions. You'll leverage machine learning and operations research methodologies to optimize marketplace-level operational outcomes.</p><p>Through joint optimization across systems—pricing, dispatch, and supply positioning—you'll design interpretable, adaptable, and multi-objective-aware Reinforcement Learning decision agents. You'll model marketplace behaviour and develop policies to automate key aspects of platform operations, contributing lasting impact for customers, driver-partners, and Grab.</p><p>You'll report to the Head of Data Science and work onsite at Grab's One North Singapore office.</p><p><strong>The Critical Tasks You Will Perform</strong></p><p>You will:</p><p><ul><li>Develop ML and DL models to improve generalisation and operational efficiency</li><li>Create unified Reinforcement Learning architectures that coordinate multiple elements, including pricing, dispatch, and supply positioning, while balancing diverse marketplace objectives.</li><li>Design frameworks for joint optimization of marketplace systems through hierarchical or multi-agent RL approaches that push the operational Pareto frontier.</li><li>Explore representations of data that consider supply-demand signals, behaviour elasticity, and factors like weather, traffic, and user intent.</li><li>Build interpretable models to capture passenger and driver decision-making across diverse scenarios and operational conditions.</li><li>Devise feedback loops to respond to passenger and driver behaviour, considering geographical differences and behavioural patterns over time.</li><li>Collaborate with data engineers and backend teams to refine and integrate optimization models into real-time production systems.</li><li>Work with the platform and experimentation teams to validate models in live environments and drive iterative improvements.</li><li>Guide technical teams by leading efforts in data science while fostering collaboration and excellence.<br /></li></ul><p><strong>What Essential Skills You Will Need</strong></p><ul><li><p>You have a Master Degree in Computer Science, Operations Research, Applied Mathematics, or related field with at least 10 years of relevant experience.</p></li><li><p>You have experience with Reinforcement Learning, MDPs, stochastic control, or behavioural modelling under uncertainty.</p></li><li><p>You have experience deploying ML models in online learning systems, sequential decision frameworks, or simulation-based techniques for optimization tasks.</p></li><li><p>You have fluency in Python and experience with ML libraries such as PyTorch or TensorFlow for developing robust learning algorithms.</p></li><li><p>You are familiar with tools such as Spark or Ray to build scalable workflows for data-driven optimization and training.</p></li><li><p>You can bridge business challenges into concrete modelling problems with actionable outputs.</p></li><li><p>You have advanced skills to interpret platform data and understand marketplace elasticity, user behaviour, and external environmental influences, contributing to actionable insights for real-world applications.<br /></p><p>You may also apply directly via https://smrtr.io/wRtCm</p></li></ul></p>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "TensorFlow",
+      "uuid": "074dd699710da0ec1eb45f13b31788e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reinforcement Learning",
+      "uuid": "44f8995701f5e6cc074e161e0e2f6f24",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Simulation",
+      "uuid": "4f502b57d2835715eaa382c7d4c32e94",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations Research",
+      "uuid": "68db58a78f61ea6f56947d403fcda15b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "PyTorch",
+      "uuid": "95b88f180e9eb5678e0f9ebac2cbe643",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Science",
+      "uuid": "c78e2ad97b328dbafbd49edf182136f3",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Supply Management",
+      "uuid": "e607108917197d7b974d8ce3b7f5f708",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Applied Mathematics",
+      "uuid": "efe96e1d177e093ad171240c32127b5a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Design Management",
+      "uuid": "fbf2c5e9c9b685ef0a48516a2b03114c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC062568",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201316157E",
+    "description": "<p>Grab is Southeast Asia’s leading&nbsp;superapp. We provide everyday services such as&nbsp;deliveries, mobility, financial services, enterprise services&nbsp;and others to millions of users across the region. Powered by technology and driven by heart, our mission is to drive Southeast Asia forward by creating&nbsp;economic empowerment&nbsp;for everyone. If this mission speaks to you, join our team today.</p>\n<p><br></p>\n<p>Please proceed to Grab career page for submission of job application at&nbsp;http://grab.careers/&nbsp;</p>\n<p>&nbsp;</p>",
+    "name": "GRABTAXI HOLDINGS PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:53:11.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201316157E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201316157E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201316157E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201316157E/schemes"
+      }
+    },
+    "logoFileName": "e0ce6217f41d15293ce91aad523de3be/grabtaxi-holdings.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e0ce6217f41d15293ce91aad523de3be/grabtaxi-holdings.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "MEDIA CLOSE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "138498",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172622",
+    "deletedAt": null,
+    "createdBy": "23a7567a-4a13-4b78-ba4b-eb13bdd571c7",
+    "createdAt": "2026-01-28T03:03:29.000Z",
+    "updatedAt": "2026-01-28T03:03:29.000Z",
+    "emailRecipient": "23a7567a-4a13-4b78-ba4b-eb13bdd571c7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 151,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 13,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-principal-data-scientist-grabtaxi-holdings-d347a0fd3614d1505407bb1fad3dea46",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 22500,
+    "minimum": 15000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d347a0fd3614d1505407bb1fad3dea46"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d347a0fd3614d1505407bb1fad3dea46/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

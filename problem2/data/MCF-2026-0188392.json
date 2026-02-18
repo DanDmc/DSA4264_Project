@@ -1,0 +1,234 @@
+{
+  "uuid": "a1531cb0ccba0a9262b24774a5de4b16",
+  "sourceCode": "Employer Portal",
+  "title": "WAITER / WAITRESS",
+  "description": "<p><strong>Job Responsibilities including but not limited to:</strong><br /></p><ul><li>Welcoming and seating guests</li><li>Taking food and beverage orders from guests</li><li>Having knowledge of the general wine, beer, and alcoholic beverages the club serves</li><li>Able to give suggestions based on customers' preference</li><li>Always maintain a clean and tidy area</li><li>Handling multiple tables and tasks in an efficient manner.</li><li>Transport is provided</li><li>Assist in any ad-hoc tasks assigned</li></ul><p><strong>Requirements:</strong></p><ul><li>Provide excellent customer service in a fast-paced environment</li><li>Proactive, team player</li><li>Exceptional interpersonal & communication skills</li><li>Able to work nights, weekends and holidays</li><li>Approachable, with a professional appearance</li><li>Have an eye for detail and understanding guests' needs</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Italian",
+      "uuid": "4be8e06d27bca7e1828f2fa9a49ca985",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multitasking Skills",
+      "uuid": "4d2c52bb0cb2cc92442a722c5057dc6a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furnishings",
+      "uuid": "5ebd7102d4d22238c040eb59d1f2b9b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wine",
+      "uuid": "b9eadba3c35f7f89e93c92eb2c8d39b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51312",
+  "occupationId": "OCC009313",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 6,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202145012C",
+    "description": "<p>Total Manpower Pte. Ltd (UEN 202145012C) was incorporated&nbsp;in 2021.</p>\n<p>We provide both cleaning and manpower supply services. Our cleaning services include both part-time residential cleaning and commercial cleaning of F&amp;B outlets. The manpower services which we provide are stewards for events, public service attendants and hotel housekeeping staff.</p>\n<p>Total Manpower strives to provide effective&nbsp;communication to our clients, helping to ensure a professional and efficient relationship. Helping us to develop a continued relationship with which we can ensure optimum customer satisfaction with all services which we provide.</p>",
+    "name": "TOTAL MANPOWER PTE. LTD.",
+    "ssicCode": "81212",
+    "employeeCount": 60,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T01:12:24.000Z",
+    "ssicCode2020": "81212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145012C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145012C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145012C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202145012C/schemes"
+      }
+    },
+    "logoFileName": "f7cead7f83a8bf730fe2b6a096464038/total-manpower.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f7cead7f83a8bf730fe2b6a096464038/total-manpower.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "18",
+    "street": "HOWARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "NOVELTY BIZCENTRE",
+    "postalCode": "369585",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33421843290141,
+    "lng": 103.885796434921
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188392",
+    "deletedAt": null,
+    "createdBy": "43bba328-5ed9-46e1-b8a2-4a68105a021f",
+    "createdAt": "2026-01-30T06:22:07.000Z",
+    "updatedAt": "2026-01-30T06:22:07.000Z",
+    "emailRecipient": "43bba328-5ed9-46e1-b8a2-4a68105a021f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 35,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/waiter-waitress-total-manpower-a1531cb0ccba0a9262b24774a5de4b16",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2200,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a1531cb0ccba0a9262b24774a5de4b16"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a1531cb0ccba0a9262b24774a5de4b16/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

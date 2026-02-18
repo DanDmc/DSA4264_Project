@@ -1,0 +1,197 @@
+{
+  "uuid": "f27bc103dd43a1181345f8bbe5dafbab",
+  "sourceCode": "Employer Portal",
+  "title": "Front Desk / Reception",
+  "description": "<p><strong>Job Description</strong></p>\n<ul>\n  <li>Handle customer appointments, calls and register new customers</li>\n  <li>Process transactions on the checked out computer system</li>\n  <li>Provide customers with high-quality customer service and treatment suggestions</li>\n  <li>Establish relationships with existing and new customers to maximize sales opportunities</li>\n  <li>Handle customer questions and feedback</li>\n  <li>Provide professional consultation and customer needs assessment</li>\n  <li>Follow up inquiries about customers' treatment methods and purchased products</li>\n</ul>\n<p><strong>Job Requirements</strong></p>\n<ul>\n  <li>Experienced in reception service</li>\n  <li>On-job training provided</li>\n  <li>Good communication skills and willing to learn</li>\n  <li>Basic computer knowledge and skills</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Front Office",
+      "uuid": "0558c4724c1321605189662a0e3f66f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rooms Division",
+      "uuid": "0e84dec0f2247aea5324f0e072f6d4cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC009127",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "201133441K",
+    "description": null,
+    "name": "YONG KANG TCM CLINIC PTE. LTD.",
+    "ssicCode": "86202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:28:12.000Z",
+    "ssicCode2020": "86202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153441",
+    "deletedAt": null,
+    "createdBy": "fe423b2d-354c-4f91-93be-884eba910e62",
+    "createdAt": "2026-01-25T12:17:46.000Z",
+    "updatedAt": "2026-01-25T12:17:46.000Z",
+    "emailRecipient": "fe423b2d-354c-4f91-93be-884eba910e62",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 176,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 21,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/front-desk-reception-yong-kang-tcm-clinic-f27bc103dd43a1181345f8bbe5dafbab",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f27bc103dd43a1181345f8bbe5dafbab"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f27bc103dd43a1181345f8bbe5dafbab/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

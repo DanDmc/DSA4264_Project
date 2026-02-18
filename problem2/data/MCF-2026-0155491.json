@@ -1,0 +1,238 @@
+{
+  "uuid": "d0de768ed3101809bdec540aecae8b57",
+  "sourceCode": "Employer Portal",
+  "title": "Staff Nurse (Inpatient Wards)",
+  "description": "<p><strong>Job Description</strong></p><p>You will be part of a multidisciplinary team responsible for providing safe and high-quality nursing care. You must be competent in the assessment, planning, implementation and evaluation of care. You will conduct health education and patient counselling. Nurses with more experience will need to demonstrate abilities in coaching, teaching and presentation skills.<br /></p><p><strong>Job Requirements</strong></p><ul><li>Degree/Diploma in Nursing</li><li>Registered with Singapore Nursing Board</li><li>Post-basic nursing qualification preferred</li><li>Able to beform rotating shifts</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ICU",
+      "uuid": "26bf7a7e68c0acc2c819ec1621630389",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitals",
+      "uuid": "2bc847796054c051667ee4170b25ae41",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Health Education",
+      "uuid": "35ff2adba3ca06ee7d601c1ca168fc90",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Theatre",
+      "uuid": "46abaf0ddcb73d5e90d6a09439713431",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Improvement",
+      "uuid": "4878c13f97a57cf6c56adfe645e0f537",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Infection Control",
+      "uuid": "5a089e9aa9c19f7297f2ad669d21baec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Photos",
+      "uuid": "5daaf223b01f8f3e1bd9287170826fbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medication Administration",
+      "uuid": "704e3e58602b30c3713a0bac9d71d0da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accent",
+      "uuid": "c900e1bd8e22771d610bd2a5861b544f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Care",
+      "uuid": "dfe9a5014f4387967da54a6e80631e69",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22200",
+  "occupationId": "OCC006676",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 40,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0841",
+  "postedCompany": {
+    "uen": "198904227G",
+    "description": null,
+    "name": "KK WOMEN'S AND CHILDREN'S HOSPITAL PTE. LTD.",
+    "ssicCode": "86101",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:18:21.000Z",
+    "ssicCode2020": "86101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198904227G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198904227G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198904227G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198904227G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "100",
+    "street": "BUKIT TIMAH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "KK WOMEN'S AND CHILDREN'S HOSPITAL",
+    "postalCode": "229899",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31044853126538,
+    "lng": 103.846650072852
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155491",
+    "deletedAt": null,
+    "createdBy": "88d1a739-881c-4f30-9f44-0a323dc7ee80",
+    "createdAt": "2026-01-26T02:07:46.000Z",
+    "updatedAt": "2026-01-26T02:07:46.000Z",
+    "emailRecipient": "88d1a739-881c-4f30-9f44-0a323dc7ee80",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 86,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/staff-nurse-kk-womens-childrens-hospital-d0de768ed3101809bdec540aecae8b57",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d0de768ed3101809bdec540aecae8b57"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d0de768ed3101809bdec540aecae8b57/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

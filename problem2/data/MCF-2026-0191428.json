@@ -1,0 +1,224 @@
+{
+  "uuid": "79499cf436847175d3236abe3e84f496",
+  "sourceCode": "Employer Portal",
+  "title": "Admin Assistant",
+  "description": "<p><strong>Working Location: Kaki Bukit</strong></p><p><strong>Working Hours: 830am - 530pm</strong></p><p><strong>Salary: $2500 - $3300</strong></p><p>We are looking for a <strong>responsible and detail-oriented Admin Assistant</strong> to support our daily office operations.</p><p><strong>Job Responsibilities:</strong></p><ul><li><p>General administrative duties (filing, data entry, document preparation)</p></li><li><p>Handling emails, phone calls, and basic correspondence</p></li><li><p>Assist with invoices, purchase orders, and simple reporting</p></li><li><p>Coordinate with internal teams and external parties</p></li><li><p>Other ad-hoc administrative tasks as assigned</p></li></ul><p><strong>Requirements:</strong></p><ul><li><p>At least <strong>1–2 years of administrative experience</strong> preferred</p></li><li><p>Proficient in <strong>Microsoft Office (Word, Excel, Outlook)</strong></p></li><li><p>Able to work independently and meet deadlines</p></li><li><p>Good communication and organisational skills</p></li></ul><p><strong>Added Advantage:</strong></p><ul><li><p><strong>Basic shipping / logistics experience</strong> (e.g. documentation, coordination with forwarders, delivery tracking) will be an advantage, but <strong>not mandatory</strong></p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "201408964Z",
+    "description": "<p>IDEALS RECRUITMENT PTE LTD offers a wide range of consulting services with the necessary tools and expertise to help grow your business. We partner with our clients from start to finish, focusing on their needs while producing new ideas, developing effective strategies and designing high quality and scalable solutions. Contact us to learn more.</p>",
+    "name": "IDEALS RECRUITMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T10:25:03.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201408964Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201408964Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201408964Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201408964Z/schemes"
+      }
+    },
+    "logoFileName": "5cbb3ecbcdda8a8f0ac38d10caf3561e/ideals-recruitment.gif",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5cbb3ecbcdda8a8f0ac38d10caf3561e/ideals-recruitment.gif",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "IRVING PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "THE COMMERZE@IRVING",
+    "postalCode": "369546",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.3362367870862,
+    "lng": 103.88643382511
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191428",
+    "deletedAt": null,
+    "createdBy": "f16be098-c971-47d3-87b5-46f8fdaa370c",
+    "createdAt": "2026-01-30T10:53:36.000Z",
+    "updatedAt": "2026-01-30T10:53:37.000Z",
+    "emailRecipient": "f16be098-c971-47d3-87b5-46f8fdaa370c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 262,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 48,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-ideals-recruitment-79499cf436847175d3236abe3e84f496",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3300,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/79499cf436847175d3236abe3e84f496"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/79499cf436847175d3236abe3e84f496/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

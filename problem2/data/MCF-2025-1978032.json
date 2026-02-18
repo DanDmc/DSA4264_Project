@@ -1,0 +1,193 @@
+{
+  "uuid": "0524495c2e06db5427e2d980e4b41363",
+  "sourceCode": "Employer Portal",
+  "title": "Part Time Admin Assistant",
+  "description": "<p><strong>Hey you — yes, you!</strong></p><p>If you’re organised, detail-oriented, and can juggle multiple tabs like a pro (on your screen <em>and</em> in life), we’d love to meet you.</p><p>Whether you’re kickstarting your career or looking to sharpen your admin skills, this role gives you hands-on exposure to the insurance and finance industry, along with a supportive team, a positive environment, and clear opportunities to grow.</p><p><strong>What You’ll Be Doing</strong></p><p>Liaise with clients in a friendly, professional manner</p><p>Handle documentation, submissions, and follow-ups</p><p>Keep digital and physical records organised and updated</p><p>Provide administrative support to the sales team</p><p><strong>You’ll Be a Great Fit If You…</strong></p><p>Are organised, responsible, and communicate clearly</p><p>Are comfortable with Microsoft Office (Canva is a bonus!)</p><p>Have prior admin or insurance experience — helpful but not required</p><p>Enjoy staying on top of tasks and checking things off your list</p><p>Are a positive, reliable team player</p><p><strong>What’s In It for You</strong></p><p>A genuinely supportive team that’s always ready to help</p><p>Real industry exposure and practical skills you’ll actually use</p><p>Clear pathways for long-term career progression</p><p>A chill yet professional work culture that values balance and teamwork</p><p>If you’re ready to learn, grow, and contribute to a team that cares, we’d love to hear from you.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written English",
+      "uuid": "2ce9835ef0555e4920613df70c01ecb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Canva",
+      "uuid": "776828efa2737f017d05c533df1f8041",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ab Testing",
+      "uuid": "d24eaf7c05337fd86979ecd96b975707",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Analytics",
+      "uuid": "d86cf69a8b82547a94ca3f6a307cf9a6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Viral Marketing",
+      "uuid": "da640e42a3a40404bf3b608e1922b823",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Analytics",
+      "uuid": "fd177190c3b4464c0206683c00150aff",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "11150",
+  "occupationId": "OCC000029",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0599",
+  "postedCompany": {
+    "uen": "53481046B",
+    "description": null,
+    "name": "CREATIVESDOT",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:56:33.000Z",
+    "ssicCode2020": "82303",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481046B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481046B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481046B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53481046B/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1978032",
+    "deletedAt": "2026-01-25T17:15:04.000Z",
+    "createdBy": "03b00a4f-0288-45b9-8150-6bce1187b681",
+    "createdAt": "2025-12-26T01:40:56.000Z",
+    "updatedAt": "2026-01-26T08:58:13.000Z",
+    "emailRecipient": "03b00a4f-0288-45b9-8150-6bce1187b681",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 2918,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 259,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/part-time-admin-assistant-creativesdot-0524495c2e06db5427e2d980e4b41363",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 1200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0524495c2e06db5427e2d980e4b41363"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0524495c2e06db5427e2d980e4b41363/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

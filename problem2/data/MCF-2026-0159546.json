@@ -1,0 +1,239 @@
+{
+  "uuid": "ba7347f407f8fc2520329d72de2c77a3",
+  "sourceCode": "Employer Portal",
+  "title": "Field Services Technician",
+  "description": "<p><strong>Job Description</strong></p><p>· Services and maintance equipments at customers' sites</p><p>· Check and monitor the performance of the installed equipments</p><p>· Carry out preventive maintenance services of the installed equipments</p><p>· Provide quality repair services which include troubleshoot of equipment problems, identify root cause, rectify defects and restore equipment operation</p><p>· Replacement of defective units, components or parts where appropriates</p><p>· Cleaning for components or parts where appropriates</p><p>· Able to work in Fab environment and perform standby duties</p><p>· Perform other related duties as assigned by supervisors</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Field Service",
+      "uuid": "1306ca34d307dfc008db6370ee290c3d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multitasking Skills",
+      "uuid": "4d2c52bb0cb2cc92442a722c5057dc6a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Counseling",
+      "uuid": "6791e85a01bb2e17b923d2f2e8574a9e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Petrochemical",
+      "uuid": "dcf84f2c6c4586a2863d1a153804b16a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Facilitation",
+      "uuid": "e141d61309d06eb02ea67f44dd876d32",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Staff Development",
+      "uuid": "ea0841165fa0a1cadbb2bb7329e33ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Safety Training",
+      "uuid": "ef711fddca21bb190be27dc2b385573f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Navisworks",
+      "uuid": "fed409c180d5aab2032401bcc9510d0d",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "202006209N",
+    "description": null,
+    "name": "SGST PTE. LTD.",
+    "ssicCode": "28299",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T07:48:51.000Z",
+    "ssicCode2020": "28299",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006209N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006209N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006209N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006209N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "280",
+    "street": "WOODLANDS INDUSTRIAL PARK E5",
+    "floor": null,
+    "unit": null,
+    "building": "HARVEST @ WOODLANDS",
+    "postalCode": "757322",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45132505713205,
+    "lng": 103.79109517658
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159546",
+    "deletedAt": null,
+    "createdBy": "ec0e4b0e-e6c4-4151-becb-e45d9ac33ffa",
+    "createdAt": "2026-01-26T08:37:56.000Z",
+    "updatedAt": "2026-01-26T08:37:56.000Z",
+    "emailRecipient": "ec0e4b0e-e6c4-4151-becb-e45d9ac33ffa",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 108,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/field-services-technician-sgst-ba7347f407f8fc2520329d72de2c77a3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ba7347f407f8fc2520329d72de2c77a3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ba7347f407f8fc2520329d72de2c77a3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

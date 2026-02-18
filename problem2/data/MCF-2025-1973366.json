@@ -1,0 +1,238 @@
+{
+  "uuid": "05e6fb53773ee97c5c1b44950c3f70ea",
+  "sourceCode": "Employer Portal",
+  "title": "Staff Software Engineer, Backend",
+  "description": "<p><strong>About Airwallex</strong></p><p>Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 150,000 businesses worldwide – including Brex, Rippling, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.</p><p>Proudly founded in Melbourne, we have a team of over 1,700 of the brightest and most innovative people in tech across 26 offices around the globe. Valued at US$6.2 billion and backed by world-leading investors including Visa, Airtree, Blackbird, Sequoia, DST Global, Greenoaks, Salesforce Ventures, Lone Pine, and Square Peg, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.</p><p>Airwallex is a rapidly growing fintech unicorn, founded in 2015 and now flourishing at the Series E financing stage.  With a global footprint across Asia-Pacific, Europe, North America, and APAC, we specialize in providing diverse financial payment solutions for B2B merchants, empowering businesses to operate seamlessly anywhere, anytime.</p><h2>What you’ll do</h2><p>As a Staff Software Engineer, you will be responsible for designing and building the core services that power our platform. You will tackle complex technical challenges, ensuring our systems remain highly available, scalable, and efficient as we continue to grow globally.<br /></p><h3>Responsibilities:</h3><ul><li><p>Architecting Scalable Systems: Design and implement robust, high-performance backend services capable of handling high-volume traffic and complex data workflows.</p></li><li><p>Optimizing Distributed Infrastructure: Build and maintain reliable internal and external-facing systems, focusing on low latency and high availability.</p></li><li><p>Enhancing Data Retrieval: Develop and optimize search and data platforms to ensure fast and accurate information retrieval across distributed datasets.</p></li><li><p>Driving Engineering Excellence: Lead technical initiatives, perform deep-dive code reviews, and mentor junior engineers to maintain high standards of code quality and system design.</p></li><li><p>Cross-Functional Collaboration: Partner with Product, DevOps, and Security teams to translate business requirements into scalable technical solutions.</p></li></ul><h1>Who you are</h1><p>We're looking for people who meet the minimum qualifications for this role. The preferred qualifications are great to have, but are not mandatory.</p><h3>Minimum qualifications:</h3><p><ul><li>More than 8 years of experience in Internet application / large financial system / e-commerce platform development;</li><li>Bachelor degree in computer science and related majors;</li><li>Proficient in Java and other coding languages, familiar with Java multi-threading, high concurrency, IO / NIO, network communication, etc .;</li><li>Familiar with commonly used design patterns, with experience in design and development of large-scale distributed, high concurrency, high load, high availability systems;</li><li>Master various common server technologies, which can optimize service response and data query, ensure various service quality, and solve the problems of high concurrency and high availability;</li><li>Familiar with Spring / Spring Boot and RESTful services;</li></ul></p><h3>Preferred qualifications:</h3><ul><li>Performance Engineering: Experience with advanced profiling (e.g., flame graphs) and system-level optimization.</li><li>Observability & Reliability: Familiarity with monitoring, tracing, and logging tools (Prometheus, Jaeger, ELK) to maintain system health.</li><li>Open Source Contributor: You actively follow or contribute to the open-source community and enjoy bringing cutting-edge industry trends into your work.</li><li>Familiarity with Kubernetes and Docker.</li></ul><ul></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Information Retrieval",
+      "uuid": "00e6c77594614c63f1a543c7056159f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unicorn",
+      "uuid": "393eb74047bb90c8d80dea54218430ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Systems Design",
+      "uuid": "d3832008797f45e85bfa29bec649a659",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rust",
+      "uuid": "f5e265d607cb720058fc166e00083fe8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002134",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1973366",
+    "deletedAt": "2026-01-23T17:15:07.000Z",
+    "createdBy": "493e972c-c07a-49ef-8384-05515285f514",
+    "createdAt": "2025-12-24T06:56:49.000Z",
+    "updatedAt": "2026-01-26T05:38:31.000Z",
+    "emailRecipient": "7a4faa36-ff4e-4ccb-a786-a7b54629665c",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 322,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-24",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 24,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/staff-software-engineer-backend-airwallex-05e6fb53773ee97c5c1b44950c3f70ea",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 26700,
+    "minimum": 15800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/05e6fb53773ee97c5c1b44950c3f70ea"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/05e6fb53773ee97c5c1b44950c3f70ea/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

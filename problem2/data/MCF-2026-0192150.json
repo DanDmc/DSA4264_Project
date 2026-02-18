@@ -1,0 +1,244 @@
+{
+  "uuid": "9aead797b1e0bca38040efa7bcf2df5f",
+  "sourceCode": "Employer Portal",
+  "title": "Marketing Associate",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><strong>Strategy & Planning:</strong> Develop and implement comprehensive sales and marketing plans to achieve business objectives.</li><li><strong>Market Analysis:</strong> Research industry trends, competitor activities, and consumer behavior to identify opportunities.</li><li><strong>Campaign Management:</strong> Plan, execute, and monitor marketing campaigns (digital, social media, advertising) to increase brand awareness.</li><li><strong>Sales Execution:</strong> Generate leads, manage key accounts, and meet/exceed sales quotas.</li><li><strong>Collaboration:</strong> Coordinate with product, sales, and creative teams to ensure consistent brand messaging.</li><li><strong>Performance Tracking:</strong> Utilize CRM software (e.g., Salesforce, HubSpot) and analytics to analyze data and report on ROI, conversion rates, and KPIs.</li><li><strong>Budgeting:</strong> Manage marketing budgets and allocate resources for promotional activities. </li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Producing",
+      "uuid": "1943da116b4d2db7d17c78d7bc64ac92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Media",
+      "uuid": "3ce446e5cb3c779f621bb5ee76e666c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Content Marketing",
+      "uuid": "8b09f48c635b8bfacfd3bd4cd2b735cd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Digital Marketing",
+      "uuid": "9f48c58dc921bf2333df287cd82ed21b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Facebook",
+      "uuid": "d85544fce402c7a2a96a48078edaf203",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "LinkedIn",
+      "uuid": "e884c507c5198a4578a84498f7a323e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Services",
+      "uuid": "f279b250fb9ccc9ae5a43849e8f6fd4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Brand Awareness",
+      "uuid": "ff293c8866801a6120be5fab82c309bf",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "53502130E",
+    "description": null,
+    "name": "J.S.F",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:39:21.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "VICTORIA WHOLESALE CENTRE",
+    "postalCode": "339508",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31120876952715,
+    "lng": 103.867482955196
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192150",
+    "deletedAt": null,
+    "createdBy": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "createdAt": "2026-01-30T19:22:08.000Z",
+    "updatedAt": "2026-01-30T19:22:09.000Z",
+    "emailRecipient": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 60,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/marketing-associate-jsf-9aead797b1e0bca38040efa7bcf2df5f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9aead797b1e0bca38040efa7bcf2df5f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9aead797b1e0bca38040efa7bcf2df5f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

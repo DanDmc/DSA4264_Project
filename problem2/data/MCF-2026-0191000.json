@@ -1,0 +1,226 @@
+{
+  "uuid": "2e99bc3775e7a51d296bd2b2e7b17c77",
+  "sourceCode": "Employer Portal",
+  "title": "Document Controller",
+  "description": "<p><strong>Job Description &amp; Requirements:</strong></p>\n<ul>\n  <li>Control incoming and outgoing project records in accordance with established procedures</li>\n  <li>Duplicate and distribute documents</li>\n  <li>Facilitate timely document review, approval and documentation in an effective and efficient manner</li>\n  <li>Control all aspects of documentation throughout project's life cycle including:</li>\n  <li>Catalogue, post, distribute, track and compile hard and softcopy documents at all project stages</li>\n  <li>Assist project team by coordinating document status and distribution</li>\n  <li>Audit documents to ensure that project files are current and all stakeholders are adopting the prescribed documentation protocol</li>\n  <li>Ensure Project Documental Control policies and procedures to assist in maintaining a current and organized project document management system</li>\n  <li>Provide support for change control and document control processes for the project</li>\n  <li>Track all documents correspondences and transactions</li>\n  <li>file and archive documentation to facilitate easy retrieval</li>\n  <li>Assist completion of requests, searches and queries</li>\n  <li>Prepare and handover all final as-built documentation</li>\n</ul>\n<p><strong>Criteria:</strong></p>\n<ul>\n  <li>Minimum O levels certificate or equivalent</li>\n  <li>at least 5 years of relevant working experience in registry and document management</li>\n  <li>Good document control skills; knowledge on ISO 9001 standards will be preferred</li>\n  <li>Good working knowledge of MS Office and adept at spreadsheets and file management systems</li>\n  <li>Prior experience with Project Information Management and Electronic Document Management Systems (EDMS)</li>\n  <li>Working hours: Monday - Friday, 8:30am - 6pm</li>\n</ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Document Management",
+      "uuid": "04ab7e9520f65aa6c1c1c1eb8c397873",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Archiving",
+      "uuid": "2fc383c67ed70aa7f93a5ece39b4abf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Management",
+      "uuid": "504fa9b15a591d74f69c9ffb27660caf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Protocol",
+      "uuid": "888a77f5ac0748b6c8001822417df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO 9001",
+      "uuid": "a1640973c6ce65848490a25025c4c1a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spreadsheets",
+      "uuid": "b8f91a58bd97d3f35c54f6e3bb009ee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Control",
+      "uuid": "bbc49b5e6e2338a046a0f3dd110a3042",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Document Review",
+      "uuid": "f31a51ebecf7be9f669e3d9e7bf0e345",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "201501103E",
+    "description": null,
+    "name": "JCVL PTE. LTD.",
+    "ssicCode": "43301",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:22:23.000Z",
+    "ssicCode2020": "43301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201501103E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201501103E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201501103E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201501103E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "421",
+    "street": "TAGORE INDUSTRIAL AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "TAGORE 8",
+    "postalCode": "787805",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 26,
+        "location": "D26 Upper Thomson, Springleaf",
+        "region": "North",
+        "sectors": [
+          "77",
+          "78"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38440517958786,
+    "lng": 103.82673048237
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191000",
+    "deletedAt": null,
+    "createdBy": "1eae04e2-f027-44f3-b798-0e3c17e737c3",
+    "createdAt": "2026-01-30T09:44:47.000Z",
+    "updatedAt": "2026-01-30T09:44:47.000Z",
+    "emailRecipient": "1eae04e2-f027-44f3-b798-0e3c17e737c3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 83,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/document-controller-jcvl-2e99bc3775e7a51d296bd2b2e7b17c77",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3400,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e99bc3775e7a51d296bd2b2e7b17c77"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e99bc3775e7a51d296bd2b2e7b17c77/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,239 @@
+{
+  "uuid": "f7ad040437db6219d2dc025a17bdf7be",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps & Application Engineer",
+  "description": "<p><strong>Role: DevOps & Application Engineer</strong><br /><strong>Location: Singapore</strong><br /><br /><strong>We are partnering with a leading telecom client</strong> to hire a DevOps & Application Engineer to drive cloud-native delivery, CI/CD automation, and Kubernetes operations.</p><p><strong>Responsibilities:</strong></p><ul><li>Design and manage CI/CD pipelines using Jen​kins (Pipeline-as-Code)</li><li>Administer Kubernetes clusters (EKS / OpenShift) and Helm charts</li><li>Implement GitOps workflows (ArgoCD / Flux)</li><li>Build and manage AWS infrastructure using Terraform / CloudFormation</li><li>Contribute application code in Python, Go, or TypeScript</li><li>Set up observability using Splunk, Prometheus, Grafana, CloudWatch<br /></li></ul><h3>Requirements</h3><ul><li>4+ years of experience in DevOps / SRE / Software Engineering</li><li>Strong hands-on experience with Kubernetes, Jenkins, and AWS</li><li>Experience with Infrastructure as Code and GitOps</li><li>Comfortable with Linux, networking, and scripting</li><li>CKA / CKAD / AWS certifications are a plus</li></ul><p><br /><em>UEN: 202329526G</em></p><p><em>EA Licence: 23S2061</em></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Integration",
+      "uuid": "626344660999389da9c6589588184206",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HVAC",
+      "uuid": "6ace317b96ae4d73c074b5e1d6694b86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural Design",
+      "uuid": "785c5656fe371b831dd0da75c09b3931",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ruby",
+      "uuid": "9916d1fc59fe22cc046a2fe1615bc764",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013731",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "202329526G",
+    "description": null,
+    "name": "CYGNIFY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:55:32.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329526G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "PAYA LEBAR ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA LEBAR SQUARE",
+    "postalCode": "409051",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31881487007652,
+    "lng": 103.892580778514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181505",
+    "deletedAt": null,
+    "createdBy": "e0174bfc-8989-4975-b547-82894e6d05bf",
+    "createdAt": "2026-01-29T06:49:35.000Z",
+    "updatedAt": "2026-01-29T06:49:35.000Z",
+    "emailRecipient": "e0174bfc-8989-4975-b547-82894e6d05bf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 76,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devops-application-engineer-cygnify-f7ad040437db6219d2dc025a17bdf7be",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f7ad040437db6219d2dc025a17bdf7be"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f7ad040437db6219d2dc025a17bdf7be/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,239 @@
+{
+  "uuid": "044a62657914ab433934665113b86c0b",
+  "sourceCode": "Employer Portal",
+  "title": "Course Facilitator/STEM Teacher",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>Innoreal is an education company that engages in grade 1-12 education and career guidance services. It advocates AI literacy and entrepreneurship from childhood and focuses on skill development in both fields. It also supports students with tutoring and college applications.</p><p><strong>Job Summary</strong></p><p>You will empower students to develop practical skills in Python, Data Science, and Machine Learning by guiding them through building models and debugging code. You will also deliver engaging, hands-on activities in Scratch AI, Robotics (Viam/LEGO), and Generative Art to make AI concepts tangible and enjoyable.</p><p><strong>Responsibilities</strong></p><ul><li>Guide students to build and debug Python-based data science and machine learning models, enhancing their coding proficiency and problem-solving skills</li><li>Design and facilitate tactile, unplugged activities using Scratch AI, Robotics (Viam/LEGO), and Generative Art to teach AI logic in an interactive and accessible manner</li><li>Foster student engagement by creating learning experiences that translate complex AI concepts into physical, fun exercises</li><li>Support students’ understanding of computer science fundamentals through practical, outcome-driven instruction</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Background in computer science as a teacher, major, or related job field<br />International school Teacher <br />Fun Creative Know enquire based learning</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom",
+      "uuid": "2ead8d76b6d90b9fb936942bce887c09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multimedia",
+      "uuid": "2f56b4f336dc97edf739bf79523fb9a6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Literacy",
+      "uuid": "4296cdaff1b9d979ae77f796e301e1b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom Management",
+      "uuid": "444d06ef756650f524f7fc8a7f13e0a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Entrepreneurship",
+      "uuid": "87fabb18f38548d73b059a44d5e2d059",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Public Speaking",
+      "uuid": "88aed6f147c2a31687cab0ff9d89b1e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scratch",
+      "uuid": "a53f4cee63e4f783b0d8dded8760cfba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Science",
+      "uuid": "c78e2ad97b328dbafbd49edf182136f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Facilitation",
+      "uuid": "e141d61309d06eb02ea67f44dd876d32",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tutoring",
+      "uuid": "f4f4079bd2ad5479846c25dd54b4a748",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "23400",
+  "occupationId": "OCC004033",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "53476756K",
+    "description": "<p>Innoreal is an education company that engages in grade 1-12 education + career guidance service. It advocates AI literacy and enterpreneruship since childhood and focus skill developments in both fileds. It also helps Students in terms of tutoring and college applications</p>",
+    "name": "INNOREAL",
+    "ssicCode": null,
+    "employeeCount": 2,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T01:39:57.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53476756K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53476756K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53476756K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53476756K/schemes"
+      }
+    },
+    "logoFileName": "3513591ae02686f49665ce2b9bf5ec78/innoreal.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3513591ae02686f49665ce2b9bf5ec78/innoreal.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6",
+    "street": "WOODGROVE WALK",
+    "floor": null,
+    "unit": null,
+    "building": "CENTURY WOODS",
+    "postalCode": "738149",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.4275523868655,
+    "lng": 103.777075647571
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0154629",
+    "deletedAt": null,
+    "createdBy": "921402e5-5ac8-4281-84e4-24f3c743db38",
+    "createdAt": "2026-01-26T00:01:52.000Z",
+    "updatedAt": "2026-01-26T01:42:50.000Z",
+    "emailRecipient": "921402e5-5ac8-4281-84e4-24f3c743db38",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 132,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/course-facilitatorstem-teacher-innoreal-044a62657914ab433934665113b86c0b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/044a62657914ab433934665113b86c0b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/044a62657914ab433934665113b86c0b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

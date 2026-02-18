@@ -1,0 +1,214 @@
+{
+  "uuid": "02bfe80b0c19bc9bda96fbe73a9312d6",
+  "sourceCode": "Employer Portal",
+  "title": "M&E Technician",
+  "description": "<p><u><strong>Responsibilities:</strong></u></p>\n<p>- Provide general M&amp;E, building maintenance and repair work on facilities &amp; equipments.</p>\n<p>- To carry out preventive/corrective maintenance schedules</p>\n<p>- Attend to breakdowns, servicing, repairing and emergency requests</p>\n<p>- Record &amp; report all faults, deficiencies, and other unusual occurrences</p>\n<p><u><strong>Requirements</strong></u></p>\n<p>*  ITC/NTC 2 or 3 in Electrical/Mechanical/Aircon Maintenance</p>\n<p>* Relevant experience in similar capacity in the hospitality industry</p>\n<p>* On rotating shift, including weekend &amp; public holidays</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "electrical repairs",
+      "uuid": "2727ad20fa210cf18a87d68772282a71",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality Industry",
+      "uuid": "66617cd7c71408ce47697c344ff8ad58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    },
+    {
+      "id": 40,
+      "category": "Travel / Tourism"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200302018C",
+    "description": "<p>Hotel Royal Queens is a 4-star smoke-free hotel in Singapore with 236 well-appointed guest rooms.</p>\n<p>It is strategically located in the heart of the city’s art and heritage precinct and minutes away by drive or public transport from the city’s dynamic central business district, major convention centres and entertainment belt. The nearest subway station – Bras Basah MRT Station is a mere 2-minute walk / 100 metres away.</p>",
+    "name": "HOTEL ROYAL @ QUEENS (SINGAPORE) PTE. LTD.",
+    "ssicCode": "55101",
+    "employeeCount": null,
+    "companyUrl": "https://www.royalqueens.com.sg/",
+    "lastSyncDate": "2026-01-27T08:39:32.000Z",
+    "ssicCode2020": "55101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C/schemes"
+      }
+    },
+    "logoFileName": "ccb0bbdcda814321284f70934e918719/hotel-royal-queens.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ccb0bbdcda814321284f70934e918719/hotel-royal-queens.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "QUEEN STREET",
+    "floor": null,
+    "unit": null,
+    "building": "HOTEL ROYAL @ QUEENS",
+    "postalCode": "188553",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.2975508519235,
+    "lng": 103.852233625189
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167574",
+    "deletedAt": null,
+    "createdBy": "ba0103cd-0e9a-4d49-a54a-a9bc3f8d2857",
+    "createdAt": "2026-01-27T08:41:32.000Z",
+    "updatedAt": "2026-01-27T08:41:32.000Z",
+    "emailRecipient": "ba0103cd-0e9a-4d49-a54a-a9bc3f8d2857",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/me-technician-hotel-royal-queens-02bfe80b0c19bc9bda96fbe73a9312d6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2100,
+    "minimum": 1900,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02bfe80b0c19bc9bda96fbe73a9312d6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02bfe80b0c19bc9bda96fbe73a9312d6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

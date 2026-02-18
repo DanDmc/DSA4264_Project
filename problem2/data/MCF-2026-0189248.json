@@ -1,0 +1,248 @@
+{
+  "uuid": "8ee0358b02f61388ba997604562d60a0",
+  "sourceCode": "Employer Portal",
+  "title": "TRUCK DRIVER",
+  "description": "<p>Job Description & Requirements</p><p>* Must be properly licensed to drive</p><p>* Being safety conscious</p><p>* Able to work during weekends and holidays</p><p>* Should possess a clean driving record</p><p>* Strong time management skill</p><p>* Able to lift and carry heavy parcels for delivery</p><p>* Willingness to adhere to schedule and safety procedures</p><p>* Maintaining cleanliness inside and outside the truck</p><p>* Must work on weekends/PH.</p><p>* Able to work night shift</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Higher Education",
+      "uuid": "0513fb108d0d7298eeb11227750ac3f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Critical Thinking",
+      "uuid": "4fb174b9bf8f956e0c1efc8473169c24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cement",
+      "uuid": "5cb91ac72b6016809690064a5e7e30e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weight",
+      "uuid": "8c489d0946f66d17d73f26366a4bf620",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soil",
+      "uuid": "e4b9dca2448724ca25e388a0317a09c8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013111",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "201832108C",
+    "description": "<p>57 Employment Agency Pte Ltd was incorporated in Singapore since 2018. Our company is licensed with Ministry Of Manpower, license number 18C9450. As the experts in talent recruitment and human resource engagement services, we pride ourselves on the timely delivery of these services through our team of dedicated and experienced professionals.</p>\n\n<p>As a one-stop human capital solution provider, 57 Employment Agency Pte Ltd intensifies the process of recruiting the potential candidates for our valued clients. To ensure a smooth, hassle free and efficient recruitment process, we also provide the necessary documentations, permit applications, medical check-ups and accommodations for the foreign candidates.</p>\n\n<p>Our team of highly dedicated and competent consultants are unparalleled in providing prompt and effective manpower solutions to our valued clients with their wide range of industries knowledge.</p>\n",
+    "name": "57 EMPLOYMENT AGENCY PTE. LTD.",
+    "ssicCode": "88991",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:26:55.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/schemes"
+      }
+    },
+    "logoFileName": "fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202444840H",
+    "description": null,
+    "name": "37 SWIFTWING SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T07:34:24.000Z",
+    "ssicCode2020": "31001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444840H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444840H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444840H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202444840H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189248",
+    "deletedAt": null,
+    "createdBy": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "createdAt": "2026-01-30T07:37:40.000Z",
+    "updatedAt": "2026-01-30T07:37:40.000Z",
+    "emailRecipient": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/truck-driver-37-swiftwing-services-8ee0358b02f61388ba997604562d60a0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8ee0358b02f61388ba997604562d60a0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8ee0358b02f61388ba997604562d60a0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,259 @@
+{
+  "uuid": "ef134c6cdfe80a429e721b999a16e46c",
+  "sourceCode": "Employer Portal",
+  "title": "HAIRSTYLIST",
+  "description": "<p>1 . Require at least 1 year of formal hairdressing experience</p><p>2 . Master the basic skills of cutting, ironing, and dyeing, and be able to work independently.</p><p>3 . Good image, strong communication skills, scalp care and product sales.  </p><p>4 . Usually requires proficient hair cutting and perming techniques, a certain amount of customer experience, and the ability to independently complete styling designs.</p><p>5. Requires a certain foundation, responsible for auxiliary work such as washing hair and applying medication, and emphasizing a learning attitude.</p><p>Skills such as washing, cutting, blowing, perming, dyeing, hairstyle design, and scalp care are required.<br /></p><p>58 RECRUITMENT PTE. LTD<br />19C9772<br />67026282</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Cutting",
+      "uuid": "60f807b6543169da8a03e9cbfa47e768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tinting",
+      "uuid": "c137de3f1baf0cb3ed4446ff84eee642",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Focus",
+      "uuid": "c8519749262c7cf93603d66027b06843",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Blow Dry",
+      "uuid": "e1b586ce0a77e5369db06cc3247d58e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Management",
+      "uuid": "e607108917197d7b974d8ce3b7f5f708",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "23",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201917809D",
+    "description": null,
+    "name": "58 RECRUITMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T05:34:21.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917809D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917809D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917809D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917809D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202332460C",
+    "description": null,
+    "name": "INSTYLE HAIR SALON PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:34:32.000Z",
+    "ssicCode2020": "96021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202332460C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202332460C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202332460C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202332460C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "462",
+    "street": "CRAWFORD LANE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "190462",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30458618029944,
+    "lng": 103.860840750826
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167541",
+    "deletedAt": null,
+    "createdBy": "f23d69a4-e1de-4b51-8677-2bfbb3fea800",
+    "createdAt": "2026-01-27T08:37:57.000Z",
+    "updatedAt": "2026-01-27T08:37:56.000Z",
+    "emailRecipient": "f23d69a4-e1de-4b51-8677-2bfbb3fea800",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 20,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/hairstylist-instyle-hair-salon-ef134c6cdfe80a429e721b999a16e46c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef134c6cdfe80a429e721b999a16e46c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef134c6cdfe80a429e721b999a16e46c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

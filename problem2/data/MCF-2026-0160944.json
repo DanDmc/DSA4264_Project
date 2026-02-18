@@ -1,0 +1,203 @@
+{
+  "uuid": "b56532decf54bd9cc161c2542611cec7",
+  "sourceCode": "Employer Portal",
+  "title": "General Manager",
+  "description": "<p>We are looking for an experienced <strong>General Manager</strong> to lead business operations, drive strategic growth, and oversee day‑to‑day management across the organization. The ideal candidate is a strong leader with solid business acumen and the ability to optimize performance, profitability, and customer satisfaction.</p><h3><strong>Key Responsibilities</strong></h3><ul><li>Lead overall business operations and ensure efficient daily workflow.</li><li>Develop and execute business strategies to support company growth.</li><li>Manage budgets, financial performance, and operational KPIs.</li><li>Build and mentor high‑performing teams across departments.</li><li>Strengthen client relationships and support business development initiatives.</li><li>Ensure compliance with policies, regulations, and governance standards.</li><li>Provide performance reports and recommendations to senior leadership.</li></ul><h3><strong>Requirements</strong></h3><ul><li>Degree in Business, Management, or related field (MBA preferred).</li><li>8+ years of business management or operations experience, including leadership roles.</li><li>Strong financial, operational, and strategic planning skills.</li><li>Excellent communication, problem‑solving, and people‑management abilities.</li><li>Proven track record in driving business improvement and growth.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Communication",
+      "uuid": "07a3dd247ad6bec7fe401aa11619959f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "manage budget",
+      "uuid": "0ac74c94af6efbe4de413b74ecc1a4d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical thinking",
+      "uuid": "34630b8bdcda11ddab3ec2c7aa78497e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Insights",
+      "uuid": "368af88e8e26ebf639cecb333876f6f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ability to influence",
+      "uuid": "5c64da0fbcaee16255b5e65222a2750e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Relationships",
+      "uuid": "c92d811fe4545eb273c5ab309267d464",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Creative Thinking",
+      "uuid": "dc92a4b3d5dc7c891e2cf40adad78cec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stakeholder Management",
+      "uuid": "df48c911be7822810d6973e86dca6cd6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "11203",
+  "occupationId": "OCC060659",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "197701016M",
+    "description": "<p>\r\n\tIncorporated in 1978 and based in Singapore, Hitachi Aqua-Tech Engineering Pte. Ltd. stands out in the water treatment industry by offering full EPC capabilities across a wide range of projects. With a strong focus on reverse osmosis (RO) and demineralization systems, we are a complete system builder equipped with comprehensive engineering capabilities and in-house manufacturing facilities.</p>\r\n<div>\r\n\tHitachi Aqua-Tech water treatment systems are installed globally in various industries ranging from food processing, health care, cogeneration plants, electronics, marine, military, FPSO, aviation, to hotels and resorts.</div>\r\n",
+    "name": "HITACHI AQUA-TECH ENGINEERING PTE. LTD.",
+    "ssicCode": "28291",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T02:25:39.000Z",
+    "ssicCode2020": "28291",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197701016M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197701016M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197701016M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197701016M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "40",
+    "street": "CHANGI SOUTH STREET 1",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "486764",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33513887756331,
+    "lng": 103.970105493626
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160944",
+    "deletedAt": null,
+    "createdBy": "f59ed554-ed90-407d-b792-70f0ce7d9941",
+    "createdAt": "2026-01-26T10:16:24.000Z",
+    "updatedAt": "2026-01-26T10:16:24.000Z",
+    "emailRecipient": "f59ed554-ed90-407d-b792-70f0ce7d9941",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 404,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 102,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/general-manager-hitachi-aqua-tech-engineering-b56532decf54bd9cc161c2542611cec7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 16000,
+    "minimum": 11000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b56532decf54bd9cc161c2542611cec7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b56532decf54bd9cc161c2542611cec7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

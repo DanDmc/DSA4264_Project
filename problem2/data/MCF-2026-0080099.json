@@ -1,0 +1,224 @@
+{
+  "uuid": "b84d82819b88fd32851c96f855d27945",
+  "sourceCode": "Employer Portal",
+  "title": "Principal Engineer",
+  "description": "<p><strong>Years of Experience</strong></p><p><strong>11–16 years</strong></p><p><strong>Minimum Qualifications</strong></p><p>· Bachelor’s Degree in Engineering / Electronics / Computer Science</p><p>· Postgraduate qualification in AI / ML preferred</p><p><strong>Required Skills</strong></p><p>· Cloud Architecture (AWS, Azure, GCP)</p><p>· Trading Systems Architecture</p><p>· Kafka & Cassandra</p><p>· Distributed Systems</p><p>· CI/CD (Jenkins, Azure DevOps)</p><p>· Kubernetes / OpenShift</p><p>· Low-latency systems</p><p>· DR / BCP Planning</p><p>· Release & Change Governance</p><p><strong>Job Description</strong></p><p><strong>Role Overview</strong><br />Sr. Engineer will be responsible for designing, modernising, and governing mission-critical, low-latency platforms with a strong focus on cloud migration, distributed systems, and release governance for enterprise-scale systems.</p><p><strong>Key Responsibilities</strong></p><p>· Architect and modernise mission-critical platforms across cloud and hybrid environments</p><p>· Lead cloud migration initiatives across AWS, Azure, and GCP</p><p>· Design and operate low-latency, high-availability distributed systems</p><p>· Own Kafka messaging architecture and Cassandra data platforms</p><p>· Lead CI/CD transformation and release automation initiatives</p><p>· Govern production releases, DR/BCP exercises, and platform resiliency</p><p>· Provide technical leadership across cross-functional engineering teams</p>",
+  "minimumYearsExperience": 11,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cassandra",
+      "uuid": "7bfcc746dd3ae3853c4f0ef95551e22e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Engineering",
+      "uuid": "931140d8e607636c929c269fa1d409b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Leadership",
+      "uuid": "d54f15f3c6e8d607c7c90d6de015217e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002135",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202525776C",
+    "description": "<p>Kimbal is a fast-growing Indian energy-tech company pioneering smart energy solutions that modernize power distribution systems. We design and deliver advanced metering infrastructure (AMI) — including smart meters, communication networks, and cloud-based data platforms — to help utilities improve efficiency, accuracy, and grid reliability. Our products and solutions are deployed across multiple Indian states and supporting nationwide energy digitization initiatives with millions of smart meter installations. With a strong focus on innovation, scale, and quality, Kimbal empowers utilities and communities to build a smarter, more sustainable energy future.</p><p></p>",
+    "name": "KIMBAL SINGAPORE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "www.kimbal.io",
+    "lastSyncDate": "2026-02-04T01:42:39.000Z",
+    "ssicCode2020": "26512",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525776C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525776C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525776C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202525776C/schemes"
+      }
+    },
+    "logoFileName": "53d7689bcafeb44ef3e89be074d80d85/kimbal-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/53d7689bcafeb44ef3e89be074d80d85/kimbal-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "PAYA LEBAR LINK",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA LEBAR QUARTER",
+    "postalCode": "408533",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31767131802136,
+    "lng": 103.893809329551
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0080099",
+    "deletedAt": "2026-01-27T17:15:04.000Z",
+    "createdBy": "e12080a0-36d3-4531-b235-4e54ad30d9ca",
+    "createdAt": "2026-01-13T11:06:49.000Z",
+    "updatedAt": "2026-01-29T00:05:37.000Z",
+    "emailRecipient": "e12080a0-36d3-4531-b235-4e54ad30d9ca",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 241,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-13",
+    "expiryDate": "2026-02-05",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/principal-engineer-kimbal-singapore-b84d82819b88fd32851c96f855d27945",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b84d82819b88fd32851c96f855d27945"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b84d82819b88fd32851c96f855d27945/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

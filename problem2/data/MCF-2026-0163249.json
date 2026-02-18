@@ -1,0 +1,234 @@
+{
+  "uuid": "cdc29ab45f235b311bb5fe9e511f8122",
+  "sourceCode": "Employer Portal",
+  "title": "HR & Admin Manager",
+  "description": "<ul><li>Oversee all stages of the employee lifecycle, such as recruitment, onboarding, performance reviews and employee engagement.</li><li>Lead and support staff development programs, workshops, and skill-building efforts.</li><li>Design and implement efficient adminstrative systems and workflows to enhance productivity and enhance business operations.</li><li>Develop and implement HR strategies and initiatives aligned with the overall business strategy.</li><li>Bridge management and employee relations by addressing demands, grievances or other issues.</li><li>Support current & future business needs throught the development, engagement, motivation and preservation of human capital.</li><li>Develop and monitor overal HR strategies, system, tactics and procedure across the organisation.</li><li>Nurture a positive working environment</li><li>Oversee and manage a performance appraisal system that drives high performance</li><li>Maintain pay plan and benefits program</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Tactics",
+      "uuid": "09e66c45bd28f44dbb0b13f9984e163e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Management",
+      "uuid": "68b41b38f28f2ba723e32419c5365a0a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Resource Management",
+      "uuid": "cb39ac09dca88d69876f8730b7461b4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Appraisal",
+      "uuid": "dbb837ca8a148995aac8205cdc112bd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Employee Relations",
+      "uuid": "df9fec21f43c469540c70b03af7bf453",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Staff Development",
+      "uuid": "ea0841165fa0a1cadbb2bb7329e33ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Management",
+      "uuid": "ec665405336acd4dabdc93b50935ac7a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12121",
+  "occupationId": "OCC060814",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 20,
+      "category": "Human Resources"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "0512",
+  "postedCompany": {
+    "uen": "202508685C",
+    "description": null,
+    "name": "KAM LOON BUILDER PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T09:38:06.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202508685C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202508685C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202508685C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202508685C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "15",
+    "street": "YISHUN INDUSTRIAL STREET 1",
+    "floor": null,
+    "unit": null,
+    "building": "WIN 5",
+    "postalCode": "768091",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43772489910656,
+    "lng": 103.844622141124
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163249",
+    "deletedAt": null,
+    "createdBy": "9163850d-5441-4631-9526-89b5cbd14e31",
+    "createdAt": "2026-01-27T01:38:04.000Z",
+    "updatedAt": "2026-01-27T01:38:04.000Z",
+    "emailRecipient": "9163850d-5441-4631-9526-89b5cbd14e31",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 282,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 57,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/human-resources/hr-admin-manager-kam-loon-builder-cdc29ab45f235b311bb5fe9e511f8122",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cdc29ab45f235b311bb5fe9e511f8122"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cdc29ab45f235b311bb5fe9e511f8122/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

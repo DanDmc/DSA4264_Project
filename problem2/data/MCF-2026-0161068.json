@@ -1,0 +1,205 @@
+{
+  "uuid": "404780249f43e2cb97381469f6b130c6",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Cook/ Cook",
+  "description": "<p><u><strong>Job Requirements</strong></u></p><p>The Snr./Cook will be required to assist with the following basic food preparation tasks and be capable of instructing subordinates to:</p><ul><li>Food preparation and cooking for residents and employees</li><li>Preparation of foods which are to be served as part of special or therapeutic diets for residents</li><li>Ensure food are stored in the correct temperatures</li><li>Ensure food are correctly labelled and expiry dates are strictly adhered</li><li>Oversee the preparation and distribution of meal distribution</li><li>Assist with menu planning</li><li>Minimizes food waste through proper control of portioning and storage of food items</li><li>Maintain overall cleanliness of kitchen</li><li>Ensure members of the Kitchen team are following food safety procedures in the kitchen</li><li>Clean and perform basic maintenance of stoves, work area etc. Dispose garbage from the food service area</li></ul><p><br /><strong>Qualification and Experiences</strong></p><ul><li>O' Level or equivalent qualification</li><li>Basic Food Hygiene certificate (WSQ Food & Beverage Safety & Hygiene Policies and Procedures)</li><li>At least 2 years of relevant work experience.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Menu planning",
+      "uuid": "2f93d7dc7479e8228782bf6f7ee5daca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Menu Costing",
+      "uuid": "6e8be171ea5ca53b4126405582af63bc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written Communication",
+      "uuid": "7f2949efe8a7cc63a1144796a4ce403a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51202",
+  "occupationId": "OCC009285",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200008977E",
+    "description": "<p>UNITED MEDICARE PTE LTD was established in 2003.  It is one of the leading providers of healthcare services for the aged community in SIngapore.<br />\r\n </p>\r\n",
+    "name": "UNITED MEDICARE PTE LTD",
+    "ssicCode": "82999",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:46:23.000Z",
+    "ssicCode2020": "82999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008977E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008977E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008977E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200008977E/schemes"
+      }
+    },
+    "logoFileName": "f7a3e25affdb538577cdc079bbfd80a0/united-medicare.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f7a3e25affdb538577cdc079bbfd80a0/united-medicare.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0161068",
+    "deletedAt": null,
+    "createdBy": "e030e254-17d0-452b-89c0-cd871dd7193d",
+    "createdAt": "2026-01-26T10:34:28.000Z",
+    "updatedAt": "2026-01-26T10:34:28.000Z",
+    "emailRecipient": "e030e254-17d0-452b-89c0-cd871dd7193d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 44,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/senior-cook-cook-united-medicare-404780249f43e2cb97381469f6b130c6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/404780249f43e2cb97381469f6b130c6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/404780249f43e2cb97381469f6b130c6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

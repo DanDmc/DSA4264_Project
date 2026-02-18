@@ -1,0 +1,267 @@
+{
+  "uuid": "243d06015aad9dc2ad90c5013d9aac40",
+  "sourceCode": "Employer Portal",
+  "title": "Clinical Psychologist / Mental Health",
+  "description": "<p><strong>Who we are</strong><br /><br /><br />We are an established MOH licensed medical clinic operating for more than 7 years and looking to expand our services. We are located in CBD. We are looking for a clinical psychologist for mental health and well-being and more. Initially the candidate will be employed part-time once the patient numbers build up you will be converted to full-time. <br /><br /><strong>Job Requirement</strong></p><p>Registered Clinical Psychologist <br />Experience with Mental Health Well-Being <br />Able to deal with issues such as stress, addictions (eg. alcohol, smoking, gambling) , impulsive behaviors, relationship issues, children school assessments / IQ testing, pre and post natal mood issues <br />You will be able to formulate treatment plans <br />At least 2 years of experience <br />Able to work part-time initially<br />Able to give educational talks and participate in marketing videos if required <br />Excellent communication skills<br /></p><p>Salary TBD<br />Work location: Remote or at Clinic <br />Part-time initially <br /></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Child psychology",
+      "uuid": "0d49dda1d932c4439e973d00d990c649",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Psychology",
+      "uuid": "1d5b12153a4d4fd24ec9174051003a27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Psychotherapy",
+      "uuid": "3fc30241a5cbce941a8e8446dcb10fc9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Psychological Assessment",
+      "uuid": "4c237aa9b4a93bbc44416ce2d73fd610",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Counseling Psychology",
+      "uuid": "839064db3f6b5578a768cf180d3f556a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Clinical Psychology",
+      "uuid": "9b5cfbc2622072a6834c106ea04869fc",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Health Psychology",
+      "uuid": "9d61d921a1d356ed772d026b2b7cef52",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interventions",
+      "uuid": "a9fa395bfb2297bb985c6f29ecd4eb76",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mental Health",
+      "uuid": "b225e5a0083b58ff40eaf6cfc497e743",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Prevention",
+      "uuid": "c53b76cb09d84442ddd9d86d81959436",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wellbeing",
+      "uuid": "c540e0c47d34f94257d9a93cc63b77e9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Adolescents",
+      "uuid": "d5e586668a58bca944c257b69f72c2b0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    },
+    {
+      "id": 2,
+      "flexibleWorkArrangement": "Telecommuting"
+    },
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    },
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    },
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    },
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "26341",
+  "occupationId": "OCC062548",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    },
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201825616R",
+    "description": null,
+    "name": "AQUILA MEDICAL PTE. LTD.",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T13:43:30.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201825616R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "160",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE BUSINESS FEDERATION CENTER",
+    "postalCode": "068914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27812790985949,
+    "lng": 103.847854628243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174575",
+    "deletedAt": null,
+    "createdBy": "3e8df24a-24ad-4d4a-9e2b-cd4555bc624b",
+    "createdAt": "2026-01-28T06:51:27.000Z",
+    "updatedAt": "2026-01-28T06:51:27.000Z",
+    "emailRecipient": "3e8df24a-24ad-4d4a-9e2b-cd4555bc624b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 113,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/clinical-psychologist-mental-health-aquila-medical-243d06015aad9dc2ad90c5013d9aac40",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/243d06015aad9dc2ad90c5013d9aac40"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/243d06015aad9dc2ad90c5013d9aac40/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

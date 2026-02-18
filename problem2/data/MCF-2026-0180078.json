@@ -1,0 +1,209 @@
+{
+  "uuid": "bfa03b2188fa39ecd74f8db1493a4f40",
+  "sourceCode": "Employer Portal",
+  "title": "Cook / Leading Cook",
+  "description": "<p>Responsible for preparing and cooking menu items, maintaining kitchen cleanliness and food safety, working efficiently during busy shifts, and collaborating with the team to ensure high-quality food.<br /><br /><strong>Requirements:</strong></p><ul><li>At least 1 year of experience preferred, but training is available for motivated candidates with no experience.</li><li>Able to communicate in simple English</li><li>Able to do shift work, weekends and public holidays</li></ul><p><br /></p><p><strong>Enjoy a wide range of benefits when you join our vibrant team:</strong></p><ul><li>Flexible benefits up to $1000.00</li><li>13-month AWS and performance bonus</li><li>Healthcare coverage</li><li>Comprehensive leave schemes</li><li>Transport to/from Sixth Avenue MRT</li><li>Duty meals</li></ul><p>We regret that only shortlisted candidates will be notified.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Interpersonal Skill",
+      "uuid": "1f5aa82262d784f2e8ae1a04e5f44467",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Preparation",
+      "uuid": "804ff17d356864d28dfc8ddaf91067a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Culinary Skills",
+      "uuid": "de9730b19b980c74412a3a5abead9c30",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Work",
+      "uuid": "e40d1210d4bc1ec33845372c06d29971",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51201",
+  "occupationId": "OCC009267",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "1321",
+  "postedCompany": {
+    "uen": "S83SS0036A",
+    "description": "<p>The British Club is Singapore’s only Hilltop Retreat, a unique private community where Members of more than 50 nationalities and their families enjoy superb facilities, outstanding restaurants and a high level of service.<br>\n<br>\nCovering an area of more than 5,900 square meters in secluded grounds surrounded by Bukit Timah’s greenery, the Club houses four restaurants and seven banquet venues, with an unparalleled range of sporting and family oriented facilities.</p>",
+    "name": "British Club, The",
+    "ssicCode": "93204",
+    "employeeCount": null,
+    "companyUrl": "https://www.britishclub.org.sg/",
+    "lastSyncDate": "2026-02-03T02:18:03.000Z",
+    "ssicCode2020": "00000",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83SS0036A"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83SS0036A/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83SS0036A/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83SS0036A/schemes"
+      }
+    },
+    "logoFileName": "8a84f676abefc1ca30b7df85c280effc/british-club.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8a84f676abefc1ca30b7df85c280effc/british-club.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "73",
+    "street": "Bukit Tinggi Road",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "289761",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 11,
+        "location": "D11 Novena, Thomson, Watten Estate",
+        "region": "Central",
+        "sectors": [
+          "28",
+          "29",
+          "30"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.3457906654182,
+    "lng": 103.792630331681
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180078",
+    "deletedAt": null,
+    "createdBy": "5b7252e1-e5be-46ef-b87f-5b388161b1f4",
+    "createdAt": "2026-01-29T03:17:58.000Z",
+    "updatedAt": "2026-01-29T03:17:57.000Z",
+    "emailRecipient": "5b7252e1-e5be-46ef-b87f-5b388161b1f4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 29,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-leading-cook-british-club-bfa03b2188fa39ecd74f8db1493a4f40",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 2180,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bfa03b2188fa39ecd74f8db1493a4f40"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bfa03b2188fa39ecd74f8db1493a4f40/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

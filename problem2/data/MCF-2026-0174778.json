@@ -1,0 +1,242 @@
+{
+  "uuid": "3c1d8a13fc776f4a449c2fcc69286c3c",
+  "sourceCode": "Employer Portal",
+  "title": "System Engineer",
+  "description": "<p><strong>Job Duties</strong></p><ul><li>Server Administration & Maintenance</li></ul><ul><li>Active Directory and Patch Management</li><li>Virtualization and Cloud Support</li><li>Security and Compliance</li><li>Backup and Disaster Recovery</li><li>Performance Monitoring and Automation</li><li>Troubleshooting and Escalations</li><li>Documentation and Knowledge Sharing</li></ul><p><br /><strong>Education & Professional Qualifications</strong></p><ul><li><p>Diploma or Bachelor’s degree in Information Technology, Computer Science, or a related discipline.</p></li><li><p>Relevant professional certifications (e.g. Microsoft, VMware, AWS, Azure, ITIL, CompTIA, or equivalent) will be an advantage.</p></li></ul><ul><li><p>Experience in server administration and maintenance in Windows and/or Linux environments.</p></li><li><p>Knowledge of Active Directory, Group Policy, and patch management processes.</p></li><li><p>Familiarity with virtualization platforms (e.g. VMware, Hyper-V) and cloud services (e.g. AWS, Azure, or GCP).</p></li><li><p>Understanding of IT security principles, compliance standards, and best practices.</p></li><li><p>Experience with backup, recovery, and disaster recovery solutions.</p></li><li><p>Ability to monitor system performance and implement automation or optimization tools.</p></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Azure",
+      "uuid": "1668ca1bd914c1d847f23b491319ac91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Failover",
+      "uuid": "3ad6e9988864aeae2ef386345946dc6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware vCenter",
+      "uuid": "43e02e05b2879c1406a010bf6a28f8f7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAN",
+      "uuid": "62a0282d39568be094470486eaf70c4f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Replication",
+      "uuid": "8c340dc334134096f68b880b42a8692c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200301982Z",
+    "description": "<p><strong>APBA TG Human Resource Pte Ltd</strong></p>\n<p><strong>(a wholly owned subsidiary of the TG Group)</strong></p>\n<p><br></p>\n<p>TG Group (“TG”) is a global workforce solutions provider with an international reach in over 50 markets across the globe. Headquartered in Singapore with Shanghai Foreign Service (Group) Co Ltd (\"FSG\") as a strategic shareholder, TG delivers a comprehensive suite of innovative human capital solutions to help our clients achieve greater business success.<br>\n<br>\nTG adopts a future-centric approach where we aspire to be at the forefront of the evolution of the future of work. We believe that human capital is the greatest asset to any institution. With a wealth of experience in the Human Resources (HR) industry, we combine our international expertise and local know-how to deliver bespoke and innovative workforce solutions.<br>\n<br>\nOur diverse portfolio of client-centric workforce solutions includes Contingent Workforce Management (CWM), Business Process Outsourcing (BPO), Permanent Placements, Recruitment Process Outsourcing (RPO), Professional Employer Organisation (PEO), and Payroll Process Outsourcing (PPO).</p>",
+    "name": "APBA TG HUMAN RESOURCE PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": "www.tg-hr.com",
+    "lastSyncDate": "2026-02-04T00:59:09.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301982Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301982Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301982Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200301982Z/schemes"
+      }
+    },
+    "logoFileName": "cd98ba022ef3655727e0a74daa3586ae/apba-tg-human-resource.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd98ba022ef3655727e0a74daa3586ae/apba-tg-human-resource.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "201537100E",
+    "description": null,
+    "name": "TG SERVICES PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T05:58:16.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201537100E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201537100E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201537100E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201537100E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174778",
+    "deletedAt": null,
+    "createdBy": "82acc519-18fe-4f44-8523-284accb1d8de",
+    "createdAt": "2026-01-28T07:10:57.000Z",
+    "updatedAt": "2026-01-28T07:10:57.000Z",
+    "emailRecipient": "82acc519-18fe-4f44-8523-284accb1d8de",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 89,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 17,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/system-engineer-tg-services-3c1d8a13fc776f4a449c2fcc69286c3c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3c1d8a13fc776f4a449c2fcc69286c3c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3c1d8a13fc776f4a449c2fcc69286c3c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

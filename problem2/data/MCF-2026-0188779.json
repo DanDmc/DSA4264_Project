@@ -1,0 +1,248 @@
+{
+  "uuid": "28c04747f7da987ac984a80dd990d42f",
+  "sourceCode": "Employer Portal",
+  "title": "Restaurant Manager",
+  "description": "<p>Remarks:</p><p>The company mainly operates a Peranakan (Nyonya) restaurant and is looking to hire a Restaurant Manager.</p><p>Job Duties & Requirements:</p><p>Candidate should have basic management skills and relevant working experience.</p><p>Able to recommend and promote dishes to customers.</p><p>Responsible for training and leading a small team.</p><p>Lunch and dinner will be provided.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Restaurants",
+      "uuid": "386c1f850fbd5f478fb4ef8a134c1740",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202228828M",
+    "description": "<p><strong>At VT Recruit Pte Ltd, we are dedicated to connecting talented</strong></p>\n<p><strong>individuals with their dream careers and helping companies build</strong></p>\n<p><strong>exceptional teams. As a leading employment agency, we</strong></p>\n<p><strong>specialize in matching qualified candidates with job opportunities</strong></p>\n<p><strong>across various industries. With our deep understanding of the job</strong></p>\n<p><strong>market and extensive network of top-notch professionals, we</strong></p>\n<p><strong>strive to deliver personalized and efficient recruitment solutions.</strong></p>\n<p><strong>Our team of experienced recruiters is committed to providing</strong></p>\n<p><strong>exceptional service, guiding both candidates and clients through</strong></p>\n<p><strong>the hiring process with expertise and care. Whether you're</strong></p>\n<p><strong>seeking the perfect candidate or the ideal job opportunity, trust</strong></p>\n<p><strong>VT Recruit to be your trusted partner in achieving your</strong></p>\n<p><strong>employment goals.</strong></p>",
+    "name": "VT RECRUIT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": 5,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:31:06.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M/schemes"
+      }
+    },
+    "logoFileName": "a97e0a550ea345a56aac40a3dfec511a/vt-recruit.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a97e0a550ea345a56aac40a3dfec511a/vt-recruit.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202104522W",
+    "description": null,
+    "name": "JING CHEN SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T06:46:05.000Z",
+    "ssicCode2020": "56122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202104522W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202104522W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202104522W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202104522W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "69",
+    "street": "GEYLANG BAHRU",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "330069",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32146311046782,
+    "lng": 103.870005014547
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188779",
+    "deletedAt": null,
+    "createdBy": "b9c01ea8-7bbf-4ace-b7ad-51a9ab7ded0c",
+    "createdAt": "2026-01-30T06:49:13.000Z",
+    "updatedAt": "2026-01-30T06:49:13.000Z",
+    "emailRecipient": "b9c01ea8-7bbf-4ace-b7ad-51a9ab7ded0c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 25,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-20",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/restaurant-manager-jing-chen-services-28c04747f7da987ac984a80dd990d42f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/28c04747f7da987ac984a80dd990d42f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/28c04747f7da987ac984a80dd990d42f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

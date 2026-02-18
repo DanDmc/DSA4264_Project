@@ -1,0 +1,211 @@
+{
+  "uuid": "8101687a2afed6a0427b63ec42885fa0",
+  "sourceCode": "Employer Portal",
+  "title": "Admin & Invoicing ( Worker's Dormitory Administrator",
+  "description": "<p><u><strong>Responsibilities</strong></u></p><p><strong>1. Administrative & Operations Management</strong></p><ul><li>Manage resident check-in, check-out, and room assignments.</li><li>Maintain up-to-date records of occupancy, bed availability, and resident information.</li><li>Handle issuance of access cards, keys, and ensure proper documentation.</li><li>Coordinate maintenance requests and follow up with technicians/contractors.</li><li>Conduct routine inspections of dormitory rooms and common areas.</li><li>Ensure compliance with MOM regulatory requirements for worker housing.</li><li>Assist in enforcing dormitory rules, safety protocols, and hygiene standards.</li></ul><p><strong>2. Invoicing & Finance Administration</strong></p><ul><li>Prepare monthly accommodation invoices for companies and tenants.</li><li>Track payments, reconcile accounts, and follow up on outstanding invoices.</li><li>Maintain organized financial records and support audit requirements.</li><li>Work closely with the finance department to ensure accurate billing.</li><li>Process deposits, refunds, and adjustments when necessary.</li></ul><p><strong>3. Resident Service & Support</strong></p><ul><li>Serve as the primary contact point for residents’ enquiries and issues.</li><li>Support new residents/wokers with onboarding information and orientation.</li><li>Assist in managing welfare programs, activities, and communication with employers.</li><li>Handle complaints professionally and escalate matters when needed.</li></ul><p><strong>Requirements</strong></p><ul><li>Diploma or equivalent; relevant admin or facility operations experience preferred.</li><li>Experience in dormitory management, facility management, or accommodation admin is an advantage.</li><li>Strong organizational and multi-tasking skills.</li><li>Proficient in Microsoft Office (Excel, Word) or property/dorm management systems.</li><li>Good communication skills (English required; ability to speak Bengali, Tamil,or Mandarin is a plus.</li><li>Ability to handle resident issues professionally with empathy and firmness.</li></ul><p><strong>Work Conditions</strong></p><p>• May require shift work, weekend duty, or on-call support depending on dormitory operations.</p><p>• Fast-paced environment with frequent interaction with workers and employers.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations Management",
+      "uuid": "62c2ba9d720feb926f15cc065ce696b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Deposits",
+      "uuid": "b14b4095cfda93c81686ac81dea4dbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "uuid": "d4df0f19b94b428d347bbf56d9d5a4c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Work",
+      "uuid": "e40d1210d4bc1ec33845372c06d29971",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "200513236R",
+    "description": null,
+    "name": "KT&T ENGINEERS AND CONSTRUCTORS PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T01:46:32.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200513236R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200513236R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200513236R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200513236R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "KIAN TECK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "628876",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.3331730488528,
+    "lng": 103.691941979281
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168562",
+    "deletedAt": null,
+    "createdBy": "1e4ff057-13a8-4ce4-a39c-0c068927a3a1",
+    "createdAt": "2026-01-27T09:55:59.000Z",
+    "updatedAt": "2026-01-27T09:55:59.000Z",
+    "emailRecipient": "1e4ff057-13a8-4ce4-a39c-0c068927a3a1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 111,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/admin-invoicing-workers-dormitory-administrator-ktt-engineers-constructors-8101687a2afed6a0427b63ec42885fa0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8101687a2afed6a0427b63ec42885fa0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8101687a2afed6a0427b63ec42885fa0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

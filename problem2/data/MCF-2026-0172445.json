@@ -1,0 +1,240 @@
+{
+  "uuid": "950e0cdd6f593ea351b023bc15b0f1bd",
+  "sourceCode": "Employer Portal",
+  "title": "IoT Engineer",
+  "description": "<p>We are seeking a skilled IoT Engineer to design, develop, and maintain Internet of Things (IoT) solutions that connect devices, sensors, and systems to deliver real-time data and actionable insights. The ideal candidate has a strong background in embedded systems, networking, cloud platforms, data integration and related programming skills, with a passion for building scalable, secure IoT architectures.</p><p></p><p><strong>Key Responsibilities</strong></p><p>Design, develop, and deploy end-to-end IoT solutions (devices, gateways, cloud, and applications)</p><p>Develop and maintain firmware for embedded devices and sensors</p><p>Integrate IoT devices with cloud platforms and backend systems</p><p>Implement communication protocols (e.g., MQTT, CoAP, HTTP, BLE, LoRaWAN, Zigbee)</p><p>Ensure data security, device authentication, and secure communication</p><p>Monitor, troubleshoot, and optimize device performance and connectivity</p><p>Collaborate with cross-functional teams (hardware, software, data, and product)</p><p>Create technical documentation for system architecture, APIs, and deployment processes</p><p>Support testing, validation, and field deployment of IoT systems</p><p></p><p><strong>Required Qualifications</strong></p><p>Bachelor’s degree in Computer Engineering, Electronics Engineering, Mechatronics Engineering or related field</p><p>Experience in developing IoT or embedded systems</p><p>Proficiency in programming languages such as C/C++, Python, or Java</p><p>Knowledge of networking concepts and wireless technologies</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Integration",
+      "uuid": "6d8ab8489413756b1af6bdab6b80863e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wireless",
+      "uuid": "7beff197adfc70df7ee315bfa4b1af75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Embedded Systems",
+      "uuid": "826cbbd84c150787b415f21516644eb7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firmware",
+      "uuid": "a940a548ba41bc988f99d51fd02f21de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Authentication",
+      "uuid": "c75f7811d70d17dbcd88e9d03752cbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 10,
+      "employmentType": "Internship/Attachment"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200810252Z",
+    "description": null,
+    "name": "WETEC PTE. LTD.",
+    "ssicCode": "72109",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:16:45.000Z",
+    "ssicCode2020": "43299",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200810252Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200810252Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200810252Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200810252Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "21",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "WCEGA TOWER",
+    "postalCode": "658065",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33707416698557,
+    "lng": 103.759687213013
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172445",
+    "deletedAt": null,
+    "createdBy": "ce699b69-7b49-49b6-8c8d-42f37805eafc",
+    "createdAt": "2026-01-28T02:49:26.000Z",
+    "updatedAt": "2026-01-28T02:49:26.000Z",
+    "emailRecipient": "ce699b69-7b49-49b6-8c8d-42f37805eafc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 77,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/iot-engineer-wetec-950e0cdd6f593ea351b023bc15b0f1bd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/950e0cdd6f593ea351b023bc15b0f1bd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/950e0cdd6f593ea351b023bc15b0f1bd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

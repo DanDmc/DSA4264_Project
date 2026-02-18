@@ -1,0 +1,252 @@
+{
+  "uuid": "b23108500d4d654a92cfab54ad1ce257",
+  "sourceCode": "Employer Portal",
+  "title": "Chef",
+  "description": "<h2>Thai Cuisine Chef</h2><p>Location: Singapore</p><p>Employment Type: Full-time</p><p>Working Hours: Split shift, including weekends and Public Holidays</p><p><u><strong>Job Responsibilities:</strong></u></p><ul><li><p>Prepare and cook a variety of authentic Thai dishes according to company standards.</p></li><li><p>Support menu execution, including selected regional Thai dishes from different parts of Thailand.</p></li><li><p>Assist in food preparation, cooking, and plating during service.</p></li><li><p>Maintain kitchen cleanliness and follow food safety and hygiene standards.</p></li><li><p>Work as part of a team to ensure smooth daily kitchen operations.</p></li><li><p>Support basic inventory control and food preparation planning.</p></li><li><p>Participate in menu improvement and new dish development when required.</p></li></ul><p><u><strong>Job Requirements:</strong></u></p><ul><li><p>Experience in cooking Thai cuisine in a professional kitchen.</p></li><li><p>Interest and willingness to learn different regional Thai cooking styles (Northern, Southern, Isaan, Central).</p></li><li><p>Able to work split shifts, weekends, and Public Holidays.</p></li><li><p>Able to work in a fast-paced kitchen environment and handle standing for long hours.</p></li><li><p>Team player with positive working attitude.</p></li><li><p>Basic communication in English for kitchen coordination.</p></li><li><p>Ability to speak Thai is an advantage.</p></li><li><p>Singaporeans or PRs only.</p></li></ul><p><u><strong>What We Offer:</strong></u></p><ul><li><p>Stable full-time employment in an established Thai food business.</p></li><li><p>Opportunity to learn and work with experienced Thai chefs.</p></li><li><p>Supportive team environment with on-the-job training.</p></li><li><p>Staff meals and benefits according to company policy.</p></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Control",
+      "uuid": "83506d0acff3216fd8efd79be7e181f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Baking",
+      "uuid": "a11e3d7212c369ba1a229ea7a8ae65de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pastry",
+      "uuid": "e8c3f5ae850a71c6d443395839ffe9ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "1321",
+  "postedCompany": {
+    "uen": "201019918Z",
+    "description": null,
+    "name": "THAICOON AUNT PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T01:11:44.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201019918Z",
+    "description": null,
+    "name": "THAICOON AUNT PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T01:11:44.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201019918Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "27",
+    "street": "PURVIS STREET",
+    "floor": null,
+    "unit": null,
+    "building": "AN CHUAN BUILDING",
+    "postalCode": "188604",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29620454207533,
+    "lng": 103.855256705167
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168084",
+    "deletedAt": null,
+    "createdBy": "63f04be2-3fc8-4cf6-af0d-b5c87230bcbd",
+    "createdAt": "2026-01-27T09:25:33.000Z",
+    "updatedAt": "2026-01-27T09:25:33.000Z",
+    "emailRecipient": "63f04be2-3fc8-4cf6-af0d-b5c87230bcbd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 32,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/chef-thaicoon-aunt-b23108500d4d654a92cfab54ad1ce257",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b23108500d4d654a92cfab54ad1ce257"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b23108500d4d654a92cfab54ad1ce257/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

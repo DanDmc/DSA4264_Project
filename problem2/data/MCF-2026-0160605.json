@@ -1,0 +1,234 @@
+{
+  "uuid": "786d9d43621e88bdd9cd7aee95a056fc",
+  "sourceCode": "Employer Portal",
+  "title": "Project Manager",
+  "description": "<p><strong>Project Manager (Interior Fit-Out)</strong></p><p>We’re looking for a proactive and detail-oriented <strong>Project Manager (Interior Fit-Out) </strong>to ensure multiple projects run smoothly from concept to handover— <strong>on time, on budget, and to the required quality </strong>. This role will coordinate across designers, clients, contractors, and suppliers to manage scheduling, budgeting, procurement, and site execution.</p><h3>Key Responsibilities</h3><ul><li><strong>Project planning & scheduling: </strong>Build and manage project schedules, milestones, and work plans from design development through completion</li><li><strong>Budget & cost control: </strong>Prepare and track budgets, manage cost reporting/variations, and ensure financial targets are met</li><li><strong>Team & resource management: </strong>Coordinate internal teams and external partners to ensure resources are allocated effectively</li><li><strong>Client management: </strong>Manage client expectations, provide regular updates, and respond promptly to requests and feedback</li><li><strong>Procurement coordination: </strong>Support sourcing, quotations, vendor coordination, lead times, and delivery schedules</li><li><strong>Quality control: </strong>Ensure drawings, materials, workmanship, and site deliverables meet required standards and specifications</li><li><strong>Risk, issue & change management: </strong>Identify risks early, drive issue resolution, and manage change orders with proper documentation and approvals</li><li><strong>Site execution & handover: </strong>Oversee site progress, coordinate contractors/subcontractors, manage inspections and snag lists, and ensure smooth handover and close-out</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Project Planning",
+      "uuid": "7a51b3c516f387f33de6b28cc0627b18",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interior Design",
+      "uuid": "b70d39e4c20b2a45df4f50c334773f63",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Delivery",
+      "uuid": "e4a9ed5b8ac0f6f0ac00bcb37d4567f2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "SketchUp",
+      "uuid": "e9cdba62ea90ae2e58d00d1fa6a892a5",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24213",
+  "occupationId": "OCC000473",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 4,
+      "category": "Architecture / Interior Design"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201609632Z",
+    "description": null,
+    "name": "ROOOT STUDIO PTE. LTD.",
+    "ssicCode": "74191",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T08:47:21.000Z",
+    "ssicCode2020": "74191",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609632Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609632Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609632Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609632Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160605",
+    "deletedAt": null,
+    "createdBy": "ec1728c2-96cf-47a9-ae90-1b41ede5eb68",
+    "createdAt": "2026-01-26T09:48:07.000Z",
+    "updatedAt": "2026-01-26T09:48:07.000Z",
+    "emailRecipient": "ec1728c2-96cf-47a9-ae90-1b41ede5eb68",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 114,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 17,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/architecture/project-manager-rooot-studio-786d9d43621e88bdd9cd7aee95a056fc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/786d9d43621e88bdd9cd7aee95a056fc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/786d9d43621e88bdd9cd7aee95a056fc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

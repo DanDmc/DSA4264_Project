@@ -1,0 +1,234 @@
+{
+  "uuid": "ea743decfd1c7a58da79b74a15c75565",
+  "sourceCode": "Employer Portal",
+  "title": "business development manager",
+  "description": "<p>drives company growth by finding new opportunities, building client relationships, and developing strategies to increase revenue, often acting as the first point of contact for potential clients, researching market trends, and collaborating with sales/marketing to expand brand reach and profitability</p><p>. Key duties involve market research, strategic planning, networking, negotiation, proposal writing, and managing client accounts for long-term success</p><p>.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Account Management",
+      "uuid": "09f0c5159c5e34504e453eff3fc70324",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategic Planning",
+      "uuid": "1056ea32e61274889e2f1b9c48a5a515",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Proposal Writing",
+      "uuid": "188c2ee04937f7cf31640458736a879d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "B2B",
+      "uuid": "91e32a5fc05beb6db7bf9cd75b53e586",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12212",
+  "occupationId": "OCC000934",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201902953R",
+    "description": null,
+    "name": "ZI JUN GE HEALTH HALL PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T06:43:17.000Z",
+    "ssicCode2020": "96022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201902953R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201902953R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201902953R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201902953R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "809",
+    "street": "FRENCH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "KITCHENER COMPLEX",
+    "postalCode": "200809",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30832700516353,
+    "lng": 103.862005870884
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0021984",
+    "deletedAt": "2026-01-19T17:15:04.000Z",
+    "createdBy": "0b7840f0-e9e2-4a62-bd18-6603188abc38",
+    "createdAt": "2026-01-05T12:25:05.000Z",
+    "updatedAt": "2026-01-26T05:43:35.000Z",
+    "emailRecipient": "79845d82-879c-4909-a243-d1fa728b1c9d",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 155,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-05",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 17,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/personal-care/business-development-manager-zi-jun-ge-health-hall-ea743decfd1c7a58da79b74a15c75565",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8500,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ea743decfd1c7a58da79b74a15c75565"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ea743decfd1c7a58da79b74a15c75565/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

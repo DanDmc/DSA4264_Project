@@ -1,0 +1,223 @@
+{
+  "uuid": "567170d99b72402f394bd52d392d782c",
+  "sourceCode": "Employer Portal",
+  "title": "Network Engineer",
+  "description": "<p>Epergne Solutions is looking for a Network Engineer We are looking for a skilled with strong expertise in campus networking, network security, and enterprise access control solutions. The role involves designing, implementing, securing, and supporting wired and wireless networks, firewall technologies, and zero-trust security platforms in a large enterprise environment.<br /></p><h3>Required Skills & Qualifications</h3><ul><li><p>Strong experience in <strong>campus wired and wireless networking</strong>.</p></li><li><p>Hands-on expertise with <strong>Infoblox DDI</strong>.</p></li><li><p>Experience managing <strong>firewalls</strong> and <strong>Zscaler ZIA/ZPA/ZTNA</strong>.</p></li><li><p>Practical knowledge of <strong>Cisco Catalyst Center</strong> and <strong>Cisco ISE</strong>.</p></li><li><p>Solid understanding of networking protocols (TCP/IP, VLANs, routing, switching).</p></li><li><p>Knowledge of security best practices and zero-trust principles.</p></li><li><p>Excellent troubleshooting and documentation skills.</p></li></ul><h3>Preferred Qualifications</h3><ul><li><p>Cisco certifications (CCNP, CCIE – Enterprise or Security).</p></li><li><p>Experience in large enterprise or global network environments.</p></li><li><p>Exposure to cloud networking and hybrid architectures.</p></li><li><p>ITIL or similar operational experience.</p></li></ul><p><strong></strong></p><p> </p>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "OSPF",
+      "uuid": "0ad08eb2bbda87a0c9794a126663e47a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCNA",
+      "uuid": "3d645983387566a4af67b11ff5f6bc1d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCNP",
+      "uuid": "4f0bfac243b0cece6b00889e526c7304",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wireless",
+      "uuid": "7beff197adfc70df7ee315bfa4b1af75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IP",
+      "uuid": "a12a3079e14ced46e69ba52b8a90b21a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WAN",
+      "uuid": "e4c50e7a3518208e18c827187578acdf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VPN",
+      "uuid": "eaef8590a83770745b6591921835bf08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC061349",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201807042Z",
+    "description": "<p>Epergne Solutions is a leading IT solution provider with niche, comprehensive and leading-edge capabilities. Our primary focus is to be a trusted partner and strategic technology advisor to our clients.</p>\n\n<p>We provide high quality IT solutions and services by adopting to latest technologies with a competent workforce. Our experience allows us to analyze your needs quickly and thus deliver on our promises faster than others, and within budget. </p>\n",
+    "name": "EPERGNE SOLUTIONS PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:25:40.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201807042Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193495",
+    "deletedAt": null,
+    "createdBy": "e8655040-8947-4e56-a242-c1ede083faaf",
+    "createdAt": "2026-01-31T09:39:42.000Z",
+    "updatedAt": "2026-01-31T09:39:42.000Z",
+    "emailRecipient": "e8655040-8947-4e56-a242-c1ede083faaf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 110,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/network-engineer-epergne-solutions-567170d99b72402f394bd52d392d782c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 14000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/567170d99b72402f394bd52d392d782c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/567170d99b72402f394bd52d392d782c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

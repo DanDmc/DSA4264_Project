@@ -1,0 +1,211 @@
+{
+  "uuid": "d19650e728436a38eec992684c5154a0",
+  "sourceCode": "Employer Portal",
+  "title": "Node.js Backend Developer (AWS) | Contract",
+  "description": "<p><strong>Job Scope:</strong><br />As the Node.js Backend Developer, you will contribute to the design, implementation and operation of backend services running on AWS. You’ll architect secure, scalable APIs and event-driven workloads on platforms such as AWS Lambda, API Gateway, Secrets Manager, SQS / SNS / EventBridge, ensuring reliability, performance and compliance. This role requires deep hands-on Node.js development experience, and solid understanding of secure, compliant delivery on AWS.</p><p><strong>Key Responsibilities:</strong></p><ul><li>Deliver features end-to-end, build APIs, Lambda functions, and backend services from user stories and technical designs.</li><li>Review requirements and user stories for technical feasibility, scope and risk. Propose pragmatic alternatives when needed.</li><li>Investigate issues, perform root cause analysis and implement resilient fixes with tests.</li><li>Quality first, write clean and testable code; add unit/integration tests, ensure accessibility (WCAG), performance and security best practices.</li><li>Participate in code reviews, maintain coding standards, and improve the component library.</li><li>Partner with business analysts, refine acceptance criteria, clarify edge cases and ensure business value is met.</li><li>Agile way of working, contribute to backlog grooming, daily stand-ups, and retrospectives; and provide accurate estimates.</li><li>Collaborate on CI/CD, feature flags, and observability for safe frequent release.</li></ul><p><strong>Job Qualifications:</strong></p><ul><li>Bachelor’s Degree in Computer Science / Information Technology or equivalent.</li><li>Minimum 4 years of total backend experience and hands-on Node.js / AWS Lambda development experience.</li><li>Experience in having built applications on AWS architecture (e.g. Lambda, API Gateway, S3, RDS, CloudWatch).</li><li>Experience with AWS Lambda development (handlers, layers, cold-start awareness, IaC packaging/deploy).</li><li>Experience with event-driven design (idempotency keys, DLQs, retries with backoff).</li><li>Hands-on experience on Caching layers (Redis).</li><li>Experience in regulated audit trails, data retention, PII handling.</li><li>Solid understanding of TypeScript or JavaScript, async patterns, and error handling.</li><li>Hands-on experience with OAuth & OIDC authentications, token handling (authorization code flow, ID token validation, refresh token rotation).</li><li>Familiarity with testing (Jest, Mocha, or similar) and API/integration testing.</li><li>Comfort with Git workflows and pull-request reviews.</li><li>Knowledge in authentication/authorization (Cognito, OAuth/OIDC, JWT) and OWASP practices.</li><li>Knowledge in Agile Methodology or Scrum process will be advantageous.</li><li>Excellent debugging skills and a structured approach to problem solving.</li><li>Practical experience with Git, branching strategies, and code reviews.</li><li>Clear, proactive communication and the ability to work closely with business analysts and stakeholders.</li></ul><p><br /></p><p>Interested candidates can click apply for more information.</p><p>** We regret to inform that only shortlisted candidates will be notified. **</p><p>We respect your privacy and all communication will be treated with confidentiality.  If you wish to know more about this position or explore other roles, please prepare your updated profile and get in touch with our consultants.</p><p>Please note that your response to this advertisement and communications with us pursuant to this advertisement will constitute informed consent to the collection, use and/or disclosure of personal data by Manpower for the purpose of carrying out its business, in compliance with the relevant provisions of the Personal Data Protection Act 2012.</p><p>Rallonza Bernice Mae Nocum | EA License No. 02C3423 Personnel | Registration No. R1442141</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CloudWatch",
+      "uuid": "311bdda432aba736b8dcb987523c0c92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "NodeJS",
+      "uuid": "46753be63b6ba8975974383d42485f70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scrum",
+      "uuid": "4db2c0d8fe4b4e96ecea3d51b4ffabfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TypeScript",
+      "uuid": "558b544cf685f39d34e4903e39c38b67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API Gateway",
+      "uuid": "8c567ca49dc8d5e5c91bb07d11b36170",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Methodology",
+      "uuid": "9016c071b388e2d6e157e492b9e4b2f8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS Lambda",
+      "uuid": "dee7ff8f7b10b9d388c7c561e9413b0d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013733",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199505951H",
+    "description": "<p><strong>Manpower® is a global leader in contingent staffing and permanent resourcing, providing companies with strategic and operational flexibility and creating talent at scale.</strong></p><p>As part of <strong>ManpowerGroup®</strong>, the world leader in innovative workforce solutions, we deliver high-impact strategies that help organizations achieve their business goals and enhance competitiveness.</p><p>Since 1996, <strong>Manpower Singapore</strong> has partnered with businesses to provide a continuum of staffing solutions—from incidental to strategic—helping them win in a rapidly changing world of work. At the same time, we empower jobseekers to find roles that match their skills and ambitions.</p><p>Our<strong> specialized recruiters leverage data-driven insights to assess, guide, and place people into meaningful, sustainable employment</strong>, enabling individuals to build rewarding careers while helping organizations thrive.</p><p>We work with hundreds of SMEs and multinational companies across diverse industries, including:</p><ul><li>Banking & Finance</li><li>Corporate Finance & Accounting</li><li>Call Centers</li><li>Engineering</li><li>Events & Exhibitions</li><li>Healthcare</li><li>Hospitality</li><li>Information Technology</li><li>Life Sciences</li><li>Logistics & Supply Chain</li><li>Oil & Gas</li><li>Retail</li></ul><p>Whether you’re looking for your next opportunity or seeking talent to power your business, <strong>Manpower Singapore creates powerful connections that unlock potential and drive success.</strong></p><p><strong>Learn more at manpower.com.sg or follow us on LinkedIn (</strong><a href=\"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmanpowersingapore%2F&data=05%7C02%7Camelia.cai%40manpowergroup.com.sg%7Ce237199c438c4827ee1708de392eb801%7Ce2ba81b803fe407c96a1f4bc0f512e7d%7C0%7C0%7C639011069985387949%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4Ykga5QHEK3f8sVLjODD3l6GZLKNjxRVeGEdsoHDX2E%3D&reserved=0\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.linkedin.com/company/manpowersingapore/</a><strong>)</strong></p><p>Please note that your response to this advertisement and communications with us pursuant to this advertisement will constitute informed consent to the collection, use and/or disclosure of personal data by Manpower for the purpose of carrying out its business, in compliance with the relevant provisions of the Personal Data Protection Act 2012.</p><p>Employment Agency License No.: 02C3423</p>",
+    "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:01:01.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H/schemes"
+      }
+    },
+    "logoFileName": "643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181606",
+    "deletedAt": null,
+    "createdBy": "36f55110-3da7-4c28-b94f-3dfc2bd2a8a4",
+    "createdAt": "2026-01-29T07:03:24.000Z",
+    "updatedAt": "2026-01-29T07:03:25.000Z",
+    "emailRecipient": "36f55110-3da7-4c28-b94f-3dfc2bd2a8a4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 35,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/nodejs-backend-developer-contract-manpower-staffing-services-d19650e728436a38eec992684c5154a0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d19650e728436a38eec992684c5154a0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d19650e728436a38eec992684c5154a0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,239 @@
+{
+  "uuid": "a9c9047eb42b4f70c9d901cbdd42a1a7",
+  "sourceCode": "Employer Portal",
+  "title": "Staff / Principal Research Scientist (Deep Learning)",
+  "description": "<p><u><strong>Position Overview:</strong></u></p>\n<p>Black Sesame Technologies is a rapidly expanding artificial intelligence company backed by substantial VC funding, dedicated to pioneering algorithms and chips for artificial intelligence and image processing. As a Research Scientist in this role, you will collaborate closely with leading researchers to forge cutting-edge perception algorithms aimed at tackling real-world challenges in autonomous driving and beyond. The primary focus of perception is to identify and comprehend the surrounding environment of autonomous vehicles, supporting L2 and L3 automated driving capabilities. This involves constructing a real-time virtual representation of the local environment by processing input data predominantly from cameras, alongside data from complementary sensors such as radars, IMU, and ultrasonic sensors.</p>\n<p><br></p>\n<p><u><strong>Job Description:</strong></u></p>\n<ul>\n  <li>Develop deep learning-based perception algorithms encompassing object detection, lane detection, segmentation, depth estimation, and other related tasks.</li>\n  <li>Innovate state-of-the-art network architectures and training methodologies, assessing their efficacy in addressing vision-related challenges.</li>\n  <li>Execute deep network compression tailored for ASIC platforms.</li>\n  <li>Stay abreast of the latest advancements in deep learning and computer vision literature, proactively proposing novel concepts.</li>\n  <li>Contribute to patent and research paper publications.</li>\n</ul>\n<p><u><strong>Job Requirements:</strong></u></p>\n<p>- Master Degree/ PhD in Computer Science, electrical engineering, or a related field.</p>\n<p>- Possess 3+ years of experience in computer vision / machine learning development.</p>\n<p>- Demonstrated expertise in research and development within one or more of the following domains:</p>\n<ul>\n  <li>Deep network development, particularly with visual data.</li>\n  <li>Object detection and tracking.</li>\n  <li>Stereo / optical flow / depth estimation.</li>\n  <li>Multi-view geometry and 3D computer vision.</li>\n  <li>Structure from motion.</li>\n  <li>Network compression and optimization.</li>\n  <li>Network-based sensor fusion.</li>\n  <li>Mathematical optimization.</li>\n  <li>Proficient programming skills in Python (knowledge of C++ is advantageous).</li>\n</ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Compression",
+      "uuid": "07f5d2d550d5961d1dd0984fe666a2f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Image Processing",
+      "uuid": "2c271d464e37e9050198520140c51f13",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Segmentation",
+      "uuid": "4a2b3cd1dcfc8f6b662530c344c1b6c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "uuid": "5cd2adc9e2a5254e4c1da803519f298b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Vision",
+      "uuid": "753a222580475bbbb7ef8d7deea446f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Research and Development",
+      "uuid": "82be779191266b6ef0597be0c7f60d6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Autonomous Vehicles",
+      "uuid": "cad94511d02a972b373dc55ca9c9883b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ASIC",
+      "uuid": "cd2891bad0da1124faa8496670905022",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geometry",
+      "uuid": "d9c6333623e6357515fcbf17be806273",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC013825",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "92",
+  "ssecFos": "0759",
+  "postedCompany": {
+    "uen": "201816337G",
+    "description": "<p>Black Sesame Technologies is a leading automotive-grade computing SoC and SoC-based intelligent vehicle solution provider. Since our founding in 2016, we have been committed to driving innovation and pushing the boundaries of intelligent vehicle technology. In 2024, we proudly marked a significant milestone by being officially listed on the main board of the Hong Kong Stock Exchange (stock code: 2533.HK). Our journey began with the Huashan Series high-computing power SoCs designed for autonomous driving, and in 2023, we introduced the Wudang Series cross-domain SoCs to meet the increasingly diverse and sophisticated demands of intelligent vehicles, while also expanding into broader application areas. Our proprietary automotive-grade products and technologies empower intelligent vehicles with mission-critical capabilities such as autonomous driving, smart cockpit, advanced imaging, and connectivity.<br>\n<br>\nAt Black Sesame Technologies, we not only provide robust SoCs and SoC-based solutions powered by our in-house developed IP cores, algorithms, and support software, but we also bring full-stack autonomous driving capabilities to meet a wide range of customer needs. We are committed to fostering a culture of innovation, where our employees are empowered to push boundaries and develop cutting-edge technology. Our people are at the core of our success, and we offer competitive compensation, growth opportunities, and a collaborative environment to ensure everyone thrives. We believe that innovation drives the future, and everything we do is aimed at making the future of intelligent vehicles safer, smarter, and more efficient for our customers.</p>",
+    "name": "BLACK SESAME TECHNOLOGIES (SINGAPORE) PTE. LTD.",
+    "ssicCode": "72102",
+    "employeeCount": null,
+    "companyUrl": "http://www.blacksesame.com/en",
+    "lastSyncDate": "2026-01-29T02:34:58.000Z",
+    "ssicCode2020": "72102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201816337G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201816337G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201816337G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201816337G/schemes"
+      }
+    },
+    "logoFileName": "1972e05818e6af27c9663694f320270f/black-sesame-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/1972e05818e6af27c9663694f320270f/black-sesame-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "FUSIONOPOLIS WALK",
+    "floor": null,
+    "unit": null,
+    "building": "SOLARIS",
+    "postalCode": "138628",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.29801991446368,
+    "lng": 103.790067020801
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0020149",
+    "deletedAt": "2026-01-19T17:15:04.000Z",
+    "createdBy": "a2472754-b380-415e-9aee-10b500bf65bc",
+    "createdAt": "2026-01-05T09:08:49.000Z",
+    "updatedAt": "2026-01-29T05:34:12.000Z",
+    "emailRecipient": "a2472754-b380-415e-9aee-10b500bf65bc",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 143,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-05",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 9,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/staff-principal-research-scientist-black-sesame-technologies-a9c9047eb42b4f70c9d901cbdd42a1a7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 18000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a9c9047eb42b4f70c9d901cbdd42a1a7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a9c9047eb42b4f70c9d901cbdd42a1a7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

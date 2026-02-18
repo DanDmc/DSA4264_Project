@@ -1,0 +1,237 @@
+{
+  "uuid": "813161d6d6ab0e554324fbf160285160",
+  "sourceCode": "Employer Portal",
+  "title": "Cloud and Infrastructure Solutions Architect",
+  "description": "<p><strong>Job responsibilities:</strong></p><ul><li>Lead the design, architecture, and implementation of complex infrastructure solutions, including compute, storage, networking, cloud platforms, and related technologies.</li><li>Develop and maintain infrastructure roadmaps, standards, policies, and best practices in alignment with business objectives and industry trends.</li><li>Provide technical leadership and guidance to infrastructure teams, overseeing project delivery from concept to production.</li><li>Evaluate and recommend new technologies and solutions to improve efficiency, performance, security, and cost-effectiveness of our infrastructure.</li><li>Collaborate with various business units, application development teams, and other stakeholders to understand requirements and translate them into technical infrastructure designs.</li><li>Perform capacity planning, performance tuning, and troubleshooting of critical infrastructure components.</li><li>Ensure adherence to security best practices, compliance regulations, and bank’s internal governance frameworks.</li><li>Develop and review technical documentation, including architecture diagrams, design specifications, and operational procedures.</li><li>Act as a subject matter expert for complex infrastructure challenges and provide high-level technical support.</li><li>Mentor junior architects and engineers, fostering a culture of technical excellence and continuous improvement.</li></ul><p></p><p><strong>Key requirements:</strong></p><ul><li>AWS, Azure, or Google Cloud Platform</li><li>VMware, OpenStack, Kubernetes, Docker</li></ul><p></p><p><strong>Requirements:</strong></p><ul><li>Bachelor’s degree in computer science, Information Technology, Engineering, or a related field. Master's degree preferred.</li><li>Minimum of 8-10 years of progressive experience in IT infrastructure architecture, with at least 3-5 years in a senior architect role within a large enterprise, preferably in the financial services sector.</li><li>Deep expertise in designing and implementing solutions across multiple infrastructure domains.</li><li>Cloud Platforms: Extensive experience with AWS, Azure, or Google Cloud Platform (certifications highly desirable).</li><li>Virtualization & Containerization: VMware, OpenStack, Kubernetes, Docker.</li><li>Operating Systems: Linux (RHEL, Ubuntu), Windows Server.</li><li>Networking: TCP/IP, DNS, DHCP, VPN, Firewalls, Load Balancers (e.g., F5), SDN.</li><li>Storage: SAN, NAS, Object Storage, Backup & Recovery solutions.</li><li>Databases: Relational (e.g., Oracle, SQL Server) and NoSQL databases.</li><li>Proven experience with infrastructure as code (IaC) tools such as Terraform, Ansible, or CloudFormation.</li><li>Strong understanding of cybersecurity principles, data protection, and compliance frameworks (e.g., MAS TRM, ISO 27001).</li><li>Excellent analytical, problem-solving, and decision-making skills.</li><li>Ability to communicate complex technical concepts effectively to both technical and non-technical audiences.</li><li>Strong leadership qualities with the ability to influence and drive change across teams.</li><li>Relevant industry certifications (e.g., TOGAF, ITIL, CISSP, Cloud Architect certifications) are a significant advantage.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ubuntu",
+      "uuid": "3d945423f8e9496c429a5d8c65b4604f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DHCP",
+      "uuid": "54201c55d2bdc7a9e19d9e032d8c0ede",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Infrastructure Architecture",
+      "uuid": "a7ff5dbe222c2bda185337b7d608073d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TOGAF",
+      "uuid": "afc84a6ceced9e583a9a30cc8e80db8d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Tuning",
+      "uuid": "bffe7898e0faada14e4fb09bd6717314",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25113",
+  "occupationId": "OCC013953",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199600101K",
+    "description": "<p>D L Resources Pte Ltd, established on 5 January 1996, is a Singapore-based Information Technology and Human Capital Services provider. We specialize in delivering end-to-end IT professional services and agency-employed contract staffing solutions to a diverse client base, including leading banks, financial institutions, and multinational corporations.</p>\n<p><br>\nEA License No: 24C2333</p>\n<p><br></p>\n<p>Add us on our recruitment team linkedin profile: https://www.linkedin.com/in/dlresourcesrecruitment/</p>",
+    "name": "D L RESOURCES PTE LTD",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "https://www.linkedin.com/company/d-l-resources/",
+    "lastSyncDate": "2026-02-04T02:24:10.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199600101K/schemes"
+      }
+    },
+    "logoFileName": "5a03bb67a7832f44ae754c73d08c48c1/d-l-resources.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5a03bb67a7832f44ae754c73d08c48c1/d-l-resources.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187217",
+    "deletedAt": null,
+    "createdBy": "5feee21b-796d-4dd8-88c7-3ee96fbd92bc",
+    "createdAt": "2026-01-30T03:21:12.000Z",
+    "updatedAt": "2026-01-30T03:21:12.000Z",
+    "emailRecipient": "5feee21b-796d-4dd8-88c7-3ee96fbd92bc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 26,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/cloud-infrastructure-solutions-architect-d-l-resources-813161d6d6ab0e554324fbf160285160",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/813161d6d6ab0e554324fbf160285160"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/813161d6d6ab0e554324fbf160285160/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

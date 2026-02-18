@@ -1,0 +1,231 @@
+{
+  "uuid": "2c3fc3144289cdcf71fe19a6dd14aa42",
+  "sourceCode": "Employer Portal",
+  "title": "SALES OPERATING MANAGER",
+  "description": "<ul><li>Identify and analyze potential wholesale market segments and opportunities.</li><li>Build and maintain strong relationships with existing and potential wholesale customers.</li><li>Conduct market research and analysis to understand customer needs and competitor activities.</li><li>Recruit, train, and motivate sales personnel.</li><li>Monitor and analyze sales performance data to identify areas for improvement.</li><li>Manage budgets and track expenses.</li><li>Stay up-to-date on industry trends and best practices.</li><li>Ensure compliance with occupational health and safety regulations.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mathematics",
+      "uuid": "540b21ecdb276f5087ee585cedd6d5d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Economics",
+      "uuid": "7e1e3f377648773863a504d18b367ea3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Management",
+      "uuid": "948590535142d16883c105bb52330fb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Operations",
+      "uuid": "9dd5e4a3d36861e2bafe904fc2161237",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis and Interpretation",
+      "uuid": "aa6b1036aecea9759efd437c88d3d3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Occupational Health",
+      "uuid": "e315b77fc59c9b5849089ad3920ad1a1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "uuid": "f544f262e964e2067e7fb53aa23c6379",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 42,
+      "category": "Wholesale Trade"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202550539G",
+    "description": null,
+    "name": "HRR CONSULTANCY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:11:17.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202550539G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202550539G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202550539G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202550539G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "PIONEER CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "WEST PARK BIZCENTRAL",
+    "postalCode": "628555",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31268123160608,
+    "lng": 103.695041980435
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182397",
+    "deletedAt": null,
+    "createdBy": "e2c35ce6-9be4-4960-8e41-b2bda7263ccc",
+    "createdAt": "2026-01-29T08:25:54.000Z",
+    "updatedAt": "2026-01-29T08:26:56.000Z",
+    "emailRecipient": "e2c35ce6-9be4-4960-8e41-b2bda7263ccc",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 52,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/wholesale-trade/sales-operating-manager-hrr-consultancy-2c3fc3144289cdcf71fe19a6dd14aa42",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11500,
+    "minimum": 6500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2c3fc3144289cdcf71fe19a6dd14aa42"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2c3fc3144289cdcf71fe19a6dd14aa42/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

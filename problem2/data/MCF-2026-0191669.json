@@ -1,0 +1,229 @@
+{
+  "uuid": "b2258bf2a006105a32ac30c187de0779",
+  "sourceCode": "Employer Portal",
+  "title": "Senior IT Infrastructure Specialist",
+  "description": "<p><strong>Role Purpose:</strong> The Senior IT Infrastructure Specialist will serve as the primary technical lead for desktop and end-user infrastructure within the <strong>Banking and Financial Services (BFS)</strong>\nenvironment. You will be the single point of contact for rapid service\nrestoration while proactively managing a diverse fleet of Windows and macOS\ndevices.</p><p><strong>Key Responsibilities:</strong></p><ul><li><strong>Tier2.5 Infrastructure Support:</strong> Provide advanced troubleshooting for complex user issues, triaging incidents across infrastructure, database, and application layers.</li><li><strong>Hybrid Device Management:</strong> Manage and maintain the Desktop Standard Operating Environment (SOE) for both <strong>Windows and macOS</strong> fleets using enterprise-grade MDM solutions.</li><li><strong>Proactive System Monitoring:</strong> Perform daily proactive health checks of the infrastructure and 40+ core business applications to prevent downtime.</li><li><strong>Migration & Project Leadership:</strong> Lead and support critical IT projects, including large-scale OS migrations (e.g., Windows 10/11) and hardware refresh cycles.</li><li><strong>UAM & Compliance:</strong> Manage User Access Management (UAM) and ensure all support activities align with <strong>ITIL V3/V4</strong> frameworks and strict banking regulatory standards.</li></ul><p><strong>Technical Skills & Requirements:</strong></p><ul><li><strong>MDM Expertise: </strong>Proven experience in managing application deployments and device policies via <strong>JAMF (macOS)</strong> and <strong>Microsoft Intune (Windows/Mobile)</strong>.</li><li><strong>Advanced Monitoring Tools:</strong> High proficiency in enterprise monitoring suites such as <strong>ITRS Geneos</strong> and job scheduling tools like <strong>Autosys </strong>for batch monitoring.</li><li><strong>Scripting & Automation:</strong> Ability to automate routine health checks and deployments using <strong>Shell Scripting, PowerShell, and YAML (Ansible)</strong>.</li><li><strong>Middleware Knowledge:</strong> Basic administration and troubleshooting of middleware platforms,\n     specifically <strong>IBM WebSphere</strong> and <strong>Apache Tomcat</strong>.</li><li><strong>Domain Knowledge:</strong> 10+ years of experience in a Production Support or Deskside Support role\n     within the <strong>Banking/Finance sector</strong></li></ul><p><strong>Qualifications:</strong></p><ul><li><strong>Education:</strong> Bachelor’s  Degree in Information Technology or a related field.</li><li><strong>Certification:</strong> <strong>ITIL Foundation Certification</strong> is mandatory.</li></ul><p><strong>Platform Experience:</strong></p><p> Strong familiarity with multi-OS environments (Linux, Windows, macOS)</p>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "YAML",
+      "uuid": "9463f87bbed1fcdacfb8d40e185ca2bc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Autosys",
+      "uuid": "d7a7751a4c308d057251f67dd28ee5ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Infrastructure Support",
+      "uuid": "f5c90d5caef83cbc1c4a8317e5b1ef33",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC060890",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200709068N",
+    "description": "<p>JONDAVIDSON PTE. LTD, an executive search company &nbsp;was formed in 2007. We cover the entire spectrum of search with special emphasis on middle management and above. Our sectors included IT/Telco, Healthcare, Hospitality, Engineering, Marine Oil and Gas, Aviation etc.</p>\n<p>We believe in going the distance with you - &nbsp;Our clients, partners and candidates.</p>\n<p>&nbsp;</p>",
+    "name": "JONDAVIDSON PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:54:43.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200709068N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200709068N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200709068N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200709068N/schemes"
+      }
+    },
+    "logoFileName": "c15a9002ca53e9b8155620354ee8e3b3/jondavidson.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/c15a9002ca53e9b8155620354ee8e3b3/jondavidson.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "CT HUB",
+    "postalCode": "339407",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31221743176265,
+    "lng": 103.862824192961
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191669",
+    "deletedAt": null,
+    "createdBy": "c2cdc445-f478-46fb-931d-daf996b365cc",
+    "createdAt": "2026-01-30T12:53:30.000Z",
+    "updatedAt": "2026-01-30T12:53:30.000Z",
+    "emailRecipient": "c2cdc445-f478-46fb-931d-daf996b365cc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 85,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-infrastructure-specialist-jondavidson-b2258bf2a006105a32ac30c187de0779",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10500,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b2258bf2a006105a32ac30c187de0779"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b2258bf2a006105a32ac30c187de0779/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

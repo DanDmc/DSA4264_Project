@@ -1,0 +1,235 @@
+{
+  "uuid": "cccb61edbfd032c5cd84dbc73e0bbbfa",
+  "sourceCode": "Employer Portal",
+  "title": "IT Operator",
+  "description": "<p>We are seeking an at least 4 to 5 years experienced IT Operator with expertise in change management, risk assessments, IT security compliance, and AWS. The role involves managing IT operations, ensuring system stability, conducting risk assessments, and ensuring adherence to security policies while working with AWS cloud services.</p><p>Familiar with change management process, practices</p><p>Have done actual changes in prod before</p><p>Clear-minded, Calm and Stable.</p><p>Can articulate properly.</p><p>E.g. While many things will be SOP driven, many stuffs are not.</p><p>E.g. If I asked him did he do the copy and paste the script in the notepad in his local machine or in the notepad in Citrix, he/she must not say I don’t know (the difference)</p><p>Decent level of computer literacy</p><p>Not as a software developer/coder, but as a “user” for cyberarc, Citrix, Jenkins pipeline, UI or command line base “run” commands.</p><p><u>Key Responsibilities:</u></p><p>Change Management: Oversee the change management process, enforce Change Management policies to minimize risks and downtime, ensuring proper documentation, review, and approval of changes to minimize disruptions.</p><p>Risk Assessment & Compliance: Conduct regular risk assessments, ensuring systems adhere to IT security policies and compliance frameworks (e.g., ISO 27001, GDPR).</p><p>Security & Incident Management: Enforce IT security policies and assist in security incident response and audits.</p><p>AWS Management: Manage and maintain AWS infrastructure, automate deployments using tools like Terraform/CloudFormation, and optimize cloud resources.</p><p>Collaboration & Communication: Work with cross-functional teams to support IT operations, providing updates on change management, risk, and security compliance.</p><p>Monitoring & Optimization: Ensure optimal performance and availability of IT systems and cloud resources.</p><p><u>Required Skills & Qualifications:</u></p><p>Proven experience in IT operations, change management, and security compliance.</p><p>Hands-on experience with AWS services (EC2, S3, Lambda, RDS, CloudWatch, etc).</p><p>Familiarity with ITIL or similar ITSM frameworks.</p><p>Knowledge of security best practices and tools.</p><p>Strong problem-solving, incident management, and communication skills.</p><p><u>Preferred Qualifications:</u></p><p>AWS certifications (e.g., AWS Certified SysOps Administrator, Solutions Architect, DevOps Engineer).</p><p>Experience with automation tools (e.g., Terraform, Ansible).</p><p>Familiarity with security frameworks (e.g., NIST, SOC 2).</p><p>Personal Attributes:</p><p>Detail-oriented with strong analytical skills.</p><p>Proactive and able to work in a fast-paced environment.</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dashboard",
+      "uuid": "2938c7f7e560ed972f8a4f68e80ff834",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Thermography",
+      "uuid": "303b61a5a0726e9d7a3b19e8d78f1ecc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HAZOP",
+      "uuid": "3e21ac103fd19f9c22db0244d86c7755",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Citrix",
+      "uuid": "44259680bd01002134994d85d023710c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Tools",
+      "uuid": "6610f9d34d0252187120a02b66c88b5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Engineering",
+      "uuid": "77d3c2a59d9947a495204bc9156b6726",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO 27001",
+      "uuid": "7829c763646fba446ea5831ef095f756",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Operations",
+      "uuid": "87727a06ba270d2c9eafe81149c048c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Plant Operations",
+      "uuid": "cdc5f162f12e569b55338f70753dfc46",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Incident Management",
+      "uuid": "f3723f30315ea30f2f4b9101556772e2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35121",
+  "occupationId": "OCC060959",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200811928E",
+    "description": "<p>\r\n\tINTELLECT MINDS PTE. LTD.</p>\r\n",
+    "name": "INTELLECT MINDS PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T03:03:18.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E/schemes"
+      }
+    },
+    "logoFileName": "7631dadac69fcf44a79ea90ff9dced1c/intellect-minds.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7631dadac69fcf44a79ea90ff9dced1c/intellect-minds.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "750A",
+    "street": "CHAI CHEE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ESR BIZPARK @ CHAI CHEE",
+    "postalCode": "469001",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.3229782024827,
+    "lng": 103.922124606113
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172411",
+    "deletedAt": null,
+    "createdBy": "78199c2a-a324-4ae7-95a1-8a88c51ef1c7",
+    "createdAt": "2026-01-28T02:47:16.000Z",
+    "updatedAt": "2026-01-28T02:47:16.000Z",
+    "emailRecipient": "78199c2a-a324-4ae7-95a1-8a88c51ef1c7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 88,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/operator-intellect-minds-cccb61edbfd032c5cd84dbc73e0bbbfa",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cccb61edbfd032c5cd84dbc73e0bbbfa"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cccb61edbfd032c5cd84dbc73e0bbbfa/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

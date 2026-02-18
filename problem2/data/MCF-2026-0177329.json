@@ -1,0 +1,229 @@
+{
+  "uuid": "961fdbc5801fabe0ddece912cf9ef218",
+  "sourceCode": "Employer Portal",
+  "title": "Data Modeler",
+  "description": "<p>·   7+ years of hands-on data modelling and data migration experience for complex system and handling high volume data migration.</p><p>·    Prior experience in migrating complex data from legacy systems (SQL/MP, Enscribe) to PostgreSQL. </p><p>·  Deep knowledge of PostgreSQL performance and migration features (large-scale COPY ,FDW, partitioning, parallel query).<br />Must have Strong hands-on Python experience handling data migrations<strong>.</strong></p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Big Data",
+      "uuid": "3a9c1c8521b12754fc7582be72383e28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Modeling",
+      "uuid": "3b79d001b3b3546b2f497f24efa320e1",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Erwin",
+      "uuid": "3ceb8de477d3df7873f867b0b31699f8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hadoop",
+      "uuid": "53eb3dcfbb4c210bcd4fe1a985d7c946",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Management",
+      "uuid": "568483e9bd85504f3c9dcef24ecd3235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Integration",
+      "uuid": "6d8ab8489413756b1af6bdab6b80863e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Migration",
+      "uuid": "9b699c59be5ba510cd9c430a31843b23",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Data Architecture",
+      "uuid": "b2ae7e1f4d402f8338b1f5e26636171b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualization",
+      "uuid": "ce09e3d68182639402e8fd2f50368167",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Metadata",
+      "uuid": "ce21470ab49d1d1976bc3dc72438c183",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201531386D",
+    "description": "<p>   TRINITY CONSULTING SERVICES is a Professional Consulting, IT Solutions and Services Company. We strive to make your business systems more efficient and more reliable by working with you to implement and support the best in class service and innovative solutions.</p>  <p>   Our main focus is to create Client-Centric, Innovative IT Strategies and Comprehensive Solutions for the clients we support, and to implement that strategy in a timely and cost effective manner.</p>  <p>   Our Team comprises of skilled and experienced professionals from consulting and business environment with a diverse culture which heps our clients achieve higher return of investments.</p>  <p>    </p>  <p>   <strong>OUR SERVICES</strong></p>  <ul>   <li>    <strong>Technology Consulting Services</strong></li>   <li>    <strong>Managed Application Services</strong></li>   <li>    <strong>Managed Infrastructure Services</strong></li>  </ul>  <div>    </div>  ",
+    "name": "TRINITY CONSULTING SERVICES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "www.trinityconsulting.asia",
+    "lastSyncDate": "2026-02-04T00:54:57.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/schemes"
+      }
+    },
+    "logoFileName": "9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177329",
+    "deletedAt": null,
+    "createdBy": "e9cde954-78be-48c2-a597-bc165816f662",
+    "createdAt": "2026-01-28T11:10:16.000Z",
+    "updatedAt": "2026-01-28T11:10:16.000Z",
+    "emailRecipient": "e9cde954-78be-48c2-a597-bc165816f662",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 52,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/data-modeler-trinity-consulting-services-961fdbc5801fabe0ddece912cf9ef218",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/961fdbc5801fabe0ddece912cf9ef218"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/961fdbc5801fabe0ddece912cf9ef218/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

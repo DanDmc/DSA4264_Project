@@ -1,0 +1,243 @@
+{
+  "uuid": "0424e97fedefe67edabc9c6fa82aeac8",
+  "sourceCode": "Employer Portal",
+  "title": "Mechanical Design Engineer x 2",
+  "description": "<h2>Mechanical Design Engineer x 2</h2>\n<p><strong>Visit www.ppsjob.com.sg</strong></p>\n<p><br></p>\n<p>Bachelors Degree/Diploma in Mechanical/Mechatronics.<br>\nAt least 3-4 years experiences in Industrial Automation systems.<br>\nProficient in solidworks 3D software and AutoCAD drafting tools.<br>\nCapable to work independently<br>\nAbility to design equipment with mechanical, pneumatic and electronic system<br>\nWilling to travel in the Asian Regions.<br>\nExtensive knowledge and experience in process automation system</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Process Automation",
+      "uuid": "27746d2889a20e07549a4ed41eb9f5fd",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Product Design",
+      "uuid": "352bb1e322c25c574bc3ff1a6d427380",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Tolerance",
+      "uuid": "38a4462de8ef7234a58e8f0798e29d04",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Solidworks",
+      "uuid": "5dcbc8d322035b0c6a6ecee8a3348fc8",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "work independently",
+      "uuid": "705d569f9582c71f7bc2bd1a0257acd9",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Product Development",
+      "uuid": "d324e27fb1cf5931e17c08a9a85f76bf",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "CAD",
+      "uuid": "eccb0954fca9f2005aea084605df5ee9",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21441",
+  "occupationId": "OCC002872",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 9,
+      "category": "Design"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1155",
+  "postedCompany": {
+    "uen": "200000419G",
+    "description": "<p><strong>Need New Job? </strong><br /><strong>Are you available for an interview this Monday or Thursday ?</strong><br /><strong>  Email CV (MS Word doc, PDF) to: hr@ppsjob.com.sg  </strong><br /><strong>  Visit and register online www.ppsjob.com.sg</strong></p><p>Ministry of Manpower Agency License No. 00C5285 <br />ACRA No. 20-0000419-G</p>",
+    "name": "PERMANENT PERSONNEL SERVICES PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.ppsjob.com.sg",
+    "lastSyncDate": "2026-02-04T02:35:54.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G/schemes"
+      }
+    },
+    "logoFileName": "e00d23ea0d74adc078e5592444d34422/permanent-personnel-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e00d23ea0d74adc078e5592444d34422/permanent-personnel-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1355866",
+    "deletedAt": "2025-12-21T17:15:05.000Z",
+    "createdBy": "37b5848f-aa7a-42d0-9d46-bf77571fabb1",
+    "createdAt": "2025-09-09T06:14:38.000Z",
+    "updatedAt": "2026-01-29T00:52:18.000Z",
+    "emailRecipient": "37b5848f-aa7a-42d0-9d46-bf77571fabb1",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 430,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-09-09",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 36,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/design/mechanical-design-engineer-x-2-permanent-personnel-services-0424e97fedefe67edabc9c6fa82aeac8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0424e97fedefe67edabc9c6fa82aeac8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0424e97fedefe67edabc9c6fa82aeac8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,205 @@
+{
+  "uuid": "e42cf168250e028aa773b5b3999f9514",
+  "sourceCode": "Employer Portal",
+  "title": "Head Cuisine Chef",
+  "description": "<ul><li><strong>Highly experienced with at least 10 years in cooking Indonesian cuisine, specializing in authentic Nasi Padang</strong></li><li><strong>Experience in managing Nasi Padang kitchen operations</strong></li><li><strong>In charge of menu development</strong></li><li><strong>Oversee all kitchen operations</strong></li><li><strong>Manage, lead and train kitchen staff </strong></li><li><strong>Manage inventory, controlling food costs and budgets</strong></li><li><strong>Ensures high food quality and presentation </strong></li><li><strong>Uphold health and safety standards in the kitchen</strong></li><li><strong>Collaborate with management to align operations with our goals</strong></li></ul>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Menu Development",
+      "uuid": "07e4c46520a8f03f3bb086eab6c969b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Catering",
+      "uuid": "e5f6696fe35a80686e78bd72bd59ca17",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009291",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "1321",
+  "postedCompany": {
+    "uen": "53041278X",
+    "description": null,
+    "name": "WARUNG M NASIR",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T17:33:43.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53041278X"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53041278X/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53041278X/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53041278X/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "721",
+    "street": "HAVELOCK ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "169645",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28921369760929,
+    "lng": 103.827868045218
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1367249",
+    "deletedAt": "2025-09-24T17:15:04.000Z",
+    "createdBy": "a6993251-69ce-4b23-86f4-758b516074ea",
+    "createdAt": "2025-09-10T15:51:27.000Z",
+    "updatedAt": "2026-01-27T17:43:11.000Z",
+    "emailRecipient": "a6993251-69ce-4b23-86f4-758b516074ea",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 87,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2025-09-10",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/head-cuisine-chef-warung-m-nasir-e42cf168250e028aa773b5b3999f9514",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e42cf168250e028aa773b5b3999f9514"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e42cf168250e028aa773b5b3999f9514/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

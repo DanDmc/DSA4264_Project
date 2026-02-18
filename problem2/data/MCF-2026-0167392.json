@@ -1,0 +1,226 @@
+{
+  "uuid": "3984476d5cc1505e2069bd4106d92692",
+  "sourceCode": "Employer Portal",
+  "title": "ADMINISTRATIVE ASSISTANT",
+  "description": "<p><strong>Job Responsibilities</strong></p><p>• Provide administrative and document control support to the General Contractor’s project team</p><p>• Manage project documents and drawings, including filing, version control, and distribution</p><p>• Coordinate project correspondence with clients, consultants, and subcontractors</p><p>• Track submissions, RFIs, and approvals, and follow up for timely close-out</p><p>• Assist in preparation and tracking of progress claims and payment documents</p><p>• Maintain SharePoint or internal document management systems and manage access permissions</p><p>• Circulate documents internally for review and approval, and support meeting coordination</p><p>• Perform any other ad-hoc duties as assigned</p><p><strong>Requirements</strong></p><p>• Minimum 3 years of construction industry experience</p><p>• Positive, proactive, detail-oriented, and responsible attitude</p><p>• Proficient in Microsoft Office (Word, Excel, PowerPoint)</p><p>• Good communication, reading, and writing skills in English and Chinese to liaise with Chinese-speaking associates</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Document Management",
+      "uuid": "04ab7e9520f65aa6c1c1c1eb8c397873",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SharePoint",
+      "uuid": "97f02f6993b93732b0d39dfe00466949",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing Skills",
+      "uuid": "ebd65911b99b625b1359ab340fb2b666",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202504292W",
+    "description": null,
+    "name": "CENG FENG MECHANICAL AND ELECTRICAL ENGINEERING PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:18:38.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202504292W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202504292W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202504292W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202504292W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "105",
+    "street": "SIMS AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "CHANCERLODGE COMPLEX",
+    "postalCode": "387429",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31461636363512,
+    "lng": 103.877394876988
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167392",
+    "deletedAt": null,
+    "createdBy": "34866221-51a0-43a1-8d90-d9561912e3b0",
+    "createdAt": "2026-01-27T08:22:24.000Z",
+    "updatedAt": "2026-01-27T08:22:24.000Z",
+    "emailRecipient": "34866221-51a0-43a1-8d90-d9561912e3b0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 269,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 34,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/administrative-assistant-ceng-feng-mechanical-electrical-engineering-3984476d5cc1505e2069bd4106d92692",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3984476d5cc1505e2069bd4106d92692"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3984476d5cc1505e2069bd4106d92692/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,233 @@
+{
+  "uuid": "1acb3c1f1d72086ab81bfd2972693b5b",
+  "sourceCode": "Employer Portal",
+  "title": "Software Developer",
+  "description": "<p>Good understanding and completion of projects using waterfall/Agile methodology</p><p>Analytical, conceptualisation and problem solving skills</p><p>Strong Microsoft Dynamics CRM product experience, ideally with CRM 2016 or D365.</p><p>Have been involved in the delivery of at least 3 Microsoft Dynamics CRM Implementation projects.</p><p>9 Years of custom development experience in Microsoft Dynamics CRM/365.</p><p>Ablity to customize CRM forms, views, workflows, business rules, charts, & dashboards in Microsoft Dynamics CRM/365</p><p>Proficiency in developing plug-in & workflow assemblies.</p><p>SSIS/SSRS</p><p>Possess relevant system development / maintenance experience using Microsoft Dynamics 365 CRM/SharePoint related technologies</p><p>Strong programming skills using the Microsoft CRM SDK, PowerApps, PowerBI, Flow, SSIS, C#, Web Services, XML, SQL Server, ASP.NET, HTML and JavaScript</p><p>Working experience with job scheduler, MS SQL database access and batch integration protocols.</p><p>Experienced in developing .NET web services & web API applications.</p><p>Understanding and Configuration of MSCRM Security Roles.</p><p></p>",
+  "minimumYearsExperience": 9,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ASPNet",
+      "uuid": "1357e98efa74290d9b93c131257877e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Services",
+      "uuid": "2c10282d2a9ce8be1576d7af8091d09e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET",
+      "uuid": "303cb0ef9edb9082d61bbbe5825d972a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "XML",
+      "uuid": "3501bb093d363810b671059b9cfed3f8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dynamics",
+      "uuid": "405d9a69e5139b9df0df6b66e18fc9e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML",
+      "uuid": "4c4ad5fca2e7a3f74dbb1ced00381aa4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PowerBI",
+      "uuid": "92b93bfb91d5aad11bcbc9efab67bd7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web API",
+      "uuid": "d6cc7ea75ec6116efbfdc72286b50bed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SSIS",
+      "uuid": "d941bd232618b67d2d8ba96f83cc2103",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202334877C",
+    "description": null,
+    "name": "REGTECH INSIGHT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:03:34.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "22",
+    "street": "CHANGI BUSINESS PARK CENTRAL 2",
+    "floor": null,
+    "unit": null,
+    "building": "THE KINGSMEN EXPERIENCE",
+    "postalCode": "486032",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155970",
+    "deletedAt": null,
+    "createdBy": "26da8746-413d-4957-ab47-45772fe6babd",
+    "createdAt": "2026-01-26T02:36:23.000Z",
+    "updatedAt": "2026-01-26T02:36:23.000Z",
+    "emailRecipient": "26da8746-413d-4957-ab47-45772fe6babd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 138,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-regtech-insight-1acb3c1f1d72086ab81bfd2972693b5b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1acb3c1f1d72086ab81bfd2972693b5b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1acb3c1f1d72086ab81bfd2972693b5b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

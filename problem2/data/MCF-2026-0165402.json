@@ -1,0 +1,227 @@
+{
+  "uuid": "3b9d292c6b8f80ff08e3d24cb90a6acd",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps Engineer",
+  "description": "<p>We’re looking for a DevOps Engineer to help our client to take ownership of critical, SQL-centric platforms running in an Azure cloud environment.</p><p>Senior DevOps/ Platform Engineer (Azure, SQL)</p><p>We are looking for a hands-on Senior DevOps/ Platform Engineer to take ownership of critical, SQL-centricplatforms running in an Azure cloud environment. This role sits at the intersection of infrastructure, automation, database platforms, release engineering, and production support.</p><p>You will be responsible for designing, building, automating, and supporting highly available and secureplatforms that underpin data-intensive financial systems.</p><p>This is not a generic DevOps role—it requires someone comfortable operating in complex, regulated,production environments with a strong sense of ownership.</p><p>Key Responsibilities</p><ul><li>Own and manage end-to-end platform infrastructure and application environments</li><li>Deploy, configure, and support applications in Microsoft Azure (IaaS and Infrastructure-as-Code)</li><li>Administer and maintain MS SQL databases including SSIS and SSRS</li><li>Build automation scripts using PowerShell, Python, or Shell scripting</li><li>Implement and manage CI/CD pipelines, release processes, and environment configuration</li><li>Monitor platform health, performance, and reliability using logging and monitoring tools</li><li>Troubleshoot complex production issues across infrastructure, databases, and application layers</li><li>Ensure platforms adhere to engineering, architectural, security, and enterprise standards</li><li>Work independently as a subject matter expert in a fast-paced environment</li></ul><p>Required Experience</p><ul><li>7–10 years of experience in DevOps, Platform Engineering, or Infrastructure Engineering roles</li><li>Strong experience with MS SQL Server (SSIS/ SSRS)</li><li>Hands-on experience deploying and managing applications in Microsoft Azure</li><li>Experience with Infrastructure-as-Code and configuration management tools such as Terraform, Ansible, Chef, or Salt</li><li>Strong scripting skills in PowerShell, Python, or Shell</li><li>Solid understanding of CI/CD, release engineering, and DevOps practices</li><li>Experience supporting production systems with monitoring and logging tools</li><li>Excellent troubleshooting and problem-solving skills</li></ul><p>Ability to work independently with strong ownership and prioritization skills</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Azure",
+      "uuid": "1668ca1bd914c1d847f23b491319ac91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Configuration Management",
+      "uuid": "a4934331bbf896399132d3d20f141ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SSIS",
+      "uuid": "d941bd232618b67d2d8ba96f83cc2103",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013771",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201103389Z",
+    "description": "<p>   NICOLL CURTIN TECHNOLOGY PTE. LTD.<strong>is an international IT recruitment consultancy working across the banking and finance, commerce and industry and public sectors.  We recruit contract and permanent technology professionals on a contingency basis for a portfolio of global clients from our offices in London, Zurich and Singapore.  </strong></p>  ",
+    "name": "NICOLL CURTIN TECHNOLOGY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:46:55.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201103389Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201103389Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201103389Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201103389Z/schemes"
+      }
+    },
+    "logoFileName": "359c9b24eb9c9447e89307f1dea5fde3/nicoll-curtin-technology.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/359c9b24eb9c9447e89307f1dea5fde3/nicoll-curtin-technology.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165402",
+    "deletedAt": null,
+    "createdBy": "58d45cdf-ebed-4aec-8fbf-6ab2a68193fb",
+    "createdAt": "2026-01-27T04:33:18.000Z",
+    "updatedAt": "2026-01-27T04:33:19.000Z",
+    "emailRecipient": "58d45cdf-ebed-4aec-8fbf-6ab2a68193fb",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 59,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-nicoll-curtin-technology-3b9d292c6b8f80ff08e3d24cb90a6acd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 11000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3b9d292c6b8f80ff08e3d24cb90a6acd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3b9d292c6b8f80ff08e3d24cb90a6acd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

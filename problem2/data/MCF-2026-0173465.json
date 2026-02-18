@@ -1,0 +1,229 @@
+{
+  "uuid": "2c5fc7e1cc18e41c82c84d067bbb5479",
+  "sourceCode": "Employer Portal",
+  "title": "Operation Supervisor",
+  "description": "<p>Job Title</p><p>Operation Supervisor</p><p>Occupation</p><p>SUPERVISOR</p><p>Job Description & Requirements</p><p>Operations Supervisor Responsibilities:<br /></p><p>We need sincere, hardworking, honest and dedicating worker.</p><p>Simply follow the rules and regulations as per instructions given.</p><p>Willing to work long hour, week ends and public holiday.</p><p>Able to work rotat shift</p><p>Planning and execute day to day sales and operating works.</p><p>Despatching invoice And tracking payment</p><p>Cheque payment collection and banking promptly</p><p>Overseeing inventory needs and undertaking office management and administration.</p><p>Motivating and supervising employees.</p><p>Evaluating the performance of your assigned employees, delivering positive and/or negative feedback, and addressing any shortcomings.</p><p>Evaluating and reporting on department metrics to upper management.</p><p>Improving the work environment and operations of your department and the organization as a whole.</p>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Management",
+      "uuid": "68b41b38f28f2ba723e32419c5365a0a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201725850G",
+    "description": null,
+    "name": "VISION OCEAN FOOD SUPPLY PTE. LTD.",
+    "ssicCode": "47212",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T04:21:19.000Z",
+    "ssicCode2020": "47212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201725850G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201725850G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201725850G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201725850G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "200",
+    "street": "PANDAN LOOP",
+    "floor": null,
+    "unit": null,
+    "building": "CT FOODCHAIN",
+    "postalCode": "128388",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.31122442020646,
+    "lng": 103.751872995722
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173465",
+    "deletedAt": null,
+    "createdBy": "a060f819-19ff-4834-ab3e-ab360ae11cb8",
+    "createdAt": "2026-01-28T04:31:52.000Z",
+    "updatedAt": "2026-01-28T04:31:53.000Z",
+    "emailRecipient": "a060f819-19ff-4834-ab3e-ab360ae11cb8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 96,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/operation-supervisor-vision-ocean-food-supply-2c5fc7e1cc18e41c82c84d067bbb5479",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 6500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2c5fc7e1cc18e41c82c84d067bbb5479"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2c5fc7e1cc18e41c82c84d067bbb5479/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

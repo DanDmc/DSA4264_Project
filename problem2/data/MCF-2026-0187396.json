@@ -1,0 +1,226 @@
+{
+  "uuid": "457ec24c22f19d87453009f3a9cc9c6e",
+  "sourceCode": "Employer Portal",
+  "title": "IT Security Officer",
+  "description": "<p><strong>Key Responsibilities</strong></p><p><strong>Develop cybersecurity Standards and Policies:</strong></p><p>•            Develop and maintain cybersecurity standards, procedures, and rulesets based on best practices and IM8 compliance</p><p>•            Perform risk assessments on system deviations and new project functionalities</p><p><strong>Compliance & Hardening:</strong></p><p>•            Conduct system hardening checks using CIS Benchmarks and IM8 standards</p><p>•            Perform security reviews to ensure remediation of audit findings</p><p>•            Run table-top or simulation exercises</p><p><strong>Audit Coordination & Management:</strong></p><p>•            Act as primary interface for internal and external auditors</p><p>•            Coordinate Request for Information (RFI) processes</p><p>•            Ensure evidence collection and prompt provision to auditors</p><p><strong>Security Monitoring Support:</strong></p><p>•            Monitor and respond to security alerts and incidents (phishing, malware, endpoint alerts)</p><p>•            Coordinate with system operators to identify potential threats</p><p>•            Perform basic triaging before escalation to next level security responder</p><p>•            Provide updates to stakeholders</p><p><strong>Vulnerability and Penetration Test Management:</strong></p><p>•            Perform vulnerability assessment and penetration test activities using automated and manual tools</p><p>•            Provide actionable remediation recommendations</p><p>•            Understand published vulnerabilities and their security patches in context of deployed systems</p><p>•            Perform risk assessments on vulnerabilities</p><p><strong>On-Premise and Cloud Security Governance:</strong></p><p>•            Monitor and notify security patch releases for various environments (End-User computing, On-Premise Office Networking, GCC, GCC+)</p><p>•            Assess security patch ratings using CVSS standards</p><p>•            Consider deployed environment context when rating patches</p><p><strong>Stakeholder Engagement:</strong></p><p>•            Present vulnerability scanning results, security testing results, and security incidents to management</p><p>•            Conduct security awareness training for users</p><p>•            Act as bridge between technical teams and management</p><p></p><p><strong>What We Are Looking For</strong></p><p><strong>Experience & Qualifications:</strong></p><p>•            Bachelor's degree in Computer Science, IT, Cybersecurity, or related field</p><p>•            Minimum 3 years relevant experience</p><p>•            Experience in network security, secure application development, cryptography, mobile security, cloud hosting, or DevSecOps</p><p>•            Experience working with teams to create security policies and procedures</p><p>•            Security certifications (SANS GCIH, CISSP, CISM, CISA, AWS/Azure security) preferred</p><p><strong>Technical Skills:</strong></p><p>•            Proficient with tools like Tenable, Nessus, and Splunk</p><p>•            Familiar with cloud security platforms (AWS Security Hub, Microsoft Defender/Sentinel for Cloud)</p><p>•            Understand cybersecurity investigation processes and vulnerability assessment/penetration testing (VAPT)</p><p><strong>Personal Qualities:</strong></p><p>•            Good stakeholder management skills</p><p>•            Strong presentation skills</p><p>•            Write clearly and concisely</p><p><strong>Good to Have:</strong></p><p>•            Government sector experience</p><p>•            Healthcare industry knowledge</p><p>•            Digital transformation background</p><p></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Vulnerability Scanning",
+      "uuid": "2e13bb78d37cd17ddbb8b90a8015802c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cryptography",
+      "uuid": "64ef07ce3e4b420c334227eecb3b3f4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Security Assessments",
+      "uuid": "82fa95bbaeeb76be0a54fff1d566c401",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISA",
+      "uuid": "c4cf1337de12d64001452cba233ff8bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IT Security Operations",
+      "uuid": "de542db0b1d85e484ceb0925f9889a35",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "uuid": "e5ad6b40151becc1063fa71bd7e18322",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Awareness",
+      "uuid": "f19322a280363b4afc3c1a0755449192",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35122",
+  "occupationId": "OCC060961",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200309506N",
+    "description": "<p>   TOTAL EBIZ SOLUTIONS PTE. LTD.</p>  <p>   One of TeBS key line of business is custom software development on Microsoft .NET, SharePoint , Java, Mobile, Analytics & Azure platforms.  Over the last decade, TeBS has developed high quality software applications, customised to meet the needs of our clients.  The development is done locally in Singapore to ensure rapid application development with high quality, have better communications with customers in face to face meetings and ensure quick support response and reduced turnaround time.</p>  ",
+    "name": "TOTAL EBIZ SOLUTIONS PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:46:32.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200309506N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200309506N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200309506N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200309506N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "31",
+    "street": "UBI ROAD 1",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "408694",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32685392324136,
+    "lng": 103.892556425421
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187396",
+    "deletedAt": null,
+    "createdBy": "7d2f5137-951b-45e5-a622-f5c9714632ee",
+    "createdAt": "2026-01-30T03:46:23.000Z",
+    "updatedAt": "2026-01-30T03:46:23.000Z",
+    "emailRecipient": "7d2f5137-951b-45e5-a622-f5c9714632ee",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 52,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/security-officer-total-ebiz-solutions-457ec24c22f19d87453009f3a9cc9c6e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/457ec24c22f19d87453009f3a9cc9c6e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/457ec24c22f19d87453009f3a9cc9c6e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,235 @@
+{
+  "uuid": "405fb0e1b2d2dd3611566faad6bf7789",
+  "sourceCode": "Employer Portal",
+  "title": "DevOps Engineer (12 months contract)",
+  "description": "<p><u><strong>Job Description</strong></u><a href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\"><u><strong></strong></u></a></p><p><strong>Pipeline and CI/CD Management:</strong></p><p>·         Design, implement, and optimize CI/CD pipelines for continuous integration and delivery.</p><p>·         Ensure efficient build, test, and deployment workflows for multiple development teams.</p><p><strong>Cloud-Native Infrastructure:</strong></p><p>·         Design, deploy, and manage applications using Kubernetes, Docker, Helm, and related technologies.</p><p>·         Manage containerized applications in a cloud-native environment (Azure, etc).</p><p>·         Implement best practices for ingress, networking, and TLS termination.</p><p><strong>Feature Ownership and Collaboration:</strong></p><p>·         Act as feature owners, coordinating with both internal and external stakeholders to fulfill the feature lifecycle.</p><p>·         Resolve bugs and work on stories within sprints, ensuring delivery of high-quality solutions.</p><p>·         Foster innovation, modernization, and the reduction of complexity.</p><p>·         Collaborate with JB platform engineering teams (requirements, piloting solutions) and serve dev agile teams</p><p><strong>POC and Technological Leadership:</strong></p><p>·         Conduct Proofs of Concept (POC) to explore and pioneer new technologies for the bank.</p><p>·         Serve as pioneers within the bank for adopting and adapting to new systems and tools.</p><p><strong>Automation and Efficiency:</strong></p><p>·         Embrace automation over manual processes to improve team productivity and efficiency.</p><p>·         Advocate for an “everything as code” approach</p><p><strong>Monitoring and Observability:</strong></p><p>·         Implement observability tools to monitor system performance and ensure uptime (Prometheus, Grafana, Dynatrace, etc.).</p><p>·         Set up logging, tracing, and alerting to proactively identify and resolve issues.</p><p><strong>Deployment Tools and Automation Frameworks:</strong></p><p>·         Use deployment tools such as Octopus Deploy, GitLab, Jenkins, etc to manage releases.</p><p><u><strong>Requirements</strong></u></p><ul><li>You have a can-do attitude, are pragmatic, and open-minded.</li><li>Strong knowledge of Continuous Integration (CI)/Continuous Delivery (CD) pipelines, cloud environments, containerization (Docker/K8s), and APIs.</li><li>Proven experience and strong knowledge of DevOps, with a strong understanding of CI/CD, containerization, and cloud platforms.</li><li>You take pride in your work and strive to lead by example.</li><li>Comfortable working in agile and cross-functional teams, with excellent communication and collaboration skills.</li><li>Master or Bachelor in Computer Science or a related area, or proven relevant working experience.</li></ul><p><u><strong>Required Skills</strong></u></p><ul><li>Programming Languages: Proficiency in .NET (C#) or Java.</li><li>Scripting: Strong experience with PowerShell, Bash, or Python for automation.  (nice to have)</li><li>CI/CD Tools: GitLab, Jenkins, Azure DevOps, or equivalent.</li><li>Containerization & Orchestration: Kubernetes, Docker, Helm.</li><li>Databases: Microsoft SQL Server, Oracle, etc</li><li>Observability & Monitoring: Prometheus, Grafana, Dynatrace, ELK Stack, Splunk, etc.</li><li>Cloud Platforms: Experience with Azure, AWS, or Google Cloud Platform.</li><li>Deployment Tools: Octopus Deploy, Terraform, or similar.</li><li>Version Control: Strong knowledge of Git for version control and collaboration.</li><li>Networking: Understanding of ingress controllers, load balancers, and basic networking principles. (nice to have)</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Piloting",
+      "uuid": "04a9a05116ca726ee4657458eb42b96c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET",
+      "uuid": "303cb0ef9edb9082d61bbbe5825d972a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Powershell",
+      "uuid": "531b84ad41b2a753da83acf367990701",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "uuid": "78898e52fcbdc5337204a384f2456d4f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Cloud",
+      "uuid": "bbc8a77007b660af585cca528771f800",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dynatrace",
+      "uuid": "bca31ebdc6806aa2669e343aa3cf1c4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC014060",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201705914W",
+    "description": null,
+    "name": "ESOL PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:38:45.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705914W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705914W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705914W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705914W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172574",
+    "deletedAt": null,
+    "createdBy": "b89f7009-7c3c-4f91-8d23-8ba08673ed52",
+    "createdAt": "2026-01-28T03:00:40.000Z",
+    "updatedAt": "2026-01-28T03:00:39.000Z",
+    "emailRecipient": "b89f7009-7c3c-4f91-8d23-8ba08673ed52",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 47,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-esol-405fb0e1b2d2dd3611566faad6bf7789",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/405fb0e1b2d2dd3611566faad6bf7789"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/405fb0e1b2d2dd3611566faad6bf7789/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

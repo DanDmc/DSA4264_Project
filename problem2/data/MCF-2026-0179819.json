@@ -1,0 +1,237 @@
+{
+  "uuid": "ac2d485f2c3a8eb1086a63ab8443e42b",
+  "sourceCode": "Employer Portal",
+  "title": "Recruitment Coordinator",
+  "description": "<p><strong>Requirements/Skillsets</strong></p><p>• Experience with ticketing systems and/or applicant tracking system </p><p>•Strong verbal & written communication skills </p><p>•Excellent customer service and interpersonal skills </p><p>•Familiarity with Microsoft Outlook and Excel, among other MS programs</p><p>•High attention to detail and organization </p><p>•Ability to quickly learn new procedures and adapt to change </p><p>•Ability to multi-task, prioritize and track assigned tasks </p><p>•Ability to collaborate with local teams and global clients both internally and\nexternally </p><p>•Demonstrate a process-oriented focus, determined to find ways to improve\nexperience </p><p>•Be agile and able to learn various aspects of the business effectively </p><p>•Demonstrate the ability to multi-task while calmly and quickly performing\nassigned tasks\"</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Talent Acquisition",
+      "uuid": "3240508c9a7a0c658a011b7e5d9217b4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Recruiting",
+      "uuid": "5231dee7156b84b0d1854de1a18dd169",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ticketing Systems",
+      "uuid": "8a7567355f652d580e1e3b157e068ffe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adapt to Change",
+      "uuid": "9a3be57a64e3502269dfa7ecbae31e3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Human Resources",
+      "uuid": "d19092ef5301d9548911f87a817f8c44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24232",
+  "occupationId": "OCC007586",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 20,
+      "category": "Human Resources"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "200602092H",
+    "description": "<p>Headquartered in Singapore, we are one of Asia Pacific’s leading organizations, providing technology consulting, software development and outsourcing services, with operations in 5 countries across the region and with development centres in Singapore, Malaysia and India.</p>\r\n\r\n<p>Apar Technologies is a part of the Apar Group, a billion dollar industrial conglomerate and managed by Basil Partners, a successful technology venture fund.</p>\r\n\r\n<p>Apar combines a passion for client satisfaction, deep industry and technology expertise and a global workforce working in an honest and ethical work environment to deliver value.</p>\r\n\r\n<p>Our four growth platforms—Technology consulting, Business intelligence, Collaboration and Cloud and big data—are the innovation engines through which we build world-class skills and capabilities and create, acquire and manage key assets central to the development of world class services and solutions for our clients.</p>\r\n\r\n<p>Apar aims to be the preferred business partner of global companies, helping them create best – in- class technology and business solutions.</p>\r\n",
+    "name": "APAR TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:42:57.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200602092H/schemes"
+      }
+    },
+    "logoFileName": "458e0f7aaa8f625b64cb3ae03a88db22/apar-technologies.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/458e0f7aaa8f625b64cb3ae03a88db22/apar-technologies.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4",
+    "street": "SHENTON WAY",
+    "floor": null,
+    "unit": null,
+    "building": "SGX CENTRE II",
+    "postalCode": "068807",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27932186685936,
+    "lng": 103.849827129495
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179819",
+    "deletedAt": null,
+    "createdBy": "20128342-6d82-41e3-aa06-d2349fd84826",
+    "createdAt": "2026-01-29T02:55:27.000Z",
+    "updatedAt": "2026-01-29T02:55:26.000Z",
+    "emailRecipient": "20128342-6d82-41e3-aa06-d2349fd84826",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-05",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/human-resources/recruitment-coordinator-apar-technologies-ac2d485f2c3a8eb1086a63ab8443e42b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ac2d485f2c3a8eb1086a63ab8443e42b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ac2d485f2c3a8eb1086a63ab8443e42b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

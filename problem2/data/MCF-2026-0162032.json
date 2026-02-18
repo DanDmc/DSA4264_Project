@@ -1,0 +1,217 @@
+{
+  "uuid": "de9bd737dc3268f908952f97e7759a60",
+  "sourceCode": "Employer Portal",
+  "title": "Cloud Software Engineer (CCoE – Onsite)",
+  "description": "<h2>Cloud Software Engineer (CCoE – Onsite)</h2><h3>Role Overview</h3><p>The Cloud Software Engineer will work closely with customer IT and development teams to design, build, test, and deploy cloud-native applications using leading hyperscaler platforms (AWS, Azure, GCP).</p><p>This role plays a key part in accelerating cloud adoption by implementing Infrastructure as Code (IaC), CI/CD automation, and cloud engineering best practices. As part of the Cloud Center of Excellence (CCoE), you will act as a trusted technical partner, embedding cloud expertise into customer delivery teams and supporting their cloud transformation journey.</p><h3>Key Responsibilities</h3><ul><li><p>Collaborate with IT and development teams to architect, develop, and deploy scalable cloud-native applications using hyperscaler services and frameworks</p></li><li><p>Design, implement, and maintain Infrastructure as Code (IaC) using Terraform, ensuring reusable, version-controlled, and idempotent deployments</p></li><li><p>Build, maintain, and optimize CI/CD pipelines using tools such as Git, Jenkins, Azure DevOps, GitLab CI, or cloud-native services</p></li><li><p>Apply cloud engineering best practices including microservices architecture, immutable infrastructure, and serverless patterns</p></li><li><p>Provision, configure, and manage cloud environments across single or multi-cloud platforms</p></li><li><p>Monitor, troubleshoot, and optimize cloud infrastructure and applications using observability tools (e.g., CloudWatch, Prometheus, Grafana, ELK)</p></li><li><p>Implement cloud security best practices including IAM, RBAC, network segmentation, and encryption</p></li><li><p>Produce and maintain technical documentation such as architecture diagrams, runbooks, and deployment guides</p></li><li><p>Participate actively in Agile ceremonies (sprint planning, reviews, retrospectives) to support continuous improvement and delivery excellence</p></li></ul><h3>Required Experience</h3><ul><li><p>Hands-on experience with one or more hyperscaler platforms: AWS, Azure, or GCP</p></li><li><p>Strong experience using Terraform (or equivalent IaC tools) for cloud infrastructure automation</p></li><li><p>Proven experience building and maintaining CI/CD pipelines for cloud applications</p></li><li><p>Experience with containerization (Docker) and container orchestration platforms (Kubernetes, EKS, AKS, GKE) is highly desirable</p></li><li><p>Solid understanding of cloud networking concepts (VPC/VNet, subnets, security groups, load balancers, DNS)</p></li><li><p>Working knowledge of cloud security principles including IAM, encryption, and compliance requirements</p></li><li><p>Experience with scripting or programming languages such as Python, Java, or Node.js</p></li><li><p>Experience working in Agile and DevOps environments on cloud migration or modernization initiatives</p></li><li><p>Strong troubleshooting skills with the ability to analyze logs, metrics, and performance data</p></li></ul><h3>Technical Skills</h3><ul><li><p>Infrastructure as Code: Terraform (preferred), CloudFormation, ARM, or equivalent</p></li><li><p>CI/CD: Jenkins, GitLab CI, Azure DevOps, GitHub Actions, or cloud-native tooling</p></li><li><p>Containers & Orchestration: Docker, Kubernetes</p></li><li><p>Cloud Networking & Security: IAM, RBAC, VPC/VNet design, encryption</p></li><li><p>Monitoring & Observability: Prometheus, Grafana, ELK Stack, CloudWatch, or equivalents</p></li><li><p>OS & Automation: Linux/Unix, shell scripting, CLI tools</p></li><li><p>Software Engineering: clean, maintainable, and testable code following best practices</p></li></ul><h3>Education & Certifications</h3><ul><li><p>Bachelor’s degree in Computer Science, Software Engineering, or equivalent practical experience</p></li></ul><p><strong>Preferred certifications:</strong></p><ul><li><p>AWS Certified Developer – Associate</p></li><li><p>Microsoft Certified: Azure Developer Associate</p></li><li><p>Google Associate Cloud Engineer</p></li><li><p>HashiCorp Terraform Associate</p></li><li><p>(Optional but valuable)</p><ul><li><p>Certified Kubernetes Administrator (CKA)</p></li><li><p>DevOps Foundation or equivalent</p></li></ul></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Encryption",
+      "uuid": "d7f2615c71a1567cc13cf3a7f7de0aea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25231",
+  "occupationId": "OCC062506",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201507419E",
+    "description": "<p>Millennium Technology Services (MTS) is an international provider of world-class business solutions and IT services to the top business corporations mainly in North and East Asia.&nbsp;</p>\n<p><br></p>\n<p>MTS is Headquartered in the Singapore. It provides services to 70+ Fortune 500 clients across Information Technologies and Industries through a network of regional and local subsidiaries, which are located in: &nbsp;&nbsp;</p>\n<p>*Singapore (Global HQ)</p>\n<p>*China (Shanghai, Beijing, Dalian, Wuhan, Chengdu, Guangzhou and Shenzhen) &nbsp;</p>\n<p>*Hong Kong &amp; Macau&nbsp;</p>\n<p>*Japan &amp; South Korea&nbsp;</p>\n<p>*Thailand, Philippines, Indonesia&nbsp;</p>\n<p>*Malaysia and South East Asia &nbsp;</p>\n<p>*India &nbsp;</p>\n<p>*Europe (MTS + partners)&nbsp;</p>\n<p>*Middle East (MTS + partners)&nbsp;</p>\n<p>*ANZ (MTS + partners) &nbsp;</p>\n<p><br></p>\n<p>MTS has been actively expanding its solution and service offerings through sustainable investments of vendor capitalists in developing proprietary services, solutions and establishing strategic partnerships with leading international partners such as CISCO and AVAYA. &nbsp;&nbsp;</p>\n<p><br></p>\n<p>MTS has a strong servicing team, staffed with senior international domain specialists, providing business and IT consulting, project management, application virtualization testing and IT operation support services.&nbsp;</p>\n<p><br></p>\n<p>Our company is a socially responsible employer with over 400+ highly talented professionals, managed by a world-class multi-national executive team. &nbsp;</p>\n<p><br></p>\n<p>Visit our official website: www.mtscloud.com&nbsp;</p>",
+    "name": "MTS GLOBAL PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": 510,
+    "companyUrl": "www.mtscloud.com ",
+    "lastSyncDate": "2026-02-04T02:14:15.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507419E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507419E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507419E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201507419E/schemes"
+      }
+    },
+    "logoFileName": "28618541cc6b40c75822d0be9d30396b/mts-global.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/28618541cc6b40c75822d0be9d30396b/mts-global.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0162032",
+    "deletedAt": null,
+    "createdBy": "66160eb6-70b2-489d-a583-4adb6051fca5",
+    "createdAt": "2026-01-26T15:03:42.000Z",
+    "updatedAt": "2026-01-26T15:03:42.000Z",
+    "emailRecipient": "66160eb6-70b2-489d-a583-4adb6051fca5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-software-engineer-mts-global-de9bd737dc3268f908952f97e7759a60",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/de9bd737dc3268f908952f97e7759a60"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/de9bd737dc3268f908952f97e7759a60/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

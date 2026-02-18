@@ -1,0 +1,206 @@
+{
+  "uuid": "9d3c28d6f163642123eea812b1141dda",
+  "sourceCode": "Employer Portal",
+  "title": "Credit management",
+  "description": "<p>Our  company is hiring a credit analyst.                                                                                                                                                                                                                                                                     </p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Credit Risk Management",
+      "uuid": "266d2fac0d49c05eb0612211e1632618",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Valuation",
+      "uuid": "3e6564c044acd49698fd70c9aaa79bb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loans",
+      "uuid": "64e109fb6dde9d711f1b7cba6ce2e279",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Credit Management",
+      "uuid": "68c507091fce041d7c12ed21c12d00b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Underwriting",
+      "uuid": "9a4b2829b23d0c82157d05fabafe1e8a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Credit Risk",
+      "uuid": "f287754ef76d8bc9909138fe5551f6b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Credit Analysis",
+      "uuid": "fcca2920c16428e119d894765ff79ccc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24131",
+  "occupationId": "OCC004261",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "202005406N",
+    "description": null,
+    "name": "AL SHA RESTAURANT PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T14:57:17.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005406N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005406N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005406N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202005406N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "163",
+    "street": "YUNG PING ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "610163",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33034050335959,
+    "lng": 103.722663403184
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153810",
+    "deletedAt": null,
+    "createdBy": "f6cad22f-ca55-4bbb-acdd-6c49d38db903",
+    "createdAt": "2026-01-25T15:05:32.000Z",
+    "updatedAt": "2026-01-25T15:05:32.000Z",
+    "emailRecipient": "f6cad22f-ca55-4bbb-acdd-6c49d38db903",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 112,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/credit-management-al-sha-restaurant-9d3c28d6f163642123eea812b1141dda",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7800,
+    "minimum": 4800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9d3c28d6f163642123eea812b1141dda"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9d3c28d6f163642123eea812b1141dda/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

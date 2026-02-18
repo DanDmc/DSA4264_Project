@@ -1,0 +1,208 @@
+{
+  "uuid": "7ec716a67550900371bbc4fd84adc45c",
+  "sourceCode": "Employer Portal",
+  "title": "Administrative Assistant",
+  "description": "<p><strong>Responsibilities</strong></p><ul><li>Efficiently handle documentation and filing tasks.</li><li>Regularly check and replenish office supplies such as stationery and pantry items.</li><li>Assist in the completion of daily administrative tasks.</li><li>Manage incoming phone calls and greet visitors professionally.</li><li>Support other tasks as assigned by the superior or Director.</li></ul><p><strong>Requirements</strong></p><ul><li>Minimum Diploma in the related field.</li><li>Proficient in speaking and writing in English.</li><li>Demonstrated ability to meet deadlines and deal with competing priorities.</li><li>Excellent attention to detail, including proofreading and editing skills.</li><li>Ability to independently resolve routine problems and issues.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202329065N",
+    "description": "<p>ASE Education Group Pte Ltd is headquartered in Singapore, and has branches in Australia and China. We are an educational organization that provides a teaching curriculum and combines online and offline learning tuitions. We provide various educational programs for kindergarten, elementary, and secondary students who need to consolidate their learning and improve their academic results in English, Math, Science, Chinese, etc.</p>",
+    "name": "ASE EDUCATION GROUP PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:40:48.000Z",
+    "ssicCode2020": "85409",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329065N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329065N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329065N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202329065N/schemes"
+      }
+    },
+    "logoFileName": "8e2617a3e1eaf4cdede0ba265adf3dcf/ase-education-group.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8e2617a3e1eaf4cdede0ba265adf3dcf/ase-education-group.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "128B",
+    "street": "TELOK AYER STREET",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "068597",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2818240347183,
+    "lng": 103.848034611536
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155222",
+    "deletedAt": null,
+    "createdBy": "f79e9434-b8af-413f-a96a-36097e37b6ca",
+    "createdAt": "2026-01-26T01:47:40.000Z",
+    "updatedAt": "2026-01-26T01:47:41.000Z",
+    "emailRecipient": "f79e9434-b8af-413f-a96a-36097e37b6ca",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 257,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 52,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/administrative-assistant-ase-education-group-7ec716a67550900371bbc4fd84adc45c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7ec716a67550900371bbc4fd84adc45c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7ec716a67550900371bbc4fd84adc45c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

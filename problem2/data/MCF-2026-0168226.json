@@ -1,0 +1,250 @@
+{
+  "uuid": "dc85148c6696e80d5462e86a32af937a",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Data Engineer",
+  "description": "<p>You will architect, develop, and test large scale and efficient solutions that provide senior management with the accurate data to make business decisions. </p><p>Description</p><p>Design and implement scalable and high-quality methods of consuming data from a diverse set of sources with variable quality and predictability<br />Create data products, enabling self-service and predictability by consumer<br />Build libraries and frameworks that drive leverage and productivity for the team<br />Optimize and maintain solutions, driving improvements in efficiency, data quality, and operational excellence<br /><br />Requirements:<br /><br />BS or MS in Engineering/Computer Science<br />6+ years software engineering, including strong SQL and data focus<br />Expertise in languages like Python, Java, or Scala and technologies like Airflow, Spark, Trino, Kafka, Docker, Iceberg<br />Ability to analyze complex datasets and design solutions with quality and efficiency<br />Familiarity with SDLC best practices, version control, CI/CD<br />Experience with cloud services such as AWS, GCP, or Azure for data infrastructure and storage<br />Knowledge of infrastructure as code (e.g., Terraform) and container orchestration tools (e.g., Kubernetes)</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Snowflake Cloud Data Warehouse",
+      "uuid": "02f618f4f19b5eeba4fa4ae4dafbbb09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Terraform",
+      "uuid": "1b1ed905d54c18e3dd8828986c14be17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Airflow",
+      "uuid": "2528f15a184a14d75d2e092e396dd03e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scala",
+      "uuid": "3012dcff1477e1feaab81764587c9bbd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Quality",
+      "uuid": "74c365aff7ca1dee7d22bdad58071514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud Services",
+      "uuid": "be0182262c2a113bbb6936e4e0451e50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199505951H",
+    "description": "<p><strong>Manpower® is a global leader in contingent staffing and permanent resourcing, providing companies with strategic and operational flexibility and creating talent at scale.</strong></p><p>As part of <strong>ManpowerGroup®</strong>, the world leader in innovative workforce solutions, we deliver high-impact strategies that help organizations achieve their business goals and enhance competitiveness.</p><p>Since 1996, <strong>Manpower Singapore</strong> has partnered with businesses to provide a continuum of staffing solutions—from incidental to strategic—helping them win in a rapidly changing world of work. At the same time, we empower jobseekers to find roles that match their skills and ambitions.</p><p>Our<strong> specialized recruiters leverage data-driven insights to assess, guide, and place people into meaningful, sustainable employment</strong>, enabling individuals to build rewarding careers while helping organizations thrive.</p><p>We work with hundreds of SMEs and multinational companies across diverse industries, including:</p><ul><li>Banking & Finance</li><li>Corporate Finance & Accounting</li><li>Call Centers</li><li>Engineering</li><li>Events & Exhibitions</li><li>Healthcare</li><li>Hospitality</li><li>Information Technology</li><li>Life Sciences</li><li>Logistics & Supply Chain</li><li>Oil & Gas</li><li>Retail</li></ul><p>Whether you’re looking for your next opportunity or seeking talent to power your business, <strong>Manpower Singapore creates powerful connections that unlock potential and drive success.</strong></p><p><strong>Learn more at manpower.com.sg or follow us on LinkedIn (</strong><a href=\"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmanpowersingapore%2F&data=05%7C02%7Camelia.cai%40manpowergroup.com.sg%7Ce237199c438c4827ee1708de392eb801%7Ce2ba81b803fe407c96a1f4bc0f512e7d%7C0%7C0%7C639011069985387949%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4Ykga5QHEK3f8sVLjODD3l6GZLKNjxRVeGEdsoHDX2E%3D&reserved=0\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.linkedin.com/company/manpowersingapore/</a><strong>)</strong></p><p>Please note that your response to this advertisement and communications with us pursuant to this advertisement will constitute informed consent to the collection, use and/or disclosure of personal data by Manpower for the purpose of carrying out its business, in compliance with the relevant provisions of the Personal Data Protection Act 2012.</p><p>Employment Agency License No.: 02C3423</p>",
+    "name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:01:01.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505951H/schemes"
+      }
+    },
+    "logoFileName": "643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/643690475fd1fdc2c79c950c10dd8a88/manpower-staffing-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "WALLICH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "GUOCO TOWER",
+    "postalCode": "078881",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27679992796436,
+    "lng": 103.845618296201
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168226",
+    "deletedAt": null,
+    "createdBy": "759b8958-c8d4-4984-9dc8-de996e52cd7b",
+    "createdAt": "2026-01-27T09:34:13.000Z",
+    "updatedAt": "2026-01-27T09:34:13.000Z",
+    "emailRecipient": "759b8958-c8d4-4984-9dc8-de996e52cd7b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 76,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-data-engineer-manpower-staffing-services-dc85148c6696e80d5462e86a32af937a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dc85148c6696e80d5462e86a32af937a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dc85148c6696e80d5462e86a32af937a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

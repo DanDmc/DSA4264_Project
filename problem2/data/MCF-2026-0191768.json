@@ -1,0 +1,245 @@
+{
+  "uuid": "c3fc127f682a87f5de4e7be1a4b3dc80",
+  "sourceCode": "Employer Portal",
+  "title": "Assistant  Manager",
+  "description": "<p>- Oversee daily operations, including managing workflow and enforcing policies and procedures</p><p>- Train employees, manage staff schedules, and monitor performance</p><p>- Handle customer service issues, resolve conflicts, and provide feedback to employees</p><p>- Maintain financial controls, manage inventory, and control expenses</p><p>- Develop and implement strategies to improve customer satisfaction and revenue growth</p><p>- Collaborate with senior management to achieve business objectives</p><p>- Ensure compliance with health and safety regulations and company policies</p><p></p><p>*Requirements:*</p><p></p><p>- High school graduate or equivalent work experience (some roles may require a bachelor's degree)</p><p>- Minimum 1-2 years of supervisory experience (depending on the industry and role)</p><p>- Excellent problem-solving, decision-making, and communication skills</p><p>- Strong leadership and interpersonal skills</p><p>- Ability to adapt to changing situations and environments</p><p>- Proficiency in Microsoft Office and other relevant software applications</p><p></p><p>*Industry-specific Requirements:*</p><p></p><p>- In the hospitality industry, Assistant Managers may need to work flexible hours, including evenings and weekends</p><p>- In IT, Assistant Managers may require experience with Windows Server, Active Directory, and network switches</p><p>- In finance, Assistant Managers may need to have a diploma in finance or accounting with relevant experience</p><p></p><p></p><p></p><p>*Key Skills:*</p><p></p><p>- Leadership and team management</p><p>- Communication and interpersonal skills</p><p>- Problem-solving and analytical thinking</p><p>- Time management and adaptability</p><p>- Financial management and budgeting</p><p>- Customer service and relations</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Management",
+      "uuid": "3cf2f0937dd3a535febb422d60de1bc7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Hospitality Industry",
+      "uuid": "66617cd7c71408ce47697c344ff8ad58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adaptability",
+      "uuid": "9b9c820d2859453f8e672a614ff7d501",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Incentive Programs",
+      "uuid": "adec4a5f0136cae3835bb7bdc9e9d097",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33492",
+  "occupationId": "OCC062395",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 10,
+      "category": "Education and Training"
+    },
+    {
+      "id": 13,
+      "category": "Environment / Health"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202134811M",
+    "description": null,
+    "name": "XING HUA LAN TRADING PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T14:27:12.000Z",
+    "ssicCode2020": "10799",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134811M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134811M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134811M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134811M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "56",
+    "street": "KALLANG PUDDING ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "HH @ KALLANG",
+    "postalCode": "349328",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32803011629207,
+    "lng": 103.878919874466
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191768",
+    "deletedAt": null,
+    "createdBy": "283dca78-0060-4b95-9f1a-f6cecabc44bf",
+    "createdAt": "2026-01-30T14:43:30.000Z",
+    "updatedAt": "2026-01-30T14:43:30.000Z",
+    "emailRecipient": "283dca78-0060-4b95-9f1a-f6cecabc44bf",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/assistant-manager-xing-hua-lan-trading-c3fc127f682a87f5de4e7be1a4b3dc80",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c3fc127f682a87f5de4e7be1a4b3dc80"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c3fc127f682a87f5de4e7be1a4b3dc80/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

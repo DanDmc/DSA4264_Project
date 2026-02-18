@@ -1,0 +1,248 @@
+{
+  "uuid": "1e38e54a33e2684675edd2c4ec761579",
+  "sourceCode": "Employer Portal",
+  "title": "WELDER",
+  "description": "<p><strong>Responsibilities:</strong></p><ul><li>Interpret blueprints, drawings, and measurements to plan layouts.</li><li>Weld small and large components such as copper plumbing, beams, and pipelines.</li><li>Use specialized machinery for industrial welding and oversee machines that perform the same job.</li><li>Maintain and repair all machinery.</li><li>Assess welded surfaces, structures and components to identify errors.</li><li>Follow and enforce strict safety regulations such as wearing heat-resistant gloves, protective masks, and safety shoes.</li><li>Monitor machinery for appropriate usage and temperature.</li><li>Weld components in flat, vertical, and overhead positions.</li></ul><p><strong>Requirements:</strong></p><ul><li>A valid certificate in welding from an accredited institution is preferred.</li><li>Excellent knowledge of welding machinery, electrical equipment, and manual tools.</li><li>Ability to read and interpret blueprints and designs.</li><li>Outstanding attention to detail.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Arc",
+      "uuid": "2b73f91683611c489560a1d163e37902",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Welding",
+      "uuid": "8be92a6dba91189e3e092f2ef2961bbb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Copper",
+      "uuid": "a4090ffabdfba53d76b0748a0d87ce21",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TIG Welding",
+      "uuid": "b605e7ccea3afd55130a9029433dc3e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stainless Steel",
+      "uuid": "dbe24a202605a94f66b1c42d3af326b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arc Welding",
+      "uuid": "e6aa61f2ad1c92ea46f2c1980a3357b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "72120",
+  "occupationId": "OCC010205",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "201832108C",
+    "description": "<p>57 Employment Agency Pte Ltd was incorporated in Singapore since 2018. Our company is licensed with Ministry Of Manpower, license number 18C9450. As the experts in talent recruitment and human resource engagement services, we pride ourselves on the timely delivery of these services through our team of dedicated and experienced professionals.</p>\n\n<p>As a one-stop human capital solution provider, 57 Employment Agency Pte Ltd intensifies the process of recruiting the potential candidates for our valued clients. To ensure a smooth, hassle free and efficient recruitment process, we also provide the necessary documentations, permit applications, medical check-ups and accommodations for the foreign candidates.</p>\n\n<p>Our team of highly dedicated and competent consultants are unparalleled in providing prompt and effective manpower solutions to our valued clients with their wide range of industries knowledge.</p>\n",
+    "name": "57 EMPLOYMENT AGENCY PTE. LTD.",
+    "ssicCode": "88991",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:26:55.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832108C/schemes"
+      }
+    },
+    "logoFileName": "fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fcf1ed412b9ce0fb63ff35d1f9ca316c/57-employment-agency.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201813877C",
+    "description": null,
+    "name": "BOFLUX M&S PTE. LTD.",
+    "ssicCode": "25120",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T07:31:34.000Z",
+    "ssicCode2020": "25120",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813877C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813877C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813877C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201813877C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193205",
+    "deletedAt": null,
+    "createdBy": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "createdAt": "2026-01-31T07:37:33.000Z",
+    "updatedAt": "2026-01-31T07:37:33.000Z",
+    "emailRecipient": "d3162021-2563-47a9-b535-bbb358ebb24b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 36,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/welder-boflux-ms-1e38e54a33e2684675edd2c4ec761579",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1e38e54a33e2684675edd2c4ec761579"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1e38e54a33e2684675edd2c4ec761579/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

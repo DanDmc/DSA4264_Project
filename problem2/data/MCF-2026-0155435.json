@@ -1,0 +1,233 @@
+{
+  "uuid": "b16471e5c81e7fc7defe22fe901b021b",
+  "sourceCode": "Employer Portal",
+  "title": "Software Developer",
+  "description": "<p>Job Description & Requirements\tRole Overview</p><p></p><p>We are looking for a motivated and detail-oriented Junior Java Developer to join our development team. The ideal candidate should have a strong foundation in Java programming and a basic understanding of Spring Boot to support the design, development, testing, and maintenance of backend applications. This is an excellent opportunity for freshers or early-career developers to grow in a collaborative, learning-focused environment.</p><p></p><p>Key Responsibilities</p><p>•Assist in the development and maintenance of Java-based applications using Spring Boot.</p><p>•Write clean, efficient, and well-documented code following best practices.</p><p>•Support the development of RESTful APIs and backend services.</p><p>•Participate in requirement analysis, design discussions, and daily stand-ups.</p><p>•Debug, test, and fix application issues to ensure performance and reliability.</p><p>•Work closely with senior developers, QA, and product teams.</p><p>•Contribute to code reviews and continuous improvement initiatives.</p><p></p><p>Required Skills & Qualifications</p><p></p><p>•Bachelor’s degree in Computer Science, IT, or related field (or equivalent practical experience).</p><p>•Strong fundamentals in Core Java (OOP, Collections, Multithreading basics, Exception Handling).</p><p>•Basic hands-on knowledge of Spring Boot and Spring Framework.</p><p>•Understanding of REST APIs, HTTP concepts, and MVC architecture.</p><p>•Familiarity with SQL and any relational database (MySQL, PostgreSQL, etc.).</p><p>•Basic knowledge of Git or any version control system.</p><p>•Good problem-solving skills and eagerness to learn new technologies.</p><p></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MVC",
+      "uuid": "0b9221b0599697618c27449e89d9b07a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CSS",
+      "uuid": "2c56c360580420d293172f42d85dfbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multithreading",
+      "uuid": "30db3f061dd39d166fe53c11118a8ec2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MySQL",
+      "uuid": "62a004b95946bb97541afa471dcca73a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Boot",
+      "uuid": "926e67801e570a3898ddaef281c23075",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Core Java",
+      "uuid": "97e80a3066e85a0f2eb75a021d4869d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202334877C",
+    "description": null,
+    "name": "REGTECH INSIGHT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:03:34.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202334877C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "22",
+    "street": "CHANGI BUSINESS PARK CENTRAL 2",
+    "floor": null,
+    "unit": null,
+    "building": "THE KINGSMEN EXPERIENCE",
+    "postalCode": "486032",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155435",
+    "deletedAt": null,
+    "createdBy": "26da8746-413d-4957-ab47-45772fe6babd",
+    "createdAt": "2026-01-26T02:03:16.000Z",
+    "updatedAt": "2026-01-26T02:03:16.000Z",
+    "emailRecipient": "26da8746-413d-4957-ab47-45772fe6babd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 152,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 17,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-regtech-insight-b16471e5c81e7fc7defe22fe901b021b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b16471e5c81e7fc7defe22fe901b021b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b16471e5c81e7fc7defe22fe901b021b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

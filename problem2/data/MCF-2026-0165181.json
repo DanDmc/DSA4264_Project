@@ -1,0 +1,250 @@
+{
+  "uuid": "4e5a6fa7fa4ab1e0186666beee7fcbe4",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Analyst - Identity Access Management (IAM)",
+  "description": "<p><u><strong>Job Responsibilities</strong></u></p><ul><li><p>Provide support to the Identity Access Management Operations team on all audits and compliance reporting (such as SOX, IT-ICC, Entry-Levy, etc.).</p></li><li><p>Understanding of the current regulatory environment and related implications to identity management and security/audit compliance solutions.</p></li><li><p>Generate user access privilege reports and coordinate with user department heads for the regular access review to ensure all critical applications/systems are having up-to-date access privileges.</p></li><li><p>Troubleshoot and resolve any incidents pertaining to access tickets in a timely manner.</p></li><li><p>Ensure that all access reviews and procedures performed are documented appropriately such that they can be reviewed and validated by internal and external auditors.</p></li><li><p>Perform user provisioning/de-provisioning and access clean-up for privileged applications/systems accounts. </p></li><li><p>Provide applications/systems support and request fulfilments.</p></li><li><p>Continuously finds means and ways to improve operations, streamline work processes and work cooperatively and jointly with various teams to provide quality service. Involves scripting and/or RPA process development as requires.</p></li><li><p>Review IAM policies, procedures, standards, guidelines and suggestion of relevant industry best practices.</p></li><li><p>Ensure that project implementation and operations are aligned to corporate technology standards and policies.</p></li><li><p>Provide support for any adhoc projects undertaken by the team (UAT, project coordination, etc).<br /></p></li></ul><p><u><strong>Job Requirements</strong></u><br /><br />Education & Certification</p><ul><li><p>Diploma/Degree holder in Information Technology or related fields.</p></li></ul><p>Experience</p><ul><li><p>3-5 years of work experience in Identity Access Management (IAM), Cyber Security, IT audit and compliance regulations (Sarbanes-Oxley (SOX), PCI-DSS, etc) or related fields preferred.</p></li><li><p>Experience with LDAP, SAML, relational databases (MS SQL, Oracle), authentication, and authorization concepts.</p></li><li><p>Experience with IAM Solutions (such as SailPoint), Privileged Access Management (such as CyberArk) solutions, Enterprise Identity Directory System (AD Directory Services, ADFS, Forest Trust, AD Rights Management Service, etc) and Azure AD (AAD Connect, Conditional Access Policy, Entitlement Management, etc) is a plus.</p></li></ul><p>Other Prerequisites</p><p><ul><li>Understanding of industry best practices for access administration (provisioning, de-provisioning), access enforcements (authentication protocols), and access governance (certification, logging, monitoring, etc) required.</li><li>Sound knowledge in ITIL framework.</li><li>Ability to learn and adapt quickly in a diverse environment.</li></ul><p><br /><em>Marina Bay Sands is committed to building a diverse, equitable and inclusive workforce, providing equal opportunities as we grow our talent base to match our growth ambitions in Singapore. Our employees are committed to adhere to and abide by all rules, regulations, policies and procedures, including the rules of conduct and business ethics of the Company.</em></p></p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Audit and Compliance",
+      "uuid": "0cc3b4fa1eb2c987cf38d13b95620ede",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AS400 Administration",
+      "uuid": "287c234c8c26ca449bf1a97a62f3e4b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "As400",
+      "uuid": "35837dff29a884884039821d12659c50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Identity Management",
+      "uuid": "4a672db324846dd4ffcea67b4f9e8a20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IBM AS400",
+      "uuid": "53e2031c47dc5a5ebfed2fb66f55e095",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SOX IT 404",
+      "uuid": "569baab9ffec38a219277f7228a73ed4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AS400 system",
+      "uuid": "86f826532384f891595dcb34a46274ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SOX",
+      "uuid": "ad26bce9484e9ed890c1b211d6fa50e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Coordination",
+      "uuid": "c84c87a3a7f389029fd7bbaeb3635994",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002105",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200507292R",
+    "description": "<p>Since its opening in 2010, Marina Bay Sands has stood as an architectural marvel and the crown jewel in Singapore’s skyline. Home to the world’s most spectacular rooftop infinity pool and approximately 1,850 rooms and suites, the integrated resort offers exceptional dining, shopping, meeting and entertainment choices, complete with a year-round calendar of signature events.</p><p>Marina Bay Sands is dedicated to being a good corporate citizen to serve its people, communities and environment. It drives social impact through its community engagement programme, Sands Cares, and leads environmental stewardship through its global sustainability programme, Sands ECO360.</p>",
+    "name": "Marina Bay Sands  PTE. LTD.",
+    "ssicCode": "68101",
+    "employeeCount": null,
+    "companyUrl": "https://www.marinabaysands.com",
+    "lastSyncDate": "2026-02-04T01:27:17.000Z",
+    "ssicCode2020": "68101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200507292R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200507292R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200507292R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200507292R/schemes"
+      }
+    },
+    "logoFileName": "7424a5e14795882f240b1fd9742408be/marina-bay-sands.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7424a5e14795882f240b1fd9742408be/marina-bay-sands.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "COLLYER QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "OCEAN FINANCIAL CENTRE",
+    "postalCode": "049315",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28320475155527,
+    "lng": 103.851909612416
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165181",
+    "deletedAt": null,
+    "createdBy": "fd7abf88-b4ca-41d0-a282-33a2814daa52",
+    "createdAt": "2026-01-27T04:03:33.000Z",
+    "updatedAt": "2026-01-27T04:03:33.000Z",
+    "emailRecipient": "fd7abf88-b4ca-41d0-a282-33a2814daa52",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 123,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-analyst-identity-access-management-marina-bay-sands-4e5a6fa7fa4ab1e0186666beee7fcbe4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6800,
+    "minimum": 4600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e5a6fa7fa4ab1e0186666beee7fcbe4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e5a6fa7fa4ab1e0186666beee7fcbe4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

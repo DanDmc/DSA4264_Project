@@ -1,0 +1,219 @@
+{
+  "uuid": "6272b21b4728aeda50ca2103bce8dae1",
+  "sourceCode": "Employer Portal",
+  "title": "Operator",
+  "description": "<h3><strong>Position: Operator</strong></h3><p>Location: 2 bus stops away from Joo Koon MRT<br />with in-house canteen<br />Working hours: 6:45am to 6:45pm (AM Shift only)<br />Designated pick up points provided<br /></p><p><u><strong>Summary of Job:</strong></u></p><p>Operating the unloading machine.<br /></p><p><u><strong>Duties and Responsibilities:</strong></u></p><p>~  Packing of finished goods.</p><p>~  Cleaning of workstation.</p><p>~  Other activities as and when required as assigned<br />~  if required, Operate the unloading stacker</p><p><u><strong>Job Requirements:</strong></u></p><p>~ willing to work from 6:45am to 6:45pm (Mon to Thurs)<br />~ able to work Overtime as and when required<br />~ Physically Fit - require to arrange items and put together neatly and standing is required for most of the time.<br />~ On the Job Training provided</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Secondary Education",
+      "uuid": "391d57d40e34d7c7c635abbb49aab7ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "81830",
+  "occupationId": "OCC013029",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "197700062R",
+    "description": "<p>\r\n\tM. C. PACKAGING (PTE.) LTD</p>\r\n",
+    "name": "M. C. PACKAGING (PTE.) LTD",
+    "ssicCode": "25951",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:44:11.000Z",
+    "ssicCode2020": "25951",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197700062R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197700062R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197700062R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197700062R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "159",
+    "street": "GUL CIRCLE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "629617",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.32081115449651,
+    "lng": 103.677412494824
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164032",
+    "deletedAt": null,
+    "createdBy": "7a339791-3e5d-468f-8728-d1c3375e6d6c",
+    "createdAt": "2026-01-27T02:32:31.000Z",
+    "updatedAt": "2026-01-27T02:32:31.000Z",
+    "emailRecipient": "7a339791-3e5d-468f-8728-d1c3375e6d6c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 52,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/operator-m-c-packaging-6272b21b4728aeda50ca2103bce8dae1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1400,
+    "minimum": 1200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6272b21b4728aeda50ca2103bce8dae1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6272b21b4728aeda50ca2103bce8dae1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

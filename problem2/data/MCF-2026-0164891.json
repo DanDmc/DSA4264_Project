@@ -1,0 +1,205 @@
+{
+  "uuid": "e7bbc100c91b2c37abce5eb637f6b09b",
+  "sourceCode": "Employer Portal",
+  "title": "Logistics Technicians",
+  "description": "<p><strong>Inventory Management & Stock Control</strong> - Monitor and maintain accurate inventory levels of exercise equipment, spare parts, and supplies using warehouse management systems; conduct regular stock audits and cycle counts.</p><p><strong>Equipment Handling & Transportation</strong> - Operate delivery vehicles with Class 3 license to transport cardio and strength machines safely to customer locations: load, unload, and position heavy equipment using proper lifting techniques and material handling equipment.</p><p><strong>On-Site Assembly & Installation</strong> - Assemble and install various exercise equipment including treadmills, ellipticals, rowing machines, weight stations, and resistance machines directly at customer premises; ensure proper setup and functionality before handover.</p><p><strong>Delivery Coordination & Execution</strong> - Execute timely deliveries of fitness equipment and related items to residential, commercial, and gym facilities; verify orders against delivery notes and obtain customer acknowledgment upon completion.</p><p><strong>Preventive Maintenance Knowledge</strong> - Perform basic maintenance checks on fitness equipment to ensure optimal functionality; identify wear and tear on components and escalate technical issues appropriately.</p><p><strong>Warehouse Operations</strong> - Organize storage areas efficiently to maximize space utilization; prepare equipment for dispatch, package items securely, and maintain cleanliness and safety standards in the warehouse.</p><p><strong>Documentation & Record Keeping</strong> - Maintain accurate delivery logs, equipment condition reports, and inventory records; process shipping documentation, collect customer signatures, and update tracking systems in a timely manner.</p><p><strong>Route Planning & Time Management</strong> - Plan and execute efficient delivery routes to multiple customer locations; coordinate with customers regarding delivery windows, installation appointments, and access requirements.</p><p><strong>Safety Compliance</strong> - Adhere to workplace safety protocols, manual handling guidelines, and traffic regulations; conduct pre-trip vehicle inspections and ensure safe equipment handling at customer sites.</p><p><strong>Customer Service & Problem-Solving</strong> - Interact professionally with clients during deliveries and installations; provide basic product information, usage guidance, and troubleshoot logistical challenges such as access constraints or scheduling conflicts independently.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Tracking Systems",
+      "uuid": "416bf4f27ab4158d00f048ce60b5331b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aircraft Systems",
+      "uuid": "57b1de2e4c2a92e2aa8a42e5590461ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aircraft",
+      "uuid": "b95086a92ffcac73f9c828876a8366f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Curating",
+      "uuid": "d40c9401b013dd82d213eec15e730a07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Geometry",
+      "uuid": "d9c6333623e6357515fcbf17be806273",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cardio",
+      "uuid": "f16b620fd09d68daceefad78891b4dbd",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC061108",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "198501846E",
+    "description": "<p>\r\n\t<span style=\"font-family:arial,helvetica,sans-serif;\">REFLEX-O RECREATIONS PTE LTD</span></p>\r\n<p style=\"text-align: justify;\">\r\n\t<span style=\"font-family:arial,helvetica,sans-serif;\">Established in 1985, Reflex-O distributes a wide range of &#39;Best In Kind&#39; fitness equipment and accessories for commercial gyms, condominums, clubs, hospitality groups, physiotherapist, schools, government departments and fitness facilities for all ages.</span></p>\r\n<p style=\"text-align: justify;\">\r\n\t<span style=\"font-family:arial,helvetica,sans-serif;\">Together with our sister company, Active Lifestyle, we are a leading distributor of a number of premium brands throughout China, Hongkong and S.E. Asia.</span></p>\r\n<p>\r\n\t&nbsp;</p>\r\n",
+    "name": "REFLEX-O RECREATIONS PTE LTD",
+    "ssicCode": "46449",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:14:09.000Z",
+    "ssicCode2020": "46449",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501846E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501846E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501846E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501846E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "970",
+    "street": "TOA PAYOH NORTH",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "318992",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.34275019820699,
+    "lng": 103.851054937617
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164891",
+    "deletedAt": null,
+    "createdBy": "d8196fa0-77dc-44d6-9b65-29532d8416e1",
+    "createdAt": "2026-01-27T03:33:49.000Z",
+    "updatedAt": "2026-01-27T03:33:49.000Z",
+    "emailRecipient": "d8196fa0-77dc-44d6-9b65-29532d8416e1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 43,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/logistics-technicians-reflex-o-recreations-e7bbc100c91b2c37abce5eb637f6b09b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 2100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e7bbc100c91b2c37abce5eb637f6b09b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e7bbc100c91b2c37abce5eb637f6b09b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

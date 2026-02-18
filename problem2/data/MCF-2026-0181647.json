@@ -1,0 +1,240 @@
+{
+  "uuid": "a7108ee018f1b0c970d4e9998de0c585",
+  "sourceCode": "Employer Portal",
+  "title": "BUS DRIVER",
+  "description": "<p>• Obtain Singapore Class 4 driving licence</p><p>• Possess at least 10 years of relevant experience</p><p>• LTA Bus Vocational Licence is an advantage</p><p>• Responsible and have good time management skills</p><p>• Have good work conduct</p><p>• Hardworking and good working attitude</p><p><br />\n\n</p>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Charter",
+      "uuid": "11347b3d404f701a75282a7993e0dda4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weather",
+      "uuid": "1441df6b1c10f910ccdc400e40b5fce9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lighting",
+      "uuid": "2e4b97fde8cf63085ec969fcc7e490c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Prevention",
+      "uuid": "c53b76cb09d84442ddd9d86d81959436",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "83311",
+  "occupationId": "OCC009199",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201925435E",
+    "description": null,
+    "name": "ASTRO TRANSPORTS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T06:50:52.000Z",
+    "ssicCode2020": "49212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201925435E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201925435E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201925435E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201925435E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "542",
+    "street": "BEDOK NORTH STREET 3",
+    "floor": null,
+    "unit": null,
+    "building": "BEDOK NORTH GREEN",
+    "postalCode": "460542",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33066590908488,
+    "lng": 103.922843972485
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181647",
+    "deletedAt": null,
+    "createdBy": "6a2bbfee-6754-46fa-9a45-55cef3ee20d7",
+    "createdAt": "2026-01-29T07:06:56.000Z",
+    "updatedAt": "2026-01-29T07:06:56.000Z",
+    "emailRecipient": "6a2bbfee-6754-46fa-9a45-55cef3ee20d7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 135,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/bus-driver-astro-transports-a7108ee018f1b0c970d4e9998de0c585",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 17500,
+    "minimum": 13000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a7108ee018f1b0c970d4e9998de0c585"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a7108ee018f1b0c970d4e9998de0c585/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

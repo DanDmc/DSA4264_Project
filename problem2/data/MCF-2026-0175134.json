@@ -1,0 +1,205 @@
+{
+  "uuid": "268d91cdc0feb5cd090f06a14163d73f",
+  "sourceCode": "Employer Portal",
+  "title": "Security Engineer (SASE & Firewall)",
+  "description": "<p>We are looking for a hands-on Security Engineer who specializes in delivering and integrating cybersecurity solutions for clients. You will focus on SASE technologies (Palo Alto Prisma Access, Zscaler) and next‑generation firewalls, while supporting security installations, configurations, incident resolution, and project delivery activities.</p><p>This role is part of the Security Technical Services (Delivery) team.<br /></p><p>Key Responsibilities:</p><ul><li>Assist in the deployment and configuration of SASE solutions (e.g., Palo Alto Prisma Access or Zscaler).</li><li>Support implementation and troubleshooting of firewalls, especially Palo Alto Networks.</li><li>Perform basic setup, onboarding, and policy/configuration changes.</li><li>Troubleshoot technical issues and support client delivery activities.</li><li>Work with internal teams and customers to ensure smooth project execution.</li></ul><p><br />Requirements:</p><ul><li>Experience with SASE platforms, preferably Prisma Access or Zscaler.</li><li>Hands-on experience with firewall technologies, ideally Palo Alto Networks.</li><li>Ability to support deployment, configuration, and troubleshooting tasks.</li><li>Comfortable working in a delivery/implementation environment.</li><li>Good communication skills.</li></ul><p>Good to Have (Optional)</p><ul><li>Exposure to cloud environments (Azure / AWS / GCP).</li><li>Experience with other network or security tools.</li><li>Security certifications (e.g., PCNSA, Zscaler, Azure Security, CCNA Security).</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCNA",
+      "uuid": "3d645983387566a4af67b11ff5f6bc1d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS",
+      "uuid": "4847e034bb0a55fcbc8a3380d6a3ab80",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Services",
+      "uuid": "7ab5051c19754fbd2213d6d5dbed5d8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PRISMA",
+      "uuid": "c636499e580a2d1c4d96af7aacb67ec3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security Management",
+      "uuid": "d5557e614a9a3b907acdd167d89d2e2c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Delivery",
+      "uuid": "e4a9ed5b8ac0f6f0ac00bcb37d4567f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062567",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199701382M",
+    "description": "<p><strong>NTT Singapore Pte Ltd (NTTS)</strong> is the regional headquarters of NTT Communications Corporation (NTT Com) for Asia Pacific Region. </p>    <p>Established in 1997, NTT Singapore has more than 10 years of expertise in providing information and communications technology (ICT) solutions worldwide.</p>    <p>NTT Singapore offers diverse high-quality connectivity, data centre solutions, security services, IT management services, voice and conferencing solutions and solution integration services to its enterprise customers.</p>    <p>NTT Communications is a wholly owned subsidiary of Nippon Telegraph and Telephone Corporation (NTT Corp.), one of the world’s largest providers of telecommunications services.</p>    <p> In 2013, NTT Corp. is ranked no.1 in telecom industry in the Fortune Global 500* list with operating revenues of more than $133,077 million. It is positioned 32nd among the top 500 corporations worldwide.</p>    <p> NTT Com's extensive global infrastructure includes Arcstar secure private networks, which cover 196 countries/regions and a tier-1 IP backbone network connected with major ISPs worldwide, as well as secure data centers at over 150 locations worldwide.</p>  ",
+    "name": "NTT SINGAPORE PTE. LTD.",
+    "ssicCode": "61011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:30:35.000Z",
+    "ssicCode2020": "61011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "APERIA",
+    "postalCode": "339509",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.3108667281683,
+    "lng": 103.863929573292
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175134",
+    "deletedAt": null,
+    "createdBy": "7ff3eb4d-1cc8-4e30-8834-200fb9a1e2f0",
+    "createdAt": "2026-01-28T07:42:16.000Z",
+    "updatedAt": "2026-01-28T07:42:16.000Z",
+    "emailRecipient": "7ff3eb4d-1cc8-4e30-8834-200fb9a1e2f0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/security-engineer-ntt-singapore-268d91cdc0feb5cd090f06a14163d73f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/268d91cdc0feb5cd090f06a14163d73f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/268d91cdc0feb5cd090f06a14163d73f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,237 @@
+{
+  "uuid": "238139aa96642634eac7a789a8ea5d72",
+  "sourceCode": "Employer Portal",
+  "title": "Mechanical Technician",
+  "description": "<p><strong>Job scope:</strong></p><ul><li>Carry out maintenance activities in accordance with established procedures, good engineering practices, and cGMP requirements.</li><li>Perform preventive and predictive maintenance on plant equipment and facilities to ensure high reliability and maximum uptime.</li><li>Assist in the development of preventive maintenance SOPs, procedures, and tasks to support effective asset management.</li><li>Troubleshoot equipment issues by observing operations, listening for abnormalities, and using appropriate measuring and testing instruments to identify root causes.</li><li>Participate in continuous improvement initiatives and support IRS/QAR investigations.</li><li>Support project construction and commissioning activities by actively participating in punch listing and commissioning; collaborate with supervisors and engineers on equipment improvements and modifications.</li><li>Ensure a safe, organized, and clean work environment within assigned areas of responsibility.</li></ul><p></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Overhaul",
+      "uuid": "1c2bc2c767822ced10916622ae14ef26",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Predictive Maintenance",
+      "uuid": "3d3df353578f5d6bea39f56c96fea0a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Welding",
+      "uuid": "8be92a6dba91189e3e092f2ef2961bbb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Piping",
+      "uuid": "96d312760756ae17426f3ff9f9731dd1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pumps",
+      "uuid": "d9557d324803f584a67619d304dc14b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Petrochemical",
+      "uuid": "dcf84f2c6c4586a2863d1a153804b16a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200107591N",
+    "description": "<p>   Through our commitment towards helping companies and individuals, our consultants pride their professionalism and competency in finding the right match. With our extensive pool of candidates, we are able to provide thorough assessments and selections based on the requirements needed.</p>  ",
+    "name": "NOVEXX PTE. LTD.",
+    "ssicCode": "71122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:53:01.000Z",
+    "ssicCode2020": "71122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "TUAS VIEW LOOP",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "637674",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.29180283582064,
+    "lng": 103.624119702241
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180447",
+    "deletedAt": null,
+    "createdBy": "2e022286-430d-4a80-8970-03a977c5183a",
+    "createdAt": "2026-01-29T03:53:18.000Z",
+    "updatedAt": "2026-01-29T03:53:18.000Z",
+    "emailRecipient": "2e022286-430d-4a80-8970-03a977c5183a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/mechanical-technician-novexx-238139aa96642634eac7a789a8ea5d72",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/238139aa96642634eac7a789a8ea5d72"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/238139aa96642634eac7a789a8ea5d72/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

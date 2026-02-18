@@ -1,0 +1,234 @@
+{
+  "uuid": "48823f6cc2275b095c25f7e7f7747d2c",
+  "sourceCode": "Employer Portal",
+  "title": "Automotive System Integrator",
+  "description": "<p><strong>Position Overview:</strong></p><p>The System Engineer is\nresponsible for the design and implementation of multi-sensor (Camera, LiDar,\nUltrasonic) for fusion based automotive vision system for ADAS and Situational\nAwareness. This role involves working closely with clients, project managers\nand installation teams to ensure that systems are delivered on time, within\nbudget and to meet the necessary standards, mainly…</p><p><strong>Key Responsibilities:</strong></p><p><strong>1.     \nSystem Design and implementation:</strong></p><p>a.     \nDevelop detailed designs to integrate multi-modal sensor data into a unified\nVision system for ADAS and situational awareness to ensure end to end system\nfunctionality</p><p>b.     \nConfigure and program components to meet specific project requirements.</p><p>c.     \nOversee the installation and commissioning of systems to ensure they function\ncorrectly and meet client expectations.</p><p><strong>2.     \nTechnical Support and Troubleshooting:</strong></p><p>a.     \nConduct system-level debugging, performance tuning, and root cause analysis</p><p>b.     \nProvide technical support to clients and internal teams for installed systems.</p><p>c.     \nDiagnose and resolve hardware and software issues related to systems.</p><p><strong>3.     \nProject Coordination:</strong></p><p>a.     \nWork with project managers to develop project plans, timelines and resource\nrequirements</p><p>b.     \nCoordinate with installation teams to ensure projects are completed on\nschedule.</p><p>c.     \nCommunicate regularly with clients to provide updates and address any concerns.</p><p><strong>4.     \nSystem Testing and Quality Assurance:</strong></p><p>a.     \nConduct thorough testing of installed systems to ensure they meet functional\nand performance standards.</p><p>b.     \nIdentify and address any issues or deficiencies in system performance.</p><p>c.     \nDocument test results and provide feedback for continuous improvement.</p><p><strong>5.     \nDocumentation and Reporting:</strong></p><p>a.     \nMaintain detailed records of system configurations, installations and\nmaintenance activities.</p><p>b.     \nPrepare technical documentation, including system diagrams, user manuals and\ntraining materials.</p><p>c.     \nProvide regular reports to management on project status, system performance and\ntechnical issues.</p><p><strong>6.     \nTraining and Support:</strong></p><p>a.     \nTrain clients and end-users on the operation and maintenance of installed\nsystems.</p><p>b.     \n Develop and deliver training sessions for internal teams on new\ntechnologies and best practices.</p><p>c.     \nProvide ongoing support and updates to clients as needed.</p><p><strong>7.     \nCompliance and Safety:</strong></p><p>a.     \nEnsure all work complies with industry standards, codes and safety regulations.</p><p>b.     \nFollow company policies and procedures for safety and security.</p><p>c.     \nStay up-to-date with the latest industry trends and technological advancements.</p><p><br />\n<br />\n<strong>Qualifications:</strong></p><p>1.     \nBachelor’s or Master’s degree in Electrical & Electronic Engineering, Computer Science,\nMechatronics, or related field</p><p>2.     \n3+ years of experience in system integration, preferably in automotive or\nrobotics domains</p><p>3.     \nStrong understanding of sensor technologies (camera, radar, LiDAR) and fusion\ntechniques</p><p>4.     \nFamiliarity with automotive communication protocols (CAN, Ethernet)</p><p>5.     \nExcellent problem-solving and cross-functional collaboration skills</p><p>6.     \nKnowledge of AI/ML-based perception systems is preferred</p><p>7.     \nExposure to vehicle dynamics and control systems</p><p>8.     \nHands-on experience with vehicle testing and data logging tools</p><p><strong>Physical requirements:</strong></p><p>a.     \nComfortable working at heights and in confined spaces.</p><p>b.     \nValid driver’s license and ability to travel to client sites.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Testing",
+      "uuid": "2e13e5ce6dbf0048065f4f8ceaa85f1a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Integration",
+      "uuid": "626344660999389da9c6589588184206",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Testing",
+      "uuid": "652eb4d624a8526c15f55ed618fd6499",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Camera",
+      "uuid": "967d35e40f3f95b1f538bd248640bf3b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Dynamics",
+      "uuid": "a9532d879554c1b4d6e846679e662de4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Tuning",
+      "uuid": "bffe7898e0faada14e4fb09bd6717314",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013782",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "200311985K",
+    "description": "<p>\r\n\tGBS (SINGAPORE) PTE. LTD.</p>\r\n",
+    "name": "GBS (SINGAPORE) PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:10:07.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311985K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311985K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311985K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311985K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "TAMPINES NORTH DRIVE 1",
+    "floor": null,
+    "unit": null,
+    "building": "T-SPACE",
+    "postalCode": "528559",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 18,
+        "location": "D18 Tampines, Pasir Ris",
+        "region": "East",
+        "sectors": [
+          "51",
+          "52"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.37153160506567,
+    "lng": 103.934203710644
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155705",
+    "deletedAt": null,
+    "createdBy": "83ffe21d-ad57-449e-8412-7bcbb9dab31a",
+    "createdAt": "2026-01-26T02:18:23.000Z",
+    "updatedAt": "2026-01-26T02:18:23.000Z",
+    "emailRecipient": "83ffe21d-ad57-449e-8412-7bcbb9dab31a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 62,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/automotive-system-integrator-gbs-48823f6cc2275b095c25f7e7f7747d2c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/48823f6cc2275b095c25f7e7f7747d2c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/48823f6cc2275b095c25f7e7f7747d2c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

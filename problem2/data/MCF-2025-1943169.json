@@ -1,0 +1,232 @@
+{
+  "uuid": "991b1e78229ef856761c46d51933dfde",
+  "sourceCode": "Employer Portal",
+  "title": "SUPERVISOR",
+  "description": "<p><strong>Key Responsibilities:</strong></p><ul><li>Supervise and coordinate the activities of team members, ensuring all tasks are completed efficiently and on time.</li><li>Provide leadership and guidance to staff, including setting clear expectations, offering support, and promoting professional development.</li><li>Monitor and evaluate employee performance, providing constructive feedback and conducting performance reviews.</li><li>Assist in training and onboarding new team members to ensure a smooth integration into the team.</li><li>Develop and maintain work schedules, ensuring appropriate staffing levels are met for each shift.</li><li>Resolve any issues or conflicts that arise within the team, maintaining a positive work atmosphere.</li><li>Ensure compliance with company policies, safety regulations, and legal requirements in all operations.</li><li>Report on team performance, production</li></ul><p><strong>Qualifications:</strong></p><ul><li>years of experience in a supervisory role</li><li>Strong leadership, organizational, and communication skills.</li><li>Ability to motivate and lead a team to achieve goals.</li><li>Excellent problem-solving skills and ability to handle conflicts in a constructive manner.</li><li>Ability to work in a fast-paced environment and manage multiple tasks effectively.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Learn",
+      "uuid": "f14ea141d4b5e2783acb2ce7fbb898eb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51311",
+  "occupationId": "OCC060446",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201211743K",
+    "description": null,
+    "name": "MONGKOK DIM SUM PTE. LTD.",
+    "ssicCode": "56112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T02:20:41.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201211743K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201211743K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201211743K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201211743K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "MANDAI LINK",
+    "floor": null,
+    "unit": null,
+    "building": "MANDAI FOODLINK",
+    "postalCode": "728654",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.409655632391,
+    "lng": 103.75829391449
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1943169",
+    "deletedAt": "2026-01-01T17:15:04.000Z",
+    "createdBy": "181e4e05-1ae2-43ec-9df3-2cbb96fd4051",
+    "createdAt": "2025-12-18T08:26:10.000Z",
+    "updatedAt": "2026-01-26T06:24:37.000Z",
+    "emailRecipient": "181e4e05-1ae2-43ec-9df3-2cbb96fd4051",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 70,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-18",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/supervisor-mongkok-dim-sum-991b1e78229ef856761c46d51933dfde",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/991b1e78229ef856761c46d51933dfde"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/991b1e78229ef856761c46d51933dfde/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

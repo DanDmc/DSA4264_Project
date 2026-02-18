@@ -1,0 +1,254 @@
+{
+  "uuid": "67f678f4f53534d93042e2deb34bfbf0",
+  "sourceCode": "Employer Portal",
+  "title": "MANAGER",
+  "description": "<ul><li>3-years experience in manager is preferable.</li><li>Proficient in office software, basic computer operations.</li><li>Good teamwork and communication skills, good integrity, attention to detail, good professional ethics, good organizational and coordination abilities, initiative, and responsibility.</li><li>Positive attitude, eager to learn, and willing to follow leadership directions.</li><li>Manage and handle company manpower.</li><li>Any ad-hoc task assigned.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weight",
+      "uuid": "8c489d0946f66d17d73f26366a4bf620",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain Management",
+      "uuid": "bd5476e8f33749530f87777476eeda72",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Software",
+      "uuid": "bda37247b0ee8c78e442791659bd434d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 8,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202320009N",
+    "description": null,
+    "name": "TRIPLE Q PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:07:53.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320009N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320009N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320009N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202320009N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201924585G",
+    "description": "<p>Since our establishment in 2013, Cleaning Network Singapore (CNS) has been a steadfast provider of commercial cleaning, maintenance, and facilities management services.</p>\n<p>Our enduring commitment to excellence empowers us to meet the ever-evolving needs of our clients, offering unwavering dedication to delivering quality, efficiency, and reliability.</p>\n<p>At CNS, we recognisethat our most valuable assets are our people and technology. We invest substantially in the training and development of our staff, equipping them with the expertise needed to provide exceptional services. Moreover, we maintain our position at the forefront of the industry through the adoption of cutting-edge cleaning technologies and equipment.</p>\n<p>Central to our core values is the cultivation of robust client relationships, and we take immense pride in fulfilling our commitments. Remarkably, 90% of our business emanates from repeat customers and referrals—an irrefutable endorsement of our steadfast commitment and service excellence.</p>\n<p><br></p>\n<p>Specialise on:</p>\n<p><br></p>\n<p>Management Cleaning</p>\n<p>Stewarding</p>\n<p>Office Cleaning</p>\n<p>Industrial Cleaning</p>\n<p>Home Cleaning</p>\n<p>Spring Cleaning</p>\n<p>Event Cleaning</p>",
+    "name": "CLEANING NETWORK SINGAPORE PTE. LTD.",
+    "ssicCode": "81211",
+    "employeeCount": null,
+    "companyUrl": "https://cleaningnetwork.sg/",
+    "lastSyncDate": "2026-01-27T02:14:37.000Z",
+    "ssicCode2020": "81211",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924585G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924585G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924585G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201924585G/schemes"
+      }
+    },
+    "logoFileName": "6bf708bf4e5388bb84c167ed6152cdd0/cleaning-network-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6bf708bf4e5388bb84c167ed6152cdd0/cleaning-network-singapore.jpg"
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163880",
+    "deletedAt": null,
+    "createdBy": "1b1e45b8-14f4-47ac-beca-80523fcd96fc",
+    "createdAt": "2026-01-27T02:20:33.000Z",
+    "updatedAt": "2026-01-27T02:20:32.000Z",
+    "emailRecipient": "1b1e45b8-14f4-47ac-beca-80523fcd96fc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 78,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/manager-cleaning-network-singapore-67f678f4f53534d93042e2deb34bfbf0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 14000,
+    "minimum": 7100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/67f678f4f53534d93042e2deb34bfbf0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/67f678f4f53534d93042e2deb34bfbf0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

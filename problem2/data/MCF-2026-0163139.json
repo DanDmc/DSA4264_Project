@@ -1,0 +1,234 @@
+{
+  "uuid": "391cca93089f787d204c4874ef812de2",
+  "sourceCode": "Employer Portal",
+  "title": "Staff Nurse/ Senior Staff Nurse (Interventional Radiology)",
+  "description": "<p><strong>Job Description</strong></p><ul><li>Provide radiology and perioperative nursing care.</li><li>Assist radiologist and surgeons during radiological procedures and operations.</li><li>Monitor and assess patient pre, intra and post procedures</li><li>Coordinate and collaborate with multi-disciplinary caregivers in providing safe efficient patient care. </li><li>Prepare patient for MRI procedure and cannulation for scan.</li><li>Recover patient after day surgery operation.</li><li>Follow up with specimen result and charges.</li><li>Guide and train new nurses.</li><li>Maintain good inventory of medication and stock</li><li>Prepare and organize for next day cases</li><li>Demonstrate proper use, care and maintenance of equipment and supplies.</li><li>Demonstrate proper and economical usage of sterile supplies and consumables.</li><li>Assist in inventories and equipment maintenance.</li><li>Ensure adequate daily supplies of consumables.</li><li>Assist with optimal OT room utilization</li></ul><p><strong>Requirements</strong></p><ul><li>Registered Nurse with Singapore Nursing Board </li><li>BCLS & AED Certified</li><li>Diploma or degree in nursing or equivalent</li><li>At least 1 or 2 years' experience as a Staff Nurse in a clinical setting</li></ul><p></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "ICU",
+      "uuid": "26bf7a7e68c0acc2c819ec1621630389",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AED",
+      "uuid": "28d7f7e7bb50b46af38d9d150256df4e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Improvement",
+      "uuid": "4878c13f97a57cf6c56adfe645e0f537",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Surgery",
+      "uuid": "4cc2ab05bc21d2a534f0ba01646952fa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Infection Control",
+      "uuid": "5a089e9aa9c19f7297f2ad669d21baec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Photos",
+      "uuid": "5daaf223b01f8f3e1bd9287170826fbc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medication Administration",
+      "uuid": "704e3e58602b30c3713a0bac9d71d0da",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MRI",
+      "uuid": "7148c92b2754e3c3ef1fec70e660ff15",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing",
+      "uuid": "c1311fa3447790f02b8e9181846c2205",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accent",
+      "uuid": "c900e1bd8e22771d610bd2a5861b544f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Care",
+      "uuid": "dfe9a5014f4387967da54a6e80631e69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BASIC",
+      "uuid": "e4ac03f6c9f00665644e868dd1fb9f1e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Radiology",
+      "uuid": "e4fb50dd0d1cc0142ca643b82c6c62f9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22200",
+  "occupationId": "OCC062519",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0841",
+  "postedCompany": {
+    "uen": "202008957K",
+    "description": "<p>Singapore Breast Surgery Center (\"SBSC\") is one stop center to meet the needs for breast care and women's medical imaging.</p>\n<p><br></p>\n<p>Our team is lead by a team of doctors specializing in the detection, treatment and management of breast cancer and diseases. We aim to provide a patient centric environment with a collegial, professional work culture.</p>",
+    "name": "SINGAPORE BREAST SURGERY CENTER PTE. LTD.",
+    "ssicCode": "70202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:20:40.000Z",
+    "ssicCode2020": "70202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202008957K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202008957K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202008957K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202008957K/schemes"
+      }
+    },
+    "logoFileName": "25101553cd7b1dea93f1571078f065e6/singapore-breast-surgery-center.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/25101553cd7b1dea93f1571078f065e6/singapore-breast-surgery-center.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "290",
+    "street": "Orchard Road",
+    "floor": null,
+    "unit": null,
+    "building": "The Paragon",
+    "postalCode": "238859",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.303735587366,
+    "lng": 103.835266645131
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163139",
+    "deletedAt": null,
+    "createdBy": "957c3c56-fb8a-4745-ae14-02e016e2fcdd",
+    "createdAt": "2026-01-27T01:29:00.000Z",
+    "updatedAt": "2026-01-27T01:29:00.000Z",
+    "emailRecipient": "957c3c56-fb8a-4745-ae14-02e016e2fcdd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 104,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 12,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/staff-nurse-senior-staff-nurse-singapore-breast-surgery-center-391cca93089f787d204c4874ef812de2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5800,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/391cca93089f787d204c4874ef812de2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/391cca93089f787d204c4874ef812de2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

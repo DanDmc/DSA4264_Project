@@ -1,0 +1,202 @@
+{
+  "uuid": "6aa98a4711f66d22c2a3f815f39919c2",
+  "sourceCode": "Employer Portal",
+  "title": "Client Marketing Associate (Travel Opportunities)",
+  "description": "<p>We are looking for an ambitious Marketing Associate to help us increase our clients‘ Brand awareness and Customer base through the promotion of their products and services at our event sites in Singapore.</p><p>As a member of our Marketing team, you will have room to advance your career. Our candidates receive 1-on-1 coaching/mentorship, continuous training and career guidance, travel opportunities, leadership opportunities to coach newcomers and fast tracked career advancement/growth.<br /></p><p>Responsibilities</p><p>- Participate and ensure the successful execution of our events marketing campaigns</p><p>- Promote our products or services to existing and potential customers</p><p>- Work with the rest of the Marketing team to develop promotion strategies and oversee their implementation</p><p></p><p>Requirements</p><p>- Background in Sales, Marketing, or similar roles is a plus</p><p>- Open minded and willingness to learn</p><p>- Good communication and presentation skills is a plus<br /></p><p>Candidates with no prior experience are welcome to apply. Shortlisted candidates will be comtacted within 24 hours.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Relationship",
+      "uuid": "0e0a7ac419a1d68d0ad2951c6a144aac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Verbal Communication",
+      "uuid": "29d0b1d35790a5bf184dccacd3e641ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Presentation Skills",
+      "uuid": "c2a974ed87a951bb16ce092a5ea5071f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Decision Making",
+      "uuid": "d993039c571024700ce3fb88ea433c75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Brand Awareness",
+      "uuid": "ff293c8866801a6120be5fab82c309bf",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12222",
+  "occupationId": "OCC000711",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201917739G",
+    "description": "<p>At Royal Org, we believe the people make a difference. Like clay in a potter’s hand, we continuously mould each individual by giving them room to make mistakes, opportunities to be exposed to, and grow as a family. We strongly believe in guiding, leading and walking together as a team to achieve success.</p>",
+    "name": "ROYAL ORG PTE. LTD.",
+    "ssicCode": "46100",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:47:55.000Z",
+    "ssicCode2020": "46100",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/schemes"
+      }
+    },
+    "logoFileName": "f5a8e1977d3a1172ee9ae1bc82176d1d/royal-org.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f5a8e1977d3a1172ee9ae1bc82176d1d/royal-org.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "53A",
+    "street": "BOAT QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "049842",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28709716700162,
+    "lng": 103.849263870801
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193016",
+    "deletedAt": null,
+    "createdBy": "39964466-7d36-426d-bdc7-634dfc0aa984",
+    "createdAt": "2026-01-31T06:52:12.000Z",
+    "updatedAt": "2026-01-31T06:52:12.000Z",
+    "emailRecipient": "39964466-7d36-426d-bdc7-634dfc0aa984",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 22,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/marketing/client-marketing-associate-royal-org-6aa98a4711f66d22c2a3f815f39919c2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6aa98a4711f66d22c2a3f815f39919c2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6aa98a4711f66d22c2a3f815f39919c2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

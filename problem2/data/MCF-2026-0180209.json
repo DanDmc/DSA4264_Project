@@ -1,0 +1,198 @@
+{
+  "uuid": "47a28835d6298495af283c032643501a",
+  "sourceCode": "Employer Portal",
+  "title": "Event and Marketing (Entry Level)",
+  "description": "<p>If you’re outgoing, ambitious, and ready to grow — we’ve got a spot for you 👀</p><p><br /></p><p>Your Mission:</p><p><br /></p><p>🔥 Boost brand visibility</p><p>🔥 Engage customers face-to-face</p><p>🔥 Deliver top-tier service</p><p><br /></p><p>Your Perks:</p><p><br /></p><p>✈️ Travel (regional & international)</p><p>👩‍🏫 1-1 Mentorship</p><p>📈 Career advancement</p><p>💸 Competitive income</p><p><br /></p><p>We’re Looking For:</p><p><br /></p><p>✔️ Curious minds</p><p>✔️ Team vibes</p><p>✔️ Brave enough to make mistakes & learn</p><p><br /></p><p>Only shortlisted candidates will be contacted.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mentorship",
+      "uuid": "8b3c953573310534b9f4c36305cf90c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Acquisition",
+      "uuid": "9050d811e4269f3076c38af4fd96ba5a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presentation Skills",
+      "uuid": "c2a974ed87a951bb16ce092a5ea5071f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33229",
+  "occupationId": "OCC061860",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 20,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53490594C",
+    "description": "<p>BEING THE LEADING OUTSOURCED MARKETING AGENCIES IN THE SOUTH-EAST ASIA REGION, WE ARE TASKED BY CLIENTS TO DELIVER NOT ONLY SALES, BUT ALSO A DIFFERENT LEVEL OF END-USER EXPERIENCE FOR THEIR CUSTOMERS.</p>\n<p>We specialize in face to face communications and we increase client's revenue through tailored marketing channels, such as Events and Roadshows etc.</p>\n<p><br></p>",
+    "name": "MYTHIC VISION",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://www.visionorg.asia/",
+    "lastSyncDate": "2026-02-04T00:03:35.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53490594C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53490594C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53490594C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53490594C/schemes"
+      }
+    },
+    "logoFileName": "ee05d5eefb29d2f9af4879d0b37d02ab/mythic-vision.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ee05d5eefb29d2f9af4879d0b37d02ab/mythic-vision.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "637",
+    "street": "YISHUN STREET 61",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "760637",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.42006905115524,
+    "lng": 103.839133252307
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180209",
+    "deletedAt": null,
+    "createdBy": "27721f62-f167-4d9b-938c-361a7c7e6c6e",
+    "createdAt": "2026-01-29T03:28:37.000Z",
+    "updatedAt": "2026-01-29T03:28:36.000Z",
+    "emailRecipient": "27721f62-f167-4d9b-938c-361a7c7e6c6e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 32,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/marketing/event-marketing-mythic-vision-47a28835d6298495af283c032643501a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/47a28835d6298495af283c032643501a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/47a28835d6298495af283c032643501a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

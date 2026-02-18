@@ -1,0 +1,206 @@
+{
+  "uuid": "a197d197a6c3e083f55dae9d92291369",
+  "sourceCode": "Employer Portal",
+  "title": "Factory Production Operator",
+  "description": "<p><strong>Requirements</strong></p>\n<ul>\n  <li>Basic Salary + OT pay</li>\n  <li>Pre-production preparation of empty water bottles for production.</li>\n  <li>Checking and washing of water bottles.</li>\n  <li>Quality control checking of finished products.</li>\n  <li>Stacking of finish products in to racking.</li>\n  <li>Housekeeping and cleaning of work areas and equipment</li>\n  <li>Other ad-hoc duties</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n  <li>Must be physically fit.</li>\n  <li>Not colour-blind.</li>\n  <li>Require to do Over-time (OT)</li>\n  <li>Able to start work immediately</li>\n  <li>5.5 days</li>\n</ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Hygiene standards",
+      "uuid": "3acebd63c6ebf9148029998f82a04e00",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loading & unloading",
+      "uuid": "544d69ceb3202e4e7d7c27956e848f5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Safety",
+      "uuid": "6472ce41c26babff27b4c28028093d77",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35219",
+  "occupationId": "OCC009015",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199601901D",
+    "description": null,
+    "name": "YUAN XING FOODSTUFF INDUSTRY PTE LTD",
+    "ssicCode": "11041",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T03:48:28.000Z",
+    "ssicCode2020": "11041",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "28",
+    "street": "SENOKO SOUTH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "758090",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45563511951511,
+    "lng": 103.801905785515
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172597",
+    "deletedAt": null,
+    "createdBy": "d603062b-afde-4183-9cf1-fe9953bfa711",
+    "createdAt": "2026-01-28T03:01:58.000Z",
+    "updatedAt": "2026-01-28T03:01:58.000Z",
+    "emailRecipient": "d603062b-afde-4183-9cf1-fe9953bfa711",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 70,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/factory-production-operator-yuan-xing-foodstuff-industry-a197d197a6c3e083f55dae9d92291369",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2400,
+    "minimum": 1400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a197d197a6c3e083f55dae9d92291369"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a197d197a6c3e083f55dae9d92291369/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

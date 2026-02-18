@@ -1,0 +1,208 @@
+{
+  "uuid": "9fb042e785b97bba12745c83e489e31e",
+  "sourceCode": "Employer Portal",
+  "title": "Principal Engineer",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>Manufacture of dies, moulds, tools, jigs and fixtures.</p><p><strong>Job Summary</strong></p><p>You will lead CNC milling programming and machine operation to produce precision parts according to specifications, driving process improvements that enhance productivity, quality, and cost efficiency.</p><p><strong>Responsibilities</strong></p><ul><li>Program CNC milling machines Hwacheon, MAZAK, and Faunc using Master Cam, NX, and AutoCad to produce parts that meet drawing specifications</li><li>Operate and set up CNC machines independently to ensure accurate production of parts</li><li>Apply knowledge of machine tools, speeds, feeds, and insert technology to optimize machining processes</li><li>Perform 3D/CNC programming and set up turn-mill machines to support manufacturing requirements</li><li>Provide technical support for production issues, including designing and redesigning jigs and fixtures to improve machining efficiency</li><li>Plan and implement machining process improvements to shorten cycle times, increase productivity, enhance quality, reduce waste, and control costs</li><li>Verify finished parts conform to specifications using appropriate measuring and inspection tools</li><li>Schedule and deploy daily work assignments to meet production targets</li><li>Communicate effectively with team members to determine and refine process procedures</li><li>Train colleagues on CNC programming and machine operation techniques as needed</li><li>Execute assigned ad-hoc duties with diligence and responsibility</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Tools",
+      "uuid": "7c06a5cd6e5d0f73e90ffa6cd30d8c81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC",
+      "uuid": "896554fed40d705b7fcf2fb3a7b385a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Program Management",
+      "uuid": "8e83fdfa2cceddecd354135d153a0c2b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machining",
+      "uuid": "9aa437108d30e56322c65bc3703ff829",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Auto CAD",
+      "uuid": "da0b72a6c06ebdf03387e6d8ba4670c8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FANUC",
+      "uuid": "da64f5d0ffe39469594bd584b6bfc813",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21441",
+  "occupationId": "OCC002872",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1151",
+  "postedCompany": {
+    "uen": "52862129K",
+    "description": "<p>Manufacture of dies,moulds,tools,jigs and fixtures.</p>\n",
+    "name": "YONG CHANG MOULD ENGINEERING",
+    "ssicCode": "28223",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T06:02:59.000Z",
+    "ssicCode2020": "28223",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52862129K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52862129K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52862129K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52862129K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5012",
+    "street": "ANG MO KIO AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": "TECHPLACE II",
+    "postalCode": "569876",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.3770382555731,
+    "lng": 103.865457576711
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181295",
+    "deletedAt": null,
+    "createdBy": "2281dfb0-32ff-4089-b0b2-dcce14cab601",
+    "createdAt": "2026-01-29T06:22:00.000Z",
+    "updatedAt": "2026-01-29T06:22:00.000Z",
+    "emailRecipient": "2281dfb0-32ff-4089-b0b2-dcce14cab601",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/principal-engineer-yong-chang-mould-engineering-9fb042e785b97bba12745c83e489e31e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9fb042e785b97bba12745c83e489e31e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9fb042e785b97bba12745c83e489e31e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

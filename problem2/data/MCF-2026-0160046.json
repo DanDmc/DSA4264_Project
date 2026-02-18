@@ -1,0 +1,218 @@
+{
+  "uuid": "bdd5873dd321f90692f2e9c8ded2f16a",
+  "sourceCode": "Employer Portal",
+  "title": "Admin executive",
+  "description": "<h3>Key Responsibilities</h3><p><ul><li>Manage daily office operations and administrative activities</li></ul></p><ul><li><p>Maintain records, files, and documentation (physical and digital)</p></li><li><p>Handle incoming calls, emails, and correspondence</p></li><li><p>Coordinate meetings, appointments, and schedules</p></li><li><p>Support HR activities such as attendance, leave records, and onboarding documentation</p></li><li><p>Assist in procurement of office supplies and vendor coordination</p></li><li><p>Prepare reports, presentations, and official documents</p></li><li><p>Ensure compliance with company policies and procedures<br /></p><p><strong>Preferred Skills</strong></p><p>-Knowledge of basic accounting or billing processes</p><p>-Familiarity with accounting software like Xero</p><p><p>-Problem-solving and decision-making skills</p></p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting System",
+      "uuid": "80f02cec3e05a1d93e286971a1b3bf22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Xero",
+      "uuid": "b4d48785c36047d95628c353e568040f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "11150",
+  "occupationId": "OCC000029",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "64",
+  "ssecFos": "0524",
+  "postedCompany": {
+    "uen": "202025825D",
+    "description": null,
+    "name": "8DOORS PRIVATE LIMITED",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T08:55:11.000Z",
+    "ssicCode2020": "25111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025825D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025825D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025825D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025825D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "368",
+    "street": "JOO CHIAT ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "427613",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30812167827751,
+    "lng": 103.903101142928
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160046",
+    "deletedAt": null,
+    "createdBy": "e53a8db5-cb9b-4a08-b498-f5665022e872",
+    "createdAt": "2026-01-26T09:08:56.000Z",
+    "updatedAt": "2026-01-26T09:08:56.000Z",
+    "emailRecipient": "e53a8db5-cb9b-4a08-b498-f5665022e872",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 276,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 35,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/admin-executive-8doors-bdd5873dd321f90692f2e9c8ded2f16a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bdd5873dd321f90692f2e9c8ded2f16a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bdd5873dd321f90692f2e9c8ded2f16a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

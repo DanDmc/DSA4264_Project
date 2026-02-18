@@ -1,0 +1,216 @@
+{
+  "uuid": "5575013ff0bab4e17bb8b33ff38c18bb",
+  "sourceCode": "Employer Portal",
+  "title": "EUC Engineer L1/ L2 Support",
+  "description": "<p>The End-User Computing (EUC) Engineer provides critical on-site L1 and L2 technical support to CPG end-users. This role is the \"face\" of IT support, responsible for resolving hardware and software incidents, fulfilling service requests, and ensuring a high level of user satisfaction by meeting the RFP's demanding 80% First Call Resolution (FCR) target and strict P1/P2/P3 resolution SLAs.</p><p><strong>Key Responsibilities:</strong></p><ul><li>Provide on-site L1/L2 Remote Support for all end-user hardware, including desktops, laptops, mobile devices, printers, MFDs, and VC equipment.</li><li>Support all specified software, including:</li><li><li>Microsoft Windows OS and M365 (Office, Teams, Teams Voice).</li><li>Specialized CAD/Engineering applications (Autodesk, Bentley, etc.).</li><li>Standard browsers and web-based business applications.</li></li><li>Troubleshoot and resolve user incidents (hardware, software, connectivity) with a strong focus on achieving the 80% FCR target.</li><li>Fulfill service requests (e.g., new user setup, software installation, hardware moves) accurately and efficiently.</li><li>Meticulously log all incidents and requests in the ITSM tool (ManageEngine ServiceDesk Plus), ensuring all actions are tracked to meet P1/P2/P3 SLAs.</li><li>Perform automated software/patch deployment tasks as directed (via ManageEngine Endpoint Central).</li><li>Collaborate with the L2 Network/Security/Server teams for escalations.</li><li>Maintain a positive and professional demeanor, providing excellent customer service.</li><li>Must be proficient in both English and conversational Mandarin to support all CPG users effectively.</li></ul><p><strong>Qualifications & Skills:</strong></p><ul><li>Diploma in Information Technology or equivalent.</li><li>Required: Proven experience in a hands-on desktop/EUC support role.</li><li>Required: Strong customer service skills and proficiency in English and conversational Mandarin.</li><li>Technical proficiency in Microsoft Windows, Active Directory, and Microsoft 365 (including Teams Voice).</li><li>Experience supporting specialized software, preferably CAD/Engineering applications (Autodesk, Bentley).</li><li>Experience with ITSM ticketing systems (e.g., ServiceDesk Plus).</li><li>Familiarity with remote support tools and endpoint management software.</li><li>Preferred: Microsoft 365/Modern Desktop certifications (e.g., MD-102), ITIL Foundation</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laptops",
+      "uuid": "48b773c837465a9904ae56389cd0dc9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ticketing Systems",
+      "uuid": "8a7567355f652d580e1e3b157e068ffe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows OS",
+      "uuid": "926b0c3371c863e07e1ecfa4396bbc45",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mobile Devices",
+      "uuid": "b5aaa8de40d02294ba91f817a863ad9f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VC",
+      "uuid": "b7128ad1d9b838be26989d1037a8c987",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Windows",
+      "uuid": "bb79f96acbff544ded541446c9c7c894",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Installation",
+      "uuid": "d7e56df61af8f0058c83689595cd08e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202428398R",
+    "description": null,
+    "name": "TRIPLE 8 CONSULTING SERVICES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T04:12:53.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202428398R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202428398R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202428398R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202428398R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169667",
+    "deletedAt": null,
+    "createdBy": "b98886be-3c64-48c2-b3ba-8ffbba5b11b6",
+    "createdAt": "2026-01-27T14:27:52.000Z",
+    "updatedAt": "2026-01-27T14:27:52.000Z",
+    "emailRecipient": "b98886be-3c64-48c2-b3ba-8ffbba5b11b6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 83,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-17",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/euc-engineer-l1-l2-support-triple-8-consulting-services-5575013ff0bab4e17bb8b33ff38c18bb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4200,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5575013ff0bab4e17bb8b33ff38c18bb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5575013ff0bab4e17bb8b33ff38c18bb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

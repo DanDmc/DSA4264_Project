@@ -1,0 +1,210 @@
+{
+  "uuid": "6f39099c6e16df0fa909a3ffae25e721",
+  "sourceCode": "Employer Portal",
+  "title": "TESTER",
+  "description": "<p>Candidate must have good knowledge in T &amp; C of Switchyard and Switchgear.</p>\n<p>Candidate Should be able to do testing &amp; Commissioning of Electrical Equipment.</p>\n<p>CT</p>\n<p>VT</p>\n<p>CIRCUIT BREAKERS</p>\n<p>POWER TRANSFORMERS</p>\n<p>CAPACITOR BANKS</p>\n<p>PROTECTION RELAYS</p>\n<p>POWER CABLES</p>\n<p>BUSBARS</p>\n<p>PROTECTION SCHEMES.</p>\n<p>Operation and maintenance of Electrical Equipment.</p>\n<p>LV/MV/HV Panels.</p>\n<p>POWER TRANSFORMERS</p>\n<p>VOLTAGE TRANSFORMER</p>\n<p>BATTERY CHARGERS</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "VT",
+      "uuid": "072bfacf555fde9accd162a180ff0ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Equipment",
+      "uuid": "1a99617414b6361adf9f6e8ab6156a2d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manual Testing",
+      "uuid": "22ab26f5643cef4b32c9736925166d27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Penetration Testing",
+      "uuid": "97def0245e723621477eeda0a410ec36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Testing",
+      "uuid": "ad1163ef3774b54b88e11f3cd999a2f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Voltage",
+      "uuid": "e437ba437f4106903e619bb380574954",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002084",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "83",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "200200131H",
+    "description": "<p>We are Singapore based company and is established since the Year 2002.We are an engineering and contracting company which specializes in mechanical and electrical and electrical engineering. Our main activities include design, supply and installation of both mechanical and electrical HT & LT System for Industrial, Commercial and Residential Buildings. Our company is registered with <strong><em>Building Construction Authority</em></strong>  and <strong><em>License Electrical Contractor</em></strong> with Energy Marketing Authority.</p>\n",
+    "name": "VS M & E SERVICES PTE LTD",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T09:19:12.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200131H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200131H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200131H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200131H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5059",
+    "street": "ANG MO KIO INDUSTRIAL PARK 2",
+    "floor": null,
+    "unit": null,
+    "building": "ANG MO KIO INDUSTRIAL PARK 2",
+    "postalCode": "569562",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37469356228369,
+    "lng": 103.859865590279
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1501011",
+    "deletedAt": "2025-10-24T17:15:04.000Z",
+    "createdBy": "de49531c-2639-4431-bfe3-a0a18a44961a",
+    "createdAt": "2025-10-03T06:24:12.000Z",
+    "updatedAt": "2026-01-30T03:35:13.000Z",
+    "emailRecipient": "de49531c-2639-4431-bfe3-a0a18a44961a",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 133,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-10-03",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/tester-vs-m-e-services-6f39099c6e16df0fa909a3ffae25e721",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6f39099c6e16df0fa909a3ffae25e721"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6f39099c6e16df0fa909a3ffae25e721/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

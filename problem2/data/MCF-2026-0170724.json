@@ -1,0 +1,216 @@
+{
+  "uuid": "bd1d29b6c1579b26b12e685748560c6f",
+  "sourceCode": "Employer Portal",
+  "title": "Administrative Assistant/Officer",
+  "description": "<p><strong>Company Overview / Employee Value Proposition</strong></p><p>KIAT LEE LANDSCAPE & BUILDING PTE LTD</p><p><strong>Job Summary</strong></p><p>You will perform data entry, procurement support, document filing, and scanning tasks to ensure smooth office operations. You will also handle other assigned duties to support the team’s daily functions.</p><p><strong>Responsibilities</strong></p><ul><li>Enter data accurately into company systems to maintain up-to-date records</li><li>Manage procurement tasks by processing purchase requests and coordinating with suppliers to support timely acquisitions</li><li>Organize and file documents systematically to enable easy retrieval and maintain office order</li><li>Scan documents efficiently to create digital copies for record-keeping and sharing</li><li>Complete assigned ad hoc duties promptly to support team needs and operational efficiency</li><li>Meet deadlines consistently to ensure smooth workflow and project progress</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>GCE O level, ITE, or Diploma qualification with 1 to 2 years of relevant work experience</li><li>Ability to organize work and pay close attention to detail</li><li>Availability to start work on short notice</li><li>Willingness to work a 5-day work week</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Bookkeeping",
+      "uuid": "b4ce435600f0451db46463e960fc5e3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199003767G",
+    "description": "<p>KIAT LEE LANDSCAPE & BUILDING PTE LTD</p>\r\n",
+    "name": "KIAT LEE LANDSCAPE & BUILDING PTE LTD",
+    "ssicCode": "81300",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T07:28:54.000Z",
+    "ssicCode2020": "81300",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199003767G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199003767G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199003767G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199003767G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "31",
+    "street": "KRANJI CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "728655",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43185544115803,
+    "lng": 103.75036243283
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170724",
+    "deletedAt": null,
+    "createdBy": "883f7255-6067-4919-8a42-20c5dbd67b0c",
+    "createdAt": "2026-01-28T00:04:02.000Z",
+    "updatedAt": "2026-01-28T00:04:02.000Z",
+    "emailRecipient": "883f7255-6067-4919-8a42-20c5dbd67b0c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 118,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/administrative-assistantofficer-kiat-lee-landscape-building-bd1d29b6c1579b26b12e685748560c6f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1980,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bd1d29b6c1579b26b12e685748560c6f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bd1d29b6c1579b26b12e685748560c6f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

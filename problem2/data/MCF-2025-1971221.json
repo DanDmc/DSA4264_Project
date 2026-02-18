@@ -1,0 +1,242 @@
+{
+  "uuid": "f6ec520f2d9a3cd7d1bd291686df4e6d",
+  "sourceCode": "Employer Portal",
+  "title": "Planner",
+  "description": "<p><strong>Responsibilities</strong></p>\n<ul>\n  <li>Responsible for monitoring and managing of WIP and customer backlog.</li>\n  <li>Plan daily production schedule for manufacturing execution and work with cross-functional team to meet SOD.</li>\n  <li>Manage customer demand forecast &amp; capacity allocation.</li>\n  <li>Acting as customer interface in providing daily operational updates to customers.</li>\n  <li>Improve capacity utilization through better device mix management.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n  <li>Diploma / Degree in Engineering / Supply Chain / Business / Manufacturing or equivalent</li>\n  <li>Minimum 2 years working experience</li>\n  <li>Good interpersonal and communication skills</li>\n  <li>Self-motivated, meticulous and able to work well with teams</li>\n  <li>Able to work effectively in a dynamic environment</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WIP",
+      "uuid": "60f2bfeaed0a36ff9864e008e1e67a36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Planner",
+      "uuid": "85be6ace42c06435db0a99bb5095344f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Demand Planning",
+      "uuid": "a5c22b00603e3cc7626e1f578fbc0985",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain Management",
+      "uuid": "bd5476e8f33749530f87777476eeda72",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43222",
+  "occupationId": "OCC009009",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1179",
+  "postedCompany": {
+    "uen": "199800834K",
+    "description": "<div>\r\n\tThe ASE Group is the world's largest provider of independent semiconductor manufacturing services in assembly and test. As a global leader geared towards meeting the industry's ever growing needs for faster, smaller and higher performance chips, the Group develops and offers a wide portfolio of technology and solutions including IC test, program design, front-end engineering test, wafer probe, wafer bump, substrate design and supply, wafer level package, flip chip, system-in-package, final test and design manufacturing services.</div>\r\n",
+    "name": "ASE SINGAPORE PTE. LTD.",
+    "ssicCode": "26113",
+    "employeeCount": null,
+    "companyUrl": "https://www.aseglobal.com.sg/",
+    "lastSyncDate": "2026-02-04T03:33:47.000Z",
+    "ssicCode2020": "26113",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199800834K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199800834K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199800834K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199800834K/schemes"
+      }
+    },
+    "logoFileName": "dc25645d45ee74c35d6a2ba66dac13bd/ase-singapore.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/dc25645d45ee74c35d6a2ba66dac13bd/ase-singapore.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "WOODLANDS LOOP",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "738074",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45031554042589,
+    "lng": 103.803934482319
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1971221",
+    "deletedAt": "2026-01-23T17:15:07.000Z",
+    "createdBy": "7d08b089-d2cb-4ed9-99f9-325e8ebe511c",
+    "createdAt": "2025-12-24T01:29:57.000Z",
+    "updatedAt": "2026-01-27T01:05:03.000Z",
+    "emailRecipient": "7d08b089-d2cb-4ed9-99f9-325e8ebe511c",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 436,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-24",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 41,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/planner-ase-singapore-f6ec520f2d9a3cd7d1bd291686df4e6d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f6ec520f2d9a3cd7d1bd291686df4e6d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f6ec520f2d9a3cd7d1bd291686df4e6d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,231 @@
+{
+  "uuid": "73d635729139448d9062152817729b1a",
+  "sourceCode": "Employer Portal",
+  "title": "Cyber Security Firewall Engineer",
+  "description": "<p><strong>Cyber Security Firewall Engineer (FortiGate / Palo Alto)</strong></p><p> | Energy and Utilities | On-site, Singapore<br /><br /><strong>Role Overview</strong></p><p>A large enterprise operating at regional scale within the energy and utilities sector is looking for a <strong>Cyber Security Firewall Engineer (FortiGate / Palo Alto)</strong> to support core security operations on a 6-month contract. The organisation is a recognised national operator with a strong focus on renewable and low-carbon energy, underpinned by a safety-first and risk-aware culture that values operational excellence and disciplined execution.</p><p>This role is fully on-site at a central location in Singapore and is delivery-focused in nature. You will take hands-on ownership of enterprise firewall platforms, with primary responsibility across Fortinet FortiGate and Palo Alto Networks environments. The position supports critical infrastructure and requires strong technical judgement, attention to detail, and the ability to operate independently within established governance and change management frameworks.</p><h3><strong>Key Responsibilities</strong></h3><ul><li><p>Manage firewall policies, rule changes, optimisation activities, and formal change requests across Fortinet FortiGate and Palo Alto platforms.</p></li><li><p>Configure and support NAT, VPN, routing, high availability setups, and logging integrations to ensure secure and resilient connectivity.</p></li><li><p>Monitor network traffic, identify anomalies, and support remediation of security events in line with cyber security operations procedures.</p></li><li><p>Plan and execute firmware upgrades, configuration backups, and rollback activities to minimise operational risk.</p></li><li><p>Support audit activities by preparing documentation and evidence aligned to compliance and regulatory requirements.</p></li><li><p>Administer Tripwire baselines, agents, alerts, and remediation workflows, investigating integrity violations and tuning rules where required.</p></li><li><p>Configure Imperva security policies, signatures, profiles, and exceptions to balance application protection and usability.</p></li><li><p>Triage alerts, perform root-cause analysis, and coordinate remediation actions with relevant stakeholders.</p></li><li><p>Maintain high-quality documentation, tickets, and change records to support auditability and operational transparency.</p></li><li><p>Report security outcomes and operational metrics to support broader cyber security and business risk objectives.</p></li></ul><h3><strong>Key Qualifications</strong></h3><ul><li><p>Hands-on experience with Fortinet FortiGate, including policies, VPN, routing, high availability, SD-WAN, and logging.</p></li><li><p>Strong experience with Palo Alto NGFW, including policies, NAT, App-ID, User-ID, and Panorama.</p></li><li><p>Solid networking fundamentals covering TCP/IP, VLANs, routing, NAT, SSL/TLS, and DNS.</p></li><li><p>Experience supporting incident response, change management, and structured documentation.</p></li><li><p>Ability to work independently in a risk-aware, operational environment.</p></li><li><p>Relevant certifications such as Fortinet NSE 4–7, Palo Alto PCNSA or PCNSE, or Imperva certifications are advantageous.</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Operations",
+      "uuid": "228ae2412a3a14cd1cbf6818128c45ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Tuning",
+      "uuid": "89dd2948ecda7325c0001d8a0e51a2d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Imperva",
+      "uuid": "970782405b859386fa1134df5b23da0f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Firmware",
+      "uuid": "a940a548ba41bc988f99d51fd02f21de",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Evidence",
+      "uuid": "c7b2a4d55fbea4d044644cf5b2b45d29",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VPN",
+      "uuid": "eaef8590a83770745b6591921835bf08",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062567",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    },
+    {
+      "id": 37,
+      "category": "Security and Investigation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0917",
+  "postedCompany": {
+    "uen": "200307397W",
+    "description": "<p>KERRY CONSULTING PTE. LTD.</p>\r\n\r\n<p>Headquarted in Singapore since 2003, Kerry Consulting is an award winning Search & Selection headhunting firm with 6 Best Headhunting Awards in Asiamoney Headhunter Polls for Asia since 2009.</p>\r\n\r\n<p>Licence no. 16S8060</p>\r\n",
+    "name": "KERRY CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 60,
+    "companyUrl": "www.kerryconsulting.com",
+    "lastSyncDate": "2026-02-04T00:48:49.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307397W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307397W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307397W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307397W/schemes"
+      }
+    },
+    "logoFileName": "12b8cf5cc0a79411dec9457cd1536448/kerry-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/12b8cf5cc0a79411dec9457cd1536448/kerry-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167740",
+    "deletedAt": null,
+    "createdBy": "1ec21033-5f85-42fe-9d33-e360a7ad4a09",
+    "createdAt": "2026-01-27T08:58:06.000Z",
+    "updatedAt": "2026-01-27T08:58:06.000Z",
+    "emailRecipient": "1ec21033-5f85-42fe-9d33-e360a7ad4a09",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 94,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 17,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/cyber-security-firewall-engineer-kerry-consulting-73d635729139448d9062152817729b1a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/73d635729139448d9062152817729b1a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/73d635729139448d9062152817729b1a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,211 @@
+{
+  "uuid": "f5ef47b17a884075417915271f289897",
+  "sourceCode": "Employer Portal",
+  "title": "Restaurant Service Crew (5 Days)",
+  "description": "<p>SKI is the up-and-coming restaurant in Tanjong Pagar, serving amazing food and providing fantastic service for the guests.</p>\n<p><br></p>\n<p>You can expect a 5-day work week with an amazing compensation structure that includes:</p>\n<p><br></p>\n<ul>\n  <li>Monthly Commission</li>\n  <li>Monthly Full Attendance Bonus</li>\n  <li>Annual Performance Bonus</li>\n  <li>Dine-in Discount</li>\n</ul>\n<p><br></p>\n<p>Job description</p>\n<p><br></p>\n<ul>\n  <li>Greet and serve customers with a positive attitude and genuine smile</li>\n  <li>Take and process orders accurately using the POS system</li>\n  <li>Provide recommendations and answer customer queries about the menu</li>\n  <li>Serve food and beverages promptly and efficiently</li>\n  <li>Maintain cleanliness and organization of the dining and service areas</li>\n  <li>Clear tables, reset seating areas, and manage table turnover during peak hours</li>\n  <li>Support the team with opening, closing, and shift change duties</li>\n  <li>Ensure compliance with food hygiene, safety, and cleanliness standards</li>\n  <li>Assist with other tasks as assigned by the supervisor or manager</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Turnover",
+      "uuid": "f0da7d56118485f19220a9d4997b51b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    },
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "51311",
+  "occupationId": "OCC009332",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202510677W",
+    "description": null,
+    "name": "SKI F&B PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:01:23.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510677W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510677W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510677W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510677W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "182",
+    "street": "CECIL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "FRASERS TOWER",
+    "postalCode": "069547",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2788433159127,
+    "lng": 103.847292201851
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1792343",
+    "deletedAt": "2025-12-22T17:15:04.000Z",
+    "createdBy": "c6513df2-fbf4-4ad4-ae27-23ebf96d167e",
+    "createdAt": "2025-11-22T06:23:36.000Z",
+    "updatedAt": "2026-01-30T07:23:26.000Z",
+    "emailRecipient": "c6513df2-fbf4-4ad4-ae27-23ebf96d167e",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 120,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-11-22",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/restaurant-service-crew-ski-fb-f5ef47b17a884075417915271f289897",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f5ef47b17a884075417915271f289897"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f5ef47b17a884075417915271f289897/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

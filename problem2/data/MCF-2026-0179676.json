@@ -1,0 +1,203 @@
+{
+  "uuid": "114bbe14aa93450f5066d6a7ca98ade5",
+  "sourceCode": "Employer Portal",
+  "title": "Full-Time Sales Agent",
+  "description": "<p><strong>Job Summary</strong></p><p>We are looking for a Telesales Agent to acquire commercial customers for electricity plans through outbound calls. You will be responsible for explaining electricity plans clearly, handling objections, and successfully converting leads into completed contracts.</p><p><strong>Responsibilities</strong></p><ul><li>Make outbound calls to potential commercial customers to introduce and promote electricity plans</li><li>Explain electricity plans clearly to customers to help them understand benefits and options</li><li>Handle customer objections effectively to address concerns and move towards closing sales</li><li>Convert leads into completed contracts by guiding customers through the sales process</li><li>Collaborate closely with a supervisor to learn sales techniques and product knowledge through provided training</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Demonstrate a strong work ethic and willingness to learn new skills through training and supervision</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Product Knowledge",
+      "uuid": "008a8d8a377a59673ee533a01f0590a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Presentations",
+      "uuid": "0fd6c2fa6cabd995972b8d59f83f2382",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Telesales",
+      "uuid": "2e9424bec86738ad6fc2be050f6fb249",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Product Marketing",
+      "uuid": "356633816b7d63bff6c7a2d20d66fb0d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Process",
+      "uuid": "7e10720fb56494b0e75eb221ed88be3e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Relations",
+      "uuid": "f1eb44b30dd1ad6ec71516307d66567c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52440",
+  "occupationId": "OCC062193",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    },
+    {
+      "id": 39,
+      "category": "Telecommunications"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202510876R",
+    "description": null,
+    "name": "FUSEND POWER PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:20:16.000Z",
+    "ssicCode2020": "35104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510876R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510876R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510876R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202510876R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "114",
+    "street": "LAVENDER STREET",
+    "floor": null,
+    "unit": null,
+    "building": "CT HUB 2",
+    "postalCode": "338729",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31158791306681,
+    "lng": 103.86337512307
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0179676",
+    "deletedAt": null,
+    "createdBy": "6187d325-157f-4fdb-a9e9-d189b2f7e0b0",
+    "createdAt": "2026-01-29T02:45:05.000Z",
+    "updatedAt": "2026-01-29T02:45:05.000Z",
+    "emailRecipient": "6187d325-157f-4fdb-a9e9-d189b2f7e0b0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 34,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-05",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/full-time-sales-agent-fusend-power-114bbe14aa93450f5066d6a7ca98ade5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/114bbe14aa93450f5066d6a7ca98ade5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/114bbe14aa93450f5066d6a7ca98ade5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

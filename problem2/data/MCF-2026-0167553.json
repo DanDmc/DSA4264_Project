@@ -1,0 +1,229 @@
+{
+  "uuid": "b7aa91a5581044ead6753301942c1784",
+  "sourceCode": "Employer Portal",
+  "title": "AI Product Lead (Regional Role)",
+  "description": "<p>Our Company is expanding its AI initiatives and is seeking an AI Product & Engineering Lead with prior AI startup or founding experience to drive the design, delivery, and scaling of real-world LLM-powered systems.<br />This role goes beyond pure engineering execution. You will play a key role in technical decision-making, product shaping, and system architecture, translating cutting-edge AI capabilities into scalable and commercially viable solutions.<br /></p><p><strong>Key Responsibilities</strong></p><p><u>AI System Ownership & Delivery</u></p><ul><li>Own or co-own AI initiatives from problemdefinition, technical strategy, architecture design, to production deployment.</li><li> Make informed decisions on model selection, RAGarchitecture, agent orchestration, and system trade-offs under real-worldconstraints.</li><li>Design and optimize LLM inference pipelines,embeddings, and system performance for reliability and scalability.</li></ul><p><u>Product-Oriented AI Engineering</u></p><ul><li>Collaborate closely with business, product, and leadership teams to translate ambiguous requirements into AI-driven solutions.</li><li>Design structured, reusable Prompt Engineering and agent workflows to ensure controllability, robustness, and explainability.</li><li>Evaluate build vs. buy decisions across models, agent platforms, and infrastructure.</li></ul><p><u>Multi-Agent Systems & Reasoning</u></p><ul><li>Design and orchestrate multi-agent systems using frameworks such as LangChain, LangGraph, MCP, or equivalent.</li><li>Implement reasoning paradigms including ReAct, Chain-of-Thought (CoT), Tree-of-Thought (ToT).</li><li>Assess and integrate agent platforms (e.g., Coze, Dify, FastGPT) when appropriate.</li></ul><p><u>RAG & Knowledge Infrastructure</u></p><ul><li>Design and iterate on Retrieval-Augmented Generation (RAG) architectures.</li><li>Build and optimize knowledge systems using vector databases such as Milvus, FAISS, or Chroma.</li><li>Continuously improve retrieval quality, context grounding, and reasoning accuracy.</li><li>Track emerging AI trends in model alignment, agent systems, and multimodal AI.</li><li>Contribute to internal standards, documentation, prototypes, and technical decision frameworks.</li><li>Mentor engineers or collaborate with external partners when needed.</li></ul><p><br /><u><strong>Qualifications</strong></u></p><ul><li>Bachelor’s degree or above in Computer Science, AI, or a related field.</li><li>Previous experience founding, co-founding, or being an early technical member of an AI startup, or leading AI products in a startup environment.</li><li>Proven delivery of at least one end-to-end AI product (LLM / RAG / Agent-based system) in production.</li><li>Strong hands-on experience with LLMs, Prompt Engineering, RAG pipelines, and agent frameworks.</li><li>Solid understanding of ReAct-style agent workflows and multi-agent system design.</li><li>Experience making technical decisions under uncertainty, cost, and time constraints.</li></ul><p><u>Nice to Have</u></p><ul><li>Experience with LoRA / QLoRA, model alignment, or inference optimization.</li><li>Exposure to AI product commercialization, user feedback loops, or go-to-market iteration.</li><li>Open-source contributions, technical writing, or public speaking.</li><li>Strong cross-functional communication and leadership skills.</li></ul><p><br /><u><strong>This is a global role, open to candidates worldwide.</strong></u></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Writing",
+      "uuid": "3d23b24e74221ce468478a100370b239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Translating",
+      "uuid": "5a46a951446636631a92cf8a7b8a21ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "uuid": "5cd2adc9e2a5254e4c1da803519f298b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mandarin Chinese",
+      "uuid": "6925f5815be262133c25f787e91c0aa0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Science",
+      "uuid": "8329f5105520a1b72d062628c077ddfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architecture Design",
+      "uuid": "ae64194051878ec826a5a24ebf799d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commercialization",
+      "uuid": "b7a395f655c06d573b82a6c82d7ac4f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC059612",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 9,
+      "category": "Design"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "T17LL1702J",
+    "description": "<p>Smart Forte Consulting LLP</p>\n<p>EA &nbsp;Licence: 17C8868 | Registration Number: R1108383 | Registration Number: R1108244</p>\n<p><br></p>\n<p>At Smart Forte, it is our mission to help you find your dream job. Since 2004, we have been helping people like you, find their passion so that they will love their job. We have close relationships with companies from various industries, therefore providing you only the best available jobs. We specialise in permanent and contract recruitment solutions. Additionally, we offer career advise, comprehensive interview advise and consulting services.</p>\n<p>Our core values are the heart of our business. With over a decade of experience, we have a deep understanding of the markets and the people we work with, from candidates to clients. We are passionate about creating valuable relationships with everyone, and are committed to deliver our service offerings with the utmost professionalism and reliability.</p>",
+    "name": "SMART FORTE CONSULTING LLP",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.smartforte.com",
+    "lastSyncDate": "2026-02-04T05:44:39.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T17LL1702J"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T17LL1702J/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T17LL1702J/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/T17LL1702J/schemes"
+      }
+    },
+    "logoFileName": "8a0b7b6f0fa0519ce3033571fd4cfbfc/smart-forte-consulting.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8a0b7b6f0fa0519ce3033571fd4cfbfc/smart-forte-consulting.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167553",
+    "deletedAt": null,
+    "createdBy": "59f43d5d-0902-4b06-8e32-f35aa660ecaa",
+    "createdAt": "2026-01-27T08:38:59.000Z",
+    "updatedAt": "2026-01-27T08:38:59.000Z",
+    "emailRecipient": "59f43d5d-0902-4b06-8e32-f35aa660ecaa",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 90,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/ai-product-lead-smart-forte-consulting-b7aa91a5581044ead6753301942c1784",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 15000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b7aa91a5581044ead6753301942c1784"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b7aa91a5581044ead6753301942c1784/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

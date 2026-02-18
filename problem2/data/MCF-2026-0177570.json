@@ -1,0 +1,231 @@
+{
+  "uuid": "cbacb397fdc76ba2e79dccd3f293bd6c",
+  "sourceCode": "Employer Portal",
+  "title": "Senior System Analyst",
+  "description": "<p>One of our client (a leading bank of Singapore) is undertaking a\nstrategic upgrade of its Murex MX.3 platform to enhance system resilience,\nsupport new product capabilities, and align with evolving regulatory and\noperational requirements.<br />\nThis initiative includes upgrading from version 3.1.42.48b to 3.1.6x.x,\nonboarding the EQA and OSP Excess modules, and implementing comprehensive\nreconciliation, testing automation, and governance frameworks.</p><p><strong>Responsibilities:</strong></p><p>• Write transformation logic for source data format to Murex understandable format (MxML)<br />\n• Create MxML import and export workflows using MXML Exchange<br />\n• Document Functional, Technical Specification and Test Cases for integration<br />\n• Produce exception reports for failures<br />\n• Configure and Build Murex Reports for reports-based interfaces<br />\n• Build custom tasks in MxML Exchange for specific processing not available through standard task library</p><p><strong>Mandatory Skills Description:</strong></p><p>• 7+ years of experience in Murex MX3 MxML, BO Processing,\nconfirmations, settlements<br />\n• Should have FO -Pre Trade experience<br />\n• Unix/Linux scripting, SQL<br />\n• Able to work independently<br />\n• Prepare Technical specification for the given requirements.<br />\n• Deliver the allocated build items for signed off technical specification\nhighlighted in item2.<br />\n• Conduct Unit Testing by taking full responsibility of the build quality.<br />\n• Experience in agile methodology and tools like JIRA, Confluence<br />\n• Support Testing phases from SIT/UAT.<br />\n• Post deployment fixes and handover to BAU.<br />\n• To provide proper documentation for the overall build as per the client\ninternal guidelines.<br />\n• To follow delivery processes as mandated by client internal guidelines.</p><p><strong>Nice-to-Have Skills Description:</strong></p><p>• Understanding of Trade Life Cycle & Murex upgrade Experience.</p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Confluence",
+      "uuid": "1ce38b99de0bc8449e053c0c9d125d14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Methodology",
+      "uuid": "9016c071b388e2d6e157e492b9e4b2f8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excess",
+      "uuid": "d1d25b9ff7906919775079068a81aee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002105",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202401420D",
+    "description": null,
+    "name": "DIGITAL DISRUPTION TECHNOLOGIES PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T12:46:00.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401420D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401420D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401420D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401420D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177570",
+    "deletedAt": null,
+    "createdBy": "59f770d4-f956-48e3-8960-d68312f79c85",
+    "createdAt": "2026-01-28T12:51:52.000Z",
+    "updatedAt": "2026-01-28T12:51:52.000Z",
+    "emailRecipient": "59f770d4-f956-48e3-8960-d68312f79c85",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/senior-system-analyst-digital-disruption-technologies-cbacb397fdc76ba2e79dccd3f293bd6c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10300,
+    "minimum": 9100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cbacb397fdc76ba2e79dccd3f293bd6c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cbacb397fdc76ba2e79dccd3f293bd6c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

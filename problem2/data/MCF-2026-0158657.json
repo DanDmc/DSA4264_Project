@@ -1,0 +1,193 @@
+{
+  "uuid": "bf2fc8c6a234badcfa9a8d8f94b1543a",
+  "sourceCode": "Employer Portal",
+  "title": "Project Enginner(RC Work)",
+  "description": "<ul>\n  <li>Work together with drafter to submit the shop drawing.</li>\n  <li>Coordinate on the PE design issues. </li>\n  <li>Liaise with professional staff such as architects and engineers.</li>\n  <li>Monitor and inspect all work undertaken by contractors to ensure structural soundness.</li>\n  <li>Project materials submission. </li>\n  <li>Coordinate site work arrangment and planing. </li>\n</ul>\n<p>Requirements: </p>\n<ul>\n  <li>Degree/Deploma in civil or structural engineering (essential).</li>\n  <li>6 years of work experience as a structural engineer (essential).</li>\n  <li>Experience in project management.</li>\n  <li>Advanced knowledge of construction methods, materials, and legal regulations.</li>\n</ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coordination",
+      "uuid": "35f35fe579c03a9a6a217efff2494bb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Planning",
+      "uuid": "48f916f940025d1b1a22d2888b314435",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shop Drawing",
+      "uuid": "67e843da0d36840f0ed55d9437fbb7b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Engineering",
+      "uuid": "931140d8e607636c929c269fa1d409b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Planning",
+      "uuid": "9fefa7a826abcce0192e96f3b9e590b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time planning",
+      "uuid": "a0afcd76fc258f9ff53ca34948786940",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Coordination",
+      "uuid": "c84c87a3a7f389029fd7bbaeb3635994",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21422",
+  "occupationId": "OCC059973",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 6,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1121",
+  "postedCompany": {
+    "uen": "201928162R",
+    "description": "<p>We are a general builder and specialist RC work contractor.</p>\n<p>We provide an inclusive and collaborative work environment and strive to be a outstanding player in our industry.&nbsp;</p>\n<p><br></p>",
+    "name": "DS BUILDER PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": 300,
+    "companyUrl": "https://dsbce.com.sg/",
+    "lastSyncDate": "2026-02-02T23:33:58.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R/schemes"
+      }
+    },
+    "logoFileName": "727be73f2a68f16030d07cf0b80b861c/ds-builder.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/727be73f2a68f16030d07cf0b80b861c/ds-builder.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158657",
+    "deletedAt": null,
+    "createdBy": "2dda1f29-bd9f-43ea-9984-47e99c8fe0bc",
+    "createdAt": "2026-01-26T07:19:27.000Z",
+    "updatedAt": "2026-01-26T07:19:27.000Z",
+    "emailRecipient": "2dda1f29-bd9f-43ea-9984-47e99c8fe0bc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-enginner-ds-builder-bf2fc8c6a234badcfa9a8d8f94b1543a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bf2fc8c6a234badcfa9a8d8f94b1543a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bf2fc8c6a234badcfa9a8d8f94b1543a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

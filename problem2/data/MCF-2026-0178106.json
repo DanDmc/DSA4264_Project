@@ -1,0 +1,233 @@
+{
+  "uuid": "e9f8a9bb50fceab094e861efee141098",
+  "sourceCode": "Employer Portal",
+  "title": "Application Security Architect (AI/ML Focus)",
+  "description": "<p><strong>Job Description</strong></p><p>·      The Application Security Architect will be responsible for designing, assessing, and governing security for AI/ML-enabled applications within the project. </p><p>·      This role focuses on securing the end-to-end AI lifecycle, cloud-native AI infrastructures, and identity & access management for AI agents, while providing strategic security guidance to project stakeholders.</p><p><strong>Key Responsibilities </strong></p><p>·      AI/ML Security Assessments & Risk Management Conduct comprehensive security assessments of AI/ML systems, including data pipelines, model training environments, inference endpoints, and MLOps workflows. </p><p>·      Identify and analyze complex risks such as data privacy violations, data leakage, adversarial attacks, model poisoning, prompt injection, and misuse of AI technologies.</p><p>·       Evaluate security threats across the full AI lifecycle—from data collection and model development to deployment and retirement—and define appropriate mitigation strategies. </p><p>·      Perform threat modeling and risk assessments specific to AI-driven and agent-based systems.</p><p>·       AI Governance & Security Controls Develop and implement security controls, governance frameworks, and policies for end-to-end AI lifecycle management within the project. </p><p>·      Support project compliance with AI regulations, responsible AI principles, and data protection standards (e.g., GDPR, NIST AI RMF).</p><p>·       Create strategic security roadmaps and executive-level recommendations to enable secure AI adoption across the project.</p><p>·       Cloud & Infrastructure Security for AI Design and review secure cloud architectures for AI workloads across AWS, Azure, and GCP. Implement best practices for IAM, encryption, secrets management, container security, network segmentation, and secure data storage.</p><p>·       Assess and secure APIs, microservices, and application components that support AI models and intelligent systems. </p><p>·      Ensure security controls are embedded into CI/CD and MLOps pipelines.</p><p>·       Identity & Access Management for AI Agents Design IAM models for AI agents, including agent identities, delegated permissions, ephemeral credentials, and cross-system trust boundaries. </p><p>·      Implement zero-trust principles for AI agent authentication, authorization, and privilege management. </p><p>·      Develop patterns for scoped access, Just-In-Time (JIT) authorization, short-lived tokens, and decoupled privilege elevation. </p><p>·      Integrate IAM solutions with AI agent orchestration platforms and establish access governance processes, including permission reviews, certifications, and usage monitoring. </p><p>·      Project Communication & Advisory Translate complex technical security risks into clear business and project impacts for executive and senior stakeholders. </p><p>·      Prepare security assessment reports, threat models, recommendations, and remediation plans. </p><p>·      Collaborate closely with AI engineers, data scientists, application teams, IT security, and compliance teams to deliver secure AI-enabled solutions.</p><p><strong>Required Skills & Qualifications </strong></p><p>·      3–8+ years of experience in cybersecurity, application security, cloud security, or data security roles. </p><p>·      Demonstrated hands-on experience securing AI/ML platforms, models, pipelines, or agent-based systems.</p><p>·       Strong knowledge of cloud security across AWS, Azure, and GCP, including IAM, network security, encryption, and API security.</p><p>·       Solid understanding of AI-specific threats such as adversarial ML, data contamination, model theft, and prompt injection.</p><p>·       Experience with containerized environments and orchestration platforms (Docker, Kubernetes). </p><p>·      Familiarity with MLOps tools and platforms such as SageMaker, Vertex AI, Azure ML, or MLflow.</p><p>·       Excellent analytical, documentation, and communication skills, with the ability to engage both technical and non-technical stakeholders.</p><p>·       Preferred Qualifications Security certifications such as CISSP, CCSP, CCIE Security, or AWS/Azure/GCP Security Specialty.</p><p>·       Experience with responsible AI initiatives, AI governance models, or AI compliance frameworks.</p><p>·      sets AI/ML Security Assessments & Risk Management Cloud & Infrastructure Security for AI Identity & Access Management for AI Agents</p><p>·       Background in security engineering, threat modeling, or red teaming for AI and ML systems.</p><p>·       Experience working in large enterprise security programs or consulting-style project</p><p>·      environments. </p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Architecture",
+      "uuid": "09162aa1970c16d1328b5f8a48519a7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Security",
+      "uuid": "2993e06f9e34b9da0ed41173d7d56a4a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SageMaker",
+      "uuid": "4f6473eacc58714a8d6d9a823b98139b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Contamination",
+      "uuid": "5e6997d65aa9e783e4258a763015f49c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vertex",
+      "uuid": "b22b929ba52471a02d18bb3a4e4472e6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Authentication",
+      "uuid": "c75f7811d70d17dbcd88e9d03752cbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Encryption",
+      "uuid": "d7f2615c71a1567cc13cf3a7f7de0aea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Threat Modeling",
+      "uuid": "f8cd3c30dcbdab72370c7358359a8866",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC002261",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201705267M",
+    "description": "<p>ELLIOTT MOSS CONSULTING PTE. LTD.</p>\r\n\r\n<p>We at Elliott Moss Consultng inspire individuals and organisations to work more effectively and efficiently, and create greater choice in the work domain, for the benefit of all concerned. Our primary mission is to provide our clients with the best suitable employees who bring success to your organiza,on and allows us to grow together.</p>\r\n",
+    "name": "ELLIOTT MOSS CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:43:04.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/schemes"
+      }
+    },
+    "logoFileName": "786e07536678a6deae78dcfce453ad6b/elliott-moss-consulting.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/786e07536678a6deae78dcfce453ad6b/elliott-moss-consulting.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "77",
+    "street": "HIGH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "HIGH STREET PLAZA",
+    "postalCode": "179433",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 6,
+        "location": "D06 Beach Road, High Street",
+        "region": "East",
+        "sectors": [
+          "17"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29045407468311,
+    "lng": 103.849358869172
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178106",
+    "deletedAt": null,
+    "createdBy": "512e3cf5-2300-49bc-9183-a07f3ca80bd8",
+    "createdAt": "2026-01-28T17:28:32.000Z",
+    "updatedAt": "2026-01-28T17:28:33.000Z",
+    "emailRecipient": "512e3cf5-2300-49bc-9183-a07f3ca80bd8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 38,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/application-security-architect-elliott-moss-consulting-e9f8a9bb50fceab094e861efee141098",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e9f8a9bb50fceab094e861efee141098"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e9f8a9bb50fceab094e861efee141098/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

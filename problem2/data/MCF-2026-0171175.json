@@ -1,0 +1,200 @@
+{
+  "uuid": "930ad22be270b49b55c64b32ae728c51",
+  "sourceCode": "Employer Portal",
+  "title": "CNC MACHINIST",
+  "description": "<p>Job Description & Requirements</p><p>~ Able to interpret & review mechanical drawings and specifications.</p><p>~ Responsible for setting up & operating of CNC Milling / Turning machine.</p><p>~ Knowledge and experience on Fanuc, Hurco & Mazatrol control system.</p><p>~ Able to perform machine code programming.</p><p>~ Adhere to good quality, housekeeping and safety practices.</p><p>~ Minimum 1-5 year’s working experience in CNC machining environment.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Drilling",
+      "uuid": "1f96b045595ca263909861c15babe062",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC",
+      "uuid": "896554fed40d705b7fcf2fb3a7b385a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machining",
+      "uuid": "9aa437108d30e56322c65bc3703ff829",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC Manufacturing",
+      "uuid": "c288ee3b74eb2c877851174128f2c08c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lathe",
+      "uuid": "ed7d5b7d49388467b5fe4aef2752dc2d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31153",
+  "occupationId": "OCC005634",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 43,
+      "category": "Precision Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199200006R",
+    "description": null,
+    "name": "ITS TOOLS SYSTEM INDUSTRIES PTE LTD",
+    "ssicCode": "28223",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:58:33.000Z",
+    "ssicCode2020": "28223",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200006R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200006R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200006R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199200006R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "BUKIT BATOK STREET 24",
+    "floor": null,
+    "unit": null,
+    "building": "SKYTECH",
+    "postalCode": "659480",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34214330533439,
+    "lng": 103.75437937672
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171175",
+    "deletedAt": null,
+    "createdBy": "780ebca0-40b0-4e38-8a48-33164b557728",
+    "createdAt": "2026-01-28T01:34:06.000Z",
+    "updatedAt": "2026-01-28T01:34:06.000Z",
+    "emailRecipient": "780ebca0-40b0-4e38-8a48-33164b557728",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 92,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/precision-engineering/cnc-machinist-tools-system-industries-930ad22be270b49b55c64b32ae728c51",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/930ad22be270b49b55c64b32ae728c51"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/930ad22be270b49b55c64b32ae728c51/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

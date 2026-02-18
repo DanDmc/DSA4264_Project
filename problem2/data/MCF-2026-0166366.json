@@ -1,0 +1,237 @@
+{
+  "uuid": "10d27ac607b00f5ddb1579d9d3c4917c",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Engineer",
+  "description": "<p><strong>Key Responsibilities:</strong></p>\n<ul>\n  <li>Lead Generation</li>\n  <li>Client Acquisition</li>\n  <li>Technical Presentations &amp; Demos</li>\n  <li>Proposal Development</li>\n  <li>Pipeline Management</li>\n  <li>Sales Strategy</li>\n  <li>Sales Target Achievement</li>\n  <li>Customer Relationship Management</li>\n</ul>\n<p><strong>Job Requirements:</strong></p>\n<ul>\n  <li>Degree/Diploma in Engineering or any related field.</li>\n  <li>Open for fresh graduates with interest in a sales role and willingness to learn.</li>\n  <li>Prior experience as a Sales Engineer or in a similar technical sales role is a plus.</li>\n  <li>Positive attitude and likeable personality.</li>\n  <li>Goal driven and result-oriented</li>\n  <li>Excellent communication and interpersonal skills.</li>\n  <li>Proficiency in MS office and basic knowledge on Autocad is required.</li>\n  <li>Strong problem-solving abilities and attention to detail.</li>\n  <li>Ability to work independently and as part of a team.</li>\n  <li>Proficiency in technical writing and documentation.</li>\n  <li>Strong organizational and project management skills.</li>\n  <li>Strong understanding of technical concepts and ability to explain them to a non-technical audience.</li>\n  <li>Ability in negotiating terms and closing a deal.</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Lead Generation",
+      "uuid": "063210a5a1434ad61b6bb343e20ddb36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Writing",
+      "uuid": "3d23b24e74221ce468478a100370b239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "uuid": "75eb0a4f9f448994a9d4461ea8a9df64",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Presentations",
+      "uuid": "beea9794a3a89102f052257cd6a7af4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Sales",
+      "uuid": "e56e7c2bf650e990e2325d550008e617",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24331",
+  "occupationId": "OCC003416",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0549",
+  "postedCompany": {
+    "uen": "200714972H",
+    "description": "<p>Stolz Engineering is the official sole distributor of cooling towers in Singapore and Thailand that is committed to reliability, credibility and excellency. We value our employees and believe in fostering a supportive and inclusive workplace.</p>",
+    "name": "STOLZ ENGINEERING PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": "https://www.stolz-singapore.com/",
+    "lastSyncDate": "2026-02-04T07:06:38.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200714972H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200714972H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200714972H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200714972H/schemes"
+      }
+    },
+    "logoFileName": "00972b9e7c561c0bd7b705e3bbed7923/stolz-engineering.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/00972b9e7c561c0bd7b705e3bbed7923/stolz-engineering.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "45",
+    "street": "GENTING LANE",
+    "floor": null,
+    "unit": null,
+    "building": "GENTING WAREHOUSE",
+    "postalCode": "349557",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32780055967265,
+    "lng": 103.874771035359
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166366",
+    "deletedAt": null,
+    "createdBy": "463267a5-7710-44ac-85a8-0792548a1e1f",
+    "createdAt": "2026-01-27T06:31:58.000Z",
+    "updatedAt": "2026-01-27T06:31:59.000Z",
+    "emailRecipient": "463267a5-7710-44ac-85a8-0792548a1e1f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 44,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/sales-engineer-stolz-engineering-10d27ac607b00f5ddb1579d9d3c4917c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/10d27ac607b00f5ddb1579d9d3c4917c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/10d27ac607b00f5ddb1579d9d3c4917c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

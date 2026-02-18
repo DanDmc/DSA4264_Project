@@ -1,0 +1,255 @@
+{
+  "uuid": "d91e2d0e12bb6db4105795a6c1204a10",
+  "sourceCode": "Employer Portal",
+  "title": "Junior DevOps Engineer/SRE Engineer",
+  "description": "<h3><strong>Responsibilities</strong></h3><ul><li>Support the management and troubleshooting of servers, networks, and applications to maintain system reliability and performance under guidance.</li><li>Assist in the daily deployment and monitoring of business systems to ensure continuous operation and timely incident response.</li><li>Participate in operation and maintenance activities to support platform security and system performance.</li><li>Assist senior team members in maintaining operational standards and following established operation and maintenance procedures.</li><li>Support the implementation and adherence to standardized operation processes for the DevOps team, ensuring quality and compliance.</li><li>Assist in automation deployment tasks and support the configuration and use of monitoring systems to improve operational efficiency.</li><li>Support the management of version control systems (SVN/Git) and assist in maintaining CI/CD pipelines.</li><li>Assist in configuring and maintaining Nginx servers and load balancers (SLB) to support traffic management and system availability.</li><li>Perform Linux system administration tasks with a focus on system security and stability under supervision.</li><li>Support network-related configurations including firewall, VPN, DHCP, DNS, and high availability/load balancing technologies.</li><li>Assist in analysing and resolving system faults, following escalation procedures when necessary.</li><li>Support safe operation and maintenance practices within cloud platforms such as Azure, AWS, or Google Cloud under guidance.</li><li>Assist in using tools and environments including Hyper-Cloud, Cloudform/AWX, ELK, Zabbix, Jenkins/VSTS, and GitLab to support daily operational workflows.</li></ul><h3><strong>Required Competencies and Qualifications</strong></h3><ul><li>Diploma Bachelor’s Degree, or Professional Qualification in Engineering (Computer /\nTelecommunication / Electrical / Electronic), Computer Science, Information Technology, or related fields.</li><li>1–2 years of relevant experience in system administration, site reliability engineering, operation and maintenance, or related IT roles.</li><li>Basic understanding of Linux operating systems.</li><li>Familiarity with version control systems such as SVN or Git.</li><li>Willingness to learn and work with automation, monitoring, and cloud-based platforms.</li><li>Good problem-solving skills and ability to work under guidance in operational environments.</li></ul><h3><strong>Preferred Competencies and Qualifications</strong></h3><ul><li>Familiarity with the Node.js runtime environment to support application deployment and troubleshooting.</li><li>Exposure to high availability and load balancing technologies.</li><li>Exposure to operation and maintenance activities for websites or web application platforms.</li></ul><h3><strong>Other Information</strong></h3><ul><li>Proper training and on-the-job guidance will be provided.</li><li>Attractive rewards for long-term service staff.</li><li>Energetic and friendly working environment with flexible working hours, and staff birthday celebrations.</li><li>Medical insurance coverage provided.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Jenkins",
+      "uuid": "2e54334c0a5ce2e3e5a5845df3ab3ada",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Application Firewall",
+      "uuid": "34ee1981f6dccd1866d4b35375201161",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Node.js",
+      "uuid": "3b2819dd4c24eda2faf2052eef449551",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Amazon AWS",
+      "uuid": "3fcb666743f4142cc3b9eeeb9bccafb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Load Balancer",
+      "uuid": "50382c1137e78c7c038faabadb85d9fd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DHCP",
+      "uuid": "54201c55d2bdc7a9e19d9e032d8c0ede",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Google Cloud Platform",
+      "uuid": "5c9ef0d871938dccceb29ee63fad8ddb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nginx",
+      "uuid": "62e0b5b350c9e3d2c19aa801d9442ba9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "hands-on experience",
+      "uuid": "b789d90cb71f70125412e3a4cd741c87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Zabbix",
+      "uuid": "d1ddc1b1c3c258570ba6994be1aeaddf",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Windows Firewall",
+      "uuid": "de6322027be965f38f25c41dbf51bbf3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VSTS",
+      "uuid": "e675fb7068f335c781c413d7650ce131",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VPN",
+      "uuid": "eaef8590a83770745b6591921835bf08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Version Control SVN",
+      "uuid": "f24d04b72f8317f6c6f883873b0fa2e6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "25231",
+  "occupationId": "OCC062549",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201932458M",
+    "description": "<p>About Alphawall:<br>\n<br>\nA leading cybersecurity provider offering managed detection and response, incident response, and threat intelligence services.<br>\nA distributor for cybersecurity solutions in the Asia Pacific region. Offers various Cloud services and cybersecurity solutions.<br>\n</p>",
+    "name": "ALPHAWALL PTE. LTD.",
+    "ssicCode": "62022",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T04:00:17.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201932458M/schemes"
+      }
+    },
+    "logoFileName": "cda8d94b4da63ea0cfb5ebaf775b73df/alphawall.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cda8d94b4da63ea0cfb5ebaf775b73df/alphawall.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "18",
+    "street": "SIN MING LANE",
+    "floor": null,
+    "unit": null,
+    "building": "MIDVIEW CITY",
+    "postalCode": "573960",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35896872448261,
+    "lng": 103.833968719539
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188733",
+    "deletedAt": null,
+    "createdBy": "dc2c41c1-fc82-4822-aeb9-5e9ab5d7b464",
+    "createdAt": "2026-01-30T06:44:03.000Z",
+    "updatedAt": "2026-01-30T06:44:03.000Z",
+    "emailRecipient": "dc2c41c1-fc82-4822-aeb9-5e9ab5d7b464",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/junior-devops-engineersre-engineer-alphawall-d91e2d0e12bb6db4105795a6c1204a10",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d91e2d0e12bb6db4105795a6c1204a10"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d91e2d0e12bb6db4105795a6c1204a10/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

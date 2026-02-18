@@ -1,0 +1,204 @@
+{
+  "uuid": "08f48d119ecdf5f6274eb22c2d36f10a",
+  "sourceCode": "Employer Portal",
+  "title": "Cook for Okonomiyaki Restaurant",
+  "description": "<p>Ajiya Okonomiyaki Restaurant at Downtown East Pasir Ris looking for full time cook/kitchen hand. Min experience in kitchen 2 years.<br /></p><p>Must know how to :<br />- Stir Fry<br />- Slice / Cut<br />- Grill / Deep Fry<br /></p><p>Looking for: <br />- Team player<br />- Good hygiene and clean-as-you-go attitude<br />- Can do spirit<br /></p><p>5 day work week, including weekends and PHs.</p><p>Salary from $2700 - $3100 depending on hours worked and experience.<br /></p><p>Send resume or enquiries to 96326385.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "can do attitude",
+      "uuid": "139549d1b8a9916d4e6bb206d563f281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamwork",
+      "uuid": "16c129bc8a57941c7cdb12241f1058fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food and Beverage Safety and Hygiene",
+      "uuid": "507d5806206464a7c0b078d658210ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Highly responsible",
+      "uuid": "5fd5ce43a85c9c2ee5e88398fce9b8eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food hygiene",
+      "uuid": "aadd756fbed03a4b7a040f8731245f9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "personal hygiene",
+      "uuid": "cf293036365329dd22891c2ec04f4957",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "positive attitude",
+      "uuid": "e7070a53129dfc86358c4787cbadf9b0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202505137W",
+    "description": "<p>Ajiya Okonomiyaki Restaurant (owned by Ai Ryori Group) is a DIY okonomiyaki concept restaurant that allows people to have fun cooking their own food and gather together with friends and family and have a good time.&nbsp;</p>\n<p><br></p>\n<p>They are passionate about bringing quality Japanese cuisine to everybody who enjoys good Japanese food, and will not serve anything they won't eat themselves.&nbsp;</p>",
+    "name": "AI RYORI GROUP PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:26:29.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505137W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505137W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505137W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505137W/schemes"
+      }
+    },
+    "logoFileName": "b5a61e2ebbb7120d4e3ea92726303ca7/ai-ryori-group.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b5a61e2ebbb7120d4e3ea92726303ca7/ai-ryori-group.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "PASIR RIS CLOSE",
+    "floor": null,
+    "unit": null,
+    "building": "DOWNTOWN EAST",
+    "postalCode": "519599",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 18,
+        "location": "D18 Tampines, Pasir Ris",
+        "region": "East",
+        "sectors": [
+          "51",
+          "52"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.37656567661726,
+    "lng": 103.95522291538
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167442",
+    "deletedAt": null,
+    "createdBy": "25274276-b240-49b9-b98f-087b34e624b7",
+    "createdAt": "2026-01-27T08:27:37.000Z",
+    "updatedAt": "2026-01-27T08:27:37.000Z",
+    "emailRecipient": "25274276-b240-49b9-b98f-087b34e624b7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 38,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-okonomiyaki-restaurant-ai-ryori-group-08f48d119ecdf5f6274eb22c2d36f10a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3100,
+    "minimum": 2700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08f48d119ecdf5f6274eb22c2d36f10a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08f48d119ecdf5f6274eb22c2d36f10a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,201 @@
+{
+  "uuid": "1a4b778f5c45d82dda7132d7a984a328",
+  "sourceCode": "Employer Portal",
+  "title": "Murex Back Office Consultant (MxML)",
+  "description": "<p>We are looking to expand Back office Murex team to work on new product onboarding program running on Murex Treasury platform<br /><br /><strong>Responsibilities:</strong><a href=\"https://luxhire.luxoft.com/hr/browse/VR-120296#\" target=\"_blank\" rel=\"noopener noreferrer\"><br /></a>• Write transformation logic for source data format to Murex understandable format (MxML)<br />• Create MxML import and export workflows using MXML Exchange<br />• Document Functional, Technical Specification and Test Cases for integration<br />• Produce exception reports for failures<br />• Configure and Build Murex Reports for reports based interfaces<br />• Build custom tasks in MxML Exchange for specific processing not available through standard task library<br /><br /><br /><strong>Mandatory Skills Description:</strong><a href=\"https://luxhire.luxoft.com/hr/browse/VR-120296#\" target=\"_blank\" rel=\"noopener noreferrer\"><br /></a>• 5+ years of experience in Murex MX3 MxML, BO Processing, confirmations, settlements<br />• Unix/Linux scripting, SQL<br />• Able to work independently<br />• Prepare Technical specification for the given requirements.<br />• Deliver the allocated build items for signed off technical specification highlighted in item2.<br />• Conduct Unit Testing by taking full responsibility of the build quality.<br />• Experience in agile methodology and tools like JIRA, Confluence<br />• Support Testing phases from SIT/UAT.<br />• Post deployment fixes and handover to BAU.<br />• To provide proper documentation for the overall build as per the client internal guidelines.<br />• To follow delivery processes as mandated by client internal guidelines.<br /><br /><strong>Nice-to-Have Skills Description:</strong><br />Understanding of Trade Life Cycle</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Treasury",
+      "uuid": "20e968a2ef4cbdc5bea5e34d0b1e7333",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile Methodology",
+      "uuid": "9016c071b388e2d6e157e492b9e4b2f8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Murex MXML",
+      "uuid": "e3846a2045d787eb30487cf296d32d80",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Murex",
+      "uuid": "edba4a902bc04995101ab24a234e7043",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Back Office",
+      "uuid": "eed2839c1e3e5f7069ed03b2f6d4c6dd",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013764",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200723468K",
+    "description": "<p><strong>Luxoft, a DXC Technology Company (NYSE: DXC)</strong>, is a digital strategy and software engineering firm providing bespoke technology solutions that drive business change for customers the world over. Luxoft uses technology to enable business transformation, enhance customer experiences, and boost operational efficiency through its strategy, consulting, and engineering services. Luxoft combines a unique blend of engineering excellence and deep industry expertise, specializing in automotive, financial services, travel and hospitality, healthcare, life sciences, media and telecommunications.</p>\n\n<p>DXC is the world's leading independent, end-to-end IT services company that drives digital transformations for clients by modernizing and integrating their mainstream IT. Together, DXC and Luxoft offer a differentiated customer-value proposition for digital transformation by combining Luxoft’s front-end digital capabilities with DXC’s expertise in IT modernization and integration.</p>\n",
+    "name": "LUXOFT INFORMATION TECHNOLOGY (SINGAPORE) PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "https://www.luxoft.com/",
+    "lastSyncDate": "2026-02-04T08:03:34.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200723468K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200723468K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200723468K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200723468K/schemes"
+      }
+    },
+    "logoFileName": "4596ff071e432b4ce3ccd4f1aa368256/luxoft-information-technology.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4596ff071e432b4ce3ccd4f1aa368256/luxoft-information-technology.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157369",
+    "deletedAt": null,
+    "createdBy": "5a3c7e73-b50d-4ea7-bf6e-c552c2ad2335",
+    "createdAt": "2026-01-26T04:53:21.000Z",
+    "updatedAt": "2026-01-26T04:53:21.000Z",
+    "emailRecipient": "5a3c7e73-b50d-4ea7-bf6e-c552c2ad2335",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 52,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/murex-back-office-consultant-luxoft-information-technology-1a4b778f5c45d82dda7132d7a984a328",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11500,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1a4b778f5c45d82dda7132d7a984a328"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1a4b778f5c45d82dda7132d7a984a328/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

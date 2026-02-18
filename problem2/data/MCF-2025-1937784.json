@@ -1,0 +1,223 @@
+{
+  "uuid": "cd9024e00466d73d449107f3c573585c",
+  "sourceCode": "Employer Portal",
+  "title": "PERFORMING ARTISTE",
+  "description": "<p>The Performing Artiste acts, dances, sings and sometimes play musical instruments as part of their performances. </p>\n<p><br></p>\n<ul>\n  <li>Deliver performance smoothly and perfectly.</li>\n  <li>Rehearse with other performer and the team to familiarise with the performance.</li>\n  <li>Required to performs on stage in front of live audiences.</li>\n  <li>Able to handle chinese speaking customers.</li>\n  <li>Able to handle high level stress.</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Dance teaching",
+      "uuid": "2f2efb23eee6df0036bc546fc914237e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vocal",
+      "uuid": "36381e29a4c255d5e51e3f43f53da690",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "good sales",
+      "uuid": "427e0955feb4fcf2d7a85b0e38210e62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "attendance of events",
+      "uuid": "731dcff425a6de2948e50c6c1060506a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performing Arts",
+      "uuid": "753732671ec1c264e37265824d4adb90",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dance",
+      "uuid": "7ae5eb054903e9573446842c76213373",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress Management",
+      "uuid": "9ed1162d77e7a31ffd7430013b408286",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performing",
+      "uuid": "a13692fe9acc59d44fd5399f245180c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manage High Stress Situations",
+      "uuid": "a65a31756b5ce21f20103ede3b767932",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Chinese dance",
+      "uuid": "c5755c441ec65e8f7cc3cb36e6d32967",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Singing",
+      "uuid": "eec5503e21c428e650987268e368f0a0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "26549",
+  "occupationId": "OCC005095",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 12,
+      "category": "Entertainment"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    },
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202506786N",
+    "description": null,
+    "name": "TIAN YA HAI JIAO PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T07:29:56.000Z",
+    "ssicCode2020": "93203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202506786N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202506786N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202506786N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202506786N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "6001",
+    "street": "BEACH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "GOLDEN MILE TOWER",
+    "postalCode": "199589",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30201130676835,
+    "lng": 103.864322517944
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1937784",
+    "deletedAt": "2026-01-21T17:15:04.000Z",
+    "createdBy": "8dbea5be-7388-4dde-a0e0-2bc814a12479",
+    "createdAt": "2025-12-17T11:03:59.000Z",
+    "updatedAt": "2026-01-27T10:14:47.000Z",
+    "emailRecipient": "8dbea5be-7388-4dde-a0e0-2bc814a12479",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 142,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-17",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/entertainment/performing-artiste-tian-ya-hai-jiao-cd9024e00466d73d449107f3c573585c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cd9024e00466d73d449107f3c573585c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cd9024e00466d73d449107f3c573585c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

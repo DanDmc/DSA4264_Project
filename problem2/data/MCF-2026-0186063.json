@@ -1,0 +1,230 @@
+{
+  "uuid": "3fab58cbb5d0369e2146c1d4efcd8e80",
+  "sourceCode": "Employer Portal",
+  "title": "Events management",
+  "description": "<p>Real Growth, Real Opportunities ✨</p><p>Step into a role that truly challenges and develops you. Every campaign, roadshow, and event you join will allow you to engage directly with clients and customers, building skills that no classroom can teach. 💡 You’ll gain hands-on experience in brand representation, communication, and relationship-building, while learning from a team that values growth, performance, and collaboration. 🚀</p><p>Perks:</p><ul><li>Coaching & mentorship</li><li>Leadership pathways</li><li>Regional & international exposure 🌏</li><li>Performance recognition 💎</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Management",
+      "uuid": "7effb2f87a97b7666a5f62f9f90a493e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "B2B Sales",
+      "uuid": "88292c05a15c019fec626a163fa8f1c7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpreting",
+      "uuid": "883f9bc828196c913b19f32b6ed23366",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "B2B",
+      "uuid": "91e32a5fc05beb6db7bf9cd75b53e586",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Planning",
+      "uuid": "96aced0b7d642ea8c08c5ce8ec6262a1",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Personal Development",
+      "uuid": "e912c898ffb3757bdbfcbbc2ab134021",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Brand Awareness",
+      "uuid": "ff293c8866801a6120be5fab82c309bf",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "14391",
+  "occupationId": "OCC001205",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 7,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "81",
+  "ssecFos": "0549",
+  "postedCompany": {
+    "uen": "201917739G",
+    "description": "<p>At Royal Org, we believe the people make a difference. Like clay in a potter’s hand, we continuously mould each individual by giving them room to make mistakes, opportunities to be exposed to, and grow as a family. We strongly believe in guiding, leading and walking together as a team to achieve success.</p>",
+    "name": "ROYAL ORG PTE. LTD.",
+    "ssicCode": "46100",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:47:55.000Z",
+    "ssicCode2020": "46100",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201917739G/schemes"
+      }
+    },
+    "logoFileName": "f5a8e1977d3a1172ee9ae1bc82176d1d/royal-org.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f5a8e1977d3a1172ee9ae1bc82176d1d/royal-org.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "53A",
+    "street": "BOAT QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "049842",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28709716700162,
+    "lng": 103.849263870801
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186063",
+    "deletedAt": null,
+    "createdBy": "8df18ea3-011e-42f8-b9dc-336a3167b3ea",
+    "createdAt": "2026-01-30T01:43:36.000Z",
+    "updatedAt": "2026-01-30T01:43:36.000Z",
+    "emailRecipient": "8df18ea3-011e-42f8-b9dc-336a3167b3ea",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 12,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/marketing/events-management-royal-org-3fab58cbb5d0369e2146c1d4efcd8e80",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3fab58cbb5d0369e2146c1d4efcd8e80"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3fab58cbb5d0369e2146c1d4efcd8e80/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

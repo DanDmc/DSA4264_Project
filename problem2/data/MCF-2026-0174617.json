@@ -1,0 +1,245 @@
+{
+  "uuid": "d38a902171edf9328226585286ca1018",
+  "sourceCode": "Employer Portal",
+  "title": "System Engineer",
+  "description": "<p>We are seeking a versatile and experienced System Engineer to support our projects. In this role, you will be instrumental in the full software development lifecycle, from gathering client requirements to deployment and ongoing maintenance. You will work on a diverse tech stack, developing new applications, enhancing existing systems, and providing critical production support.<br /><br />Scopes include:</p><ul><li>Engage directly with clients to gather, analyze, and translate business needs into technical requirements.</li><li>Perform full-stack software development, testing, and deployment for new applications.</li><li>Design, develop, and optimize database solutions in Oracle, SQL Server, PostgreSQL, and MongoDB to implement core business logic.</li><li>Maintain and enhance legacy production software applications (<a href=\"https://vb.net/\" target=\"_blank\" rel=\"noopener noreferrer\">VB.Net</a>, VB6 etc.). </li><li>Provide IT support for production floor issues and troubleshoot/resolve software defects.</li><li>Create insightful production data dashboards using Tableau, preparing data sources via Oracle PL/SQL and Tableau Prep Builder.</li><li>Liaise with internal and external stakeholders on projects.</li><li>Prepare comprehensive technical documentation.</li><li>Manage the complete SDLC cycle: requirement gathering, design, development, testing, deployment, and documentation.</li></ul><p>Requirements:</p><ul><li>Proven sector experience is critical. Applicants must have a background in energy, oil & gas, and/or renewables, in order to engage our stakeholders and project management teams.</li><li>Proven proficiency in front-end technologies: HTML5, CSS3, Bootstrap, JavaScript, jQuery, React, and/or Vue.js.</li><li>Strong database expertise: Advanced Oracle PL/SQL development (queries, stored procedures, debugging), with experience in SQL Server, PostgreSQL, and/or MongoDB.</li><li>Hands-on experience with: Tableau and Tableau Prep Builder for data visualization and ETL.</li><li>Familiarity with development tools: Visual Studio, MS Office Suite, Adobe, Axure.</li><li>Knowledge of (a plus): Automation Anywhere RPA.</li><li>Excellent problem-solving skills and a methodical approach to troubleshooting.</li><li>Strong communication skills, with the ability to explain technical concepts to non-technical stakeholders.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "renewables industries",
+      "uuid": "1e373d846c196b523ff6332350ec2d00",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MongoDB",
+      "uuid": "206e3718af092fd1d12f80cae771ccac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oil & Gas Industry",
+      "uuid": "225ae39e98e82c2f6d96e71cf697109f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CSS3",
+      "uuid": "2be25667a86187ffe0b9a61dd3c8573d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle SQL",
+      "uuid": "41c49a5a27c0b3ddcd4c3709baa243ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Offshore Wind",
+      "uuid": "67c8f864a8a283810b32a7aa700e0a43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML5",
+      "uuid": "6bff62b10d884fb77428cfe168cd783d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SDLC",
+      "uuid": "6fb20c4016a1efc028fcb5c917a1a9b5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vb6",
+      "uuid": "a925d41e2eab1aca7a7493519b6f085d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vbnet",
+      "uuid": "b813e3d5aaac23ea0446da2618dc4751",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "jQuery",
+      "uuid": "f590b4fda2c30be28dd3c8c3caf5c77b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visual Studio",
+      "uuid": "f84a3e55d2a5134a7bcd191345471db1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Visualization",
+      "uuid": "f9537812feb3143e5189f1921693b550",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201109501W",
+    "description": "<p>\r\n\tHR QUEST SINGAPORE PTE. LTD.</p>\r\n",
+    "name": "HR QUEST SINGAPORE PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T06:33:52.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201109501W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201109501W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201109501W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201109501W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174617",
+    "deletedAt": null,
+    "createdBy": "1bdc5834-9fb1-4b75-afbd-e4becf5523e2",
+    "createdAt": "2026-01-28T06:56:19.000Z",
+    "updatedAt": "2026-01-28T06:56:19.000Z",
+    "emailRecipient": "1bdc5834-9fb1-4b75-afbd-e4becf5523e2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 32,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/system-engineer-hr-quest-singapore-d38a902171edf9328226585286ca1018",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d38a902171edf9328226585286ca1018"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d38a902171edf9328226585286ca1018/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

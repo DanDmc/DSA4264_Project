@@ -1,0 +1,198 @@
+{
+  "uuid": "464de984dfd48bdde9a1a70c043b995d",
+  "sourceCode": "Employer Portal",
+  "title": "Food Processing Worker - Karnataka / Bangalore Cuisine",
+  "description": "<h3>Job Description</h3><p>We are an Indian bar specialising in authentic Karnataka (Bangalore-style) bar bites and small plates. We are looking for a Restaurant Cook with hands-on experience in Bangalore food culture, traditional flavours, and popular Karnataka bar snacks.</p><p>The role focuses on accurate preparation of regional dishes, maintaining consistency during service, and supporting daily kitchen operations in a fast-paced bar environment.</p><h3>Key Responsibilities</h3><ul><li><p>Prepare and cook regional Karnataka dishes according to menu standards</p></li><li><p>Apply correct Karnataka spice blends and masalas to maintain authentic flavours</p></li><li><p>Cook Bangalore-style bar snacks efficiently during peak service hours</p></li><li><p>Assist with daily kitchen operations, including food preparation and service support</p></li><li><p>Ensure food quality, portion control, and consistency</p></li><li><p>Maintain kitchen cleanliness, hygiene, and food safety standards</p></li><li><p>Follow standard operating procedures and comply with health regulations</p></li><li><p>Work collaboratively with kitchen team members to ensure smooth workflow</p></li></ul><h3>Job Requirements</h3><ul><li><p>Minimum 2–3 years of relevant cooking experience, preferably in Karnataka / Bangalore cuisine</p></li><li><p>Hands-on experience preparing Bangalore-style food (not limited to general Indian cuisine)</p></li><li><p>Familiarity with Bangalore food culture, street food, and bar-style dishes</p></li><li><p>Ability to work efficiently in a fast-paced kitchen environment</p></li><li><p>Willingness to follow instructions and work under supervision</p></li><li><p>Team player with a positive attitude and strong work ethic</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Multitasker",
+      "uuid": "d10a78b743418553cd1d166c06d2aae0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Food Processing",
+      "uuid": "e9e73e85482ab04cdfc3767dfdaba36f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51201",
+  "occupationId": "OCC009267",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202535399Z",
+    "description": null,
+    "name": "KANAXS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:11:52.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202535399Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "80",
+    "street": "SYED ALWI ROAD",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "207659",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30891794593689,
+    "lng": 103.856140586344
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183035",
+    "deletedAt": null,
+    "createdBy": "1fa75f98-c917-48a0-a770-70dbe70cc087",
+    "createdAt": "2026-01-29T09:14:45.000Z",
+    "updatedAt": "2026-01-29T09:14:45.000Z",
+    "emailRecipient": "1fa75f98-c917-48a0-a770-70dbe70cc087",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/food-processing-worker-karnataka-bangalore-cuisine-kanaxs-464de984dfd48bdde9a1a70c043b995d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/464de984dfd48bdde9a1a70c043b995d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/464de984dfd48bdde9a1a70c043b995d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

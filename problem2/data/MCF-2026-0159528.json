@@ -1,0 +1,232 @@
+{
+  "uuid": "307c9015dacfc2957fee9e83adc958d6",
+  "sourceCode": "Employer Portal",
+  "title": "Customer Service Officer cum Receptionist",
+  "description": "<ul><li>Handle customer service hotline and provide first level of support</li><li>Handling telephone calls, screening and directing calls</li><li>Provide quality customer service to customers over phone or email</li><li>Co-ordinate with internal staff and ensure closure of all customer service calls/complaints.</li><li>Resolve customer queries efficiently and escalate problems/issues promptly</li><li>Other ad-hoc duties as assigned</li></ul><h3>Requirements</h3><ul><li>Minimum GCE ‘N’/‘O’ Level</li><li>1 to 2 year(s) relevant experience in customer service or retail</li><li>Strong analytical, good problem solving and decision making abilities.</li><li>Proficient in MS Office (Excel & Word)</li><li>Ability to work independently with minimum supervision</li><li>Customer-oriented with good interpersonal and communication skill</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Front Office",
+      "uuid": "0558c4724c1321605189662a0e3f66f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Labels",
+      "uuid": "3ad6cb6100190c8f81e99fd52debf7ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Public Relations",
+      "uuid": "97ac0992b3214632ef41a3075b0c6e9b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preparedness",
+      "uuid": "a0580dcf776f94da9708c12a48d832f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Decision Making",
+      "uuid": "d993039c571024700ce3fb88ea433c75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Screening",
+      "uuid": "db75517a9ff1f879c2006712776bac5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service Experience",
+      "uuid": "fa63d7f8c765d48aafb86bd9c5adc310",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC009127",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202212810R",
+    "description": null,
+    "name": "VENUS BEAUTY SERVICES PTE. LTD.",
+    "ssicCode": "47721",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T06:39:53.000Z",
+    "ssicCode2020": "47721",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202212810R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202212810R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202212810R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202212810R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4",
+    "street": "TOH TUCK LINK",
+    "floor": null,
+    "unit": null,
+    "building": "VENUS BEAUTY BUILDING",
+    "postalCode": "596226",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 21,
+        "location": "D21 Upper Bukit Timah, Clementi Park, Ulu Pandan",
+        "region": "West",
+        "sectors": [
+          "58",
+          "59"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.3317049341912,
+    "lng": 103.758099876182
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159528",
+    "deletedAt": null,
+    "createdBy": "3064b1d2-386a-4364-bcba-d5b72aeebd41",
+    "createdAt": "2026-01-26T08:37:06.000Z",
+    "updatedAt": "2026-01-26T08:37:06.000Z",
+    "emailRecipient": "3064b1d2-386a-4364-bcba-d5b72aeebd41",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/customer-service-officer-cum-receptionist-venus-beauty-services-307c9015dacfc2957fee9e83adc958d6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1800,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/307c9015dacfc2957fee9e83adc958d6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/307c9015dacfc2957fee9e83adc958d6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

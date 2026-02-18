@@ -1,0 +1,193 @@
+{
+  "uuid": "8420f82f44c2d637c619db443fc7c832",
+  "sourceCode": "Employer Portal",
+  "title": "Java Developer",
+  "description": "<p>· Must have minimum 2-5 years of Java development experience</p>\n<p>· Strong knowledge of Core Java, OOP concepts, collections, multithreading, and exception handling.</p>\n<p>· Hands-on experience with Bash scripting on Unix/Linux environments.</p>\n<p>· Experience with REST APIs and microservices (preferred).</p>\n<p>· Good understanding of Linux file systems, permissions, and process handling.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Web Services",
+      "uuid": "2c10282d2a9ce8be1576d7af8091d09e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RESTful API",
+      "uuid": "2cc2373b8b488296ef4e9fc46c81d6a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bash",
+      "uuid": "7024ff0860dec6ab1519a3f71c7d8779",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microservices",
+      "uuid": "7d488fa9de381b31c51f4e86f62c15ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "OOP",
+      "uuid": "ce4195da808656beae0c97fed9194192",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201531386D",
+    "description": "<p>   TRINITY CONSULTING SERVICES is a Professional Consulting, IT Solutions and Services Company. We strive to make your business systems more efficient and more reliable by working with you to implement and support the best in class service and innovative solutions.</p>  <p>   Our main focus is to create Client-Centric, Innovative IT Strategies and Comprehensive Solutions for the clients we support, and to implement that strategy in a timely and cost effective manner.</p>  <p>   Our Team comprises of skilled and experienced professionals from consulting and business environment with a diverse culture which heps our clients achieve higher return of investments.</p>  <p>    </p>  <p>   <strong>OUR SERVICES</strong></p>  <ul>   <li>    <strong>Technology Consulting Services</strong></li>   <li>    <strong>Managed Application Services</strong></li>   <li>    <strong>Managed Infrastructure Services</strong></li>  </ul>  <div>    </div>  ",
+    "name": "TRINITY CONSULTING SERVICES PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "www.trinityconsulting.asia",
+    "lastSyncDate": "2026-02-04T00:54:57.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201531386D/schemes"
+      }
+    },
+    "logoFileName": "9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9d6b0e8653ae12ad08adac09386b841a/trinity-consulting-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1819084",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "e9cde954-78be-48c2-a597-bc165816f662",
+    "createdAt": "2025-11-27T01:27:18.000Z",
+    "updatedAt": "2026-01-29T01:23:18.000Z",
+    "emailRecipient": "e9cde954-78be-48c2-a597-bc165816f662",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 625,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-11-27",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/java-developer-trinity-consulting-services-8420f82f44c2d637c619db443fc7c832",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8420f82f44c2d637c619db443fc7c832"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8420f82f44c2d637c619db443fc7c832/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

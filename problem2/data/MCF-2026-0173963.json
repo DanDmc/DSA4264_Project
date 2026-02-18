@@ -1,0 +1,232 @@
+{
+  "uuid": "e2b6b90f63ab6494acaa0dc6290631fb",
+  "sourceCode": "Employer Portal",
+  "title": "Application Engineer",
+  "description": "<h2><strong>APPLICATION ENGINEER</strong></h2>\n<p><strong>About the Position</strong></p>\n<p>We are seeking a passionate and result-oriented Application Engineer to join our team. The role involves the design, development, and maintenance of efficient code, with hands-on experience in PLC programming. The position also includes executing technical support activities, conducting preventive maintenance, troubleshooting, and ensuring project success while delivering high levels of customer satisfaction</p>\n<p>Responsibilities include conducting Factory Acceptance Tests (FAT), Site Acceptance Tests (SAT), performing preventive maintenance on server equipment, and providing troubleshooting and production support at customer sites. The role also involves coordinating with internal teams, contractors, and clients to address technical issues and ensure timely project delivery.</p>\n<p>This position requires strong technical expertise, strategic thinking, and the ability to deliver high-quality results under tight deadlines</p>\n<p><br></p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n  <li>Constantly review and improve on existing codes</li>\n  <li>Design, build and maintain efficient codes</li>\n  <li>Communicate with all internal levels including customers and our contractors to clarify technical issues</li>\n  <li>Co-ordinate with other disciplines and execute the project efficiently to meet schedule</li>\n  <li>Perform Factory Acceptance Test (FAT) in accordance to the requirements set out in the Vendor Tender document</li>\n  <li>Perform preventive maintenance of Server Equipment</li>\n  <li>Perform troubleshooting and production support at customers’ site</li>\n</ul>\n<p><strong>Qualifications</strong></p>\n<ul>\n  <li>Minimally Diploma in Electrical/Electronic/Computer Science or other relevant fields</li>\n  <li>Minimum 1 year of hands-on working experience in PLC programming</li>\n</ul>\n<p><strong>Technical Skills</strong></p>\n<ul>\n  <li>Experience in C# and MSSQL report programming</li>\n  <li>Experience in network, firewall hardening and configuring</li>\n  <li>Experience in CCTV, Card Access system implementation</li>\n  <li>Has knowledge in Windows and Unix environment and MSSQL database</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "System Implementation",
+      "uuid": "139474c545a1fc8f2a120e839165a0ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC",
+      "uuid": "7a7b6b49e8183cc144d9d1a8dc9df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCTV",
+      "uuid": "8f0658e54b370ee4017a51f96267bd2f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC Programming",
+      "uuid": "e130c9f05104588fb5a31a16a62fa288",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Delivery",
+      "uuid": "e4a9ed5b8ac0f6f0ac00bcb37d4567f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "198602842C",
+    "description": "<p>Willowglen Services Pte Ltd (“WSPL”) was established in Singapore, in the year of 1986 with a paid-out capital SGD $2,000,002. The company was established with the primary purpose to provide SCADA products &amp; integrated SCADA, Security &amp; IT solutions for our local &amp; regional customers. WSPL is a leading SCADA company that has more than 30 years of experience to design, customize, and implement inclusive maintenance, to turnkey integrated SCADA, Security &amp; IT solutions for various industries such as for the water &amp; power utilities sectors, oil/gas production &amp; distribution, building &amp; facilities, security, transport, telecommunication and IT sector.&nbsp;WSPL is a subsidiary of the Willowglen Group of companies and with its corporate headquarter &amp; R&amp;D center - Willowglen MSC Berhad, a public-listed company located in Kuala Lumpur, Malaysia.&nbsp;With more than 30 years of experience. Willowglen’s capability goes beyond Scada and its related solutions. We are an ISO 9001 and OHSAS 18001:2007 certified company that is continuously evolving and innovating. With the implementation of international standards and quality, Our team recognizes the importance of accommodating rapidly changing business requirements, and also the increased demand in productivity.&nbsp;Willowglen Strength and Services&nbsp;&nbsp;&nbsp;R&amp;D&nbsp;&nbsp;&nbsp;Maintenance Support&nbsp;&nbsp;&nbsp;Engineering&nbsp;&nbsp;&nbsp;Project Management</p>",
+    "name": "WILLOWGLEN SERVICES PTE LTD",
+    "ssicCode": "62023",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T05:42:14.000Z",
+    "ssicCode2020": "62023",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198602842C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198602842C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198602842C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198602842C/schemes"
+      }
+    },
+    "logoFileName": "e00be16132f43b9cca1f9afee2031ef9/willowglen-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e00be16132f43b9cca1f9afee2031ef9/willowglen-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "103",
+    "street": "DEFU LANE 10",
+    "floor": null,
+    "unit": null,
+    "building": "FNA GROUP BUILDING",
+    "postalCode": "539223",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35370729420529,
+    "lng": 103.891899504465
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173963",
+    "deletedAt": null,
+    "createdBy": "cdbdb104-31eb-402e-90ac-fc482e0b59f1",
+    "createdAt": "2026-01-28T05:43:07.000Z",
+    "updatedAt": "2026-01-28T05:43:07.000Z",
+    "emailRecipient": "cdbdb104-31eb-402e-90ac-fc482e0b59f1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/application-engineer-willowglen-services-e2b6b90f63ab6494acaa0dc6290631fb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e2b6b90f63ab6494acaa0dc6290631fb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e2b6b90f63ab6494acaa0dc6290631fb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

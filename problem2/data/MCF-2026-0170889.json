@@ -1,0 +1,227 @@
+{
+  "uuid": "3734bbf6eb87cd8f85b890e98eb1f4ae",
+  "sourceCode": "Employer Portal",
+  "title": "corporate administrator",
+  "description": "<p><strong>Key Responsibilities:</strong></p><ul><li>Manage office calendars and schedules, including coordinating\n     meetings and travel arrangements.</li><li>Maintain office supplies, equipment, and facilities to support\n     efficient operations.</li><li>Handle incoming calls, emails, and correspondence professionally.</li><li>Organize and maintain filing systems and documentation.</li><li>Provide administrative support to management and staff as required.</li><li>Assist with budget tracking, basic bookkeeping, and report\n     preparation.</li><li>Manage vendor and service provider relationships.</li><li>Support clients with quotations, order management, and related\n     documentation.</li><li>Assist in financial matters as directed by management.</li><li>Perform ad hoc duties and assignments as required.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audiovisual",
+      "uuid": "2dcc377d69294d3d4491a8c505139dae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Written Communication",
+      "uuid": "7f2949efe8a7cc63a1144796a4ce403a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publicity",
+      "uuid": "ae5ed6857da71b7e712691cd3d5d99e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bookkeeping",
+      "uuid": "b4ce435600f0451db46463e960fc5e3b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Spreadsheets",
+      "uuid": "b8f91a58bd97d3f35c54f6e3bb009ee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "11150",
+  "occupationId": "OCC000029",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 20,
+      "category": "Human Resources"
+    },
+    {
+      "id": 31,
+      "category": "Purchasing / Merchandising"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "202437409H",
+    "description": null,
+    "name": "HYSENT INTERNATIONAL PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T08:53:55.000Z",
+    "ssicCode2020": "46551",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202437409H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202437409H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202437409H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202437409H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170889",
+    "deletedAt": null,
+    "createdBy": "75f1c0fe-5c33-4827-b52d-28f9ce51696e",
+    "createdAt": "2026-01-28T01:05:54.000Z",
+    "updatedAt": "2026-01-28T01:05:54.000Z",
+    "emailRecipient": "75f1c0fe-5c33-4827-b52d-28f9ce51696e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 147,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 21,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/corporate-administrator-hysent-international-3734bbf6eb87cd8f85b890e98eb1f4ae",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3734bbf6eb87cd8f85b890e98eb1f4ae"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3734bbf6eb87cd8f85b890e98eb1f4ae/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

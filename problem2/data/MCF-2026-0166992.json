@@ -1,0 +1,198 @@
+{
+  "uuid": "0958f4e06876e2b50efaa3bbf5fd4813",
+  "sourceCode": "Employer Portal",
+  "title": "BIM Technician",
+  "description": "<p><strong>Responsibilities</strong></p><ul><li>Develop and create detailed Revit models to support architectural design and project requirements</li><li>Update BIM models to ensure compliance with applicable codes and regulations, maintaining accuracy and quality</li><li>Assist in coordinating BIM-related tasks and detailing to facilitate seamless project execution</li><li>Support the continuous improvement of office BIM standards and procedures</li><li>Collaborate effectively within project teams and teamwork to meet project goals</li></ul><p><strong>Requirements</strong></p><ul><li>Minimum 2 years of experience in BIM modelling</li><li>Proficient in Autodesk Revit, Archicad, and Autocad software</li><li>Knowledgeable in relevant codes and regulations</li><li>Ability to work independently and as a team player</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Revit",
+      "uuid": "0d90aa300c15ef13e21761af3b9881bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Autodesk Revit",
+      "uuid": "1172a935db5e4f347eb39c1553901f5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BIM",
+      "uuid": "418d8681b964b0a772325e03a076bb26",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "work independently",
+      "uuid": "705d569f9582c71f7bc2bd1a0257acd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural Design",
+      "uuid": "785c5656fe371b831dd0da75c09b3931",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ArchiCAD",
+      "uuid": "bf74a6a04d32d90b61e11400552d7824",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "hardworking",
+      "uuid": "e5bafd3db41afda1b9bf9aa7871e2aa6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "codes and regulations",
+      "uuid": "fac68778018987d4e4051a1eb2828c9a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31183",
+  "occupationId": "OCC059789",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 4,
+      "category": "Architecture / Interior Design"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1011",
+  "postedCompany": {
+    "uen": "199201400E",
+    "description": "<p>\r\n\tARCHITECTS 61 PRIVATE LIMITED</p>\r\n",
+    "name": "ARCHITECTS 61 PRIVATE LIMITED",
+    "ssicCode": "71111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T01:14:28.000Z",
+    "ssicCode2020": "71111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201400E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201400E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201400E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201400E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "150",
+    "street": "BEACH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "GATEWAY WEST",
+    "postalCode": "189720",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29835114702682,
+    "lng": 103.858853820405
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166992",
+    "deletedAt": null,
+    "createdBy": "5f529004-88ef-453a-ade8-b1749f795f37",
+    "createdAt": "2026-01-27T07:39:01.000Z",
+    "updatedAt": "2026-01-27T07:39:02.000Z",
+    "emailRecipient": "5f529004-88ef-453a-ade8-b1749f795f37",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 59,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/architecture/bim-technician-architects-61-0958f4e06876e2b50efaa3bbf5fd4813",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0958f4e06876e2b50efaa3bbf5fd4813"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0958f4e06876e2b50efaa3bbf5fd4813/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

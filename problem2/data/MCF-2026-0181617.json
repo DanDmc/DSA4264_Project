@@ -1,0 +1,199 @@
+{
+  "uuid": "8b4eef95b9d3a9ebb07646a7f9af1d0c",
+  "sourceCode": "Employer Portal",
+  "title": "Principal Consultant",
+  "description": "<p>• Hands on experience in end-to-end business analysis and solution design for wealth, treasury, FX, and equity derivatives platforms across global banks.</p><p>• Perform deep gap analysis between client requirements and product capabilities, translating outcomes into BRDs, FSDs, user stories, data mappings, and acceptance criteria.</p><p>• Own UAT governance including strategy, scenario design, defect triage, regression validation, and business sign-off in Agile/Waterfall programs.</p><p>• Act as functional SME for front-, middle-, and back-office workflows covering complex structured products (ELN, FCN, DCI, TARF, AQ/DQ, Phoenix).</p><p>• Embed regulatory, risk, and ISO/IEC 27001:2022 controls into functional processes, audit artifacts, and security governance frameworks.</p><p>• Partner with product, engineering, cloud (Azure), and client stakeholders across APAC/EMEA to support implementations, production stability, and pre-sales engagements.</p><p>• Must be an ISO/IEC 27001:2022 Certified Lead Implementer Professional (CLIP)</p>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Treasury",
+      "uuid": "20e968a2ef4cbdc5bea5e34d0b1e7333",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Governance",
+      "uuid": "23e5bec6fa7d15cf2d86f37431dff78c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Stories",
+      "uuid": "51aa0c6910aab34db07b8af04e8609b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Translating",
+      "uuid": "5a46a951446636631a92cf8a7b8a21ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presales",
+      "uuid": "5d7bef99362b26cdc709f6ab436eedb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wealth",
+      "uuid": "64af059324395845d1b24964e19aa55b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Engineering",
+      "uuid": "77d3c2a59d9947a495204bc9156b6726",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Equity Derivatives",
+      "uuid": "b224ee50fbf7e009d1c794319a921e78",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "199700895N",
+    "description": "<p>OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD is Singapore-headquartered IT Outsourcing firm specialising in Software Engineering, Application Development &amp; Support, IT Infrastructure Management. Having started in March 1997, we have grown to one of the largest IT Services firms in Singapore providing Digital Transformation Services to its clients.</p>",
+    "name": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
+    "ssicCode": "62022",
+    "employeeCount": 1000,
+    "companyUrl": "www.theoptimum.net",
+    "lastSyncDate": "2026-02-04T01:35:56.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199700895N/schemes"
+      }
+    },
+    "logoFileName": "b33d4724c0bb64afdc4cc97f052af8c6/optimum-solutions.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b33d4724c0bb64afdc4cc97f052af8c6/optimum-solutions.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181617",
+    "deletedAt": null,
+    "createdBy": "56e31007-28a4-423d-8b63-3d55644679d4",
+    "createdAt": "2026-01-29T07:04:13.000Z",
+    "updatedAt": "2026-01-29T07:04:13.000Z",
+    "emailRecipient": "56e31007-28a4-423d-8b63-3d55644679d4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 51,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/principal-consultant-optimum-solutions-8b4eef95b9d3a9ebb07646a7f9af1d0c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12500,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8b4eef95b9d3a9ebb07646a7f9af1d0c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8b4eef95b9d3a9ebb07646a7f9af1d0c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

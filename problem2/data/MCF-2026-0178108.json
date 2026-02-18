@@ -1,0 +1,227 @@
+{
+  "uuid": "85c2cc78cb4d66056a97673d05d7c4a0",
+  "sourceCode": "Employer Portal",
+  "title": "Application Support Engineer",
+  "description": "<p><strong>Job Description</strong></p><p>·      The Application Support Engineer – Monitoring is responsible for ensuring the stability, availability, and performance of enterprise applications and infrastructure through proactive monitoring and rapid incident response. </p><p>·      This role operates as the first line of defense against system disruptions, identifying issues early, initiating escalations, and supporting service continuity in a 24/7 operational environment.</p><p>·       The engineer collaborates closely with internal technical teams and external stakeholders to maintain SLA compliance and minimize business impact.</p><p><strong>Key Responsibilities </strong></p><p>·      System Monitoring & Incident Response Continuously monitor enterprise applications, infrastructure components, and scheduled batch jobs using monitoring tools such as eGmon, Dynatrace, SAP HANA Cockpit, and batch job monitoring tools. </p><p>·      Detect, analyze, and respond to system alerts, performance degradation, and batch failures in a timely manner.</p><p>·       Perform initial triage, validate incidents, and determine severity based on business impact.</p><p>·       Initiate and manage incident tickets in ITSM tools (e.g., ServiceNow) following defined operational procedures.</p><p>·       Coordination & Communication Escalate high-impact or critical incidents to relevant stakeholders, including project teams and leadership, as per escalation matrices. </p><p>·      Provide clear, concise, and timely communication during incidents, including status updates and handovers across shifts.</p><p>·       Coordinate with application, infrastructure, database, and batch scheduling teams to support incident resolution.</p><p>·       Operational Support Support daily operational activities, including health checks, monitoring dashboards, and alert reviews.</p><p>·       Ensure adherence to SLAs, operational runbooks, and incident management processes.</p><p>·       Participate in shift-based operations, including nights, weekends, and holidays, as required in a 24/7 support model. </p><p><strong>Required Skills & Competencies </strong></p><p>·      Ability to work independently and remain calm under pressure during critical incidents. </p><p>·      Strong analytical, problem-solving, and troubleshooting skills. </p><p>·      Effective verbal and written communication skills for technical and non-technical stakeholders.</p><p>·       Willingness and readiness to learn and use ITSM tools (e.g., ServiceNow) and monitoring platforms such as Dynatrace, eGmon, and batch job monitoring tools. </p><p>·      Preferred Qualifications Experience in application or infrastructure monitoring within an enterprise or managed services environment.</p><p>·       Familiarity with batch processing, job scheduling, and production support operations. Exposure to SAP landscapes (e.g., SAP HANA) and enterprise monitoring tools is an advantage.</p><p>·       Understanding of ITIL-based incident and escalation processes.</p><ul><li>Work Environment 24/7 shift-based operational support environment High-availability, mission-critical enterprise systems Fast-paced setting requiring proactive monitoring and rapid response.</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Managed Services",
+      "uuid": "1eb01c0da669b165a05294c5450c7130",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Defense",
+      "uuid": "4b088aaa68446b6ec08cdc385d03516d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP HANA",
+      "uuid": "86083f3ea21c2385b4f013aae3c57858",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dynatrace",
+      "uuid": "bca31ebdc6806aa2669e343aa3cf1c4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ServiceNow",
+      "uuid": "d1cd6e549ab60b728497f73aeeccc9ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Incident Management",
+      "uuid": "f3723f30315ea30f2f4b9101556772e2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002102",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201705267M",
+    "description": "<p>ELLIOTT MOSS CONSULTING PTE. LTD.</p>\r\n\r\n<p>We at Elliott Moss Consultng inspire individuals and organisations to work more effectively and efficiently, and create greater choice in the work domain, for the benefit of all concerned. Our primary mission is to provide our clients with the best suitable employees who bring success to your organiza,on and allows us to grow together.</p>\r\n",
+    "name": "ELLIOTT MOSS CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:43:04.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201705267M/schemes"
+      }
+    },
+    "logoFileName": "786e07536678a6deae78dcfce453ad6b/elliott-moss-consulting.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/786e07536678a6deae78dcfce453ad6b/elliott-moss-consulting.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "77",
+    "street": "HIGH STREET",
+    "floor": null,
+    "unit": null,
+    "building": "HIGH STREET PLAZA",
+    "postalCode": "179433",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 6,
+        "location": "D06 Beach Road, High Street",
+        "region": "East",
+        "sectors": [
+          "17"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.29045407468311,
+    "lng": 103.849358869172
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178108",
+    "deletedAt": null,
+    "createdBy": "512e3cf5-2300-49bc-9183-a07f3ca80bd8",
+    "createdAt": "2026-01-28T17:30:21.000Z",
+    "updatedAt": "2026-01-28T17:30:21.000Z",
+    "emailRecipient": "512e3cf5-2300-49bc-9183-a07f3ca80bd8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 60,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/application-support-engineer-elliott-moss-consulting-85c2cc78cb4d66056a97673d05d7c4a0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4200,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/85c2cc78cb4d66056a97673d05d7c4a0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/85c2cc78cb4d66056a97673d05d7c4a0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

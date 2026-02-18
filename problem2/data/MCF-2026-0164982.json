@@ -1,0 +1,257 @@
+{
+  "uuid": "791f95153febf68fa3437aa0daa6facf",
+  "sourceCode": "Employer Portal",
+  "title": "Driver",
+  "description": "<p><strong>Job Overview</strong><br />We are looking for a professional and reliable driver to transport customers safely and efficiently to and from their locations and our shop. This role requires excellent driving skills, adherence to traffic laws and commitment to maintaining confidentiality.<br /><em><strong>Work Schedule</strong></em><br />5-day work week (Weekends off)<br />9.30am - 6.30pm<br />Need to work overtime when required<br /><em><strong>Key Responsibilities</strong></em><br />- Pick up customers from their homes and transport them safely to the shop<br />- Carry customers’ golf bags and assist with loading/unloading<br />- Send customers back home after their golf session<br />- Valet customers’ vehicles when they drive to the shop<br />- Drive customers to designated locations safely and on time<br />- Maintain the company vehicle in good working condition, including regular cleaning, servicing, and ensuring proper ventilation<br />- Monitor vehicle maintenance schedules and coordinate servicing or repairs when required<br />- Adhere strictly to all traffic rules and safety regulations<br />- Assist customers/employer with minor private tasks or errands when requested<br />- Ensure customers’ privacy and confidentiality at all times<br />- Drive the company vehicle from the employer’s residence in the morning and return it after work<br /><em><strong>Requirements</strong></em><br />- Valid Class 3 driving license with a clean driving record<br />- Minimum 5 years of professional driving experience<br />- Strong knowledge of local traffic laws and ability to navigate using GPS<br />- Punctual, reliable and organized<br />- Good communication skills and polite demeanor<br />- Ability to handle confidential information with discretion</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 License",
+      "uuid": "050dd67a228da14c9491d52d038e42ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Golf",
+      "uuid": "690c3b1042564741e15a5ce503979172",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPS",
+      "uuid": "8c578de37278ada488d763ea86c5cf20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83222",
+  "occupationId": "OCC013078",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200403550W",
+    "description": null,
+    "name": "GENESIS FORBES HUMAN CAPITAL MANAGEMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T09:27:57.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200403550W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202538535W",
+    "description": null,
+    "name": "MAXGOLF PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:15:50.000Z",
+    "ssicCode2020": "47630",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202538535W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4A",
+    "street": "HAJI LANE",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "189197",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30041489877226,
+    "lng": 103.85945714456
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164982",
+    "deletedAt": null,
+    "createdBy": "31639fb9-2c2f-48a6-a442-fff49cb6acb9",
+    "createdAt": "2026-01-27T03:43:57.000Z",
+    "updatedAt": "2026-01-27T03:43:57.000Z",
+    "emailRecipient": "31639fb9-2c2f-48a6-a442-fff49cb6acb9",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 93,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/driver-maxgolf-791f95153febf68fa3437aa0daa6facf",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/791f95153febf68fa3437aa0daa6facf"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/791f95153febf68fa3437aa0daa6facf/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

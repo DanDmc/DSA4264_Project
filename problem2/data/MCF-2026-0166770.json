@@ -1,0 +1,223 @@
+{
+  "uuid": "1efe0ee2a323071c1468f5c220157871",
+  "sourceCode": "Employer Portal",
+  "title": "Data Engineer",
+  "description": "<h3><strong>Job Description</strong></h3><p>We are seeking an experienced <strong>Data Engineer</strong> to design, build, and maintain large-scale data platforms supporting enterprise analytics and data-driven applications. The ideal candidate will have strong hands-on experience with Hadoop, Spark, containerized environments, and modern DevOps practices.</p><h3><strong>Key Responsibilities</strong></h3><p><ul><li>Design, develop, and maintain scalable data infrastructure and pipelines</li><li>Work with large-scale data processing technologies including Hadoop and Spark</li><li>Build and optimize data workflows for performance, reliability, and scalability</li><li>Deploy and manage containerized data applications using Kubernetes and OpenShift</li><li>Collaborate with DevOps teams to implement CI/CD pipelines and automation</li><li>Monitor, troubleshoot, and optimize data platforms in production environments</li><li>Work closely with cross-functional teams to deliver high-quality data solutions</li><li>Ensure adherence to security, governance, and operational best practices</li></ul></p><h3><strong>Requirements</strong></h3><p><ul><li>Bachelor’s degree in <strong>Computer Science, Information Technology</strong>, or a related field</li><li>At least <strong>6 years of hands-on experience</strong> as a Data Engineer in large-scale environments</li><li>Strong expertise in <strong>Hadoop ecosystem tools</strong> such as HDFS, Hive, Pig, Spark</li><li>Proficiency in <strong>Python, Scala, Java, Spark, and SQL</strong></li><li>Experience with <strong>containerization platforms</strong> such as <strong>OpenShift Container Platform (OCP)</strong> and <strong>Kubernetes</strong></li><li>Knowledge of <strong>DevOps practices</strong>, CI/CD pipelines, and automation tools (Docker, Jenkins, Ansible, Bitbucket)</li><li>Experience with <strong>job schedulers</strong> such as <strong>Control-M</strong></li><li>Strong problem-solving and troubleshooting skills</li><li>Excellent communication and collaboration skills</li><li>Ability to manage multiple priorities and deliver in a fast-paced environment</li></ul></p><h3><strong>Nice to Have</strong></h3><p><ul><li>Experience with <strong>cloud platforms</strong> (AWS, Azure, or GCP) and their data services</li><li>Exposure to <strong>Grafana, Prometheus, and Splunk</strong></li><li><strong>Quantexa experience and/or certification</strong> is a strong advantage</li><li>Experience with <strong>Elasticsearch</strong></li><li>Familiarity with hybrid or enterprise-scale data platforms</li></ul></p><h3><strong>Key Technical Skills</strong></h3><p><strong>Scala, Python, Spark, Java, SQL, Shell Scripting, Hadoop / Cloudera, Elasticsearch, Red Hat OpenShift (OCP)</strong></p>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Governance",
+      "uuid": "23e5bec6fa7d15cf2d86f37431dff78c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scala",
+      "uuid": "3012dcff1477e1feaab81764587c9bbd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hadoop",
+      "uuid": "53eb3dcfbb4c210bcd4fe1a985d7c946",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Tools",
+      "uuid": "6610f9d34d0252187120a02b66c88b5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202435768E",
+    "description": "<p>Singha Tech Solutions, a leading technology consulting firm, was founded in 2024 in Singapore following the strategic acquisition of GoGlobal Systems Singapore, which established our headquarters in this vibrant global technology hub. From the outset, our mission has been to empower organisations worldwide through innovative, intelligent technology solutions that drive transformation and sustainable growth.</p>",
+    "name": "SINGHA TECH SOLUTIONS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://singha.tech/",
+    "lastSyncDate": "2026-01-28T04:00:38.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435768E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435768E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435768E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202435768E/schemes"
+      }
+    },
+    "logoFileName": "f98d35905fdb23ab49d7f838b11d6e97/singha-tech-solutions.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f98d35905fdb23ab49d7f838b11d6e97/singha-tech-solutions.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166770",
+    "deletedAt": null,
+    "createdBy": "4dee318f-cd79-40e4-9a43-cb14d9e2987a",
+    "createdAt": "2026-01-27T07:13:46.000Z",
+    "updatedAt": "2026-01-27T07:13:46.000Z",
+    "emailRecipient": "4dee318f-cd79-40e4-9a43-cb14d9e2987a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 182,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-singha-tech-solutions-1efe0ee2a323071c1468f5c220157871",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1efe0ee2a323071c1468f5c220157871"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1efe0ee2a323071c1468f5c220157871/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,204 @@
+{
+  "uuid": "43276cac7c0a7312cab67df1226e878a",
+  "sourceCode": "Employer Portal",
+  "title": "Vision Development Engineer",
+  "description": "<p><strong>Responsibilities:</strong><br /></p><p>You are required to develop and maintain new and existing vision applications. Key functions include requirement analysis, sample evaluation, hardware testing, image analysis, software design, coding, testing, integration, documentation and customer training.<br /></p><p><strong>Requirements:</strong></p><ul><li>Degree / Diploma in EEE/Software Engineering/Computer Science.</li><li>3 years working experience in vision application development with hardware selection and software implementation</li><li>Experience in develop and implement a vision inspection system with AI deep learning capabilities with software engine/tools like *VPDL, *VisionTrain etc.. will be added advantage</li><li>Experience in software programming using C# with Microsoft Visual Studio.</li><li>Experience in PC based software design and implementation in auto machine/equipment development will be an added advantage.</li><li>Experience in Microsoft C# will be an added advantage.</li><li>Willing to learn and adapt to new technology quickly.</li><li>Ability to work independently.</li><li>Good communication and interpersonal skills.</li><li>Able to travel overseas.</li></ul><p><br />\n\n</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Design",
+      "uuid": "c1b8eee14e05c47f56588fb5e842f6e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Development",
+      "uuid": "d945fc5ccb36f767917bb17b9364caac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Image Analysis",
+      "uuid": "eaf48f12d2f6d964781bc23663490cdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "199505089D",
+    "description": "<p>\r\n\tMMI SYSTEMS PTE LTD, a subsidiary of MMI Holdings Ltd. We are a well-established contract manufacturer, actively involved in the design, manufacturing and integration of factory automation for the data storage and semiconductor industries. We seek dynamin and creative individuals to join our team.</p>\r\n",
+    "name": "MMI SYSTEMS PTE LTD",
+    "ssicCode": "26209",
+    "employeeCount": 100,
+    "companyUrl": "rachelyap@mmi.com.sg",
+    "lastSyncDate": "2026-01-30T10:03:38.000Z",
+    "ssicCode2020": "26209",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505089D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505089D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505089D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199505089D/schemes"
+      }
+    },
+    "logoFileName": "f8e4175b00c413c7ff3fe6aa10981684/mmi-systems.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f8e4175b00c413c7ff3fe6aa10981684/mmi-systems.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "KAKI BUKIT AVENUE 1",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "417942",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33314798999348,
+    "lng": 103.905557906025
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181132",
+    "deletedAt": null,
+    "createdBy": "f41fa8e4-c827-4480-b958-478c1fe41094",
+    "createdAt": "2026-01-29T05:59:40.000Z",
+    "updatedAt": "2026-01-29T05:59:40.000Z",
+    "emailRecipient": "f41fa8e4-c827-4480-b958-478c1fe41094",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 65,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/vision-development-engineer-mmi-systems-43276cac7c0a7312cab67df1226e878a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/43276cac7c0a7312cab67df1226e878a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/43276cac7c0a7312cab67df1226e878a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

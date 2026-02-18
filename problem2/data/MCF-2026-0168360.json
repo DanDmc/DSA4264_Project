@@ -1,0 +1,222 @@
+{
+  "uuid": "2e7eba7f7ffd6d37aea12a181c061a50",
+  "sourceCode": "Employer Portal",
+  "title": "Solution Architect – Integration Lead, Virtual Power Plants",
+  "description": "<p><strong>Project</strong>: EMA VPP Sandbox – TRUE VPP</p><p><u><strong>Key Responsibilities</strong></u></p><ul><li><strong>Lead Technical Integration</strong>: Act as the integration lead for the TRUE VPP project, overseeing the technical integration of distributed energy resources (DERs), residential and C&I energy storage systems, and market interfaces across a multi-vendor, multi-protocol ecosystem.</li><li><strong>Architect Integration Design Specification(IDS)</strong>: Own the development and evolution of the Integration Design Specification (IDS), ensuring standardization of APIs, data structures, message formats, and communication protocols across market participant, VPP platform, DERs and EMSs.</li><li><strong>API & Middleware Leadership</strong>: Define and implement robust APIs and middleware services to enable interoperability between the VPP, cloud platforms, EMS, residential IoT apps, and backend market systems.</li><li><strong>SCADA System Integration: </strong>Collaborate with partners to connect site-level SCADA systems and BESS controllers to the cloud-hosted VPP platform. Ensure data accuracy, command traceability, and control signal propagation through secure channels.</li><li><strong>Cybersecurity & Communication Design</strong>: Lead the implementation of secure communication protocols (e.g., secure FTP, fiber optic link) to support AGC signal receipt and dispatch actuation, with emphasis on resilience and real-time responsiveness.</li><li><strong>Coordinate Multi-Stakeholder Inputs</strong>: Work across a consortium of partners to align technical integrations, tool deployment timelines, and sandbox rollout phases.</li><li><strong>System Testing & Commissioning</strong>: Lead testing phases from lab to field validation, ensuring integration robustness under realistic dispatch, load, and market conditions. Support market-side simulation and signal validation with live DER sites.</li><li><strong>Data Pipeline Ownership</strong>: Oversee the full data lifecycle—asset telemetry, control, market settlement data exchange—ensuring compliance with market rules, SLAs, and sandbox KPIs.</li><li><strong>Adaptability & Scalability Design</strong>: Ensure all integrations are modular, reusable, and scalable for future VPP expansion beyond the sandbox, supporting a platform-agnostic, future-ready architecture.</li></ul><p><strong>Required Skills & Experience</strong></p><ul><li>8+ years in solution architecture or systems integration, preferably in the energy, utilities, or smart grid sectors.</li><li>Experience designing and implementing complex integration architectures using RESTful APIs, MQTT, Modbus, OPC-UA, SCADA protocols, and message brokers (e.g., Kafka).</li><li>Proven experience drafting Integration Design Specifications (IDS) for multi-party environments.</li><li>Familiarity with EMS, BESS systems, SCADA/PLC controllers, cloud-hosted microservices, and DERMS/VPP platforms.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EMS",
+      "uuid": "2a942848121349f87fa5e6d09b4c0232",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Structures",
+      "uuid": "49110ba9c7e157360ed1b72f643bc1a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rollout",
+      "uuid": "56ee398637559b61c89c9924f3f19733",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Integration",
+      "uuid": "626344660999389da9c6589588184206",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Systems Integration",
+      "uuid": "67068f2e67fac7a2ac39102eea3abfe1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Traceability",
+      "uuid": "759f4372df506ee3ab42a77b95d7980c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microservices",
+      "uuid": "7d488fa9de381b31c51f4e86f62c15ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SCADA",
+      "uuid": "8ebe43fc79c5288888cac7b7106b0045",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Solution Architecture",
+      "uuid": "9f6302143996033ebb94d536b860acc3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Telemetry",
+      "uuid": "aa96a21412def0d916f43b639424f8e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25113",
+  "occupationId": "OCC014589",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1132",
+  "postedCompany": {
+    "uen": "200308003M",
+    "description": "<p>Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 56 years. Its consulting-led, cognitive powered, portfolio of business, technology and engineering services and solutions is delivered through its unique Location Independent Agile™ delivery model, recognized as a benchmark of excellence in software development.<br>\n<br>\nA part of the Tata group, India's largest multinational business group, TCS has over 601,000 of the world’s best-trained consultants in 55 countries. The company generated consolidated revenues of US $29 billion in the fiscal year ended March 31, 2024.&nbsp;</p>\n<p><br></p>\n<p>TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.</p>\n<p><br></p>\n<p>At TCS, our values guide our decisions, shape our culture, and inspire us to achieve our shared vision. The TCS Values are integral to the TCS Way.</p>\n<p><br>\nLeading Change: Embrace innovation and adapt rapidly to changes in technology and business, leading our organization and our customers to outperform and achieve sustainable growth.<br>\n<br>\nIntegrity: Be authentic, honest and transparent in all our interactions - building trust and credibility through all our actions.<br>\n<br>\nRespect for Individual: Value the contribution of each and every team member - fostering a collaborative atmosphere, valuing diverse perspectives and ensuring that everyone feels welcome, as we strive and celebrate our success as a team. <br>\n<br>\nExcellence: Be passionate in striving for the highest standards in everything we do, taking accountability for and exceeding the expectations of all our stakeholders.<br>\n<br>\nLearning and Sharing: The world around us is changing rapidly and it is important to stay relevant. We will keep learning, seek new challenges, and take determined action to stay ahead and generously share our collective knowledge.</p>",
+    "name": "TATA CONSULTANCY SERVICES ASIA PACIFIC PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": 600000,
+    "companyUrl": "https://www.tcs.com",
+    "lastSyncDate": "2026-02-04T04:19:10.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308003M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308003M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308003M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200308003M/schemes"
+      }
+    },
+    "logoFileName": "32332b908677fc6bdbe6d8ac5bdd3e22/tata-consultancy-services-asia-pacific.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/32332b908677fc6bdbe6d8ac5bdd3e22/tata-consultancy-services-asia-pacific.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "079914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27481630169151,
+    "lng": 103.84517736828
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168360",
+    "deletedAt": null,
+    "createdBy": "66f7f4a8-1b57-43b1-bc26-af5f1f3dc669",
+    "createdAt": "2026-01-27T09:42:26.000Z",
+    "updatedAt": "2026-01-27T09:42:27.000Z",
+    "emailRecipient": "66f7f4a8-1b57-43b1-bc26-af5f1f3dc669",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 56,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/solution-architect-%E2%80%93-integration-lead-virtual-power-plants-tata-consultancy-services-asia-pacific-2e7eba7f7ffd6d37aea12a181c061a50",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8800,
+    "minimum": 5800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e7eba7f7ffd6d37aea12a181c061a50"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e7eba7f7ffd6d37aea12a181c061a50/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

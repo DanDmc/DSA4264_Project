@@ -1,0 +1,254 @@
+{
+  "uuid": "ab4402abcdee381dcaba87037e925300",
+  "sourceCode": "Employer Portal",
+  "title": "Spa therapist",
+  "description": "<ul>\n  <li><strong>Experience:</strong> Proven experience as a spa or beauty therapist is often required.</li>\n  <li><strong>Licensing:</strong> State-specific licensing for massage therapy and/or cosmetology/aesthetics is typically necessary.</li>\n  <li><strong>Technical skills:</strong> Proficiency in various massage techniques, skincare, and other spa treatments.</li>\n  <li><strong>Soft skills:</strong> Excellent communication, interpersonal, and customer service skills are crucial.</li>\n  <li><strong>Knowledge:</strong> A solid understanding of anatomy, physiology, and different spa products and their uses is essential.</li>\n  <li><strong>Certifications:</strong> CPR and First Aid certifications are often advantageous.</li>\n  <li><strong>Physical requirements:</strong> Ability to stand for extended periods and perform physical tasks.</li>\n</ul>",
+  "minimumYearsExperience": 12,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Licensing",
+      "uuid": "0b9c6eef4e3d3a222eb04e910d252339",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Secondary Education",
+      "uuid": "391d57d40e34d7c7c635abbb49aab7ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reflexology",
+      "uuid": "6951388b66b4900565a162dd53857a66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soft Skills",
+      "uuid": "777a598047f83d94505540ab7b46432b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Anatomy",
+      "uuid": "e080e3fd1549d57622cca7c7fa5b506a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "32551",
+  "occupationId": "OCC013639",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201817859D",
+    "description": null,
+    "name": "JY CONNECTION & TRADING(JYCT) PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T09:28:38.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201817859D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201817859D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201817859D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201817859D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202028348W",
+    "description": null,
+    "name": "SE 777 PTE. LTD.",
+    "ssicCode": "96022",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-17T06:59:47.000Z",
+    "ssicCode2020": "96022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028348W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028348W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028348W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028348W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "527",
+    "street": "BEDOK NORTH STREET 3",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "460527",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33391149180204,
+    "lng": 103.928158574193
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1644070",
+    "deletedAt": "2025-11-27T17:15:05.000Z",
+    "createdBy": "886ea67f-2269-42f5-bff0-fb290763e76e",
+    "createdAt": "2025-10-28T15:43:14.000Z",
+    "updatedAt": "2026-01-29T04:01:19.000Z",
+    "emailRecipient": "886ea67f-2269-42f5-bff0-fb290763e76e",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-10-28",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/personal-care/spa-therapist-se-777-ab4402abcdee381dcaba87037e925300",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6600,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ab4402abcdee381dcaba87037e925300"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ab4402abcdee381dcaba87037e925300/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

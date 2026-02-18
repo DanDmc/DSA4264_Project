@@ -1,0 +1,238 @@
+{
+  "uuid": "c930086227beb71e328fcb02310514ad",
+  "sourceCode": "Employer Portal",
+  "title": "Massage Therapist",
+  "description": "<p><strong>Key Responsibilities</strong></p><ul><li><strong>Client Consultation & Assessment:</strong> Discuss symptoms, medical history, and goals to create personalized treatment plans.</li><li><strong>Massage Techniques:</strong> Apply pressure to soft tissues (muscles, tendons, ligaments) using hands, fingers, or forearms to improve circulation and relieve tension.</li><li><strong>Specialized Care:</strong> Perform various modalities, including deep tissue, prenatal, sports, and hot stone massage.</li><li><strong>Health Education:</strong> Instruct clients on stretching, strengthening, and posture improvement techniques.</li><li><strong>Record Keeping & Hygiene:</strong> Maintain accurate, confidential client records and sanitize equipment/rooms.</li><li><strong>Collaboration:</strong> Work with chiropractors, physiotherapists, or physicians for patient rehabilitation. </li></ul><p><strong>Required Skills & Qualifications</strong></p><ul><li><strong>Certification/Licensure:</strong> Completion of a state-approved, accredited massage therapy program and proper licensing/registration.</li><li><strong>Physical Stamina:</strong> Ability to stand for long periods and perform strenuous, repetitive manual work.</li><li><strong>Interpersonal Skills:</strong> Strong communication and listening skills to understand client needs and build rapport.</li><li><strong>Knowledge of Anatomy:</strong> Strong understanding of human body mechanics, muscles, and tissues. </li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Listening Skills",
+      "uuid": "16931dc5e50bc2bb1aeba8de5bcc8bbf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stretching",
+      "uuid": "465f18712a580040d26e75e8c92c8646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reflexology",
+      "uuid": "6951388b66b4900565a162dd53857a66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shoulder",
+      "uuid": "83cb4c144b3d6ee1a847bee51a44b933",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Target Oriented",
+      "uuid": "c2a200a2c7065079e6d083fef01113a8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Anatomy",
+      "uuid": "e080e3fd1549d57622cca7c7fa5b506a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rehabilitation",
+      "uuid": "e765619294e2183b066875df4954d66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Circulation",
+      "uuid": "f45381a54504218e39aca33492d29306",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51491",
+  "occupationId": "OCC013638",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202603999D",
+    "description": null,
+    "name": "LAN XIANG WELLNESS GROUP PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T03:43:47.000Z",
+    "ssicCode2020": "70209",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202603999D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202603999D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202603999D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202603999D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "PARK ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "PEOPLE'S PARK COMPLEX",
+    "postalCode": "059108",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28413390964831,
+    "lng": 103.842519563895
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192613",
+    "deletedAt": null,
+    "createdBy": "eed14219-7d83-4490-8e71-14927ffcf3d1",
+    "createdAt": "2026-01-31T03:48:47.000Z",
+    "updatedAt": "2026-01-31T03:48:47.000Z",
+    "emailRecipient": "eed14219-7d83-4490-8e71-14927ffcf3d1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 31,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/massage-therapist-lan-xiang-wellness-group-c930086227beb71e328fcb02310514ad",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c930086227beb71e328fcb02310514ad"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c930086227beb71e328fcb02310514ad/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

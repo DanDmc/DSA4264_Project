@@ -1,0 +1,199 @@
+{
+  "uuid": "2544a93478f0339724e03c15833f6db3",
+  "sourceCode": "Employer Portal",
+  "title": "Admin / HR / PURCHASE",
+  "description": "<p>A) QUALIFICATION = MINIMUM DIPLOMA HOLDER</p>\n<p>B) EXPERINCES = MINIMUM 2 YEARS</p>\n<p>C) SCOPE OF WORKS</p>\n<p>1) HR = ADMINSTRATION / WORKER SALARY / DOCUMENT FILLING</p>\n<p>2) PURCHASE = COMPARISION QUOTATION / PREPARE PURCHASE ORDER</p>\n<p>C) ACCOUNT EXECUTIVE = TAX INVOICE / GST / STAFF SALARY / AUDIT DOCUMENT FOR AUDITOR / ANNUAL RETURN</p>\n<p><br></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Works",
+      "uuid": "1ea23477722a17b149bae14f210f6b55",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "scope",
+      "uuid": "31a1fd140be4bef2d11e121ec9a18a58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leadership",
+      "uuid": "9e83028802360a9102640b8a83c58418",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salary",
+      "uuid": "b083a446a3588547410dbd6c571c2a09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft C",
+      "uuid": "c68f0f3b1419737ea09e97d045bba5d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "11150",
+  "occupationId": "OCC000029",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "201134818D",
+    "description": null,
+    "name": "BHD CONSTRUCTION PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T04:58:15.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201134818D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201134818D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201134818D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201134818D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "165",
+    "street": "BUKIT MERAH CENTRAL",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "150165",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28305589307335,
+    "lng": 103.816692798132
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183512",
+    "deletedAt": null,
+    "createdBy": "9febdb27-4ae9-43e6-bad7-f5dafc0d14ac",
+    "createdAt": "2026-01-29T09:40:53.000Z",
+    "updatedAt": "2026-01-29T09:40:53.000Z",
+    "emailRecipient": "9febdb27-4ae9-43e6-bad7-f5dafc0d14ac",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 76,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/admin-hr-purchase-bhd-construction-2544a93478f0339724e03c15833f6db3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2544a93478f0339724e03c15833f6db3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2544a93478f0339724e03c15833f6db3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

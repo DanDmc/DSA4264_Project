@@ -1,0 +1,205 @@
+{
+  "uuid": "a7690ae1e53d576a0a554ae30ddb94fb",
+  "sourceCode": "Employer Portal",
+  "title": "Full Time Assistant Adventure Guide",
+  "description": "<p>LOCATION: RAINFOREST WILD ASIA (MANDAI)</p><p><br /></p><p>As an adventure guide, your main role is to ensure all patrons leave the site happy and have a \"tremendous\" time.</p><p>As such the quality of our services is just as important as the quality of our infrastructure.</p><p>We therefore expect guides to:</p><ul><li>Be happy and bring positive vibe into his/her working environment</li><li>Articulate with good interpersonal skills and pro-actively engage with customers in small talk</li><li>Confident in handling all customer profiles, even the most difficult</li><li>Fit and interested in outdoor activity to inspire customers' confidence</li></ul><p>The team of guides is also expected to follow the Forest Adventure Safety Management System (SMS) at all times which includes:</p><ul><li>Opening and closing safety checks of the course and its equipment</li><li>Maintain the course and ensure that is safe for operations</li><li>Conduct safety briefing</li><li>Standard Operating Procedure in managing customers on the course</li><li>Ensure patrons are comfortable while maneuvering through the obstacles</li><li>Will require to host and facilitate corporate group programmes</li></ul><p>Job Requirements</p><ul><li>Passionate about outdoors and work @ height</li><li>Able to work in a fast-paced environment</li><li>Basic First Aid is a plus</li><li>Great listener, communicator and team player</li><li>Physically Fit</li><li>No experience needed. Training will be provided</li><li>5 days' work week including weekends and PHs </li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Oriented",
+      "uuid": "1679904a73c2d3eb34300987e0439951",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Climbing, instructor",
+      "uuid": "756f90a0196815d6b6664b8a095a2bf2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Written Communication Skills",
+      "uuid": "cc4dd724e53f1442dbd28996762a3b0c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Articulate",
+      "uuid": "cfd2360937d8b0cb9d1b70faf469d50d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excellent Interpersonal Communication Skills",
+      "uuid": "e1ef5f87db92c555c5644ae4d5e3523a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Working at Height",
+      "uuid": "f0717582fad46916ddea97bca2ae883c",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC009125",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 12,
+      "category": "Entertainment"
+    },
+    {
+      "id": 40,
+      "category": "Travel / Tourism"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200514097K",
+    "description": null,
+    "name": "FOREST ADVENTURE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T05:55:20.000Z",
+    "ssicCode2020": "85409",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200514097K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200514097K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200514097K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200514097K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188188",
+    "deletedAt": null,
+    "createdBy": "c7772129-db2e-400b-afab-1b509d2b12b7",
+    "createdAt": "2026-01-30T05:59:23.000Z",
+    "updatedAt": "2026-01-30T05:59:23.000Z",
+    "emailRecipient": "c7772129-db2e-400b-afab-1b509d2b12b7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/full-time-assistant-adventure-guide-forest-adventure-a7690ae1e53d576a0a554ae30ddb94fb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2700,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a7690ae1e53d576a0a554ae30ddb94fb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a7690ae1e53d576a0a554ae30ddb94fb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

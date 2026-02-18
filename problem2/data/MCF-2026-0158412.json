@@ -1,0 +1,238 @@
+{
+  "uuid": "5d7679774db28711dae33d21202db029",
+  "sourceCode": "Employer Portal",
+  "title": "Hair Stylist",
+  "description": "<p>Customer Oriented</p><p>MUST HAVE AT LEAST 10 years HAIRDRESSING experience</p><p>able to do hair cut and hair services independently</p><p>have own customer base</p><p>Good knowledge of various hair services</p><p>Able to recommend services and products to customers</p><p>Able to keep salon clean and tidy</p><p>Able to work on weekends and holidays</p><p>Able to adhere to good service standards and hygiene</p><p>Good basic salary and incentive scheme for suitable candidate</p><p>Handle Stock Taking and Inventory</p><p>Day to Day running of salon</p><p>Able to work Long Retail Hours and Night Shift</p><p>Set Roster for staff</p><p>Ensure Staff welfare is met</p><p>Handle Customer queries</p><p>Handle Staff related matters</p>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Exceptional Customer Service",
+      "uuid": "5bffe35f53148d0dd4216d2b2e2393e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Cutting",
+      "uuid": "60f807b6543169da8a03e9cbfa47e768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Advising Clients",
+      "uuid": "a64d38a9caca31493f9aef86f4fce772",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Extensions",
+      "uuid": "bb5a435b7cce79a2c78523716c33d938",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tinting",
+      "uuid": "c137de3f1baf0cb3ed4446ff84eee642",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Focus",
+      "uuid": "c8519749262c7cf93603d66027b06843",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Management",
+      "uuid": "e607108917197d7b974d8ce3b7f5f708",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1311",
+  "postedCompany": {
+    "uen": "53516531E",
+    "description": null,
+    "name": "INSTYLE HAIRWAY",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:38:10.000Z",
+    "ssicCode2020": "96021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53516531E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53516531E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53516531E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53516531E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "462",
+    "street": "CRAWFORD LANE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "190462",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30458618029944,
+    "lng": 103.860840750826
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158412",
+    "deletedAt": null,
+    "createdBy": "f2388af6-dcf6-4910-825e-c7e84811fa70",
+    "createdAt": "2026-01-26T06:56:39.000Z",
+    "updatedAt": "2026-01-26T06:56:39.000Z",
+    "emailRecipient": "f2388af6-dcf6-4910-825e-c7e84811fa70",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/hair-stylist-instyle-hairway-5d7679774db28711dae33d21202db029",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5d7679774db28711dae33d21202db029"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5d7679774db28711dae33d21202db029/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,223 @@
+{
+  "uuid": "b41062839648c4ae357550cdb1a6e1db",
+  "sourceCode": "Employer Portal",
+  "title": "IT Security Officer (ITSO) - GCC",
+  "description": "<p><strong>Role: IT Security Officer (ITSO) - GCC</strong><br /><strong>Work Location - 80 Toh Guan Rd E Waterhub S(608575)</strong><br /><strong></strong><br /><strong>Responsibilities -</strong><br />*System Security and Compliance (CIS Benchmarks)<br />*planning and scheduling annual reviews of security hardening documents.<br />* performing compliance reviews, and ensuring remediation of findings.<br />* Technical Support and Governance: The role involves providing vulnerability monitoring and recommending and implementing mitigation actions<br />*Management and responding to security alerts\"<br /><br /><strong>Required Skills & Experience -</strong><br /><strong>\"Skillsets:</strong><br /><strong>* Cloud Security</strong><br /><strong>* Security alerts & Incident handling</strong><br /><strong>* Security Audit Handling</strong><br /><strong>* Security Vulnerabilities management & mitigations</strong><br /><strong>*Proven experience of at least 2 years in Cloud cybersecurity is required, including security assessment, vulnerability management within cloud and on prem environments, particularly GCC.</strong><br /><strong>*Familiarity with security platforms such as Azure Log Analytics, AWS CloudWatch, AWS Security Hub CSPM, and Microsoft Defender for Cloud are preferred.\"</strong><br /><br />Working Hours: Monday to Friday, 8.30am to 6pm.<br /><br /><strong>Key Responsibilities:</strong><br /><strong>System Security and Compliance: </strong>The team will conduct security reviews, system hardening checks and conducting risk assessment based on deviations to hardening requirements (e.g. CIS Benchmarks).The team will also create PUB hardening baselines using available benchmarks (e.g. CIS Benchmarks or those provided by the manufacturer).</p><p>Responsibilities include create, review and maintain Standard Operation Procedures (SOPs), planning and scheduling annual reviews of security hardening documents, performing compliance reviews, and ensuring remediation of findings.<br />Management and responding to security alerts: Monitoring phishing alerts and communicating with staff regarding malicious emails, supporting audit activities, vulnerability scans, and penetration tests. Communicating and following SOP to perform malware scans on endpoints with anti-virus alerts.<br />cloud security engineers that manage cloud security tools like Cloud Security Posture Management. The ITSO shall work with the cloud security engineers to communicate with System Managers to follow up on findings identified in CSPM and Government in-house CSPM tool (Cloudscape). The ITSO shall perform routine review of the findings flagged by the CSPM tools, monitoring of the suppression expiry to ensure its validity, following up directly with system Officers-in-Charge and infrastructure teams<br />with recommended actions to rectify in a timely manner. The team will maintain a tracking system to monitor the status of remediation efforts, documenting whether recommended actions have been completed, are in progress, or require escalation, ensuring accountability and timely resolution of security issues. The ITSO shall be able to make assessment if the security recommendations are required or false alarms (using GenAI tool provided to aid him in his assessment).<br /><strong>Technical Support and Governance:</strong> The role involves providing vulnerability monitoring and recommending and implementing mitigation actions to system Officers-in-Charge and infrastructure teams. The team will also provide security advice or proposals on security measures for new projects and functionalities and monitor governance compliance tools, such as Cloudscape. The team will also provide their risk-based assessments to prioritise rectification of alerts (e.g. Cloudscape). The Team is also expected to manage and update into the governance compliance tools with the relevant information to suppress the affected findings when approval is sought. The team will respond to auditors’ RFI on security monitoring.<br /><strong>Reporting and Training: </strong>Monthly reports to summarise the progress of tasks and to flag outstanding non-remediated issues/alerts across the key security domains will be compiled collaboratively by the team and presented to the Board's Cybersecurity team. The team will coordinate monthly IT security awareness training and briefings for users to enhance organisational security posture, with team members contributing their specialised expertise to deliver comprehensive training programmes.</p><p><br /><strong>Qualifications:</strong></p><p>All candidates must possess a bachelor's degree in computer science, Information Technology, Cybersecurity, or a related field along with minimally an internationally recognised security certifications such as CISSP, CISM, CRISC, or CISA.<br />Proven experience of at least 2 years in Cloud cybersecurity is required, including security assessment, vulnerability management within cloud and on prem environments, particularly GCC.<br />Familiarity with security platforms such as Azure Log Analytics, AWS CloudWatch, AWS Security Hub CSPM, and Microsoft Defender for Cloud are preferred.Strong analytical and problem-solving skills are necessary to resolve security related issues, along with excellent communication skills in both spoken and written English to effectively collaborate with team members, system Officers-in-Charge, infrastructure teams, and external vendors.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Assessment",
+      "uuid": "3177ea52ef79969392fa9605bc638090",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Management",
+      "uuid": "41e9c1de32e11815893b9077e9b2d58b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCTV",
+      "uuid": "8f0658e54b370ee4017a51f96267bd2f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Phishing",
+      "uuid": "936b58ef16bb5c6235f8ef7be420ad21",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Annual Reviews",
+      "uuid": "9ac21961ef2c27a89b9e82916c715860",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Awareness",
+      "uuid": "f19322a280363b4afc3c1a0755449192",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC013788",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201811049R",
+    "description": "<p>Headquartered in Singapore and offices in Malaysia and India, we partner with the multinational companies to provide comprehensive cutting edge technology and business process outsourcing solutions. We aims to be a premier international technology and BPO services and solutions company by providing the best value to clients, employees and associates in an honest, open and ethical environment.</p>\n\n<p>We provide services to many of the world’s leading companies. We are committed to creating positive long term outcomes for our clients.</p>\n\n<p>Our core value is our customer orientation and this value permeates across our entire organization. We strongly believe that strong focus towards customers and their needs is critical to our long-term growth and success. Our success has always been measured on our ability to satisfy our customers and exceed their expectations on an on-going basis.</p>\n",
+    "name": "RAPSYS TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.rapsystechnologies.com",
+    "lastSyncDate": "2026-02-04T03:14:58.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811049R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811049R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811049R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811049R/schemes"
+      }
+    },
+    "logoFileName": "6e75040574f0e00a8948d6cd7248f3f4/rapsys-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6e75040574f0e00a8948d6cd7248f3f4/rapsys-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167580",
+    "deletedAt": null,
+    "createdBy": "968f2f23-3f75-465e-a46e-88d6886a3366",
+    "createdAt": "2026-01-27T08:41:42.000Z",
+    "updatedAt": "2026-01-27T08:41:42.000Z",
+    "emailRecipient": "968f2f23-3f75-465e-a46e-88d6886a3366",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 51,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/security-officer-gcc-rapsys-technologies-b41062839648c4ae357550cdb1a6e1db",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b41062839648c4ae357550cdb1a6e1db"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b41062839648c4ae357550cdb1a6e1db/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

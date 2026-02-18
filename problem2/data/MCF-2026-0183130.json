@@ -1,0 +1,224 @@
+{
+  "uuid": "20c398257c365bd46f4c371ba3e6c9b5",
+  "sourceCode": "Employer Portal",
+  "title": "C# / .Net, SQL Developer",
+  "description": "<p><u><strong>Responsibilities</strong></u></p><ul><li>Translate application storyboards and use cases into functional applications</li><li>Design, build, and maintain efficient, reusable, and reliable C# code</li><li>Ensure the best possible performance, quality, and responsiveness of applications</li><li>Identify bottlenecks and bugs, and devise solutions to these problems</li><li>Help maintain code quality, organization, and automatization</li></ul><p><u><strong>Skills</strong></u></p><ul><li>Proficient in C# and .NET Core, with a good knowledge of its ecosystems</li><li>Knack for writing clean, readable C# code</li><li>Exposure to C# WebAPI</li><li>Experience in writing SQL script and Stored Procedures</li><li>Familiar with RDBMS such as Microsoft SQL Server, PostgreSQL</li><li>Familiar with HTML5, JavaScript and ReactJS</li><li>Understanding fundamental design principles behind a scalable application</li><li>Design data model and database schemas that represent and support business processes</li><li>Basic understanding of Common Language Runtime (CLR), its limitations, weaknesses, and workarounds</li><li>Implementing C# unit tests</li><li>Proficient understanding of code versioning tools e.g. Git</li><li>Good understanding of SDLC and Agile development methodologies</li><li>Familiarity with ITSM / ITIL processes and experience in IT Service Management tools is a plus</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "IT Service Management",
+      "uuid": "1856585762a862d699c7538b61d6fa8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET",
+      "uuid": "303cb0ef9edb9082d61bbbe5825d972a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Driven Development",
+      "uuid": "538e0297e61ba282fe30ba183cccabb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix shell",
+      "uuid": "6a128ec4ad414f45f3d46d696eb98b1c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML5",
+      "uuid": "6bff62b10d884fb77428cfe168cd783d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SDLC",
+      "uuid": "6fb20c4016a1efc028fcb5c917a1a9b5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "uuid": "78898e52fcbdc5337204a384f2456d4f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC014584",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201623696W",
+    "description": "<p>YM GLOBAL TECHNOLOGIES PTE. LTD.&nbsp;</p>\n<p><br></p>\n<p>YM Global is a Singapore based IT technology services and outsourcing company.</p>",
+    "name": "YM GLOBAL TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "www.ymgit.com",
+    "lastSyncDate": "2026-02-04T03:06:34.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201623696W/schemes"
+      }
+    },
+    "logoFileName": "7ebbd753cae65d8dbd441759c4cc340b/ym-global-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7ebbd753cae65d8dbd441759c4cc340b/ym-global-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "MARINA BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA BAY FINANCIAL CENTRE",
+    "postalCode": "018982",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27901700601654,
+    "lng": 103.854464808366
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183130",
+    "deletedAt": null,
+    "createdBy": "2a7b50f5-7b76-438f-b7fc-a03672dacf27",
+    "createdAt": "2026-01-29T09:19:38.000Z",
+    "updatedAt": "2026-01-29T09:19:38.000Z",
+    "emailRecipient": "2a7b50f5-7b76-438f-b7fc-a03672dacf27",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 177,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 12,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/c-net-sql-developer-ym-global-technologies-20c398257c365bd46f4c371ba3e6c9b5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 6500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/20c398257c365bd46f4c371ba3e6c9b5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/20c398257c365bd46f4c371ba3e6c9b5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

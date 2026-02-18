@@ -1,0 +1,242 @@
+{
+  "uuid": "ab71de5583443b1022a12f35a5d0715e",
+  "sourceCode": "Employer Portal",
+  "title": "CONSTRUCTION SUPERVISOR",
+  "description": "<p>1. Overseeing daily construction activities (site management)</p><p>2. Ensuring work meets quality, safety, and schedule standards</p><p>3. Coordinating with contractors, engineers, and clients</p><p>4. Monitoring progress and reporting issues</p><p>5. Enforcing safety protocols and compliance</p><p>6. Managing resources (labor, materials, equipment)</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assessing",
+      "uuid": "35af9706b8e0a55e73480b6d6bdc8a67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Management",
+      "uuid": "4ca69a44b0270bec6838c1ade1ede455",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Counseling",
+      "uuid": "6791e85a01bb2e17b923d2f2e8574a9e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Building",
+      "uuid": "bc42c84d156c4f70ff6ba18d466fedeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Capital",
+      "uuid": "c56ccc6a1321e66ddd94fe430b8a1f82",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "71000",
+  "occupationId": "OCC009896",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200808497G",
+    "description": null,
+    "name": "GM EMPLOYMENT AGENCY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T07:27:56.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200808497G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200808497G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200808497G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200808497G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "200406435C",
+    "description": "<p>Pearl Yaah Pte. Ltd. was incorporated in 2004 to provide quality and innovative Services within the Underground Pipe laying and External Civil Engineering Services Field. The Management and staff of our company have an average of 15 years experience in this field.</p>\n<p><br></p>\n<p>&nbsp;Expertise</p>\n<p>· Cable Laying, Termination &amp; Road Reinstatement</p>\n<p>· Pipe Laying &amp; Road Reinstatement (u/ PE pipeline)</p>\n<p>· Civil Engineering works</p>\n<p>· Diversion, shifting, suspension &amp; protection to Power cables</p>\n<p>Underground pipeline for all telecommunication</p>",
+    "name": "PEARL YAAH PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": 26,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T07:28:42.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200406435C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200406435C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200406435C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200406435C/schemes"
+      }
+    },
+    "logoFileName": "5f0a4f9f1573aa6b31fec47661f7001f/pearl-yaah.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5f0a4f9f1573aa6b31fec47661f7001f/pearl-yaah.png"
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "50",
+    "street": "SERANGOON NORTH AVENUE 4",
+    "floor": null,
+    "unit": null,
+    "building": "FIRST CENTRE",
+    "postalCode": "555856",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37547396856071,
+    "lng": 103.876177822619
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193183",
+    "deletedAt": null,
+    "createdBy": "5de4cdaf-e0ee-4aca-9ecf-eb19f818150e",
+    "createdAt": "2026-01-31T07:34:22.000Z",
+    "updatedAt": "2026-01-31T07:34:23.000Z",
+    "emailRecipient": "5de4cdaf-e0ee-4aca-9ecf-eb19f818150e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 26,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-supervisor-pearl-yaah-ab71de5583443b1022a12f35a5d0715e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ab71de5583443b1022a12f35a5d0715e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ab71de5583443b1022a12f35a5d0715e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

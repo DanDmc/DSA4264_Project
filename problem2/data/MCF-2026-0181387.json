@@ -1,0 +1,235 @@
+{
+  "uuid": "ce0dbb3d92acddd52adff3835f9b23a3",
+  "sourceCode": "Employer Portal",
+  "title": "Firewall Design Engineer L4 (Contract ) Rotational Shift",
+  "description": "<h3>Responsibilities</h3><p><ul><li>Design, implement, upgrade, monitor, and troubleshoot enterprise and banking network infrastructure including routers, switches, firewalls, servers, WIFI, and storage connectivity.</li><li>Provide L3 L4 support for complex network and system incidents, including escalation handling, root cause analysis, and PDCA based reporting.</li><li>Design and deploy secure, high availability network solutions covering switching, routing, security, redundancy, and branch connectivity.</li><li>Lead and support network related projects including solution design, project planning, customer discussions, and implementation.</li><li>Manage vendors and suppliers, coordinate delivery, and handle technical escalations.</li><li>Support banking business requirements with secure and compliant network solutions.</li><li>Prepare and maintain technical and project documentation including diagrams, BOM, implementation plans, configuration and operation manuals.</li><li>Provide support across IT outsourcing environments and multi branch customer networks.</li></ul></p><h3>Requirements</h3><p><ul><li>Minimum of 6 years of experience in Network & Firewall Design</li><li>Proven L3 L4 Network Engineering experience in Banking or Financial Services domain.</li><li>Strong hands on expertise in TCP IP, L2 L3 technologies, OSPF, BGP, MPLS, IPSec and SSL VPNs.</li><li>CCNP Routing and Switching or equivalent expert level knowledge.</li><li>Experience with enterprise networking and security vendors including Cisco, FortiGate, Palo Alto, Ubiquiti, PepLink, and Synology.</li><li>Hands on experience with network security services such as Zscaler, Cisco ASA with Firepower, and next generation firewalls.</li><li>Working knowledge of Microsoft Azure and AWS networking including VNET peering, UDR routing, and VM deployment.</li><li>Experience supporting large scale environments with 400 plus users or multi branch networks.</li><li>Exposure to project management and IT outsourcing environments.</li><li>Experience with servers, backup, endpoint security, CCTV, PABX, or access control systems is an advantage.</li><li>Certifications required - CCIE, CCNP, CCSC</li><li>Rotational shift - 6.00am - 3.00pm / 2.00pm - 11.00pm / 10.00pm - 7.00am.</li></ul></p>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ubiquiti",
+      "uuid": "059d77c90f086989a8d01d2e6782d338",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "OSPF",
+      "uuid": "0ad08eb2bbda87a0c9794a126663e47a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCIE",
+      "uuid": "243e95ec236e36e25842ca1f0d358c82",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Engineering",
+      "uuid": "2b85c9455636f5ef53e3e8424fcb3fc9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "MPLS",
+      "uuid": "32ea4687a585ba359fefb81028f20adb",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "CCNP",
+      "uuid": "4f0bfac243b0cece6b00889e526c7304",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VM",
+      "uuid": "583a65df9db4119165f5ea0abaa50281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CheckPoint Firewall",
+      "uuid": "63052ed9469168fc12c5c31abedebcd8",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "CCTV",
+      "uuid": "8f0658e54b370ee4017a51f96267bd2f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IPSec",
+      "uuid": "99a98e067af6b09e64f3740767096c96",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TCP",
+      "uuid": "b136ef5f6a01d816991fe3cf7a6ac763",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Juniper",
+      "uuid": "b2ec6b780f1e52f7e21396021047e0b4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "ASA",
+      "uuid": "b7b46ce5d1a547db89c0bc615ff272a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BGP",
+      "uuid": "fb5acc0324e3e6ac8d1a62b0bf195775",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "OSPF routing protocol",
+      "uuid": "ff0516b905d08c6d4c7830d7a270ecad",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC002113",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "199608319K",
+    "description": "<p>Tangspac Consulting is an award-winning professional staffing firm with a 20-year footprint in Asia and headquarters in Singapore dating back to 1993. It offers bespoke contingency search and professional services across various Finance & Technology sectors. <br />  <br />  Our team of consultants has unparalleled expertise and track-record in serving both buy-side and sell-side firms, including the largest names on Wall Street. We have successfully placed thousands of banking professionals across various business & technology verticals. Clients range from Corporate & Investment Banks, Asset Managers, Custodians, Trusts, Private Banks, to other Publicly Traded Companies. <br />   </p>    <p>Tangspac is a founding member of The Association of Professional Staffing Companies (APSCo) Asia, which is a trade body originally established in the UK that maintains close relationships with key government departments and agencies on behalf of the professional staffing industry.</p>  ",
+    "name": "TANGSPAC CONSULTING PTE LTD",
+    "ssicCode": "62021",
+    "employeeCount": 400,
+    "companyUrl": "www.tangspac.com",
+    "lastSyncDate": "2026-02-04T00:42:15.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608319K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608319K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608319K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608319K/schemes"
+      }
+    },
+    "logoFileName": "3b1da3acdebe23b462ab88c5fcc62d8a/tangspac-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3b1da3acdebe23b462ab88c5fcc62d8a/tangspac-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181387",
+    "deletedAt": null,
+    "createdBy": "ae37cfde-4c5a-4ebb-b0f7-0fcb8b1f4152",
+    "createdAt": "2026-01-29T06:32:01.000Z",
+    "updatedAt": "2026-01-29T06:32:01.000Z",
+    "emailRecipient": "ae37cfde-4c5a-4ebb-b0f7-0fcb8b1f4152",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/firewall-design-engineer-l4-rotational-shift-tangspac-consulting-ce0dbb3d92acddd52adff3835f9b23a3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9500,
+    "minimum": 7500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ce0dbb3d92acddd52adff3835f9b23a3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ce0dbb3d92acddd52adff3835f9b23a3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

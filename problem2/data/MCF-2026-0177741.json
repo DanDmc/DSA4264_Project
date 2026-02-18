@@ -1,0 +1,217 @@
+{
+  "uuid": "6c7523ad9d2cfc80c552440dec54adae",
+  "sourceCode": "Employer Portal",
+  "title": "[Long-term Part-time] Order Fulfillment Associate - $10/hr",
+  "description": "<h3><strong>Role Overview</strong></h3><p>You will be responsible for packing products into boxes, preparing customer orders, and ensuring smooth day-to-day fulfillment processes. This role is ideal for someone who is organized, detail-oriented, hands-on, and comfortable working in a warehouse (air-conditioned) environment. Hours are flexible depending on order volume and promotion peaks.</p><h3><strong>Key Responsibilities</strong></h3><ul><li>Pick, pack, and prepare customer orders according to daily fulfillment lists</li><li>Assemble and pack products into boxes</li><li>Ensure orders are packed accurately and meet quality standards</li><li>Maintain cleanliness and organization of the warehouse workspace</li><li>Restock inventory and perform basic stock counts when needed</li><li>Use basic fulfillment software (training provided) to update order status</li><li>Assist with ad-hoc warehouse tasks as required</li></ul><h3><strong>Requirements</strong></h3><ul><li>Able to work in a warehouse (air-conditioned) environment</li><li>Good attention to detail and ability to work efficiently</li><li>Basic computer literacy to understand order processing flows</li><li>Physically able to carry boxes and stand for extended periods</li><li>Responsible, punctual, and able to work independently</li><li>Flexible to work more hours during promotion or peak seasons</li></ul><h3><strong>Working Hours</strong></h3><ul><li>2-8 working hours per day </li><li>Monday to Friday</li></ul><p></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dispatching",
+      "uuid": "37a1fd1eb583ca2a29ead248117451fa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "packing orders",
+      "uuid": "7ec33b80bcbd74997eed155e527c38d9",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Computer Literacy",
+      "uuid": "ef2ddb625a831a1dd166d97d833b583c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    },
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33492",
+  "occupationId": "OCC014672",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202041052D",
+    "description": null,
+    "name": "THE MIDNIGHT PROJECT PTE. LTD.",
+    "ssicCode": "63201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T15:07:56.000Z",
+    "ssicCode2020": "63201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041052D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041052D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041052D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202041052D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5008",
+    "street": "ANG MO KIO AVENUE 5",
+    "floor": null,
+    "unit": null,
+    "building": "TECHPLACE II",
+    "postalCode": "569874",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37748010331608,
+    "lng": 103.865412150824
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177741",
+    "deletedAt": null,
+    "createdBy": "393b1e2e-259f-4245-8c9a-7d2c34222871",
+    "createdAt": "2026-01-28T14:20:18.000Z",
+    "updatedAt": "2026-01-28T14:20:18.000Z",
+    "emailRecipient": "393b1e2e-259f-4245-8c9a-7d2c34222871",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 211,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 17,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/long-term-part-time-order-fulfillment-associate-10hr-midnight-project-6c7523ad9d2cfc80c552440dec54adae",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 800,
+    "minimum": 400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6c7523ad9d2cfc80c552440dec54adae"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6c7523ad9d2cfc80c552440dec54adae/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

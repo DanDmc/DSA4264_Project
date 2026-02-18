@@ -1,0 +1,220 @@
+{
+  "uuid": "6d2cd6df013bb075644bbb9829ce0357",
+  "sourceCode": "Employer Portal",
+  "title": "Job Title  Data Engineer with Tableau & Databricks",
+  "description": "<p><strong>Key Responsibilities</strong></p><p><strong>Database Migration Support</strong></p><p>•                  Support end-to-end database migration activities, including data validation, transformation, and reconciliation.</p><p>•                  Assist in migrating data sources that underpin large-scale visualization dashboards.</p><p>•                  Identify and resolve data integrity, performance, and compatibility issues arising from migration.</p><p><strong>Data Engineering & Platform Management</strong></p><p>•                  Develop and maintain SQL and Python-based data pipelines using Databricks and Jupyter Notebooks.</p><p>•                  Create and manage Databricks compute clusters and SQL Warehouses; and configure Unity Catalog for data governance and access control.</p><p>•                  Optimize queries and data models to ensure performance and scalability post-migration.</p><p><strong>BI & Dashboard Enablement</strong></p><p>•                  Reconfigure, test, and validate Tableau dashboards impacted by database changes.</p><p>•                  Partner with dashboard owners to ensure data accuracy, performance, and functional parity after migration.</p><p>•                  Support ad-hoc analysis and troubleshooting related to Tableau and SpotFire dashboards.</p><p><strong>Collaboration & Documentation</strong></p><p>•                  Work closely with Data Analysts, Business Stakeholders, and IT teams within ASM.</p><p>•                  Document migration steps, data mappings, and known issues to support knowledge transfer and audit readiness.</p><p>•                  Follow ASM data governance, security, and compliance standards.</p><p>•                  Collaborate with global network/database team to identify, engineer and key data elements in-line with existing needs.</p><p><strong>Required Skills & Qualifications</strong></p><p><strong>Technical Skills (Mandatory)</strong></p><p>•                  Tableau certification (required; active or recently obtained).</p><p>•                  Strong proficiency in SQL / MySQL for querying, transformation, and validation.</p><p>•                  Hands-on experience with Python for data processing and automation.</p><p>Experience using Databricks, including: Creating and managing compute clusters and SQL Warehouses.</p><p>Working with Unity Catalog</p><p>•                  Experience working with Jupyter Notebooks.</p><p><strong>Technical Skills (Nice-to-Have / Highly Favored)</strong></p><p>•                  Experience with SpotFire (dashboard development or support).</p><p>•                  Prior involvement in database or platform migration projects.</p><p>•                  Familiarity with manufacturing, biotech, or regulated environments.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Tableau",
+      "uuid": "020982e25cf5c16928fcf3c24a2058aa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dashboard",
+      "uuid": "2938c7f7e560ed972f8a4f68e80ff834",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MySQL",
+      "uuid": "62a004b95946bb97541afa471dcca73a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Governance",
+      "uuid": "7c8d5f6eb1e6bf93b12b639d08b57ce9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualization",
+      "uuid": "ce09e3d68182639402e8fd2f50368167",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201005961D",
+    "description": "<p>\r\n\tEnfactum is a boutique consulting company which specializes in business analytics and e-marketing solutions and services for the technology industry. We have multi-national clients as our customers.</p>\r\n",
+    "name": "ENFACTUM PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T05:39:37.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201005961D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201005961D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201005961D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201005961D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "STRAITS VIEW",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA ONE EAST TOWER",
+    "postalCode": "018936",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27790633865108,
+    "lng": 103.852851650485
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157434",
+    "deletedAt": null,
+    "createdBy": "aa8a51a8-d945-45e2-840a-5e9c423d0df0",
+    "createdAt": "2026-01-26T05:03:02.000Z",
+    "updatedAt": "2026-01-26T05:05:55.000Z",
+    "emailRecipient": "aa8a51a8-d945-45e2-840a-5e9c423d0df0",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 95,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 13,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/job-title-data-engineer-tableau-databricks-enfactum-6d2cd6df013bb075644bbb9829ce0357",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 6500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6d2cd6df013bb075644bbb9829ce0357"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6d2cd6df013bb075644bbb9829ce0357/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

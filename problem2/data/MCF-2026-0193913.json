@@ -1,0 +1,218 @@
+{
+  "uuid": "6bb941ca7289ed185a3c832281c30551",
+  "sourceCode": "Employer Portal",
+  "title": "Accounts Executive",
+  "description": "<p>Job Description</p><ul><li>Daily bookkeeping, payments, and documentations</li><li>Handling full set of accounts which includes AR, AP, Inventory and GL</li><li>Assisting in monthly and yearly closing activities including reports and reconciliation</li><li>Preparing monthly and quarterly financial reports and accounts schedules</li><li>Preparing payment vouchers, journal entries and input into the system</li><li>Responsible for GST Submission</li><li>Liase with Auditors to coordinate the financial year end audit</li><li>Liase with Tax Consultant for providing accounts details for Income Tax Returns</li><li>Preparing of Survey and Statistics forms</li><li>Filing and documentation control</li><li>Any administrative duties or ad-hoc duties assigned from time to time</li></ul><p><strong>JOB REQUIREMENTS</strong></p><ul><li>Minimum 3 Year(s) full set of accounting experiences</li><li>Experiences in Construction field is preferred</li><li>Knowledge and hands - on experience in handling accounting software will be a plus</li><li>Good Knowledge of Microsoft Office applications</li><li>Possess initiative, good working attitude and have strong sense of responsibility</li><li>Team Player with ability to work independently</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Journal Entries",
+      "uuid": "65132de5d513a810e68aa75ed0a14cfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Income Tax",
+      "uuid": "a2406ac4a795942b74690f3eca94aa23",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bookkeeping",
+      "uuid": "b4ce435600f0451db46463e960fc5e3b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Statistics",
+      "uuid": "c33e404a441c6ba9648f88af3c68a1ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33131",
+  "occupationId": "OCC006929",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201811910K",
+    "description": null,
+    "name": "DMJC CONSTRUCTION&ENGINEERING(S) PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T01:47:40.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811910K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811910K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811910K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201811910K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "45",
+    "street": "KALLANG PUDDING ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ALPHA BUILDING",
+    "postalCode": "349317",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32922242996714,
+    "lng": 103.878996925493
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193913",
+    "deletedAt": null,
+    "createdBy": "a678590f-962c-40b5-86f4-e894c75ba05c",
+    "createdAt": "2026-01-31T14:07:15.000Z",
+    "updatedAt": "2026-01-31T14:07:16.000Z",
+    "emailRecipient": "a678590f-962c-40b5-86f4-e894c75ba05c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 307,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 23,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-executive-dmjc-constructionengineering-6bb941ca7289ed185a3c832281c30551",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6bb941ca7289ed185a3c832281c30551"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6bb941ca7289ed185a3c832281c30551/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

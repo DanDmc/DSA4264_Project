@@ -1,0 +1,239 @@
+{
+  "uuid": "fb13206064efba628b1792ff9f9c27ee",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Software Engineer",
+  "description": "<h3>In this role, you can expect to:</h3>\n<ul>\n  <li>Work with a mix of cloud infrastructure and open-source technologies to build, scale, and maintain external and internal applications.</li>\n  <li>Design, build, and maintain APIs using either serverless or container technologies such as Kubernetes.</li>\n  <li>Architect, implement, and maintain front-end applications serving a mix of external and internal users, covering a variety of business use-cases.</li>\n  <li>Collaborate with engineers in a project-oriented and agile-driven environment working across multiple product areas.</li>\n  <li>Work with the “you build it, you run it” mindset, enabled by a Platform Engineering team.</li>\n</ul>\n<h3>You may be a good fit if:</h3>\n<ul>\n  <li>You have spent around eight years working with JavaScript frameworks such as ReactJS or VueJS.</li>\n  <li>You have similar experience working with backend languages such as Python, Java, NodeJS, or Go.</li>\n  <li>You have built solutions on AWS using technologies such as Docker, Kubernetes, AWS Fargate, and AWS Lambda, and Terraform.</li>\n  <li>You have familiarity with database technologies such as MySQL, ElasticSearch (or OpenSearch), DynamoDB, MongoDB, or Cassandra.</li>\n  <li>You have worked with projects and teams which promote and use CI/CD pipelines.</li>\n</ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "MongoDB",
+      "uuid": "206e3718af092fd1d12f80cae771ccac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MySQL",
+      "uuid": "62a004b95946bb97541afa471dcca73a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DynamoDB",
+      "uuid": "6ebb7423072c5943f52c11274fd71b0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cassandra",
+      "uuid": "7bfcc746dd3ae3853c4f0ef95551e22e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS Lambda",
+      "uuid": "dee7ff8f7b10b9d388c7c561e9413b0d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002134",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "202120748H",
+    "description": "<p>SPH Media’s mission is to be the trusted source of news on Singapore and Asia, to represent the communities that make up Singapore, and to connect them to the world.</p>\n<p>It has several business segments in the media industry, including the publishing of newspapers, magazines, and books in both print and digital editions. It also owns and operates other businesses including radio stations and outdoor media.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+    "name": "SPH MEDIA LIMITED",
+    "ssicCode": "18111",
+    "employeeCount": 2500,
+    "companyUrl": "www.sph.com.sg",
+    "lastSyncDate": "2026-02-04T10:46:24.000Z",
+    "ssicCode2020": "18111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H/schemes"
+      }
+    },
+    "logoFileName": "2b0f16e0dafed0391310af2390e66e20/sph-media.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/2b0f16e0dafed0391310af2390e66e20/sph-media.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1000",
+    "street": "TOA PAYOH NORTH",
+    "floor": null,
+    "unit": null,
+    "building": "NEWS CENTRE",
+    "postalCode": "318994",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.34306619804588,
+    "lng": 103.848661356561
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1846071",
+    "deletedAt": "2026-01-01T17:15:04.000Z",
+    "createdBy": "6f9a42e5-4e56-4dc0-96ae-0600ec3851e5",
+    "createdAt": "2025-12-02T03:35:28.000Z",
+    "updatedAt": "2026-01-27T08:14:35.000Z",
+    "emailRecipient": "6f9a42e5-4e56-4dc0-96ae-0600ec3851e5",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 507,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-02",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 50,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-sph-media-fb13206064efba628b1792ff9f9c27ee",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 11200,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fb13206064efba628b1792ff9f9c27ee"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fb13206064efba628b1792ff9f9c27ee/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

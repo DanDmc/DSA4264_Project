@@ -1,0 +1,212 @@
+{
+  "uuid": "0d78b561d1d72ae11702b63d443cab69",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Manager",
+  "description": "<p>Sales Planning: Develop personal and team sales goals and plans based on market and company strategic planning to ensure the completion of sales tasks. Team Management: Responsible for recruiting, training, and managing the sales team, guiding subordinates' sales skills, regularly conducting performance evaluations and feedback to improve the overall performance and cohesion of the team. Market Development: Conduct market research, analyse market trends, formulate marketing strategies, develop new clients and new markets, and maintain key client relationships. Sales Data Analysis: Monitor sales data, assess sales performance, promptly adjust sales strategies to ensure the achievement of sales targets. Customer Service: Handle pre-sales and after-sales services for clients, promptly resolve customer complaints, improve customer satisfaction, and maintain the company's brand image. Expense Control: Control sales expenses according to the company's sales expense management regulations to ensure the completion of sales tasks within the budget.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategic Planning",
+      "uuid": "1056ea32e61274889e2f1b9c48a5a515",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Recruiting",
+      "uuid": "5231dee7156b84b0d1854de1a18dd169",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Presales",
+      "uuid": "5d7bef99362b26cdc709f6ab436eedb2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Process",
+      "uuid": "7e10720fb56494b0e75eb221ed88be3e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market Development",
+      "uuid": "b97b662fab939ae43563ae8e0a7d2939",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12211",
+  "occupationId": "OCC000657",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "23",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202414796H",
+    "description": null,
+    "name": "HIONG GUAN GALLERY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T17:27:37.000Z",
+    "ssicCode2020": "43301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202414796H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202414796H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202414796H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202414796H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "BUKIT BATOK CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "WCEGA PLAZA",
+    "postalCode": "658064",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 23,
+        "location": "D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+        "region": "West",
+        "sectors": [
+          "65",
+          "66",
+          "67",
+          "68"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33905104963646,
+    "lng": 103.759038765621
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153843",
+    "deletedAt": null,
+    "createdBy": "fdc70159-f12c-40cc-bda2-e254eda97392",
+    "createdAt": "2026-01-25T15:36:53.000Z",
+    "updatedAt": "2026-01-25T15:36:53.000Z",
+    "emailRecipient": "fdc70159-f12c-40cc-bda2-e254eda97392",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-08",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/sales-manager-hiong-guan-gallery-0d78b561d1d72ae11702b63d443cab69",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0d78b561d1d72ae11702b63d443cab69"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0d78b561d1d72ae11702b63d443cab69/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,250 @@
+{
+  "uuid": "a78732d15f827758b22534187b2436e0",
+  "sourceCode": "Employer Portal",
+  "title": "Mid-Level IT Engineer / Systems Engineer",
+  "description": "<p><strong>Location:</strong> Singapore CBD</p><h3>About Exiand</h3><p>Exiand is a <strong>Singapore-headquartered, multinational Managed Service and Cybersecurity Provider</strong> with operations across multiple regions. We are a <strong>technology-first company</strong>, built by engineers, for engineers.</p><p>We are not driven by accounting spreadsheets or sales quotas — we are driven by <strong>engineering quality, technical curiosity, and doing things properly</strong>. We believe great outcomes come from understanding systems deeply, designing them well, and continuously improving them.</p><p>At Exiand, technology is not just a job — it’s something we genuinely enjoy. We value people who like to ask <em>why</em>, who want to understand how things really work, and who take pride in building reliable, secure systems.</p><p>You won’t be boxed into a narrow role or treated as a ticket-closing machine. You’ll be exposed to <strong>real infrastructure, real security challenges, and real client environments</strong>, working alongside senior engineers who care about mentoring and knowledge sharing.</p><p>If you’re looking for a place where:</p><ul><li><p>Engineering judgement matters</p></li><li><p>Learning is encouraged</p></li><li><p>Initiative is valued over hierarchy</p></li><li><p>Culture and trust matter more than buzzwords</p></li></ul><p>…then Exiand may be the right fit.</p><h3>Role Overview</h3><p>We are looking for a <strong>mid-level IT professional / Systems Engineer</strong> who enjoys hands-on technical work across infrastructure, networking, cloud, and security.</p><p>This role involves a mix of <strong>on-site and remote support</strong>, system implementation, troubleshooting, and ongoing platform improvement for our clients.</p><p>You will work closely with senior engineers and be given room to grow technically, take ownership, and broaden your skill set across multiple domains.</p><h3>Duties and Responsibilities</h3><ul><li><p>Provide on-site and remote technical support, diagnosis, and troubleshooting of IT issues</p></li><li><p>Deploy, maintain, upgrade, and support client systems including hardware, software, operating systems, and networks</p></li><li><p>Administer and support:</p><ul><li><p>Windows Desktop and Windows Server environments</p></li><li><p>Active Directory, Entra ID (Azure AD)</p></li><li><p>Microsoft 365 (Exchange Online, Teams, Intune)</p></li></ul></li><li><p>Perform system patching, updates, and general server administration</p></li><li><p>Manage security controls and backup systems</p></li><li><p>Assist with network support including routers, switches, and access points</p></li><li><p>Maintain accurate documentation, asset records, and technical notes</p></li><li><p>Deliver a high level of user satisfaction through clear communication and professional service</p></li><li><p>Work collaboratively with internal teams to design and improve client environments</p></li></ul><h3>Requirements & Experience</h3><ul><li><p>Minimum <strong>3 years of relevant hands-on IT experience</strong></p></li><li><p>Degree in Computer Science, Information Technology, or related field — or equivalent practical experience</p></li><li><p>Strong working knowledge of:</p><ul><li><p>Windows Server & Desktop environments</p></li><li><p>Active Directory, Entra ID, Microsoft 365, Intune</p></li><li><p>TCP/IP networking fundamentals</p></li></ul></li><li><p>Experience with <strong>virtualisation platforms</strong> (e.g. VMware, Hyper-V, Proxmox, etc.)</p></li><li><p>Familiarity with <strong>Fortinet and/or Cisco</strong> routers, switches, and access points</p></li><li><p>Understanding of security and backup principles</p></li><li><p>Vendor certifications (Microsoft, Fortinet, etc.) are well regarded but not mandatory</p></li></ul><h3>Skills & Personal Qualities</h3><ul><li><p>Strong analytical and problem-solving skills</p></li><li><p>Curious mindset and desire to understand systems, not just fix symptoms</p></li><li><p>Able to work independently while collaborating effectively with a team</p></li><li><p>Well organised and able to manage priorities in a fast-paced environment</p></li><li><p>Calm under pressure and able to troubleshoot methodically</p></li><li><p>Excellent written and spoken English</p></li><li><p>Mandarin is an advantage</p></li><li><p>Professional, service-oriented approach with good interpersonal skills</p></li></ul><h3>Why Join Exiand?</h3><ul><li><p>Engineering-led culture — decisions driven by technical merit</p></li><li><p>Exposure to a wide range of technologies and real-world environments</p></li><li><p>Opportunity to learn directly from senior engineers</p></li><li><p>Room to grow your skills, responsibilities, and influence</p></li><li><p>A team that values trust, autonomy, and doing good work</p></li><li><p>A place where passion for technology is genuinely appreciated</p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Implementation",
+      "uuid": "139474c545a1fc8f2a120e839165a0ee",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Fortinet",
+      "uuid": "1f25b8a9986a2e7a04ee9538c462e578",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Intune",
+      "uuid": "4e0dec6a01dfa2b74740f3947673fca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Backup & Recovery",
+      "uuid": "8a7d992e887a76abe4703518ec317a4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Antivirus",
+      "uuid": "95a55af65b1d42616b4d6c5c2a485b60",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtualisation",
+      "uuid": "d1b266439ed6947fdc7d575c85979964",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35123",
+  "occupationId": "OCC060843",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201405438D",
+    "description": "<p>Cyber Security, Managed Service Provider and Technology company.</p><p>We focus on high quality services for our clients.</p>",
+    "name": "EXIAND PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://exiand.com",
+    "lastSyncDate": "2026-02-04T08:14:56.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405438D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405438D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405438D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405438D/schemes"
+      }
+    },
+    "logoFileName": "6539e8cbcd5ffa748e77d1972a797aaa/exiand.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6539e8cbcd5ffa748e77d1972a797aaa/exiand.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "TELOK AYER STREET",
+    "floor": null,
+    "unit": null,
+    "building": "TELOK AYER CONSERVATION AREA",
+    "postalCode": "068574",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28178349782103,
+    "lng": 103.84846310716
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177227",
+    "deletedAt": null,
+    "createdBy": "df6c9af4-8406-478e-af3a-f73559b15e72",
+    "createdAt": "2026-01-28T10:40:26.000Z",
+    "updatedAt": "2026-01-28T10:40:26.000Z",
+    "emailRecipient": "df6c9af4-8406-478e-af3a-f73559b15e72",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 228,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 48,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/mid-level-engineer-systems-engineer-exiand-a78732d15f827758b22534187b2436e0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a78732d15f827758b22534187b2436e0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a78732d15f827758b22534187b2436e0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

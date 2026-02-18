@@ -1,0 +1,238 @@
+{
+  "uuid": "3e30c1a714a2a57f615850d7a46520e8",
+  "sourceCode": "Employer Portal",
+  "title": "Frontend Engineer (React JS)",
+  "description": "<ul><li>Proven ability to do Analysis, Development and Test in agile methodology</li><li>4 years of experience working on Front End technologies (Swift or Kotlin or React Native or Java)</li><li>Understand concept working with Javascript (pros and cons of the technology), modular architectures and Micro-Services</li><li>Preferably 1 year of experience with Selenium, not a necessary skill</li><li>Tried at least 1 XP practice</li><li>Experience working with UX designer</li><li>Strong experience on writing Unit tests and UI tests</li><li>Good experience on programming paradigms such as object oriented, functional and reactive</li><li>Experience working with tools Xcode/Android Studio, Webstorm, Jenkins, Artifactory, Sonar, Git</li><li>Experience on Apple and Google Design Guidelines</li><li>Experience with dependency management tools such cocoapods or gradle is must</li><li>Sound knowledge on various encryption algorithms is required</li><li>Should have strong problem solving capabilities.</li><li>Strong knowledge on Unit testing</li><li>Understanding of code documentation</li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CSS",
+      "uuid": "2c56c360580420d293172f42d85dfbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HTML",
+      "uuid": "4c4ad5fca2e7a3f74dbb1ced00381aa4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kotlin",
+      "uuid": "539a3a5859d24fb7b129e74d61f09ffa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Experience",
+      "uuid": "5d5f7dbd435846b9cc3e3c777d7eae8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Artifactory",
+      "uuid": "6add6fd33a95e2d2115c141c7cb2af9f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UI",
+      "uuid": "71ff71526d15db86eb50fcac245d183b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "XP",
+      "uuid": "9b57db6e9d84ba5f537ce97b13079736",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "React Native",
+      "uuid": "bd9b1ab2f29a5f8de84a861f9081bdd5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selenium",
+      "uuid": "c49dfb55f06bb406e2c5ca786f557d38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Applications",
+      "uuid": "c93aadf0c53f10fa9715606886defad9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Encryption",
+      "uuid": "d7f2615c71a1567cc13cf3a7f7de0aea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UX",
+      "uuid": "e078410d1456cdb4bc4cec1d02ba3298",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002123",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199106419N",
+    "description": "<p>Capgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2024 global revenues of €22.1 billion.<br /><br />Make it real | www.capgemini.com</p>",
+    "name": "Capgemini Singapore  PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "www.capgemini.com",
+    "lastSyncDate": "2026-02-04T07:30:20.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199106419N/schemes"
+      }
+    },
+    "logoFileName": "3b43cabac367df7ead1c8e6614d4fc3a/capgemini-singapore.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3b43cabac367df7ead1c8e6614d4fc3a/capgemini-singapore.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "MARINA BOULEVARD",
+    "floor": null,
+    "unit": null,
+    "building": "MARINA BAY FINANCIAL CENTRE",
+    "postalCode": "018982",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27901700601654,
+    "lng": 103.854464808366
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189288",
+    "deletedAt": null,
+    "createdBy": "340e13cc-bc66-4dd2-a7a9-67084fe622aa",
+    "createdAt": "2026-01-30T07:40:31.000Z",
+    "updatedAt": "2026-01-30T07:40:31.000Z",
+    "emailRecipient": "340e13cc-bc66-4dd2-a7a9-67084fe622aa",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 399,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 14,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/frontend-engineer-capgemini-singapore-3e30c1a714a2a57f615850d7a46520e8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3e30c1a714a2a57f615850d7a46520e8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3e30c1a714a2a57f615850d7a46520e8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

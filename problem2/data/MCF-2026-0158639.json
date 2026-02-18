@@ -1,0 +1,205 @@
+{
+  "uuid": "c6553c2160263510eafae7b4a1d6342d",
+  "sourceCode": "Employer Portal",
+  "title": "Project RC supervisor",
+  "description": "<p>1, Project RC subcon supervisor</p>\n<p>2, Manage a group of RC workers' daily activities</p>\n<p>3, Supervise concreting works</p>\n<p>4, supervise formwork works</p>\n<p>5, supervise rebar works</p>\n<p>6, Manage on site safety works</p>\n<p>7, Coordination with Main Contractor for the subcontract works</p>\n<p>8, Attend on site inspection</p>\n<p>9, Budget control on site</p>\n<p>10, Make sure the project is on schedule, with good quality, etc.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Engineering",
+      "uuid": "931140d8e607636c929c269fa1d409b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rebar",
+      "uuid": "a2332698de26f9474e9a4d6fb0546e0a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "rc",
+      "uuid": "ff78648be52a4e79513f4e70b266c62a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71000",
+  "occupationId": "OCC009896",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 6,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201928162R",
+    "description": "<p>We are a general builder and specialist RC work contractor.</p>\n<p>We provide an inclusive and collaborative work environment and strive to be a outstanding player in our industry.&nbsp;</p>\n<p><br></p>",
+    "name": "DS BUILDER PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": 300,
+    "companyUrl": "https://dsbce.com.sg/",
+    "lastSyncDate": "2026-02-02T23:33:58.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201928162R/schemes"
+      }
+    },
+    "logoFileName": "727be73f2a68f16030d07cf0b80b861c/ds-builder.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/727be73f2a68f16030d07cf0b80b861c/ds-builder.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158639",
+    "deletedAt": null,
+    "createdBy": "2dda1f29-bd9f-43ea-9984-47e99c8fe0bc",
+    "createdAt": "2026-01-26T07:18:03.000Z",
+    "updatedAt": "2026-01-26T07:18:03.000Z",
+    "emailRecipient": "2dda1f29-bd9f-43ea-9984-47e99c8fe0bc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-rc-supervisor-ds-builder-c6553c2160263510eafae7b4a1d6342d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c6553c2160263510eafae7b4a1d6342d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c6553c2160263510eafae7b4a1d6342d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

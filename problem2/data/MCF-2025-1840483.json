@@ -1,0 +1,236 @@
+{
+  "uuid": "28daad84123626a9266fa46c0f7901f7",
+  "sourceCode": "Employer Portal",
+  "title": "Associate IoT Engineer – Geotechnical Instrumentation",
+  "description": "<p><strong>Location</strong>: Singapore\n<strong>Department</strong>: Engineering / Data Strategy\n<strong>Reports To</strong>: Data Integrity and Strategy Manager </p><p><strong>Job Summary</strong></p><p>We are seeking a skilled and proactive <strong>IoT Engineer </strong>to assess, implement, and maintain IoT-based geotechnical instrumentation systems. You will be responsible for selecting and integrating sensors and communications devices, managing data pipelines, and ensuring reliable data acquisition for structural and geotechnical monitoring. This role bridges hardware deployment, cloud integration, and data integrity, supporting real-time alerting and reporting systems for engineering decision-making.</p><p><strong>Key Responsibilities</strong></p><p><strong>Sensor setup and system design</strong></p><ul><li>Design, implement and maintain IoT sensor networks and data acquisition systems for geotechnical applications (e.g., piezometers, inclinometers, strain gauges, total stations, etc.).</li><li>Identify and specify field data acquisition hardware such as nodes, loggers and gateways.</li><li>Select, assess, configure, and maintain sensors and communication devices for accurate data acquisition.</li></ul><p><strong>Data Acquisition, Transformation, and Management</strong></p><ul><li>Build and manage data pipelines from edge devices to cloud on on-premise-hosted databases.</li><li>Implement transformation logic for raw sensor data based on project-specific rules.</li><li>Ensure data quarantine and release workflows, and alert rules and escalations are correctly programmed and integrated.</li><li>Collaborate with field teams to set up data monitoring systems for projects.</li><li>Ensure secure data transmission and storage using best practices.</li><li>Monitor system health and uptime of IoT infrastructure.</li></ul><p><strong>Collaboration & Reporting</strong></p><ul><li>Work with IT Engineers and other Instrumentation Engineers and Surveyors to develop dashboards and ensure seamless data flow.</li><li>Support reporting automation and data visualization efforts.</li><li>Provide technical documentation and training for field teams and stakeholders.</li></ul><p><strong>Requirements</strong><br /><br /><strong>Qualifications</strong></p><ul><li>Diploma or Degree in Electronics, Mechatronics, Computer Engineering, Civil Engineering, Mechanical Engineering, or related field.</li><li>Certifications in IoT, data engineering, cloud platforms (Azure, AWS), or communications protocols are a plus.</li></ul><p><strong>Skills & Experience</strong></p><ul><li>Experience with IoT protocols (MQTT, FTP), sensor integration, and embedded systems.</li><li>Familiarity with SQL databases, data transformation logic, and cloud services.</li><li>Knowledge of geotechnical instrumentation is highly desirable.</li><li>Strong problem-solving and debugging skills in field deployments and data flow</li></ul><p><strong>Preferred Attributes</strong></p><ul><li>Passion for precision monitoring and infrastructure safety.</li><li>Ability to work independently and collaboratively across engineering and data teams.</li><li>Willingness to travel to project sites for sensor deployment and troubleshooting.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Transformation",
+      "uuid": "558f1e5fcbd7f1ca22a287c9997769f3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Engineering",
+      "uuid": "8c3b0099eed5df08053dc956ae63ee43",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Instrumentation",
+      "uuid": "d72da0fd17da5eea9c38b196c5f88dfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geotechnical Engineering",
+      "uuid": "dcd6d3f1aeb93c9192e3b0a2bbb1324b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soil",
+      "uuid": "e4b9dca2448724ca25e388a0317a09c8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transmission",
+      "uuid": "eb2d9ac048f63b514bd26677c6142d1f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Strategy",
+      "uuid": "f59698b783523d17d88462f133d18b20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Visualization",
+      "uuid": "f9537812feb3143e5189f1921693b550",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200414966H",
+    "description": "<p>Element is one of the fastest growing testing, inspection and certification businesses in the world. Globally we have more than 7,500 brilliant minds operating from 200 sites across 30 countries. Together we share an ambitious purpose to ‘Make tomorrow safer than today’.</p>\n<p>When failure in use is not an option, we help customers make certain that their products, materials, processes and services are safe, compliant and fit for purpose. From early R&amp;D, through complex regulatory approvals and into production, our global laboratory network of scientists, engineers, and technologists support customers to achieve assurance over product quality, sustainable outcomes, and market access.</p>\n<p><br></p>\n<p>While we are proud of our global reach, working at Element feels like being part of a smaller company. We empower you to take charge of your career, and reward excellence and integrity with growth and development.</p>\n<p>Industries across the world depend on our care, attention to detail and the absolute accuracy of our work. The role we have to play in creating a safer world is much bigger than our organization.</p>\n<p>&nbsp;</p>\n<p>Over the past 12 years, it has carried out a large number of projects and term contracts for private sector and Singapore government such as marine deep-water soil investigation for JTC and jetty, hydrofracture, pressuremeter, packer, deep borehole imaging and temperature tests, geophysicals and inclined drilling for deep tunnel project, slope investigation term contract for HDB and PUB, special lab tests for soils and rocks (in UK), real-time noise and vibration monitoring, inclinometers, recharge wells, automated tunnel monitoring, automated strain gauge monitoring for deep excavation, large-scale underground water level monitoring, and bridge and building strengthening using carbon fibres, etc.</p>",
+    "name": "ELEMENT GEOTECHNICAL TESTING (S) PTE. LTD.",
+    "ssicCode": "72104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:46:50.000Z",
+    "ssicCode2020": "72104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200414966H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200414966H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200414966H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200414966H/schemes"
+      }
+    },
+    "logoFileName": "74dff87bae8167daab83ae927dac7b11/element-geotechnical-testing.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/74dff87bae8167daab83ae927dac7b11/element-geotechnical-testing.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "215",
+    "street": "KAKI BUKIT AVENUE 1",
+    "floor": null,
+    "unit": null,
+    "building": "SHUN LI INDUSTRIAL PARK",
+    "postalCode": "416042",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33725501437869,
+    "lng": 103.911359506635
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1840483",
+    "deletedAt": "2025-12-31T17:15:04.000Z",
+    "createdBy": "a54f77bb-b5e9-45a6-8964-283cb39e1f00",
+    "createdAt": "2025-12-01T07:41:05.000Z",
+    "updatedAt": "2026-01-29T05:52:23.000Z",
+    "emailRecipient": "a54f77bb-b5e9-45a6-8964-283cb39e1f00",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 130,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-01",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/associate-iot-engineer-%E2%80%93-geotechnical-instrumentation-element-geotechnical-testing-28daad84123626a9266fa46c0f7901f7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/28daad84123626a9266fa46c0f7901f7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/28daad84123626a9266fa46c0f7901f7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

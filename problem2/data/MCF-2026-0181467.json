@@ -1,0 +1,207 @@
+{
+  "uuid": "85902b5f7ae8ff7b9645aa8e9a0a5860",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Engineer",
+  "description": "<ul>\n  <li>Strong knowledge of Nutanix architecture and components. </li>\n  <li>Proficiency in virtualization technologies such as VMware or Hyper-V. </li>\n  <li>Experience with scripting languages such as Bash, Python, or PowerShell. </li>\n  <li>Familiarity with networking concepts and technologies. </li>\n  <li>Certification in Nutanix or related fields.</li>\n</ul>\n<p>Experience in backup engineering with strong exposure to enterprise environments.<br>\n• Expert in Veeam Backup &amp; Replication, including features like SureBackup, Cloud Connect, and Instant Recovery.<br>\n• Experience with AWS Backup, Azure Backup, and cloud-native workloads (e.g., EC2, Azure VMs, RDS, Azure Files).</p>\n<p>• Strong understanding of enterprise storage systems and integration with backup platforms.<br>\n• Skilled in scripting and automation (PowerShell, Bash, or Python).<br>\n• Experience with virtualization technologies (VMware, Hyper-V) in backup contexts.</p>\n<p><br></p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Powershell",
+      "uuid": "531b84ad41b2a753da83acf367990701",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EC2",
+      "uuid": "81b22456f78954c460ce2f531b5e048f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Replication",
+      "uuid": "8c340dc334134096f68b880b42a8692c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Veeam Backup",
+      "uuid": "93f21d9ca5dd4b0bf38f1743848f6abe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtualization",
+      "uuid": "ea4c55be196897a16d86999f5c16d582",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC013727",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199701382M",
+    "description": "<p><strong>NTT Singapore Pte Ltd (NTTS)</strong> is the regional headquarters of NTT Communications Corporation (NTT Com) for Asia Pacific Region. </p>    <p>Established in 1997, NTT Singapore has more than 10 years of expertise in providing information and communications technology (ICT) solutions worldwide.</p>    <p>NTT Singapore offers diverse high-quality connectivity, data centre solutions, security services, IT management services, voice and conferencing solutions and solution integration services to its enterprise customers.</p>    <p>NTT Communications is a wholly owned subsidiary of Nippon Telegraph and Telephone Corporation (NTT Corp.), one of the world’s largest providers of telecommunications services.</p>    <p> In 2013, NTT Corp. is ranked no.1 in telecom industry in the Fortune Global 500* list with operating revenues of more than $133,077 million. It is positioned 32nd among the top 500 corporations worldwide.</p>    <p> NTT Com's extensive global infrastructure includes Arcstar secure private networks, which cover 196 countries/regions and a tier-1 IP backbone network connected with major ISPs worldwide, as well as secure data centers at over 150 locations worldwide.</p>  ",
+    "name": "NTT SINGAPORE PTE. LTD.",
+    "ssicCode": "61011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:30:35.000Z",
+    "ssicCode2020": "61011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199701382M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181467",
+    "deletedAt": null,
+    "createdBy": "6009ae3f-d91a-443c-b5aa-01c140641889",
+    "createdAt": "2026-01-29T06:41:54.000Z",
+    "updatedAt": "2026-01-29T06:41:54.000Z",
+    "emailRecipient": "6009ae3f-d91a-443c-b5aa-01c140641889",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 67,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-engineer-ntt-singapore-85902b5f7ae8ff7b9645aa8e9a0a5860",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/85902b5f7ae8ff7b9645aa8e9a0a5860"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/85902b5f7ae8ff7b9645aa8e9a0a5860/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,226 @@
+{
+  "uuid": "81257cf2c94206ec392bd77344b17750",
+  "sourceCode": "Employer Portal",
+  "title": "Staff Software Engineer, Issuing Platform",
+  "description": "<h2><strong>About the Team </strong></h2><p>The issuing engineering team at Airwallex builds and operates core systems for card issuing, transaction processing, and settlement at global scale. The team owns mission-critical platforms that underpin Airwallex’s issuing products, with a strong focus on reliability, scalability, and compliance. Key areas of ownership include:</p><ul><li><p>Cards: Customer-facing and internal systems for card lifecycle management, controls, and configuration.</p></li><li><p>Transactions: A global, high-throughput transaction processing platform designed for low latency, high availability, and resiliency.</p></li><li><p>Settlement: Clearance, settlement, and dispute workflows that ensure financial accuracy and scheme compliance.</p></li></ul><h2><strong>What you’ll do</strong></h2><p>As a <strong>staff software engineer</strong>, you are a senior individual contributor responsible for designing, building, and evolving the most technically complex parts of the issuing platform.</p><p>While you do not have direct reports, your impact comes from deep technical ownership, architectural leadership, and raising the engineering bar across teams through design, mentorship, and example.</p><p>This role is based in Singapore.</p><h3><strong>Responsibilities:</strong></h3><p><strong>Technical ownership and execution</strong></p><ul><li><p>Design, build, and operate highly reliable, scalable systems that powers real-time card transactions</p></li><li><p>Take end-to-end ownership of complex problem spaces, from system design through production rollout and long-term evolution.</p></li></ul><p><strong>Architecture and system design</strong></p><ul><li><p>Lead the design of distributed, event-driven systems with strong guarantees around correctness, performance, and resiliency.</p></li><li><p>Drive architectural improvements that reduce complexity, improve operability, and enable future product growth.</p></li></ul><p><strong>Engineering excellence</strong></p><ul><li><p>Set a high bar for code quality, testing, observability, and operational readiness.</p></li><li><p>Identify and remove technical bottlenecks that slow down teams or introduce systemic risk.</p></li></ul><p><strong>Cross-team technical leadership</strong></p><ul><li><p>Influence technical direction across multiple teams through design reviews, RFCs, and hands-on collaboration.</p></li><li><p>Mentor senior engineers and help shape engineering best practices without formal people management responsibilities.</p></li></ul><p><strong>Platform and infrastructure evolution</strong></p><ul><li><p>Contribute to the evolution of core infrastructure and shared platform capabilities to improve developer productivity and system reliability.</p></li><li><p>Evaluate new technologies pragmatically and guide their adoption where they deliver clear value.</p></li></ul><h2><strong>Who you are</strong></h2><p>We are looking for senior engineers with deep technical expertise and a strong track record of impact as an individual contributor.</p><h3><strong>Minimum qualifications:</strong></h3><ul><li><p>7+ years of professional software engineering experience, with sustained impact as a senior or staff-level individual contributor.</p></li><li><p>Bachelor’s degree in Computer Science, Software Engineering, or a related field.</p></li><li><p>Strong proficiency in backend development using languages such as Java, Kotlin, Go, or Python.</p></li><li><p>Deep experience designing and delivering large-scale, distributed systems in production.</p></li><li><p>Strong computer science fundamentals and solid understanding of object-oriented design.</p></li><li><p>Hands-on experience with event-driven and streaming architectures, for example Kafka.</p></li><li><p>Proven experience designing and operating RESTful APIs at scale.</p></li><li><p>Experience with domain-driven design and event-driven architectures.</p></li><li><p>Cloud experience with GCP (preferred) or AWS, including Docker and Kubernetes.</p></li><li><p>Familiarity with observability tooling such as Splunk, Grafana, and Prometheus.</p></li><li><p>Demonstrated ability to mentor engineers and influence technical direction through design and execution rather than authority.</p></li></ul><h3><strong>Preferred qualifications:</strong></h3><ul><li><p>Experience in fintech, payments, or other regulated financial domains.</p></li><li><p>Deep experience with JVM-based ecosystems, including Java or Kotlin with Spring or Spring Boot.</p></li></ul>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Transaction Processing",
+      "uuid": "11046aea11a1da9f4f4bee321b2e2cae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kotlin",
+      "uuid": "539a3a5859d24fb7b129e74d61f09ffa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Direction",
+      "uuid": "65dcf923e8b92b55c7f6cac960849fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spring Boot",
+      "uuid": "926e67801e570a3898ddaef281c23075",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Distributed Systems",
+      "uuid": "a0c1a4ebae0dece31aba06216fb1a019",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002134",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174239",
+    "deletedAt": null,
+    "createdBy": "493e972c-c07a-49ef-8384-05515285f514",
+    "createdAt": "2026-01-28T06:12:13.000Z",
+    "updatedAt": "2026-01-29T09:32:54.000Z",
+    "emailRecipient": "493e972c-c07a-49ef-8384-05515285f514",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 74,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/staff-software-engineer-issuing-platform-airwallex-81257cf2c94206ec392bd77344b17750",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 28000,
+    "minimum": 15800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/81257cf2c94206ec392bd77344b17750"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/81257cf2c94206ec392bd77344b17750/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

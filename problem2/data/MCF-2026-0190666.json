@@ -1,0 +1,255 @@
+{
+  "uuid": "aa89ed885e2817972b983a32f10fb263",
+  "sourceCode": "Employer Portal",
+  "title": "Cloud Engineering Lead",
+  "description": "<p>We are representing our client in the global technology and engineering space to look for an experienced Cloud Engineering Lead to spearhead one of our AWS Cloud Services. This is a hands-on leadership role where you will architect and deliver secure, scalable, and cost-efficient AWS solutions while leading and developing a team of skilled engineers.</p><p>In addition to technical leadership, you will act as a key stakeholder partner,\nensuring alignment between business objectives and cloud capabilities. Your\nleadership will shape the evolution of the cloud platform, driving innovation,\ncompliance, and operational excellence.</p><p><strong>Responsibilities</strong></p><ul><li>AWS Cloud Engineering: Own the architecture, design, and delivery of secure, scalable, and cost-efficient AWS solutions.</li><li>Team Leadership: Mentor engineers, develop technical capabilities, and foster a culture of collaboration and DevOps excellence.</li><li>Customer & Stakeholder Engagement: Act as a trusted technical advisor, managing relationships with internal stakeholders and external partners to ensure alignment and satisfaction.</li><li>Governance & Compliance: Design and implement solutions that meet security, compliance, and governance requirements.</li><li>Innovation & Continuous Improvement: Identify opportunities to improve productivity, reliability, scalability, and operational efficiency.</li><li>Infrastructure as Code: Lead automation efforts using Terraform, Terraform Enterprise, GitLab CI/CD pipelines, and Ansible Automation Platform to ensure consistent and repeatable deployments.</li><li>Automation & DevOps: Enhance and maintain automation frameworks using Lambda, Step Functions, SSM Documents, and Bash/PowerShell scripting to improve operational efficiency.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years of experience in cloud engineering, with at least 2 years in a leadership role.</li><li>Proven ability to lead teams, mentor engineers, and manage complex cloud projects.</li><li>Strong stakeholder management skills, with the ability to communicate technical concepts clearly and manage expectations effectively.</li><li>Deep knowledge of AWS services, including EC2, S3, RDS, IAM, VPC, Lambda, and Step Functions.</li><li>AWS certifications are advantageous.</li><li>Hands-on experience with Terraform, GitLab CI/CD, Ansible, and scripting languages such as Bash, PowerShell, and Python.</li><li>Familiarity with cloud security frameworks and compliance standards, including CIS Benchmarks and AWS Foundational Security Best Practices.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EC2",
+      "uuid": "81b22456f78954c460ce2f531b5e048f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rapid Prototyping",
+      "uuid": "9e5411fbc539fa01ff7e03ec4795153d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Xcode",
+      "uuid": "a3b5ebd8a1e9ebf44a172e80d5a7d3a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architecture Design",
+      "uuid": "ae64194051878ec826a5a24ebf799d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Small Business",
+      "uuid": "d31baabd13774aa1b450a5e1d043d925",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Leadership",
+      "uuid": "d54f15f3c6e8d607c7c90d6de015217e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13291",
+  "occupationId": "OCC000327",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201436308C",
+    "description": "<p>Upper Spring Consulting is a Talent Search/Headhunting firm based in Singapore.</p>\n<p>We are a team of experienced and qualified Human Resource &amp; Business Consulting practitioner. We specialise in positions related to Information Technology, Banking and Healthcare industry and domain. &nbsp;</p>",
+    "name": "UPPER SPRING CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.upper-spring.com",
+    "lastSyncDate": "2026-02-04T00:35:50.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C/schemes"
+      }
+    },
+    "logoFileName": "3ab3b93dc431a25f08def58f826c7f8a/upper-spring-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3ab3b93dc431a25f08def58f826c7f8a/upper-spring-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "201436308C",
+    "description": "<p>Upper Spring Consulting is a Talent Search/Headhunting firm based in Singapore.</p>\n<p>We are a team of experienced and qualified Human Resource &amp; Business Consulting practitioner. We specialise in positions related to Information Technology, Banking and Healthcare industry and domain. &nbsp;</p>",
+    "name": "UPPER SPRING CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.upper-spring.com",
+    "lastSyncDate": "2026-02-04T00:35:50.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201436308C/schemes"
+      }
+    },
+    "logoFileName": "3ab3b93dc431a25f08def58f826c7f8a/upper-spring-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3ab3b93dc431a25f08def58f826c7f8a/upper-spring-consulting.jpg"
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "105",
+    "street": "CECIL STREET",
+    "floor": null,
+    "unit": null,
+    "building": "THE OCTAGON",
+    "postalCode": "069534",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28054975016418,
+    "lng": 103.849195745733
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190666",
+    "deletedAt": null,
+    "createdBy": "617cb1b2-9b7f-4b4a-868b-4ad8b976f588",
+    "createdAt": "2026-01-30T09:25:40.000Z",
+    "updatedAt": "2026-01-30T09:25:40.000Z",
+    "emailRecipient": "617cb1b2-9b7f-4b4a-868b-4ad8b976f588",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 46,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/cloud-engineering-lead-upper-spring-consulting-aa89ed885e2817972b983a32f10fb263",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10500,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aa89ed885e2817972b983a32f10fb263"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/aa89ed885e2817972b983a32f10fb263/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,238 @@
+{
+  "uuid": "4fd3b3bb85d40f7374563769b3857216",
+  "sourceCode": "Employer Portal",
+  "title": "Technician",
+  "description": "<p><strong>Job Description & Requirements</strong></p><p><br /></p><p><em><strong>We offer attractive benefits such as 5 days week, Flexible Work Arrangement, AWS, Variable Bonus etc. to successful candidate.</strong></em></p><p><strong>Job Description:</strong></p><ol><li><strong>Configuration and Commissioning:</strong>Assist in the configuration and commission of Building Management System applications at client sites.<br />Ensure proper integration with existing building systems.</li><li><strong>Troubleshooting:</strong>Provide technical support for application-related issues, diagnosing and resolving problems in a timely manner.<br />Collaborate with the engineering team to escalate and resolve complex technical issues.</li><li><strong>Client Training:</strong>Conduct training sessions for clients on the use and maintenance of BMS/ELV applications.<br />Respond to client inquiries and provide guidance on application functionality.</li></ol><p><strong>Qualifications:</strong></p><ol><li>NITEC or Higher NITEC in Mechanical Engineering, Electrical Engineering, or Engineering related field.</li><li>Basic understanding of Building Management Systems and related technologies.</li><li>Strong problem-solving and communication skills</li></ol>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Management Systems",
+      "uuid": "f7ef8140a5b113d17154600ce0bf0fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "197903671C",
+    "description": "<p>\r\n\tQUANTUM AUTOMATION PTE LTD</p>\r\n<p>\r\n\tA leading engineering company providing solutions for Facilities Management, Fire, Safety and Security, Industrial Automation and Home Automation Systems.</p>\r\n",
+    "name": "QUANTUM AUTOMATION PTE LTD",
+    "ssicCode": "43293",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:14:58.000Z",
+    "ssicCode2020": "43293",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197903671C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "9",
+    "street": "SENOKO DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "758197",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45896700339317,
+    "lng": 103.796633334344
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0178730",
+    "deletedAt": null,
+    "createdBy": "4db22cfb-a39c-467c-a816-59cea5af2e87",
+    "createdAt": "2026-01-29T01:32:22.000Z",
+    "updatedAt": "2026-01-29T01:32:22.000Z",
+    "emailRecipient": "4db22cfb-a39c-467c-a816-59cea5af2e87",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 45,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/technician-quantum-automation-4fd3b3bb85d40f7374563769b3857216",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fd3b3bb85d40f7374563769b3857216"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4fd3b3bb85d40f7374563769b3857216/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

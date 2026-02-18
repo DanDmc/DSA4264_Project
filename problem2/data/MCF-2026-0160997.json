@@ -1,0 +1,236 @@
+{
+  "uuid": "b934285a8283e32511b81f0542c5f7c5",
+  "sourceCode": "Employer Portal",
+  "title": "IT specialist",
+  "description": "<p><strong>Job Summary:</strong></p><p>We are looking for an experienced IT Support Specialist to manage and support the company’s IT systems, cloud platforms, and digital vault operations. Responsibilities include ensuring system performance and security, providing technical support, managing user access, maintaining backups and disaster recovery, enforcing cybersecurity compliance, and coordinating with internal teams and external vendors.<br /></p><p><strong>Key Responsibilities:</strong></p><ul><li>Manage the organization’s IT infrastructure including laptops, servers, software, and network systems.</li><li>Provide hands-on support for hardware, software, and network-related issues.</li><li>Install, configure, and maintain Windows and MacOS environments and IT peripherals.</li><li>Administer user accounts, access control, Microsoft 365, G-Suite, and Active Directory.</li><li>Monitor system uptime, performance, and data integrity, escalating critical issues when needed.</li><li>Liaise with vendors for IT procurement, support, and maintenance services.</li><li>Monitor and maintain cloud infrastructure and digital vault systems.</li><li>Assist with provisioning/deprovisioning of cloud resources, tagging, and reporting.</li><li>Ensure compliance with backup schedules, storage policies, and disaster recovery procedures.</li><li>Apply routine patches and updates to infrastructure and software systems.</li><li>Support endpoint protection, threat detection, and cybersecurity best practices.</li><li>Enforce access controls and data protection in restricted-access environments.</li><li>Manage and maintain the organization’s website, including updates, uptime monitoring, and backend integration.</li><li>Support technical audits as required.</li><li>Maintain documentation for assets, system configurations, SOPs, and incident reports.</li><li>Provide training and technical guidance to users.</li><li>Collaborate with internal teams and external partners on troubleshooting and project delivery.</li><li>Act as liaison for third-party service providers on support, escalations, and upgrades.</li><li>Other duties as assigned.</li></ul><p><strong>Qualifications & Skills:</strong></p><ul><li>Diploma or Degree in Information Technology, Computer Science, or related field.</li><li>2–6 years of relevant experience, preferably in digital, media, or gaming environments.</li><li>Strong hands-on experience with LAN/WAN, VPNs, firewalls, switches, routers, and Wi-Fi networks.</li><li>Proficient in troubleshooting across Windows, MacOS, Office 365, and endpoint security tools.</li><li>Working knowledge of cloud environments (e.g., AWS, Alibaba Cloud)</li><li>Familiar with Active Directory, file servers, and cybersecurity tools.</li><li>Strong documentation, communication, and project coordination skills.</li><li>Ability to work across time zones and manage multiple technical priorities.</li><li>Exposure to media asset management, digital publishing platforms, or gaming systems is a plus.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MacOS",
+      "uuid": "0a5b7edb55b772c60bfa8af868b679cf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Asset Management",
+      "uuid": "1e1a97e508b3d959b9fc916092948c35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laptops",
+      "uuid": "48b773c837465a9904ae56389cd0dc9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Audits",
+      "uuid": "7364628bf124afd656dbee0fcb36bce6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Coordination",
+      "uuid": "c84c87a3a7f389029fd7bbaeb3635994",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13304",
+  "occupationId": "OCC001994",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "202125922H",
+    "description": null,
+    "name": "GCL GLOBAL PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T08:36:47.000Z",
+    "ssicCode2020": "64202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125922H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125922H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125922H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202125922H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "29",
+    "street": "TAI SENG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "534119",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.33779493879452,
+    "lng": 103.889199828662
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160997",
+    "deletedAt": null,
+    "createdBy": "0e877154-0bdd-46a7-a2c1-e9a328b55ef6",
+    "createdAt": "2026-01-26T10:25:26.000Z",
+    "updatedAt": "2026-01-26T10:25:26.000Z",
+    "emailRecipient": "0e877154-0bdd-46a7-a2c1-e9a328b55ef6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 276,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 46,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/specialist-gcl-global-b934285a8283e32511b81f0542c5f7c5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b934285a8283e32511b81f0542c5f7c5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b934285a8283e32511b81f0542c5f7c5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

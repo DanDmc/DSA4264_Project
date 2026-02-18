@@ -1,0 +1,234 @@
+{
+  "uuid": "68030a88f6f8b45c5f8c6dc17961b3a7",
+  "sourceCode": "Employer Portal",
+  "title": "Data Analyst",
+  "description": "<p>CCS is looking for a highly motivated Data Analyst. This role is\ncritical in transforming data into actionable insights that drive business\ndecisions. The successful candidate will be responsible for reporting, trend analysis, and collaborating with stakeholders to deliver data-driven solutions.</p><p>Key Responsibilities</p><ul><li>Utilize Python for data processing, automation, and advanced analytics.</li><li>Develop and maintain reports and dashboards using Power BI.</li><li>Perform trend analysis and identify patterns to support strategic initiatives.</li><li>Present findings and recommendations to management in a clear, concise, and impactful manner.</li></ul><p>Required Skills & Qualifications</p><ul><li>Strong proficiency in Python for data manipulation and analysis.</li><li>Expertise in Power BI for visualization and reporting.</li><li>Solid understanding of trend analysis, statistical methods, and data modeling.</li><li>Excellent communication skills to convey complex data insights effectively.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Tableau",
+      "uuid": "020982e25cf5c16928fcf3c24a2058aa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mathematics",
+      "uuid": "540b21ecdb276f5087ee585cedd6d5d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trend Analysis",
+      "uuid": "7e6affb0105ac826f1b95e353711f849",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Mining",
+      "uuid": "9514250aed2f02a588ec899e8b7fadc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Statistics",
+      "uuid": "c33e404a441c6ba9648f88af3c68a1ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visualization",
+      "uuid": "ce09e3d68182639402e8fd2f50368167",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analytics",
+      "uuid": "e19e98a669ae21f94ffd1659998fd072",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power BI",
+      "uuid": "e5c930f4134c3d946962924c7f02aab7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Visualization",
+      "uuid": "f9537812feb3143e5189f1921693b550",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013821",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "201607267C",
+    "description": "<p>CREDIT COUNSELLING SINGAPORE</p>\n<p><br></p>\n<p>We are a registered charity and a trusted credit counselling Social Service Agency. We help both individuals and small business owners address their unsecured debt problems through education, credit counselling and facilitated debt restructuring.</p>\n<p><br></p>",
+    "name": "CREDIT COUNSELLING SINGAPORE",
+    "ssicCode": "88992",
+    "employeeCount": null,
+    "companyUrl": "www.ccs.org.sg",
+    "lastSyncDate": "2026-01-30T05:14:23.000Z",
+    "ssicCode2020": "88992",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201607267C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201607267C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201607267C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201607267C/schemes"
+      }
+    },
+    "logoFileName": "bb575650c81b1d0e7a2f616c13960e53/credit-counselling-singapore.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/bb575650c81b1d0e7a2f616c13960e53/credit-counselling-singapore.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "51",
+    "street": "CUPPAGE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "51 CUPPAGE ROAD",
+    "postalCode": "229469",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30285361223718,
+    "lng": 103.840156017375
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187935",
+    "deletedAt": null,
+    "createdBy": "534a9412-a293-4b3a-93be-5f7dc4f3f05a",
+    "createdAt": "2026-01-30T05:23:20.000Z",
+    "updatedAt": "2026-01-30T05:23:20.000Z",
+    "emailRecipient": "534a9412-a293-4b3a-93be-5f7dc4f3f05a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 240,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 55,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/data-analyst-credit-counselling-singapore-68030a88f6f8b45c5f8c6dc17961b3a7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/68030a88f6f8b45c5f8c6dc17961b3a7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/68030a88f6f8b45c5f8c6dc17961b3a7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

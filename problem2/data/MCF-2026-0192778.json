@@ -1,0 +1,242 @@
+{
+  "uuid": "497784c535d0cf8726ae446b2025cfe6",
+  "sourceCode": "Employer Portal",
+  "title": "Clerk",
+  "description": "<p>Job Scope / Responsibilities</p><p>Perform general administrative and clerical duties, including data entry, filing, and document management</p><p>Handle incoming and outgoing correspondence such as emails, letters, and phone calls</p><p>Maintain accurate records and update internal databases and systems</p><p>Prepare basic reports, forms, and documents as required</p><p>Assist in scheduling appointments and coordinating meetings</p><p>Support daily office operations and provide administrative assistance to the team</p><p>Liaise with internal departments and external parties when necessary</p><p>Carry out ad-hoc administrative tasks assigned by supervisors</p><p>Requirements / Qualifications</p><p>Minimum secondary school or equivalent qualification</p><p>Basic knowledge of Microsoft Office applications (Word, Excel, Outlook)</p><p>Good organizational and time management skills</p><p>Able to work independently and as part of a team</p><p>Attention to detail and ability to handle routine administrative work</p><p>Willingness to learn and take on new tasks</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31124",
+  "occupationId": "OCC005322",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202228828M",
+    "description": "<p><strong>At VT Recruit Pte Ltd, we are dedicated to connecting talented</strong></p>\n<p><strong>individuals with their dream careers and helping companies build</strong></p>\n<p><strong>exceptional teams. As a leading employment agency, we</strong></p>\n<p><strong>specialize in matching qualified candidates with job opportunities</strong></p>\n<p><strong>across various industries. With our deep understanding of the job</strong></p>\n<p><strong>market and extensive network of top-notch professionals, we</strong></p>\n<p><strong>strive to deliver personalized and efficient recruitment solutions.</strong></p>\n<p><strong>Our team of experienced recruiters is committed to providing</strong></p>\n<p><strong>exceptional service, guiding both candidates and clients through</strong></p>\n<p><strong>the hiring process with expertise and care. Whether you're</strong></p>\n<p><strong>seeking the perfect candidate or the ideal job opportunity, trust</strong></p>\n<p><strong>VT Recruit to be your trusted partner in achieving your</strong></p>\n<p><strong>employment goals.</strong></p>",
+    "name": "VT RECRUIT PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": 5,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:31:06.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202228828M/schemes"
+      }
+    },
+    "logoFileName": "a97e0a550ea345a56aac40a3dfec511a/vt-recruit.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/a97e0a550ea345a56aac40a3dfec511a/vt-recruit.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201227123N",
+    "description": "<p>A Cold Chain Supply Start up catering bespoke logistcis solutions to e-commerce customers, ensuring food items are delivered in secured cold chain logistics.</p>\n<p>www.shinyaoya.com.sg</p>",
+    "name": "SHIN YA-O-YA PTE. LTD.",
+    "ssicCode": "52292",
+    "employeeCount": 10,
+    "companyUrl": "www.shinyaoya.com.sg",
+    "lastSyncDate": "2026-01-31T04:27:51.000Z",
+    "ssicCode2020": "10503",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201227123N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201227123N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201227123N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201227123N/schemes"
+      }
+    },
+    "logoFileName": "37231e7cd4c47324d53da22e32fb0a1c/shin-ya-o-ya.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/37231e7cd4c47324d53da22e32fb0a1c/shin-ya-o-ya.png"
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "WHOLESALE CENTRE",
+    "floor": null,
+    "unit": null,
+    "building": "PASIR PANJANG WHOLESALE CENTRE",
+    "postalCode": "110020",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28470595667448,
+    "lng": 103.777004808336
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192778",
+    "deletedAt": null,
+    "createdBy": "b9c01ea8-7bbf-4ace-b7ad-51a9ab7ded0c",
+    "createdAt": "2026-01-31T04:42:24.000Z",
+    "updatedAt": "2026-01-31T04:42:24.000Z",
+    "emailRecipient": "b9c01ea8-7bbf-4ace-b7ad-51a9ab7ded0c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 62,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/clerk-shin-ya-o-ya-497784c535d0cf8726ae446b2025cfe6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/497784c535d0cf8726ae446b2025cfe6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/497784c535d0cf8726ae446b2025cfe6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

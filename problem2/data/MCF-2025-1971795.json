@@ -1,0 +1,244 @@
+{
+  "uuid": "1b6224b11ad4626b23dfefc6347e489e",
+  "sourceCode": "Employer Portal",
+  "title": "Project Engineer",
+  "description": "<ul><li><p>Plan, coordinate, and execute marine engineering projects such as ship repair, shipbuilding, offshore structures, and marine equipment installation.</p></li><li><p>Liaise with ship owners, clients, classification societies, and port authorities to ensure project requirements are met.</p></li><li><p>Prepare project schedules, work plans, method statements, and technical documentation.</p></li><li><p>Supervise onboard and yard activities including fabrication, installation, commissioning, and testing of marine systems.</p></li><li><p>Ensure compliance with marine safety regulations, class rules (ABS, DNV, LR, BV), and international standards.</p></li><li><p>Monitor project progress, quality, cost control, and timelines; report any deviations to management.</p></li><li><p>Coordinate with subcontractors, vendors, and suppliers for materials, manpower, and equipment.</p></li><li><p>Conduct inspections, attend surveys, and support class/flag state approvals.</p></li><li><p>Ensure proper implementation of HSE (Health, Safety & Environment) procedures at work sites.</p></li><li><p>Prepare progress reports, technical reports, and project handover documentation.</p></li><li><p>Support troubleshooting and rectification of technical issues during project execution.</p></li><li><p>Assist in project budgeting, cost estimation, and variation order management.</p></li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marine Engineering",
+      "uuid": "899576217b1a6eb6234db50c15903f6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipbuilding",
+      "uuid": "d12b9d289465f60345866ef6769f7bca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Surveys",
+      "uuid": "feae57551f7da68dc340d755b98a0b4d",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21441",
+  "occupationId": "OCC002872",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1161",
+  "postedCompany": {
+    "uen": "201430308D",
+    "description": "<p>MR MARINE PTE. LTD.</p>",
+    "name": "STARK MARINE PTE. LTD.",
+    "ssicCode": "30110",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:31:32.000Z",
+    "ssicCode2020": "30110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201430308D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "30",
+    "street": "TUAS SOUTH STREET 3",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "638028",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.30394472540547,
+    "lng": 103.628516425847
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1971795",
+    "deletedAt": "2026-01-07T17:15:05.000Z",
+    "createdBy": "64e5115d-745a-4128-b085-80003d63163a",
+    "createdAt": "2025-12-24T02:22:58.000Z",
+    "updatedAt": "2026-01-27T08:32:27.000Z",
+    "emailRecipient": "64e5115d-745a-4128-b085-80003d63163a",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 366,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-24",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 50,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/project-engineer-stark-marine-1b6224b11ad4626b23dfefc6347e489e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8500,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1b6224b11ad4626b23dfefc6347e489e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1b6224b11ad4626b23dfefc6347e489e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

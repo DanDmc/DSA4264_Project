@@ -1,0 +1,198 @@
+{
+  "uuid": "f4bcd6d63614c1969a7184df4af25350",
+  "sourceCode": "Employer Portal",
+  "title": "Operations Engineer (DevOps / SRE)",
+  "description": "<p>We are looking for an Operations Engineer (DevOps / SRE) to support and enhance the reliability, performance and scalability of our core technology platforms. You will be responsible for day to day operations, system stability and infrastructure optimisation across our production environments.</p><p>Our platforms include corporate websites, CDN infrastructure, instant messaging systems, customer service SaaS platforms and cloud based infrastructure. This role offers hands on exposure to production grade SaaS systems, multi cloud environments and high availability architectures.<br /><br /><br /><strong>Key Responsibilities：</strong></p><p><u>System Operations and Reliability</u></p><ul><li>Manage daily operations and monitoring of company platforms including website, CDN, IM system and customer service SaaS</li><li>Ensure 24x7 system stability, high availability and business continuity</li><li>Maintain servers, containers, networks and storage resources</li></ul><p><u>Cloud Infrastructure Management</u></p><ul><li>Deploy and manage cloud resources including compute, networking, load balancing and object storage</li><li>Support multi cloud or hybrid cloud environments such as AWS, Huawei Cloud, Alibaba Cloud and Cloudflare</li><li>Perform capacity planning, cost optimisation and resource scaling</li></ul><p><u>CDN and Domain Management</u></p><ul><li>Manage CDN configuration, DNS records and HTTPS certificate lifecycle</li><li>Optimise global access performance and cross region reliability</li><li>Troubleshoot CDN caching, origin and certificate related issues</li></ul><p><u>Containerisation and Automation</u></p><ul><li>Maintain and optimise Docker and Kubernetes clusters</li><li>Build and maintain CI/CD pipelines for automated deployment</li><li>Develop automation scripts using Shell, Python or similar tools</li></ul><p><u>Monitoring and Incident Response</u></p><ul><li>Build and maintain monitoring, logging and alerting systems such as Prometheus, Grafana and ELK</li><li>Respond to production incidents, perform root cause analysis and post incident reviews</li><li>Maintain operational SOPs, emergency plans and system documentation</li></ul><p><u>Security and Compliance</u></p><ul><li>Perform system and network hardening</li><li>Manage firewall rules, security groups, access control and permissions</li><li>Support security audits, penetration testing and remediation efforts<br /></li></ul><p><strong>Requirements :</strong><br /><br /><u>Basic Requirements</u><br />- Bachelor’s degree in Computer Science or a related field, or equivalent practical experience<br />- At least 3 years of experience in Linux system operations, DevOps or SRE related roles<br />- Strong understanding of Linux systems such as CentOS or Ubuntu<br />- Solid knowledge of networking fundamentals<br />- Mandarin is required for work communication with internal or external stakeholders.</p><p><u>Technical Requirements</u><br />- Hands on experience with cloud platforms such as AWS, Huawei Cloud, Alibaba Cloud or GCP<br />- Good understanding of CDN architecture, DNS management and HTTPS or SSL certificate configuration<br />- Experience with Docker and container based environments<br />- Kubernetes operational experience is preferred<br />- Familiarity with web architectures including Nginx, APIs and microservices<br />- Experience with monitoring, logging and alerting systems</p><p><u>Preferred Qualifications</u><br />- Experience supporting SaaS platforms or B2B systems<br />- Experience with instant messaging systems or customer service platforms<br />- Experience working in multi tenant system environments<br />- Exposure to automation scripting using Shell or Python<br />- Experience in system security hardening or cloud security practices</p><p><u>Personal Attributes</u><br />- Strong sense of responsibility and ability to handle production incidents<br />- Able to work independently and perform under pressure<br />- Good documentation habits and process awareness<br />- Good communication skills and ability to work with cross functional teams<br /><br /><u><strong>What we offer</strong></u></p><ul><li>Hands on exposure to production grade SaaS and high availability systems</li><li>Opportunities to work with multi cloud, CDN, IM and SaaS technology stacks</li><li>Flat structure with strong technical ownership</li><li>Competitive remuneration and long term career development</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nginx",
+      "uuid": "62e0b5b350c9e3d2c19aa801d9442ba9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAAS solutions",
+      "uuid": "b1039f500e10fed1360ecd40e1a1055f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud",
+      "uuid": "c8e2277ecfb1427838c488c217f99466",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sop",
+      "uuid": "ea2d21bb4609996c2d8e8e9a4500954a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SSL",
+      "uuid": "ea52c36203c5f99c3ce2442d531b1a22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202305639E",
+    "description": "<p>Vanshi is a diversified innovation software company, specializing in providing a range of cutting-edge technological solutions. These solutions encomass instant messaging, social platform development, SaaS services, and cloud server proxy services.</p>\n<p><br></p>\n<p>Our viison is to harness the power of technology across various industries to drive the future of digital transformation and social interaction.</p>",
+    "name": "VANSHI GLOBAL PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": 15,
+    "companyUrl": "https://vanshi.com/",
+    "lastSyncDate": "2026-02-02T06:38:06.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202305639E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202305639E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202305639E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202305639E/schemes"
+      }
+    },
+    "logoFileName": "f2d8692defb70f4d90170175fea1f6d0/vanshi-global.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f2d8692defb70f4d90170175fea1f6d0/vanshi-global.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "51",
+    "street": "DUXTON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "089515",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27825832282539,
+    "lng": 103.843363162435
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1993018",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "83e46ba5-beb7-42b3-b5fc-3b3553e0b502",
+    "createdAt": "2025-12-29T10:15:22.000Z",
+    "updatedAt": "2026-01-30T09:53:42.000Z",
+    "emailRecipient": "83e46ba5-beb7-42b3-b5fc-3b3553e0b502",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 243,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-12-29",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/operations-engineer-vanshi-global-f4bcd6d63614c1969a7184df4af25350",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f4bcd6d63614c1969a7184df4af25350"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f4bcd6d63614c1969a7184df4af25350/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,204 @@
+{
+  "uuid": "f327fa13e226abdbc38b9f6822a87685",
+  "sourceCode": "Employer Portal",
+  "title": "Marketing and Client Service",
+  "description": "<ul><li>Support Business Development or Relationship Managers with proposals, quotations, and client follow-ups.</li><li>Coordinate client outreach activities, including emails, meeting arrangements, and event invitations.</li><li>Assist with client onboarding and ongoing relationship support, liaising with internal teams where required.</li><li>Prepare, update, and maintain marketing and client-facing materials.</li><li>Maintain client and prospect databases, including tracking leads, requests, and follow-ups</li><li>Provide general administrative support as needed</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Account Management",
+      "uuid": "09f0c5159c5e34504e453eff3fc70324",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Management",
+      "uuid": "3fa1b4ed4bb9bd776a33dc08fd042f31",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Relationship Management",
+      "uuid": "5e0277be453b4b61d6cccb9bdc95594c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Conflict Resolution",
+      "uuid": "72507f4fca0021acce5d4a3527ddd9c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Service Delivery",
+      "uuid": "f4ef68e4cf718ae490427ea01135f369",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33229",
+  "occupationId": "OCC008712",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200809969Z",
+    "description": "<p>We are a fast-growing full service Corporate Services firm, with an excellent mix of local and global clients. We are led by seasoned professionals (with many years of legal and accounting/tax training). Join our friendly and dynamic team of professionals, for a fulfilling job with tremendous potential for career progression.</p>\n\n<p> </p>\n",
+    "name": "FASTCORP PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T23:38:42.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200809969Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200809969Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200809969Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200809969Z/schemes"
+      }
+    },
+    "logoFileName": "80a6d50a689c7f72e7440f258a720ae0/fastcorp.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/80a6d50a689c7f72e7440f258a720ae0/fastcorp.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167452",
+    "deletedAt": null,
+    "createdBy": "3cf5576f-4285-4c11-a331-2cce160d8850",
+    "createdAt": "2026-01-27T08:29:04.000Z",
+    "updatedAt": "2026-01-27T08:29:04.000Z",
+    "emailRecipient": "3cf5576f-4285-4c11-a331-2cce160d8850",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/marketing-client-service-fastcorp-f327fa13e226abdbc38b9f6822a87685",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2000,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f327fa13e226abdbc38b9f6822a87685"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f327fa13e226abdbc38b9f6822a87685/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

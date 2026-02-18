@@ -1,0 +1,226 @@
+{
+  "uuid": "b2b045ae29ac769f0cae853bc9646c35",
+  "sourceCode": "Employer Portal",
+  "title": "WAITER/WAITERESS",
+  "description": "<p><strong>Duties of Service Crew</strong></p><ul><li>Provide excellent customer service experience.</li><li>Maintain the stock service areas with supplies such as condiments and tableware’s</li><li>Assist in making hot and cold beverages</li><li>Assist in serving food and beverage to guest</li><li>Assist in Packing food orders in Kitchen for both dine in, online & takeaway orders</li><li>Assist in Taking Order</li><li>Assist in Seating guest</li><li>Assist in keeping the restaurant clean at all times</li><li>Assist in clearing tables , sweeping , mopping etc</li><li>Provide menu recommendations appropriately</li><li>Attend to customers’ needs promptly and professionally</li><li>Adhere to personal & food safety procedures</li><li>Maintain cleanliness and the hygiene of the restaurant</li><li>Perform any other duties assigned by Manager</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Retention",
+      "uuid": "05b317f98571a546ce517f9ce18d5467",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Listening Skills",
+      "uuid": "16931dc5e50bc2bb1aeba8de5bcc8bbf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Restaurants",
+      "uuid": "386c1f850fbd5f478fb4ef8a134c1740",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Approachable",
+      "uuid": "86d497587a59c7984e4c227b4737a2cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Oriented",
+      "uuid": "bbc6c65878bbeca807143d90dc1d1fca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51312",
+  "occupationId": "OCC009313",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202025124K",
+    "description": null,
+    "name": "KITCHEN TABLE PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T07:24:23.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025124K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025124K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025124K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202025124K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "82",
+    "street": "SERANGOON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "217987",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 8,
+        "location": "D08 Little India",
+        "region": "Central",
+        "sectors": [
+          "20",
+          "21"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30652632228724,
+    "lng": 103.85201734472
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158746",
+    "deletedAt": null,
+    "createdBy": "eaadd2c1-0813-48ae-a292-b118e3442ba2",
+    "createdAt": "2026-01-26T07:27:21.000Z",
+    "updatedAt": "2026-01-26T07:27:21.000Z",
+    "emailRecipient": "eaadd2c1-0813-48ae-a292-b118e3442ba2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 99,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/waiterwaiteress-kitchen-table-b2b045ae29ac769f0cae853bc9646c35",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b2b045ae29ac769f0cae853bc9646c35"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b2b045ae29ac769f0cae853bc9646c35/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

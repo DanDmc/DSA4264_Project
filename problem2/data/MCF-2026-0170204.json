@@ -1,0 +1,226 @@
+{
+  "uuid": "069f865f6678ea5a0d12dfd83eedf21e",
+  "sourceCode": "Employer Portal",
+  "title": "DRIVER (TRUCK)",
+  "description": "<p>Loading and unloading of material from the truck.</p><p>Perform daily routine checks and maintain the general cleanliness.</p><p>Conduct daily checks to ensure that the vehicle is in a good and safe condition.</p><p>Driving in a safe manner at all times and adhering to traffic rules & regulations stated in the Road Traffic.</p><p>Min 3 years of experience</p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "unloading orders",
+      "uuid": "0f6a1068f143f0468c2b3052eab38c2c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Truck Driving",
+      "uuid": "4565a76e4d029140266486cd2b3f5ab1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loading & unloading",
+      "uuid": "544d69ceb3202e4e7d7c27956e848f5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Safety",
+      "uuid": "6472ce41c26babff27b4c28028093d77",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Road Safety",
+      "uuid": "6ada517edfdf53c02352f705a1eff03d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Road",
+      "uuid": "d11aed2ff81f20a2e2b7e0cf06ee1a37",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Road Traffic",
+      "uuid": "d51e90b215081384d9c694584249e404",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53393511C",
+    "description": null,
+    "name": "VVV EMPLOYMENT AGENCY",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T13:22:58.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53393511C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202201220G",
+    "description": null,
+    "name": "JSV CONSTRUCTION PTE. LTD.",
+    "ssicCode": "43210",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T16:50:44.000Z",
+    "ssicCode2020": "43210",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202201220G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202201220G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202201220G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202201220G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "71",
+    "street": "TUAS VIEW PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "WESTLINK TWO",
+    "postalCode": "637434",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.29745191155471,
+    "lng": 103.632216435514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170204",
+    "deletedAt": null,
+    "createdBy": "c6425835-8977-4545-9a65-0fdc42c11750",
+    "createdAt": "2026-01-27T16:51:45.000Z",
+    "updatedAt": "2026-01-27T16:51:44.000Z",
+    "emailRecipient": "c6425835-8977-4545-9a65-0fdc42c11750",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 15,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/driver-jsv-construction-069f865f6678ea5a0d12dfd83eedf21e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 2700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/069f865f6678ea5a0d12dfd83eedf21e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/069f865f6678ea5a0d12dfd83eedf21e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

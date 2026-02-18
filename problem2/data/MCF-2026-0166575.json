@@ -1,0 +1,227 @@
+{
+  "uuid": "719393fe590d61d3f400713bb011bd02",
+  "sourceCode": "Employer Portal",
+  "title": "Python Developer (Ref 25710)",
+  "description": "<p>Responsibilities<br />• Design and develop reusable agentic AI workflows with LangGraph and LLMs<br />• Craft and refine clear, effective prompts for diverse tasks<br />• Understand Agent-to-Agent (A2A) design patterns<br />• Write clean, production-grade Python code with comprehensive pytest unit tests<br />• Use Git for version control and GitLab CI/CD to automate build, test, and deployment pipelines<br /><br />Requirements<br />• Bachelor's degree in computer science, information technology, or a related field<br />• Hands-on experience in agentic AI system design and orchestration<br />• Strong prompt engineering skills for LLM control and output reliability<br />• Proven ability to build and maintain LangGraph workflows and reusable components<br />• Solid understanding of A2A orchestration principles<br />• Proficiency in Python, including writing pytest unit tests<br />• Practical experience with Git and GitLab CI/CD in a team environment</p><p></p><p>Must have:</p><p>• Strong prompt engineering skills for LLM control and output reliability<br />• Proven ability to build and maintain LangGraph workflows and reusable components<br />• Proficiency in Python, including writing pytest unit tests<br />• Use Git for version control and GitLab CI/CD to automate build, test, and deployment pipelines</p><p><br />Good to have:<br />• Hands-on experience in agentic AI system design and orchestration<br />• Solid understanding of A2A orchestration principles<br /><br />Licence no: 12C6060</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AngularJS",
+      "uuid": "5129f9f4810757f6f0cf735675eb0541",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Flask",
+      "uuid": "9784e91c7b2657917226bc82afdd6789",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Django",
+      "uuid": "ef0f93c83e374876a61da0d4d16f36ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200307890N",
+    "description": "<p>\r\n\tJOBLINE RESOURCES PTE. LTD.</p>\r\n",
+    "name": "JOBLINE RESOURCES PTE. LTD.",
+    "ssicCode": "78101",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:34:52.000Z",
+    "ssicCode2020": "78101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166575",
+    "deletedAt": null,
+    "createdBy": "edbcc1ff-27e9-4990-bc4e-5321ef3a32af",
+    "createdAt": "2026-01-27T06:56:08.000Z",
+    "updatedAt": "2026-01-27T06:56:08.000Z",
+    "emailRecipient": "edbcc1ff-27e9-4990-bc4e-5321ef3a32af",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 56,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/python-developer-jobline-resources-719393fe590d61d3f400713bb011bd02",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/719393fe590d61d3f400713bb011bd02"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/719393fe590d61d3f400713bb011bd02/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

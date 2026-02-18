@@ -1,0 +1,204 @@
+{
+  "uuid": "2e2e00ecfc4b036d52cf2a837cc956bc",
+  "sourceCode": "Employer Portal",
+  "title": "FLOOR WALL TILER",
+  "description": "<p><strong>Responsibilities</strong></p>\n<ul>\n  <li>Cut tiles and shape them properly to ensure they fit around obstacles and in tight corners and odd spaces using power and hand tools</li>\n  <li>Form tile beds using concrete, plaster, mastic, cement, glue or mortar utilizing tools such as screeds, brushes and trowels</li>\n  <li>Align tiles and straighten them with straightedges, levels and squares to ensure patterns are even and precise</li>\n  <li>Cut, install, polish and surface granite and marble and ensure accuracy during the installation process for lasting results</li>\n  <li>Prepare various surfaces for tiling with waterproofing material or lath and by cleaning the surfaces properly</li>\n  <li>Create decorative wall and floor designs by laying and setting mosaic tiles in kitchens, bathrooms and living rooms</li>\n  <li>Tap tiles into place carefully using tools to properly adhere tiles to the base, making sure not to break or damage tiles</li>\n  <li>Follow blueprints precisely and mark and measure surfaces that need to be tiled to determine how to go about jobs</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n  <li>Min 2 Years relevant working experiences</li>\n  <li>Willingness to work in non-climate-controlled conditions (heat, cold, outdoors)</li>\n  <li>Ability to lift heavy materials and equipment</li>\n  <li>Carpentry and renovation experience a plus</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Building Construction Management",
+      "uuid": "1989dafeae90929de2187b76e52b848c",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Cement",
+      "uuid": "5cb91ac72b6016809690064a5e7e30e4",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Residential Building Construction",
+      "uuid": "6f92042991bdd72544f362d561eda469",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Waterproofing",
+      "uuid": "b398d126cf83089e8f32d01bc3952697",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "71220",
+  "occupationId": "OCC009923",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200801572G",
+    "description": null,
+    "name": "AR. GREAT WORLD PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T03:46:29.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801572G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801572G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801572G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801572G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1440134",
+    "deletedAt": "2025-10-07T17:15:05.000Z",
+    "createdBy": "3de1410a-2a88-442d-bac6-604f7852ee4d",
+    "createdAt": "2025-09-23T06:16:31.000Z",
+    "updatedAt": "2026-01-26T07:44:57.000Z",
+    "emailRecipient": "3de1410a-2a88-442d-bac6-604f7852ee4d",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 77,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-09-23",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/floor-wall-tiler-ar-great-world-2e2e00ecfc4b036d52cf2a837cc956bc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4300,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e2e00ecfc4b036d52cf2a837cc956bc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2e2e00ecfc4b036d52cf2a837cc956bc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

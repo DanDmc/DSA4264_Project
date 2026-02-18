@@ -1,0 +1,230 @@
+{
+  "uuid": "e95bbcbc7d512605e05254e668dc8606",
+  "sourceCode": "Employer Portal",
+  "title": "Electrician",
+  "description": "<h5><strong>- Installs, repairs, and maintains motors, lights, appliances, circuits, wiring, and other electrical system equipment and components in compliance with electrical codes, standards, and regulations.</strong></h5>\n<h5><br>\n- Operates a variety of electrical testing equipment in locating and determining types of electrical malfunctions.</h5>\n<h5><br>\n- Studies plans, drawings, specifications, and work orders to determine work requirement and sequence of repairs and/or installations.</h5>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Equipment",
+      "uuid": "1a99617414b6361adf9f6e8ab6156a2d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lighting",
+      "uuid": "2e4b97fde8cf63085ec969fcc7e490c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trunking",
+      "uuid": "3730f956ad40d2c9a02232d638526be4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wiring",
+      "uuid": "441b65c8a62ed7904574ee78c84b0963",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC",
+      "uuid": "7a7b6b49e8183cc144d9d1a8dc9df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cabling",
+      "uuid": "d223aabe6d0751ac7fb17d3493f3c6c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "74002",
+  "occupationId": "OCC060332",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "201333825N",
+    "description": "<p>Vision Display Pte Ltd was incorporated on 17 December 2013.</p>\n<p><br></p>\n<p>Vision Display is one of the all-in production houses in Singapore, with contracts all throughout South-East Asia.&nbsp;</p>\n<p><br></p>\n<p>We specialize in digital printing in any format and carpentry production as well as signage manufacturing. We have the expertise, manpower and the necessary infrastructure to carry out popup stores and events installation on-site and we offer digital printing, finishing, ready to use advertising solutions systems such as large-format print advertising (banners, mesh and posters), billboards, flags, banners, textile and many others.</p>",
+    "name": "VISION DISPLAY PTE. LTD.",
+    "ssicCode": "32901",
+    "employeeCount": null,
+    "companyUrl": "http://www.visiondisplay.com",
+    "lastSyncDate": "2026-01-30T06:21:57.000Z",
+    "ssicCode2020": "32901",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201333825N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201333825N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201333825N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201333825N/schemes"
+      }
+    },
+    "logoFileName": "e591479dd6e9b4517b2ac0f0a2d366c4/vision-display.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e591479dd6e9b4517b2ac0f0a2d366c4/vision-display.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "52",
+    "street": "UBI AVENUE 3",
+    "floor": null,
+    "unit": null,
+    "building": "FRONTIER",
+    "postalCode": "408867",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.3309746677403,
+    "lng": 103.895778124587
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188421",
+    "deletedAt": null,
+    "createdBy": "d46e7764-4625-413d-9806-47862709e967",
+    "createdAt": "2026-01-30T06:24:13.000Z",
+    "updatedAt": "2026-01-30T06:24:14.000Z",
+    "emailRecipient": "d46e7764-4625-413d-9806-47862709e967",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/electrician-vision-display-e95bbcbc7d512605e05254e668dc8606",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e95bbcbc7d512605e05254e668dc8606"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e95bbcbc7d512605e05254e668dc8606/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

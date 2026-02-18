@@ -1,0 +1,217 @@
+{
+  "uuid": "880018a468a02c787159c8f62ad5536d",
+  "sourceCode": "Employer Portal",
+  "title": "Accounts Executive",
+  "description": "<p><strong>Accounts Executive</strong></p>\n<p>Handle full sets of accounts and daily accounting operations</p>\n<ul>\n  <li>Prepare quotations, delivery orders, invoices, and project documentation</li>\n  <li>Process payments, staff claims and payroll</li>\n  <li>Filing of GST, CPF and other statutory submissions</li>\n  <li>Handle work pass applications, renewals, and cancellations</li>\n  <li>Support ad-hoc finance, admin, and marketing assignments as required</li>\n</ul>\n<p>Requirements</p>\n<ul>\n  <li>Diploma in Accountancy, Business or a related discipline</li>\n  <li>Minimum 2 years of relevant accounting experience</li>\n  <li>Proficiency in accounting software such as SQL, Xero, or QuickBooks</li>\n  <li>IT-savvy and comfortable working with digital platforms and systems</li>\n  <li>Strong communication, interpersonal, and client engagement skills</li>\n</ul>\n<p>What We Offer</p>\n<ul>\n  <li>Exposure to a wide range of industries and business functions</li>\n  <li>Flexible and friendly working environment</li>\n  <li>Growth and learning opportunities across accounting, compliance, and client service</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "QuickBooks",
+      "uuid": "8b9527ffb3d380369ae95af9525475ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Xero",
+      "uuid": "b4d48785c36047d95628c353e568040f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33131",
+  "occupationId": "OCC007285",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201804161Z",
+    "description": null,
+    "name": "ALINK ENGINEERING PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T01:23:06.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201804161Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1003",
+    "street": "BUKIT MERAH CENTRAL",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "159836",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.28362443009387,
+    "lng": 103.81350464348
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173380",
+    "deletedAt": null,
+    "createdBy": "4e85d40f-6a8a-4ee6-b608-ddfefda340b4",
+    "createdAt": "2026-01-28T04:18:37.000Z",
+    "updatedAt": "2026-01-28T04:18:37.000Z",
+    "emailRecipient": "4e85d40f-6a8a-4ee6-b608-ddfefda340b4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 330,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 31,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-executive-alink-engineering-880018a468a02c787159c8f62ad5536d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/880018a468a02c787159c8f62ad5536d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/880018a468a02c787159c8f62ad5536d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

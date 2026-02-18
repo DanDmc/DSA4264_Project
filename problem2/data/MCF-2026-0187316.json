@@ -1,0 +1,235 @@
+{
+  "uuid": "92950e1cd99f409c4f33aa26a4c6f005",
+  "sourceCode": "Employer Portal",
+  "title": "Robotics Integration Engineer",
+  "description": "<p><strong>Job Title - Robotics Integration Engineer</strong><a href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\"><strong></strong></a></p><p><strong>Location - Singapore</strong></p><p><strong>Start Date – ASAP</strong></p><p><strong>Contract - 1 year extendable</strong><br /></p><p><strong>Job Description\n</strong></p><p>Develop and support interfaces for robotic arms and gantry robots on\nthe production floor (e.g. robots handling drive components or transferring units between stations). Integrate these robots with MES and other control systems such that robotic actions (pick, place, assemble, etc.) are triggered by software commands and reported to systems in real time. Work with PLC/SCADA systems that control conveyors, sorters, turn tables, shuttles, and other auxiliary devices;\nimplement middleware or IoT gateways to bridge PLC signals with the factory IT layer. For example, ensure that when a robot places a unit on a conveyor, the PLC detects it and the MES is immediately updated with the unit’s location.</p><p><strong>Must Have Skills</strong><br /><br />Experience integrating industrial robotic arms into automated production lines, including using vendor APIs or standards (OPC UA, ROS-I) to command and monitor robots. Solid\nunderstanding of PLC/SCADA systems and how to interface with them –able to interpret and utilize signals from PLCs to synchronize robot actions with conveyors or other equipment. Strong programming skills (C# or Java preferred) for writing middleware that coordinates between robots, PLCs, and higher-level IT systems.</p><p><strong>Good to Have Skills:</strong> <br />Hands-on knowledge of PLC programming or configuration, which aids in troubleshooting and fine-tuning the interface between IT and control systems. Familiarity with robot motion programming and error handling, enabling quicker diagnosis of robot faults or misalignments. Understanding safety standards and interlocks for robotic cells (to ensure the software integration upholds all required\nsafety stops and guard checks).</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "MES",
+      "uuid": "002543019e5829c50ebe806b75cd746d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MASSIVE",
+      "uuid": "12581d71fc6464a3ca38f34bdc1045ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Services",
+      "uuid": "2c10282d2a9ce8be1576d7af8091d09e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process Integration",
+      "uuid": "4eb6f0831043695a15ef123c984d0163",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Integration",
+      "uuid": "6d8ab8489413756b1af6bdab6b80863e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC",
+      "uuid": "7a7b6b49e8183cc144d9d1a8dc9df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Characterization",
+      "uuid": "9e5f445ebf003c759747d85d953c4b28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation",
+      "uuid": "caea8340e2d186a540518d08602aa065",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bridge",
+      "uuid": "de8504b73ea228d0ea9bbce69752092e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC Programming",
+      "uuid": "e130c9f05104588fb5a31a16a62fa288",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21413",
+  "occupationId": "OCC061838",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "202015534D",
+    "description": "<p>We are a team of young professionals with an entrepreneurial mindset come together to redefine the talent that accelerate innovation, growth, and sustainability of the business.</p>\n<p><br></p>\n<p>We live in a world of complexity and uncertainty, whether its economy or business. And its technology that drives constant change. A business needs the right people, working collaboratively and effectively and that’s where we come in.</p>\n<p><br></p>\n<p>Exa- is a new brand that is locally breaded with an international exposure. We bring in a strong persuasion, collaborating with the expertise and network of professionals across IT.</p>\n<p><br></p>\n<p>We value and believe in our team, and we start with understanding a candidate’s ambitions. Aspiring ahead with them by - coaching, guiding, investing in their training, and upskilling throughout their career.</p>",
+    "name": "EXASOFT PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": 60,
+    "companyUrl": "www.exasoftglobal.com",
+    "lastSyncDate": "2026-02-04T02:37:00.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202015534D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202015534D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202015534D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202015534D/schemes"
+      }
+    },
+    "logoFileName": "085c117b62ae3334bc328f3288cd71c6/exasoft.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/085c117b62ae3334bc328f3288cd71c6/exasoft.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187316",
+    "deletedAt": null,
+    "createdBy": "233c9fa6-aae4-455c-8c51-d4053804200e",
+    "createdAt": "2026-01-30T03:36:33.000Z",
+    "updatedAt": "2026-01-30T03:36:33.000Z",
+    "emailRecipient": "233c9fa6-aae4-455c-8c51-d4053804200e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/robotics-integration-engineer-exasoft-92950e1cd99f409c4f33aa26a4c6f005",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/92950e1cd99f409c4f33aa26a4c6f005"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/92950e1cd99f409c4f33aa26a4c6f005/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

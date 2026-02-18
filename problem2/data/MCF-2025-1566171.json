@@ -1,0 +1,199 @@
+{
+  "uuid": "9b5d1a77b9563a3efc46dbc273349bbd",
+  "sourceCode": "Employer Portal",
+  "title": "Project Engineer",
+  "description": "<ul>\n  <li><strong>Coordination and Supervision: </strong>Overseeing and coordinating Construction, Architectural, M&amp;E and ACMV works with other site activities, ensuring smooth workflow and minimizing delays.</li>\n  <li><strong>Technical Expertise: </strong>Interpreting technical designs and drawings, providing technical advice, and resolving technical issues on site.</li>\n  <li><strong>Quality Control: </strong>Monitoring the quality of project works, ensuring adherence to project specifications and standards.</li>\n  <li><strong>Safety Management: </strong>Ensuring that all site activities are conducted safely, implementing and enforcing safety procedures.</li>\n  <li><strong>Documentation and Reporting: </strong>Preparing progress reports, method statements, risk assessments, and other relevant documentation.</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Ventilation",
+      "uuid": "483b08f05ae0c848610675fad601df4b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Planning",
+      "uuid": "7a51b3c516f387f33de6b28cc0627b18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21422",
+  "occupationId": "OCC059782",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1151",
+  "postedCompany": {
+    "uen": "200608620D",
+    "description": "<p>\r\n\tHY BUILDING &amp; MAINTENANCE SERVICES PTE. LTD. is a Singapore based company. We are experts in Air-conditioning Mechanical Ventilation Works, General Building Works, Renovation Works, Cleanroom Technology&nbsp;and Laboratory Works. Established in 2006, the company has rapidly grown&nbsp;in the industry&nbsp;and is currently expanding to support its increasing number of clientele and business services. We employ qualified engineers, building works specialists, and competent project and administrative support staffs, to form a solid team of highly-skilled work force. Welcome to join us!</p>\r\n",
+    "name": "HY BUILDING & MAINTENANCE SERVICES PTE. LTD.",
+    "ssicCode": "71121",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T09:15:26.000Z",
+    "ssicCode2020": "71121",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608620D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608620D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608620D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608620D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1566171",
+    "deletedAt": "2025-10-28T17:15:05.000Z",
+    "createdBy": "37056389-dcc5-4916-a3e9-5bf8cb77ea1d",
+    "createdAt": "2025-10-14T10:34:28.000Z",
+    "updatedAt": "2026-01-29T09:22:34.000Z",
+    "emailRecipient": "3716f0b9-fb28-4e7e-841b-6f9fc209ad8d",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 98,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-10-14",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-hy-building-maintenance-services-9b5d1a77b9563a3efc46dbc273349bbd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4900,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b5d1a77b9563a3efc46dbc273349bbd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9b5d1a77b9563a3efc46dbc273349bbd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

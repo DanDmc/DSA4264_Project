@@ -1,0 +1,193 @@
+{
+  "uuid": "e3fbbc9e66152d255a58d5a66cfe3610",
+  "sourceCode": "Employer Portal",
+  "title": "F&B MANAGER",
+  "description": "<p>Job Description:</p><p>As the <strong>F&B Shift</strong> Operations Manager, you will be required to comes in <strong>three shifts</strong> and <strong>6 days a week,</strong> responsible for overseeing all food and beverage operations during the shifts.</p><p>Your primary objective will be to ensure smooth and efficient operations <strong>in shifts </strong>while maintaining high standards of service quality and guest satisfaction. This role requires strong leadership skills, exceptional attention to detail, and the ability to thrive in a fast-paced environment.</p><p>Key Responsibilities:</p><ol><li>Supervise and coordinate the <strong>shift F&B operations</strong>, including dining areas, bars, and room service.</li><li>Manage a team of staff, including servers, bartenders, kitchen staff, and support      personnel.</li><li>Ensure adherence to company policies, procedures, and hygiene standards at all      times.</li><li>Monitor inventory levels and oversee ordering and restocking of F&B supplies as needed.</li><li>Conduct regular inspections to maintain cleanliness, safety, and organization in all F&B areas.</li><li>Train and develop staff to deliver exceptional service and uphold brand      standards.</li><li>Prepare and analyze reports on night shift performance, including sales, costs,      and customer feedback.</li></ol><p>Qualifications:</p><ul><li>Bachelor's degree/ Diploma  in Hospitality Management,</li><li>Proven experience in F&B management, with at least 10 years in managerial role.</li><li>Strong leadership abilities and excellent communication skills.</li><li>Ability to work effectively under pressure and make sound decisions in high-stress      situations.</li><li>Knowledge of food and beverage service techniques, menu planning, and cost control.</li><li>Familiarity with point-of-sale (POS) systems and other relevant hospitality software.</li><li>Flexibility to work nights, weekends, and holidays as required.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Excellent Communication Skills",
+      "uuid": "0720b6afb8ec48831c9b1b6b847d03e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality Management",
+      "uuid": "775959d93721b3be411f88e6f2666cac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "14123",
+  "occupationId": "OCC060568",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0516",
+  "postedCompany": {
+    "uen": "202335986N",
+    "description": null,
+    "name": "THE HAPPY TWIG PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T05:23:30.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202335986N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202335986N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202335986N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202335986N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180965",
+    "deletedAt": null,
+    "createdBy": "78d89527-f505-4ad5-82a1-98319b5ccef4",
+    "createdAt": "2026-01-29T05:35:58.000Z",
+    "updatedAt": "2026-01-29T05:35:59.000Z",
+    "emailRecipient": "78d89527-f505-4ad5-82a1-98319b5ccef4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 107,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 16,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/hospitality/fb-manager-happy-twig-e3fbbc9e66152d255a58d5a66cfe3610",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10600,
+    "minimum": 5400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e3fbbc9e66152d255a58d5a66cfe3610"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e3fbbc9e66152d255a58d5a66cfe3610/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

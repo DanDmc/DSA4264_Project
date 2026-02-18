@@ -1,0 +1,254 @@
+{
+  "uuid": "92adeb66a69362fb897fddb6e91168ec",
+  "sourceCode": "Employer Portal",
+  "title": "CARPENTER",
+  "description": "<ul><li><strong>Hands-on experience in working with carpentry materials.</strong></li><li><strong>Construct, repair and install wooden frameworks and structures from indoors to outdoors on many projects, including installing kitchen cabinets or others.</strong></li><li><strong>Ability to read technical documents and drawings.</strong></li><li><strong>Taking measurements and calculating the size and amount of material needed.</strong></li><li><strong>Cutting, shaping and smoothing lumber and other material (e.g. fiberglass) according to measurements to cut, fabricate and install wooden and other structures according to specifications.</strong></li><li><strong>Excellent understanding of carpentry techniques and methods of installation and construction.</strong></li><li><strong>Proficient in using electrical and manual equipment and measurement tools (powered saws, hammers, rulers etc.)</strong></li><li><strong>Ability to read technical documents and drawings.</strong></li><li><strong>Willingness to follow safety guidelines at all times.</strong></li><li><strong>Willing to work late when required.</strong></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Woodworking",
+      "uuid": "7a74ac23c4bd8b809fe9ac43fb001da2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fiberglass",
+      "uuid": "92b61f066a2a1778133a8fc54517b8b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71151",
+  "occupationId": "OCC014796",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202040948K",
+    "description": "<p><em>Founded 2021 in Singapore, i-LINK is a multi-Talent Acquisition and the HR outsourcing partner-of-choice for local conglomerates and multinational corporations within the Asia Pacific region.</em></p>\n<p><em>We believe that employee always the key to SUCCESS “Clients Do Not Come First, Employees Come First. If You Take Care Of Your Employees, They Will Take Care Of The Clients”. </em>Link the right Job to the right Person</p>",
+    "name": "I-LINK MANPOWER CONSULTANCY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 5,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T09:02:16.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202040948K/schemes"
+      }
+    },
+    "logoFileName": "4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4765e72f08f3fea7a82780b03ef7f6b3/i-link-manpower-consultancy.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "199206601G",
+    "description": null,
+    "name": "AVON EXHIBITION & INTERIOR PTE LTD",
+    "ssicCode": "31001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T07:08:49.000Z",
+    "ssicCode2020": "31001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206601G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206601G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206601G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199206601G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174783",
+    "deletedAt": null,
+    "createdBy": "dd2233f6-9e28-441d-9e26-07f1b5a4a079",
+    "createdAt": "2026-01-28T07:11:12.000Z",
+    "updatedAt": "2026-01-28T07:11:12.000Z",
+    "emailRecipient": "dd2233f6-9e28-441d-9e26-07f1b5a4a079",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 25,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/carpenter-avon-exhibition-interior-92adeb66a69362fb897fddb6e91168ec",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/92adeb66a69362fb897fddb6e91168ec"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/92adeb66a69362fb897fddb6e91168ec/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

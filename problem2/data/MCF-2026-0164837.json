@@ -1,0 +1,216 @@
+{
+  "uuid": "25ee437c04b138ff62fdd2e1d6abd17b",
+  "sourceCode": "Employer Portal",
+  "title": "SENIOR MECHANICAL ENGINEER (AUTOMATION)",
+  "description": "<p>Job Description & Requirements</p><p>We are seeking a talented and detail-oriented <strong>Senior Mechanical Design Engineer</strong> to join our automation engineering team. In this role, you will be responsible for designing, developing, and refining mechanical systems for automated machinery and robotic solutions used in industry, Manufacturing, packaging, electronics, etc. You will work closely with electrical engineers, software developers, and project managers to deliver high-performance automation systems that meet rigorous standards for safety, efficiency, and reliability.</p><p><strong>Key Responsibilities:</strong></p><ul><li>Design and develop mechanical components and systems for automated machinery and robotic platforms.</li><li>Create detailed 3D CAD models, drawings, and specifications using software such as AutoCAD, or Inventor.</li><li>Select appropriate materials, actuators, and motion components based on design requirements.</li><li>Collaborate with cross-functional teams to ensure integration of mechanical designs with electrical and control systems.</li><li>Support prototype development and lead mechanical assembly and system testing.</li><li>Troubleshoot mechanical issues in both the design and post-deployment phases.</li><li>Document design processes, changes, and test results according to company and industry standards.</li></ul><p><strong>Qualifications:</strong></p><ul><li>Bachelor’s degree in Mechanical Engineering or related field.</li><li>5+ years of experience in mechanical design, preferably in automation, robotics, or machinery.</li><li>Proficiency in 3D CAD software (e.g., AutoCAD, Inventor).</li><li>Familiarity with pneumatic and servo systems, bearings, linear guides, and other motion components.</li><li>Strong problem-solving skills and attention to detail.</li><li>Excellent communication and teamwork skills.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Mechanical Assembly",
+      "uuid": "1c19598c7fae48ec68188a77d9dd6d83",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Integration",
+      "uuid": "626344660999389da9c6589588184206",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamwork Skills",
+      "uuid": "dd8044ab01cd40ff3740a90a88590ff3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CAD",
+      "uuid": "eccb0954fca9f2005aea084605df5ee9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21441",
+  "occupationId": "OCC002872",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 20,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1151",
+  "postedCompany": {
+    "uen": "201918111D",
+    "description": null,
+    "name": "MATRIX AUTOMATION SOLUTIONS PTE. LTD.",
+    "ssicCode": "28169",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T01:27:44.000Z",
+    "ssicCode2020": "28169",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201918111D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201918111D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201918111D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201918111D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "BULIM LANE 2",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "648111",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164837",
+    "deletedAt": null,
+    "createdBy": "c665232d-0a08-498b-af5b-fa4686077cef",
+    "createdAt": "2026-01-27T03:29:29.000Z",
+    "updatedAt": "2026-01-27T03:29:29.000Z",
+    "emailRecipient": "c665232d-0a08-498b-af5b-fa4686077cef",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 112,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/senior-mechanical-engineer-matrix-automation-solutions-25ee437c04b138ff62fdd2e1d6abd17b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/25ee437c04b138ff62fdd2e1d6abd17b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/25ee437c04b138ff62fdd2e1d6abd17b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

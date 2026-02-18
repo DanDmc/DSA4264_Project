@@ -1,0 +1,202 @@
+{
+  "uuid": "bdea9ea1b0f0c952e066445235d1e9c7",
+  "sourceCode": "Employer Portal",
+  "title": "IT Superintendent",
+  "description": "<p><u><strong>Job Responsibilities</strong></u></p><ul><li>To liaise with the different ICT internal and external providers/vendors for the technical management/support</li><li>Proactively attending to resolve vessel’s IT operational issues, as well as contributing and sharing your technical expertise on broader vessel IT projects</li><li>Ensuring that vessel IT equipment and services and satellite communications are stable and available in accordance with business continuity.</li><li>Providing IT support and quality of service to all vessels</li><li>With the guidance of the Fleet IT Manager, overseeing the completion of thorough assessments of in-scope systems, applications, and processes to establish cybersecurity risks and control gaps</li><li>Proactive and open communication with the Fleet IT Manager in the implementation of updated cybersecurity methods and policies</li><li>Installing, testing, maintaining, and providing support for all on-board hardware and applications</li><li>Building and maintaining the databases for the fleet, ensuring that all relevant documentation and system logs are updated and remain current in content</li></ul><p><u><strong>Job Requirement</strong></u></p><ul><li>Diploma in Computer Science/Engineering, Electrical or Electronics and Communication Engineering or equivalent</li><li>Networking skills and working knowledge with firewall and managed switch configuration.</li><li>Experience in Windows Server Administration, VMWARE and Virtualization implementation.</li><li>Logical thinker with a strong analytical background and good attention to detail while having strong focus on delivering quality and meeting deadlines</li><li>Excellent problem-solving skills together with the ability to support decisions with sound reasoning and judgment.</li><li>Clear, precise, and confident in verbal and written communication to support credibility and position of expertise</li><li>Flexibility to work prolonged hours and travel as necessary.</li><li>Practical experience and working knowledge of vessel IT application management, database management, Cybersecurity practices, incident management, and (VSAT. L-Band, LEO) satellite communication equipment will be an advantage but not necessary</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "ICT",
+      "uuid": "395b46c50c2eeeefbc2180c8630df2d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Continuity",
+      "uuid": "3c2615f951be2a520d1b872deaa1da54",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Formulation",
+      "uuid": "6489e0ed556fe68ae8aced9c28a59062",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Development",
+      "uuid": "663f93a6ed00b6afb96f8a004928a1ac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Piping",
+      "uuid": "96d312760756ae17426f3ff9f9731dd1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Employee Relations",
+      "uuid": "df9fec21f43c469540c70b03af7bf453",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35123",
+  "occupationId": "OCC005420",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202203651G",
+    "description": "<p>K MARINE SHIP MANAGEMENT PTE. LTD. has been established in Singapore, and the management of oil tankers, LPG carriers and LNG carriers will be transferred from “K” Line Energy Ship Management Co., Ltd. by the end of 2022.</p>\n<p>In addition, as one of the global bases that support the activities in Asia area of our business divisions from the forefront, we will accelerate efforts to decarbonize and introduce DX technology.</p>\n<p><br></p>\n<p>Find us here:</p>\n<p>https://kmsm.kline.com.sg/</p>\n<p><br></p>\n<p>Our company is a wholly owned subsidiary of Kawasaki Kisen Kaisha, Ltd, which is one of the most reputable and established Japanese shipping company having been established since 1919.</p>\n<p>Kawasaki Kisen Kaisha Ltd is also one of the biggest shipping groups in the world with interests in many shipping related businesses.</p>\n<p><br></p>\n<p>You can get to know more about the group here :</p>\n<p><br></p>\n<p>https://www.kline.co.jp/en/index.html</p>",
+    "name": "K MARINE SHIP MANAGEMENT PTE. LTD.",
+    "ssicCode": "52226",
+    "employeeCount": null,
+    "companyUrl": "https://kmsm.kline.com.sg/",
+    "lastSyncDate": "2026-02-03T06:43:29.000Z",
+    "ssicCode2020": "52226",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202203651G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202203651G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202203651G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202203651G/schemes"
+      }
+    },
+    "logoFileName": "17baab8bca3f914566c99c758f107f8e/k-marine-ship-management.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/17baab8bca3f914566c99c758f107f8e/k-marine-ship-management.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "79",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "079906",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27409809312519,
+    "lng": 103.845669233735
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166252",
+    "deletedAt": null,
+    "createdBy": "10e50145-53d8-4ace-bfaa-388f335f50f9",
+    "createdAt": "2026-01-27T06:23:19.000Z",
+    "updatedAt": "2026-01-27T07:28:30.000Z",
+    "emailRecipient": "10e50145-53d8-4ace-bfaa-388f335f50f9",
+    "editCount": 2,
+    "repostCount": 0,
+    "totalNumberOfView": 109,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/superintendent-k-marine-ship-management-bdea9ea1b0f0c952e066445235d1e9c7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bdea9ea1b0f0c952e066445235d1e9c7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bdea9ea1b0f0c952e066445235d1e9c7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

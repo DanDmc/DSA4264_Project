@@ -1,0 +1,193 @@
+{
+  "uuid": "15f5fbedf9a84e3782ecbcca252fcd2b",
+  "sourceCode": "Employer Portal",
+  "title": "Tipper Truck Driver(Class 4)",
+  "description": "<p>Job Description & Requirements</p><p>* At least 3 years class 4 driving experience (Tipper Truck)<br />* Safe Driving Record<br />* Familiar with Singapore Road<br />* Salary based on trip commission basis<br />* Good interpersonal skills, hardworking and positive attitude<br />* Able to do night shift/Sunday work depending on project</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Good Driving Record",
+      "uuid": "00d2d4682295ed322013795f93bc5943",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Truck Driving",
+      "uuid": "4565a76e4d029140266486cd2b3f5ab1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Road Safety",
+      "uuid": "6ada517edfdf53c02352f705a1eff03d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soil",
+      "uuid": "e4b9dca2448724ca25e388a0317a09c8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013111",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199407828C",
+    "description": "<p>AIK SUN DEMOLITION &amp; ENGINEERING PTE. LTD.&nbsp;</p>\n<p>Our company was incorporate in 1994, having its registered office at No.16 Gul Drive , Singapore 629467</p>\n<p><br></p>\n<p>We are established over 30 years providing complete solutions for asbestos removal, building demolitions, salvage, excavations and supply of recycled aggregares(RCA) and fines.</p>",
+    "name": "AIK SUN DEMOLITION & ENGINEERING PTE LTD",
+    "ssicCode": "43110",
+    "employeeCount": 150,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T08:45:46.000Z",
+    "ssicCode2020": "43110",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199407828C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199407828C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199407828C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199407828C/schemes"
+      }
+    },
+    "logoFileName": "c6bfc2804c0f5a10b3868aa9799321cb/aik-sun-demolition-engineering.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/c6bfc2804c0f5a10b3868aa9799321cb/aik-sun-demolition-engineering.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1902940",
+    "deletedAt": "2025-12-25T17:15:04.000Z",
+    "createdBy": "cdad6ca9-6903-43af-887a-d9d77c049003",
+    "createdAt": "2025-12-11T07:31:46.000Z",
+    "updatedAt": "2026-01-30T08:46:21.000Z",
+    "emailRecipient": "82f93416-ef8f-48cd-98b4-de01b44b2055",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 139,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-12-11",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/tipper-truck-driver-aik-sun-demolition-engineering-15f5fbedf9a84e3782ecbcca252fcd2b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15f5fbedf9a84e3782ecbcca252fcd2b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/15f5fbedf9a84e3782ecbcca252fcd2b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

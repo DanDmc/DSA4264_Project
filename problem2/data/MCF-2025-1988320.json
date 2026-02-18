@@ -1,0 +1,215 @@
+{
+  "uuid": "a0eb63ef7a626f75f4e1d3c212267949",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Enrolled Nurse",
+  "description": "<p><u>Clinical Care</u></p>\n<p>a. Assists the registered nurses in the delivery of nursing care to the residents in the Home.</p>\n<p>b. Assists the registered nurse in the supervision of nursing aides and health attendants</p>\n<p>c. Perform all nursing procedures which include administration of medications, wound dressing and meal feeding.</p>\n<p>d. Ensures the comfort and good personal hygiene of the residents under her/his care, e.g. bed bath/shower bath, changing of clothes and bed sheets and tidiness of the room.</p>\n<p>e. Identify symptoms of residents that are related to illnesses and/or decline in functional and cognitive abilities and advocate early medical attention.</p>\n<p><u>Training and Development</u></p>\n<p>f. Mentor and guide nursing aides and healthcare attendants in performing their functional duties.</p>\n<p>g. Attend upgrading programs to keep abreast with clinical knowledge and to develop work-required skills.</p>\n<p><u>Administration</u></p>\n<p>h. Educate family members of residents on their health conditions and help them gain understanding on the holistic care provided.</p>\n<p>i. Ensure all documentation of residents’ case is maintained appropriately.</p>\n<p><u>Ad-hoc Duties</u></p>\n<p>· Any other tasks assigned by Nurse Manager/Assistant Director of Nursing from time to time.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Clinical",
+      "uuid": "1dacaab7b39000a21eb7f24eeb44fb7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "nursing procedures",
+      "uuid": "25cea4999411d75c0df82c507d9dedf3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration of medication",
+      "uuid": "62bbe5c7cbe20609b9e06ccb3c632c89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supervision",
+      "uuid": "85068ddf0b9bcbb6913008356fe328a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Management",
+      "uuid": "8c47270ffc91e687a4bb8377ef8fb32d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geriatric Nursing",
+      "uuid": "9ed4effd1c00dced9d5d8b006eacc2c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Learning and Development",
+      "uuid": "a52202dfb23d5fbf9087e3e7debfee1c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft C",
+      "uuid": "c68f0f3b1419737ea09e97d045bba5d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "personal hygiene",
+      "uuid": "cf293036365329dd22891c2ec04f4957",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Documentation",
+      "uuid": "d42f061092dfe12ee291bde1dc82a361",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nursing Care",
+      "uuid": "dfe9a5014f4387967da54a6e80631e69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Emergency Nursing",
+      "uuid": "ff29813e15904fc48c566a9a6c5daaff",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "32200",
+  "occupationId": "OCC006680",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "0841",
+  "postedCompany": {
+    "uen": "29698200L",
+    "description": "<div>   Lee Ah Mooi Old Age Home was established in the mid 1960s by the late Madam Lee Ah Mooi. The Home is a Geriatric nursing home that is dedicated to provide high quality healthcare services to 110 aged residents.</div>  ",
+    "name": "LEE AH MOOI OLD AGE HOME",
+    "ssicCode": "87021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:01:32.000Z",
+    "ssicCode2020": "87021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/29698200L/schemes"
+      }
+    },
+    "logoFileName": "95715efe5fd707edb1b50a361d4d50bd/lee-ah-mooi-old-age-home.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/95715efe5fd707edb1b50a361d4d50bd/lee-ah-mooi-old-age-home.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "THOMSON LANE",
+    "floor": null,
+    "unit": null,
+    "building": "LEE AH MOI OLD AGE HOME",
+    "postalCode": "297728",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 11,
+        "location": "D11 Novena, Thomson, Watten Estate",
+        "region": "Central",
+        "sectors": [
+          "28",
+          "29",
+          "30"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33075696892324,
+    "lng": 103.840146564333
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1988320",
+    "deletedAt": "2026-01-28T17:15:04.000Z",
+    "createdBy": "d1e58dc3-a489-4304-a91f-c7dfd7e4a251",
+    "createdAt": "2025-12-29T00:18:58.000Z",
+    "updatedAt": "2026-01-29T00:26:27.000Z",
+    "emailRecipient": "d1e58dc3-a489-4304-a91f-c7dfd7e4a251",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 117,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/senior-enrolled-nurse-lee-ah-mooi-old-age-home-a0eb63ef7a626f75f4e1d3c212267949",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2800,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a0eb63ef7a626f75f4e1d3c212267949"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a0eb63ef7a626f75f4e1d3c212267949/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

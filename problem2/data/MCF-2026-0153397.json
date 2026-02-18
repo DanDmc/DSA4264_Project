@@ -1,0 +1,193 @@
+{
+  "uuid": "5e61c5e122e2e382551f8e00332fb31a",
+  "sourceCode": "Employer Portal",
+  "title": "TCM Physician/Therapist Trainer",
+  "description": "<p><strong>Job Description:</strong></p>\n<p>We are seeking an experienced and dynamic Trainer. The ideal candidate should possess a solid foundation in TCM principles, coupled with expertise in delivering effective training programs for healthcare professionals. As a TCM Physician/Therapist Trainer, you will be instrumental in enhancing the clinical and therapeutic skills of practitioners through targeted training initiatives.</p>\n<p><strong>Job Responsibilities:</strong></p>\n<p>- Develop, design, and implement specialized training programs for TCM physicians and therapists.</p>\n<p>- Create engaging and interactive training materials tailored to the specific needs of the participants.</p>\n<p>- Integrate hands-on exercises and case studies to enhance real-world application.</p>\n<p>- Innovate and update training curriculum to align with industry best practices.</p>\n<p>- Implement quality assurance measures to assess the effectiveness of training programs.</p>\n<p><strong>Job Requirements:</strong></p>\n<p>- Preferably Bachelor's Degree in TCM or equivalent related qualification.</p>\n<p>- Additional certifications or qualifications related to training and education are a plus.</p>\n<p>- Proven experience in designing and delivering effective training programs.</p>\n<p>- Strong verbal and written communication skills.</p>\n<p>- Flexible approach to training methodologies, accommodating different learning styles.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Quality Patient Care",
+      "uuid": "06143f55078a153a4c41b6e32c38e6ad",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physical Therapy",
+      "uuid": "2f39df6478254879ba07bdfe97b8a503",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sports Medicine",
+      "uuid": "9b457e000f408fcb22ecd268eda6d2ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Case Management",
+      "uuid": "d799928eb48a88cb861f3283005d227a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rehabilitation",
+      "uuid": "e765619294e2183b066875df4954d66e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24240",
+  "occupationId": "OCC007628",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0860",
+  "postedCompany": {
+    "uen": "200511023H",
+    "description": "REFRESH GROUP PTE. LTD.\r\nf.k.a THE SPA AND WELLNESS ACADEMY PTE. LTD.  ",
+    "name": "REFRESH GROUP PTE. LTD.",
+    "ssicCode": "86202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:25:17.000Z",
+    "ssicCode2020": "86202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200511023H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153397",
+    "deletedAt": null,
+    "createdBy": "b08e22a4-dcb1-432b-a544-a3edeb47991f",
+    "createdAt": "2026-01-25T12:04:09.000Z",
+    "updatedAt": "2026-01-25T12:04:10.000Z",
+    "emailRecipient": "b08e22a4-dcb1-432b-a544-a3edeb47991f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 32,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/tcm-physiciantherapist-trainer-refresh-group-5e61c5e122e2e382551f8e00332fb31a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5e61c5e122e2e382551f8e00332fb31a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5e61c5e122e2e382551f8e00332fb31a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

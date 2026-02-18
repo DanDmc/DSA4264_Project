@@ -1,0 +1,229 @@
+{
+  "uuid": "3ff2fd7130e00ba3e6ab7dc69c83a7cc",
+  "sourceCode": "Employer Portal",
+  "title": "Lorry Crane Driver",
+  "description": "<p>Job Description & Requirements</p><ul><li>Able to drive and operate Lorry.</li><li>Pruning the Trees.</li><li>Follow instructions; locate and read location and road maps.</li><li>Responsible for basic vehicle maintenance; comply with all safe work practices, policies, and processes always.</li><li>Complete and verify paperwork for accuracy</li><li>Previous experience will be an advantage.</li></ul><p><strong>Requirements:</strong></p><ul><li>Must have driving license & a clean driving record.</li><li>Must know traffic laws & driving knowledge</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drilling",
+      "uuid": "1f96b045595ca263909861c15babe062",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Water",
+      "uuid": "27634ff8002b12e75d98e07ccd005d18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TMAP",
+      "uuid": "30c953009b13429794f4ff99236b7b6a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MetaL",
+      "uuid": "419bd9e4cc7e565e014ebc5877fbadf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drums",
+      "uuid": "9115b9fbbb1f11df6600c6388177c648",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "uuid": "d3a907234e76f86ba22b9551df82fd49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Road Traffic",
+      "uuid": "d51e90b215081384d9c694584249e404",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pumps",
+      "uuid": "d9557d324803f584a67619d304dc14b3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Air Compressors",
+      "uuid": "db34f1b1138585acf0c418f45c0e5610",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201821822H",
+    "description": "<p>Greenspade was founded in 2016 and is a startup comprising a small group of dynamic young people who love nature. Greenspade advocates green living in Singapore through promoting sustainable food waste initiatives, urban gardening practices and farming activities. We wish to bring nature a step closer to urbanised Singapore to make urban living sustainable, clean and green.<br>\n<br>\nGreenspade aims to provide an online platform that offers a slew of organic fertilisers, soil and gardening products. Greenspade also provides landscaping installation/maintenance services such as tree transplanting and irrigation. Greenspade is a one-stop, easy-access platform for all green living supporters and nature lovers. Through this, we hope to make gardening easy and a joy to everyone.<br>\n<br>\nIf you wish to find out more about our products and services, please get in touch with us at enquiry@greenspade.sg or call +65 8869-8827.</p>",
+    "name": "GREENSPADE GLOBAL PTE. LTD.",
+    "ssicCode": "20120",
+    "employeeCount": null,
+    "companyUrl": "www.greenspade.sg",
+    "lastSyncDate": "2026-01-30T09:55:01.000Z",
+    "ssicCode2020": "20120",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201821822H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201821822H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201821822H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201821822H/schemes"
+      }
+    },
+    "logoFileName": "b30784709b37c22e7b36f12bea00552c/greenspade-global.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/b30784709b37c22e7b36f12bea00552c/greenspade-global.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191136",
+    "deletedAt": null,
+    "createdBy": "e0554dbc-6b13-469a-b832-1afc695ce061",
+    "createdAt": "2026-01-30T09:55:35.000Z",
+    "updatedAt": "2026-01-30T09:55:35.000Z",
+    "emailRecipient": "e0554dbc-6b13-469a-b832-1afc695ce061",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 38,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/professional-services/lorry-crane-driver-greenspade-global-3ff2fd7130e00ba3e6ab7dc69c83a7cc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3ff2fd7130e00ba3e6ab7dc69c83a7cc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3ff2fd7130e00ba3e6ab7dc69c83a7cc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

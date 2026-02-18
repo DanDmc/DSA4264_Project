@@ -1,0 +1,214 @@
+{
+  "uuid": "d209132442726a3ec2daa8b29737c569",
+  "sourceCode": "Employer Portal",
+  "title": "Legal Executive",
+  "description": "<p>1.                LVM  Law Chambers LLC is a boutique legal firm which specialises in dispute resolution. We are led by an eminent Senior Counsel, Lok Vi Ming S.C. Our team is young, dynamic, and collegiate.<br /></p><p>2.              We are looking for a Legal Executive to join our growing team. As a Legal Executive, you will be working with all our practice groups, to support our lawyers in day-to-day legal work. The role involves handling legal\n  documentation, case management, and liaising with clients and external parties.<br /></p><p>3.                Applicants should have:</p><p>(a)      A law degree from a local law school or a foreign law school;</p><p>(b)     Strong analytical, communication, and writing skills; and</p><p>(c)      “a passion for litigation and to work in a dynamic team.”<br /></p><p>4.                If you are interested in applying, please send in your cover letter and detailed\n  resume to us at legalcareer@lvmlawchambers.com. Only shortlisted candidates\n  will be notified.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Legal Documents",
+      "uuid": "25c9b3d4708aae10b0134e7b74a2cbce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Litigation",
+      "uuid": "495e4ebdba6a7ccf6ca124e40b04559e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legal Research",
+      "uuid": "500de81951b560968719f2ccd4e1f33b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "legal matters",
+      "uuid": "790164ea6e06d0c17400b5b2e2bfedc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legal Opinions",
+      "uuid": "7c6cddb869c9828c3b0932e06d0f8fd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dispute Resolution",
+      "uuid": "9c02108751370ad5a6f0fb864382a1cb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legal Services",
+      "uuid": "a254bdfbf9fdf6e4f2dc020fa1b84115",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Legal Advice",
+      "uuid": "af6e0a085a1a90508467ecba89e34780",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "legal industry",
+      "uuid": "b3beed88b57d986d8cf3a9b8303ee81a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing Skills",
+      "uuid": "ebd65911b99b625b1359ab340fb2b666",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34110",
+  "occupationId": "OCC004613",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 23,
+      "category": "Legal"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0602",
+  "postedCompany": {
+    "uen": "201634301Z",
+    "description": null,
+    "name": "LVM LAW CHAMBERS LLC",
+    "ssicCode": "69101",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T02:25:44.000Z",
+    "ssicCode2020": "69101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201634301Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201634301Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201634301Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201634301Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "160",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE BUSINESS FEDERATION CENTER",
+    "postalCode": "068914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27812790985949,
+    "lng": 103.847854628243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171932",
+    "deletedAt": null,
+    "createdBy": "de6425f0-7c36-458d-8941-9e822f1f40d1",
+    "createdAt": "2026-01-28T02:22:40.000Z",
+    "updatedAt": "2026-01-28T02:22:40.000Z",
+    "emailRecipient": "de6425f0-7c36-458d-8941-9e822f1f40d1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 210,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/legal/legal-executive-lvm-law-chambers-d209132442726a3ec2daa8b29737c569",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6200,
+    "minimum": 5800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d209132442726a3ec2daa8b29737c569"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d209132442726a3ec2daa8b29737c569/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

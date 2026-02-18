@@ -1,0 +1,202 @@
+{
+  "uuid": "116ab25f7bf697aad58b3d3bcf99f8dc",
+  "sourceCode": "Employer Portal",
+  "title": "Cleaner",
+  "description": "<ul>\n  <li>General office housekeeping duties such as vacuum, sweeping, mopping</li>\n  <li>Cleaning and sanitation of workspaces and display shelves</li>\n  <li>Washing of toilets (male and female)</li>\n  <li>Empty trash bin</li>\n  <li>Cleaning of common areas e.g. staircase, corridor, pantry areas</li>\n  <li>Wiping of glass doors, interior window and mirrors</li>\n  <li>Restock supplies such as tissue paper, hand soap, and cleaning products</li>\n  <li>Ensure all cleaning equipment is properly used, stored, and maintained</li>\n  <li>Follow health and safety guidelines in the handling of cleaning supplies</li>\n  <li>Outdoor sweeping required</li>\n  <li>Other ad-hoc cleaning duties as assigned</li>\n</ul>\n<p><u><strong>Requirements</strong></u></p>\n<ul>\n  <li>Minimum 1 year cleaning experience</li>\n  <li>Physically fit and able to handle cleaning tasks</li>\n  <li>Comfortable with toilet cleaning</li>\n  <li>Singaporeans preferred</li>\n  <li>5.5 work days</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "uuid": "0647f0776aed243f58bfec4dd81de863",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Office cleaning",
+      "uuid": "2b45a2293fbeb740f07d70a894d813eb",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "general cleaning",
+      "uuid": "2cd8f754bdcea11bebb1ac240524f64e",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Window cleaning",
+      "uuid": "9841e3a5bed54e01fc8c6d3a53458246",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "vacuum cleaning",
+      "uuid": "ba9a9f2cce619a211b04d2476ec2945a",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "positive attitude",
+      "uuid": "e7070a53129dfc86358c4787cbadf9b0",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91131",
+  "occupationId": "OCC061393",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199601901D",
+    "description": null,
+    "name": "YUAN XING FOODSTUFF INDUSTRY PTE LTD",
+    "ssicCode": "11041",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T03:48:28.000Z",
+    "ssicCode2020": "11041",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199601901D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "28",
+    "street": "SENOKO SOUTH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "758090",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45563511951511,
+    "lng": 103.801905785515
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1306610",
+    "deletedAt": "2025-10-01T17:15:04.000Z",
+    "createdBy": "cb4322ad-408c-43e6-a615-8ca3d653fba2",
+    "createdAt": "2025-09-01T08:13:03.000Z",
+    "updatedAt": "2026-01-28T01:19:51.000Z",
+    "emailRecipient": "d603062b-afde-4183-9cf1-fe9953bfa711",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 173,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2025-09-01",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/cleaner-yuan-xing-foodstuff-industry-116ab25f7bf697aad58b3d3bcf99f8dc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1850,
+    "minimum": 1600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/116ab25f7bf697aad58b3d3bcf99f8dc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/116ab25f7bf697aad58b3d3bcf99f8dc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

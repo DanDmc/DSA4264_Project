@@ -1,0 +1,200 @@
+{
+  "uuid": "ac0e3935b888c5d22f6c626e29402a59",
+  "sourceCode": "Employer Portal",
+  "title": "DRIVER CUM MAINTENANCE TECHNICIAN",
+  "description": "<p>-  Candidates must have at least class 3 driving license, class 4 license will be an advantage</p>\n<p>-  Participate in coordinating of projects</p>\n<p>-  Inspect facility periodcally to determine problem and necessary maintenance.</p>\n<p>-  Performing duty such as installation, repairing and maintenance  </p>\n<p>- 6 days work per week </p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 3 Driving License",
+      "uuid": "a8de4c0169cdf1e2b47fd09732d2ffdb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "EHS",
+      "uuid": "fcb71c29df8b022ba715500512af3cc3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Failure Analysis",
+      "uuid": "fcc225cdd5b8e36601314d3beb093a3a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202300218H",
+    "description": null,
+    "name": "SWG CONSTRUCTION (M&E) PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T08:18:03.000Z",
+    "ssicCode2020": "42201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202300218H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202300218H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202300218H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202300218H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "11",
+    "street": "KAKI BUKIT INDUSTRIAL TERRACE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "416095",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33666050410788,
+    "lng": 103.90327493614
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1910591",
+    "deletedAt": "2026-01-11T17:15:04.000Z",
+    "createdBy": "ba843e09-294c-4023-b918-37599476860c",
+    "createdAt": "2025-12-12T09:07:23.000Z",
+    "updatedAt": "2026-01-27T08:18:41.000Z",
+    "emailRecipient": "ba843e09-294c-4023-b918-37599476860c",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 149,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-12",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/driver-cum-maintenance-technician-swg-construction-ac0e3935b888c5d22f6c626e29402a59",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1800,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ac0e3935b888c5d22f6c626e29402a59"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ac0e3935b888c5d22f6c626e29402a59/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

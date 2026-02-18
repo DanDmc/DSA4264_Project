@@ -1,0 +1,220 @@
+{
+  "uuid": "fdd61e519322d789a511389478436c14",
+  "sourceCode": "Employer Portal",
+  "title": "Senior manager in Korean cafe",
+  "description": "<p>1. Title : Senior manager in Korean Dessert Cafe<br />2. Work Experience : 3~5 years<br />3. Work Place : Bishan<br />4. Work Time : 6 days a week and 8 hours a day<br />4. Salary : Fix it after interview<br />5. <strong>Main Duties and Responsibilities</strong></p><ol><li>Maintain cleanliness and hygiene of work stations and maintenance of equipment.</li><li>Ensure the consistency in the preparation of all food items according to recipes and standards.</li><li>Assist in all kitchen activities to ensure guests receive high quality food in a timely manner.</li><li>Supplier management and stock level check.</li><li>Promotion and program design for customer satisfaction and sales growth.</li><li>New menu search and development.</li><li>F&B market research report on quarterly base</li></ol>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "online promotions",
+      "uuid": "2a7707a8fb3308086daea43d455514fa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "food stock",
+      "uuid": "45a64e2c351fc27f73b4f1ffa3fdeba1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "food promotions",
+      "uuid": "8eca228722aad644ac076fc9df93db5a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "develop suppliers",
+      "uuid": "9f30166a3b97343e99d045e19e8eec7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "stock checks",
+      "uuid": "a99f8e5babb90cfd8b08a85c5160e18c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Managing suppliers",
+      "uuid": "bf41e6a2d4bb0dc647441a7139f3363a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "sales promotions",
+      "uuid": "c7a72a7bd3e2e31770de5386815b437a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51201",
+  "occupationId": "OCC009251",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 3,
+      "category": "Advertising / Media"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "1329",
+  "postedCompany": {
+    "uen": "202502701M",
+    "description": null,
+    "name": "NUNSARAM3 PRIVATE LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T07:18:49.000Z",
+    "ssicCode2020": "56112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502701M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502701M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502701M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502701M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "9",
+    "street": "BISHAN PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "JUNCTION 8",
+    "postalCode": "579837",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35023943113744,
+    "lng": 103.848477625473
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175054",
+    "deletedAt": null,
+    "createdBy": "5ffea24f-268d-4c61-9003-1d5b75efb711",
+    "createdAt": "2026-01-28T07:35:03.000Z",
+    "updatedAt": "2026-01-28T07:35:03.000Z",
+    "emailRecipient": "5ffea24f-268d-4c61-9003-1d5b75efb711",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 35,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/advertising/senior-manager-korean-cafe-nunsaram3-fdd61e519322d789a511389478436c14",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fdd61e519322d789a511389478436c14"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fdd61e519322d789a511389478436c14/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

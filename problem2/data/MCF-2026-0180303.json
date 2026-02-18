@@ -1,0 +1,237 @@
+{
+  "uuid": "ae91d7adffecec7b18dac217bee4e768",
+  "sourceCode": "Employer Portal",
+  "title": "Factory Manager",
+  "description": "<p><strong>Company Overview</strong></p><p>E3 Design Pte Ltd specializes in commercial outfitting. E3 offers valued clients a comprehensive suite of services from design consultancy, project management, design, and build to interior fit-out.</p><p><strong>Job Summary</strong></p><p>Lead and manage daily production operations to deliver high-quality furniture and wood products on schedule. Oversee the entire manufacturing process while collaborating with cross-functional teams to meet project specifications and client expectations.</p><p><strong>Responsibilities</strong></p><ul><li>Plan and coordinate daily production activities to ensure timely delivery of furniture and wood products that meet client requirements</li><li>Inspect finished products to verify compliance with design specifications, safety standards, and quality benchmarks</li><li>Supervise the full production lifecycle including material cutting, assembly, finishing, and on-site installation to optimize workflow and output quality</li><li>Lead, train, and schedule carpenters, foremen, and technicians to maintain a skilled and efficient workforce</li><li>Monitor inventory levels and maintain machinery such as routers, planners, and edge-bending machines to ensure operational efficiency and minimize material wastage</li><li>Collaborate with designers, clients, and contractors to align production processes with project requirements and resolve any issues proactively</li><li>Interpret blueprints, technical drawings, and specifications to guide production and ensure accuracy</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Possess at least a Higher Nitec or Diploma in Engineering, Manufacturing, or a related field</li><li>Minimum 3 years of experience in furniture manufacturing and construction</li><li>Strong knowledge of carpentry, woodworking techniques, and operation of woodworking machinery</li><li>Effective interpersonal skills to manage teams and maintain client relationships</li><li>Proficiency in production planning tools or inventory management systems</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production Planning",
+      "uuid": "4c89dbee82b7b1dd9d379c2d00562947",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Woodworking",
+      "uuid": "7a74ac23c4bd8b809fe9ac43fb001da2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Furniture",
+      "uuid": "bb3a8b2e390142074e49741a0121d623",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routers",
+      "uuid": "c8555c4afdc42bae74cadb03dfcc6c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13210",
+  "occupationId": "OCC060457",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 9,
+      "category": "Design"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "43",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "201733787M",
+    "description": "<p>E3 Design Pte Ltd specializes in commercial outfitting. E3 offers valued clients a comprehensive suite of services from design consultancy, project management, design, and build to interior fit-out.</p>",
+    "name": "E3 DESIGN PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": 90,
+    "companyUrl": "https://www.e3design.com.sg/",
+    "lastSyncDate": "2026-02-04T00:42:31.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201733787M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201733787M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201733787M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201733787M/schemes"
+      }
+    },
+    "logoFileName": "9cd6ec6dbc7f69a4131df6b039a5f96d/e3-design.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9cd6ec6dbc7f69a4131df6b039a5f96d/e3-design.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180303",
+    "deletedAt": null,
+    "createdBy": "819c61fe-f658-47f8-91a5-03e513377bf2",
+    "createdAt": "2026-01-29T03:37:44.000Z",
+    "updatedAt": "2026-01-29T03:37:43.000Z",
+    "emailRecipient": "819c61fe-f658-47f8-91a5-03e513377bf2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/factory-manager-e3-design-ae91d7adffecec7b18dac217bee4e768",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ae91d7adffecec7b18dac217bee4e768"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ae91d7adffecec7b18dac217bee4e768/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

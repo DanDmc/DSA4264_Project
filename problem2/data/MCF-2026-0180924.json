@@ -1,0 +1,227 @@
+{
+  "uuid": "e75c6bab9e51b25d4114a356059dff26",
+  "sourceCode": "Employer Portal",
+  "title": "Performing Artiste",
+  "description": "<p>1. Perform on stage in front of a live audience.</p><p>2. Attend rehearsals and confer with other band members.</p><p>3. Work with the music director to fine-tune the performance.</p><p>4. Arrange for musical instruments or props to arrive at gigs.</p><p>5. Interpret music or dance and perform in production.</p><p>6. Memorize lines or musical notes.</p><p>7. Able to work till late night and able to work on weekend</p><p>8. Looking for Full-Timers only</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Keyboards",
+      "uuid": "0038379349e88a6ad6aeabc2b2805792",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Violin",
+      "uuid": "038810d0fea91e013692cedfdf517478",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Piano",
+      "uuid": "060e8e88876d796e83c5201d70e45661",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vocal",
+      "uuid": "36381e29a4c255d5e51e3f43f53da690",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Music Theory",
+      "uuid": "408df2705872541c0ed05700b15137f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performing Arts",
+      "uuid": "753732671ec1c264e37265824d4adb90",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accompaniment",
+      "uuid": "7cc8d48250a68c9fdcf0a5e413fa0762",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Choreography",
+      "uuid": "db53a6d0cbd78915a1360a5c23c932b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Musical Theatre",
+      "uuid": "e3f10bb9d2674cf82c9e270ca9c0df65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Singing",
+      "uuid": "eec5503e21c428e650987268e368f0a0",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "26549",
+  "occupationId": "OCC005095",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 12,
+      "category": "Entertainment"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "N9",
+  "ssecFos": "0219",
+  "postedCompany": {
+    "uen": "202303958K",
+    "description": null,
+    "name": "SEVEN SUMMITS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T11:23:50.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202303958K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202303958K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202303958K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202303958K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "52834753E",
+    "description": null,
+    "name": "CITY PALACE KTV KARAOKE LOUNGE",
+    "ssicCode": "93203",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T05:29:30.000Z",
+    "ssicCode2020": "93203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52834753E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52834753E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52834753E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/52834753E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "390",
+    "street": "VICTORIA STREET",
+    "floor": null,
+    "unit": null,
+    "building": "THE GOLDEN LANDMARK",
+    "postalCode": "188061",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30189677580551,
+    "lng": 103.857847794036
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180924",
+    "deletedAt": null,
+    "createdBy": "91fce384-3678-4f51-94d0-eaed7795bf2e",
+    "createdAt": "2026-01-29T05:31:02.000Z",
+    "updatedAt": "2026-01-29T05:31:01.000Z",
+    "emailRecipient": "91fce384-3678-4f51-94d0-eaed7795bf2e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 26,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/entertainment/performing-artiste-city-palace-ktv-karaoke-lounge-e75c6bab9e51b25d4114a356059dff26",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e75c6bab9e51b25d4114a356059dff26"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e75c6bab9e51b25d4114a356059dff26/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

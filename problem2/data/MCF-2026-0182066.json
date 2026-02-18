@@ -1,0 +1,233 @@
+{
+  "uuid": "5227c135bcbde6c0e2c98526978622f2",
+  "sourceCode": "Employer Portal",
+  "title": "ArcGIS Developer",
+  "description": "<p><br /><strong>ArcGIS Developer</strong></p><p><strong>Role Overview</strong></p><p>As a GIS Developer, you will\ndesign, develop, and maintain advanced GIS applications and tools to support\ngeospatial data management and analysis. You will work closely with clients and\ninternal teams to translate geospatial requirements into actionable solutions,\nensuring compliance with industry standards and best practices.</p><p><strong>Key Responsibilities</strong></p><ul><li><strong>Application Development:</strong></li><li><li>Design and develop GIS applications\n      using <strong>Esri ArcGIS Enterprise</strong>, <strong>ArcGIS Pro</strong>, <strong>JavaScript\n      API for ArcGIS</strong>, <strong>Python</strong>, and <strong>.NET SDK, React JS</strong>.</li><li>Implement spatial analysis, geocoding,\n      and mapping functionalities into enterprise systems.</li></li><li><strong>Integration & Customisation:</strong></li><li><li>Integrate GIS capabilities into existing\n      software platforms.</li><li>Customise GIS tools and workflows to\n      meet client-specific requirements.</li></li><li><strong>Data Management:</strong></li><li><li>Handle geospatial data acquisition,\n      processing, and quality assurance.</li><li>Ensure accuracy and compliance with data\n      standards.</li></li></ul><ul><li><strong>Technical Support:</strong></li><li><li>Provide troubleshooting and performance\n      optimisation for GIS applications.</li><li>Collaborate with cross-functional teams\n      for solution delivery</li></li></ul><p><strong>Required Skills</strong></p><ul><li>Strong proficiency in <strong>Esri ArcGIS\n     Suite</strong> (ArcGIS Enterprise, ArcGIS Pro).</li><li>Programming experience in <strong>Python</strong>, <strong>JavaScript</strong>,\n     and <strong>.NET</strong>.</li><li>Familiarity with <strong>ArcPy</strong>, <strong>FME</strong>,\n     and <strong>DevOps practices</strong> for GIS deployments.</li><li>Understanding of <strong>spatial data\n     models</strong>, <strong>geodatabases</strong>, and <strong>GIS integration with\n     external systems.</strong></li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Bachelor’s  degree in <strong>Computer\n     Science</strong>, or related field.</li><li>Experience with <strong>cloud-based GIS\n     deployments</strong> (Azure/AWS).</li><li>Knowledge of <strong>CI/CD pipelines</strong> and\n     Agile methodologies.</li></ul><p>When you apply, you voluntarily consent to the disclosure,\ncollection and use of your personal data for employment/recruitment and related\npurposes in accordance with the Tech Aalto Privacy Policy, a copy of which is\npublished at Tech Aalto’s website (https://www.techaalto.com/privacy/)</p><p>Confidentiality is assured, and only shortlisted candidates\nwill be notified for interviews.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ArcGIS Server",
+      "uuid": "2db767ef82f4e447d8d658c9f05ae901",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET",
+      "uuid": "303cb0ef9edb9082d61bbbe5825d972a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Management",
+      "uuid": "568483e9bd85504f3c9dcef24ecd3235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spatial Analysis",
+      "uuid": "58a5a88d5f57c26371bacf26b97307d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GIS",
+      "uuid": "715ecda3bb03efbf6f1326d8a6c32193",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ESRI",
+      "uuid": "92bce7f1a9317b8ab055865bd479ee1c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ArcGIS",
+      "uuid": "9ad3632306ed97a9facacb9d9320a8a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geospatial Data",
+      "uuid": "cf192f979a92e869edd062424cb6fb65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mapping",
+      "uuid": "f84f4a69bdc03d4a4251db12ee746ce3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013772",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202401196N",
+    "description": "<p>Tech Aalto means technology wave. In the ever changing world of technology, we were born with a mission to help our clients ride the technology tide with our unique and best-in-class technology resourcing solutions.</p>\n<p>​​​​​​​Tech Aalto specialises in Executive Search, Permanent &amp; Contract staffing, RPO &amp; Outsourcing Solutions</p>\n<p>Headquartered in Singapore and Lead by industries top seasoned professionals, Tech Aalto is positioned to enable top global technology talent solutions to fuel our client’s business growth ambitions.</p>",
+    "name": "TECH AALTO PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "www.techaalto.com",
+    "lastSyncDate": "2026-02-02T02:16:43.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401196N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401196N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401196N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202401196N/schemes"
+      }
+    },
+    "logoFileName": "6c834d6e49ca5ec79c11b56c3cb897a9/tech-aalto.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6c834d6e49ca5ec79c11b56c3cb897a9/tech-aalto.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182066",
+    "deletedAt": null,
+    "createdBy": "54cee889-5931-4c01-9406-3ce997e6046a",
+    "createdAt": "2026-01-29T07:49:13.000Z",
+    "updatedAt": "2026-01-29T07:49:13.000Z",
+    "emailRecipient": "54cee889-5931-4c01-9406-3ce997e6046a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 52,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/arcgis-developer-tech-aalto-5227c135bcbde6c0e2c98526978622f2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5227c135bcbde6c0e2c98526978622f2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5227c135bcbde6c0e2c98526978622f2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

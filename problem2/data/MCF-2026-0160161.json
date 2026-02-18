@@ -1,0 +1,257 @@
+{
+  "uuid": "afd25760836d2ad6b9ab4d0c3419e1e2",
+  "sourceCode": "Employer Portal",
+  "title": "Junior Business Analyst",
+  "description": "<p><strong>Job Description:</strong></p><ul><li>Elicit, analyze, and document business requirements from various stakeholders, ensuring a clear understanding of their needs and objectives for FX and Money Market Business in Calypso.</li><li>Work with the Product Owner (PO) if any on this project to prioritize requirements and decompose them into detailed user stories, ensuring a clear roadmap for development.</li><li>Translate requirements into comprehensive functional specifications, including detailed descriptions of user interactions, data flows, and system behavior.</li><li>Collaborate with development teams to ensure that the software design aligns with the functional specifications and meets the defined requirements.</li><li>Provide functional expertise to the development team, ensuring they have a clear understanding of the business processes and user needs.</li><li>Research existing solutions, both internal and external, to determine if they can be leveraged to meet the business requirements.</li><li>Understand technical constraints and participate in software design discussions, ensuring that the solution is feasible and aligns with the overall system architecture.</li><li>Ensure the functional quality of the software, including participation in functional testing and providing functional support during production.</li><li>Analyze the impact of functional changes on current production Service Level Agreements (SLAs) and Operational Level Agreements (OLAs).</li><li>Contribute to Behavior-Driven Development (BDD) activities by providing user scenarios and supporting functional testing efforts.</li><li>Contribute to deployment activities by providing functional pre-requisites and performing post-deployment checks.</li><li>Support team members in their functional activities, train new joiners, and help resolve functional issues.</li><li>Ensure the seamless integration of the software into the existing IT infrastructure, working closely with the Functional Architect.</li><li>Specifications, workload estimates, planning, test scenarios, documentation.</li></ul><p><strong>Requirements:</strong></p><p>Qualifications and Profile:</p><ul><li>Candidates should have 1-2 years experience in Business Analysis activities.</li><li>Knowledge of Static Data, Workflows, Confirmations, Settlements, Messages / Swift messages, Positions, Accounting, Corporate action, Filters, Reporting Framwork, Reconciliation features.</li><li>Understanding of financial assets (FX, Money Market, cash products) and trade lifecycle.</li><li>Experience with regulatory reporting (e.g. HRF, NORIA, MMSR).</li><li>Experience on Back Office systems.</li><li>Experience in interfacing systems.</li><li>Familiar with requirements life cycle management, analysis planning and monitoring, requirements’ analysis and design definition.</li><li>Hands-on experience as liaison function between the onshore IT business lines and offshore technical teams and as primary functional support for development team.</li><li>Knowledgeable of techniques to elicit and manage requirements, as well as software development models including Agile methodologies.</li></ul><p>Functional:</p><ul><li>Knowledge of Static Data, Workflows, Confirmations, Settlements, Messages / Swift messages, Positions, Accounting, Corporate action, Filters, Reporting Framwork, Reconciliation features.</li><li>Understanding of financial assets (FX, money market, cash) and trade lifecycle.</li></ul><p>Nice to Have:</p><ul><li>Experience ideal on Calypso versions v14 to v17.</li><li>Knowledge in UNIX, SQL, Docker/Kurbernetes systems.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "reconciliation of accounts",
+      "uuid": "1f1bb6b1ad3b7cf0c913cdd99cf09a97",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calypso",
+      "uuid": "39d9d9f9143880553c5e2da25c87f33d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "User Stories",
+      "uuid": "51aa0c6910aab34db07b8af04e8609b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Analysis",
+      "uuid": "52407ea0d2ca939ceb06bfc75001076e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Forex",
+      "uuid": "6f8f9a7d011c5002fd330949f1457a4e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Static Data",
+      "uuid": "8f1c2c6ec853d27e92a49d3454022c22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Liaison",
+      "uuid": "91b35cbccafd9553afcd4c0404305270",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SWIFT Messaging",
+      "uuid": "96c239c4b89da84c2fa2ec46c00ca934",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Money Market",
+      "uuid": "b71b2d2c14108ab46fd24f8cc53fa49e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Regulatory Reporting",
+      "uuid": "e0b38e44851bd62bc429dd70d963630f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Back Office",
+      "uuid": "eed2839c1e3e5f7069ed03b2f6d4c6dd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Requirements",
+      "uuid": "fb7ef3df0fd8ed7b3630bad089942103",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25140",
+  "occupationId": "OCC002138",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200600706G",
+    "description": "<p>KRIS INFOTECH PTE. LTD.</p>    <p>We partner with the IT industry providing comprehensive short and long-term technology & staffing solutions. We offer different options, to enable clients to optimize their human resources and at the same time reduce the risk and total cost of ownership. </p>    <p>Under our <em>Professional Services </em>, we serve our client's manpower needs by providing smooth talent pipeline with flexible partnering options.</p>    <p>We have been very successful in reducing ownership costs and recruitment turnaround time for our clients.  </p>    <ul>   <li>Our offerings are tailored around the identified domain, allowing us the ease to service our clients with domain experts.</li>   <li>We primary source talents from Singapore, Malaysia, Philippines, Thailand, Australia, Hong Kong and Japan</li>   <li>We have been supporting our clients regionally for business languages other than English viz. Mandarin, Thai, Japanese.</li>  </ul>    <p> </p>    <p><strong>Our IT Professional Services include:</strong></p>    <p>ü  Agency Contract</p>    <p>ü  Contingency Search</p>    <p>ü  Retained Search</p>    <p> </p>    <p><strong>Our Value-Added Services include:</strong></p>    <p>-       Managed Payroll Services</p>    <p>-       Re-batching & Vendor Consolidation</p>    <p>-       Recruitment Process Outsourcing (RPO)</p>    <p> </p>    <p><strong>Our Focus: Technology Stack </strong></p>    <ul>   <li>ERP and CRM</li>   <li>Datawarehousing</li>   <li>Mobile and Web</li>   <li>Microsoft (.Net & Sharepoint)</li>   <li>Midrange (AS/400)</li>   <li>Infra (Networking, Sys Admin, DBAs, Storage, Telephony)</li>   <li>Subject Matter Expert, Project Managers and Business Analyst</li>  </ul>    <p> </p>    <p>Under our <em>Technology Services brand</em> – we specialize in IT Systems Integration encompassing the wide expanse of software, hardware and network technologies to enable businesses.</p>    <p>By combining best of breed solutions, cutting edge technologies and our proven processes, we aim to enhance your business productivity.</p>    <p>With time, we have invested in and collaborated with few specific Technology companies in the region to enhance our Technology Services.</p>    <p>We are very pleased bring to you the following FOUR service offerings:</p>    <p> </p>    <p>ü  <strong>Big Data Consulting</strong></p>    <p>ü  <strong>SAP Development Services</strong></p>    <p>ü  <strong>Oracle E-Business Suite Services</strong></p>    <p>ü  <strong>GRC Consulting</strong></p>    <p> </p>  ",
+    "name": "KRIS INFOTECH PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:06:45.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160161",
+    "deletedAt": null,
+    "createdBy": "1dac805c-e26c-422d-8da7-df8e6c8a4b60",
+    "createdAt": "2026-01-26T09:15:08.000Z",
+    "updatedAt": "2026-01-26T09:15:08.000Z",
+    "emailRecipient": "1dac805c-e26c-422d-8da7-df8e6c8a4b60",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 309,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 40,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/junior-business-analyst-kris-infotech-afd25760836d2ad6b9ab4d0c3419e1e2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/afd25760836d2ad6b9ab4d0c3419e1e2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/afd25760836d2ad6b9ab4d0c3419e1e2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

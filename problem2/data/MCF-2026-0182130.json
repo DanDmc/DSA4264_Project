@@ -1,0 +1,228 @@
+{
+  "uuid": "88432350ff6e9df8b1729a3b011897eb",
+  "sourceCode": "Employer Portal",
+  "title": "ACCOUNTS ASSISTANT",
+  "description": "<p>* Answer and direct incoming calls to person in-charge,attend to visitors, etc.</p><p>*Open letterbox and check company common emails daily then forward to PIC to follow-up.</p><p>* Assists with scheduling and preparing meeting/conference room etc.</p><p>* In-charge of work pass related matters, dormitory administration</p><p>*Keeping proper records and tracking of important documents and deadlines</p><p>*Taking initiatives to follow up on outstanding operational matters</p><p>*Update daily invoices payable, AP monitoring.</p><p>*Liaise with suppliers and make comparison of pricing.</p><p>*Assist and ensure the individual's expenses claims are submitted to the finance team on time</p><p>*Pantry and office supplies management</p><p>Job Requirements:</p><p>* Min 'A' Level, Diploma or Bachelor</p><p>* 1-2 years of working experience preferred</p><p>* A keen learner with positive attitude</p><p>* Responsible and attention to details</p><p>* Proficient in Microsoft Office</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting System",
+      "uuid": "80f02cec3e05a1d93e286971a1b3bf22",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Details",
+      "uuid": "aadca85dd728e361bc3e0851ca0efb4a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008765",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "201832064Z",
+    "description": null,
+    "name": "OCTA GLOBAL PTE. LTD.",
+    "ssicCode": "49231",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T08:00:56.000Z",
+    "ssicCode2020": "49231",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832064Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832064Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832064Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201832064Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "16",
+    "street": "AYER RAJAH CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "TEMPCO TECHNOMINIUM",
+    "postalCode": "139965",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.2956601539974,
+    "lng": 103.788850715014
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182130",
+    "deletedAt": null,
+    "createdBy": "e89592dd-2d14-4a7a-b3a1-3830c06ffa58",
+    "createdAt": "2026-01-29T07:57:06.000Z",
+    "updatedAt": "2026-01-29T07:57:06.000Z",
+    "emailRecipient": "e89592dd-2d14-4a7a-b3a1-3830c06ffa58",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 517,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 33,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-assistant-octa-global-88432350ff6e9df8b1729a3b011897eb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/88432350ff6e9df8b1729a3b011897eb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/88432350ff6e9df8b1729a3b011897eb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

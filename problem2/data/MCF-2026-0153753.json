@@ -1,0 +1,217 @@
+{
+  "uuid": "7d69d8a52209761b45478806c6d89a3f",
+  "sourceCode": "Employer Portal",
+  "title": "Operations Executive",
+  "description": "<ul>\n  <li>Develop and implement data-driven online marketing campaigns (ecommerce, SEA, SEO, email automation campaigns and social media) that generate revenue growth, lead generation and brand awareness</li>\n  <li>Manage, develop and execute promotional activities that will support the company and clients’ targets</li>\n  <li>Work closely with the sales team to plan and manage their communication, promotional and marketing needs</li>\n  <li>Localize marketing communications and collaterals for campaigns, events, promotions and activities</li>\n  <li>Oversee and scheduling marketing campaigns across both owned platforms and paid channels</li>\n  <li>Evaluate and explore new online marketing trends and platforms</li>\n  <li>Conduct market research and customer surveys to assess demand and brand positioning</li>\n  <li>Provide copywriting support for marketing collaterals</li>\n  <li>To track, evaluate and report results and effectiveness of marketing campaigns</li>\n  <li>Accountable for all digital marketing related projects and operational tasks from creative visual design, content development, launch to maintenance and continuous improvement</li>\n  <li>Occasional hosting of live streaming is needed</li>\n</ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lead Generation",
+      "uuid": "063210a5a1434ad61b6bb343e20ddb36",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Media",
+      "uuid": "3ce446e5cb3c779f621bb5ee76e666c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Visual Design",
+      "uuid": "4c2f949a5bb65078d6c63ff0fa65d8c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing Communications",
+      "uuid": "6fb94eeaa0574f5df56273155102336e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Copywriting",
+      "uuid": "bf486a8c3388c4b2de3c86203799aea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SEO",
+      "uuid": "d88946b678e4c2f251d4e292e8142291",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Content Development",
+      "uuid": "e32d8681845ec40a15c58dcdff938f14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Brand Awareness",
+      "uuid": "ff293c8866801a6120be5fab82c309bf",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 5,
+      "flexibleWorkArrangement": "Compressed Work Schedule"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33229",
+  "occupationId": "OCC061860",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 3,
+      "category": "Advertising / Media"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202134434M",
+    "description": null,
+    "name": "TANDOOR AND KEBAB NATION PTE. LTD.",
+    "ssicCode": "63120",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T14:38:24.000Z",
+    "ssicCode2020": "63120",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134434M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134434M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134434M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202134434M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "23",
+    "street": "BAGHDAD STREET",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "199662",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.30132465296535,
+    "lng": 103.859670165587
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153753",
+    "deletedAt": null,
+    "createdBy": "c73179b8-745d-4c92-9913-a72d28cc3381",
+    "createdAt": "2026-01-25T14:43:56.000Z",
+    "updatedAt": "2026-01-25T14:43:56.000Z",
+    "emailRecipient": "c73179b8-745d-4c92-9913-a72d28cc3381",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 157,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-08",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/advertising/operations-executive-tandoor-kebab-nation-7d69d8a52209761b45478806c6d89a3f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7800,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7d69d8a52209761b45478806c6d89a3f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7d69d8a52209761b45478806c6d89a3f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

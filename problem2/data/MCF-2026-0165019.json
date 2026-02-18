@@ -1,0 +1,236 @@
+{
+  "uuid": "1920272e171e9034ecabab33eec10925",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Engineer",
+  "description": "<p><strong>Who You Are</strong><br /></p><ul><li><p>Min 3 years in a customer-facing technical role (Sales Engineering, Field Apps, Integration, Solutions Engineering).<br /></p></li><li><p>Strong hands-on understanding of RF propagation, antennas, interference mitigation, and wireless networking.<br /></p></li><li><p>Experience integrating radios into UAV/autonomy platforms (command-and-control, telemetry, high-throughput data links).<br /></p></li><li><p>Skilled communicator who thrives in field environments solving real-world engineering challenges.<br /></p></li><li><p>Motivated by ownership and high accountability — your work directly influences customer success and program outcomes.<br /></p></li></ul><p><strong>Nice to Have</strong><br /></p><ul><li><p>Familiarity with mesh networking concepts (mobile MANET routing, distributed networks).<br /></p></li><li><p>TCP/IP configuration and troubleshooting experience.<br /></p></li><li><p>Background supporting DoD programs, defense primes, or DIU prototypes.<br /></p></li><li><p>Experience with autonomy OEMs (industrial drones, logistics AMRs, maritime robotics).<br /></p></li></ul><p><strong>Additional Details</strong><br /></p><ul><li><p>Travel: Up to 50%</p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Autonomy",
+      "uuid": "35c6f9ee04a35b566dc49d081f639323",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RF",
+      "uuid": "3fe3de84275c2edcd95efff999764322",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customerfacing",
+      "uuid": "4667c2e3c1326cdcfe1ba30200fb2726",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Defense",
+      "uuid": "4b088aaa68446b6ec08cdc385d03516d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Success",
+      "uuid": "70227fe8c2717f91ce1d5ac7bc4496d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wireless",
+      "uuid": "7beff197adfc70df7ee315bfa4b1af75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales Engineering",
+      "uuid": "7e778f819c18ac5166a3f2733b16396d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Telemetry",
+      "uuid": "aa96a21412def0d916f43b639424f8e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DoD",
+      "uuid": "ca46944d28f1202b9712424ebc2652d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "9999",
+  "postedCompany": {
+    "uen": "202207190Z",
+    "description": "<p><strong>Smarter Sourcing. Faster Hiring.</strong></p><p>Sourceo is a next-generation recruitment platform designed to bridge the gap between top-tier talent and leading organizations. Headquartered in Singapore and powered by a global team of expert recruiters, we specialize in high-efficiency talent acquisition across the APAC region.</p>",
+    "name": "SOURCEO PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:26:07.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202207190Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202207190Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202207190Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202207190Z/schemes"
+      }
+    },
+    "logoFileName": "5a080d9201216efdd9335bede5f617ae/sourceo.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5a080d9201216efdd9335bede5f617ae/sourceo.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "60",
+    "street": "PAYA LEBAR ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "PAYA LEBAR SQUARE",
+    "postalCode": "409051",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31881487007652,
+    "lng": 103.892580778514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165019",
+    "deletedAt": null,
+    "createdBy": "90f2489a-7295-43b6-afce-8cb85dee8797",
+    "createdAt": "2026-01-27T03:47:22.000Z",
+    "updatedAt": "2026-01-27T03:47:22.000Z",
+    "emailRecipient": "90f2489a-7295-43b6-afce-8cb85dee8797",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/sales-engineer-sourceo-1920272e171e9034ecabab33eec10925",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1,
+    "minimum": 1,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1920272e171e9034ecabab33eec10925"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1920272e171e9034ecabab33eec10925/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

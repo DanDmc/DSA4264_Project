@@ -1,0 +1,233 @@
+{
+  "uuid": "40aed043e796bf256290d939ffdaf25a",
+  "sourceCode": "Employer Portal",
+  "title": "Senior IT Engineer (Quality Assurance, Knowledge & Process Management)",
+  "description": "<p>The incumbent will be responsible for end‑user service quality and knowledge excellence by implementing Quality Assurance frameworks, governing Knowledge Centric Services (KCS) aligned knowledge and engineering support processes that reduce friction and improve digital employee experience and cost to serve.<br /></p><p><strong>Job Duties and Responsibilities:</strong><br /></p><p><strong>A. Quality Assurance (QA)</strong></p><ul><li>Develop QA program, sampling, and calibration; perform audits and publish dashboards; coach to improve behaviors and outcomes.</li><li>Establish a defect taxonomy and root‑cause library; drive CAPA and verify effectiveness.</li></ul><p><strong>B. Knowledge Management (KCS‑aligned)</strong></p><ul><li>Govern content lifecycle, metadata/taxonomy andfindability; manage templates and style guide.</li><li>Run author enablement/training and peer review; track reuse/deflection and knowledge impact on FCR/FTF</li></ul><p><br /><strong>C. Process Management & CI</strong></p><ul><li>Map and standardize SOPs for onboarding/offboarding, refresh, VIP, and loaners; define controls and measurement plans.</li><li>Quantify benefits and report monthly to leadership (experience/cost/risk) and any other duties as assigned by the Immediate Supervisor.</li></ul><p><br /><strong>Job Requirements:</strong></p><ul><li>Bachelor’s degree in Information Technology/Information Services or related field with more than 6 years in Quality Assurance, Knowledge & Process Management within IT services</li><li>Strong ITIL working knowledge is required</li><li>Prior experience handling ServiceNow Knowledge & Reporting; SharePoint/Confluence</li><li>Proficiency in Tool Stack & following Platforms : ServiceNow (Incidents/Requests, Knowledge, Performance Analytics, HAM Pro, SAM Pro, CMDB), Endpoint mgt (Microsoft Intune/Autopilot, ConfigMgr (SCCM); Jamf), Identity/Security: Entra ID (Azure AD), Microsoft Defender for Endpoint, BitLocker; MFA, Productivity/Collab: Microsoft 365 (Teams/Outlook/SharePoint); Conferencing/AV incl. Teams Rooms</li><li>Strong understanding of process mapping & requirement gathering</li><li>Strong analytical & problem-solving skills</li><li>Excellent verbal & written communication skills</li><li>Collaborate effectively with cross-functional teams</li><li>Strong organizational & time management skills</li><li>Attention to details</li></ul>",
+  "minimumYearsExperience": 6,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Sampling",
+      "uuid": "1d07814d12178c958e4233501cb0bdc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CAPA",
+      "uuid": "240aad7d7b95e63f318062c182c34d08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Taxonomy",
+      "uuid": "30d10883c017c4fd6751c8982e20dae1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VIP",
+      "uuid": "5a11e0bd65af42743f1db2f10bcbba8e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Knowledge Management",
+      "uuid": "5e493fe8dc833503b6c2154cb4cc1275",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written Communication",
+      "uuid": "7f2949efe8a7cc63a1144796a4ce403a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process Management",
+      "uuid": "a539b2f726482e0bd56ee18830384ab4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Engineering Support",
+      "uuid": "c0b951255d52a739ef0d5fa6b202b309",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ITIL",
+      "uuid": "cd6febdc57ec56ff89dfc60e50a7992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ServiceNow",
+      "uuid": "d1cd6e549ab60b728497f73aeeccc9ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mapping",
+      "uuid": "f84f4a69bdc03d4a4251db12ee746ce3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002123",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199202873C",
+    "description": "<p><strong>LAM RESEARCH SINGAPORE PTE LTD</strong></p>\n\n<p>As a leading global suppier of wafer fabricaton equipment and sevices to the semiconductor industry, Lam Research develops innovative solutions that help our customers build smaller, faster, more powerful, and more power-efficient electronic devices. This success is the result of our employees' diverse technical and business expertise, which fuels close collaboration and on going innovation.</p>\n\n<p>Headquartered in Fremont, California with facilities in North America, Europe and Asia, Lam's etch, clean and deposition product lines are driving the proliferation of technology into our everday lives.</p>\n\n<p>Join the Lam Research Team, where you can write your own success story. Come help us solve our customers' toughest problemsand be part of a company that plays a vital role in the future of electronics   <strong>Lam Research - a company where successful people want to work</strong></p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n",
+    "name": "LAM RESEARCH SINGAPORE PTE LTD",
+    "ssicCode": "46100",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T04:50:24.000Z",
+    "ssicCode2020": "46100",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199202873C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199202873C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199202873C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199202873C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169028",
+    "deletedAt": null,
+    "createdBy": "c2bef489-d0f2-4aac-812b-20a69f2fbcc2",
+    "createdAt": "2026-01-27T10:51:55.000Z",
+    "updatedAt": "2026-01-27T10:51:55.000Z",
+    "emailRecipient": "c2bef489-d0f2-4aac-812b-20a69f2fbcc2",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/senior-engineer-lam-research-singapore-40aed043e796bf256290d939ffdaf25a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/40aed043e796bf256290d939ffdaf25a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/40aed043e796bf256290d939ffdaf25a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

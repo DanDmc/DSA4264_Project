@@ -1,0 +1,216 @@
+{
+  "uuid": "5bbc50dd58f4e5c915a021b9edf96844",
+  "sourceCode": "Employer Portal",
+  "title": "Warehouse Assistant",
+  "description": "<p><strong>Warehouse Assistant</strong><br /></p><ul><li>Well-established company</li><li>Stable and long-term role</li><li>Office hours (Mon-Fri)</li><li>Company transport provided</li><li>Valid Forklift license & Work height certification</li></ul><p></p><p><strong>Job Scope:</strong></p><ul><li>Pick and pack of goods</li><li>Operate forklift</li><li>General warehouse duties<br /></li></ul><p>💰Salary: Up to $2500 + OT Pay<br />📍Location: West (Company bus provided from MRT)<br />⏰Working hours: Office hours<br /></p><p>EA Personnel Name: Leah Ho\nEA Personnel No: R25152832\nEA License No: 04C3537</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehouse Management",
+      "uuid": "34a595b17780023e9c4d8cd0510657e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "5S",
+      "uuid": "5222a0e0df9790a0e86c4dc688aaa034",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "forklift",
+      "uuid": "e3d3ce1ad52a9beb839d08f9c6e2b7f9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "93334",
+  "occupationId": "OCC008974",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 15,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200209512Z",
+    "description": "<p>TALENTVIS SINGAPORE PTE LTD</p>\n\n<p>Established in the year2000, TALENTVIS has succeeded and evolved into an established recruitment service provider for many industries.</p>\n\n<p>TALENTVIS serves as a one-stop centre for all Human Resources Solutions, Recruitment & Staffing and HR outsourcing.</p>\n\n<p>The Principal fields of activities are :Permanent, Temporary, Contract Staff Placements an Payroll outsourcing services.</p>\n",
+    "name": "TALENTVIS SINGAPORE PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:41:55.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200209512Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200209512Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200209512Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200209512Z/schemes"
+      }
+    },
+    "logoFileName": "fb2b901a9f145f170f6222d8b4209f04/talentvis-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/fb2b901a9f145f170f6222d8b4209f04/talentvis-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "218",
+    "street": "ORCHARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ORCHARD GATEWAY @ EMERALD",
+    "postalCode": "238851",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30160116957546,
+    "lng": 103.838868886519
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181970",
+    "deletedAt": null,
+    "createdBy": "af2ade35-4b20-4ebf-a2c1-238ed1fdad8c",
+    "createdAt": "2026-01-29T07:35:33.000Z",
+    "updatedAt": "2026-01-29T07:35:33.000Z",
+    "emailRecipient": "af2ade35-4b20-4ebf-a2c1-238ed1fdad8c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 56,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/logistics/warehouse-assistant-talentvis-singapore-5bbc50dd58f4e5c915a021b9edf96844",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2600,
+    "minimum": 2100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5bbc50dd58f4e5c915a021b9edf96844"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5bbc50dd58f4e5c915a021b9edf96844/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

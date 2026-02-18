@@ -1,0 +1,203 @@
+{
+  "uuid": "3bb2d7e16021753cd9099084f729eb8f",
+  "sourceCode": "Employer Portal",
+  "title": "Hairstylist | Hair Therapist",
+  "description": "<p><strong>Job Responsibilities:</strong></p>\n<ul>\n  <li>Provide professional hair services including cutting, wash &amp; blow, coloring/highlighting, and hair &amp; scalp treatments.</li>\n  <li>Conduct hair and scalp analysis, and introduce suitable products and services to clients.</li>\n  <li>Explain treatment processes and demonstrate product features and benefits clearly to clients.</li>\n  <li>Recommend and assist clients in selecting the most suitable retail products and services for their hair and scalp care needs.</li>\n  <li>Deliver excellent customer service with professionalism and care, building lasting client relationships.</li>\n  <li>Perform ad-hoc duties as assigned by the supervisor.</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n  <li>At least 1–2 years of relevant experience in hair styling and/or scalp therapy.</li>\n  <li>Candidates with no prior experience are welcome to apply for a trainee position (training will be provided).</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Exceptional Customer Service",
+      "uuid": "5bffe35f53148d0dd4216d2b2e2393e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Cutting",
+      "uuid": "60f807b6543169da8a03e9cbfa47e768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Focus",
+      "uuid": "c8519749262c7cf93603d66027b06843",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201503331D",
+    "description": null,
+    "name": "DR HAACH PTE. LTD.",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T04:26:11.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201503331D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201503331D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201503331D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201503331D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1837276",
+    "deletedAt": "2026-01-23T17:15:07.000Z",
+    "createdBy": "81529f80-34da-42f6-9952-158033ef18b8",
+    "createdAt": "2025-12-01T01:58:32.000Z",
+    "updatedAt": "2026-01-27T03:57:56.000Z",
+    "emailRecipient": "81529f80-34da-42f6-9952-158033ef18b8",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 113,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-01",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/personal-care/hairstylist-hair-therapist-dr-haach-3bb2d7e16021753cd9099084f729eb8f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3bb2d7e16021753cd9099084f729eb8f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3bb2d7e16021753cd9099084f729eb8f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

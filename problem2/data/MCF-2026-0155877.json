@@ -1,0 +1,245 @@
+{
+  "uuid": "2052f43f8af2cff91b9db92945aa1b6e",
+  "sourceCode": "Employer Portal",
+  "title": "Inventory Management Executive",
+  "description": "<p>1. Review and monitor current inventory</p><p>2. Develop a manufacturing schedule to ensure we produce enough products to meet order demand</p><p>3. Collaborate with vendors and sales team to analyze current trends and production needs</p><p>4. Manage excess inventory and determine ways to prevent overproduction</p><p>5. Responsible for products costing (BOM and monthly closing stock valuation)</p><p>7. Manage inter-companies’ transaction related to sales order and purchasing</p><p>8. Contributes to team effort by accomplishing related results as needed</p><p><br /></p><p>Job Requirements:</p><p>- Min. Diploma in Accounting / Business Administration</p><p>- At least 1-2 years related working experience</p><p>- Proficient in English verbal and writing</p><p>- Proficient in Ms. Excel</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3PL",
+      "uuid": "3756c657e4b5491d1318ed1e813247df",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Valuation",
+      "uuid": "3e6564c044acd49698fd70c9aaa79bb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writting",
+      "uuid": "5046f6a0eed293dddb46491fc736df79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supply Chain",
+      "uuid": "5bbb8c2237ba81966719a7e9cd756f62",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Control",
+      "uuid": "83506d0acff3216fd8efd79be7e181f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Management",
+      "uuid": "8e691be942bf2593a60553eadebd7724",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excess",
+      "uuid": "d1d25b9ff7906919775079068a81aee7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Materials Management",
+      "uuid": "dded0aca4119ab275f7864f5c7e7792e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33492",
+  "occupationId": "OCC060948",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "199406310M",
+    "description": "<p>Flemings Safety is established in 1994, with more than 30 years of experience in providing Head to Toe PPE, Protective garments, Industrial Workwear and Uniform solution to various markets and industries.</p>\n<p><br></p>\n<p>Flemings are actively engaged in R&amp;D activities and are working with various key partners to develop SMART apparels by integrating latest concept and technology for the ever-growing market.</p>",
+    "name": "FLEMINGS SAFETY PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T02:25:29.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199406310M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199406310M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199406310M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199406310M/schemes"
+      }
+    },
+    "logoFileName": "ac2d86ba67ff2ee5a4b44c06f50c1998/flemings-safety.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ac2d86ba67ff2ee5a4b44c06f50c1998/flemings-safety.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "48",
+    "street": "TOH GUAN ROAD EAST",
+    "floor": null,
+    "unit": null,
+    "building": "ENTERPRISE HUB",
+    "postalCode": "608586",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33677373268475,
+    "lng": 103.75436219411
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155877",
+    "deletedAt": null,
+    "createdBy": "12bb6b8e-65a7-4118-8702-430fe531c17b",
+    "createdAt": "2026-01-26T02:30:34.000Z",
+    "updatedAt": "2026-01-26T02:30:34.000Z",
+    "emailRecipient": "12bb6b8e-65a7-4118-8702-430fe531c17b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 77,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/inventory-management-executive-flemings-safety-2052f43f8af2cff91b9db92945aa1b6e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2052f43f8af2cff91b9db92945aa1b6e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2052f43f8af2cff91b9db92945aa1b6e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

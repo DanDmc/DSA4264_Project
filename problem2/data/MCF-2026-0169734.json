@@ -1,0 +1,212 @@
+{
+  "uuid": "929b87709952475a664b80ccc131f823",
+  "sourceCode": "Employer Portal",
+  "title": "Clinic Assistant",
+  "description": "<p><strong>Clinic Assistant (Full-Time / Part-Time)</strong><br />📍 <strong>Location:</strong> Costa Grove, Pasir Ris<br />📅 <strong>Start Date:</strong> 25 March 2026</p><p>💰<strong> Salary:</strong><br />• Full-time: <strong>$2,400 – $3,400 / month</strong><br />• Part-time: Salary prorated</p><p><strong>Job Responsibilities</strong></p><p>• Billing, payments, Third party insurance claims and MediSave/CHAS claims<br />• Stock management and inventory for medical supplies and pharmacy items<br />• Maintain clinic cleanliness and prepare treatment rooms<br />• General administrative duties (data entry, filing, document scanning, follow-ups, liaising with labs)<br />• Ad-hoc duties to support smooth clinic operations<br />• Provide friendly and professional customer service</p><p><strong>Requirements</strong></p><p>• Minimum <strong>1 year</strong> clinic assistant or healthcare admin experience preferred<br />• Minimum GCE N/O / ITE / Diploma (healthcare background is a plus)<br />• Good communication skills and service-oriented attitude<br />• Team player, organised, and willing to learn<br />• Computer literate (Microsoft Office, experience with <strong>Sgimed clinic management system</strong> is an advantage)<br />• Willing to work <strong>weekends and night shifts</strong>, when required<br />• Candidates with more experience may be considered for a <strong>senior role</strong></p><p><strong></strong></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medicine",
+      "uuid": "4ff278b4704d3e44b01ff80f37386777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42243",
+  "occupationId": "OCC009096",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202549445K",
+    "description": null,
+    "name": "BOND FAMILY CLINIC PRIVATE LIMITED",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:09:39.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202549445K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202549445K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202549445K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202549445K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "587",
+    "street": "PASIR RIS DRIVE 3",
+    "floor": null,
+    "unit": null,
+    "building": "COSTA GROVE",
+    "postalCode": "510587",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 18,
+        "location": "D18 Tampines, Pasir Ris",
+        "region": "East",
+        "sectors": [
+          "51",
+          "52"
+        ],
+        "regionId": "East"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0169734",
+    "deletedAt": null,
+    "createdBy": "add2633e-2384-452d-889a-f6918cd0d6f7",
+    "createdAt": "2026-01-27T14:43:15.000Z",
+    "updatedAt": "2026-01-27T14:43:15.000Z",
+    "emailRecipient": "add2633e-2384-452d-889a-f6918cd0d6f7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 368,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 40,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/clinic-assistant-bond-family-clinic-929b87709952475a664b80ccc131f823",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3400,
+    "minimum": 2400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/929b87709952475a664b80ccc131f823"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/929b87709952475a664b80ccc131f823/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

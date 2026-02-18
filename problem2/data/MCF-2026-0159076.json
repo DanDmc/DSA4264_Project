@@ -1,0 +1,224 @@
+{
+  "uuid": "b3f4f549df9767c60e24fb3e5aad3c5e",
+  "sourceCode": "Employer Portal",
+  "title": "Drafter",
+  "description": "<p><strong>Job Description</strong></p>\n<ul>\n  <li>Responsible for general drafting work including the detailing of architectural, civil and structural and other related drawings from design drafts.</li>\n  <li>Production of drawings on CAD and BIM Revit model for C&amp;S works.</li>\n  <li>Prepare and update 3D BIM model for submissions.</li>\n  <li>Prepare draft outline and detailed drawings to the appropriate scale for planning submissions and construction purposes.</li>\n  <li>Coordinate with project team and external stakeholders on tender and construction drawings.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n  <li>Diploma or Degree in Architecture, Civil Engineering or other relevant disciplines.</li>\n  <li>At least 3 years’ relevant experience in design coordination, preferably on different scales of projects in construction industry.</li>\n  <li>Good knowledge of software such as Revit, AutoCAD.</li>\n  <li>Good planning skills in managing modelling and drafting works.</li>\n  <li>Excellent team player, good interpersonal skills and a “can-do” attitude.</li>\n  <li>Ability to multi-task in a fast paced and dynamic environment.</li>\n</ul>\n<p><br></p>\n<p>Suitable candidates are encouraged to apply this position via Apply Now button or email to <u><strong>Career@kah.com.sg</strong></u></p>\n<p><em>Only shortlisted applicants will be notified.</em></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ability to Multitask",
+      "uuid": "055d68b9f1b6b9d362c3db4348f4c194",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Revit",
+      "uuid": "0d90aa300c15ef13e21761af3b9881bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BIM",
+      "uuid": "418d8681b964b0a772325e03a076bb26",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Drawings",
+      "uuid": "b7ddd6b4070e952489bf1ec071d10bac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CAD",
+      "uuid": "eccb0954fca9f2005aea084605df5ee9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31183",
+  "occupationId": "OCC059785",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "199901484R",
+    "description": "<p>KUAN AIK HONG CONSTRUCTION PTE LTD</p>\r\n\r\n<p> </p>\r\n\r\n<p>is an A1 main contractor involving in various public and private project. Such as residential projects HDB projects (BTO, LUP, HIP) as well as institutional MOE schools projects such as Indoor Sports Hall , Teaching blocks and etc.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n",
+    "name": "KUAN AIK HONG CONSTRUCTION PTE LTD",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": "https://www.linkedin.com/in/kuan-aik-hong-construction-pte-ltd-165074257/",
+    "lastSyncDate": "2026-02-04T09:07:25.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199901484R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199901484R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199901484R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199901484R/schemes"
+      }
+    },
+    "logoFileName": "6e9de984a675ae44648db3ef74f4c10b/kuan-aik-hong-construction.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6e9de984a675ae44648db3ef74f4c10b/kuan-aik-hong-construction.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "96A",
+    "street": "JALAN SENANG",
+    "floor": null,
+    "unit": null,
+    "building": "KAH BUILDING",
+    "postalCode": "418481",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32705117246318,
+    "lng": 103.916598025251
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159076",
+    "deletedAt": null,
+    "createdBy": "247227da-9859-4c31-8b68-205ba7fac9e0",
+    "createdAt": "2026-01-26T08:07:07.000Z",
+    "updatedAt": "2026-01-26T08:07:05.000Z",
+    "emailRecipient": "247227da-9859-4c31-8b68-205ba7fac9e0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 148,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/drafter-kuan-aik-hong-construction-b3f4f549df9767c60e24fb3e5aad3c5e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b3f4f549df9767c60e24fb3e5aad3c5e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b3f4f549df9767c60e24fb3e5aad3c5e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

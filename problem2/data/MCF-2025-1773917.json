@@ -1,0 +1,203 @@
+{
+  "uuid": "02a95787822f58bb2303cf84a9c7d4e2",
+  "sourceCode": "Employer Portal",
+  "title": "Facilities/Condo Technician",
+  "description": "<p><strong>Technician</strong></p>\n<p>Assist the Manager in the daily operations of the equipment and facilities.</p>\n<p>Conduct regular inspection, troubleshooting, and preventive and corrective maintenance work.</p>\n<p><br></p>\n<p>Carry out troubleshooting and minor repairs to building works and M&amp;E works including air-conditioning, electrical, plumbing and fire protection system.</p>\n<p><br></p>\n<p>Any other assignments directed by the Management.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Property Management",
+      "uuid": "382705469d54836b73d21873e919f8d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fire Protection",
+      "uuid": "456c4fded27e16f87a1966747104848a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vendor Management",
+      "uuid": "97f6291ea1000272b34fdfaeb3a9e2d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Corrective Maintenance",
+      "uuid": "b3d1b0b3dec7819721c72cbe33b93f42",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Facilities Management",
+      "uuid": "f5a31c5c27603ad54132539f09cb4a56",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 32,
+      "category": "Real Estate / Property Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200801871Z",
+    "description": "<p>Raffles Strata Management is a professional Property and Facility Management Company registered with BCA under the FM01 workhead.</p>\n<p><br></p>\n<p>We provide services to Government Buildings and Owners of Residential, Commercial and Industrial developments.</p>\n<p><br></p>\n<p>To all the customer, we strive to manage and upkeep your property / building for it to be an excellent home, asset or investment which commands the best name, value and demand in the market.</p>\n<p><br></p>\n<p>In manpower resources / recruitment, we target to be a platform to develop ones' potential and excel in their chosen field.</p>",
+    "name": "RAFFLES STRATA MANAGEMENT PTE. LTD.",
+    "ssicCode": "68203",
+    "employeeCount": 200,
+    "companyUrl": "www.rsm.com.sg",
+    "lastSyncDate": "2026-02-04T06:37:43.000Z",
+    "ssicCode2020": "68203",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801871Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801871Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801871Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200801871Z/schemes"
+      }
+    },
+    "logoFileName": "0f6a89c713a73fef8a3d0856b6da3b61/raffles-strata-management.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/0f6a89c713a73fef8a3d0856b6da3b61/raffles-strata-management.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1773917",
+    "deletedAt": "2025-12-19T17:15:05.000Z",
+    "createdBy": "d0aeb742-0962-4ea5-9a2e-97a07ba9eb84",
+    "createdAt": "2025-11-19T09:17:31.000Z",
+    "updatedAt": "2026-01-26T07:59:16.000Z",
+    "emailRecipient": "d0aeb742-0962-4ea5-9a2e-97a07ba9eb84",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 281,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-11-19",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/facilitiescondo-technician-raffles-strata-management-02a95787822f58bb2303cf84a9c7d4e2",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02a95787822f58bb2303cf84a9c7d4e2"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/02a95787822f58bb2303cf84a9c7d4e2/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

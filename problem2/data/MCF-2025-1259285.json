@@ -1,0 +1,225 @@
+{
+  "uuid": "eab9737bc8d0d56fff59e402c4886c73",
+  "sourceCode": "Employer Portal",
+  "title": "Accounts Assistant",
+  "description": "<p>1. Purchase and Sales order to key into MYOB accounting software</p>\n<p>2. Maintain Hard / Soft copies of Delivery Orders, Tax Invoices and Purchase orders into archive file folder.</p>\n<p>3. Able to Email / Verbal conversation with Suppliers and Customers.</p>\n<p>4. Answer office incoming Phone calls.</p>\n<p>5. Assist in preparing ISO Documents.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Accounting System",
+      "uuid": "80f02cec3e05a1d93e286971a1b3bf22",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": null
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": null
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008765",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    },
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200706613N",
+    "description": "<p>IMPEL TECHNOLOGIES PTE. LTD</p>\n<p><br></p>\n<p>System solution&nbsp;provider leading in&nbsp;ACMV and Building Automation System.</p>",
+    "name": "IMPEL TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "71121",
+    "employeeCount": 15,
+    "companyUrl": "www.impeltech.com.sg",
+    "lastSyncDate": "2026-02-04T03:04:09.000Z",
+    "ssicCode2020": "71121",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706613N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706613N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706613N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200706613N/schemes"
+      }
+    },
+    "logoFileName": "9b72f780fab7fc51136d28734e006c1f/impel-technologies.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9b72f780fab7fc51136d28734e006c1f/impel-technologies.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "192",
+    "street": "PANDAN LOOP",
+    "floor": null,
+    "unit": null,
+    "building": "PANTECH BUSINESS HUB",
+    "postalCode": "128381",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.31115956256474,
+    "lng": 103.752815810487
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1259285",
+    "deletedAt": "2025-09-22T17:15:04.000Z",
+    "createdBy": "3aa8b9fd-5967-4d50-81fa-0f87494bafe1",
+    "createdAt": "2025-08-23T05:35:57.000Z",
+    "updatedAt": "2026-01-30T11:20:47.000Z",
+    "emailRecipient": "3aa8b9fd-5967-4d50-81fa-0f87494bafe1",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 819,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-08-23",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 19,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-assistant-impel-technologies-eab9737bc8d0d56fff59e402c4886c73",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1800,
+    "minimum": 1200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eab9737bc8d0d56fff59e402c4886c73"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eab9737bc8d0d56fff59e402c4886c73/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,221 @@
+{
+  "uuid": "bbd9b61dc349694791f509740b86f0dc",
+  "sourceCode": "Employer Portal",
+  "title": "Operations Supervisor",
+  "description": "<ul><li>Liaising and networking with a range of stakeholders including customers, colleagues, suppliers and their organizations.</li><li>Allocate jobs among material handling workers to efficiently manage material segregation & support hands on as needed.</li><li>Acting as a contact between company and its existing & potential markets. Researching organizations and individuals to identify new leads and potential new markets.</li><li>Negotiating on price, costs, delivery and specifications with buyers and their organization.</li><li>Research upcoming market trend & prepare team for successful execution.</li><li>Perform competitor analysis & strategize with key stakeholders to position the organization ahead of competition.</li><li>Checking the quantities of goods in stock. Preparing reports and sales displays.</li><li>Training personnel and helping team members develop their skill.</li><li>Candidate must possess a Diploma or above.</li><li>Class 3 Driving License is required. Fork lift license will be an added advantage.</li><li>Candidate with reasonable english fluency (spoken english) will be considered.</li><li>At least 1 year of related working experience.</li><li>6 day a week, Monday to Saturday; Timing 8.30am until finish.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "negotiate",
+      "uuid": "372962051d3ce9a0e8d060bcb5574eae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operations Management",
+      "uuid": "62c2ba9d720feb926f15cc065ce696b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Market trend",
+      "uuid": "7136d34fc7f156df87eb5006e7a99b9e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "hands-on experience",
+      "uuid": "b789d90cb71f70125412e3a4cd741c87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Building",
+      "uuid": "bc42c84d156c4f70ff6ba18d466fedeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Training",
+      "uuid": "cf270e40d273f9e7fd7c3061729060c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management",
+      "uuid": "fe4dbcab9b910577e5035e97ac068dae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    },
+    {
+      "id": 42,
+      "category": "Wholesale Trade"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201525238N",
+    "description": "<p>Our business involves buying and selling all types of metal scraps from variety of customers. We intent to provide an ethical, fair business with good service quality. We are an equal opportunity employer with strong belief in inclusive growth.</p>",
+    "name": "DAS RECYCLING PTE. LTD.",
+    "ssicCode": "38301",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:13:51.000Z",
+    "ssicCode2020": "38301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201525238N/schemes"
+      }
+    },
+    "logoFileName": "6ddb7d0c3a15711e0b8a49d7287cb7a2/das-recycling.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/6ddb7d0c3a15711e0b8a49d7287cb7a2/das-recycling.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "Soon Lee Street",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "627605",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33273077379384,
+    "lng": 103.697537984728
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192854",
+    "deletedAt": null,
+    "createdBy": "c90287c7-5301-45b6-bb8e-4904282ff414",
+    "createdAt": "2026-01-31T05:38:42.000Z",
+    "updatedAt": "2026-01-31T05:38:43.000Z",
+    "emailRecipient": "c90287c7-5301-45b6-bb8e-4904282ff414",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 38,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-21",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/operations-supervisor-das-recycling-bbd9b61dc349694791f509740b86f0dc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4300,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bbd9b61dc349694791f509740b86f0dc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bbd9b61dc349694791f509740b86f0dc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

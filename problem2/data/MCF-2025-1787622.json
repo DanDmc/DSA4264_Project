@@ -1,0 +1,219 @@
+{
+  "uuid": "afed1207997d09bc8ab1c39cc8477da4",
+  "sourceCode": "Employer Portal",
+  "title": "Robotics Engineer",
+  "description": "<p><strong>Job Title:</strong> Robotics Engineer</p>\n<p><strong>Location:</strong> Singapore</p>\n<p><br></p>\n<p><strong>About Us:</strong> We are a leading AI and robotics company at the forefront of technological innovation, dedicated to creating cutting-edge solutions that revolutionize industries. As we continue to grow, we are seeking talented Robotics Engineers to join our team.</p>\n<p><br></p>\n<p><strong>Job Description:</strong> dConstruct is looking for robotics engineers to join our vibrant and driven systems integration team working on solving challenging problems in robotics. As a robotics engineer you will be developing our robotics software stack and helping to perform software integration for specific use cases. You will be coding, calling into our software stack and creating applications which utilise our software stack to meet the needs of clients. You will be working with clients to understand their needs and, in turn, implement their requirements accordingly.</p>\n<p><br></p>\n<p><strong>Responsibilities</strong></p>\n<p>· Develop specialised features and integrate existing functionalities from our software stack for external clients.</p>\n<p>· Lead the test of features and software integration works you create.</p>\n<p>· Support the deployment of our robots in real world environments.</p>\n<p><br></p>\n<p><strong>Requirements and Skills</strong></p>\n<p>· Strong foundation in modern C++ programming</p>\n<p>· Strong foundation in Data Structures/Algorithms</p>\n<p>· Comfortable working on large code bases</p>\n<p>· Able to work independently with some guidance</p>\n<p>· Able to do technical communication to understand and explain the needs of end-users</p>\n<p>· Able to think out of the box and implement solutions under constraints</p>\n<p><br></p>\n<p><strong>Bonus Requirements and Skills</strong></p>\n<p>· Understanding and familiarity with 3D Data Structures/Algorithms</p>\n<p>· Strong mathematical foundation in concepts frequently used for Robotics, such as Linear Algebra, Probability Theory and Basic Optimisation Methods.</p>\n<p>· Familiarity with ROS/ROS2</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "ROS",
+      "uuid": "05665b7826ff460887094429e8a32116",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Structures",
+      "uuid": "49110ba9c7e157360ed1b72f643bc1a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Working With Clients",
+      "uuid": "5c2058f22082d85f4ae42014d3baef51",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Systems Integration",
+      "uuid": "67068f2e67fac7a2ac39102eea3abfe1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Probability Theory",
+      "uuid": "6d69105ec4c5322b89f7eb8c65e2f96a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Communication",
+      "uuid": "bbf1f26a792c168c6a7ebfe043655eac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Robotics",
+      "uuid": "c98c19727b6a8b8fcf6b4bf5ded39488",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software integration",
+      "uuid": "de3734ccbe164163491471177940fb73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linear Algebra",
+      "uuid": "eee5ea614c3474d72c29c96917c356e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Algorithms",
+      "uuid": "f67d4abfe5d3ad3bdc35adca8802160f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21413",
+  "occupationId": "OCC061838",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "202223394D",
+    "description": null,
+    "name": "DCONSTRUCT ROBOTICS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T07:17:56.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202223394D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202223394D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202223394D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202223394D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "CENTRAL EXCHANGE GREEN",
+    "floor": null,
+    "unit": null,
+    "building": "PIXEL",
+    "postalCode": "138649",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30078571225374,
+    "lng": 103.789743904281
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1787622",
+    "deletedAt": "2026-01-22T17:15:04.000Z",
+    "createdBy": "570b1bf1-5d3d-41cc-95cb-2f39377ebbe7",
+    "createdAt": "2025-11-21T07:32:02.000Z",
+    "updatedAt": "2026-01-27T06:52:36.000Z",
+    "emailRecipient": "570b1bf1-5d3d-41cc-95cb-2f39377ebbe7",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 547,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-11-21",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 20,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/robotics-engineer-dconstruct-robotics-afed1207997d09bc8ab1c39cc8477da4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/afed1207997d09bc8ab1c39cc8477da4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/afed1207997d09bc8ab1c39cc8477da4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

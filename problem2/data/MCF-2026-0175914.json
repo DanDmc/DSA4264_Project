@@ -1,0 +1,201 @@
+{
+  "uuid": "f2a9c22c84e0ad8e2fac8537e0f20dae",
+  "sourceCode": "Employer Portal",
+  "title": "QUALITY ASSURANCE TECHNICIAN",
+  "description": "<p><u><strong>Job Description</strong></u><br />The Electrical Quality Assurance Technician is responsible for ensuring that all electrical materials, installations, and systems meet specified quality standards, project requirements, and applicable electrical codes. The role involves inspection, testing, documentation, and coordination with engineering and site teams to ensure compliance and continuous improvement throughout all project phases.<br /></p><p><u><strong>Requirements</strong></u><br />Diploma or Degree in Electrical Engineering, Electrical Technology, or a related field.</p><p><p>Relevant QA/QC or electrical inspection certifications are an advantage (e.g., ISO 9001, Electrical Inspector certification).</p></p><h3>Experience</h3><ul><li><p>7–9 years of experience in electrical QA/QC, inspection, testing, or electrical installation.</p></li><li><p>Experience in construction, manufacturing, power, or industrial projects preferred.</p></li></ul>",
+  "minimumYearsExperience": 9,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31175",
+  "occupationId": "OCC005807",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "200718041N",
+    "description": null,
+    "name": "GREAT SUN MARINE PTE. LTD.",
+    "ssicCode": "28112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T07:37:23.000Z",
+    "ssicCode2020": "28112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200718041N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200718041N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200718041N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200718041N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "200",
+    "street": "TUAS SOUTH AVENUE 2",
+    "floor": null,
+    "unit": null,
+    "building": "WEST POINT BIZHUB",
+    "postalCode": "637205",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31628145509012,
+    "lng": 103.633714885012
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175914",
+    "deletedAt": null,
+    "createdBy": "93abbab7-1e3a-428f-bdfd-ee09a053c373",
+    "createdAt": "2026-01-28T08:57:05.000Z",
+    "updatedAt": "2026-01-28T08:57:06.000Z",
+    "emailRecipient": "93abbab7-1e3a-428f-bdfd-ee09a053c373",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 77,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/quality-assurance-technician-great-sun-marine-f2a9c22c84e0ad8e2fac8537e0f20dae",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 4200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f2a9c22c84e0ad8e2fac8537e0f20dae"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f2a9c22c84e0ad8e2fac8537e0f20dae/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

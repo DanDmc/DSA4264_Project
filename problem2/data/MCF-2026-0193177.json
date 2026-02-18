@@ -1,0 +1,227 @@
+{
+  "uuid": "3bb6abc5328d7e597f234475149e435b",
+  "sourceCode": "Employer Portal",
+  "title": "ICT Infrastructure Engineer (Unix)",
+  "description": "<p>We are seeking an experienced Unix ICT Infrastructure Engineer to join our team and take ownership of Unix-based infrastructure systems and projects. The successful candidate will be responsible for designing, implementing, and managing Unix server environments, with particular expertise in Identity Management (IDM) systems and Red Hat Satellite Capsule technologies. This role requires a strategic thinker who can translate business requirements into robust Unix infrastructure solutions whilst ensuring compliance with government technical standards and policies. The position involves close collaboration with service providers, application teams, and operations staff to deliver high-availability Unix infrastructure that supports critical business applications. The ideal candidate will serve as the primary Unix infrastructure specialist, providing technical leadership from project inception through to operational handover.<br /></p><p><strong>Work Location : MAS (Project on Contract)</strong></p><p><em>a. Implement Unix-based infrastructure projects within their established practice to ensure service delivery and support to meet the intended availability, continuity and capacity requirements. </em><br /><em>b. Translate business requirements into Unix infrastructure design solutions.</em><br /><em>c. Work with service providers to design, develop, deploy and configure Unix infrastructure to meet resiliency, availability and data integrity needs.</em><br /><em>d.Ensure compliance to Authority's Technical Architecture and SG-TRM, as well as IM8 and Authority IT Policies for Unix environments.</em><br /><em>e. Manage Unix Infrastructure operations, projects and services to support application systems environments.</em><br /><em>f. Request to provision new Unix VMs for new systems deployment.</em><br /><em>g. Manage Unix system architecture, resource planning, infrastructure performance and system hosting environment from server hardware to Unix OS layer (excluding hypervisor and storage) in support of new applications.</em><br /><em>h. Serve as main Unix infrastructure single-point-of-contact for all new application system initiatives and to support/assist in application architecture design, integration and acceptance and Unix infrastructure performance testing.</em><br /><em>i. Handover Unix Infrastructure and Systems standard operating procedures and day-to-day performance/availability monitoring to Operations Engineer upon commissioning and completion of PGP.</em><br /><em>j. Support Operations Engineer on Unix Infrastructure and Systems troubleshooting and maintenance.</em><br /><em>k. Assist in Unix Infrastructure Architecture review, support and endorsement. Review Unix hardening standards for OS, database and applications.</em><br /><em>l. Unix hosting environment infrastructure on-boarding (design, setup, configuration, implementation, testing and commissioning of Unix infrastructure components). </em><br /><em>m. Understand Unix systems operations environment including monitoring, patching, and maintenance procedures.</em><br /><em>n. Take care of end-to-end Unix operations and integrations with client machines.</em><br /><em>o.  Expert  proficiency with Unix systems and enterprise management tools, including: </em><br /><em>• Red Hat Identity Management (IDM)</em><br /><em>• IDM replica management and high availability configuration</em><br /><em>• LDAP directory services integration and management</em><br /><em>• Kerberos authentication and Single Sign-On (SSO) implementation</em><br /><em>• Certificate Authority (CA) management within IDM</em><br /><em>• Red Hat Satellite Server and Capsule deployment and management</em><br /><em>• Satellite Capsule configuration for distributed content management</em><br /><em>• Content lifecycle management and patch deployment via Satellite</em><br /><em>• Configuration management and compliance reporting through Satellite</em><br /><em>• Unix/Linux system provisioning and automated deployment</em><br /><em>• Shell scripting (Bash, Python) for automation and system management</em><br /><em>Unix clustering and high availability solutions (Pacemaker, Corosync)</em><br /><em>Unix security hardening and compliance frameworks</em><br /><em>Government Commercial Cloud (GCC) Unix infrastructure management</em><br /></p><p><strong>Skills Set and Qualifications</strong><br /></p><p>a. Tertiary Education in Computer Science,Information Technology, or relevant technical fields is preferred. <br />b. Minimum 3-5 years hands-on experience in Unix/Linux environments (RHEL, CentOS, AIX), including Unix OS virtualisation  technologies, familiarity on Unix-based SAN storage integration and Unix  database systems (Oracle, PostgreSQL, MySQL).<br />c. Strong expertise in Red Hat technologies including RHEL, Red Hat Satellite, Red Hat Identity Management, and Red Hat  clustering solutions.<br />d. Proficiency in Unix/Linux system administration, shell scripting, automation tools, and configuration management systems (Ansible, Puppet, Chef). <br />e. Experience with Identity Management systems, LDAP directories, Kerberos authentication, and enterprise SSO solutions. <br />f.  Knowledge of Red Hat Satellite architecture, content management, and distributed Capsule server deployment.<br />g.Ability to take a broad, strategic perspective on Unix infrastructure whilst drilling deep to understand business needs and technical challenges.<br />h. Ability to analyse and identify comprehensive Unix-based solutions considering all functional implications while developing workable solutions.<br />i. Results and customer oriented with focus on Unix service delivery excellence.<br />j. Team player with strong organization and people handling skills in Unix project environments. <br />k. Excellent communication skills, both oral and written, with the ability to present Unix technical solutions and  influence stakeholders. <br />l.  Relevant Red Hat certifications (RHCSA, RHCE, RHCA) and Unix vendor certifications would be advantageous.<br />m.    Experience with Unix monitoring tools   (Nagios, Zabbix, Red Hat Insights) and Unix troubleshooting methodologies. Understanding ofcontainerisation technologies (Docker, Podman) and orchestration platforms (OpenShift, Kubernetes) in Unix environments.</p>",
+  "minimumYearsExperience": 9,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Puppet",
+      "uuid": "14590850b4107a6f92feb1af739b82eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ICT",
+      "uuid": "395b46c50c2eeeefbc2180c8630df2d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAN",
+      "uuid": "62a0282d39568be094470486eaf70c4f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Infrastructure Architecture",
+      "uuid": "a7ff5dbe222c2bda185337b7d608073d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Oriented",
+      "uuid": "bbc6c65878bbeca807143d90dc1d1fca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Virtualisation",
+      "uuid": "d1b266439ed6947fdc7d575c85979964",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Architecture",
+      "uuid": "e3cc7e7df9aef2c1b111d0449957acfc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25232",
+  "occupationId": "OCC060890",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 7,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201405919C",
+    "description": "<p><u><strong>INNOVATIQ TECHNOLOGIES PTE. LTD:</strong></u></p>\n<p>We are Singapore Head Quartered multinational company with offices in Singapore, Malaysia and India. Planning to expand to other South East Asia and US. We are Client business focused technology and consultancy services company which focuses mainly in on the below business towers:</p>\n<p>1. Digital Transformation</p>\n<p>2. Cloud enablement &amp; migration</p>\n<p>3. Cyber Security</p>\n<p>4. Consultancy Services</p>\n<p><strong>1.</strong> <u><strong>Digital Transformation:</strong></u></p>\n<p>We provide end to end Digital Transformation through application development, Artificial Intelligence, Machine Learning and Internet of things to customers who want to keep pace with changing trends to achieve competitive edge of new generation business models. Even in this fast-moving 5G internet world we found some of the companies are stuck with their old practices of using excel and legacy applications to run their business. These legacy applications are still useful but require huge costs to enhance and maintain due to lack of support from the vendors. For such companies, we offer our consultancy services to implement and migrate to a new out-of-the-box products that provides more powerful features and support their business with productive way of working and reducing their operational cost.</p>\n<p>Digital transformation is the integration of digital technology into all areas of a business, fundamentally changing how you operate and deliver value to customers. It's also a cultural change that requires organizations to continually challenge the status quo, experiment, and get comfortable with failure. We provide Digital Transformation to Mid-Market and Enterprise Customers vis App Dev, AI, ML, RPA and IoT.</p>\n<p><u><strong>ERP Rollout for midmarket &amp; Enterprise clients:</strong></u></p>\n<p>ERP provides complete visibility into core business processes and optimizes systems through superior resource tracking and reporting, database management and data sharing and overall improved information systems. ERP systems can allow your business to expand without the addition of IT or staffing costs. We implement &amp; support SAP S4 HANA, MS Dynamics.</p>\n<p><strong>2.</strong> <u><strong>Cloud Enablement &amp; Migration</strong></u></p>\n<p>Our cloud service offerings include end to end consultancy and implementation as per needs of our customer business requirement. We are partner agnostic company and work with multiple cloud players of the market. Our employees are cloud certified with AWS, Azure and IBM. We offer our consultancy services to those clients who are looking to bring down their capex and move their workloads to open platforms that can help them to operate with minimal cost and faster response.</p>\n<p>We support the most open and secure public cloud for businesses and suggest a next-generation hybrid multi cloud platforms, advanced data and AI capabilities, and deep enterprise expertise across various Industries.&nbsp;</p>\n<p><br></p>",
+    "name": "INNOVATIQ TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": 50,
+    "companyUrl": "www.innovatiq.com.sg",
+    "lastSyncDate": "2026-02-04T01:14:38.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/schemes"
+      }
+    },
+    "logoFileName": "82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193177",
+    "deletedAt": null,
+    "createdBy": "39dcb0a5-e23e-4f91-8790-18307171f3ae",
+    "createdAt": "2026-01-31T07:33:38.000Z",
+    "updatedAt": "2026-01-31T07:33:39.000Z",
+    "emailRecipient": "39dcb0a5-e23e-4f91-8790-18307171f3ae",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/ict-infrastructure-engineer-innovatiq-technologies-3bb6abc5328d7e597f234475149e435b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3bb6abc5328d7e597f234475149e435b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3bb6abc5328d7e597f234475149e435b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

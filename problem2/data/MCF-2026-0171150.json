@@ -1,0 +1,212 @@
+{
+  "uuid": "9f868c9abf0e24b8e15ea552c607be19",
+  "sourceCode": "Employer Portal",
+  "title": "Laundry Presser",
+  "description": "<p><strong>Job Descriptions:</strong></p>\n<ul>\n  <li>Steam, iron and blow clothing</li>\n  <li>Carry out quality control checks on garments before packaged and sent out to customers Job</li>\n  <li>Maintains overall cleanliness of work area and equipment</li>\n</ul>\n<p><strong>Job Requirements:</strong></p>\n<ul>\n  <li>Good eye for detail</li>\n  <li>Training is provided for non-experience candidates</li>\n  <li>Good timekeeping skills and team player</li>\n  <li>Medically and physically fit (able to stand long hours)</li>\n</ul>\n<p><strong>Job Application:</strong></p>\n<ul>\n  <li>Walk in interview is welcome: 02-05, 38 woodlands industrial park e1, singapore 757700. Monday to Saturday 10am to 4pm</li>\n  <li>SMS or Whatsapp to: 67696603.  (This phone number can Whatsapp)</li>\n  <li>Singaporean or PR only due to foreinger quota limitation. </li>\n</ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Well Organised",
+      "uuid": "319ec4e719504d82125fd70c2e819ca7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "checking quality",
+      "uuid": "3f6d3fcab0cb0b6ad23ba5e0bb881452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "checking for faults",
+      "uuid": "500435f0216c5096559c66b2f1469d2f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "laundry duties",
+      "uuid": "c6de81b9bb187796f8791f665e7da5a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Timekeeping",
+      "uuid": "df18fec4a1eeb6739740724ee3fb89f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "hardworking",
+      "uuid": "e5bafd3db41afda1b9bf9aa7871e2aa6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ironing",
+      "uuid": "ec1378e55bcdab87786e4d4bc5a368c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91210",
+  "occupationId": "OCC061035",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201303465M",
+    "description": "<p>\r\n\tProvide laundry and dry cleaning service to individual and corporate customer</p>\r\n",
+    "name": "LAUNDRYMART PROFESSIONAL PTE. LTD.",
+    "ssicCode": "96011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T01:31:05.000Z",
+    "ssicCode2020": "96011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201303465M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201303465M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201303465M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201303465M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "38",
+    "street": "WOODLANDS INDUSTRIAL PARK E1",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "757700",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.4547825486256,
+    "lng": 103.798562662678
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171150",
+    "deletedAt": null,
+    "createdBy": "e049546f-2c00-4a1f-b745-697417406c72",
+    "createdAt": "2026-01-28T01:32:11.000Z",
+    "updatedAt": "2026-01-28T01:32:12.000Z",
+    "emailRecipient": "e049546f-2c00-4a1f-b745-697417406c72",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 46,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/laundry-presser-laundrymart-professional-9f868c9abf0e24b8e15ea552c607be19",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2300,
+    "minimum": 1700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f868c9abf0e24b8e15ea552c607be19"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f868c9abf0e24b8e15ea552c607be19/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

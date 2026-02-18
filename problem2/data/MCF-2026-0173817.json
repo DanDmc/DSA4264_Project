@@ -1,0 +1,258 @@
+{
+  "uuid": "f0f1eedbb245b0ae443a5c092e5217eb",
+  "sourceCode": "Employer Portal",
+  "title": "SALES REPRESENTATIVE",
+  "description": "<p>Assist customers in selecting the right orthopedic shoes and custom insoles for their needs.</p><p>Provide excellent customer service and educate customers on the benefits of our products.</p><p>Help drive sales and earn commissions.</p><p>Maintain a clean and organized store environment.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Product Knowledge",
+      "uuid": "008a8d8a377a59673ee533a01f0590a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CRM",
+      "uuid": "01d3fccafdd317b776011bfd3a695ce7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excellent Communication Skills",
+      "uuid": "0720b6afb8ec48831c9b1b6b847d03e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orthopedic",
+      "uuid": "289141ea6504b5ff6001399b04fb7737",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Engagement",
+      "uuid": "5951a98d1f0f5386d40e1c23b2b1de84",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Relationships",
+      "uuid": "59d71aae92a15e9390de18ec4eae0528",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Success",
+      "uuid": "70227fe8c2717f91ce1d5ac7bc4496d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Geography",
+      "uuid": "84352d0cf230738e4ee298790e4b5265",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Management",
+      "uuid": "b9625bf30fc83ff0cb46ceb80c7cddc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Motions",
+      "uuid": "ed2e5969d41a7c486db4aa09dd2b5ae5",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "52202",
+  "occupationId": "OCC007006",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201609475N",
+    "description": null,
+    "name": "WAL'S EMPLOYMENT AGENCY PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T03:57:23.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609475N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609475N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609475N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201609475N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201922363W",
+    "description": null,
+    "name": "CF ENTERPRISES PTE. LTD.",
+    "ssicCode": "15200",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T05:19:02.000Z",
+    "ssicCode2020": "15200",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201922363W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201922363W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201922363W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201922363W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173817",
+    "deletedAt": null,
+    "createdBy": "11a9ce2c-bd89-4118-a284-0af6a1f34e0c",
+    "createdAt": "2026-01-28T05:25:34.000Z",
+    "updatedAt": "2026-01-28T05:25:34.000Z",
+    "emailRecipient": "11a9ce2c-bd89-4118-a284-0af6a1f34e0c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 31,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/sales-representative-cf-enterprises-f0f1eedbb245b0ae443a5c092e5217eb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f0f1eedbb245b0ae443a5c092e5217eb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f0f1eedbb245b0ae443a5c092e5217eb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,199 @@
+{
+  "uuid": "c25f573093c550ec0558187244a4a639",
+  "sourceCode": "Employer Portal",
+  "title": "Inbound Operation",
+  "description": "<p><u><strong>Job Description</strong></u></p>\n<p>• Manage regular travel company daily operations</p>\n<p>• Arrange tour transportation, accommodation</p>\n<p>• Handle travel operations including reservations of tours &amp; hotels, air ticketing, travel coordination and customer support</p>\n<p>• Responsible for handling in bound calls in a professional and efficient manner</p>\n<p>• Interacts with local travel agents and oversea travel agents.</p>\n<p>• Follows company procedures, guidelines and standards in building productivity, accuracy of work and punctual attendance.</p>\n<p>• Communicate with staff for special needs for scheduled activities</p>\n<p>• Provide general secretarial support in overall office operations, assignments, and projects</p>\n<p>• Post information, file documents and maintain paper and computer records management/file systems</p>\n<p>• Compile information and prepare correspondence, reports, packets, labels, envelopes, forms, and other materials</p>\n<p>• Coordinate reservations, contracts, and record keeping for tours and facility reservations</p>\n<p>• Provide service to customers by answering questions, providing information, making referrals, and assuring appropriate follow-through and/or resolution</p>\n<p>• Ensure booking are processed / deadline by local arrangement are met and issuing of vouchers</p>\n<p>• Ensure travel documents are processed accurately</p>\n<p><br></p>\n<p><u><strong>Requirements</strong></u></p>\n<p>• Minimum GCE O' Level &amp; above or preferably Diploma in Tourism from a recognized Polytechnic</p>\n<p>• Experience in the Travel Industry is an added advantage</p>\n<p>• Preferably minimally 1 year of working experience in Outbound Operations</p>\n<p>• Meticulous administrative and operational skills</p>\n<p>• Computer literate with knowledge of Microsoft Word, Excel, Galileo/Airline systems are preferable</p>\n<p>• Able to work independently</p>\n<p>• A proactive team player who can work in a fast-paced environment</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Referrals",
+      "uuid": "14eac32351aaebc9d0b5ec42fe95e3ab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Labels",
+      "uuid": "3ad6cb6100190c8f81e99fd52debf7ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ticketing",
+      "uuid": "3d521aae366391a2922976fc88af7f6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Support",
+      "uuid": "45db51f999b9e9fc7263a7e0ebc2d7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Travel Coordination",
+      "uuid": "b51be1b250cf41a2710fdf8426a88c04",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC061864",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 40,
+      "category": "Travel / Tourism"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200501619K",
+    "description": "<div>\r\n\tTravel Star is a member of the prestigious National Association of Travel Agents Singapore (NATAS) [and is accredited with CaseTrust-NATAS Mark, signifying a company that is recognized for engaging in fair and ethical business practices.&nbsp;</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\tAt Travel Star, we are fully committed to making our customers&#39; holidays a wonderful and unforgettable experience, in line with our mission of providing quality and delightful tour packages to all our customers.&nbsp;</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\tSince 2005, Travel Star has been growing from strength to strength, offering a comprehensive product line up for both the international leisure traveller as well as for group MICE (Meetings, Incentive tours, Conferences and Events) business.&nbsp;</div>\r\n",
+    "name": "TRAVEL STAR PTE. LTD.",
+    "ssicCode": "79102",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T01:35:03.000Z",
+    "ssicCode2020": "79102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200501619K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200501619K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200501619K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200501619K/schemes"
+      }
+    },
+    "logoFileName": "36582b7c09d4dd0043802f331753fd82/travel-star.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/36582b7c09d4dd0043802f331753fd82/travel-star.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "114",
+    "street": "LAVENDER STREET",
+    "floor": null,
+    "unit": null,
+    "building": "CT HUB 2",
+    "postalCode": "338729",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31158791306681,
+    "lng": 103.86337512307
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1764473",
+    "deletedAt": "2025-12-18T17:15:04.000Z",
+    "createdBy": "e8e8c5c1-b838-40f4-83fc-5c75f4efc1f6",
+    "createdAt": "2025-11-18T04:01:34.000Z",
+    "updatedAt": "2026-01-30T01:35:38.000Z",
+    "emailRecipient": "e8e8c5c1-b838-40f4-83fc-5c75f4efc1f6",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 311,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-11-18",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 28,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/travel/inbound-operation-travel-star-c25f573093c550ec0558187244a4a639",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c25f573093c550ec0558187244a4a639"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c25f573093c550ec0558187244a4a639/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

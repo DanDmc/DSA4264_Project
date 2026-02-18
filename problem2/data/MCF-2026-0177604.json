@@ -1,0 +1,198 @@
+{
+  "uuid": "8b7fed37ee31e05f43ede116ed859f4b",
+  "sourceCode": "Employer Portal",
+  "title": "Facilities Assistant Manager (Medical)",
+  "description": "<h3>Key Responsibilities</h3><p><p>Drive strategic facilities improvement initiatives that elevate operational excellence, ensuring full alignment with quality, safety, and contractual requirements</p><p>Ensure optimal performance and reliability of plant, building, and critical infrastructure systems through proactive maintenance and continuous improvement</p><p>Lead, mentor, and grow a high-performing Facilities Management team, fostering capability development through coaching, training, and structured performance reviews</p><p>Collaborate closely with vendors, contractors, and internal stakeholders to deliver projects, manage procurement, and resolve issues efficiently</p><p>Partner with the Head of Department on planning and decision-making, and act as Deputy when required to ensure continuity of leadership and operations</p><p><br /></p><h3>Qualifications & Experience</h3><p><ul><li>Diploma or Degree in Engineering, Building Services, Facilities Management, or a related discipline</li><li>Strong working knowledge of regulatory standards and statutory requirements, with the ability to ensure compliance across facilities operations</li><li>Excellent interpersonal and communication skills, with the ability to engage effectively with internal teams, vendors, and external stakeholders</li><li>Proactive, solutions-oriented mindset, able to thrive in a fast-paced, operationally critical environment</li><li>Prior experience in a hospital or healthcare setting is an advantage, particularly in managing mission-critical facilities and compliance-driven operations</li></ul></p></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operational Excellence",
+      "uuid": "2fa2e9f495df0cdcfa992171784f89b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Services",
+      "uuid": "6f943869ecd85edee9c33427089dbb08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Facilities Management",
+      "uuid": "f5a31c5c27603ad54132539f09cb4a56",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12199",
+  "occupationId": "OCC001483",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1192",
+  "postedCompany": {
+    "uen": "202505211C",
+    "description": "<p>LPB Talent is a forward-looking employment solutions company founded with the belief that hiring the right person is not just about filling a vacancy but about shaping the future of organizations. We recognize that traditional recruitment processes often focus narrowly on resumes, leaving critical factors such as cultural fit, adaptability, and long-term potential overlooked. Our vision is to bridge this gap by combining technology, psychology, and human expertise to create a seamless and precise talent-matching experience. With Singapore as our base, we are committed to building a trusted platform where employers can discover candidates who not only meet technical qualifications but also resonate with the company’s values and long-term goals.</p>",
+    "name": "LPB TALENT SOLUTION PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": 3,
+    "companyUrl": "https://www.lpbtalent.com/",
+    "lastSyncDate": "2026-02-02T15:17:26.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505211C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505211C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505211C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202505211C/schemes"
+      }
+    },
+    "logoFileName": "ed478ff492eaea4a26aecbcbb3571061/lpb-talent-solution.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ed478ff492eaea4a26aecbcbb3571061/lpb-talent-solution.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "176",
+    "street": "CANBERRA DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "THE VISIONAIRE",
+    "postalCode": "767950",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44600320544058,
+    "lng": 103.826203329055
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177604",
+    "deletedAt": null,
+    "createdBy": "73902b91-f136-43d3-bc1a-c155b95e7094",
+    "createdAt": "2026-01-28T13:09:27.000Z",
+    "updatedAt": "2026-01-28T13:09:26.000Z",
+    "emailRecipient": "73902b91-f136-43d3-bc1a-c155b95e7094",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 192,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 37,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-management/facilities-assistant-manager-lpb-talent-solution-8b7fed37ee31e05f43ede116ed859f4b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8b7fed37ee31e05f43ede116ed859f4b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8b7fed37ee31e05f43ede116ed859f4b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

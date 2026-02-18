@@ -1,0 +1,209 @@
+{
+  "uuid": "cb1dd6775fbdf8d0ebb16154a5f8996b",
+  "sourceCode": "Employer Portal",
+  "title": "Customer Service Executive",
+  "description": "<p><strong></strong></p><ul><li>Attend to customer's enquiries on job order status, availability and co-ordination of tasks.</li><li>Execution of customer's orders, processing and summarizing the essential information given into the job order form with required attachments.</li><li>Use of Trade-net to provide the Value-Added Service of permit declaration for customers.</li><li>Prepare orders for Planner and follow-up with customers when there are incomplete information or documents.</li><li>Coordination for booking of chemcare in PSA for DG Isotanks or containers.</li><li>Collate information for planner if there are any changes for the day itself for delivery.</li><li>Ensure all delivery orders/ weighing tickets are received once job completed and forward to customers as proof of delivery.</li><li>Closing of job orders for billing once job is completed.</li><li>Prepare documents and arrange for dispatch to deliver to shipping lines/ customers.</li><li>Attending to customer's request for quotes, checking of trucking rates, invoice discrepancies etc.</li></ul><p><strong>Job Requirements:-</strong></p><ul><li>Minimum Diploma in Logistics, Supply Chain Management, International Business, or a related field.</li><li>At least 1 year of working experience in the transport and logistics industry.</li><li>Strong attention to detail and ability to work under pressure.</li><li>Excellent organizational and problem-solving skills.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Experience",
+      "uuid": "3af9091c15437e858ed3be6327212fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Freight",
+      "uuid": "a2eca8f6be5b0bf0f2cddcda7cfca376",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service Experience",
+      "uuid": "fa63d7f8c765d48aafb86bd9c5adc310",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC009123",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 24,
+      "category": "Logistics / Supply Chain"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0514",
+  "postedCompany": {
+    "uen": "199704177N",
+    "description": "<p>\r\n\tHEAN NERNG LOGISTICS PTE LTD</p>\r\n",
+    "name": "MILKYWAY INTERNATIONAL TANK TRANSPORTATION PTE. LTD.",
+    "ssicCode": "49231",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:47:32.000Z",
+    "ssicCode2020": "49231",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704177N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704177N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704177N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199704177N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "GUL AVENUE SINGAPORE",
+    "floor": null,
+    "unit": null,
+    "building": "MILKYWAY INTERNATIONAL TANK TRANSPORTATION PTE LTD",
+    "postalCode": "629651",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31456271317587,
+    "lng": 103.67400414769
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159153",
+    "deletedAt": null,
+    "createdBy": "07d0465a-d9cc-4bbf-a995-8da103307faa",
+    "createdAt": "2026-01-26T08:13:37.000Z",
+    "updatedAt": "2026-01-26T08:13:37.000Z",
+    "emailRecipient": "07d0465a-d9cc-4bbf-a995-8da103307faa",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 115,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/customer-service-executive-milkyway-international-tank-transportation-cb1dd6775fbdf8d0ebb16154a5f8996b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cb1dd6775fbdf8d0ebb16154a5f8996b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cb1dd6775fbdf8d0ebb16154a5f8996b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

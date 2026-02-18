@@ -1,0 +1,204 @@
+{
+  "uuid": "a064f94dd9bdd98fe6a91082b6152f6a",
+  "sourceCode": "Employer Portal",
+  "title": "Stage compere",
+  "description": "<ul>\n  <li><strong>Opening and closing the event</strong>: Introduce the event, welcome the audience, and set the tone.</li>\n  <li><strong>Introducing speakers/performers</strong>: Provide brief, engaging introductions for each act or speaker.</li>\n  <li><strong>Keeping the program on track</strong>: Manage timing, ensuring the event runs according to the schedule.</li>\n  <li><strong>Engaging the audience</strong>: Maintain audience energy and attention, especially between segments.</li>\n  <li><strong>Handling transitions</strong>: Smoothly move from one part of the program to another.</li>\n  <li><strong>Managing unexpected situations</strong>: Improvise in case of delays, technical issues, or other unforeseen events.</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Production",
+      "uuid": "282d7de8562d59af6536e2caf1a0f081",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Management",
+      "uuid": "7effb2f87a97b7666a5f62f9f90a493e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arts Management",
+      "uuid": "9eb7a0d9077d959417ff337e8af7d2f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stage Management",
+      "uuid": "a1e15c1374c8e0b0fb85b3f29635b0d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Singing",
+      "uuid": "eec5503e21c428e650987268e368f0a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "26549",
+  "occupationId": "OCC005095",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 12,
+      "category": "Entertainment"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0517",
+  "postedCompany": {
+    "uen": "201212117E",
+    "description": "<p>\r\n\tJAMCUTE PTE. LTD.</p>\r\n<p>\r\n\tWe are a club located in Orchard hotel.</p>\r\n",
+    "name": "JAMCUTE PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T06:15:30.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212117E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212117E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212117E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201212117E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "442",
+    "street": "ORCHARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ORCHARD HOTEL SINGAPORE",
+    "postalCode": "238879",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30766860940269,
+    "lng": 103.828164396352
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0152849",
+    "deletedAt": null,
+    "createdBy": "8b7389e9-86b2-4751-98cc-34ea7be34e35",
+    "createdAt": "2026-01-25T06:15:58.000Z",
+    "updatedAt": "2026-01-25T06:15:59.000Z",
+    "emailRecipient": "8b7389e9-86b2-4751-98cc-34ea7be34e35",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 32,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-08",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/entertainment/stage-compere-jamcute-a064f94dd9bdd98fe6a91082b6152f6a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a064f94dd9bdd98fe6a91082b6152f6a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a064f94dd9bdd98fe6a91082b6152f6a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

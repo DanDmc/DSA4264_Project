@@ -1,0 +1,212 @@
+{
+  "uuid": "ff92bfd08cb030854eb75911aa07b8a6",
+  "sourceCode": "Employer Portal",
+  "title": "Audit Associate",
+  "description": "<p><strong>Job Highlights</strong></p>\n<ul>\n  <li>Training and development opportunities</li>\n  <li>Performance-based bonus</li>\n  <li>Open door policy and positive work culture</li>\n</ul>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n  <li>Support the audit team to perform on-site fieldwork</li>\n  <li>Document and test clients’ internal control system</li>\n  <li>Internal audit, special projects, transaction services and due diligence work</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n  <li>Degree/Diploma holder in Accountancy or equivalent professional qualification</li>\n  <li>ACCA Affiliate and ISCA Associate are greatly encouraged to apply.</li>\n  <li>Desire to make the profession a long-term career</li>\n</ul>\n<p><strong>Special Skills:</strong></p>\n<ul>\n  <li>Candidates should possess good command of English with excellent written and verbal communication skills, as well as interpersonal skills.</li>\n  <li>Candidates must also be prepared to work in a multi-cultural environment and travel, particularly to Asian countries.</li>\n  <li>Proficiency in an additional Asian Language is highly desired (to liaise with an additional Asian Language speaking associates)</li>\n  <li>Strong working knowledge of Microsoft Word and Excel is required.</li>\n</ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assurance",
+      "uuid": "5f0d8f614176ed32572ffc4e25701af9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Auditing",
+      "uuid": "78f48b8a03facd61000db8f7ae6f9227",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Internal Audit",
+      "uuid": "c751912083ae07ef98a8ad51dfd6a0a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Reporting",
+      "uuid": "f8cc933992ca4af7cb5eddd6b9d44778",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43113",
+  "occupationId": "OCC008781",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0522",
+  "postedCompany": {
+    "uen": "S90PF0429D",
+    "description": "<p>\r\n\tLOW, YAP & ASSOCIATES</p>\r\n",
+    "name": "LOW, YAP & ASSOCIATES",
+    "ssicCode": "69201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:36:10.000Z",
+    "ssicCode2020": "69201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S90PF0429D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S90PF0429D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S90PF0429D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S90PF0429D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "4",
+    "street": "SHENTON WAY",
+    "floor": null,
+    "unit": null,
+    "building": "SGX CENTRE II",
+    "postalCode": "068807",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27932186685936,
+    "lng": 103.849827129495
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187863",
+    "deletedAt": null,
+    "createdBy": "ec4d89eb-ab83-436f-bbc1-b169f9159cc9",
+    "createdAt": "2026-01-30T05:07:02.000Z",
+    "updatedAt": "2026-01-30T05:07:02.000Z",
+    "emailRecipient": "ec4d89eb-ab83-436f-bbc1-b169f9159cc9",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 79,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/audit-associate-low-yap-associates-ff92bfd08cb030854eb75911aa07b8a6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3800,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff92bfd08cb030854eb75911aa07b8a6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ff92bfd08cb030854eb75911aa07b8a6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

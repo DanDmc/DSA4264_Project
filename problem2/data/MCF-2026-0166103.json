@@ -1,0 +1,208 @@
+{
+  "uuid": "30503443ea16e515a2bf85b5b2e52a3d",
+  "sourceCode": "Employer Portal",
+  "title": "Handyman",
+  "description": "<p><strong>KEY RESPONSIBILITIES AND ACCOUNTABILITES</strong></p><ul><li>Perform preventive and corrective maintenance of facilities and equipment.</li><li>Repair of mobile medical equipment (wheelchairs, shower trolleys, etc.) and other equipment/furniture.</li><li>Perform electrical works (laying of cables, etc.).</li><li>Perform plumbing works inclusive of clearing of chokes.</li><li>Assist in painting.</li><li>Assist in logistical set-up for events held at the Home.</li><li>Any other ad-hoc duties as assigned.</li></ul><p><strong>JOB REQUIREMENTS</strong></p><ul><li>Certificate in Electrical / Mechanical / Air-conditioning / Building Services / Engineering</li><li>At least 3 to 5 years of hands-on experience</li><li>Knowledge and experience in M&E works are required</li><li>Experience in mobile medical equipment (wheelchairs, shower trolleys, etc.) maintenance is an added advantage</li><li>Able to use the digital Work Order Management System</li><li>Able to handle heavy loads (more than 30kg)</li><li>On the job training will be provided</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Painting",
+      "uuid": "2875ec54afbd9922e0553f4b441aa54b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Building Services",
+      "uuid": "6f943869ecd85edee9c33427089dbb08",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "uuid": "9ad19466be36a021a93f871bbbc87c2d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Corrective Maintenance",
+      "uuid": "b3d1b0b3dec7819721c72cbe33b93f42",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Plumbing work",
+      "uuid": "c8f8707691992088aacbaefaf59f72fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Order",
+      "uuid": "fdcaac8eea86f0365e7dcd3dca197e0e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "96293",
+  "occupationId": "OCC060714",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "1151",
+  "postedCompany": {
+    "uen": "S68SS0022J",
+    "description": "<p>Society for the Aged Sick is a not-for-profit nursing home with a licensed bed capacity of 404. We are located at Hougang Avenue 1.</p>\n<p><br></p>\n<p>The Home provides residential and respite services to people in need of daily skilled nursing care and/or assistance in activities of daily living, and who cannot be cared for at home, particularly the less privileged.&nbsp;</p>\n<p><br></p>\n<p>We provide a range of services to meet the needs of our residents. They include medical care, nursing care, physiotherapy and occupational therapy, dietary services and dental care.&nbsp;</p>\n<p><br></p>\n<p>Please visit our website at <strong>http://www.societyagedsick.org.sg</strong> for more details about us.</p>\n<p><br></p>",
+    "name": "Society for The Aged Sick",
+    "ssicCode": "86904",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:20:36.000Z",
+    "ssicCode2020": "00000",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S68SS0022J"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S68SS0022J/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S68SS0022J/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S68SS0022J/schemes"
+      }
+    },
+    "logoFileName": "910cdcec661773f78f04173e55d9451b/society-aged-sick.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/910cdcec661773f78f04173e55d9451b/society-aged-sick.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "130",
+    "street": "Hougang Avenue 1",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "538900",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.34987096829754,
+    "lng": 103.88764426971
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166103",
+    "deletedAt": null,
+    "createdBy": "e477b992-bb18-4e7d-b81b-9fd48025d3db",
+    "createdAt": "2026-01-27T06:04:43.000Z",
+    "updatedAt": "2026-01-27T06:04:43.000Z",
+    "emailRecipient": "e477b992-bb18-4e7d-b81b-9fd48025d3db",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/handyman-society-aged-sick-30503443ea16e515a2bf85b5b2e52a3d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2600,
+    "minimum": 2300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/30503443ea16e515a2bf85b5b2e52a3d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/30503443ea16e515a2bf85b5b2e52a3d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

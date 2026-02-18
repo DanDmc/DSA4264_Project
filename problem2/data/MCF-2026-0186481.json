@@ -1,0 +1,224 @@
+{
+  "uuid": "0edc83a73d27c749e694533f125090d6",
+  "sourceCode": "Employer Portal",
+  "title": "Therapy",
+  "description": "<p>A Traditional Chinese Medicine (TCM) clinic in Singapore is seeking a Massage Therapist.</p>\n<p> We are looking for candidates who are passionate about TCM and possess professional massage skills. </p>\n<p>Requirements include relevant certification, good communication skills, and a spirit of teamwork. We offer a good working environment and competitive salary. If you are passionate about TCM and wish to develop your career in a professional team, please send your resume to our email address.our email:admin@ferragold.com</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Services",
+      "uuid": "4f20b99cd1a83a132e2765e8d3340389",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Traditional Chinese Medicine",
+      "uuid": "5dc2a02d462a6822a49f8419cdfcf29f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Occupational Therapy",
+      "uuid": "aa4990ad9c87213ee7b8fcd2013c5753",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rehabilitation",
+      "uuid": "e765619294e2183b066875df4954d66e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "51491",
+  "occupationId": "OCC013638",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201938445E",
+    "description": "<p>Ferragold Academy Pte Ltd was established in 2019. As a training institution of the Ferragold Group, Ferragold Academy Pte Ltd provides the best learning opportunities in the fields of continuing education in traditional Chinese medicine, auxiliary medicine, clinical medicine, acupuncture and massage, and healthcare through strategic partnerships with world-class universities and medical institutions.</p>",
+    "name": "FERRAGOLD ACADEMY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T02:16:47.000Z",
+    "ssicCode2020": "85220",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201938445E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201938445E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201938445E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201938445E/schemes"
+      }
+    },
+    "logoFileName": "5ad2858600a23475a0c81359d061256d/ferragold-academy.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5ad2858600a23475a0c81359d061256d/ferragold-academy.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186481",
+    "deletedAt": null,
+    "createdBy": "e29c35e3-b970-422c-ab7f-902ea3465a95",
+    "createdAt": "2026-01-30T02:18:45.000Z",
+    "updatedAt": "2026-01-30T02:18:44.000Z",
+    "emailRecipient": "e29c35e3-b970-422c-ab7f-902ea3465a95",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 116,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/therapy-ferragold-academy-0edc83a73d27c749e694533f125090d6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0edc83a73d27c749e694533f125090d6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0edc83a73d27c749e694533f125090d6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

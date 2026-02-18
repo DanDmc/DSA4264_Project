@@ -1,0 +1,221 @@
+{
+  "uuid": "90d73815989fd821a9c0f00119dc5592",
+  "sourceCode": "Employer Portal",
+  "title": "IBM Planning Analytics (PA) Support Engineer (Ref 26330)",
+  "description": "<p>Responsibilities<br />• Perform impact analysis and resolve production defects.<br />• Manage daily operation chores/nightly data refresh in the IBM PA project and share observations if any.<br />• Fix data load failure, errors and warnings.<br />• Variance analysis/ data validation on monthly or quarterly close.<br />• Ensure data archival, restore and backup procedure.<br />• Upgrade and apply patches for IBM PA application (on premise IBM PA on GCC Cloud).<br />• Involve in cutover activities and well verse in executing the steps.<br />• Involve in deployment activities post fixes and enhancement.<br />• Work closely with infrastructure team for any environment issues, security, and concerns.<br /><br />Requirements<br />• Degree in Computer Science or relevant studies<br />• Minimum 4 years of relevant experience.<br />• Good understanding of the budgeting & forecasting process.<br />• Quick learner and able to understand implemented system functionality.<br />• Fundamental concepts:<br />• Cube, Dimension, element and hierarchy.<br />• Rules and feeders<br />• TI Process<br />• Data Type (numeric, string, consolidation)<br />• PAW, PAX, Pafe, TM1 web</p><p>Technical Skills: <br />a) Fundamental concepts:<br />• Cube, Dimension, element and hierarchy.<br />• Rules and feeders<br />• TI Process<br />• Data Type (numeric, string, consolidation)<br />• PAW, PAX, Pafe, TM1 web</p><p>b) PAW:<br />• Creating and managing cubes, dimensions, hierarchies, and subsets directly from PAW<br />• Defining relationships, attributes, and aliases<br />• Writing and testing rules within PAW’s rule editor<br />• Building and executing TI (TurboIntegrator) processes<br /></p><p>c) UI/UX:<br />• Designing intuitive PAW books and sheets<br />• Using widgets, tabs, selectors, and quick reports<br />• Best practices for layout, formatting, and usability</p><p>d) Security:<br />• Object security (cube, dimension, element, process, chore)<br />• Cell-level security rules and application security</p><p>e) Admin:<br />• Backup and recovery of PAW books and assets<br />• Deployment and upgrade</p><p>f) Others:<br />• Python Scripting<br />• Advance TI & Rule debugging<br />• Conditional Rule<br />• Feeder optimization<br />• Debugging feeders</p><p><br />Licence no :12C6060</p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Forecasting",
+      "uuid": "0de29ddbb6fc136b8faab710b343c452",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Books",
+      "uuid": "6225eb5bf8a031f750a1b03f810ccc6a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Variance Analysis",
+      "uuid": "73bea97d1715700f102e73fd650314de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production Support",
+      "uuid": "97349fc54cbfa5fba536828de1af9ac2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production deployment",
+      "uuid": "a08d0a115e190258f3c44c0cd0118b24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TI",
+      "uuid": "a316c795d70a350e00b1ac22da664e38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TM1",
+      "uuid": "bb7b37cc66ed707cc6f464c30c3fe80d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgeting",
+      "uuid": "c14b882b2b29eefd09a206cb38287c38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Deployment",
+      "uuid": "ec330b0dcdba5e1e9a3e0a2264be0f6a",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002102",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200307890N",
+    "description": "<p>\r\n\tJOBLINE RESOURCES PTE. LTD.</p>\r\n",
+    "name": "JOBLINE RESOURCES PTE. LTD.",
+    "ssicCode": "78101",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:34:52.000Z",
+    "ssicCode2020": "78101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200307890N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182250",
+    "deletedAt": null,
+    "createdBy": "edbcc1ff-27e9-4990-bc4e-5321ef3a32af",
+    "createdAt": "2026-01-29T08:13:19.000Z",
+    "updatedAt": "2026-01-29T08:13:20.000Z",
+    "emailRecipient": "edbcc1ff-27e9-4990-bc4e-5321ef3a32af",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/ibm-planning-analytics-support-engineer-jobline-resources-90d73815989fd821a9c0f00119dc5592",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/90d73815989fd821a9c0f00119dc5592"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/90d73815989fd821a9c0f00119dc5592/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

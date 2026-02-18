@@ -1,0 +1,256 @@
+{
+  "uuid": "d7733f5e901e38ce0660b8d1a35e3124",
+  "sourceCode": "Employer Portal",
+  "title": "Senior ML Platform Engineer",
+  "description": "<h2><strong>About the Team:</strong></h2><p>As part of our brand-new AI team, we're building cutting-edge AI and its platforms to transform the way we provide support and automation solutions for our internal teams and external consumers. We aim to unlock any knowledge that exists within Airwallex to power use cases across our organization. The team is crucial in driving innovation and setting the standard for future developments in this exciting new field.</p><h2><strong>Role & Project Scope:</strong></h2><p>We are seeking a skilled and passionate ML Platform Engineer to join our team and build the next generation of our machine learning infrastructure. You will be responsible for designing, implementing, and maintaining the core MLOps platform that empowers our Data Science and ML Engineering teams to rapidly develop, deploy, and monitor high-performance models at scale.</p><p>Crucially, you will contribute to the evolution of our unified AI Platform, covering both traditional ML and our growing LLM (Large Language Model) platform.</p><p><strong>What You'll Do:</strong></p><ul><li><p><strong>Platform Development:</strong> Design, build, and maintain the end-to-end MLOps platform using <strong>Kubernetes</strong> and <strong>Cloud Services.</strong></p></li><li><p><strong>Infrastructure as Code (IaC):</strong> Use <strong>Terraform</strong> or similar tools to manage, provision, and scale all ML-related infrastructure securely and efficiently.</p></li><li><p><strong>Pipeline Automation:</strong> Implement and optimize <strong>CI/CD/CT (Continuous Integration, Delivery, Training)</strong> pipelines to automate model training, testing, packaging, and deployment using tools like <strong>Argo and Kubeflow Pipelines</strong>.</p></li><li><p><strong>Serving Infrastructure:</strong> Build highly available, low-latency, and high-throughput model serving infrastructure.</p></li><li><p><strong>Observability:</strong> Implement robust monitoring, alerting, and logging solutions to track infrastructure health, model performance, and data/model drift.</p></li><li><p><strong>Tooling & Support:</strong> Evaluate, integrate, and support ML tools such as <strong>Feature Stores </strong>and distributed model training pipelines<strong>.</strong></p></li><li><p><strong>Security & Compliance:</strong> Ensure platform security, implement RBAC (Role-Based Access Control), and manage secrets for sensitive data and production environments.</p></li><li><p><strong>Collaboration:</strong> Work closely with Data Scientists and ML Engineers to understand their needs and provide technical guidance on best practices for scaling their models.</p></li></ul><p><strong>What You Need to Have:</strong></p><ul><li><p>5+ years in backend software development, with at least 2+ years focus on AI/ML Platform or MLOps infrastructure.</p></li><li><p>Deep expertise in MLOps practices, including automated deployment pipelines, model optimization, and production lifecycle management.</p></li><li><p>Proven experience designing and implementing low-latency model serving solutions.</p></li><li><p>Proficiency in Python.</p></li><li><p>Skill in writing high-quality, maintainable code.</p></li><li><p>Experience in design and development of large-scale distributed, high concurrency, low-latency inference, high availability systems.</p></li><li><p>Excellent communication and mentoring abilities.</p></li><li><p>A relevant degree in Computer Science, Mathematics or related fields.</p></li></ul><p><strong>Preferred qualifications:</strong></p><ul><li><p>Familiarity with distributed compute/training frameworks (e.g., Ray, Spark).</p></li><li><p>Experience configuring and managing ML workflows on cloud infrastructure (e.g., Kubernetes, Kubeflow).</p></li><li><p>Working knowledge of LLM serving optimization (e.g., vLLM, TGI, Triton) and GPU resource management</p></li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Mentoring",
+      "uuid": "089011f59ea2749a842c1cb289c52c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Requirements Gathering",
+      "uuid": "1723b433914d54481e91978db672d057",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Pipeline",
+      "uuid": "44015b690563d24a1b4f17c3e319c61e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Design Patterns",
+      "uuid": "475ae918a90c6f9956005c270e70c41f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "High Availability",
+      "uuid": "520b661a272c9e6f55f469cc9c24193d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mathematics",
+      "uuid": "540b21ecdb276f5087ee585cedd6d5d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ruby",
+      "uuid": "9916d1fc59fe22cc046a2fe1615bc764",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architecture Design",
+      "uuid": "ae64194051878ec826a5a24ebf799d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Web Application Development",
+      "uuid": "c694927586e3334622a8893cf5e3668e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Leadership",
+      "uuid": "d54f15f3c6e8d607c7c90d6de015217e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002134",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164197",
+    "deletedAt": null,
+    "createdBy": "ead14a52-6f44-4298-b799-787067e25eb6",
+    "createdAt": "2026-01-27T02:40:20.000Z",
+    "updatedAt": "2026-01-27T02:40:20.000Z",
+    "emailRecipient": "ead14a52-6f44-4298-b799-787067e25eb6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ml-platform-engineer-airwallex-d7733f5e901e38ce0660b8d1a35e3124",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 20000,
+    "minimum": 12000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7733f5e901e38ce0660b8d1a35e3124"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d7733f5e901e38ce0660b8d1a35e3124/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

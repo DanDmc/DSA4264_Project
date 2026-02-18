@@ -1,0 +1,202 @@
+{
+  "uuid": "5a90d2c99fae252c4a896ffa95fc6497",
+  "sourceCode": "Employer Portal",
+  "title": "Migration Planner-SK",
+  "description": "<p><strong>Responsibilities</strong></p><ul><li>Develop and execute Python scripts to automate processes, manipulate data, and support network operations, demonstrating technical proficiency and innovation.</li><li>Design, read, and interpret scripts that generate network device configurations to ensure accurate and efficient network deployment.</li><li>Apply expertise in IP networking, VLANs, QoS, and broadband access technologies (DSL, GPON, Ethernet) to support and optimize network infrastructure.</li><li>Plan, schedule, and sequence large-scale technical operations to ensure timely and coordinated execution of network projects.</li><li>Analyze large datasets to identify trends, troubleshoot issues, and support decision-making for network performance improvements.</li><li>Communicate effectively with technical and operational teams to facilitate collaboration and ensure alignment on project goals and execution.</li><li>Adapt to working in customer data center environments and manage responsibilities within shift-based or scheduled maintenance settings, including nights and weekends.</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Diploma in Engineering (Telecommunication, IT or equivalent)</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Portfolio or examples of relevant Python programming work demonstrating automation and scripting capabilities</li></ul><p>Work Location- Near Tai Seng MRT<br />Contract Duration- 9 months<br />Prior experience in data centre environment would be an added advantage.<br />Someone with basic IT skills and good communication skill will be good fit.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Technical Operations",
+      "uuid": "374f050c94d109f6aff7ca5fa91043c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Center",
+      "uuid": "47df2b78ac4b3edfbf1c6d0b2a64c579",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Production Planning",
+      "uuid": "4c89dbee82b7b1dd9d379c2d00562947",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IP",
+      "uuid": "a12a3079e14ced46e69ba52b8a90b21a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ethernet",
+      "uuid": "be2ae05fb04ddcf6efa31e63e0f0e111",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Broadband",
+      "uuid": "c6719d8b8f320640cdedcea10c458f37",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008557",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202447077R",
+    "description": null,
+    "name": "TOSS-EX PR PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:52:21.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202447077R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202447077R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202447077R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202447077R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "138",
+    "street": "MARKET STREET",
+    "floor": null,
+    "unit": null,
+    "building": "CAPITAGREEN",
+    "postalCode": "048946",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28185803639339,
+    "lng": 103.850083822379
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153711",
+    "deletedAt": null,
+    "createdBy": "038bdf21-fb33-41ba-b22d-7b3827ab899d",
+    "createdAt": "2026-01-25T14:31:00.000Z",
+    "updatedAt": "2026-02-03T01:38:54.000Z",
+    "emailRecipient": "038bdf21-fb33-41ba-b22d-7b3827ab899d",
+    "editCount": 2,
+    "repostCount": 0,
+    "totalNumberOfView": 75,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/migration-planner-sk-toss-ex-pr-5a90d2c99fae252c4a896ffa95fc6497",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3300,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5a90d2c99fae252c4a896ffa95fc6497"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5a90d2c99fae252c4a896ffa95fc6497/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

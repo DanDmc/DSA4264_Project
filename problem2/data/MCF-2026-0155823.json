@@ -1,0 +1,223 @@
+{
+  "uuid": "418a8242ada4f4f005dd65ecee4bcfac",
+  "sourceCode": "Employer Portal",
+  "title": "Jira Administrator",
+  "description": "<p>The Jira/Atlassian Administrator is a hands-on technical expert responsible for executing the Jira Cloud migration, cleaning up legacy data, and implementing standardized reports and dashboards. This role ensures workflows, permissions, and notifications are configured correctly while automating repetitive tasks to improve efficiency. The Administrator works closely with the Solutions Architect to implement the global templates and supports teams with technical guidance and troubleshooting.</p><p>Key Responsibilities:</p><ul><li>Perform data pruning by removing stale projects, users, and workflows prior to migration.</li><li>Configure standardized screens, permission schemes, and notification schemes.</li><li>Build advanced reports and dashboards using Jira Cloud’s native reporting tools and Atlassian Analytics.</li><li>Automate repetitive tasks using Jira Automation (low-code/no-code).</li><li>Support migration activities by validating data, resolving issues, and optimizing workflows.</li><li>Collaborate with stakeholders to ensure Jira functionality meets business reporting needs.</li></ul><p>Core Skills & Qualifications:</p><ul><li>Strong knowledge of Jira Query Language (JQL) and Jira Cloud configuration.</li><li>JCMA/CCMA tools, handling user migration errors, database mapping, Shared schemes: workflow, issue type, and field configuration</li><li>Familiarity with ScriptRunner or Jira APIs for automation and data transformation.</li><li>Experience with Advanced Roadmaps, dashboard gadgets, and reporting tools.</li><li>Proficiency in Jira Automation to streamline repetitive processes.</li><li>Strong problem-solving skills with attention to detail.</li><li>Ability to translate technical concepts for non-technical users.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft PowerPoint",
+      "uuid": "121333faad7b59b7a995b890be1e3928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dashboard",
+      "uuid": "2938c7f7e560ed972f8a4f68e80ff834",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Big Data",
+      "uuid": "3a9c1c8521b12754fc7582be72383e28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hadoop",
+      "uuid": "53eb3dcfbb4c210bcd4fe1a985d7c946",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JIRA",
+      "uuid": "9c50fd4d4c93b24e2b4e54cf9a277294",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle 12c",
+      "uuid": "b3f9e1463aa2e7f4b7ab9bc2cf475040",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Authentication",
+      "uuid": "c75f7811d70d17dbcd88e9d03752cbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Power BI",
+      "uuid": "e5c930f4134c3d946962924c7f02aab7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mapping",
+      "uuid": "f84f4a69bdc03d4a4251db12ee746ce3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013730",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "202502026K",
+    "description": null,
+    "name": "U3 PROJECTS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:49:15.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502026K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502026K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502026K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202502026K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0155823",
+    "deletedAt": null,
+    "createdBy": "f355a57c-935d-4a99-a6ca-e067781ce7bd",
+    "createdAt": "2026-01-26T02:27:37.000Z",
+    "updatedAt": "2026-01-26T02:27:37.000Z",
+    "emailRecipient": "f355a57c-935d-4a99-a6ca-e067781ce7bd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 60,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/jira-administrator-u3-projects-418a8242ada4f4f005dd65ecee4bcfac",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/418a8242ada4f4f005dd65ecee4bcfac"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/418a8242ada4f4f005dd65ecee4bcfac/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

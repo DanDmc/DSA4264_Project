@@ -1,0 +1,210 @@
+{
+  "uuid": "c1cf8a672dc50d5a10f756de0897b5c5",
+  "sourceCode": "Employer Portal",
+  "title": "Housekeeping Coordinator",
+  "description": "<p><strong>Responsibilities:</strong></p>\n<p>- Handle operation phone calls and ensure all messages and information is</p>\n<p>communicated promptly and accurately.</p>\n<p>- Monitor turnover of guest rooms</p>\n<p>- Maintain effective filing system</p>\n<p>- Administrative duties &amp; others</p>\n<p><br></p>\n<p><strong>Requirements</strong></p>\n<p>* Relevant working experience in related filed is required</p>\n<p>* Confident with good interpersonal and communication skills</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Front Office",
+      "uuid": "0558c4724c1321605189662a0e3f66f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Literacy",
+      "uuid": "4296cdaff1b9d979ae77f796e301e1b9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "admin support",
+      "uuid": "a6ca36e22e6167f06afe0b98e7b85bf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teamwork Skills",
+      "uuid": "dd8044ab01cd40ff3740a90a88590ff3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hospitality",
+      "uuid": "f7fc81c8396d8ac549fc8b5029fa43ba",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51501",
+  "occupationId": "OCC060809",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200302018C",
+    "description": "<p>Hotel Royal Queens is a 4-star smoke-free hotel in Singapore with 236 well-appointed guest rooms.</p>\n<p>It is strategically located in the heart of the city’s art and heritage precinct and minutes away by drive or public transport from the city’s dynamic central business district, major convention centres and entertainment belt. The nearest subway station – Bras Basah MRT Station is a mere 2-minute walk / 100 metres away.</p>",
+    "name": "HOTEL ROYAL @ QUEENS (SINGAPORE) PTE. LTD.",
+    "ssicCode": "55101",
+    "employeeCount": null,
+    "companyUrl": "https://www.royalqueens.com.sg/",
+    "lastSyncDate": "2026-01-27T08:39:32.000Z",
+    "ssicCode2020": "55101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200302018C/schemes"
+      }
+    },
+    "logoFileName": "ccb0bbdcda814321284f70934e918719/hotel-royal-queens.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ccb0bbdcda814321284f70934e918719/hotel-royal-queens.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "12",
+    "street": "QUEEN STREET",
+    "floor": null,
+    "unit": null,
+    "building": "HOTEL ROYAL @ QUEENS",
+    "postalCode": "188553",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 7,
+        "location": "D07 Golden Mile, Middle Road",
+        "region": "East",
+        "sectors": [
+          "18",
+          "19"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.2975508519235,
+    "lng": 103.852233625189
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1757643",
+    "deletedAt": "2025-12-17T17:15:04.000Z",
+    "createdBy": "ba0103cd-0e9a-4d49-a54a-a9bc3f8d2857",
+    "createdAt": "2025-11-17T06:32:22.000Z",
+    "updatedAt": "2026-01-27T08:39:44.000Z",
+    "emailRecipient": "ba0103cd-0e9a-4d49-a54a-a9bc3f8d2857",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 138,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-11-17",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/housekeeping-coordinator-hotel-royal-queens-c1cf8a672dc50d5a10f756de0897b5c5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2300,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c1cf8a672dc50d5a10f756de0897b5c5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c1cf8a672dc50d5a10f756de0897b5c5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

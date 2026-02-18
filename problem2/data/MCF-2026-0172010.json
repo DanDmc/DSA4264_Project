@@ -1,0 +1,246 @@
+{
+  "uuid": "287330213b192b2843bb36673c9fa82d",
+  "sourceCode": "Employer Portal",
+  "title": "System Engineer (Windows and Azure)",
+  "description": "<p>The  System Engineer will design, implement, and maintain critical IT infrastructure components across both Windows and hybrid environments. The engineer will play a key role in deploying virtualized systems, ensuring platform stability, and supporting integration with application teams.</p><p><strong>Key Responsibilities</strong></p><ul><li>Design, implement, and commission new systems and infrastructure solutions.</li><li>Maintain and upgrade existing systems, ensuring high availability and compliance with IT standards.</li><li>Manage and configure Azure Stack Hub virtualization, including NSG, Load Balancer, Images, and Storage.</li><li>Administer and harden Windows Server (2016/2019) environments, including Active Directory, GPOs, RDS, and Failover Clustering.</li><li>Install, configure, and maintain Microsoft SQL (2016–2019) databases.</li><li>Deploy and support Linux-based appliances and Ubuntu OS environments.</li><li>Configure and manage backup solutions using Commvault.</li><li>Support networking and security configurations, including SSL certificate management.</li><li>Conduct preventive maintenance and ensure all systems adhere to IT security policies.</li><li>Collaborate with application and network teams for seamless integration and troubleshooting.</li></ul><p><strong>Requirements</strong></p><ul><li>3–5 years of hands-on system engineering experience.</li><li>Proficiency in at least 5 or more of the following areas:</li><li>Azure Stack HubWindows Server 2016/2019SQL Server administrationLinux/Ubuntu OSCommvauly</li><li>Proficiency in at least 5 or more of the following areas: Azure Stack Hug, Windows Server 2016/2019, SQL Server administration, Linux/Ubuntu OS, Commvault Networking and security, System hardening and patching, Networking and security</li><li>Strong analytical and problem-solving skills.Excellent teamwork, communication, and documentation abilities.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "CommVault",
+      "uuid": "11128463d411c66d20fe557153d5e3fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ESXi",
+      "uuid": "1aa66ef3a8e34a7a538960a80d2e1e31",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "uuid": "1de5bf4a69572155cb8c297ac21a161d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "uuid": "78898e52fcbdc5337204a384f2456d4f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Azure platform",
+      "uuid": "9ca3c61add9e07ce58c660bad821faa8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WSUS",
+      "uuid": "9cbcdcdade06e359db73a023056c5252",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GPOs",
+      "uuid": "a7a48a473f0e25aa7b3e0203482e004d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Server Hardening",
+      "uuid": "ad4fcb42d961809df8f3e3db80fc2ee0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Performance Tuning",
+      "uuid": "bffe7898e0faada14e4fb09bd6717314",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201305322G",
+    "description": "<p><strong>Newtone Consulting</strong> is an IT recruitment and sourcing specialist, delivering tailored talent solutions since 2013. We partner with organisations to identify, select, and onboard the right IT professionals.</p><p>With deep expertise across the IT landscape, we recruit for a wide range of roles, from functional business analysts to highly specialised technical architects. Our consultants bring strong IT backgrounds and years of recruitment experience, enabling them to understand complex technical requirements and match them with the right talent efficiently and accurately.</p><p>We work with leading multinational clients across banking, technology, fintech, industrial, infrastructure, and retail sectors, supporting their growth and critical digital initiatives through high-quality IT talent.</p>",
+    "name": "NEWTONE CONSULTING PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "www.newtone-consulting.com",
+    "lastSyncDate": "2026-02-04T01:46:18.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201305322G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201305322G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201305322G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201305322G/schemes"
+      }
+    },
+    "logoFileName": "bcbc1104ab222815b0f092d020b59a12/new-tone-consulting.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/bcbc1104ab222815b0f092d020b59a12/new-tone-consulting.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "MCCALLUM STREET",
+    "floor": null,
+    "unit": null,
+    "building": "TOKIO MARINE CENTRE",
+    "postalCode": "069046",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27958236092446,
+    "lng": 103.847918363171
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172010",
+    "deletedAt": null,
+    "createdBy": "f17dd06b-3398-487a-b6b7-bad074d49112",
+    "createdAt": "2026-01-28T02:26:09.000Z",
+    "updatedAt": "2026-01-28T02:26:10.000Z",
+    "emailRecipient": "f17dd06b-3398-487a-b6b7-bad074d49112",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/system-engineer-newtone-consulting-287330213b192b2843bb36673c9fa82d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/287330213b192b2843bb36673c9fa82d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/287330213b192b2843bb36673c9fa82d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

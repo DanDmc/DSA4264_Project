@@ -1,0 +1,201 @@
+{
+  "uuid": "ef26ab26a19e338b92597d538bf7d309",
+  "sourceCode": "Employer Portal",
+  "title": "Laundry Attendant",
+  "description": "<p><strong>Job Description:</strong></p><ul><li>Responsible for handling towels/linen/uniforms</li><li>Ensure that accounting and recording of towels/linen/uniforms are correctly done</li><li>Ensure that transferring of towels/linen/uniforms are correctly assigned and placed</li><li>To perform quality check at each section and towels/linen/uniforms accordingly</li><li>To ensure daily housekeeping are carried out</li><li>Any other assigned duties by the company</li></ul><p><br /></p><p><strong>Job Requirement:</strong></p><p><br /></p><ul><li>6 days work week, able to work on weekend.</li></ul><p><br /></p><p>We regret that only shortlisted candidates will be notified.</p><p><br /></p><p>Thank you for applying.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Product Knowledge",
+      "uuid": "008a8d8a377a59673ee533a01f0590a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sewing",
+      "uuid": "5f74ccb8a33a8f02bd6741c1f5a53cc4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "laundry duties",
+      "uuid": "c6de81b9bb187796f8791f665e7da5a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FEED",
+      "uuid": "e352a08d4fba713e5ae1e538bf27258c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "91210",
+  "occupationId": "OCC061031",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    },
+    {
+      "id": 41,
+      "category": "Others"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "197100922N",
+    "description": "<p>CBM offers comprehensive Property &amp; Facilities Management (PFM) solutions in Singapore and the Middle East. As an ISO-certified company, we support commercial, industrial, residential, retail, and hospitality sectors with value-driven services. Our success is powered by passionate, service-oriented professionals in a supportive and engaging work environment.</p>\n<p><br>\nCBM Pte. Ltd. is committed to safeguarding your personal data in line with the Personal Data Protection Act (PDPA). For more details, please refer to our Data Protection Notice for Job Applicants on our official website.</p>",
+    "name": "CBM PTE. LTD.",
+    "ssicCode": "68209",
+    "employeeCount": null,
+    "companyUrl": "https://www.cbm.com.sg/",
+    "lastSyncDate": "2026-01-28T02:07:45.000Z",
+    "ssicCode2020": "68209",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197100922N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197100922N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197100922N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197100922N/schemes"
+      }
+    },
+    "logoFileName": "f3fb83514c9cd835492f46620fb08388/cbm.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f3fb83514c9cd835492f46620fb08388/cbm.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1979469",
+    "deletedAt": "2026-01-25T17:15:04.000Z",
+    "createdBy": "142ecc4f-734d-4e88-9a8f-52f389812435",
+    "createdAt": "2025-12-26T04:22:01.000Z",
+    "updatedAt": "2026-01-26T07:32:02.000Z",
+    "emailRecipient": "142ecc4f-734d-4e88-9a8f-52f389812435",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 143,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-12-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/laundry-attendant-cbm-ef26ab26a19e338b92597d538bf7d309",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1600,
+    "minimum": 1400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef26ab26a19e338b92597d538bf7d309"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ef26ab26a19e338b92597d538bf7d309/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

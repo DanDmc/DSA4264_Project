@@ -1,0 +1,217 @@
+{
+  "uuid": "eee251cdcbe58a9707d1f55442acf265",
+  "sourceCode": "Employer Portal",
+  "title": "Cyber Support Engineer",
+  "description": "<p><strong>Roles and Responsibilities</strong></p><p>EDR Operations & Maintenance</p><ul><li>Maintain and operate Carbon Black (CB) EDR servers hosted on RHEL8.</li><li>Perform scheduled maintenance tasks on Operating System (OS),\ndatabases and application (CB) level, including patching, health checks, backups, and service restarts.</li><li>Validate and maintain EDR server application services (web console, CB backend services, Solr, PostgreSQL) and log forwarding services (NXLog, CB event forwarder) to the Log Collector.</li><li>Monitor and clear stale services, queues, or indexing issues.</li><li>Manual review of system, security and audit logs of OS, database\nand application which are not forwarded to the designated log collection server</li><li>Engage support from OEM to provide troubleshooting solution,\nprofessional services for hardware and software related configuration, integration and troubleshooting works, if necessary.</li><li>Manage endpoint sensors and monitor the presence, health, and\nconnectivity of all sensors</li><li>Troubleshoot “offline” sensors.</li><li>Assist in onboarding new hosts into the EDR environment.</li><li>Validate asset inventory.</li><li>Network & Infrastructure Coordination</li><li>Responsible to ensure the security & hardening for EDR server\nis in accordance to guidelines.</li><li>Participate in quarterly and annual reviews. Responsible to put reviews for approvals.</li><li>Provide technical support for issues</li><li>Reporting & documentation</li></ul><p><strong>Mandatory Requirements</strong></p><ul><li>Experience with Carbon Black EDR, or equivalent EDR platforms.</li><li>Strong RHEL system administration knowledge (RHEL 8/9).</li><li>Familiarity with PostgreSQL maintenance tasks (backup, check,\nrestore).</li><li>Understanding of network troubleshooting (TCP, TLS, proxies,\nfirewalls).</li><li>Hands-on experience with endpoint diagnostics for EDR sensors on\nWindows.</li><li>Understanding of secure operations and handling of privileged\naccounts.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "TLS",
+      "uuid": "099d7d04319e5191b7473e016c55e320",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RedHat Linux",
+      "uuid": "8b56d55f3caeb71ab2513c28fb1a52fc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "uuid": "9a572f869560bf1946b1595198d3d7a6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sensors",
+      "uuid": "af29aa178ae43211319e28f627e96590",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Administration",
+      "uuid": "afde5a73d112b230adb0e3b203265409",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TCP",
+      "uuid": "b136ef5f6a01d816991fe3cf7a6ac763",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardening",
+      "uuid": "bc662eba55ac8e707ce6846b76201596",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Endpoint Security",
+      "uuid": "e0103cb99a51c2a257fbbd1e64ea72a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firewalls",
+      "uuid": "fd6d703cd1a0c15485615c97ae2fc355",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062581",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201615782K",
+    "description": "<p>Attila Cybertech is an Operational Technology (OT) cyber security firm. We secure our clients’ critical assets through a holistic approach with a range of solutions from risk assessment to secured network design, firewall selection, configuration and testing of industrial control systems (such as SCADA, DCS, PLC, RTU) as well as various industrial protocols and process control systems.</p>\r\n",
+    "name": "ATTILA CYBERTECH PTE. LTD.",
+    "ssicCode": "62022",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T02:02:43.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615782K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615782K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615782K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201615782K/schemes"
+      }
+    },
+    "logoFileName": "9f80303745d55a6dbd8ce6547e167150/attila-cybertech.JPG",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/9f80303745d55a6dbd8ce6547e167150/attila-cybertech.JPG",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183446",
+    "deletedAt": null,
+    "createdBy": "cb49f2fd-14d3-4ec8-8136-63dc4a6fc32a",
+    "createdAt": "2026-01-29T09:37:25.000Z",
+    "updatedAt": "2026-01-29T09:37:25.000Z",
+    "emailRecipient": "cb49f2fd-14d3-4ec8-8136-63dc4a6fc32a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-19",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cyber-support-engineer-attila-cybertech-eee251cdcbe58a9707d1f55442acf265",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eee251cdcbe58a9707d1f55442acf265"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eee251cdcbe58a9707d1f55442acf265/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

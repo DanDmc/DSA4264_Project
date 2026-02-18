@@ -1,0 +1,238 @@
+{
+  "uuid": "f1f61b2308bf134166062720cf65c0e0",
+  "sourceCode": "Employer Portal",
+  "title": "Cybersecurity Architecture Owner",
+  "description": "<h3><strong>The Company</strong></h3><p>HOYA Group: Founded in 1941 in Tokyo, Japan, HOYA Corporation is a global technology and med-tech company and a leading supplier of innovative high-tech and medical products. HOYA’s divisions and business units research and develop products utilized in the healthcare and information technology fields. In the healthcare field, we provide medical device products such as eyeglasses, medical endoscopes, contact and intraocular lenses, orthopedic implants, surgical/therapeutic devices and medical device reprocessing and disinfection solutions. In the information technology field, we provide products such as optical lenses, photomasks and blanks used in the manufacturing process for semiconductor and LCD/OLED devices, text-to-speech, human resources and other software solutions and critical components for the mass memory and cloud storage industries. With over 150 offices and subsidiaries worldwide, HOYA currently employs a multinational workforce of 37,000 people.</p><h3><strong>The Position</strong></h3><p>The Enterprise Cybersecurity Architecture Owner is a senior strategic role responsible for defining and governing the enterprise security blueprint. This role ensures that cybersecurity requirements are embedded consistently across the organization while enabling technology teams to deliver solutions efficiently and safely. The position is based in Singapore and reports to the Group CISO.</p><p>This role is not responsible for designing or implementing individual solutions. Instead, it establishes the architectural guardrails within which technology owners and delivery teams operate. The function can be compared to city planning, where zoning laws, building codes, and infrastructure standards are defined centrally, while individual builders design and construct buildings that comply with those rules.</p><h3><strong>Major Responsibilities</strong></h3><p>Architecture Definition and Standards</p><ul><li>Define security principles, requirements, standards, and reference architectures guiding technology design across cloud, identity, data, network, platform, and operational technology environments</li><li>Derive architectural artifacts from enterprise security policies, risk appetite, and control objectives</li><li>Create reusable blueprints for consistent application across initiatives</li><li>Maintain approved security patterns and define standard approaches for common architectural scenarios</li></ul><p>Framework Ownership and Governance</p><ul><li>Own the enterprise security architecture framework</li></ul><ul><li>Ensure framework alignment with evolving business priorities, risk landscapes, and regulatory expectations</li><li>Articulate security requirements clearly early in the lifecycle of major initiatives</li></ul><p>Architecture Reviews and Risk Management</p><ul><li>Lead and govern risk-based security architecture reviews for high-impact or high-risk initiatives</li><li>Conduct advisory reviews focused on ensuring alignment with enterprise guardrails rather than redesigning solutions</li><li>Manage exception and waiver processes for deviations from standards, ensuring decisions are risk-informed, time-bound, and properly documented</li></ul><p>Cross-Functional Collaboration</p><ul><li>Partner with cyber defense function to ensure detection, response, and resilience requirements are reflected in architecture standards</li><li>Collaborate with risk and policy functions to translate control objectives into practical architectural guidance</li><li>Work with technology and digital teams to ensure guardrails are pragmatic and enable delivery</li></ul><p>Role Boundaries and Accountabilities</p><ul><li>Does not act as a solution architect or select/configure tools</li><li>Does not own delivery or operational outcomes</li><li>Technology owners and delivery teams retain accountability for solution design, implementation, and day-to-day operations</li><li>Technology owners own operational risk of systems that conform to the established architectural blueprint</li></ul><h3>Key Deliverables</h3><p>Success in this role will be measured by clearer security expectations, fewer late-stage security issues, faster delivery through reuse of approved patterns, improved alignment between security and technology teams, and a consistent security posture across the enterprise.</p><h3>Qualifications</h3><p>Education/Training Qualifications</p><ul><li>Bachelor's degree in Cybersecurity, Information Technology, or a related field.</li><li>Certifications such as CISSP, CISM, SABSA, or TOGAF (with security focus) are highly desirable.</li></ul><p>Experience:</p><ul><li>Successful candidates will bring deep experience in cybersecurity architecture at an enterprise or group level, with a strong ability to operate across strategy, risk, and technology domains.</li><li>Strong influencing skills to senior stakeholders, balancing risk and delivery tradeoffs, and enabling large organizations to scale security through clarity and consistency rather than control by exception.</li></ul><p></p>",
+  "minimumYearsExperience": 12,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Influencing Skills",
+      "uuid": "04c3da20bb5098a57435573fa31cf1a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Security",
+      "uuid": "0889f4cee1d9f42ae2c1daf686377de0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Security Architecture",
+      "uuid": "09162aa1970c16d1328b5f8a48519a7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orthopedic",
+      "uuid": "289141ea6504b5ff6001399b04fb7737",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Defense",
+      "uuid": "4b088aaa68446b6ec08cdc385d03516d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Zoning",
+      "uuid": "79768a069a539d4f130e672a660bf45f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TOGAF",
+      "uuid": "afc84a6ceced9e583a9a30cc8e80db8d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Threat Intelligence",
+      "uuid": "bc2dc495d1e43d173ef458028ccb6d14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operational Risk",
+      "uuid": "c432e51e8add0a114a9161307a2b1095",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CISSP",
+      "uuid": "f46e64c568bd8816a2ca95835e2a2584",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062566",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "199502279K",
+    "description": "<p>HOYA Group: Founded in 1941 in Tokyo, Japan, HOYA Corporation is a global technology and med-tech company and a leading supplier of innovative high-tech and medical products. HOYA’s divisions and business units research and develop products utilized in the healthcare and information technology fields. In the healthcare field, we provide medical device products such as eyeglasses, medical endoscopes, contact and intraocular lenses, orthopedic implants, surgical/therapeutic devices and medical device reprocessing and disinfection solutions. In the information technology field, we provide products such as optical lenses, photomasks and blanks used in the manufacturing process for semiconductor and LCD/OLED devices, text-to-speech, human resources and other software solutions and critical components for the mass memory and cloud storage industries. With over 150 offices and subsidiaries worldwide, HOYA currently employs a multinational workforce of 37,000 people.</p>",
+    "name": "HOYA HOLDINGS ASIA PACIFIC PTE LTD",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T01:25:51.000Z",
+    "ssicCode2020": "64202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502279K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502279K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502279K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502279K/schemes"
+      }
+    },
+    "logoFileName": "db135cff119689f01c3b0180a1a9fa2a/hoya-holdings-asia-pacific.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/db135cff119689f01c3b0180a1a9fa2a/hoya-holdings-asia-pacific.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "80",
+    "street": "RAFFLES PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "UOB PLAZA",
+    "postalCode": "048624",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28540656780798,
+    "lng": 103.850567541206
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163227",
+    "deletedAt": null,
+    "createdBy": "5a09765c-73b1-46f4-a7a1-28e56e8d92a1",
+    "createdAt": "2026-01-27T01:35:33.000Z",
+    "updatedAt": "2026-01-27T01:35:34.000Z",
+    "emailRecipient": "5a09765c-73b1-46f4-a7a1-28e56e8d92a1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 169,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 23,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cybersecurity-architecture-owner-hoya-holdings-asia-pacific-f1f61b2308bf134166062720cf65c0e0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 21000,
+    "minimum": 15000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f1f61b2308bf134166062720cf65c0e0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f1f61b2308bf134166062720cf65c0e0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,257 @@
+{
+  "uuid": "696cff599b84a16ad228bd53ab1faf89",
+  "sourceCode": "Employer Portal",
+  "title": "Security Engineer",
+  "description": "<p>Job Description:</p><ul><li>Elicit, analyze, and document business requirements from various stakeholders, ensuring a clear understanding of their needs and objectives for FX and Money Market Business in Calypso.</li><li>Work with the Product Owner (PO) if any on this project to prioritize requirements and decompose them into detailed user stories, ensuring a clear roadmap for development.</li><li>Translate requirements into comprehensive functional specifications, including detailed descriptions of user interactions, data flows, and system behavior.</li><li>Collaborate with development teams to ensure that the software design aligns with the functional specifications and meets the defined requirements.</li><li>Provide functional expertise to the development team, ensuring they have a clear understanding of the business processes and user needs.</li><li>Research existing solutions, both internal and external, to determine if they can be leveraged to meet the business requirements.</li><li>Understand technical constraints and participate in software design discussions, ensuring that the solution is feasible and aligns with the overall system architecture.</li><li>Ensure the functional quality of the software, including participation in functional testing and providing functional support during production.</li><li>Analyze the impact of functional changes on current production Service Level Agreements (SLAs) and Operational Level Agreements (OLAs).</li><li>Contribute to Behavior-Driven Development (BDD) activities by providing user scenarios and supporting functional testing efforts.</li><li>Contribute to deployment activities by providing functional pre-requisites and performing post-deployment checks.</li><li>Support team members in their functional activities, train new joiners, and help resolve functional issues.</li><li>Ensure the seamless integration of the software into the existing IT infrastructure, working closely with the Functional Architect.</li><li>Specifications, workload estimates, planning, test scenarios, documentation.</li></ul><p>Requirements:</p><p>Top 3 MUST have skills:</p><ul><li>Strong hands-on experience with cloud platforms such as AWS, Azure, or GCP, including secure setup, configuration, and administration of compute, storage, and networking resources.</li><li>Proficient in implementing security controls and automation using Infrastructure as Code (IaC) tools such as Terraform, ensuring compliance and secure deployments.</li><li>Solid understanding of cloud security principles, identity and access management (IAM), encryption, network security (VPC, subnets, VPN), and monitoring tools (e.g., AWS GuardDuty, Security Hub, Inspector) to protect workloads and data.</li></ul><p>Qualification:</p><ul><li>Experience with container security and orchestration platforms (e.g., Kubernetes security hardening).</li><li>Knowledge of DevSecOps practices and integrating security into CI/CD pipelines.</li><li>Familiarity with compliance frameworks and cloud security benchmarks (CIS).</li><li>Ability to implement cloud-native threat detection and response solutions.</li><li>Exposure to vulnerability management and remediation in cloud environments.</li></ul><p>Basic scripting skills in Python, Bash, or PowerShell for security automation.</p><p>Strong troubleshooting skills and ability to work in cross-functional teams.</p><p>Experience with disaster recovery and secure backup strategies.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Controls",
+      "uuid": "05c006564240417b4a668acfb5acbc42",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "monitoring tools",
+      "uuid": "13a2a602363d976b52d0b1dd66e5575b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Terraform",
+      "uuid": "1b1ed905d54c18e3dd8828986c14be17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud Security",
+      "uuid": "3ba90f7ae36582c7bce8300d29951e83",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Amazon AWS",
+      "uuid": "3fcb666743f4142cc3b9eeeb9bccafb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IAM",
+      "uuid": "41dff7155cc7aeb11c06434f6a450bb3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Management",
+      "uuid": "41e9c1de32e11815893b9077e9b2d58b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bash Scripting",
+      "uuid": "b9d9c32b160bdf4ec2722ccc305d3340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation",
+      "uuid": "caea8340e2d186a540518d08602aa065",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Encryption",
+      "uuid": "d7f2615c71a1567cc13cf3a7f7de0aea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DevSecOps",
+      "uuid": "eabee628bd5b543ef10cf18ca5b5ca51",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25245",
+  "occupationId": "OCC062581",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200600706G",
+    "description": "<p>KRIS INFOTECH PTE. LTD.</p>    <p>We partner with the IT industry providing comprehensive short and long-term technology & staffing solutions. We offer different options, to enable clients to optimize their human resources and at the same time reduce the risk and total cost of ownership. </p>    <p>Under our <em>Professional Services </em>, we serve our client's manpower needs by providing smooth talent pipeline with flexible partnering options.</p>    <p>We have been very successful in reducing ownership costs and recruitment turnaround time for our clients.  </p>    <ul>   <li>Our offerings are tailored around the identified domain, allowing us the ease to service our clients with domain experts.</li>   <li>We primary source talents from Singapore, Malaysia, Philippines, Thailand, Australia, Hong Kong and Japan</li>   <li>We have been supporting our clients regionally for business languages other than English viz. Mandarin, Thai, Japanese.</li>  </ul>    <p> </p>    <p><strong>Our IT Professional Services include:</strong></p>    <p>ü  Agency Contract</p>    <p>ü  Contingency Search</p>    <p>ü  Retained Search</p>    <p> </p>    <p><strong>Our Value-Added Services include:</strong></p>    <p>-       Managed Payroll Services</p>    <p>-       Re-batching & Vendor Consolidation</p>    <p>-       Recruitment Process Outsourcing (RPO)</p>    <p> </p>    <p><strong>Our Focus: Technology Stack </strong></p>    <ul>   <li>ERP and CRM</li>   <li>Datawarehousing</li>   <li>Mobile and Web</li>   <li>Microsoft (.Net & Sharepoint)</li>   <li>Midrange (AS/400)</li>   <li>Infra (Networking, Sys Admin, DBAs, Storage, Telephony)</li>   <li>Subject Matter Expert, Project Managers and Business Analyst</li>  </ul>    <p> </p>    <p>Under our <em>Technology Services brand</em> – we specialize in IT Systems Integration encompassing the wide expanse of software, hardware and network technologies to enable businesses.</p>    <p>By combining best of breed solutions, cutting edge technologies and our proven processes, we aim to enhance your business productivity.</p>    <p>With time, we have invested in and collaborated with few specific Technology companies in the region to enhance our Technology Services.</p>    <p>We are very pleased bring to you the following FOUR service offerings:</p>    <p> </p>    <p>ü  <strong>Big Data Consulting</strong></p>    <p>ü  <strong>SAP Development Services</strong></p>    <p>ü  <strong>Oracle E-Business Suite Services</strong></p>    <p>ü  <strong>GRC Consulting</strong></p>    <p> </p>  ",
+    "name": "KRIS INFOTECH PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:06:45.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600706G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0160282",
+    "deletedAt": null,
+    "createdBy": "1dac805c-e26c-422d-8da7-df8e6c8a4b60",
+    "createdAt": "2026-01-26T09:23:27.000Z",
+    "updatedAt": "2026-01-26T09:23:28.000Z",
+    "emailRecipient": "1dac805c-e26c-422d-8da7-df8e6c8a4b60",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 59,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/security-engineer-kris-infotech-696cff599b84a16ad228bd53ab1faf89",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/696cff599b84a16ad228bd53ab1faf89"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/696cff599b84a16ad228bd53ab1faf89/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

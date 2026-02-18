@@ -1,0 +1,232 @@
+{
+  "uuid": "eaccf9e2053bb7e7c66522054945e4c8",
+  "sourceCode": "Employer Portal",
+  "title": "Site Engineer",
+  "description": "<ul><li>Support site planning, coordination and daily operations</li><li>Monitor work progress, technical quality and safety compliance</li><li>Work closely with subcontractors, consultants and site teams</li><li>Assist in resolving technical/site issues and provide practical solutions</li><li>Prepare and maintain site reports, records and documentation</li><li>Ensure works follow drawings, specifications and construction standards</li><li>Coordinate materials, manpower and work sequencing</li><li>Able to work independently, handle fast-paced site conditions</li><li>Good communication, problem-solving and basic computer skills</li><li>Relevant site/engineering experience preferred</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Assessment",
+      "uuid": "3177ea52ef79969392fa9605bc638090",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Site Planning",
+      "uuid": "48f916f940025d1b1a22d2888b314435",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Planning",
+      "uuid": "7a51b3c516f387f33de6b28cc0627b18",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Engineering",
+      "uuid": "931140d8e607636c929c269fa1d409b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Drawings",
+      "uuid": "b7ddd6b4070e952489bf1ec071d10bac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "1129",
+  "postedCompany": {
+    "uen": "198203884R",
+    "description": "<ul><li>Hytech Builders Pte Ltd was established in 1982 and has successfully completed several major projects in the fields of civil engineering and building construction, notably MRT tunnels and stations, institutional, industrial, office and residential developments, for major public authorities and private organizations.</li><li>Hytech is committed to providing reliable and quality works and high-value services to its clients. To constantly maintain such commitment and to keep up with development in the industry, the Company had achieved ISO 9001 Quality Management System Certification and integrated QEHS Management System. This would also be in line with our philosophy of adopting safe and environmentally friendly practices and methods.</li><li>The Company had achieved significant recognition for its efforts to contribute to the industry as evidenced by the attaining of several BCA Awards for Construction Excellence and Buildable Design. With an annual turnover exceeding $50 million for the past 4 years, the Company expect further growth and is working towards greater expansion in its scope of service and work value in the coming years, while maintaining its objective of quality work and high-value services to clients.</li></ul>",
+    "name": "HITECH CONSTRUCTION (1982) PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:29:10.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198203884R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198203884R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198203884R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198203884R/schemes"
+      }
+    },
+    "logoFileName": "ec4a04fcec818f50f6357e962366c48e/hitech-construction.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ec4a04fcec818f50f6357e962366c48e/hitech-construction.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "430",
+    "street": "TAGORE INDUSTRIAL AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "SINDO INDUSTRIAL ESTATE",
+    "postalCode": "787810",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 26,
+        "location": "D26 Upper Thomson, Springleaf",
+        "region": "North",
+        "sectors": [
+          "77",
+          "78"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38592013642654,
+    "lng": 103.827871497844
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0193965",
+    "deletedAt": null,
+    "createdBy": "8e42ed3a-018a-4927-b528-56f7e48d1189",
+    "createdAt": "2026-01-31T14:49:49.000Z",
+    "updatedAt": "2026-01-31T14:49:49.000Z",
+    "emailRecipient": "8e42ed3a-018a-4927-b528-56f7e48d1189",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-02-14",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/site-engineer-hitech-construction-eaccf9e2053bb7e7c66522054945e4c8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eaccf9e2053bb7e7c66522054945e4c8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/eaccf9e2053bb7e7c66522054945e4c8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

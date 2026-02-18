@@ -1,0 +1,226 @@
+{
+  "uuid": "af4a13e17bac56ce26b400cfb5524e03",
+  "sourceCode": "Employer Portal",
+  "title": "Application Support Engineer",
+  "description": "<p><strong>Responsibilities: </strong></p><ul><li>Manage and resolve application incident tickets end-to-end, from initial investigation through to closure</li><li>Troubleshoot, diagnose, and resolve application-related issues in a timely manner to minimize business and customer impac\nPerform root cause analysis and post-incident reviews to identify underlying issues and prevent recurrence</li><li>Document solutions, workarounds, and known issues for knowledge sharing and future reference</li><li>Collaborate closely with development, infrastructure, and other support teams to resolve complex issues and implement long-term fixes</li><li>Support operational activities including day-to-day application monitoring, deployments, and environments support</li><li>Escalate critical or unresolved issues to higher-level support teams and proactively track progress to resolution</li><li>Provide regular status updates and incident reports to technical leads and management</li><li>Ensure support services are delivered in accordance with agreed SLAs, including 24x7 support where required</li><li>Participate in application enhancements, testing, and documentation to improve system stability and supportability</li><li>Assist in addressing production-related queries and requests from internal stakeholders, auditors, banks, and regulators where applicable</li><li> Provide regular and timely updates on work status to team members, users, and customers</li><li>Prepare, maintain, and update project, change, and operational documentation in accordance with established standards</li><li>Support application testing and investigation activities in non-production (testing) environments</li><li> Support application deployments to testing and production environments in accordance with change management procedures</li></ul><p><strong></strong><br /><strong>Requirements:</strong></p><ul><li>Good working knowledge on ServiceNow development and configuration tools, including Business Rules, Client Scripts and Update Sets    </li><li>Experience managing SQL databases across\nProduction, UAT and SIT environments (e.g., PHPMYAdmin or equivalent tools)    </li><li>Good knowledge of Unix shell scripting, RedHat\nAnsible, </li><li>Experience supporting applications hosted on AWS including\nservices such as CloudWatch, S3, RDS, EKS,CloudFormation, WAF, ECS and API GatewayFamiliarity with middleware and messaging technologies </li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "RDS",
+      "uuid": "0f41d6f36f8eaee87ea08d9f4b1159e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UAT",
+      "uuid": "19dd6c1cec504ac854645f352eb03209",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Change Management",
+      "uuid": "3c86ee5f83becdfeea9af7ba9b777c2a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Monitoring",
+      "uuid": "54550b6543a033fc4a8567abbf3c296a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investigation",
+      "uuid": "5cbac16d406ddfc92080f39efa7437d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RedHat",
+      "uuid": "a82007c47b25723539a00ff94e8b3d27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix Shell Scripting",
+      "uuid": "d16fae16b9f41c4d4f21ec0b8cc02416",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ServiceNow",
+      "uuid": "d1cd6e549ab60b728497f73aeeccc9ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002102",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "197600379E",
+    "description": "<p>Banking Computer Services Private Limited (BCS) is a subsidiary of NETS Group.</p>\n\n<p>The NETS Group is a leading payments services group, enabling digital payments for merchants, consumers and banks across the entire payments value chain.</p>\n\n<p>The Group operates Singapore’s national debit scheme enabling customers of DBS Bank/POSB, HSBC, Maybank, OCBC Bank, Standard Chartered Bank and UOB to make payments using their ATM cards or mobile devices at more than 100,000 acceptance points in the country as well as online payments. The NETS network also accepts NETSPay, UnionPay and BCA cards and includes 35,000 Unified POS terminals and 30,000 QR acceptance points. NETS is also the issuer of Cashcard and Flashpay cards.</p>\n\n<p>The NETS Group manages and operates the clearing and payment infrastructure for the Singapore Clearing House Association and core electronic transfer services FAST, Inter-bank GIRO and PayNow.</p>\n\n<p>It is the market leader for payment and clearing solutions (Real-time Gross Settlement system and Cheque Truncation System) in the region with some S$1trillion in transaction value processed through its system every year.</p>\n\n<p>NETS is a member of the Asian Payment Network and a council member of UnionPay International.</p>\n\n<p> </p>\n\n<p> </p>\n",
+    "name": "BANKING COMPUTER SERVICES PRIVATE LIMITED",
+    "ssicCode": "82999",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:48:15.000Z",
+    "ssicCode2020": "66195",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197600379E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197600379E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197600379E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197600379E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "351",
+    "street": "BRADDELL ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "351 ON BRADDELL",
+    "postalCode": "579713",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164874",
+    "deletedAt": null,
+    "createdBy": "9b9d514f-7bad-4fe4-ab21-fee42bcb145d",
+    "createdAt": "2026-01-27T03:32:30.000Z",
+    "updatedAt": "2026-01-27T03:32:30.000Z",
+    "emailRecipient": "9b9d514f-7bad-4fe4-ab21-fee42bcb145d",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 152,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 22,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/application-support-engineer-banking-computer-services-af4a13e17bac56ce26b400cfb5524e03",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/af4a13e17bac56ce26b400cfb5524e03"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/af4a13e17bac56ce26b400cfb5524e03/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

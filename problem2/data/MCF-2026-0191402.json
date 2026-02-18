@@ -1,0 +1,210 @@
+{
+  "uuid": "cbb6e00743e8dff6f314a5ace6e1fad6",
+  "sourceCode": "Employer Portal",
+  "title": "ENGINEER - HIG HBM PSE",
+  "description": "<p>As an <strong>Engineer (E2)</strong> in Micron’s HBM Component Validation team, you will contribute to <strong>validation execution for advanced HBM products</strong>, ensuring <strong>zero validation misses</strong> across MBIST and Native test modes. This role focuses on <strong>hands-on test execution, data analysis, and Verilog simulation support</strong> in a <strong>fast-paced environment</strong>, while building expertise in high-speed memory validation and automation.<br /><br /><strong>Responsibilities</strong></p><ul><li><p><strong>Validation Executio</strong></p></li><li><p>Assist in executing <strong>Validation Runs</strong> on IQP/ETV materials under defined timelines, ensuring coverage completeness across MBIST and Native Mode flows.</p></li><li><p>Support <strong>time-bound data crunching</strong> (log parsing, statistical summaries) and contribute to summary report preparation.</p></li><li><p><strong>Platform & Test Program Support</strong></p></li><li><p>Operate and debug programs on <strong>SM3/Cobra (MBIST)</strong> and <strong>Advantest V93K (Native)</strong>.</p></li><li><p>Assist in hardware readiness: handler, socket, loadboard, and probe card setup.</p></li><li><p><strong>Technical Analysis & Simulation</strong></p></li><li><p>Validate high-speed I/O (>11 Gbps) and assist with eye diagram and signal integrity checks.</p></li><li><p>Support <strong>Verilog simulation tasks</strong> (testbench execution, waveform review) to reproduce sightings and validate fixes.</p></li><li><p><strong>Data & Automation</strong></p></li><li><p>Develop basic scripts in <strong>Python</strong> for log parsing and data visualization.</p></li><li><p>Maintain documentation in Confluence/Jira and version control in Git/Perforce.</p></li><li><p><strong>Debug & Collaboration</strong></p></li><li><p>Participate in root cause analysis sessions and assist in corrective action closure.</p></li><li><p>Collaborate with cross-functional teams (Design, DV, QA, GQ) and attend technical meetings.</p></li></ul><p><strong>Minimum Qualifications</strong></p><ul><li><p>Masters in Microelectronics or Integrated Circuit Design or related field</p></li><li><p><strong>2+ years</strong> experience in semiconductor validation or product engineering (DRAM/HBM preferred).</p></li><li><p>Exposure to <strong>HBM Validation</strong> concepts and flows.</p></li><li><p>Basic experience in <strong>test platform code development</strong> (C/C++, Python) and familiarity with <strong>APG (Algorithmic Pattern Generator)</strong>.</p></li><li><p>Understanding of MBIST or Native Mode testing platforms.</p></li><li><p><strong>Verilog simulation exposure</strong> (running testbenches, interpreting waveforms).</p></li><li><p>Strong analytical and problem-solving skills; ability to work in a fast-paced environment.</p></li></ul><p><strong>Preferred Skills</strong></p><ul><li><p>Familiarity with Linux environment and version control systems (Git/SVN).</p></li><li><p>Comfortable with lab equipment (oscilloscopes, logic analyzers).</p></li><li><p>Knowledge of DRAM/HBM architecture and datasheet interpretation.</p></li><li><p>Interest in automation and continuous improvement initiatives.</p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Signal Integrity",
+      "uuid": "08789ec7228e2129b9b76c11c9ce1d75",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analysis",
+      "uuid": "323d6a1348df47d3174f578e1eff00eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Engineering",
+      "uuid": "77d3c2a59d9947a495204bc9156b6726",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpreting",
+      "uuid": "883f9bc828196c913b19f32b6ed23366",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Integrated Circuit Design",
+      "uuid": "a525d4ef663d5a3d8855a2bc5ab83b68",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Verilog",
+      "uuid": "e3dd11642e087a53101e45e56b76f3f6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Execution",
+      "uuid": "e5dc913b4b336bbdc99b9ebcfd5675c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "1134",
+  "postedCompany": {
+    "uen": "201815216Z",
+    "description": "<p>MICRON SEMICONDUCTOR ASIA OPERATIONS PTE LTD&nbsp;is a subsidiary of Micron Technology, Inc.&nbsp; (‘Micron’).</p>\n<p>Micron is a global leader in the semiconductor industry. For more than 35 years, Micron has dedicated itself to collaborating with customers and partners to engineer technology that drives innovation and transforms what’s possible.&nbsp; Micron offers the industry’s broadest portfolio of silicon-to-semiconductor memory solutions—starting with foundational DRAM, NAND, and NOR Flash memory, and extending to SSDs, modules, MCPs, HMC, and other semiconductor systems. This best-in-class technology powers leading-edge computing, consumer, enterprise server and storage, networking, embedded, automotive, industrial, and mobile products.</p>\n<p>Micron is strategically located in Singapore to efficiently and effectively accommodate its global customers, while also serving as the base of the company’s worldwide operations. Singapore is home to Micron’s largest manufacturing footprint with three fabrication facilities, an upcoming fabrication facility expansion, and a test and assembly facility. Its presence in Singapore also includes a technology center supporting innovation across the company and a sales and marketing office that offers all Micron memory products to our regional customers.</p>\n<p>Micron provides opportunities for team members’ personal and career development through challenging work assignments, training and educational programs. We hire, train, develop, and educate a workforce that is competent in performing job expectations by providing orientation, job specific training, professional certifications, external training and various continuous learning opportunities.<br>\n<br>\nAs Micron enters into a new era of growth, its presence in Singapore plays an important role in its worldwide operations and overall success.</p>",
+    "name": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+    "ssicCode": "26112",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:30:45.000Z",
+    "ssicCode2020": "26112",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201815216Z/schemes"
+      }
+    },
+    "logoFileName": "530f48fafcd5e0428b954861a6d185d3/micron-semiconductor-asia-operations.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/530f48fafcd5e0428b954861a6d185d3/micron-semiconductor-asia-operations.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "NORTH COAST DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "757432",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45482224576261,
+    "lng": 103.793643009918
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191402",
+    "deletedAt": null,
+    "createdBy": "976a8cec-f26b-42ed-8f9c-6ee8f65334b0",
+    "createdAt": "2026-01-30T10:44:31.000Z",
+    "updatedAt": "2026-01-30T10:44:32.000Z",
+    "emailRecipient": "976a8cec-f26b-42ed-8f9c-6ee8f65334b0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 102,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/engineer-hig-hbm-pse-micron-semiconductor-asia-operations-cbb6e00743e8dff6f314a5ace6e1fad6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cbb6e00743e8dff6f314a5ace6e1fad6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cbb6e00743e8dff6f314a5ace6e1fad6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

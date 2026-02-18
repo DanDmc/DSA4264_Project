@@ -1,0 +1,217 @@
+{
+  "uuid": "ca9349f4f37d2585d3b423a14681bef4",
+  "sourceCode": "Employer Portal",
+  "title": "Security Engineer",
+  "description": "<p>- Design, implement, and maintain secure, scalable, and compliant cloud environments across AWS, Azure, or GCP.<br />- Develop and enforce security policies, standards, and best practices for cloud deployments.<br />- Implement automation using IaC to embed security controls and improve deployment efficiency and compliance.<br />- Configure and manage identity, access, and encryption policies to safeguard sensitive data.<br />- Monitor cloud environments for threats using native and third-party security tools; respond to incidents and perform root cause analysis.<br />- Collaborate with architecture, development, and DevOps teams to integrate security into CI/CD pipelines and application lifecycle.<br />- Conduct regular security assessments, vulnerability scans, and risk analysis for cloud workloads.<br />- Document security architecture, incident response procedures, and compliance reports.<br />- Continuously research emerging cloud security threats and recommend improvements for posture and resilience.</p><p>Top 3 MUST have skills:<br />- Strong hands-on experience with cloud platforms such as AWS, Azure, or GCP, including secure setup, configuration, and administration of compute, storage, and networking resources.<br />- Proficient in implementing security controls and automation using Infrastructure as Code (IaC) tools such as Terraform, ensuring compliance and secure deployments.- Solid understanding of cloud security principles, identity and access management (IAM), encryption, network security (VPC, subnets, VPN), and monitoring tools (e.g., AWS GuardDuty, Security Hub, Inspector) to protect workloads and data<br /><br /><strong>Qualification:</strong><br />- Experience with container security and orchestration platforms (e.g., Kubernetes security hardening).<br />- Knowledge of DevSecOps practices and integrating security into CI/CD pipelines.<br />- Familiarity with compliance frameworks and cloud security benchmarks (CIS).<br />- Ability to implement cloud-native threat detection and response solutions.<br />- Exposure to vulnerability management and remediation in cloud environments.<br />- Basic scripting skills in Python, Bash, or PowerShell for security automation.<br />- Strong troubleshooting skills and ability to work in cross-functional teams.<br />- Experience with disaster recovery and secure backup strategies.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Security Architecture",
+      "uuid": "09162aa1970c16d1328b5f8a48519a7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Remediation",
+      "uuid": "282baca6aef56652f503adce6afa9f07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "DevOps",
+      "uuid": "407432c641358300c37673ae96305f3a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Vulnerability Management",
+      "uuid": "41e9c1de32e11815893b9077e9b2d58b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure DevOps",
+      "uuid": "477b9453ea0cc735fcbdbb6f5298752b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "AWS",
+      "uuid": "4847e034bb0a55fcbc8a3380d6a3ab80",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC013733",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200815465R",
+    "description": "<div>   Providing IT resources for big fives consulting firms.</div>  <div>    </div>  <div>   G2Solusi supported various projects in the region by providing select expertise to Consulting firms. </div>  <div>   Our focus is in project management and specialized skills in Telecommunication and Oil-Gas Industries.</div>  <div>   Our staffs are engaged in Singapore, Malaysia, Indonesia, Thailand, and the Philippines.</div>  ",
+    "name": "G2 COMTECH ASIA PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:58:52.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200815465R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200815465R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200815465R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200815465R/schemes"
+      }
+    },
+    "logoFileName": "0e81843078d2d281644899faef23c076/g2-comtech-asia.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/0e81843078d2d281644899faef23c076/g2-comtech-asia.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157047",
+    "deletedAt": null,
+    "createdBy": "e25deb6b-c650-4c5c-b4ed-31fff28bfac0",
+    "createdAt": "2026-01-26T03:58:27.000Z",
+    "updatedAt": "2026-01-26T03:58:27.000Z",
+    "emailRecipient": "e25deb6b-c650-4c5c-b4ed-31fff28bfac0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 60,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-16",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/security-engineer-g2-comtech-asia-ca9349f4f37d2585d3b423a14681bef4",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5800,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ca9349f4f37d2585d3b423a14681bef4"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ca9349f4f37d2585d3b423a14681bef4/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

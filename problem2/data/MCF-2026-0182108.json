@@ -1,0 +1,225 @@
+{
+  "uuid": "2a14720c32eabd2bbc0061e83b419284",
+  "sourceCode": "Employer Portal",
+  "title": "Quality Assurance Engineer",
+  "description": "<p>Job Objectives:<br />1. To ensure all products produced are of highest quality and meet or exceed customer requirements.</p><p>2. To ensure all activities perform in accordance to AS9100 standard and in line with the company Quality Policy<br /><br />3.Responsible to establish and revise ballon drawing, inspection plan and report<br /></p><p>Job Responsibilities:<br /></p><p>1. Responsible to establish and revise ballon drawing, inspection plan and report</p><p>2.  Constantly improve the quality level thru developing effective inspection plan, method and upgrading inspection skill.</p><p>3. Manage inspection activities and resources to provide the necessary support to ensure smooth manufacturing operation.</p><p>4. Generate monthly/weekly Quality Reports (IQA, NCR, CAR, LAR and customer complaint, etc.) and updates the management on quality performance regularly.</p><p>5. Train, certify and requalify QA Personnel.</p><p>6. Handle FA inspection package and submit to customer (IPR, COC, PQP, etc)</p><p>7. Handle customer quality issues and champion corrective action plan to customer.</p><p>8. Work with Quality System Engineer to ensure quality system is effective implemented and maintained.</p><p>9. In charge of maintaining quality records and QA archiving room activities.</p><p>10. Enforce safety standard and maintain good housekeeping practise at QA related area.</p><p>11. As internal auditor to audit respective area and liaise with customer on audit related as auditee.</p><p>12. Manage inspection activities and resources to provide the necessary support to ensure smooth QA operation at CMM.</p><p>13. Responsible to create, establish and revised CMM program for CMM inspection. Get approval CMM PCO and submit to doc control.</p><p>14. Manage inspection activities and resources to provide the necessary support to ensure smooth QA operation at CMM</p><p>15. Perform regular analysis on CMM in rectifying machine errors in order to improve efficiency and to reduce machine downtime.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Archiving",
+      "uuid": "2fc383c67ed70aa7f93a5ece39b4abf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality System",
+      "uuid": "454a15798134414183f6a48bd16b9690",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AS9100",
+      "uuid": "730a00f0fce257a792e1aacd5bf43220",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Automation",
+      "uuid": "7e636b60d041a7a4c38232c3a2830397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Auditor",
+      "uuid": "83088ecc77b52a62602337d2c37b4772",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Quality",
+      "uuid": "b00b5bba7ab331e1cdd9d94db75793bf",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21414",
+  "occupationId": "OCC003345",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 43,
+      "category": "Precision Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1179",
+  "postedCompany": {
+    "uen": "201116715M",
+    "description": "<p>\r\n\tAVITRON PRIVATE LIMITED</p>\r\n",
+    "name": "AVITRON PRIVATE LIMITED",
+    "ssicCode": "30301",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T07:03:29.000Z",
+    "ssicCode2020": "30301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201116715M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201116715M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201116715M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201116715M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "51",
+    "street": "CORPORATION ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "649806",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.34172195745395,
+    "lng": 103.715332182674
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182108",
+    "deletedAt": null,
+    "createdBy": "9107124f-f9fe-4df1-a81e-b1f3cf021c42",
+    "createdAt": "2026-01-29T07:54:35.000Z",
+    "updatedAt": "2026-01-29T07:54:34.000Z",
+    "emailRecipient": "9107124f-f9fe-4df1-a81e-b1f3cf021c42",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 108,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/precision-engineering/quality-assurance-engineer-avitron-2a14720c32eabd2bbc0061e83b419284",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a14720c32eabd2bbc0061e83b419284"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a14720c32eabd2bbc0061e83b419284/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

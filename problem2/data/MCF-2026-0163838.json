@@ -1,0 +1,201 @@
+{
+  "uuid": "16c67e588eeca11874d9be571ea10fd1",
+  "sourceCode": "Employer Portal",
+  "title": "Experienced Sales Executive – Commercial Vehicle Workshop",
+  "description": "<h3>Job Description:</h3><p>We are looking for an experienced and driven Sales Executive with a strong background in commercial vehicle workshops to join our team. The ideal candidate will be responsible for promoting workshop services, expanding our customer base, and building long-term relationships with fleet owners and corporate clients.</p><h3>Key Responsibilities:</h3><ul><li><p>Bring in new workshop sales and service jobs for commercial vehicles</p></li><li><p>Manage existing customer accounts and maintain strong relationships</p></li><li><p>Prepare quotations, follow up on approvals, and close sales</p></li><li><p>Follow up on outstanding payments and ensure timely collection</p></li><li><p>Coordinate with accounts and operations teams on billing and payment status</p></li><li><p>Liaise with customers on invoicing, credit terms, and payment schedules</p></li><li><p>Ensure accurate documentation and job completion before invoicing</p></li></ul><h3>Requirements:</h3><ul><li><p>Minimum <strong>2–3 years of sales experience</strong> in <strong>commercial vehicle / truck / fleet workshop</strong></p></li><li><p>Strong understanding of commercial vehicle servicing and maintenance</p></li><li><p>Good communication, negotiation, and interpersonal skills</p></li><li><p>Self-motivated, target-driven, and independent</p></li><li><p>Possess own vehicle (preferred)</p></li><li><p>Existing industry contacts will be an advantage<br /></p></li></ul><h3>Benefits:</h3><ul><li><p>Competitive basic salary + attractive commission</p></li><li><p>Supportive and professional working environment<br /></p><p><strong>SINGAPOREAN / PR ONLY</strong></p></li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Verbal Communication",
+      "uuid": "29d0b1d35790a5bf184dccacd3e641ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Aftersales",
+      "uuid": "2fa29bd7d87c6cc802ba996a3fb94a95",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Invoicing",
+      "uuid": "6bdf2efe1a99072849d4e87baee37dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "B2B Sales",
+      "uuid": "88292c05a15c019fec626a163fa8f1c7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "on-site workshops",
+      "uuid": "e92696e771e85be6ad08ce018f0a8e06",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "12211",
+  "occupationId": "OCC000657",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 33,
+      "category": "Repair and Maintenance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0549",
+  "postedCompany": {
+    "uen": "202411920N",
+    "description": null,
+    "name": "STALWART AUTO PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T06:26:45.000Z",
+    "ssicCode2020": "95301",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202411920N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202411920N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202411920N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202411920N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "43",
+    "street": "GUL CIRCLE",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "629578",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.31395641678553,
+    "lng": 103.663644814389
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163838",
+    "deletedAt": null,
+    "createdBy": "93b3a522-efcc-41e1-b99d-9cd0184207e1",
+    "createdAt": "2026-01-27T02:17:15.000Z",
+    "updatedAt": "2026-01-27T02:17:15.000Z",
+    "emailRecipient": "93b3a522-efcc-41e1-b99d-9cd0184207e1",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 62,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/repair-maintenance/experienced-sales-executive-%E2%80%93-commercial-vehicle-workshop-stalwart-auto-16c67e588eeca11874d9be571ea10fd1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/16c67e588eeca11874d9be571ea10fd1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/16c67e588eeca11874d9be571ea10fd1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

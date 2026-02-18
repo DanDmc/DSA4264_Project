@@ -1,0 +1,221 @@
+{
+  "uuid": "3a5ce58c0306c5342e38ad5a2ae740d5",
+  "sourceCode": "Employer Portal",
+  "title": "Java Developer",
+  "description": "<p>We are hiring for our software project for providing application support role in banking environment</p>\n<p><br></p>\n<p><strong>Qualification &amp; Responsibilites</strong></p>\n<ul>\n  <li>University Degree in Computer Science or Equivalent.</li>\n  <li><strong>At least 6 years of experience performing system support and java programming with Java/J2EE/JSP/MS SQL/Oracle</strong></li>\n  <li>Advantageous to have experience in supporting banking applications, IBM FileNet/Content Navigator/Case Manager, Suntec Pricing and Product Bundling</li>\n  <li><strong>Deployment of applications or patches in IBM WebSphere Application Server.</strong></li>\n  <li>Familiar with Windows, AIX Servers commands.</li>\n  <li><strong>Hands-on working knowledge of Microsoft SQL and Oracle.</strong></li>\n  <li>Good in troubleshooting production issues.</li>\n  <li>Working knowledge of JIRA, GITHUB, Eclipse.</li>\n  <li>Very good communication skills and interpersonal skills.</li>\n  <li>Vendor Management Experience</li>\n</ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Unix Operating Systems",
+      "uuid": "3bde29b1be39ed7f9483405a91169a7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java Classes",
+      "uuid": "536eb6c0774d08696376626fd1658415",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Management",
+      "uuid": "568483e9bd85504f3c9dcef24ecd3235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix shell",
+      "uuid": "6a128ec4ad414f45f3d46d696eb98b1c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Core Java",
+      "uuid": "97e80a3066e85a0f2eb75a021d4869d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Support",
+      "uuid": "a1ea28161497355d2e25cbef64a119b7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Banking",
+      "uuid": "bf8e5c092dc83fae78b0a110e809690c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix Shell Scripting",
+      "uuid": "d16fae16b9f41c4d4f21ec0b8cc02416",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix scripts",
+      "uuid": "eb197b6466b0e08d12177ebe0db620c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC013770",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201315726G",
+    "description": "<p>VUI Systems is a service centric organization. Our success begins with our ability to apply our relationships, leverage technologies, and identify talent – often in combination – to an endless array of real-world customer needs. Of course, the employees of VUI Systems and their singular commitment to make life easier and better for our clients around the world make all of this possible.</p>    <p>Today we offer our services across North America and Asia. With us, you can rest assured that your requirement will be met. Our customer base ranges from IT majors, engineering and Hi-Tech leaders to Retail/CPG majors. Our ability to deliver and cost-effectiveness have made us trusted partners of our customers. Last but not the least, VUI is an equal opportunity employer and we take pride in our diversity.</p>  ",
+    "name": "VUI SYSTEMS PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.vui-inc.com",
+    "lastSyncDate": "2026-01-30T01:40:26.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201315726G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201315726G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201315726G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201315726G/schemes"
+      }
+    },
+    "logoFileName": "7ccc3719fa4ba497e6b1520df187c978/vui-systems.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7ccc3719fa4ba497e6b1520df187c978/vui-systems.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167883",
+    "deletedAt": null,
+    "createdBy": "796343e9-2735-4dba-b2dd-0bb7e0195c1e",
+    "createdAt": "2026-01-27T09:10:22.000Z",
+    "updatedAt": "2026-01-27T09:10:22.000Z",
+    "emailRecipient": "796343e9-2735-4dba-b2dd-0bb7e0195c1e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 439,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/java-developer-vui-systems-3a5ce58c0306c5342e38ad5a2ae740d5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 7500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3a5ce58c0306c5342e38ad5a2ae740d5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3a5ce58c0306c5342e38ad5a2ae740d5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

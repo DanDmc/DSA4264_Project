@@ -1,0 +1,203 @@
+{
+  "uuid": "6a85ea3d93a0ddbd36b64cccb4b81e30",
+  "sourceCode": "Employer Portal",
+  "title": "Electrical Engineer",
+  "description": "<p><strong>Responsibilities</strong></p>\n<ul>\n  <li>Perform engineering duties such as design, engineering calculations, planning, tender preparation/evaluations as part of the engineering project team</li>\n  <li>QA/QC documentation of engineering deliverables</li>\n  <li>Liaison with clients, project managers, architects, contractors</li>\n  <li>Assist in resolving any technical problems faced during project design and/or construction stages</li>\n  <li>Any other required duties as required by the Project Team.</li>\n</ul>\n<p><strong>Minimum Qualifications/ Experience/Skills</strong></p>\n<ul>\n  <li>Graduate in Electrical/Mechanical Engineering.</li>\n  <li>Advanced skills using company software</li>\n  <li>Proven ability to communicate well in written and verbal communications</li>\n  <li>Design thinking for product inventions and enhancements</li>\n  <li>Motivation and commitment to providing interpersonal customer service</li>\n  <li>Knowing and applying current industry standards and information</li>\n  <li>Soft skills including a positive attitude, flexibility and conflict resolution</li>\n  <li>The ability to solve problems creatively on time</li>\n  <li>Having up-to-date knowledge and technical skills</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Drawing",
+      "uuid": "810936aa5e89d9fa402d006b73ea7d95",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Design Thinking",
+      "uuid": "bb61df91b8d29ffca1c4078014214bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21511",
+  "occupationId": "OCC060340",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1132",
+  "postedCompany": {
+    "uen": "S83FC3320B",
+    "description": "<p>\r\n\tSHINRYO CORPORATION</p>\r\n",
+    "name": "SHINRYO CORPORATION",
+    "ssicCode": "43220",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T07:47:29.000Z",
+    "ssicCode2020": "43220",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83FC3320B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83FC3320B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83FC3320B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/S83FC3320B/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "401",
+    "street": "COMMONWEALTH DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "HAW PAR TECHNO CENTRE",
+    "postalCode": "149598",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 3,
+        "location": "D03 Queenstown, Tiong Bahru",
+        "region": "South",
+        "sectors": [
+          "14",
+          "15",
+          "16"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.30305550266361,
+    "lng": 103.796483192841
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167334",
+    "deletedAt": null,
+    "createdBy": "3330cde8-5e64-4f4d-a38b-88b4857603a4",
+    "createdAt": "2026-01-27T08:15:21.000Z",
+    "updatedAt": "2026-01-27T08:15:21.000Z",
+    "emailRecipient": "3330cde8-5e64-4f4d-a38b-88b4857603a4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 42,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/electrical-engineer-shinryo-corporation-6a85ea3d93a0ddbd36b64cccb4b81e30",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a85ea3d93a0ddbd36b64cccb4b81e30"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6a85ea3d93a0ddbd36b64cccb4b81e30/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

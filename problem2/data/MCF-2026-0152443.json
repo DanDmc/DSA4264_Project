@@ -1,0 +1,210 @@
+{
+  "uuid": "bbafaebdcc9f655be5c1be4a8862edb3",
+  "sourceCode": "Employer Portal",
+  "title": "lectronic Hardware Design Engineer (PCBA/TI ARM/Xilinx/RF/Analog) LT85",
+  "description": "<p><strong>Duties and Responsibilities</strong></p><ul><li><p>Develop electronic hardware from the ground up, while working closely with system designer.</p></li><li><p>Create schematic and a thorough QC process</p></li><li><p>Hardware safety/reliability analysis and quality assurance.</p></li><li><p>Able to work with PCB designer, PCBA assembly plants for prototype fabrication and BOM management.</p></li><li><p>Write tests for both existing and new electronic hardware compatibility and stability</p></li></ul><p><strong>Job Requirements:</strong></p><ul><li><p>Bachelor’s degree in electronic engineering, information technology, computer science, or a related field</p></li><li><p>Experience in schematic development for embedded system, analog / RF / Digital / FPGA.</p></li><li><p>Extensive experience of Altium designer or other schematic / PCB design tool.</p></li><li><p>Experience on TI, Xilinx electronic components and selection / assessment tools.</p></li><li><p>In-depth understanding of network communication.</p></li><li><p>Working knowledge of TI ARM / Xilinx SoC IDE.</p></li></ul><p>HOW TO APPLY:</p><p>Interested applicants, kindly send your resume in MS WORD format to leo.tang(at)trustrecruit.com.sg</p><p>We regret only shortlisted candidates will be notified.</p><p>Important Note: Trust Recruit Pte Ltd is committed to safeguarding your personal data in accordance with the Personal Data Protection Act (PDPA).</p><p>Please read our privacy statement on our corporate website www.trustrecruit.com.sg.</p><p>Trust Recruit Pte Ltd</p><p>EA License No: 19C9950</p><p>EA Personnel: Tang For Farn (Leo)</p><p>EA Personnel Reg No: R24121981</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Analog",
+      "uuid": "3d953aa7cfa5ffe0fde34551d918c76c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RF",
+      "uuid": "3fe3de84275c2edcd95efff999764322",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ARM",
+      "uuid": "47f45e65244c17ec9fa8771a5c6d60e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Word",
+      "uuid": "99bf759398c1e3eb29bef7edd71e7777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Altium Designer",
+      "uuid": "a03de51e5aebb7dac96ffc5a9d43b648",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "TI",
+      "uuid": "a316c795d70a350e00b1ac22da664e38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SoC",
+      "uuid": "a5cad1b3094bc250999781c7be3ecf07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PCB Design",
+      "uuid": "b834b1742a1420cd8969c27c8913c750",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Xilinx",
+      "uuid": "f872201c6db9bf2620dc262ba42d2271",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21521",
+  "occupationId": "OCC060370",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1139",
+  "postedCompany": {
+    "uen": "201935022Z",
+    "description": "<p>Trust Recruit is Singapore’s leading relationship-based human resource and recruitment firm.</p>\n<p><br></p>\n<p>With more than 20 years of collective consulting experience, we provide personalized workforce solutions for our corporate clients, ranging from multinational corporations to the public sector, as well as small and medium enterprises.</p>\n<p><br></p>\n<p>At Trust Recruit, integrity and reliability permeate every level of our recruitment process.</p>\n<p><br></p>\n<p>TRUST is our currency of interactions; be it with our valued clients, talented job-seekers, or our own employees. Through our premium staffing services, we are committed to connecting and developing quality relationships between candidates and companies.</p>",
+    "name": "TRUST RECRUIT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 50,
+    "companyUrl": "https://www.trustrecruit.com.sg/",
+    "lastSyncDate": "2026-02-04T01:01:10.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201935022Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201935022Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201935022Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201935022Z/schemes"
+      }
+    },
+    "logoFileName": "93d2f521f464174261f37efa8befa182/trust-recruit.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/93d2f521f464174261f37efa8befa182/trust-recruit.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TWENTY ANSON",
+    "postalCode": "079912",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27536898126366,
+    "lng": 103.845646454233
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0152443",
+    "deletedAt": null,
+    "createdBy": "8712e121-068c-4a82-8710-75c88d918060",
+    "createdAt": "2026-01-25T01:22:43.000Z",
+    "updatedAt": "2026-01-25T01:22:43.000Z",
+    "emailRecipient": "8712e121-068c-4a82-8710-75c88d918060",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 58,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/lectronic-hardware-design-engineer-lt85-trust-recruit-bbafaebdcc9f655be5c1be4a8862edb3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bbafaebdcc9f655be5c1be4a8862edb3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bbafaebdcc9f655be5c1be4a8862edb3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

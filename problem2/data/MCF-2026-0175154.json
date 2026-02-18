@@ -1,0 +1,221 @@
+{
+  "uuid": "23d984872fa89a7fe1b932f6d39ad178",
+  "sourceCode": "Employer Portal",
+  "title": "DevSecOps Engineer",
+  "description": "<p><u><strong>Role Overview</strong></u></p><p>We are seeking a skilled and proactive <strong>DevSecOps Engineer</strong> with a strong background in cloud infrastructure and CI/CD automation across AWS, GCP, and on-premises environments. This role is critical to ensuring the secure, reliable, and efficient deployment of containerized microservices. The ideal candidate will bring deep technical expertise, a security-first mindset, and a passion for operational excellence.</p><p><u><strong>Key Responsibilities</strong></u></p><ul><li>Design, implement, and manage secure CI/CD pipelines for containerized workloads. </li><li>Deploy and maintain AWS ECS (Fargate) services and associated cloud components (e.g., S3, RDS). </li><li>Provision and operate GCP Kubernetes (GKE) clusters using Terraform. </li><li>Ensure environment consistency across on-prem SIT and cloud staging platforms. </li><li>Implement robust secrets management, IAM policies, and network security controls. </li><li>Integrate automated security scanning and compliance checks into CI/CD workflows. </li><li>Monitor system performance, troubleshoot issues, and optimize infrastructure reliability. </li><li>Maintain comprehensive documentation of deployment architectures and operational procedures.</li></ul><p><u><strong>Required Skills & Qualifications</strong></u></p><ul><li>Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience). </li><li>Minimum 5 years of experience in DevOps, Cloud Engineering, or related roles. </li><li>Strong hands-on experience with AWS ECS (Fargate) and core AWS services. </li><li>Proficiency in Kubernetes (preferably GKE) and related tools (kubectl, Helm). </li><li>Solid experience with Terraform for infrastructure as code. </li><li>Familiarity with CI/CD platforms such as GitLab CI, GitHub Actions, Jenkins, etc. </li><li>Deep understanding of cloud security principles including IAM, VPC networking, and secrets management. </li><li>Strong Linux administration and scripting capabilities (e.g., Bash, Python).</li></ul><p><u><strong>Preferred Skills</strong></u></p><ul><li>Experience working in regulated or confidential computing environments. </li><li>Knowledge of DevSecOps methodologies and secure software development lifecycle (SDLC) practices.</li></ul><p><u><strong>Soft Skills</strong></u></p><ul><li>Demonstrated ownership and a proactive problem-solving approach. </li><li>Excellent communication and documentation skills. </li><li>Ability to thrive in dynamic, multi-environment setups with cross-functional teams.</li></ul>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Documentation Skills",
+      "uuid": "650197e8018339f9aadafee35539dbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Staging",
+      "uuid": "830f78e090fe8aec00891405dfc14824",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "S3",
+      "uuid": "e2ab7c65b21ed8cc1c3b642b5e36429e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002041",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201405919C",
+    "description": "<p><u><strong>INNOVATIQ TECHNOLOGIES PTE. LTD:</strong></u></p>\n<p>We are Singapore Head Quartered multinational company with offices in Singapore, Malaysia and India. Planning to expand to other South East Asia and US. We are Client business focused technology and consultancy services company which focuses mainly in on the below business towers:</p>\n<p>1. Digital Transformation</p>\n<p>2. Cloud enablement &amp; migration</p>\n<p>3. Cyber Security</p>\n<p>4. Consultancy Services</p>\n<p><strong>1.</strong> <u><strong>Digital Transformation:</strong></u></p>\n<p>We provide end to end Digital Transformation through application development, Artificial Intelligence, Machine Learning and Internet of things to customers who want to keep pace with changing trends to achieve competitive edge of new generation business models. Even in this fast-moving 5G internet world we found some of the companies are stuck with their old practices of using excel and legacy applications to run their business. These legacy applications are still useful but require huge costs to enhance and maintain due to lack of support from the vendors. For such companies, we offer our consultancy services to implement and migrate to a new out-of-the-box products that provides more powerful features and support their business with productive way of working and reducing their operational cost.</p>\n<p>Digital transformation is the integration of digital technology into all areas of a business, fundamentally changing how you operate and deliver value to customers. It's also a cultural change that requires organizations to continually challenge the status quo, experiment, and get comfortable with failure. We provide Digital Transformation to Mid-Market and Enterprise Customers vis App Dev, AI, ML, RPA and IoT.</p>\n<p><u><strong>ERP Rollout for midmarket &amp; Enterprise clients:</strong></u></p>\n<p>ERP provides complete visibility into core business processes and optimizes systems through superior resource tracking and reporting, database management and data sharing and overall improved information systems. ERP systems can allow your business to expand without the addition of IT or staffing costs. We implement &amp; support SAP S4 HANA, MS Dynamics.</p>\n<p><strong>2.</strong> <u><strong>Cloud Enablement &amp; Migration</strong></u></p>\n<p>Our cloud service offerings include end to end consultancy and implementation as per needs of our customer business requirement. We are partner agnostic company and work with multiple cloud players of the market. Our employees are cloud certified with AWS, Azure and IBM. We offer our consultancy services to those clients who are looking to bring down their capex and move their workloads to open platforms that can help them to operate with minimal cost and faster response.</p>\n<p>We support the most open and secure public cloud for businesses and suggest a next-generation hybrid multi cloud platforms, advanced data and AI capabilities, and deep enterprise expertise across various Industries.&nbsp;</p>\n<p><br></p>",
+    "name": "INNOVATIQ TECHNOLOGIES PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": 50,
+    "companyUrl": "www.innovatiq.com.sg",
+    "lastSyncDate": "2026-02-04T01:14:38.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201405919C/schemes"
+      }
+    },
+    "logoFileName": "82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/82501e9a716c6072946ad06fb1f5ee45/innovatiq-technologies.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0175154",
+    "deletedAt": null,
+    "createdBy": "39dcb0a5-e23e-4f91-8790-18307171f3ae",
+    "createdAt": "2026-01-28T07:45:02.000Z",
+    "updatedAt": "2026-01-28T07:45:02.000Z",
+    "emailRecipient": "39dcb0a5-e23e-4f91-8790-18307171f3ae",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 41,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devsecops-engineer-innovatiq-technologies-23d984872fa89a7fe1b932f6d39ad178",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/23d984872fa89a7fe1b932f6d39ad178"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/23d984872fa89a7fe1b932f6d39ad178/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

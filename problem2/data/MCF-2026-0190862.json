@@ -1,0 +1,230 @@
+{
+  "uuid": "41949af7bece0fb6e59b6454abe950a6",
+  "sourceCode": "Employer Portal",
+  "title": "Security Consultant",
+  "description": "<h1>Security Consultant</h1><h2>Role Overview</h2><p>We are hiring <strong>Security Consultants</strong> to deliver end-to-end security assessments for our clients. You will test a wide range of systems (applications, infrastructure, cloud, and emerging technologies) then translate technical findings into clear, actionable recommendations. This role is hands-on and client-facing, suited for someone who enjoys deep technical work and communicates professionally throughout the engagement lifecycle.</p><h2>Key Responsibilities</h2><ul><li>Deliver remote or on-site security assessments, such as<strong> Vulnerability Assessment and Penetration Testing</strong>, across varied environments such as Web/Mobile/API/Thick Client/Cloud/Network/Wireless</li></ul><ul><li>Able to use industry-standard tools (e.g. Burp Suite, Nmap, Nessus and supporting utilities) for automated approaches.</li><li>Able to perform manual testing to uncover findings that scanners and automated tooling commonly miss</li></ul><ul><li>Validate and document findings clearly, and write good technical reports</li></ul><ul><li>Communicate internally with team and externally with clients regarding engagement's progress and status.</li></ul><ul><li>Contribute to internal quality and capability such as improving checklists/playbooks, templates, and tooling, and sharing knowledge with the team and participate in peer reviews</li></ul><h2>Required Skills & Experience</h2><ul><li>Minimal <u><strong>1</strong></u> year of working experience in cybersecurity, preferably in delivering security assessments.</li><li>Certification(s): <u><strong>OSCP</strong></u><u> </u>or <u><strong>CREST CRT</strong></u> or higher.</li><li>Familiarity with industry standards and frameworks, including <strong>OWASP Top 10</strong> and related testing guides, <strong>MITRE ATT&CK</strong>, <strong>NIST</strong>.</li><li>Good with using industry testing tools and workflows (e.g. <strong>Burp Suite, Nmap, Nessus</strong>) and able to go beyond tool output through manual validation.</li><li>Comfortable in picking up new knowledge and skills to deliver security assessments for cutting-edge technology such as AI/LLM systems.</li><li>Strong written and spoken English: Able to write clear and structured reports and able to explain complex technical issues simply and accurately.</li><li>Professional and composed when interacting with clients during engagements.</li><li>Self-directed and reliable, able to deliver independently while collaborating effectively within the team.</li></ul><h2>Nice to Have</h2><ul><li>Passion for cybersecurity</li><li>Proven hands-on experience performing security assessments such as Vulnerability Assessment, Penetration Testing, and Code Review across modern technology stacks.</li><li>Past contributions to security research, tooling, publications, talks, CVEs or bug bounty programs.</li></ul><h2>Why Join Us?</h2><ul><li><strong>WFH By Default + Flexible Working Hours</strong> – Unless it is for onsite work and other business requirements.</li><li><strong>Strong technical team</strong> where you can exchange pointers with.</li><li><strong>High Technical Career Growth Potential</strong> – Technical growth of our consultants is important to us, so expect to level up a lot after joining us.</li><li><strong>Excellent Operational Support</strong> – As fellow practitioners, we know the usual pain points in this line of work thus extra effort is put in to make work better for everyone.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "uuid": "0889f4cee1d9f42ae2c1daf686377de0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manual Testing",
+      "uuid": "22ab26f5643cef4b32c9736925166d27",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Security",
+      "uuid": "2993e06f9e34b9da0ed41173d7d56a4a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cloud Security",
+      "uuid": "3ba90f7ae36582c7bce8300d29951e83",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Management",
+      "uuid": "41e9c1de32e11815893b9077e9b2d58b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security",
+      "uuid": "4690cd84196b0a4e3f84f2cc3bf79ac7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Mobile Security",
+      "uuid": "8d276b581c1fc3b1c286e4eab120a928",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Penetration Testing",
+      "uuid": "97def0245e723621477eeda0a410ec36",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Security Architecture Design",
+      "uuid": "e5021fc4a0c79659d8f502cf20d39199",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "uuid": "e5ad6b40151becc1063fa71bd7e18322",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Security Research",
+      "uuid": "ef1cd54fe461bafc9bc1f6892b96d498",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    },
+    {
+      "id": 2,
+      "flexibleWorkArrangement": "Telecommuting"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "25242",
+  "occupationId": "OCC062523",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 21,
+      "category": "Information Technology"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201900580K",
+    "description": "<p>PastelOps is a CREST-accredited cybersecurity consulting firm in Singapore. We specialise in helping organisations to secure their systems and data through our security advisory work, vulnerability assessment and penetration testing services, code review services and more.</p>",
+    "name": "PASTELOPS PTE. LTD.",
+    "ssicCode": "62022",
+    "employeeCount": null,
+    "companyUrl": "https://pastelops.io",
+    "lastSyncDate": "2026-02-04T00:56:25.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201900580K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201900580K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201900580K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201900580K/schemes"
+      }
+    },
+    "logoFileName": "7b6e323f0605f89e63a248892a876725/pastelops.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7b6e323f0605f89e63a248892a876725/pastelops.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190862",
+    "deletedAt": null,
+    "createdBy": "26e84aec-67fe-43ef-8d1a-0f37cebcec35",
+    "createdAt": "2026-01-30T09:36:02.000Z",
+    "updatedAt": "2026-01-30T09:36:02.000Z",
+    "emailRecipient": "26e84aec-67fe-43ef-8d1a-0f37cebcec35",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 95,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/security-consultant-pastelops-41949af7bece0fb6e59b6454abe950a6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/41949af7bece0fb6e59b6454abe950a6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/41949af7bece0fb6e59b6454abe950a6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

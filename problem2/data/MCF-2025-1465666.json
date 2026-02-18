@@ -1,0 +1,193 @@
+{
+  "uuid": "5d213e3855a0991f55ffdc92d55f2a54",
+  "sourceCode": "Employer Portal",
+  "title": "SALES CO-ORDINATOR",
+  "description": "<p>Our company trades and distributes food &amp; beverages products to caterers, foodservice outlets, ship chandlers, etc. We are looking for candidates to join our sales team with the following skill set:</p>\n<p><br></p>\n<p>1) Minimum of 3 years working experience in the marketing &amp; sales of     food &amp; beverage products</p>\n<p>2) Good customer service skills</p>\n<p>3) Attends to customer enquiry </p>\n<p>4) Order processing</p>\n<p>5) Have existing customer base would be an advantage</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Telemarketing",
+      "uuid": "3e7ebe7c174ad5da159a3aafa043f620",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC061864",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 1,
+      "position": "Senior Management"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "31",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "198501315D",
+    "description": "<p>Established in 1985, Thong Chew Food Industries Pte Ltd is a leading supplier of food & beverage to government agencies and other foodservice institutions. With a staff strength of over 60 employees and a full facilty warehouse, the company distributes a wide range of foodstuff and can offer customers a one-stop solution to their provisioning requirements.</p>\n",
+    "name": "THONG CHEW FOOD INDUSTRIES PTE LTD",
+    "ssicCode": "10793",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-31T04:17:16.000Z",
+    "ssicCode2020": "10793",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198501315D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1465666",
+    "deletedAt": "2026-01-10T17:15:04.000Z",
+    "createdBy": "6c8ad73f-aa3e-4e5a-9d22-6dbb4f969bf4",
+    "createdAt": "2025-09-27T06:45:14.000Z",
+    "updatedAt": "2026-01-31T04:51:25.000Z",
+    "emailRecipient": "6c8ad73f-aa3e-4e5a-9d22-6dbb4f969bf4",
+    "editCount": 2,
+    "repostCount": 2,
+    "totalNumberOfView": 283,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2025-09-27",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 12,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/sales-co-ordinator-thong-chew-food-industries-5d213e3855a0991f55ffdc92d55f2a54",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5d213e3855a0991f55ffdc92d55f2a54"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5d213e3855a0991f55ffdc92d55f2a54/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

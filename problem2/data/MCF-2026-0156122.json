@@ -1,0 +1,223 @@
+{
+  "uuid": "cc32bbfd274d8db0697477aef76897ec",
+  "sourceCode": "Employer Portal",
+  "title": "MASSEUR",
+  "description": "<p><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></p><p>Performing different types of massages, and wellness therapies.</p><p>Communicating with guests during massages to adjust massage techniques as required.</p><p>Resolving guest complaints and reporting any accidents to the supervisor.</p><p>Cleaning and sanitizing work areas, changing treatment room sheets, and sterilizing all instruments and equipment before each use.</p><p>Explaining massages, treatments, and therapies to guests and providing suitable recommendations as needed.</p><p>Willingness to work night shift and split shift.</p><p>Willingness to work extra hours or weekend if needed.</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Qualified massage therapist",
+      "uuid": "1e1d644934b59d52cd7f23dad1b11e8a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Massage",
+      "uuid": "287696ba05bf5cf78d263584af9689d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Chair Massage",
+      "uuid": "2e26ff0a62d4b0a38d3e5a390941ca40",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Thai Massage",
+      "uuid": "b3dae3d16b1428e40518f024feb37f4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medical Massage",
+      "uuid": "ba9f6fdfc813b3bd1704a81af2071c3e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Therapeutic Massage",
+      "uuid": "c700075abd97a667bc5f69738303c51b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Focus",
+      "uuid": "c8519749262c7cf93603d66027b06843",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51491",
+  "occupationId": "OCC013638",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "23",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201018342H",
+    "description": "<p>Oriental Employment Ptd Ltd. Licence No. : 10C4480 was incorporated in Singapore since 2010. We aim to offer a solution for recruitment that specializes in the all industries, by matching applicants faster and easier</p>",
+    "name": "ORIENTAL EMPLOYMENT PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:24:33.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201018342H/schemes"
+      }
+    },
+    "logoFileName": "5e772e2c6c9cc52a7633a35430d9df47/oriental-employment.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/5e772e2c6c9cc52a7633a35430d9df47/oriental-employment.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202503317H",
+    "description": null,
+    "name": "MOON SPA AND MASSAGE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-26T02:28:44.000Z",
+    "ssicCode2020": "96024",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202503317H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202503317H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202503317H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202503317H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "THONG SOON AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "SPRINGLEAF GARDEN",
+    "postalCode": "787433",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 26,
+        "location": "D26 Upper Thomson, Springleaf",
+        "region": "North",
+        "sectors": [
+          "77",
+          "78"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.39720348402022,
+    "lng": 103.818772707641
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156122",
+    "deletedAt": null,
+    "createdBy": "ce9dbc7b-67cd-4901-b0de-55e8d9fa3626",
+    "createdAt": "2026-01-26T02:45:49.000Z",
+    "updatedAt": "2026-01-26T02:45:48.000Z",
+    "emailRecipient": "ce9dbc7b-67cd-4901-b0de-55e8d9fa3626",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 45,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/professional-services/masseur-moon-spa-massage-cc32bbfd274d8db0697477aef76897ec",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5200,
+    "minimum": 3100,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cc32bbfd274d8db0697477aef76897ec"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cc32bbfd274d8db0697477aef76897ec/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,210 @@
+{
+  "uuid": "5fee5451183f189b8de44e7aed91dba0",
+  "sourceCode": "Employer Portal",
+  "title": "PURCHASING CLERK",
+  "description": "<p><strong>Job Description:</strong></p><ul><li>Manage all purchase requisition, purchase order, delivery orders and invoices.</li><li>Manage and update of material receiving in the system.</li><li>Coordinate with suppliers to ensure on-time delivery.</li><li>Monitor prompt delivery of material to meet prompt deadline.</li><li>Update and monitor import shipment schedule arrival.</li><li>Liaise with vendors on sample, update and monitor sample schedule arrival.</li><li>Maintaining and good documentation records.</li><li>Updated purchasing records, data and pricing system.</li><li>Provide support on all purchasing matters and any other duties assigned.</li><li>To develop new overseas supply chain.</li></ul><p></p><p><strong>Requirements:</strong></p><ul><li>Diploma / Degree / Professional Certificate in Business Administration / Management or any related course</li><li>At least 2 year(s) of working experience in the related field</li><li>Experience in shipping or logistics</li><li>Proficient in MS Office applications</li><li>Resourceful and able to work independently</li><li>Can start work immediately</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Able To Multitask",
+      "uuid": "219417407e2facd78e4a67f4f2669ca3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ISO",
+      "uuid": "5b512ee8a59deb284ad0a6a035ba10b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43116",
+  "occupationId": "OCC008851",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    },
+    {
+      "id": 31,
+      "category": "Purchasing / Merchandising"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "199608054D",
+    "description": "<p>\r\n\tORIENT CORPORATION PTE. LTD.</p>\r\n",
+    "name": "ORIENT CORPORATION PTE. LTD.",
+    "ssicCode": "25997",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T03:36:20.000Z",
+    "ssicCode2020": "25997",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608054D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608054D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608054D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199608054D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "29",
+    "street": "LOYANG DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "LOYANG INDUSTRIAL ESTATE",
+    "postalCode": "508944",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 17,
+        "location": "D17 Loyang, Changi",
+        "region": "East",
+        "sectors": [
+          "49",
+          "50",
+          "81",
+          "91"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.37590844338036,
+    "lng": 103.968426404771
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174571",
+    "deletedAt": null,
+    "createdBy": "44f646c9-7dfa-44c2-a7fd-f9223cd3d152",
+    "createdAt": "2026-01-28T06:51:19.000Z",
+    "updatedAt": "2026-01-28T06:51:19.000Z",
+    "emailRecipient": "44f646c9-7dfa-44c2-a7fd-f9223cd3d152",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 45,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/manufacturing/purchasing-clerk-orient-corporation-5fee5451183f189b8de44e7aed91dba0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5fee5451183f189b8de44e7aed91dba0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5fee5451183f189b8de44e7aed91dba0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

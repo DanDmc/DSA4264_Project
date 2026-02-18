@@ -1,0 +1,221 @@
+{
+  "uuid": "1f8c3a663528c519ecfa18e3ea621c6e",
+  "sourceCode": "Employer Portal",
+  "title": "Information Technology - Lead Engineer - Cloud Platform",
+  "description": "<p>Cloud Platform Architecture &amp; Engineering<br>\n•Lead the design and implementation of secure, scalable, and cost-optimized cloud infrastructure, with a strong emphasis on AWS-native services and best practices.<br>\n•Guide the development of Infrastructure-as-Code (IaC) using Terraform, CloudFormation, or similar frameworks.<br>\n•Own and improve CI/CD pipelines using AWS CodePipeline, Jenkins, and other automation tools to support efficient and resilient software delivery.<br>\n<br>\nTechnical Leadership &amp; Team Management<br>\n•Provide architectural direction, hands-on support, and mentorship to a team of Cloud and DevOps engineers.<br>\n•Foster a culture of technical excellence, collaboration, and continuous learning within the team.<br>\n•Partner with InfoSec, auditors, and application teams to drive alignment across compliance, operations, and delivery practices.<br>\n<br>\nSecurity, Compliance &amp; Audit Readiness<br>\n•Work closely with internal InfoSec and Audit teams to identify and remediate compliance issues related to cloud infrastructure.<br>\n•Implement security best practices across networking, IAM, data protection, and monitoring layers.<br>\n<br>\nAutomation &amp; Observability<br>\n•Drive end-to-end automation across provisioning, patching, monitoring, and alerting processes.<br>\n•Leverage tools such as Datadog, Splunk, Sourcegraph, and Cloud Conformity to establish deep observability and proactive alerting capabilities.<br>\n<br>\nCloud Infrastructure Operations<br>\n•Demonstrate deep hands-on expertise in AWS networking (VPCs, Transit Gateways, Direct Connect, Route53) and Linux system administration.<br>\n•Support Disaster Recovery (DR) planning, infrastructure scans, and operational readiness drills.<br>\n•Participate in out-of-hours administration activities as required to maintain platform reliability.<br>\n<br>\n<strong>Requirements</strong><br>\n•Bachelor's degree in Information Technology, Computer Science, or a related field.<br>\n•Minimum 8 years of IT experience, with at least 4 years hands-on with AWS and infrastructure/platform engineering.<br>\n•Strong hands-on knowledge of AWS services (compute, networking, storage, databases).<br>\n•Proven experience leading teams in cloud administration, DevOps, and automation.<br>\n•Proficient in scripting using Bash, Python, and Ansible.<br>\n•Solid grasp of Linux administration and networking fundamentals.<br>\n•Strong understanding of infrastructure security, compliance, and cloud audit frameworks.<br>\n•Familiarity with monitoring and observability tools such as Datadog, Splunk, and Cloud Conformit</p>\n<p><strong>Preferred Qualifications</strong><br>\n•AWS Certified Solutions Architect – Professional (or ability to certify within 3–6 months).<br>\n•Experience with containerization (e.g., Docker, Kubernetes, EKS).<br>\n•Exposure to FinOps and cost governance in AWS environments.<br>\n•Ability to collaborate effectively with cross-functional teams and influence stakeholders.</p>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Splunk",
+      "uuid": "2f9304fe9b427489507405bef9a0bb9f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DevOps",
+      "uuid": "407432c641358300c37673ae96305f3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AWS",
+      "uuid": "4847e034bb0a55fcbc8a3380d6a3ab80",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architect",
+      "uuid": "4bb5da084da7cbef67d5f21bcb933af7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automation Tools",
+      "uuid": "6610f9d34d0252187120a02b66c88b5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud",
+      "uuid": "c8e2277ecfb1427838c488c217f99466",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disaster Recovery",
+      "uuid": "e413eba49b15917b0c9dbf2620f3e66e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25231",
+  "occupationId": "OCC062505",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "197200078R",
+    "description": "<p>As a global airline, Singapore Airlines is dedicated to providing air transportation services of the highest quality, and to maximising returns for the benefit of our shareholders and employees.</p>    <p>With a commitment to fleet modernization, product and service innovation and market leadership, Singapore Airlines has evolved into one of the world's most respected travel brands. Today, Singapore Airlines is internationally recognized as the world's leading airline and operates a modern passenger fleet of more than 100 aircraft. Its network covers more than 60 cities in more than 30 countries.</p>    <p>Our success has been through the efforts of our people. We recruit bright and dynamic individuals, and train them with a budget exceeding $125 million in a year - to reach the highest standards of professional and personal competence.</p>    <p><em>Fly high as an airline professional. The opportunity to prove yourself begins right here.</em></p>    <p> </p>    <p> </p>    <p> </p>    <p> </p>  ",
+    "name": "SINGAPORE AIRLINES LIMITED",
+    "ssicCode": "51001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T06:21:17.000Z",
+    "ssicCode2020": "51001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200078R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200078R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200078R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197200078R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "CHANGI BUSINESS PARK CENTRAL 1",
+    "floor": null,
+    "unit": null,
+    "building": "CHANGI CITY",
+    "postalCode": "486036",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33352582052954,
+    "lng": 103.962576462766
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1823946",
+    "deletedAt": "2026-01-29T17:15:04.000Z",
+    "createdBy": "a8c92bdd-cea4-4605-bbd2-8ed40f978d75",
+    "createdAt": "2025-11-27T09:08:37.000Z",
+    "updatedAt": "2026-01-30T08:16:52.000Z",
+    "emailRecipient": "a8c92bdd-cea4-4605-bbd2-8ed40f978d75",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 451,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-11-27",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 50,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/information-technology-lead-engineer-cloud-platform-singapore-airlines-1f8c3a663528c519ecfa18e3ea621c6e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1f8c3a663528c519ecfa18e3ea621c6e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1f8c3a663528c519ecfa18e3ea621c6e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,193 @@
+{
+  "uuid": "9e6bb3dceea0c4ac88eb954c631f0d0c",
+  "sourceCode": "Employer Portal",
+  "title": "Cyber Support Engineer (Carbon Black EDR)",
+  "description": "<ul><li>Maintain and operate Carbon Black EDR servers hosted on RHEL 8.</li><li>Perform scheduled maintenance tasks (OS, database, application level), including patching, health checks, backups, and service restarts under approved change windows.</li><li>Validate and maintain EDR application services and log forwarding to designated log collectors.</li><li>Monitor and resolve stale services, queues, or indexing issues.</li><li>Review system, security, and audit logs not forwarded to the designated log collection server.</li><li>Engage OEM for troubleshooting and professional services when required.</li><li>Monitor health and connectivity of all deployed sensors.</li><li>Troubleshoot offline sensors, validate network paths, inspect local service states, and collect diagnostic data.</li><li>Support redeployment or recovery of corrupted/missing sensor components.</li><li>Assist in onboarding new hosts and validate sensor information against asset inventory.</li><li>Validate port connectivity, firewall rules, and SSL certificate issues for endpoint integration.</li><li>Troubleshoot endpoints in air-gapped networks using static resolving techniques.</li><li>Analyze intermittent or unstable site connectivity issues.</li><li>Ensure OS hardening (RHEL CIS baseline) and compliance with organizational hardening guides.</li><li>Monitor and apply security patches within stipulated timelines.</li><li>Conduct quarterly user access reviews and annual system configuration audits.</li><li>Maintain cryptographic key lifecycle management.</li><li>Comply with cybersecurity instructions issued by relevant authorities.</li><li>Provide technical support for escalated issues and assist in cybersecurity investigations.</li><li>Retrieve endpoint data, logs, and telemetry for forensic or operational queries.</li><li>Produce maintenance reports after each cycle, including system health, performance metrics, patch status, and outstanding actions.</li><li>Maintain SOPs, asset inventory, configuration notes, and troubleshooting guides.</li><li>Raise and document change requests according to organizational change management processes.</li></ul><p><strong>Mandatory Technical Skills</strong></p><ul><li><strong>Hands-on experience with Carbon Black EDR or equivalent platforms.</strong></li><li><strong>min 3 years of experience as a Cyber Support Engineer</strong></li><li><strong>Strong RHEL system administration skills (RHEL 8/9).</strong></li><li>Familiarity with PostgreSQL maintenance (backup, restore, health checks).</li><li>Network troubleshooting (TCP, TLS, proxies, firewalls).</li><li>Endpoint diagnostics for EDR sensors on Windows.</li><li>Knowledge of secure operations and privileged account handling.</li></ul><p>Good-to-Have Skills</p><ul><li>Experience with CIS Benchmarks for RHEL and Windows.</li><li>Knowledge of log management/SIEM integration.</li><li>Understanding of OT networks and remote plant architectures.</li></ul><p>Preferred Certifications</p><ul><li>RHCSA / RHCE</li><li>VMware Certification for Carbon Black EDR</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "benchmark",
+      "uuid": "07978586e47c8709a63e895fbf3c3c7d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware Infrastructure",
+      "uuid": "2901b5c09bae6bb7927ae25e83d5c57f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "OEM",
+      "uuid": "4dbd00e25b3cdb095ded24a65cc7b94c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "VMware Certified Professional",
+      "uuid": "a989cd6ace9c6e513ff6765d20ed3de2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Network Infrastructure",
+      "uuid": "c0cd2cab83592200f595e93d88f636ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cyber Security Management",
+      "uuid": "d5557e614a9a3b907acdd167d89d2e2c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Server maintenance",
+      "uuid": "e16ed2b945b1c972d259a9f1411c5a98",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CIS",
+      "uuid": "ecc1ac1c8bbbe26063ab974bb48fc666",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "RHCE",
+      "uuid": "f7bd0ea7443af6a0f4275ed5bb23bd44",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25241",
+  "occupationId": "OCC062563",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "199502635N",
+    "description": "<p>Unisoft Infotech is a leading provider of integrated business solutions. The solutions leverage the use of industry expertise and leading edge technologies to focus on delivering innovative solutions to clients globally.</p>\n<p>Unisoft Infotech has offices and operations in Singapore and India and served customers in Asia-Pacific, Middle-East-Asia, Africa, and USA. Unisoft is a knowledge leader in several industry verticals.</p>\n<p>Established in 1995 Unisoft has been associated with over 200 projects in 12 countries. With over 1500 man-years of knowledge base and extensive experience in serving big organizations and MEs in the region, Unisoft is built on the pillars of innovation, quality and customer service.</p>\n<p>Unisoft Infotech has strong skills, experience and knowledge in improving business competiveness of the customers by implementing ensuring perfect processes with automation using ERP solution and beyond.</p>\n<p>Unisoft Infotech is a pioneer in SAP implementations in the mid market and was the first to sign the ME partnership agreement, to deliver strategic functional and consulting services to Mid-market customers in India, Taiwan &amp; Singapore. With several certified, successfully implemented solutions and certified support infrastructure, Unisoft Infotech is a leading enterprise solutions partner.</p>",
+    "name": "UNISOFT INFOTECH PTE LTD",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:38:43.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502635N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502635N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502635N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199502635N/schemes"
+      }
+    },
+    "logoFileName": "ef9677660b646c8847a48441d7038cbf/unisoft-infotech.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/ef9677660b646c8847a48441d7038cbf/unisoft-infotech.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174458",
+    "deletedAt": null,
+    "createdBy": "437f7919-78b1-45bd-8806-b6542c4cfd20",
+    "createdAt": "2026-01-28T06:38:53.000Z",
+    "updatedAt": "2026-01-28T06:38:53.000Z",
+    "emailRecipient": "437f7919-78b1-45bd-8806-b6542c4cfd20",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/cyber-support-engineer-unisoft-infotech-9e6bb3dceea0c4ac88eb954c631f0d0c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 9500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9e6bb3dceea0c4ac88eb954c631f0d0c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9e6bb3dceea0c4ac88eb954c631f0d0c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

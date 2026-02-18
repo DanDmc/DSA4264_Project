@@ -1,0 +1,210 @@
+{
+  "uuid": "edbe284e2b53bd649df9d12153d6ff08",
+  "sourceCode": "Employer Portal",
+  "title": "Officer, TR Business Unit",
+  "description": "<p><u><strong>Responsibilities and Duties</strong></u><strong>:</strong></p><p>Recruitment</p><ul><li>Develop and execute recruitment plans for Trading Representatives (TRs).</li></ul><p>Sales & Marketing</p><ul><li>Develop and implement promotional campaigns</li><li>Plan and coordinate roadshows and marketing campaigns</li></ul><p>Training</p><ul><li>Manage and coordinate internal and external training programs</li></ul><p>Administrative / Operational Matters</p><ul><li>Coordinate operational and backroom activities</li><li>Monitor email and handle TRs' enquiries regarding process and procedures</li><li>Assist in other administrative duties and any other ad-hoc duties as and when assigned</li></ul><p><u><strong>Requirements</strong></u></p><ul><li>Diploma / Degree in Business</li><li>2 years of relevant experience is an advantage, but we are open to high-potential candidate with the right skill set and drive</li><li>Proficient in Microsoft Office</li><li>Possess initiative and able to work independently</li><li>Good interpersonal and communication skills</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Recruitments",
+      "uuid": "6b390d78058a234ef7abff3a2b521fcc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service Excellence",
+      "uuid": "d77d2f0287f924851019f9b7149ee3ad",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Relations",
+      "uuid": "f1eb44b30dd1ad6ec71516307d66567c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24252",
+  "occupationId": "OCC004581",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "197301030W",
+    "description": "<p>Lim &amp; Tan Securities, a member of the Singapore Exchange, is an established stockbroking company with more than 50 years in the retail equity market. Looking to expand our team, we are recruiting individuals who are highly motivated, passionate and result-driven to join us!&nbsp;</p>",
+    "name": "LIM & TAN SECURITIES PTE LTD",
+    "ssicCode": "66121",
+    "employeeCount": null,
+    "companyUrl": "https://www.limtan.com.sg/",
+    "lastSyncDate": "2026-02-04T00:59:50.000Z",
+    "ssicCode2020": "66121",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197301030W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197301030W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197301030W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197301030W/schemes"
+      }
+    },
+    "logoFileName": "da2794710b8b63514ee9d25a20ddf68f/lim-tan-securities.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/da2794710b8b63514ee9d25a20ddf68f/lim-tan-securities.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "16",
+    "street": "COLLYER QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "COLLYER QUAY CENTRE",
+    "postalCode": "049318",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28412271103558,
+    "lng": 103.852544637414
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176247",
+    "deletedAt": null,
+    "createdBy": "ce015721-afb0-45c7-b230-52ccdd08db68",
+    "createdAt": "2026-01-28T09:16:30.000Z",
+    "updatedAt": "2026-01-28T09:16:30.000Z",
+    "emailRecipient": "ce015721-afb0-45c7-b230-52ccdd08db68",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 76,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/officer-tr-business-unit-lim-tan-securities-edbe284e2b53bd649df9d12153d6ff08",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/edbe284e2b53bd649df9d12153d6ff08"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/edbe284e2b53bd649df9d12153d6ff08/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

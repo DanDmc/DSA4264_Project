@@ -1,0 +1,193 @@
+{
+  "uuid": "c2b4c19e7f70c42e8b5d2b8d0d8ce00c",
+  "sourceCode": "Employer Portal",
+  "title": "CEMENT MIXER DRIVER",
+  "description": "<p><strong>Job Description</strong></p>\n<ul>\n  <li>Transporting earthwork from site to site</li>\n  <li>Perform daily routine checks and maintain the general cleanliness.</li>\n  <li>Drive in a safe manner at all time and adhering to traffic rules &amp; regulations stated      in the Road Traffic</li>\n  <li>Ad-hoc duties</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n  <li>Class 4 License</li>\n  <li>Proven working experience &amp; good driving record</li>\n  <li>Familiar with Singapore route</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Good Driving Record",
+      "uuid": "00d2d4682295ed322013795f93bc5943",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Class 4 License",
+      "uuid": "550ad6326e7ba8a926fe6ddb2d92fb13",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weight",
+      "uuid": "8c489d0946f66d17d73f26366a4bf620",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Road Traffic",
+      "uuid": "d51e90b215081384d9c694584249e404",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "83321",
+  "occupationId": "OCC013110",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201001582R",
+    "description": "<p>HSS ENVIRO PTE LTD was set up in 2010 to produce Liquefied Stabilized Soil (LSS). LSS is generally used as a backfilling material. It is an environmentally friendly, self-compacting and affordable material. The different challenges faced by the conventional way of backfilling – tight time frames, labour shortages, varying weather conditions can be curbed easily with LSS.</p>\n<p>We set up our plant from a plot of land located in Marina East Drive. We then need to go through a long period of intensive R&amp;D before we became fully operational. It took HSS Enviro another few more years to gain market recognition from the construction industry.</p>\n<p>Fast forward to present, some of our involvements to name a few are/were, Resorts World Sentosa, multiple MRT projects, MCE/KPE expressway, SP Cable Tunnel Projects, PUB projects, National Gallery Singapore, Jewel Changi Airport, Mandai Bird Park, just to name a few.</p>\n<p>We are proud of the fact, HSS ENVIRO PTE LTD has gained recognition as a reliable LSS supplier acknowledged by our construction industry.</p>",
+    "name": "HSS ENVIRO PTE. LTD.",
+    "ssicCode": "23959",
+    "employeeCount": 10,
+    "companyUrl": "https://hssenviro.com/",
+    "lastSyncDate": "2026-01-27T01:58:20.000Z",
+    "ssicCode2020": "23959",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001582R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001582R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001582R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201001582R/schemes"
+      }
+    },
+    "logoFileName": "f7d89ac40f6fd9b1b2d4cf1420435a9a/hss-enviro.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f7d89ac40f6fd9b1b2d4cf1420435a9a/hss-enviro.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163583",
+    "deletedAt": null,
+    "createdBy": "a2e3ecb9-8f36-40f5-9177-970fecab1e82",
+    "createdAt": "2026-01-27T01:59:52.000Z",
+    "updatedAt": "2026-01-27T01:59:52.000Z",
+    "emailRecipient": "a2e3ecb9-8f36-40f5-9177-970fecab1e82",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/cement-mixer-driver-hss-enviro-c2b4c19e7f70c42e8b5d2b8d0d8ce00c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c2b4c19e7f70c42e8b5d2b8d0d8ce00c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c2b4c19e7f70c42e8b5d2b8d0d8ce00c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

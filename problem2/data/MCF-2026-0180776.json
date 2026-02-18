@@ -1,0 +1,204 @@
+{
+  "uuid": "f35e85045416679993846815dc38de7f",
+  "sourceCode": "Employer Portal",
+  "title": "Woodlands Part Time Clinic Assistant",
+  "description": "<p><br /></p><p><br /></p><p>Woodlands require part time clinic assistant.</p><p>Able to work long term</p><p>Able to work some Sunday and Public Holiday (8.30am to 12 noon) (Except Chinese New Year)</p><p>Able to work some weekday evenings (6.30pm to 8.30pm) </p><p>Able to handle computer</p><p>Willing to travel to Woodlands. We are located next to MRT station.</p><p>Only for Singapore Citizens or PR. Not for Work Permit/Employment Pass.</p><p>Willing to help out in cleaning.</p><p>No experience required. Training provided.</p><p>Able to handle Chinese speaking patients</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Health Care Reform",
+      "uuid": "04062028510e50d50f9527a081208929",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Typing",
+      "uuid": "066182d68e5c58fabbe9fcd09e67edd5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Family Medicine",
+      "uuid": "15ae96247a8c61d4392b19b8f91ac9b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Health Care Industry",
+      "uuid": "51f25b9006043d1ad9b99dce55bb7249",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Health Care Systems",
+      "uuid": "7e193e15667b6d18741f32ff9852e255",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Primary Health Care",
+      "uuid": "8e636e9dcb9777d84c86eacfdd66ce6e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Comprehensive Health Care",
+      "uuid": "f6a3fe4726e5ba8b70850e09b69196b4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "42243",
+  "occupationId": "OCC009096",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 18,
+      "category": "Healthcare / Pharmaceutical"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "39",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "47781300C",
+    "description": "<p>\r\n\tDOCTORS CLINIC AND SURGERY</p>\r\n",
+    "name": "DOCTORS CLINIC AND SURGERY",
+    "ssicCode": "86201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:05:58.000Z",
+    "ssicCode2020": "86201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/47781300C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/47781300C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/47781300C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/47781300C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "305",
+    "street": "WOODLANDS STREET 31",
+    "floor": null,
+    "unit": null,
+    "building": "FUCHUN NEIGHBOURHOOD CENTRE",
+    "postalCode": "730305",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43036145835568,
+    "lng": 103.774102414119
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180776",
+    "deletedAt": null,
+    "createdBy": "e449d808-8c89-4e77-9b98-cfa73e895633",
+    "createdAt": "2026-01-29T04:53:32.000Z",
+    "updatedAt": "2026-01-29T04:53:31.000Z",
+    "emailRecipient": "e449d808-8c89-4e77-9b98-cfa73e895633",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 340,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-05",
+    "totalNumberJobApplication": 29,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/healthcare/woodlands-part-time-clinic-assistant-doctors-clinic-surgery-f35e85045416679993846815dc38de7f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 17,
+    "minimum": 13,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f35e85045416679993846815dc38de7f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/f35e85045416679993846815dc38de7f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

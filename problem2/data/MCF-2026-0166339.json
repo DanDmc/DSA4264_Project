@@ -1,0 +1,233 @@
+{
+  "uuid": "fede847c2bc92bc4c2b3c947f71bcde7",
+  "sourceCode": "Employer Portal",
+  "title": "Mechanical Engineer",
+  "description": "<p>We are seeking an experienced <strong>Mechanical Engineer</strong> to help design and develop a <strong>precision manufacturing system for high-performance audio equipment</strong>.<br /></p><p>This is a <strong>contract role</strong> with the potential for <strong>long-term or full-time engagement</strong> based on performance and project needs.<br /></p><p><strong>Responsibilities</strong></p><ul><li><p>Design mechanical systems for precision manufacturing and assembly</p></li><li><p>Develop mechanisms involving tight tolerances, vibration control, and repeatability</p></li><li><p>Collaborate with electrical and industrial design counterparts</p></li><li><p>Produce manufacturable designs (CAD, drawings, BOMs)</p></li><li><p>Support prototyping, testing, and iteration</p></li><li></li></ul><p><strong>Requirements</strong></p><ul><li><p>Strong background in mechanical engineering for <strong>precision or electromechanical systems</strong></p></li><li><p>Experience with <strong>manufacturing-oriented design</strong> (DFM/DFA)</p></li><li><p>Proficiency in professional CAD tools (SolidWorks, Fusion 360, Creo, or similar)</p></li><li><p>Understanding of materials, tolerances, and mechanical reliability</p></li><li><p>Comfortable working in a small, focused team with minimal oversight</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience with audio, acoustics, or vibration-sensitive systems</p></li><li><p>Background in CNC, tooling, or production equipment</p></li><li><p>Startup or early-stage product development experience</p></li></ul><p><strong>Engagement Details</strong></p><ul><li><p>Contract-based (scope and duration defined upfront)</p></li><li><p>Long-term hire potential for the right candidate</p></li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Acoustics",
+      "uuid": "022583bbec44c506ce82ff019f12ee53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Solidworks",
+      "uuid": "5dcbc8d322035b0c6a6ecee8a3348fc8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Industrial Design",
+      "uuid": "7acd5efde31f592e71b7624c95ce826a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CNC",
+      "uuid": "896554fed40d705b7fcf2fb3a7b385a9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vibration Control",
+      "uuid": "a42830a0cbac78bf4e1391890817d30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Product Development",
+      "uuid": "d324e27fb1cf5931e17c08a9a85f76bf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CAD",
+      "uuid": "eccb0954fca9f2005aea084605df5ee9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21441",
+  "occupationId": "OCC002872",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "1151",
+  "postedCompany": {
+    "uen": "201926755K",
+    "description": null,
+    "name": "CHU TECHNOLOGIES PRIVATE LIMITED",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T12:40:59.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926755K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926755K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926755K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926755K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "37",
+    "street": "KEPPEL ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "TANJONG PAGAR DISTRIPARK",
+    "postalCode": "089064",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27122744383442,
+    "lng": 103.84137235176
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166339",
+    "deletedAt": null,
+    "createdBy": "d4288cb1-313c-4664-9df6-d4989fb55a1a",
+    "createdAt": "2026-01-27T06:29:27.000Z",
+    "updatedAt": "2026-01-27T06:29:28.000Z",
+    "emailRecipient": "d4288cb1-313c-4664-9df6-d4989fb55a1a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 108,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 13,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/mechanical-engineer-chu-technologies-fede847c2bc92bc4c2b3c947f71bcde7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fede847c2bc92bc4c2b3c947f71bcde7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fede847c2bc92bc4c2b3c947f71bcde7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

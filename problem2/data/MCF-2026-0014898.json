@@ -1,0 +1,234 @@
+{
+  "uuid": "08e77bb6db5fce6d8499f9dc2172dc3c",
+  "sourceCode": "Employer Portal",
+  "title": "Software Developer Lead",
+  "description": "<p><strong>About the Role</strong></p>\n<p>We are looking for a skilled ERP / Odoo Developer Lead to join our digital transformation team. You will play a key role in customizing and developing application modules to support business operations across production, warehouse, procurement, employee cafeteria, and IoT integration. Your work will contribute to process automation, cost optimization, and system intelligence.</p>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n  <li>Collaborate closely with business teams for requirements gathering, business process analysis, and system design.</li>\n  <li>Develop applications or customize modules in ERP / Odoo system.</li>\n  <li>Design business logic using Python, and XML.</li>\n  <li>Create and modify views (form, tree, kanban, etc.) and reports using QWeb and XLS export.</li>\n  <li>Design and optimize database schemas to ensure efficient data access and system stability.</li>\n  <li>Implement and maintain integrations between the ERP system and other internal platforms.</li>\n  <li>Manage source code using Git, including code reviews, version control, and branch management.</li>\n  <li>Proactively monitor project progress, coordinate development resources, and resolve technical issues to ensure timely delivery.</li>\n  <li>Prepare and maintain comprehensive technical documentation, user manuals, and training materials.</li>\n  <li>Work closely with the CTO, data analyst, AI engineer, and business users</li>\n</ul>\n<p><strong>Qualifications:</strong></p>\n<p>· Bachelor's degree or above in Computer Science, Software Engineering, or related fields.</p>\n<p>· Minimum <strong>3 years</strong> of relevant software development experience, with <strong>2–3 years</strong>of hands-on experience and knowledge of database system in Python and PostgreSQL.</p>\n<p>· Familiar with JavaScript frontend development and basic HTML/CSS skills.</p>\n<p>· Experience with <strong>REST API / JSON-RPC</strong> integrations.</p>\n<p>· Strong understanding of ERP business processes, especially procurement, inventory, and production scheduling.</p>\n<p>· Experience using version control tools (e.g., Git).</p>\n<p>· Strong communication, coordination, and team collaboration skills.</p>\n<p>· In depth knowledge of full stack Web Programming language including Python, Java Script, etc.</p>\n<p><strong>Good to have:</strong></p>\n<ul>\n  <li>Prior experience in Odoo ERP development or implementation.</li>\n  <li>Knowledge or experience in finance, inventory management, or manufacturing industries.</li>\n  <li>Experience in data modelling, data warehousing and data transformation.</li>\n  <li>Experience with end-to-end enterprise system implementation.</li>\n  <li>Familiarity with Generative AI tools and their application.</li>\n  <li>Experience with SAP Business One integration via Integration Layer using SOAP or Service Layer (REST API).</li>\n</ul>\n<p><strong>Soft Skills</strong></p>\n<ul>\n  <li>Strong problem-solving and analytical skills.</li>\n  <li>Ability to work independently and as part of a cross-functional team.</li>\n  <li>Good communication and documentation skills.</li>\n  <li>Open to learning and adapting in a fast-paced environment.</li>\n</ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Git",
+      "uuid": "0bcc70105ad279503e31fe7b3f47b665",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Documentation",
+      "uuid": "0fc75709621519dfa4730a0da953a784",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Requirements Gathering",
+      "uuid": "1723b433914d54481e91978db672d057",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Odoo",
+      "uuid": "2f19ee0cd32ca4b666713a117d53d4c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PostgreSQL",
+      "uuid": "399bd1ee587245ecac6f39beaa99886f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "REST",
+      "uuid": "50780f47f6839d47d60bc4555ee00c3f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Soft Skills",
+      "uuid": "777a598047f83d94505540ab7b46432b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13302",
+  "occupationId": "OCC001962",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200200366K",
+    "description": "<p>\r\n\tJR Foods was established in 2001 as an early pioneer in the manufacturing of cook-chill and cook-freeze ready-to-serve meals.</p>\r\n<p>\r\n\tToday JR Foods is an international company with businesses that encompasses manufacturing, institutional contract catering, event catering and management, restaurant operations and vending machine sales.</p>\r\n",
+    "name": "JR FOODS PTE. LTD.",
+    "ssicCode": "10750",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:50:15.000Z",
+    "ssicCode2020": "10750",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200366K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200366K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200366K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200200366K/schemes"
+      }
+    },
+    "logoFileName": "e98743fc2584eb747a33005cbb28cc1c/jr-foods.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e98743fc2584eb747a33005cbb28cc1c/jr-foods.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "SENOKO SOUTH ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CHNG KEE'S FOODLINK",
+    "postalCode": "758095",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.45851971133579,
+    "lng": 103.804232633494
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0014898",
+    "deletedAt": "2026-01-23T01:53:26.000Z",
+    "createdBy": "ec875da5-39ba-46e4-b79c-03745dced37e",
+    "createdAt": "2026-01-05T02:03:31.000Z",
+    "updatedAt": "2026-01-27T05:25:03.000Z",
+    "emailRecipient": "ec875da5-39ba-46e4-b79c-03745dced37e",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 153,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-05",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 10,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-developer-lead-jr-foods-08e77bb6db5fce6d8499f9dc2172dc3c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08e77bb6db5fce6d8499f9dc2172dc3c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/08e77bb6db5fce6d8499f9dc2172dc3c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,210 @@
+{
+  "uuid": "80984692efe92cbc1e9abe5215e01484",
+  "sourceCode": "Employer Portal",
+  "title": "ROADSHOW SUPERVISOR",
+  "description": "<p><strong>Job Responsibilities including but not limited to:</strong></p><ul><li>To manage a team of roadshow promoters</li></ul><p><br /><strong>Requirements</strong></p><ul><li>Experience in roadshow such as insurance, training programs or general sales.</li><li>Have good supervisory skills and people management, team leading skills</li></ul><p><br /><strong>Work arrangement:</strong></p><ul><li>Mobile, Islandwide</li><li>Roster is planned by Roadshow Manager</li></ul><p><br /><strong>Time</strong></p><ul><li>5 . 5 Days (11 am - 8 pm) or (12 pm - 9 pm )</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "scheduling of meetings",
+      "uuid": "05777f0067e09c2517ed74d0b91fdfbd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Job Scheduling",
+      "uuid": "392b5436991bac3871de06bbd9ac85f5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "staff scheduling",
+      "uuid": "3ab9bfda91b2f0c5023bdab23d3c738f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Supervisory Skills",
+      "uuid": "5c9589d2741ef86c976c7e2ba1c10001",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing Communications",
+      "uuid": "6fb94eeaa0574f5df56273155102336e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leading",
+      "uuid": "817d59dd8715115814e128e9e3356afa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "training roadshows",
+      "uuid": "8a923aeaf8af6235b154935117307d8c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "People Management",
+      "uuid": "f348ff6bfac32a0d81f92e84fbf3691f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service Experience",
+      "uuid": "fa63d7f8c765d48aafb86bd9c5adc310",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 6,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 14,
+      "category": "Events / Promotions"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201837939H",
+    "description": "<p>Mandate of Manpower Pte. Ltd. (UEN 201837939H) (F.K.A. Mandate of Old Times Pte. Ltd.) was founded&nbsp;in 2018. We provide a manpower solutions which allows clients to source cleaning and general staffing from us.</p>\n<p>At Mandate of Manpower, we specialise in providing high quality part-time residential cleaning services. We aim to have effective communication with our clients which allows our services to be effective. We also supply multiple different labour solutions for both hotels and events. Hotel services include housekeeping and public area attendants while stewards can be supplied to events.</p>",
+    "name": "MANDATE OF MANPOWER PTE. LTD.",
+    "ssicCode": "81212",
+    "employeeCount": 70,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T05:56:29.000Z",
+    "ssicCode2020": "81212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837939H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837939H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837939H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837939H/schemes"
+      }
+    },
+    "logoFileName": "e3c321c6681d5ad30c8c01ce7eb9b95d/mandate-manpower.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e3c321c6681d5ad30c8c01ce7eb9b95d/mandate-manpower.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "18",
+    "street": "HOWARD ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "NOVELTY BIZCENTRE",
+    "postalCode": "369585",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.33421843290141,
+    "lng": 103.885796434921
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165818",
+    "deletedAt": null,
+    "createdBy": "657f96fe-90d0-4b58-8ffd-7e19076e4755",
+    "createdAt": "2026-01-27T05:33:41.000Z",
+    "updatedAt": "2026-01-27T05:33:41.000Z",
+    "emailRecipient": "657f96fe-90d0-4b58-8ffd-7e19076e4755",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 23,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/events/roadshow-supervisor-mandate-manpower-80984692efe92cbc1e9abe5215e01484",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/80984692efe92cbc1e9abe5215e01484"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/80984692efe92cbc1e9abe5215e01484/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

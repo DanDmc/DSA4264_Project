@@ -1,0 +1,236 @@
+{
+  "uuid": "996df084194108cd80fd1572320396b0",
+  "sourceCode": "Employer Portal",
+  "title": "Construction Manager",
+  "description": "<ul><li>Plan, supervise, and coordinate day-to-day site activities to ensure smooth project execution.</li><li>Liaise with clients, consultants, subcontractors, and suppliers.</li><li>Ensure that construction work is carried out according to approved drawings, specifications, and safety regulations.</li><li>Monitor project schedule, manpower, materials, and progress.</li><li>Resolve technical problems and site issues.</li><li>Supervise workers to ensure they perform their tasks properly and safely</li><li>Prepare site reports, progress updates, and other necessary documentation.</li><li>Enforce site safety rules and ensure compliance with workplace safety and health (WSH) regulations.</li><li>Prepare bar-bending schedules if required.</li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Civil Engineering",
+      "uuid": "d414a275fffe61dbeb25b2c6c6ec6011",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Workplace Safety and Health",
+      "uuid": "fff48e3330412c6a7a3d7ea0f3ae149c",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13230",
+  "occupationId": "OCC000491",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1099",
+  "postedCompany": {
+    "uen": "201823027Z",
+    "description": "<p>As a full-service development and construction company, The Cloverton Pte Ltd essentially assists clients from the very outset to the completion of their project. We become partners with our clients in understanding the five basic functions of:<br>\n<br>\nDefining and establishing the scope of the construction project<br>\n<br>\nPre-construction project planning including preparation and scheduling of the projects, phasing plans, budgeting/cost-modeling, subcontractor qualification etc.<br>\n<br>\nOn-site execution of the project includes scheduling, quality control, safety management, subcontractor management, status reporting and change management.<br>\n<br>\nMonitoring and controlling the project<br>\n<br>\nClosing of the project related to the post construction activities</p>",
+    "name": "THE CLOVERTON PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": 20,
+    "companyUrl": "www.thecloverton.com",
+    "lastSyncDate": "2026-02-01T04:38:44.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823027Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823027Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823027Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201823027Z/schemes"
+      }
+    },
+    "logoFileName": "83e9e234ce149430dba59cbbff606a02/cloverton.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/83e9e234ce149430dba59cbbff606a02/cloverton.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "86A",
+    "street": "KOON SENG ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "427027",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 15,
+        "location": "D15 Katong, Joo Chiat, Amber Road",
+        "region": "East",
+        "sectors": [
+          "42",
+          "43",
+          "44",
+          "45"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31183772997358,
+    "lng": 103.904885652264
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153582",
+    "deletedAt": null,
+    "createdBy": "b8282725-98e7-43bf-954c-440177873f9c",
+    "createdAt": "2026-01-25T13:24:46.000Z",
+    "updatedAt": "2026-01-25T13:24:45.000Z",
+    "emailRecipient": "b8282725-98e7-43bf-954c-440177873f9c",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 47,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-manager-cloverton-996df084194108cd80fd1572320396b0",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/996df084194108cd80fd1572320396b0"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/996df084194108cd80fd1572320396b0/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

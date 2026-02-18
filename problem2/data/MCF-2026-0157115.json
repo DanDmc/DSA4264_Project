@@ -1,0 +1,200 @@
+{
+  "uuid": "8d567e543a69238171ef28c29ffa8af5",
+  "sourceCode": "Employer Portal",
+  "title": "English Preschool Educator",
+  "description": "<ul><li>Plan developmentally appropriate teaching, learning and caregiving activities</li></ul><ul><li><p>Design quality learning environment with developmentally appropriate learning materials and resources </p></li></ul><ul><li><p>Ensure health, safety, nutritional and hygiene practices in accordance with standards and procedures </p></li></ul><ul><li><p>Ensure proper documentations of children’s learning and development  </p></li></ul><ul><li><p>Foster a culture of collaboration within the Centre  </p></li></ul><ul><li><p>Collaborate with families to ensure continuity of care and learning between the home and the Centre </p></li></ul><ul><li><p>Conduct routine caregiving in accordance with standards and procedures</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Work Well Independently",
+      "uuid": "3d059b652e8d92de5b85660d5efba49a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Classroom Management",
+      "uuid": "444d06ef756650f524f7fc8a7f13e0a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Early Childhood Education",
+      "uuid": "4f83113f23fc971a12cbff816661f7cb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Critical Thinking",
+      "uuid": "4fb174b9bf8f956e0c1efc8473169c24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Caregiving",
+      "uuid": "5d888ea19036f8dde3649548e95f2d50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching Skills",
+      "uuid": "b6fdabc726c9e741d63e1a36989a0e34",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "36100",
+  "occupationId": "OCC060301",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0112",
+  "postedCompany": {
+    "uen": "202004208K",
+    "description": "<p>Adventure Tree Preschool's vision is to transform everyday learning into an adventure &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With our Play-based approach, every day will be &nbsp;an opportunity for children to explore and develop their curiosity, &nbsp;brain and character</p>\n<p>We have 3 branches in Singapore: Katong, Bukit Timah (Beauty World) and Holland</p>",
+    "name": "ADVENTURE TREE PRESCHOOL (HQ) PTE. LTD.",
+    "ssicCode": "85101",
+    "employeeCount": 30,
+    "companyUrl": "https://www.adventuretree.com.sg",
+    "lastSyncDate": "2026-02-02T01:28:10.000Z",
+    "ssicCode2020": "85101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202004208K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202004208K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202004208K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202004208K/schemes"
+      }
+    },
+    "logoFileName": "89cc50bbae31d73c222da62cc0bde778/adventure-tree-preschool.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/89cc50bbae31d73c222da62cc0bde778/adventure-tree-preschool.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "45A",
+    "street": "CARMICHAEL ROAD",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "359826",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.34255459732231,
+    "lng": 103.8622717061
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157115",
+    "deletedAt": null,
+    "createdBy": "47009622-d1e3-4aa2-93a6-628b595e7da5",
+    "createdAt": "2026-01-26T04:06:34.000Z",
+    "updatedAt": "2026-01-26T04:08:08.000Z",
+    "emailRecipient": "47009622-d1e3-4aa2-93a6-628b595e7da5",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 127,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 13,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/english-preschool-educator-adventure-tree-preschool-8d567e543a69238171ef28c29ffa8af5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8d567e543a69238171ef28c29ffa8af5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8d567e543a69238171ef28c29ffa8af5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

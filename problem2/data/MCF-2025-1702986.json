@@ -1,0 +1,245 @@
+{
+  "uuid": "e75572f6dc70fc825c193ec84c40d24a",
+  "sourceCode": "Employer Portal",
+  "title": "Contracts Manager",
+  "description": "<p><strong>Contracts Manager</strong></p>\n<p><br></p>\n<p>To preform Contract agreement review.</p>\n<p>To perform Contract and commercial risk assessment.</p>\n<p>To develop and implement construction commercial proposal.</p>\n<p>To resolve Construction dispute settlement.</p>\n<p>To oversee and ensure that budgets are kept and that projects operations are not hampered due to budget allocations.</p>\n<p>To meet, build and maintain relationships with Clients, Contractors, Suppliers and Sub-contractors.</p>\n<p>To prepare and submit quarterly reports.</p>\n<p>Involve in project tender</p>\n<p>Minimum 5/6 years experience.</p>\n<p><br></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Assessment",
+      "uuid": "3177ea52ef79969392fa9605bc638090",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quantity Surveying",
+      "uuid": "432d30f5253617c75681fab93563c4b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dispute Settlement",
+      "uuid": "547fbb141d5eebb0e7c022b20a5726e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Contract Management",
+      "uuid": "5d0e12ee10158af49d02ff22f0d59df9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Strategy",
+      "uuid": "83de191c12c3c109006c4593128d8bb6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tendering",
+      "uuid": "dce72ae17f6f9c488e4be5f4943ebc55",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13230",
+  "occupationId": "OCC000491",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 4,
+      "category": "Architecture / Interior Design"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 9,
+      "category": "Design"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1121",
+  "postedCompany": {
+    "uen": "200000419G",
+    "description": "<p><strong>Need New Job? </strong><br /><strong>Are you available for an interview this Monday or Thursday ?</strong><br /><strong>  Email CV (MS Word doc, PDF) to: hr@ppsjob.com.sg  </strong><br /><strong>  Visit and register online www.ppsjob.com.sg</strong></p><p>Ministry of Manpower Agency License No. 00C5285 <br />ACRA No. 20-0000419-G</p>",
+    "name": "PERMANENT PERSONNEL SERVICES PTE LTD",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": "www.ppsjob.com.sg",
+    "lastSyncDate": "2026-02-04T02:35:54.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200000419G/schemes"
+      }
+    },
+    "logoFileName": "e00d23ea0d74adc078e5592444d34422/permanent-personnel-services.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e00d23ea0d74adc078e5592444d34422/permanent-personnel-services.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1702986",
+    "deletedAt": "2025-12-07T17:15:05.000Z",
+    "createdBy": "37b5848f-aa7a-42d0-9d46-bf77571fabb1",
+    "createdAt": "2025-11-07T05:11:56.000Z",
+    "updatedAt": "2026-01-29T00:53:03.000Z",
+    "emailRecipient": "37b5848f-aa7a-42d0-9d46-bf77571fabb1",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 107,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-11-07",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/architecture/contracts-manager-permanent-personnel-services-e75572f6dc70fc825c193ec84c40d24a",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8200,
+    "minimum": 5200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e75572f6dc70fc825c193ec84c40d24a"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e75572f6dc70fc825c193ec84c40d24a/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

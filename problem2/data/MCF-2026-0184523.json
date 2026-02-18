@@ -1,0 +1,231 @@
+{
+  "uuid": "6daeffe17c7190a89ab21debfc12131e",
+  "sourceCode": "Employer Portal",
+  "title": "HAIRSTYLIST",
+  "description": "<p><strong>Roles &amp; Responsibilities</strong></p>\n<p><br></p>\n<p><u>Responsibilities</u></p>\n<p>• Consulting with clients on stylistic options for their hair</p>\n<p>• Listening to client needs to determine their preferences</p>\n<p>• Describing different hair care products and their benefits</p>\n<p>• Shampooing, cutting, coloring and highlighting hair</p>\n<p>• Offering manicure, pedicure, waxing and facial services</p>\n<p>• Performing scalp treatments</p>\n<p>• Acting as salespersons to sell clients hair care retail products</p>\n<p>• Building a personal relationship with clients to ensure return visits</p>\n<p>• Adhering to salon safety and cleanliness standards</p>\n<p>• Managing bookings and welcoming clients into the store</p>\n<p>• Keeping updated on hairstyle trends and styling methods</p>\n<p><br></p>\n<p><u>Requirements</u></p>\n<p>• Previous experience as a Hair Stylist or colorist</p>\n<p>• A wide pallet of styling and coloring techniques</p>\n<p>• Proficiency with hot irons, curlers and blow-dryers</p>\n<p>• Excellent interpersonal skills</p>\n<p>• Good verbal communication</p>\n<p>• Physical stamina</p>\n<p>• Creative mindset and a good eye for design</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Verbal Communication",
+      "uuid": "29d0b1d35790a5bf184dccacd3e641ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waxing",
+      "uuid": "56666d0d62b0cc3e9b33a596199c9204",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Cutting",
+      "uuid": "60f807b6543169da8a03e9cbfa47e768",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Spa",
+      "uuid": "72e3d0d77bba8dc534721a4906104eef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Coloring",
+      "uuid": "8fea9135f9300abbaa4ab2d566a09148",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Styling",
+      "uuid": "be34f05f837d8dba4134095129ee3c06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tinting",
+      "uuid": "c137de3f1baf0cb3ed4446ff84eee642",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 28,
+      "category": "Personal Care / Beauty"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202423607M",
+    "description": null,
+    "name": "D7 SALON PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T13:25:35.000Z",
+    "ssicCode2020": "96021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202423607M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202423607M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202423607M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202423607M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "211",
+    "street": "NEW UPPER CHANGI ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "BEDOK TOWN CENTRE",
+    "postalCode": "460211",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.32550084519554,
+    "lng": 103.931967583359
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184523",
+    "deletedAt": null,
+    "createdBy": "b64d34ab-d749-491c-b03a-64fea972833e",
+    "createdAt": "2026-01-29T13:27:06.000Z",
+    "updatedAt": "2026-01-29T13:27:06.000Z",
+    "emailRecipient": "b64d34ab-d749-491c-b03a-64fea972833e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 35,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/hairstylist-d7-salon-6daeffe17c7190a89ab21debfc12131e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6daeffe17c7190a89ab21debfc12131e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/6daeffe17c7190a89ab21debfc12131e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

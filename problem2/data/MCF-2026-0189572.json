@@ -1,0 +1,204 @@
+{
+  "uuid": "b69ff1bb842432b9a793176804a3004d",
+  "sourceCode": "Employer Portal",
+  "title": "Infant care Teacher",
+  "description": "<p>Join Our Team of Dedicated Infant Care Educators! 👶🌟</p><p>Are you passionate about caring for and nurturing the tiniest members of our community? We're searching for compassionate and skilled infant care teachers and assistants to be a part of our team! 👩‍🏫🍼🧡</p><p><strong>Qualifications:</strong></p><ul><li>ACEY Certification</li><li>HCIC Certification</li><li>Relevant Infant Care Certification</li></ul><p><strong>Job Roles:</strong></p><ul><li>Infant Routine Care</li><li>Conducting Engaging Activities</li><li>Preparing Thoughtful Lesson Plans</li><li>Completing Developmental Checklists and Portfolios</li></ul><p><strong>What We Offer:</strong></p><ul><li>Supportive Management Team</li><li>Comprehensive Training Provided</li><li>Career Progression Opportunity</li><li>Meals Provided</li></ul><p>If you have a deep love for infants and are eager to contribute to their early development, we encourage you to apply! 🍼🎨✨</p><p>Those who are interested to join the early childhood industry but do not have the relevant certifications or experience may apply too.</p><p>Ready to embark on a fulfilling journey with us? Please send your resume to macpherson@cambridge.school or contact us at 83506156 to explore this fantastic opportunity</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Creative",
+      "uuid": "047c6bd032387e5c84e1e718f58f7e5a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lesson Planning",
+      "uuid": "2fd81aa1a8532e36357eb230987c3a28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Always Willing to learn",
+      "uuid": "851315bde9250bcab82a542444e2d146",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Diligent",
+      "uuid": "8da12e1f32cc8f547f759ec20c0b017d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Communication Skills",
+      "uuid": "9de9d661fd401a68a83642b23b327d79",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "First Aid",
+      "uuid": "ac8e90f5654ed9af47235fafb1a2feff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Passionate about Work",
+      "uuid": "b703b9ffe1ac78285d3ffa68ae19c815",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Always On Time",
+      "uuid": "f50fe919fd6ce4fbb10f02a15d8f335e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "53115",
+  "occupationId": "OCC009421",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 10,
+      "category": "Education and Training"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "63",
+  "ssecFos": "0112",
+  "postedCompany": {
+    "uen": "201903283H",
+    "description": null,
+    "name": "CAMBRIDGE @ MACPHERSON PTE. LTD.",
+    "ssicCode": "88911",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T02:28:00.000Z",
+    "ssicCode2020": "88911",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201903283H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201903283H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201903283H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201903283H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "50",
+    "street": "MACPHERSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "AMAZANA",
+    "postalCode": "348471",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32792904623702,
+    "lng": 103.870299247497
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189572",
+    "deletedAt": null,
+    "createdBy": "10af8fb2-de85-4b5e-92af-f8305da4344b",
+    "createdAt": "2026-01-30T08:12:55.000Z",
+    "updatedAt": "2026-01-30T08:12:55.000Z",
+    "emailRecipient": "10af8fb2-de85-4b5e-92af-f8305da4344b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/education-training/infant-care-teacher-cambridge-macpherson-b69ff1bb842432b9a793176804a3004d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 1500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b69ff1bb842432b9a793176804a3004d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b69ff1bb842432b9a793176804a3004d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,228 @@
+{
+  "uuid": "4e8a2b910a39333290217cd702a7b6e6",
+  "sourceCode": "Employer Portal",
+  "title": "System Engineer (Infra)",
+  "description": "<p><u><strong>Job Summary:</strong></u></p><p>The role involves providing comprehensive technical support and maintenance for operating systems, middleware, databases, LDAP, and container orchestration platforms. The candidate will be responsible for deploying, configuring, and managing these systems to ensure smooth operations in development and testing environments. In addition to hands-on technical tasks, the role requires supporting bid activities by producing infrastructure sizing and deployment topology, coordinating with cross-functional teams, and leading infrastructure-related discussions to enable effective planning and deployment at the customer site.</p><p><br /></p><p><u><strong>Key Roles and Responsibilities:</strong></u></p><p>⦁\tProvide support and maintenance for operating systems, including Windows, Linux, and IBM AIX, Solaris.</p><p>⦁\tDeploy, configure and maintain middleware infrastructure, including IBM WebSphere, IBM MQ, Red Hat JBoss Enterprise Application Platform, and Red Hat JBoss AMQ.</p><p>⦁\tInstall, configure, and manage database servers, including IBM DB2, PostgreSQL, MySQL.</p><p>⦁\tInstall, configure, and maintain LDAP servers, including IBM Security Directory Server and Apache LDAP.</p><p>⦁\tInstall, configure, and maintain container orchestration platforms, including Kubernetes and Red Hat OpenShift Container Platform (OCP) clusters.</p><p>⦁\tHandle technical matters such as troubleshooting, patching, and upgrading systems, both operating systems and middleware.</p><p>⦁\tIn addition to hands-on technical responsibilities, support bid activities by providing infrastructure sizing, coordinating with cross-functional stakeholders, and leading end-to-end technical discussions related to infrastructure planning and deployment.</p><p></p><p></p><p><u><strong>Job Requirements and Qualifications:</strong></u></p><p>⦁\tMinimum 5-8 years of IT experience.</p><p>⦁\tIdeally, exposure to both operating system and middleware administration.</p><p>⦁\tSolid understanding of application architecture, covering authentication, web server, database servers, application servers, and messaging servers.</p><p>⦁\tProficient in Unix Shell scripting.</p><p>⦁\tHands-on experience with containerization technologies like Docker, Kubernetes, and OpenShift.</p><p>⦁\tEagerness to explore legacy systems and embrace new cloud platform services, along with a positive attitude to join the team on this journey.</p><p>⦁\tPossession of any cloud certifications (e.g., AWS, Azure, GCP, or Red Hat) will be advantageous.</p><p>⦁\tExcellent communication and collaboration skills to work effectively with cross-functional teams and stakeholders.</p><p></p><p></p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Azure",
+      "uuid": "3a580f142203677f1f0bc30898f63f53",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix shell",
+      "uuid": "6a128ec4ad414f45f3d46d696eb98b1c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IBM DB2",
+      "uuid": "6fa248357351424502d08a56a402a3f1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AIX",
+      "uuid": "7e6bb0931a72759d39514aa924b420bc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Topology",
+      "uuid": "8238c723c4b92ba1295c7a46a03da099",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Containerization",
+      "uuid": "a8910baa93be5773b63f12141f0787ee",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apache",
+      "uuid": "e9713ae04a02a810d6f33dd956f42794",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002762",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201716889C",
+    "description": "<h2>Company Overview</h2>\n<p><strong>If you’re seeking for employment or employees, you’re at the right place.</strong>Welcome to Flintex Consulting, a leading Recruitment Agency in Singapore.</p>\n<p><br></p>\n<p><strong>We Match&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We Place</strong></p>\n<p><br></p>\n<p>We specialize in Technology, BFSI, Human Resource &amp; Administration, Engineering &amp; Manufacturing, Sales &amp; Marketing,Finance &amp; Accounting sectors.We cater to the needs of a) individual job candidates and b) companies seeking for the right employees to drive their business.</p>\n<p><br></p>\n<p>We have been able to construe and bridge the needs and demands of our individual and corporate clients. Our wide industry expertise and select client base enable us to foster fruitful careers rather than short-term jobs and placements.Our advanced placement platform is designed to match employee skill sets with current vacancies with perfect accuracy. We utilize an efficient, systematic and ultra-precise recruitment method that surpasses industry standards.</p>\n<p><br></p>\n<p>Flintex Consulting has been successful in collaborating multiple leading employers, vendors and clients. We also offer valuable insight to candidates and companies to maximize their recruitment efforts. Candidates are mentored towards finding the best-fit jobs to help build successful careers.We cover all levels of placement, from entry level professionals to mid-level and CEO level posts.We promise to provide the best suited jobs through our research-based methodologies merged with our top qualified personnel.</p>\n<p><br></p>\n<p>Flintex Consulting promises to grow your career the right way. Whether you are a client or a candidate, we have a streamlined platform to match your needs efficiently. With professional, efficient, and timely services, leave it to us when it comes to your Job-Related needs.We take pride in collaborating with leading employers, vendors, and clients. This helps us provide you with extensive job postings across all Major Industries. Additionally, we offer valuable insights and other personalized services designed to maximize productivity and results when it comes to job search.&nbsp;</p>\n<p><br>\nEA License # 17C8724<br>\nUEN # 201716889C</p>\n<p><br></p>\n<h2>Why Join Us?</h2>\n<p><strong>Our Mission</strong></p>\n<p>“To be acknowledged as a team of recruitment professionals with the expertise to consistently facilitate an optimum result for both our clients and candidates”</p>\n<p><br></p>\n<p><strong>Our Vision</strong></p>\n<p>To provide an ‘invaluable’ service that greatly contributes to a company’s or individual’s business success.<br>\nTo always conduct ourselves in a manner that reflects our passion and commitment to delivering a positive outcome for all parties involved.</p>\n<p>To appreciate the responsibility that we assume in assisting people to make important recruitment decisions that can have a significant impact on their lives.Undertake our roles with a sense of dignity, optimism, pride and gratitude.</p>\n<p><br></p>\n<p><strong>Our Core Values</strong></p>\n<p>Integrity, Quality, Professionalism, Teamwork, Commitment and Accountability</p>\n<p><br></p>\n<p><strong>Specialties:</strong></p>\n<p>Recruitments, Staff Augmentation, Contract Staffing, Salary Advisory, Temporary Hiring, Executive Search, Project based Search,&nbsp;RPO, Payroll Services, Work Pass Application, Leadership Hiring, and Trainings</p>",
+    "name": "FLINTEX CONSULTING PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": 20,
+    "companyUrl": "www.flintex.com.sg",
+    "lastSyncDate": "2026-02-04T02:48:53.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201716889C/schemes"
+      }
+    },
+    "logoFileName": "189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/189ed670ccfa9dcd051769b47be0dcf8/flintex-consulting.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "10",
+    "street": "ANSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "INTERNATIONAL PLAZA",
+    "postalCode": "079903",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27585666883403,
+    "lng": 103.845955085219
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0180968",
+    "deletedAt": null,
+    "createdBy": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "createdAt": "2026-01-29T05:36:30.000Z",
+    "updatedAt": "2026-01-29T05:36:30.000Z",
+    "emailRecipient": "85a9bd99-21a4-4bb4-98e3-6f3ff16c12ee",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 35,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/system-engineer-flintex-consulting-4e8a2b910a39333290217cd702a7b6e6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6500,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e8a2b910a39333290217cd702a7b6e6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4e8a2b910a39333290217cd702a7b6e6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

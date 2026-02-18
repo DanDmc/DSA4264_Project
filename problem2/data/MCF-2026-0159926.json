@@ -1,0 +1,251 @@
+{
+  "uuid": "04a1f4f75c4ae03ed90be67c112e0fd6",
+  "sourceCode": "Employer Portal",
+  "title": "Admin Assistant",
+  "description": "<p><strong>Job Description:</strong></p>\n<ul>\n  <li>Data Entry</li>\n  <li>Assist in payment administration for clients</li>\n  <li>Assist in billing for clients</li>\n</ul>\n<p><br></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "IRAs",
+      "uuid": "28d7c3e81dbbbf3342942ccdaa6d9731",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Due Diligence",
+      "uuid": "30b77d1b65bc5181dba6feb5f06335cd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax Advisory",
+      "uuid": "3163960fb5ee2f3c9f365c974214e6e4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Corporate Tax",
+      "uuid": "56ee8d2de5afbd1f9c3c3670b5f4d28e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Word",
+      "uuid": "99bf759398c1e3eb29bef7edd71e7777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Income Tax",
+      "uuid": "a2406ac4a795942b74690f3eca94aa23",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax Compliance",
+      "uuid": "a7a34b0148e69c6cfe47dc96b3741fd6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "International Tax",
+      "uuid": "bb6c33ce103e7419a59b5476a465e5fd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax Returns",
+      "uuid": "ddeaa3a51d5e73fc886ed9b836985c1a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "200608361C",
+    "description": "<p>We are a dynamic team of professionals helping our clients in the field of business outsourcing. We specialise in accounts book-keeping, cash management and payroll services. We are constantly seeking motivated and experienced professionals experience in the area of business outsourcing to join our strong and dedicated team.</p>\r\n",
+    "name": "CORPORATE OUTSOURCE PTE. LTD.",
+    "ssicCode": "69202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:00:52.000Z",
+    "ssicCode2020": "69202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "200608361C",
+    "description": "<p>We are a dynamic team of professionals helping our clients in the field of business outsourcing. We specialise in accounts book-keeping, cash management and payroll services. We are constantly seeking motivated and experienced professionals experience in the area of business outsourcing to join our strong and dedicated team.</p>\r\n",
+    "name": "CORPORATE OUTSOURCE PTE. LTD.",
+    "ssicCode": "69202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:00:52.000Z",
+    "ssicCode2020": "69202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200608361C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "SCOTTS ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SHAW CENTRE",
+    "postalCode": "228208",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.30611334655652,
+    "lng": 103.831970581812
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159926",
+    "deletedAt": null,
+    "createdBy": "ab9b3a8d-2452-4796-82a3-a76f5d63a28a",
+    "createdAt": "2026-01-26T09:01:46.000Z",
+    "updatedAt": "2026-01-26T09:01:46.000Z",
+    "emailRecipient": "ab9b3a8d-2452-4796-82a3-a76f5d63a28a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 365,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 87,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/admin-assistant-corporate-outsource-04a1f4f75c4ae03ed90be67c112e0fd6",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3000,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/04a1f4f75c4ae03ed90be67c112e0fd6"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/04a1f4f75c4ae03ed90be67c112e0fd6/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

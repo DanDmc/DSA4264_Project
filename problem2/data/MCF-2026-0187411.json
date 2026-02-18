@@ -1,0 +1,197 @@
+{
+  "uuid": "3716ff02840d1536d317e312340c49f9",
+  "sourceCode": "Employer Portal",
+  "title": "QA-QC Engineer",
+  "description": "<p><strong>Responsibilities</strong></p>\n<p>· Assist executing the Quality Assurance Plan, Inspection &amp; Test Plans (ITPs), and project-specific quality procedures.</p>\n<p>· Conduct inspections on civil, structural, architectural, mechanical, electrical, and fire protection system works during various stages of construction.</p>\n<p>· Perform material inspections, monitor workmanship, and verify compliance with approved drawings and specifications.</p>\n<p>· Monitor and document installation of systems critical to environmental control, such as high voltage, medium voltage, &amp; low voltage, and HVAC systems.</p>\n<p>· Raise and manage Non-Conformance Reports (NCRs) and ensure timely resolution through corrective and preventive actions.</p>\n<p>· Coordinate with vendors, consultants, and third-party inspectors (if any) on quality-related issues.</p>\n<p>· Support commissioning, validation, and system testing activities with clear documentation.</p>\n<p>· Prepare daily/weekly QA/QC reports, maintain quality documentation and ensure proper record keeping for handover dossiers.</p>\n<p>· Participate in internal &amp; external quality audits and assist in preparing compliance documentation.</p>\n<p>· Support punch list management, final inspections, and close-out documentation.</p>\n<p><br></p>\n<p><strong>Requirements</strong></p>\n<p>· Degree/Diploma with at least 3 years of experience in project/engineering/construction management, preferably in data centre or critical environment.</p>\n<p>· Familiarity with ITPs, method statements, and quality standards relevant to mission-critical infrastructure.</p>\n<p>· Knowledge of MEP systems, HVAC, clean room classifications and standards is an advantage.</p>\n<p>· Ability to read and interpret technical drawings, specifications, and codes.</p>\n<p>· Certification in workplace safety (eg. WSQ, WSH) preferred.</p>\n<p>· Positive proactive attitude and ethical behaviour.</p>\n<p>· Team player with ability to work independently and resolve challenges in a fast-paced environment.</p>\n<p>· Excellent interpersonal, communication and collaborative skills.</p>\n<p>· Proficiency in Microsoft Office (Microsoft Word, Excel and PowerPoint).</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Assurance",
+      "uuid": "3fde0f482001cceb20dc17308b6ddf3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Workplace Safety",
+      "uuid": "4c14f0a762902e4ebe5b831acf4a43f4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HVAC",
+      "uuid": "6ace317b96ae4d73c074b5e1d6694b86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audits",
+      "uuid": "b06c94565d768dd75535120f2f8482a7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Environmental Control",
+      "uuid": "f27e569ecb3707fa74551f45ce9cc337",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 6,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1132",
+  "postedCompany": {
+    "uen": "200600441Z",
+    "description": "<p>\r\n\tAcme Associates Pte Ltd (ACME) offers Critical Infrastructure Lifecycle Solutions (CILS) for critical infrastructure like Data Centers, providing one-stop solution that includes Audit & Feasibility studies, Design & Build, Project Management and after sale support.</p>\r\n",
+    "name": "ACME ASSOCIATES PTE. LTD.",
+    "ssicCode": "71129",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:05:23.000Z",
+    "ssicCode2020": "71129",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600441Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600441Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600441Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200600441Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187411",
+    "deletedAt": null,
+    "createdBy": "c3db3e5e-9d45-4fa2-bb64-2c4c86edc771",
+    "createdAt": "2026-01-30T03:48:26.000Z",
+    "updatedAt": "2026-01-30T03:48:26.000Z",
+    "emailRecipient": "c3db3e5e-9d45-4fa2-bb64-2c4c86edc771",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 80,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/qa-qc-engineer-acme-associates-3716ff02840d1536d317e312340c49f9",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3716ff02840d1536d317e312340c49f9"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3716ff02840d1536d317e312340c49f9/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

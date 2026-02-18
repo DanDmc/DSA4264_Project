@@ -1,0 +1,229 @@
+{
+  "uuid": "3deb6bbd5ac48794551d48adf46277d1",
+  "sourceCode": "Employer Portal",
+  "title": "DevSecOps Engineer",
+  "description": "<p>We are seeking an experienced DevSecOps Engineer to join our team and play a pivotal role in setting up and managing cloud security processes and automation within a government environment. The successful candidate will work closely with development and operations teams to ensure secure, efficient, and scalable cloud infrastructure.</p><p><strong>Responsibilities:</strong></p><ul><li>Design, implement, and maintain cloud-based security processes, policies, and frameworks.</li><li>Automate cloud operations to improve efficiency, scalability, and security.</li><li>Write and maintain Terraform scripts for cloud infrastructure management (e.g., updating IP addresses, modifying API Gateway WAF rules, changing Route 53 configurations).</li><li>Ensure cloud infrastructure is continuously secured and meets compliance requirements.</li><li>Collaborate with development teams to implement secure CI/CD pipelines.</li><li>Monitor and audit cloud resources, ensuring adherence to security best practices.</li><li>Implement and manage cloud security tools, including AWS security services and third-party solutions.</li><li>Perform routine reviews and updates of security policies to stay ahead of emerging threats.</li></ul><p><strong>Required Skills & Qualifications:</strong></p><ul><li>Proven experience in <strong>DevSecOps and cloud security.</strong></li><li>Hands-on experience in setting up and implementing cloud DevSecOps processes and policies.</li><li>Strong <strong>AWS knowledge, including CLI usage and cloud services.</strong></li><li>Proficient in writing <strong>Terraform scripts for cloud resource management and automation.</strong></li><li>Experience in automating cloud operations, including updating IP addresses, API Gateway WAF rules, and Route 53 configurations.</li><li><strong>Strong knowledge of security best practices, cloud compliance, and risk management.</strong></li><li>Excellent troubleshooting and problem-solving skills.</li></ul><p><strong>Preferred (Nice to Have):</strong></p><ul><li>Experience with <strong>government systems and familiarity with IM8 compliance standards.</strong></li><li>Certifications in AWS (e.g., AWS Certified Security Specialty, AWS Certified Solutions Architect) or DevSecOps.</li><li>Familiarity with additional tools such as<strong> Docker, Kubernetes, and CI/CD frameworks.</strong></li></ul><p><strong>Personal Attributes:</strong></p><ul><li>Strong communication and collaboration skills.</li><li>Ability to work independently and as part of a team.</li><li>Strong attention to detail and proactive problem-solving approach</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Version Control",
+      "uuid": "0b259705b755c4cbd672e6663ae31905",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IP",
+      "uuid": "a12a3079e14ced46e69ba52b8a90b21a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Configuration Management",
+      "uuid": "a4934331bbf896399132d3d20f141ef3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing",
+      "uuid": "af96ab416602c6852b1ba5201feaacf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Resource Management",
+      "uuid": "cb39ac09dca88d69876f8730b7461b4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC062526",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200701685D",
+    "description": "<p>\r\n\tFPT ASIA PACIFIC PTE. LTD.</p>\r\n<p>\r\n\t&nbsp;</p>\r\n",
+    "name": "FPT ASIA PACIFIC PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:05:56.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200701685D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200701685D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200701685D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200701685D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189649",
+    "deletedAt": null,
+    "createdBy": "ccc34a4d-d898-4e98-99a1-7004120575ac",
+    "createdAt": "2026-01-30T08:21:47.000Z",
+    "updatedAt": "2026-01-30T08:21:47.000Z",
+    "emailRecipient": "ccc34a4d-d898-4e98-99a1-7004120575ac",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 39,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/devsecops-engineer-fpt-asia-pacific-3deb6bbd5ac48794551d48adf46277d1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3deb6bbd5ac48794551d48adf46277d1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/3deb6bbd5ac48794551d48adf46277d1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

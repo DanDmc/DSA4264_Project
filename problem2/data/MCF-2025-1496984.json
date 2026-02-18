@@ -1,0 +1,226 @@
+{
+  "uuid": "58394d4c48d33f4e13fd097062186f28",
+  "sourceCode": "Employer Portal",
+  "title": "Veterinarian",
+  "description": "<p><strong>VetMedic Animal Clinic &amp; Surgery – We’re Hiring!</strong></p>\n<p>Are you a compassionate and dedicated Veterinarian looking to grow with a supportive team?<br>\nJoin us at <strong>VetMedic</strong>, a young and dynamic full-service veterinary clinic located in Sembawang. Our mission is simple: to deliver empathetic, passionate, and high-quality care to every patient who walks through our doors.</p>\n<h3>What We Offer</h3>\n<p>Our clinic is fully equipped to support both general practice and advanced veterinary care. You’ll have access to:</p>\n<ul>\n  <li>IDEXX blood machines</li>\n  <li>Digital radiography &amp; dental radiography</li>\n  <li>Ultrasonography &amp; endoscopy</li>\n  <li>A comprehensive surgical suite, including Covidien Ligasure</li>\n  <li>A skilled and dedicated team of veterinary nurses to support your procedures</li>\n</ul>\n<h3>Who We’re Looking For</h3>\n<ul>\n  <li><strong>Experienced Veterinarians</strong> are strongly encouraged to apply</li>\n  <li><strong>Fresh graduates</strong> with the right attitude and passion are also welcome—we believe in nurturing new talent</li>\n</ul>\n<h3>Growth Opportunities</h3>\n<ul>\n  <li>Hands-on learning in ultrasonography</li>\n  <li>Opportunities to get started with orthopaedic surgeries</li>\n  <li>Subsidies for continuing education courses, both local and overseas</li>\n</ul>\n<p>At VetMedic, you’ll not only find a workplace but also a team that values growth, collaboration, and genuine care—for pets and for each other.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ultrasound",
+      "uuid": "0cf16fe494d28207e0f1419f296cfb97",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Veterinary",
+      "uuid": "1de92ef8b22234dba838f793983b451b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Public Health",
+      "uuid": "49e776b6be7a2a65d108e5e801113557",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Surgery",
+      "uuid": "4cc2ab05bc21d2a534f0ba01646952fa",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Medicine",
+      "uuid": "4ff278b4704d3e44b01ff80f37386777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pets",
+      "uuid": "750e92a6a691645ba02c20d6620583e0",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Digital Radiography",
+      "uuid": "810c1cf14cfb034fb14bcee94c85bcd4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Veterinary Medicine",
+      "uuid": "845db5799ba5e7ed93ca8a7be718af55",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Radiography",
+      "uuid": "e8db8f8a7f2e702b3c17790090f5c9e5",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "22500",
+  "occupationId": "OCC003939",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0741",
+  "postedCompany": {
+    "uen": "202214098C",
+    "description": "<p>We are a veterinary clinic situated in Sembawang, Singapore.</p>\n<p>We are looking for enthusiastic and passionate people to join our team of experienced nurses and veterinarians.</p>",
+    "name": "VMACS PTE. LTD.",
+    "ssicCode": "75000",
+    "employeeCount": 12,
+    "companyUrl": "www.vetmedic.com.sg",
+    "lastSyncDate": "2026-02-04T00:55:48.000Z",
+    "ssicCode2020": "75000",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202214098C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202214098C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202214098C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202214098C/schemes"
+      }
+    },
+    "logoFileName": "0faa62d3753dc0f26648a132e8f304be/vmacs.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/0faa62d3753dc0f26648a132e8f304be/vmacs.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "52",
+    "street": "JALAN MALU-MALU",
+    "floor": null,
+    "unit": null,
+    "building": "SEMBAWANG SPRINGS ESTATE",
+    "postalCode": "769667",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44351572068464,
+    "lng": 103.82611455079
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1496984",
+    "deletedAt": "2025-11-01T17:15:05.000Z",
+    "createdBy": "e2fd9855-01ed-4102-886e-a59eb33d59dc",
+    "createdAt": "2025-10-02T13:35:09.000Z",
+    "updatedAt": "2026-01-26T13:20:58.000Z",
+    "emailRecipient": "e2fd9855-01ed-4102-886e-a59eb33d59dc",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 140,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-10-02",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/veterinarian-vmacs-58394d4c48d33f4e13fd097062186f28",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 5500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/58394d4c48d33f4e13fd097062186f28"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/58394d4c48d33f4e13fd097062186f28/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

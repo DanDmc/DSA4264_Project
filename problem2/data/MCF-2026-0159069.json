@@ -1,0 +1,208 @@
+{
+  "uuid": "7d132fae1e2130983e03aa3204c21493",
+  "sourceCode": "Employer Portal",
+  "title": "Architectural Designer",
+  "description": "<p>Assisting Project Manager in all aspect of project execution and management.</p><p><br /></p><p>Talented, creative, practical, clear-thinking and highly motivated.</p><p><br /></p><p>Is passionate about architecture and enjoys running a project through from concept to completion.</p><p><br /></p><p>Proficient in Adobe suite of software and Revit software is a great added advantage.</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Autodesk Revit",
+      "uuid": "1172a935db5e4f347eb39c1553901f5b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "passionate",
+      "uuid": "61e415f686ac4441d253997a3baf8d5a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Architectural Design",
+      "uuid": "785c5656fe371b831dd0da75c09b3931",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Motivated",
+      "uuid": "827b1b3da582cd562ee87a9bfa227d5b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Execution",
+      "uuid": "c21ffc2ee0b17eedea2e1a87f136adc1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Design Research",
+      "uuid": "d5e666414f8f5f6036b2362dbaa67acd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sustainable Design",
+      "uuid": "db4bb23a97f28583d18348b51fd1255a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SketchUp",
+      "uuid": "e9cdba62ea90ae2e58d00d1fa6a892a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability to work creatively",
+      "uuid": "ed3a71570709fadf4578a53e16f060db",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "uuid": "f544f262e964e2067e7fb53aa23c6379",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21610",
+  "occupationId": "OCC008289",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 4,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 4,
+      "category": "Architecture / Interior Design"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1011",
+  "postedCompany": {
+    "uen": "200311442N",
+    "description": "<p>\r\n\tAward Winning Design Practice</p>\r\n",
+    "name": "WOHA ARCHITECTS PTE. LTD.",
+    "ssicCode": "71111",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:57:43.000Z",
+    "ssicCode2020": "71111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311442N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311442N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311442N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311442N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "29",
+    "street": "HONGKONG STREET",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "059668",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28753971381309,
+    "lng": 103.846928852303
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159069",
+    "deletedAt": null,
+    "createdBy": "03ba1340-9ac6-4722-8cd7-a7f6b3e1f260",
+    "createdAt": "2026-01-26T08:06:41.000Z",
+    "updatedAt": "2026-01-26T08:06:41.000Z",
+    "emailRecipient": "03ba1340-9ac6-4722-8cd7-a7f6b3e1f260",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 189,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 14,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/architecture/architectural-designer-woha-architects-7d132fae1e2130983e03aa3204c21493",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6900,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7d132fae1e2130983e03aa3204c21493"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7d132fae1e2130983e03aa3204c21493/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

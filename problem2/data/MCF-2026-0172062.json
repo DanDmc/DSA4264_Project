@@ -1,0 +1,193 @@
+{
+  "uuid": "0a9aea218d5f23d5dcdfca1eadb22c77",
+  "sourceCode": "Employer Portal",
+  "title": "高级拉面师",
+  "description": "<p>负责拉面餐馆的后厨运营</p>\n<p>懂得如何熬煮兰州牛肉面的原汤</p>\n<p>懂得如何兑汤</p>\n<p>懂得如何熬制兰州牛肉面的油泼辣子</p>\n<p>能熟练制作8种面型</p>\n<p>会炒面，煎鸡肉</p>\n<p>能熟练切牛肉，切蒜苗，白萝卜</p>\n<p>能按公司要求准备小菜</p>\n<p>能做好厨房的清洁工作</p>\n<p><br></p>\n<p>In charge of the kitchen operation of a Lanzhou Beef Noodle restaurant</p>\n<p>Knowing how to prepare the beef soup</p>\n<p>Knowing how to prepare the chili sauce for Lanzhou Beef Noodle</p>\n<p>Knowing how to pull 8 different types of noodle</p>\n<p>Can fried noodle and grill chicken</p>\n<p>Can cut beef, Chinese Leek and radish efficiently</p>\n<p>Can prepare side dishes according to company's requirement</p>\n<p>Can do cleaning working according to company's requirement</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cut",
+      "uuid": "eb334dca00e390e0d3ebf52d205807d7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009249",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201802937K",
+    "description": null,
+    "name": "GALA FOOD PTE. LTD.",
+    "ssicCode": "10799",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T01:51:47.000Z",
+    "ssicCode2020": "10799",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802937K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802937K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802937K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201802937K/schemes"
+      }
+    },
+    "logoFileName": "859d758b7b88798c66992944647d3871/gala-food.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/859d758b7b88798c66992944647d3871/gala-food.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172062",
+    "deletedAt": null,
+    "createdBy": "bc1cda9d-d8aa-4f14-bc6e-2b16860a1b24",
+    "createdAt": "2026-01-28T02:28:52.000Z",
+    "updatedAt": "2026-01-28T02:28:53.000Z",
+    "emailRecipient": "bc1cda9d-d8aa-4f14-bc6e-2b16860a1b24",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 26,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/%E9%AB%98%E7%BA%A7%E6%8B%89%E9%9D%A2%E5%B8%88-gala-food-0a9aea218d5f23d5dcdfca1eadb22c77",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0a9aea218d5f23d5dcdfca1eadb22c77"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0a9aea218d5f23d5dcdfca1eadb22c77/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,228 @@
+{
+  "uuid": "09b33b61f4e733295fd0181fa4824b01",
+  "sourceCode": "Employer Portal",
+  "title": "Investment Associate",
+  "description": "<p>Job Description & Requirements</p><p><u><strong>Job Description</strong></u></p><ul><li>Manage financial and investment portfolios for corporate businesses (B2B) and individual clients (B2C) on Investment, Risk and Asset Management.</li><li>Analyse financial markets and investment funds such as Equities, ETFs, Bonds and Unit Trusts.</li><li>Provide integrated financial solutions for clients through Wealth Preservation, Partnership Management, Estate and Business Succession Planning.</li><li>Develop business strategies based on current market developments to grow clients' portfolios</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Due Diligence",
+      "uuid": "30b77d1b65bc5181dba6feb5f06335cd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Valuation",
+      "uuid": "3e6564c044acd49698fd70c9aaa79bb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investments",
+      "uuid": "58b5a31d0fe1c8f8bb513b2d78aed40d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Venture Capital",
+      "uuid": "5b49036c3dd8d6a67be3f15f112b35b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investment Banking",
+      "uuid": "63a509e1618769c9be06a498fbd2c85b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Private Equity",
+      "uuid": "6ce05b44bcf0db4df779778a1e1bd944",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETFs",
+      "uuid": "6cee95b4398d0a34364c8dda2153c1c1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Portfolio Management",
+      "uuid": "a15cf1ff7f2295ea409d18db54625651",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Modelling",
+      "uuid": "aa10b0acb54d9e821629ef83fa0f1a92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bonds",
+      "uuid": "b98e3a37b62f7207c8a0a27e0c0d8777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Wealth Preservation",
+      "uuid": "d6fe4cee5504e59588faf388717c17fb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Equities",
+      "uuid": "f38992a52cef8611666b2db431b493a6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008545",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "53502130E",
+    "description": null,
+    "name": "J.S.F",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T00:39:21.000Z",
+    "ssicCode2020": "70205",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53502130E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "101",
+    "street": "KALLANG AVENUE",
+    "floor": null,
+    "unit": null,
+    "building": "VICTORIA WHOLESALE CENTRE",
+    "postalCode": "339508",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31120876952715,
+    "lng": 103.867482955196
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0192146",
+    "deletedAt": null,
+    "createdBy": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "createdAt": "2026-01-30T19:19:56.000Z",
+    "updatedAt": "2026-01-30T19:19:56.000Z",
+    "emailRecipient": "a34b73f2-97ec-4777-8188-03ccdb5d9fa5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 60,
+    "newPostingDate": "2026-01-31",
+    "originalPostingDate": "2026-01-31",
+    "expiryDate": "2026-03-02",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/investment-associate-jsf-09b33b61f4e733295fd0181fa4824b01",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09b33b61f4e733295fd0181fa4824b01"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/09b33b61f4e733295fd0181fa4824b01/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

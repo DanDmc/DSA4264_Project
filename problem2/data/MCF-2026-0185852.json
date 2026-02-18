@@ -1,0 +1,232 @@
+{
+  "uuid": "a5a406cb11a2c484c6b807d196cb798b",
+  "sourceCode": "Employer Portal",
+  "title": "Manufacturing Engineer",
+  "description": "<p>Responsibilities;</p><ul><li><p>Works with Process Engineers to support, coordinate and follow up on all manufacturing/process related activities on shiftly basis</p></li><li><p>Supports Process Engineer in monitoring line performance/quality / yield and disposition of Hold Lots</p></li><li><p>Tracks the Internal troubleshooting Report (ITR) trend and follow up the Abnormality Lot Report (ALR)</p></li><li><p>Supports the Process Engineering on the qualification/evaluation</p></li><li><p>Ensures that the line complies in all the quality procedures/systems set-up by Process Engineers</p></li><li><p>Handle new product introduction / qualification engineering support</p></li><li></li></ul><p>Requirement;</p><ul><li><p>Minimum degree in the related field</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Engineering",
+      "uuid": "2326884e59802be98a4618e456486191",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lean Manufacturing",
+      "uuid": "24ecf5ab4cda1030a501d06eeafb63d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FMEA",
+      "uuid": "313b11a9b82d9a829f6ef0ef797aca11",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trend",
+      "uuid": "349d789f5d11f630c282f547b568d08d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "uuid": "5622ca1c7df0a0744d6e884ea12e1e66",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fabrication",
+      "uuid": "7a7f5c3fd12acb4c8c93e67d3f51a06b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Process Engineering",
+      "uuid": "923f69f142c010fdcf08e372c7079b7f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Assembly",
+      "uuid": "d75c45e11c8aeb13494dba59a388a164",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Disposition",
+      "uuid": "d914d24d59c20c6cedf1bc52acdf1cd3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Layout",
+      "uuid": "ebd9bec4d70abc789d439c1f136b0538",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Failure Analysis",
+      "uuid": "fcc225cdd5b8e36601314d3beb093a3a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1151",
+  "postedCompany": {
+    "uen": "199708070H",
+    "description": "<p>UTAC Group (\"UTAC Holdings and subsidiaries\") is one of the leading independent providers of semiconductor assembly and testing services for a broad range of integrated circuits including mixed-signal, analog and memory. The Group offers a full range of package and test development, engineering and manufacturing services and solutions to a worldwide customer base, comprising leading integrated device manufacturers (IDMs), fabless companies and wafer foundries. UTAC Group operates manufacturing facilities in Singapore, Thailand, Taiwan and China in addition to its global sales network.</p>  ",
+    "name": "UNITED TEST AND ASSEMBLY CENTER LTD",
+    "ssicCode": "26113",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:29:32.000Z",
+    "ssicCode2020": "26113",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199708070H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199708070H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199708070H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199708070H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "22",
+    "street": "ANG MO KIO INDUSTRIAL PARK 2",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "569506",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37389535779491,
+    "lng": 103.863005126085
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0185852",
+    "deletedAt": null,
+    "createdBy": "df42b5b6-9fdf-4967-b4d4-8574d9a5467e",
+    "createdAt": "2026-01-30T01:22:32.000Z",
+    "updatedAt": "2026-01-30T01:22:32.000Z",
+    "emailRecipient": "df42b5b6-9fdf-4967-b4d4-8574d9a5467e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 99,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 18,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/manufacturing-engineer-united-test-assembly-center-a5a406cb11a2c484c6b807d196cb798b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a5a406cb11a2c484c6b807d196cb798b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/a5a406cb11a2c484c6b807d196cb798b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

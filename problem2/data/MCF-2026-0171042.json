@@ -1,0 +1,197 @@
+{
+  "uuid": "97a8232fd36f8bbf66f94a8dc6ba40db",
+  "sourceCode": "Employer Portal",
+  "title": "Retail Administrative Assistant",
+  "description": "<p><strong>Responsibilitis</strong>:</p>\n<ul>\n  <li>Perform administrative function of the store.</li>\n  <li>Process SAP related document such as invoice verification, goods receipts, data entry, filling of document, etc.</li>\n  <li>Handle incoming phone calls, replenish office housekeeping products.</li>\n  <li>Assist in receiving stock and stocktaking.</li>\n  <li>Perform any other duties as assigned by the Retail Manager.</li>\n</ul>\n<p><strong>Requirement</strong>:</p>\n<ul>\n  <li>O Level with 1 year of relevant experience</li>\n  <li>Proficient with MS Office</li>\n  <li>Possess good communications and Interpersonal skills</li>\n  <li>Ability to work in a fast paced environment</li>\n  <li>Able to commence work immediately or within short notice</li>\n  <li>Work hours: Monday to Friday; 10.45am to 8.30pm</li>\n  <li>Work location: Island-wide</li>\n</ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "answering phone calls",
+      "uuid": "371cf1543d5de9f708222a8455ecc734",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Good Interpersonal Communication Skills",
+      "uuid": "4bb5c5101a936e6c8a145dc8ab1bd477",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "administrative functions",
+      "uuid": "c54bc976ec068584c803e4e963ccf720",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "197500612M",
+    "description": "<p>Founded in 1924, Popular Holdings Limited is a multi-faceted conglomerate with businesses in a wide-ranging number of sectors, such as Retail, e-Commerce, Publishing, Education, Distribution, Purchasing, e-Learning, and more. Our diverse portfolio consists of more than 40 subsidiaries operating in Singapore, Malaysia, Hong Kong, Macau, Taiwan, China, Canada, Australia, and United Kingdom. For close to a century, we’ve committed ourselves to empowering our people by encouraging a sense of ownership towards their responsibilities and involving them in the decision-making process. This helps establish a culture of staff-driven change that is highly attuned to the evolving consumer landscapes and industry trends, which helps us maintain our strong presence and competitive edge.</p>",
+    "name": "POPULAR BOOK COMPANY (PTE.) LIMITED",
+    "ssicCode": "47610",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T12:56:12.000Z",
+    "ssicCode2020": "47610",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197500612M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197500612M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197500612M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/197500612M/schemes"
+      }
+    },
+    "logoFileName": "3a3665877cd3238914e59c425de571fc/popular-book-company.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3a3665877cd3238914e59c425de571fc/popular-book-company.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171042",
+    "deletedAt": null,
+    "createdBy": "964801c4-1417-40eb-99a8-4ae2a6f50cdd",
+    "createdAt": "2026-01-28T01:21:23.000Z",
+    "updatedAt": "2026-01-28T01:21:24.000Z",
+    "emailRecipient": "964801c4-1417-40eb-99a8-4ae2a6f50cdd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 113,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 12,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/retail-administrative-assistant-popular-book-company-97a8232fd36f8bbf66f94a8dc6ba40db",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2200,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/97a8232fd36f8bbf66f94a8dc6ba40db"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/97a8232fd36f8bbf66f94a8dc6ba40db/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

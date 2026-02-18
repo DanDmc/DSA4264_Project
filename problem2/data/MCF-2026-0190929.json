@@ -1,0 +1,231 @@
+{
+  "uuid": "c30b7c31523e3073dd7a0e48019df3a5",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer- Senior Embedded Engineer(Automotive / Linux / Tools)",
+  "description": "<p><strong>Company Overview:</strong></p>\n<p>Realtek is a leader in the communications network industry with cutting-edge solutions that power next generation experiences. Each year, more than 2 billion Realtek chips are integrated into products from leading global brands in consumer electronics, peripherals, communications networks, automotive and medical technology. At Realtek, we foster an exciting and inclusive environment that empower teams to collaborate, push boundaries and redefine possibilities.</p>\n<p><strong>Job Summary:</strong></p>\n<p>Join us as an experienced Software Engineer to drive the development of innovative, high-performance automotive products from inception. Play a pivotal role in shaping software architecture, designing embedded software/firmware and tool applications, and enhancing test methodologies. Collaborate with systems design, marketing and customer support teams to ensure our products exceed industry standards in functionality, performance, and reliability.</p>\n<p><strong>Key Responsibilities:</strong></p>\n<p>· Develop and validate software, firmware, tools applications, and/or specialized utility and test programs.</p>\n<p>· Design software architectures that interoperate with standard interfaces and open systems.</p>\n<p>· Engage in all phases of software development – design, coding, unit testing, debugging, integration and release – while meeting key specifications and schedules.</p>\n<p>· Participate in code/design reviews, triage, issue resolution to improve product reliability.</p>\n<p>· Analyse customer needs and system requirements to design and customize software for optimal performance, scalability and interoperability.</p>\n<p>· Provide guidance on technical software design, feasibility with effective documentation.</p>\n<p><strong>Requirements:</strong></p>\n<p>· Bachelor’s / Master’s degree in Engineering, Information Science, Computer Science or related field.</p>\n<p>· Strong understanding of embedded systems fundamentals and computer architecture.</p>\n<p>· 8+ years of working experience in embedded systems development, software architecture.</p>\n<p>· Proficiency in C/C++ and bash scripting, with familiarity in at least one of the following:</p>\n<p>o Python, C#, .NET, WPF, WinForms.</p>\n<p>· Experience in development for and testing on Linux / embedded Linux platforms.</p>\n<p>· Expert proficiency with system debug and analysis tools.</p>\n<p>· Possess good working knowledge of network and communication protocols. e.g., I2C, SPI, MDIO, GPIO, UART, TCP/IP, ETH, Wi-Fi, etc.</p>\n<p>· Independent, self-starter with strong problem-solving and analytical skills.</p>\n<p>· Familiarity with software life cycle development processes and secure coding principles.</p>\n<p><strong>Preferred:</strong></p>\n<p>· Experience in C# GUI app development, tools development incorporating UI/UX.</p>\n<p>· Experience in automation testing and CI/CD tool integration to enhance workflow efficiency.</p>\n<p>· Experience in usage and deployment of emulation platforms for development and debug.</p>\n<p>· Working knowledge of automotive networking and communication technologies.</p>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Embedded Linux",
+      "uuid": "2fa24463d049980716a996200a3ede6d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": ".NET",
+      "uuid": "303cb0ef9edb9082d61bbbe5825d972a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unit Testing",
+      "uuid": "52c56f40f5cd5c0fd7906d7729851a05",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Embedded Systems",
+      "uuid": "826cbbd84c150787b415f21516644eb7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Firmware",
+      "uuid": "a940a548ba41bc988f99d51fd02f21de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Design",
+      "uuid": "c1b8eee14e05c47f56588fb5e842f6e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Systems Design",
+      "uuid": "d3832008797f45e85bfa29bec649a659",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Debugging",
+      "uuid": "da7d763aac39b294c7453c77c10d8239",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0913",
+  "postedCompany": {
+    "uen": "201327138E",
+    "description": "<p>Realtek Semiconductor Corp., located in the Hsinchu Science-based Industrial Park — Taiwan's \"Silicon Valley\" — began with a small group of young, devoted engineers in 1987. Over three decades, these young founding engineers built Realtek into one of the world's largest and most successful IC design houses, providing connectivity solutions in communications network, computer peripheral and multimedia. Realtek employs over 6000 people worldwide, of whom 86% work in research and development. Realtek has sales and R&amp;D teams in China, Japan, Malaysia, Singapore, South Korea, Taiwan, the United States, and Vietnam.</p>\n<p>Realtek's efforts to provide the ultimate in pioneering IC technology — along with its firm commitment to creating unique and innovative designs for a broad range of high-tech applications — have won the company a worldwide reputation and made possible a favorable and consistent growth rate in the years since its establishment. Realtek attributes this achievement to its tradition of excellence.</p>\n<p>Established in 2013, Realtek Singapore Pte Ltd, a wholly-owned subsidiary of Realtek Semiconductor Corporation, serves as the regional headquarter to extend Realtek's R&amp;D capability by attracting talents around the region, and to deepen Realtek's presence and expand business in Southeast Asia. Realtek Singapore has over 150 employees, of which 90% are R&amp;D engineer. Over 60% of Singapore employees joined the company as fresh graduate and mostly graduated from local universities. Realtek Singapore focuses on developing solutions for Internet-of-Things (IoT) applications such as smart home and smart cities, and enterprise wireless AP/routers.</p>\n<p>Employees are Realtek's most important assets. As the pillars of a culture of \"\"Self-confidence and trust in people\"\", they are recognized as the key to Realtek’s success rooted in innovation and teamwork. Realtek employees are empowered with authority and given freedom to make decisions to determine the best methods to approach issues. With supportive management and a blame-free work environment, engineers are encouraged to ask questions, try new things, and not be afraid of failure.</p>\n<p>Realtek engineers stay passionate about their work, which is the key that drives innovation. Today, Realtek is well received for its innovative work in IoT solutions, for which Realtek Singapore plays a pivotal role in product development. As IoT continues to evolve, Realtek sets her eyes on growing Realtek Singapore to become a center of excellence for IoT solutions for smart cities and other applications.</p>\n<h2>SgIS Sponsorship Potential career path and developmental opportunities for SgIS scholars</h2>\n<h2><a href=\"https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/electronics/realtek\">https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/electronics/realtek</a></h2>\n<p>Realtek provides opportunities for personal and professional growth. Realtek’s career development framework provides career development along two general paths – technical and managerial.</p>\n<p>The technical path is designed for those with a passion in technology innovation and driving technical strategy. The managerial path is designed for those with a passion for managing people and running the business.<br>\n<br>\n<img alt=\"image\" src=\"https://www.moe.gov.sg/-/media/sgis/industries/2023-career-paths/realtek.jpg\" width=\"600\"/></p>\n<h2>Preferred courses of study</h2>\n<ul>\n  <li>Engineering (Electrical &amp; Electronic Engineering, Electrical Engineering, Electrical Engineering &amp; Information Technology)</li>\n  <li>Information &amp; Communications Technology (Computer Engineering, Computer Science)</li>\n</ul>",
+    "name": "REALTEK SINGAPORE PRIVATE LIMITED",
+    "ssicCode": "72102",
+    "employeeCount": null,
+    "companyUrl": "https://www.realtek.com/en/",
+    "lastSyncDate": "2026-01-30T08:24:33.000Z",
+    "ssicCode2020": "72102",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327138E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327138E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327138E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201327138E/schemes"
+      }
+    },
+    "logoFileName": "e3ef190756863703f78f0ecd090222b6/realtek-singapore.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e3ef190756863703f78f0ecd090222b6/realtek-singapore.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "INTERNATIONAL BUSINESS PARK",
+    "floor": null,
+    "unit": null,
+    "building": "THE STRATEGY",
+    "postalCode": "609930",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33024990114949,
+    "lng": 103.747268411696
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190929",
+    "deletedAt": null,
+    "createdBy": "4df7def4-8d6f-4928-89bc-fbd684433fed",
+    "createdAt": "2026-01-30T09:39:22.000Z",
+    "updatedAt": "2026-01-30T09:39:21.000Z",
+    "emailRecipient": "4df7def4-8d6f-4928-89bc-fbd684433fed",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 108,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/software-engineer-senior-embedded-engineer-realtek-singapore-c30b7c31523e3073dd7a0e48019df3a5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c30b7c31523e3073dd7a0e48019df3a5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c30b7c31523e3073dd7a0e48019df3a5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

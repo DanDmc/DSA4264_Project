@@ -1,0 +1,218 @@
+{
+  "uuid": "4f915db68f241bd952be0725f953b1f1",
+  "sourceCode": "Employer Portal",
+  "title": "Lorry Driver & Installation Technician",
+  "description": "<ul><li><p>Operate company lorry safely and responsibly in accordance with Singapore traffic regulations (Class 4 Driving License required).</p></li><li><p>Deliver products to customer sites, warehouses, and project locations.</p></li><li><p>Assist with loading and unloading of goods, ensuring proper handling and securing of items.</p></li><li><p>Perform basic on-site installation of products at customer premises (simple mechanical assembly, positioning, and setup).</p></li><li><p>Support technicians or engineers during installation and servicing activities when required. </p></li><li><p>Conduct basic functional checks after installation and report any issues to the supervisor.</p></li><li><p>Maintain delivery records, job sheets, gate passes, and installation checklists.</p></li><li><p>Comply with company safety procedures and customer site regulations at all times.</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Class 4 Driving License",
+      "uuid": "01bcb67fbe1b92ca47f3f8afca8e4a99",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Mechanical Assembly",
+      "uuid": "1c19598c7fae48ec68188a77d9dd6d83",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Wiring",
+      "uuid": "441b65c8a62ed7904574ee78c84b0963",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Access Control",
+      "uuid": "8aaaedc342a0dce1d73d33f3fb69a2af",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Driving License",
+      "uuid": "a4592ee426ef7fb55c2167fef2f85796",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cabling",
+      "uuid": "d223aabe6d0751ac7fb17d3493f3c6c7",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31153",
+  "occupationId": "OCC005634",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1299",
+  "postedCompany": {
+    "uen": "200606987G",
+    "description": "<p>\r\n\tENTI PTE. LTD is trading company</p>\r\n",
+    "name": "ENTI PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T08:14:36.000Z",
+    "ssicCode2020": "28169",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606987G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606987G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606987G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200606987G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "11",
+    "street": "WOODLANDS CLOSE",
+    "floor": null,
+    "unit": null,
+    "building": "WOODLANDS 11",
+    "postalCode": "737853",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43475840297335,
+    "lng": 103.802721060156
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0173707",
+    "deletedAt": null,
+    "createdBy": "44b50239-b2d4-45cf-9fb7-0d241c02d06b",
+    "createdAt": "2026-01-28T05:10:11.000Z",
+    "updatedAt": "2026-01-28T05:10:11.000Z",
+    "emailRecipient": "44b50239-b2d4-45cf-9fb7-0d241c02d06b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/lorry-driver-installation-technician-enti-4f915db68f241bd952be0725f953b1f1",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4f915db68f241bd952be0725f953b1f1"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4f915db68f241bd952be0725f953b1f1/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

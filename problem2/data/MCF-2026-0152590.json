@@ -1,0 +1,221 @@
+{
+  "uuid": "2a310e013af6ff085e6a95b35c3bf1d9",
+  "sourceCode": "Employer Portal",
+  "title": "WALL TILER",
+  "description": "<p>1.Create decorative wall and floor designs by laying and setting mosaic tiles.</p><p>2.Cut and shape tiles to fit around obstacles and in tight corners.</p><p>3.Align tiles and straighten them using tools like levels and squares.</p><p>4.Prepare surfaces for tiling and ensure accuracy during installation.<br /><br />5.Prepare various surfaces for tiling with waterproofing material or lath and by cleaning the surfaces properly</p><p>6.Create decorative wall and floor designs by laying and setting mosaic tiles in kitchens, bathrooms and living rooms</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Textiles",
+      "uuid": "2c001b115e40ac704909fb7c00487d2d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Textile Art",
+      "uuid": "2fb5f399559b5bfc50e4a127eed7a67b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ceramic Tile",
+      "uuid": "5a1182b2d2ac7f5260e048374e28eaa8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apache Tiles",
+      "uuid": "5d61bd1615a845f7df5251500b3f4621",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tile-laying",
+      "uuid": "7b9daf3ded10ccd2821b1f32eca2dcf8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Textiles",
+      "uuid": "7f55a50fc7e2b5041f9a45def6b7e8d1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiling",
+      "uuid": "882f95e0bfc23adba463152175e43e5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Percentile",
+      "uuid": "915b56c00229b328af95134410779d20",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tiles",
+      "uuid": "a67f2c9d056f29b94521c17b838b9756",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Waterproofing",
+      "uuid": "b398d126cf83089e8f32d01bc3952697",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Textile Design",
+      "uuid": "b56f93cea8e1ebf219392c619184e6db",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Textile technology",
+      "uuid": "c282df0560e5eaa04c4e970a28897860",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "71220",
+  "occupationId": "OCC009931",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "21",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201415753R",
+    "description": null,
+    "name": "THE CHRYSALLID PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-25T03:20:24.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201415753R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201415753R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201415753R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201415753R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "SOON LEE STREET",
+    "floor": null,
+    "unit": null,
+    "building": "PIONEER POINT",
+    "postalCode": "627607",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33384318239259,
+    "lng": 103.698856274639
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0152590",
+    "deletedAt": null,
+    "createdBy": "29e23157-2fb6-4c02-b59f-28fe4e7653be",
+    "createdAt": "2026-01-25T03:26:57.000Z",
+    "updatedAt": "2026-01-25T03:26:57.000Z",
+    "emailRecipient": "29e23157-2fb6-4c02-b59f-28fe4e7653be",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 45,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-15",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/wall-tiler-chrysallid-2a310e013af6ff085e6a95b35c3bf1d9",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4800,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a310e013af6ff085e6a95b35c3bf1d9"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/2a310e013af6ff085e6a95b35c3bf1d9/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

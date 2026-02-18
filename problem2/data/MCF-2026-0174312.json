@@ -1,0 +1,238 @@
+{
+  "uuid": "9a30ab9a69542c778def8ddc791c1181",
+  "sourceCode": "Employer Portal",
+  "title": "Automation Engineer",
+  "description": "<p><strong>About the Role</strong></p><p>We are hiring an Automation Engineer who\nspecializes in Ansible to automate provisioning, configuration management, and\ninfrastructure orchestration across hybrid environments.</p><p><strong>Key Responsibilities</strong></p><p>·       \nDevelop and maintain Ansible\nplaybooks, roles, and automation pipelines</p><p>·       \nAutomate OS patching,\nconfiguration, compliance, and hardening</p><p>·       \nIntegrate Ansible into CI/CD\nworkflows and infrastructure pipelines</p><p>·       \nMaintain inventory, secrets,\nand automation governance standards</p><p>·       \nTroubleshoot automation\nfailures and drive continuous improvement</p><p>·       \nSupport IaC and infrastructure\nautomation initiatives</p><p><strong>Requirements</strong></p><p>·       \n3+ years of automation or\nconfiguration management experience</p><p>·       \nStrong hands-on Ansible\nexpertise (playbooks, roles, modules)</p><p>·       \nProficiency with Linux/Windows\nsystem administration</p><p>·       \nScripting skills in Python or\nShell</p><p>·       \nUnderstanding of cloud\nplatforms (Azure/AWS)</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "PLC",
+      "uuid": "7a7b6b49e8183cc144d9d1a8dc9df8b6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Automation",
+      "uuid": "7e636b60d041a7a4c38232c3a2830397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Configuration Management",
+      "uuid": "a4934331bbf896399132d3d20f141ef3",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Selenium",
+      "uuid": "c49dfb55f06bb406e2c5ca786f557d38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ansible",
+      "uuid": "d51d5ee15f404c2f4f7863bebcde1fac",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Commissioning",
+      "uuid": "f16024549f6c8ab5cf5c206146e6abb4",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21413",
+  "occupationId": "OCC003139",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "201719238H",
+    "description": "<p>LeapThought is a leading provider of strategic consulting services and business technology solutions focused on driving transformational outcomes.</p>\n<p><br></p>\n<p>We design and build platforms that enable businesses to be more efficient and deliver frictionless experiences for more customers.</p>\n<p><br></p>\n<p>Everyday, tens of thousands of New Zealanders use services developed by LeapThought to manage essential daily activities - from booking transport and paying power bills to interacting with their local council.</p>\n<p><br></p>\n<p>Our core philosophy of do it once reflects how common problems can be tackled with repeatable frameworks and accelerators. This makes better technology solutions that more accessible and are more cost effective for everyone.</p>\n<p><br></p>\n<p>We advocate and follow an inclusive \"business driven\" approach at all times connecting the strategic, operational and technical viewpoints together to ensure our on-going success in delivering results for our customers. While we are \"agile\" we easily fit in with our customer preferences in terms of methodologies, standards and tools.</p>\n<p><br></p>\n<p>We are privately held and based in New Zealand with offices in Auckland, Singapore, Sydney and Hyderabad, India.</p>",
+    "name": "LEAPTHOUGHT ASIA PTE. LTD.",
+    "ssicCode": "62011",
+    "employeeCount": null,
+    "companyUrl": "https://www.leapthought.co.nz/about-us.html",
+    "lastSyncDate": "2026-02-03T13:45:30.000Z",
+    "ssicCode2020": "62011",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201719238H/schemes"
+      }
+    },
+    "logoFileName": "1d9d1498dc3fbdd2896c8ede818426f5/leapthought-asia.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/1d9d1498dc3fbdd2896c8ede818426f5/leapthought-asia.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "160",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "SINGAPORE BUSINESS FEDERATION CENTER",
+    "postalCode": "068914",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27812790985949,
+    "lng": 103.847854628243
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174312",
+    "deletedAt": null,
+    "createdBy": "cef68b1e-a8d0-40cc-b6d9-a855e0eb3de8",
+    "createdAt": "2026-01-28T06:22:01.000Z",
+    "updatedAt": "2026-01-28T06:22:01.000Z",
+    "emailRecipient": "cef68b1e-a8d0-40cc-b6d9-a855e0eb3de8",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 64,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-18",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/automation-engineer-leapthought-asia-9a30ab9a69542c778def8ddc791c1181",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 8500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a30ab9a69542c778def8ddc791c1181"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9a30ab9a69542c778def8ddc791c1181/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

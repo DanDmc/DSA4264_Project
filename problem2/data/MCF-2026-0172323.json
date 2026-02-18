@@ -1,0 +1,235 @@
+{
+  "uuid": "22e7db19418a5fe6e58ba33ceea77e53",
+  "sourceCode": "Employer Portal",
+  "title": "IAM Engineer",
+  "description": "<p>The Identity and Access Management (IAM) Engineer is responsible for designing, implementing, and supporting secure access solutions for external clients, ensuring alignment with their business and security objectives. This role collaborates closely with client stakeholders and internal teams to deploy scalable identity governance and access control systems. The IAM Engineer maintains a deep understanding of IAM technologies, compliance requirements, and client environments to deliver tailored, high-impact solutions that enhance security and operational efficiency across diverse platforms.</p><p><u>Responsibilities:</u></p><p>• Perform technical support of IAM solutions; support issues reported by users and perform fixes, ensuring that the system is properly maintained.</p><p>• Ensure the stability, health, and performance of IAMS implementation and make sure SLA requirements are met.</p><p>• Coordinate with customer’s vendor team, internal support and technical team on problem resolution, implementation issues and upgrades; making sure services are available and ensuring minimal disruption to the system</p><p>• Participate in new application on-boarding and change implementation deployment tasks:</p><p>o Develop documentations (requirement, design, test cases & verification results, user guides, etc.)</p><p>o Adapter deployment and configuration; configure IAM product, workflow, and application integrations</p><p>o Assist in development of integration modules/ custom adapters, extensions, or customisations for IAM products</p><p>o Assist in development of scripts and tools for data migration (data checking, cleansing, transformation, merging, loading, reconciliation)</p><p>o Perform IAM system patching and upgrades</p><p>• Demonstrate experience troubleshooting complex multi-tiered application architectures with disparate middleware technologies</p><p>• Create and maintain documentation for changes performed installations/ upgrades/ deployment steps carried out.</p><p><u>Requirements:</u></p><p>• Bachelor’s degree in Information Technology, Cybersecurity, Information Security, Computer Science, or related field</p><p>• 2 to 4 years of experience in IAM domain with hands-on experience in developing, implementing, or architecting SailPoint Identity Security Cloud (IdentityNow) solutions</p><p>• 1 to 2 years of experience with technical architecture, including integrating identity management and access governance software</p><p>• Hands-on knowledge and technical implementation experience in the following:</p><p>o IAM best practices, procedures, tools, and software solutions such as IBM Security Verify,</p><p>SailPoint (including IdentityIQ), Deep Identity, Saviynt, ForgeRock, CyberArk etc o Technical proficiency in one or more programming languages such as Java, Java EE, JSON,</p><p>C++, Python, JavaScript, SQL, and C# o Database, SQL, LDAP, web services, and working with Windows or Linux operating systems o Cloud platforms such as Amazon Web Services (AWS)</p><p>• Familiarity with ITSM tools such as ServiceNow and Jira</p><p>• Understanding of Operating Systems (Windows, Unix, Linux)</p><p>• Practical experience in deployment, implementation, integration and administration support of IAM systems including:</p><p>o User Lifecycle Management o Identity and Access Governance o Single Sign-On (SSO) o Multi-Factor Authentication (MFA) o Federation o Session Management o Password management o Privilege Access Management (PAM) o Cloud Application Access Management</p><p>• Knowledge of OutSystems is advantageous but not mandatory</p><p>• Ability to deal with changing priorities, multi-task, perform under pressure, and be a strong team player</p><p>• Self-motivated with a positive “can-do” attitude, passionate on problem solving and willingness in picking up new skillsets</p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Problem Solving",
+      "uuid": "6a03a97072a01181059654e8389b992e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unix",
+      "uuid": "6ec1bd1ea6a5d67a63b20c8f6172bddd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Operating Systems",
+      "uuid": "aab338915e32b60e92c8de3a23aa5c5d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "200811928E",
+    "description": "<p>\r\n\tINTELLECT MINDS PTE. LTD.</p>\r\n",
+    "name": "INTELLECT MINDS PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T03:03:18.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200811928E/schemes"
+      }
+    },
+    "logoFileName": "7631dadac69fcf44a79ea90ff9dced1c/intellect-minds.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7631dadac69fcf44a79ea90ff9dced1c/intellect-minds.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "750A",
+    "street": "CHAI CHEE ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "ESR BIZPARK @ CHAI CHEE",
+    "postalCode": "469001",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.3229782024827,
+    "lng": 103.922124606113
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172323",
+    "deletedAt": null,
+    "createdBy": "78199c2a-a324-4ae7-95a1-8a88c51ef1c7",
+    "createdAt": "2026-01-28T02:43:14.000Z",
+    "updatedAt": "2026-01-28T02:43:14.000Z",
+    "emailRecipient": "78199c2a-a324-4ae7-95a1-8a88c51ef1c7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/iam-engineer-intellect-minds-22e7db19418a5fe6e58ba33ceea77e53",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 6000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/22e7db19418a5fe6e58ba33ceea77e53"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/22e7db19418a5fe6e58ba33ceea77e53/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

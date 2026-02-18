@@ -1,0 +1,223 @@
+{
+  "uuid": "7434729d7ee628de81eb19f11968ba0d",
+  "sourceCode": "Employer Portal",
+  "title": "Videographer",
+  "description": "<p>- Assist and main shooting for wedding day<br />- Pre shoot planning (moodboard, storyboarding etc)<br />- Client management (meetings, deadline management)<br />- On site shooting (shooting, equipment & gears planning)<br />- Post shoot processing (culling, editing, colour grading, music selection etc)<br /></p><p>- Candidate to have basic knowledge in camera gears and editing programme such as Premiere Pro</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Media Production",
+      "uuid": "2666b9f1e2b30562571cfbdb7d9adda0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lighting",
+      "uuid": "2e4b97fde8cf63085ec969fcc7e490c0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Videography",
+      "uuid": "398f9658384d6f09f95ff80a03df4ed4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Premiere",
+      "uuid": "3ae5cd686076ec42d902f2e874008a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adobe Premiere Pro",
+      "uuid": "5cb4bb6abc2a38191cc43c7b893ed426",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Video Production",
+      "uuid": "60913e95848330a2c4a5d921e7c8bb14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Camera",
+      "uuid": "967d35e40f3f95b1f538bd248640bf3b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Photography",
+      "uuid": "a2a5c33eda9046576764de2400b1aa50",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Film",
+      "uuid": "bae9023301664a3ea829a63c67d6f882",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Video Editing",
+      "uuid": "bfed5afdfd99d2191e7397110a6b5f3e",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Videographer",
+      "uuid": "ee07410558e90c12f1a872fe32d2fc72",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Storyboarding",
+      "uuid": "fa3f91a6482de04fa465162d0852d9bd",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "26544",
+  "occupationId": "OCC004883",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 3,
+      "category": "Advertising / Media"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0239",
+  "postedCompany": {
+    "uen": "201730187R",
+    "description": null,
+    "name": "SMITTENPIXELS CO PTE. LTD.",
+    "ssicCode": "74200",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T05:00:26.000Z",
+    "ssicCode2020": "74200",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201730187R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201730187R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201730187R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201730187R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "417A",
+    "street": "FERNVALE LINK",
+    "floor": null,
+    "unit": null,
+    "building": "FERNVALE RIVERWALK",
+    "postalCode": "791417",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 28,
+        "location": "D28 Seletar",
+        "region": "North",
+        "sectors": [
+          "79",
+          "80"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.39157738825823,
+    "lng": 103.880681615474
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166405",
+    "deletedAt": null,
+    "createdBy": "afb62f79-4d4d-4225-9b5a-080b19551827",
+    "createdAt": "2026-01-27T06:36:41.000Z",
+    "updatedAt": "2026-01-27T06:36:42.000Z",
+    "emailRecipient": "afb62f79-4d4d-4225-9b5a-080b19551827",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 63,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/advertising/videographer-smittenpixels-7434729d7ee628de81eb19f11968ba0d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3300,
+    "minimum": 2600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7434729d7ee628de81eb19f11968ba0d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/7434729d7ee628de81eb19f11968ba0d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

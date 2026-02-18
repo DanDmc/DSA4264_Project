@@ -1,0 +1,247 @@
+{
+  "uuid": "8056988f4c45a6e2282a08f84576e1a7",
+  "sourceCode": "Employer Portal",
+  "title": "CUSTOMER SERVICE ASSISTANT",
+  "description": "<p>The perfect candidate for this job will have excellent communication and customer service skills, the ability to stay calm under pressure, and the ability to work independently. </p><p><strong>Responsibilities:</strong></p><ul><li>Interact with customers in a  friendly and professional manner.</li><li>Handle customer inquiries and complaints.</li><li>Provide customers with information about products and services.</li><li>Process customer orders andpayments.</li><li>Update customer accounts.</li><li>Resolve customer service issues.</li><li>Refer customers to other departments as necessary.</li><li>Maintain confidentiality of customer information.</li></ul><p><strong>Qualifications:</strong></p><ul><li>Relevant experience as a customer service or related role</li><li>Excellent communication and  interpersonal skills</li><li>A positive, can-do attitude</li><li>The ability to stay calm under pressure</li><li>Basic computer skills</li></ul>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Service Skills",
+      "uuid": "0032fa9bde2b0db7dac73fbdcd4ca881",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ability To Work Independently",
+      "uuid": "3d29cf9db6f7b6ec9a858e7b90a61c14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Outsourcing",
+      "uuid": "421676a5f89101900835f44561985964",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stay Calm Under Pressure",
+      "uuid": "4aecb7078d6dae9dca2cab75279e81b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cashiering",
+      "uuid": "ba19ca0acb9d715e70062bb4f28db0bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Oriented",
+      "uuid": "bbc6c65878bbeca807143d90dc1d1fca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "42245",
+  "occupationId": "OCC009125",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "53485338B",
+    "description": null,
+    "name": "MARTINO AGENCY",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:02:14.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53485338B"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53485338B/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53485338B/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53485338B/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": {
+    "uen": "202038840C",
+    "description": "<p>Subway is a fast growing healthier fast-food restaurant chain that offers affordable sandwiches, wraps, salads, soups, snacks and beverages.</p>",
+    "name": "SALUBRITY FIT PTE. LTD.",
+    "ssicCode": "56121",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T05:50:27.000Z",
+    "ssicCode2020": "56121",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202038840C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202038840C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202038840C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202038840C/schemes"
+      }
+    },
+    "logoFileName": "dbd3f5c42e1cd1eb0b38cdfc781b2f50/salubrity-fit.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/dbd3f5c42e1cd1eb0b38cdfc781b2f50/salubrity-fit.png"
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0177288",
+    "deletedAt": null,
+    "createdBy": "dc4a26ec-87bd-44c1-9371-a5d885aafea4",
+    "createdAt": "2026-01-28T10:54:39.000Z",
+    "updatedAt": "2026-01-28T10:54:39.000Z",
+    "emailRecipient": "dc4a26ec-87bd-44c1-9371-a5d885aafea4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 114,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-11",
+    "totalNumberJobApplication": 24,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/customer-service-assistant-salubrity-fit-8056988f4c45a6e2282a08f84576e1a7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8056988f4c45a6e2282a08f84576e1a7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/8056988f4c45a6e2282a08f84576e1a7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

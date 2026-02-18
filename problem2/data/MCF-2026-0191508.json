@@ -1,0 +1,193 @@
+{
+  "uuid": "10d47334bb55e3eb42cffe8930244feb",
+  "sourceCode": "Employer Portal",
+  "title": "Engineer",
+  "description": "<p><strong>Job Description &amp; Requirements</strong></p>\n<p>• Knowledge ofengineering fundamentals and practices</p>\n<p>• Ability to draft and design plans and schematics</p>\n<p>• Strong analytical and problem-solving skills</p>\n<p>• Technical project management skills and experience</p>\n<p>• Excellent communication skills</p>\n<p>• Ability to design and test systems</p>\n<p>• Knowledge of the latest trends and technologies</p>\n<p> Engineers are tasked with several key responsibilities that ensure the efficiency and safety of systems. </p>\n<p><br></p>\n<p>These include:</p>\n<ul>\n  <li>Designing, developing, and testing electrical equipment and systems, focusing on safety, efficiency, and reliability.</li>\n  <li>Analyzing  systems and components to identify hazards, defects, or the need for adjustment or repair, and to ensure compliance with codes.</li>\n  <li>Directing and coordinating manufacturing, construction, installation, maintenance, support, documentation, and testing activities to ensure compliance with specifications, codes, and customer requirements.</li>\n  <li>Performing detailed calculations to establish standards and specifications.</li>\n  <li>Using computer-assisted engineering and design software and equipment to perform engineering tasks.</li>\n  <li>Preparing specifications for purchases of all type of equipment and materials.</li>\n  <li>Supervising or training project team members as necessary.</li>\n  <li>Estimating material, labor, or construction costs for budget preparation purposes.</li>\n</ul>\n<p>Requirements:</p>\n<p>To qualify for a position as an Engineer, candidates must meet specific educational and certification standards:</p>\n<ul>\n  <li>No formal Education is required.</li>\n</ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Excellent Communication Skills",
+      "uuid": "0720b6afb8ec48831c9b1b6b847d03e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electronics",
+      "uuid": "ee3c6e8ed9c27c45f161ea416c997df8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Support",
+      "uuid": "fec5f90e9985e1f7b8cc6752739ce9b1",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202209550Z",
+    "description": null,
+    "name": "LDRM ENTERPRISES PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T07:09:26.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202209550Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202209550Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202209550Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202209550Z/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191508",
+    "deletedAt": null,
+    "createdBy": "c25b7823-23b6-44bd-a242-72831db68f03",
+    "createdAt": "2026-01-30T11:14:33.000Z",
+    "updatedAt": "2026-01-30T11:14:32.000Z",
+    "emailRecipient": "c25b7823-23b6-44bd-a242-72831db68f03",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 55,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-20",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/engineer-ldrm-enterprises-10d47334bb55e3eb42cffe8930244feb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6400,
+    "minimum": 3200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/10d47334bb55e3eb42cffe8930244feb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/10d47334bb55e3eb42cffe8930244feb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

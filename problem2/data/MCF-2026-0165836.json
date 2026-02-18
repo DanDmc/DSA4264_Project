@@ -1,0 +1,265 @@
+{
+  "uuid": "74aa79a123e2bbba48ee5187509be0b8",
+  "sourceCode": "Employer Portal",
+  "title": "HEAD CHEF",
+  "description": "<p>As a head chef you will be responsible for everything that goes on in your employer’s kitchen. Not only will you be required to oversee all dishes from start to finish, you are also tasked with hiring and firing employees, meeting health and safety standards and dreaming up new recipes for the restaurant you work in.</p><p>If you love to cook, enjoy being creative and relish the challenges that come with responsibility, read on to learn more about becoming a head chef.</p><p>REQUIREMENTS</p><p>A candidate who wants to become a head chef must acquire on the job training which is most important for career progress and advancement in the path of becoming a head chef.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Recipes",
+      "uuid": "0153a1e369e543364edb1e75ceff1173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sanitation",
+      "uuid": "7601b0e392e9ab0c3ff500ae9f721281",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Payroll",
+      "uuid": "78ab6f0d8938f25e8423becda002c514",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Restaurant Management",
+      "uuid": "93ad8d75ddf88ce2860fcc18cd29c536",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Climate",
+      "uuid": "96ebd2bde492267ceaf5b922f2b54598",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Finish",
+      "uuid": "a20ddccbb6f808ec42cd66323e6c6061",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Nutrition",
+      "uuid": "cf6586f786c56ead1647fd78046397cd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Directing",
+      "uuid": "e4cd679200984e0c39322c0c9bd226e2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "34341",
+  "occupationId": "OCC009291",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "91",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "202408081G",
+    "description": null,
+    "name": "JAO FAH SERVICES SINGAPORE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T06:49:11.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408081G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408081G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408081G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202408081G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "202039431W",
+    "description": "<p>Welcome to At The Park Experiences, a place with multiple dining offers of Chinese Seafood and Cuisines, Western dishes, Lok Lok &amp; charcoal grilled Satay stall.</p>",
+    "name": "ATP EXPERIENCES PTE. LTD.",
+    "ssicCode": "56111",
+    "employeeCount": null,
+    "companyUrl": "www.attheparksg.com",
+    "lastSyncDate": "2026-01-27T05:28:15.000Z",
+    "ssicCode2020": "56111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202039431W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202039431W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202039431W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202039431W/schemes"
+      }
+    },
+    "logoFileName": "f1994b735b0bd0de157b4dfd03aca2c7/atp-experiences.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f1994b735b0bd0de157b4dfd03aca2c7/atp-experiences.png"
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "27",
+    "street": "FABER DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "FABER HILLS",
+    "postalCode": "129357",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.31858571020699,
+    "lng": 103.758208588059
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165836",
+    "deletedAt": null,
+    "createdBy": "1372734f-06d6-4fed-bfa9-ed2b8b22bdb9",
+    "createdAt": "2026-01-27T05:36:54.000Z",
+    "updatedAt": "2026-01-27T05:36:54.000Z",
+    "emailRecipient": "1372734f-06d6-4fed-bfa9-ed2b8b22bdb9",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 40,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/head-chef-atp-experiences-74aa79a123e2bbba48ee5187509be0b8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/74aa79a123e2bbba48ee5187509be0b8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/74aa79a123e2bbba48ee5187509be0b8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

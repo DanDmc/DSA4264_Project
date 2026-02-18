@@ -1,0 +1,208 @@
+{
+  "uuid": "5947db2510032f05583c72d0a091fd6f",
+  "sourceCode": "Employer Portal",
+  "title": "3 months HR - Researcher (Internship)",
+  "description": "<p><strong>Job Summary</strong></p><p>You will work under the guidance of the Managing Partner(s) to support recruitment activities by analyzing job requisitions, identifying suitable candidates, engaging candidates to understand their motivations, and preparing interview materials.</p><p><strong>Responsibilities</strong></p><ul><li>Analyze new job requisitions to identify key candidate requirements and prioritize candidate fit</li><li>Research and source potential candidates based on job criteria and client needs</li><li>Conduct conversations with candidates to assess their motivations and career priorities</li><li>Recommend appropriate next steps for candidates based on their profile and interests</li><li>Prepare clear and concise interview preparation write-ups to support the hiring process</li><li>Develop interpersonal communication skills through regular candidate and team interactions</li></ul><p><strong>Required competencies and certifications</strong></p><ul><li>Minimum GCE 'A' Level qualification</li><li>Ability to commit to a minimum 3-month engagement period</li></ul><p><br />Jerlin Aw Bi Zhi (R1218675) | CSGROUP PTE. LTD. (25C2702)</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Communication",
+      "uuid": "07a3dd247ad6bec7fe401aa11619959f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "eCommunications",
+      "uuid": "48ae312961b841c6a4ac1dc04413bdf2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "recruitment agency",
+      "uuid": "7692e142d2d572c8fc8706ecb7321dbe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Word",
+      "uuid": "99bf759398c1e3eb29bef7edd71e7777",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "recruitment cycle",
+      "uuid": "9fa653769b8b58f0dd8e62678b43c59d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "admin support",
+      "uuid": "a6ca36e22e6167f06afe0b98e7b85bf0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excel",
+      "uuid": "c1d81af5835844b4e9d936910ded8fdc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Recruitment",
+      "uuid": "e1de43dd18d19451febfc1584ab33767",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Excellent Interpersonal Communication Skills",
+      "uuid": "e1ef5f87db92c555c5644ae4d5e3523a",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24232",
+  "occupationId": "OCC007586",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 20,
+      "category": "Human Resources"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 10,
+      "employmentType": "Internship/Attachment"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "41",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202449285H",
+    "description": null,
+    "name": "CSGROUP PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T04:13:02.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202449285H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202449285H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202449285H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202449285H/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "RAFFLES PLACE",
+    "floor": null,
+    "unit": null,
+    "building": "ONE RAFFLES PLACE",
+    "postalCode": "048616",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28434954622309,
+    "lng": 103.851072545834
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0163053",
+    "deletedAt": null,
+    "createdBy": "45a9cb7e-301e-407e-857a-3f71f00cc8ac",
+    "createdAt": "2026-01-27T01:18:08.000Z",
+    "updatedAt": "2026-01-27T01:18:08.000Z",
+    "emailRecipient": "45a9cb7e-301e-407e-857a-3f71f00cc8ac",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 91,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 7,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/human-resources/3-months-hr-researcher-csgroup-5947db2510032f05583c72d0a091fd6f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 800,
+    "minimum": 700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5947db2510032f05583c72d0a091fd6f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5947db2510032f05583c72d0a091fd6f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

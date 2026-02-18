@@ -1,0 +1,214 @@
+{
+  "uuid": "38721ff32994280e7b8c03439020cf44",
+  "sourceCode": "Employer Portal",
+  "title": "Staff Data Platform Engineer",
+  "description": "<h3><strong>Staff Data Platform Engineer, Singapore</strong></h3><h3></h3><p>Airwallex is the leading financial technology platform for modern businesses growing beyond borders. With one of the world’s most powerful payments and banking infrastructures, our technology empowers businesses of all sizes to accept payments, move money globally, and simplify their financial operations, all in one single platform.</p><p>Established in 2015 in Melbourne, we aim to connect entrepreneurs, business builders, makers, and creators with opportunities in every corner of the world. Today, Airwallex has a global footprint across Asia-Pacific, Europe, and North America.</p><p><br /><br /></p><p><strong>The Role:</strong><br /></p><p>As a leader level data expert, you will oversee the strategy, architecture, development, and operation of Airwallex's data and AI platforms. You will play a pivotal role in influencing data-driven and AI-powered decision-making processes. A key aspect of your role will also include building a high-performing team that excels in a fast-paced environment. Your leadership will be critical in mentoring the team, promoting a culture of innovation, and driving technical excellence.<br /></p><p><strong>Responsibilities：</strong></p><ul><li>Spearheaded the identification and resolution of Airwallex-wide challenges using cutting-edge data platform solutions.</li><li>Provide visionary technical direction, fostering a community within Airwallex's data realm, and actively leading in solving complex problems hands-on.</li><li>Advocate for best practices across the data platform, instilling a culture of craftsmanship and innovation.</li><li>Mentor the data platform team, nurturing both technical and professional development.</li></ul><p></p><p><strong>Minimum Requirements:</strong></p><ul><li>A minimum of 8 years of experience in Data Platform or an equivalent combination of work and academic exposure in a quantitative field.</li><li>Proven experience leading company-wide initiatives across multiple teams or influencing tech roadmap planning.</li><li>Effective collaboration with diverse teams and stakeholders to drive tangible business outcomes.</li><li>Demonstrated ability to balance execution and velocity with in-depth research, statistical understanding, and scalable design.</li><li>Track record of mentoring and investing in the development of scientists, engineers, and peers.</li><li>Experience providing technical leadership on significant projects, covering ETL frameworks, metrics stores, infrastructure management, and data security.</li><li>Proficiency in building, deploying, and maintaining reliable multi-geographical data pipelines at scale.</li><li>Familiarity with workflow or orchestration frameworks such as Airflow, DBT, etc.</li></ul><p></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Hands-on design experience in crafting data processing patterns for a modern Lakehouse architecture.</li><li>Contribute to the design and development of standard framework modules, high-performance services, and client libraries for big data using tools like GCP, Databricks, BigQuery, DataProc, Kafka, Kubernetes, Spark, DataFlow, Google Cloud Storage, and Airflow.</li><li>Excellent written and verbal communication skills tailored for diverse audiences (leadership, users, company-wide).</li><li>Ability to rapidly evaluate various technologies and conduct proof of concepts to drive architecture design.</li><li>Experience thriving in a complex environment.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Requirements Gathering",
+      "uuid": "1723b433914d54481e91978db672d057",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Airflow",
+      "uuid": "2528f15a184a14d75d2e092e396dd03e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Apache Spark",
+      "uuid": "2a867b5e713285837efabc1785438e91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kubernetes",
+      "uuid": "30136395f01879792198317c11831ea4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Big Data",
+      "uuid": "3a9c1c8521b12754fc7582be72383e28",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Direction",
+      "uuid": "65dcf923e8b92b55c7f6cac960849fd9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ETL",
+      "uuid": "6d60d8638479618e2114d37a7be726ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Google Cloud",
+      "uuid": "bbc8a77007b660af585cca528771f800",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GCP",
+      "uuid": "c731f72e1d22a7c5e01a7cb789a8885e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Technical Leadership",
+      "uuid": "d54f15f3c6e8d607c7c90d6de015217e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21222",
+  "occupationId": "OCC013822",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "201626561Z",
+    "description": "<p>Airwallex facilitates the transformation of businesses from offline to online, from local to global. Airwallex was built with a single purpose in mind – to create a world where all businesses can operate without borders and restrictions, and by doing so, propel the growth of the global digital economy.</p>",
+    "name": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "ssicCode": "64999",
+    "employeeCount": null,
+    "companyUrl": "airwallex.com",
+    "lastSyncDate": "2026-02-04T01:47:31.000Z",
+    "ssicCode2020": "64999",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201626561Z/schemes"
+      }
+    },
+    "logoFileName": "cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/cd5b835cf59e9538cac1b777f8230476/airwallex.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1975816",
+    "deletedAt": "2026-01-24T17:15:04.000Z",
+    "createdBy": "8414f255-1bf9-46ee-9b74-b47a9759496c",
+    "createdAt": "2025-12-25T08:07:55.000Z",
+    "updatedAt": "2026-01-29T08:36:32.000Z",
+    "emailRecipient": "8414f255-1bf9-46ee-9b74-b47a9759496c",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 296,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2025-12-25",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 23,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/staff-data-platform-engineer-airwallex-38721ff32994280e7b8c03439020cf44",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 28000,
+    "minimum": 15000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/38721ff32994280e7b8c03439020cf44"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/38721ff32994280e7b8c03439020cf44/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

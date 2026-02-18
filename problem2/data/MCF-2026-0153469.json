@@ -1,0 +1,197 @@
+{
+  "uuid": "e1a4f6d110b8b438e3a404f6316de431",
+  "sourceCode": "Employer Portal",
+  "title": "TCM Physician/Therapist Trainer",
+  "description": "<p><strong>Job Description:</strong></p>\n<p>We are seeking an experienced and dynamic Trainer. The ideal candidate should possess a solid foundation in TCM principles, coupled with expertise in delivering effective training programs for healthcare professionals. As a TCM Physician/Therapist Trainer, you will be instrumental in enhancing the clinical and therapeutic skills of practitioners through targeted training initiatives.</p>\n<p><strong>Job Responsibilities:</strong></p>\n<p>- Develop, design, and implement specialized training programs for TCM physicians and therapists.</p>\n<p>- Create engaging and interactive training materials tailored to the specific needs of the participants.</p>\n<p>- Integrate hands-on exercises and case studies to enhance real-world application.</p>\n<p>- Innovate and update training curriculum to align with industry best practices.</p>\n<p>- Implement quality assurance measures to assess the effectiveness of training programs.</p>\n<p><strong>Job Requirements:</strong></p>\n<p>- Preferably Bachelor's Degree in TCM or equivalent related qualification.</p>\n<p>- Additional certifications or qualifications related to training and education are a plus.</p>\n<p>- Proven experience in designing and delivering effective training programs.</p>\n<p>- Strong verbal and written communication skills.</p>\n<p>- Flexible approach to training methodologies, accommodating different learning styles.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "uuid": "2f39df6478254879ba07bdfe97b8a503",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Teaching",
+      "uuid": "386533b1dd6d0732cfad59e8f631e35a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Healthcare",
+      "uuid": "4ee2a6c7bb7c40af94c5a15dbf7eb673",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Musculoskeletal",
+      "uuid": "9b3d4d48bffffb6fa254a7ed22e754e7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sports Medicine",
+      "uuid": "9b457e000f408fcb22ecd268eda6d2ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stimulation",
+      "uuid": "9dbf3daf0293fb9ae1681496e3d0b5d5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Case Management",
+      "uuid": "d799928eb48a88cb861f3283005d227a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Rehabilitation",
+      "uuid": "e765619294e2183b066875df4954d66e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "24240",
+  "occupationId": "OCC007628",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 27,
+      "category": "Medical / Therapy Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "69",
+  "ssecFos": "0860",
+  "postedCompany": {
+    "uen": "201133441K",
+    "description": null,
+    "name": "YONG KANG TCM CLINIC PTE. LTD.",
+    "ssicCode": "86202",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:28:12.000Z",
+    "ssicCode2020": "86202",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133441K/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153469",
+    "deletedAt": null,
+    "createdBy": "fe423b2d-354c-4f91-93be-884eba910e62",
+    "createdAt": "2026-01-25T12:23:06.000Z",
+    "updatedAt": "2026-01-25T12:23:06.000Z",
+    "emailRecipient": "fe423b2d-354c-4f91-93be-884eba910e62",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 41,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/medical/tcm-physiciantherapist-trainer-yong-kang-tcm-clinic-e1a4f6d110b8b438e3a404f6316de431",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e1a4f6d110b8b438e3a404f6316de431"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e1a4f6d110b8b438e3a404f6316de431/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

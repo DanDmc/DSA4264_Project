@@ -1,0 +1,240 @@
+{
+  "uuid": "b8d1c8a4602ca86a4c931b748d866c99",
+  "sourceCode": "Employer Portal",
+  "title": "Food Trade Company OFFICE CLERK",
+  "description": "<p>1. \tCustomer Communication & Order Processing</p><p>• \tAnswer incoming calls and issue invoices based on customer orders.</p><p>• \tMaintain efficient and professional communication with customers.</p><p>• \tPromote company products through phone calls or text messages.</p><p>• \tHandle after‑sales customer service and coordinate with various internal departments.</p><p>• \tAssist with stock checking when required.</p><p>2. \tDocumentation & Administrative Support</p><p>• \tOrganize and archive documents to ensure proper record management.</p><p>• \tHandle daily administrative tasks such as checking emails, data entry, and updating records.</p><p>3. \tSkills Requirements</p><p>• \tProficient in common office software (e.g., Word, Excel).</p><p>• \tBasic English communication skills.</p><p>4. \tPersonal Qualities & Work Attitude</p><p>• \tAble to follow company arrangements and instructions.</p><p>• \tClear communication, cheerful personality, and quick thinking.</p><p>• \tResponsible, attentive, and patient.</p><p>• \tAble to work shifts when required.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Software",
+      "uuid": "bda37247b0ee8c78e442791659bd434d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Communication",
+      "uuid": "d55b9fdc8580fa306874c89485c41a07",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008652",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202403051G",
+    "description": "<p>Talent Blaze is a trusted provider of recruitment and workforce solutions based in Singapore. With a mission to connect exceptional talent with forward-thinking employers, we specialize in delivering tailored manpower solutions across a wide range of industries. Committed to service excellence and ethical recruitment practices, we strive to become a trusted partner for both job seekers and businesses.<br>\n</p>",
+    "name": "TALENT BLAZE PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": "https://talentblaze.com.sg/",
+    "lastSyncDate": "2026-01-29T06:42:19.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403051G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403051G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403051G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202403051G/schemes"
+      }
+    },
+    "logoFileName": "739d1bd6ebe9e4bf8b1ae90817998950/talent-blaze.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/739d1bd6ebe9e4bf8b1ae90817998950/talent-blaze.jpg",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201926845M",
+    "description": null,
+    "name": "JIAJIAFU TRADING PTE. LTD.",
+    "ssicCode": "46900",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-29T07:06:51.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926845M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926845M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926845M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201926845M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1813",
+    "street": "GEYLANG BAHRU",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "339715",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.31688857479838,
+    "lng": 103.87029834603
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0181795",
+    "deletedAt": null,
+    "createdBy": "b3526379-9127-407d-98a8-f14fbea2603b",
+    "createdAt": "2026-01-29T07:22:01.000Z",
+    "updatedAt": "2026-01-29T07:22:01.000Z",
+    "emailRecipient": "b3526379-9127-407d-98a8-f14fbea2603b",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/food-trade-company-office-clerk-jiajiafu-trading-b8d1c8a4602ca86a4c931b748d866c99",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3600,
+    "minimum": 2200,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b8d1c8a4602ca86a4c931b748d866c99"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b8d1c8a4602ca86a4c931b748d866c99/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

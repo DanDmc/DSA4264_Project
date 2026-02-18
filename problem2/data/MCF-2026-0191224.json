@@ -1,0 +1,214 @@
+{
+  "uuid": "86bd6036d5ab241775f6f2bef2f5165b",
+  "sourceCode": "Employer Portal",
+  "title": "Software Support / Software Packager [East] - PSCY023",
+  "description": "<ul><li>Repackaging the application based on project standards</li><li>Customise the application installation using VB Script and Powershell script</li><li>Troubleshooting application deployment issues.</li><li>Perform software distribution via SCCM & Microsoft In-tune to end point machines</li><li>Troubleshooting issues related Task Sequence, Software and Security Patches deployments</li></ul><p><strong>Requirement:</strong></p><ul><li>Minimum 3 -5 years of EUCD Support, Application Packaging and ICT End User Computing.</li><li>Good Experience on VB Script and PowerShell scripting for application installation/Uninstallation and Customisation.</li><li>Good Experience on Admin Studio/Install Sheild tool.</li><li>Good Experience on MSI Installer + MST installation</li><li>Good Experience on Microsoft Intune Packaging, Deployment and troubleshooting.</li><li>Candidate with Application troubleshooting skill using logs and Event viewer</li><li>Candidate with SCCM Application troubleshooting experience.</li><li>Possess excellent communication skills to demonstrate and present the solution to the Customer, and the solution will also be made available for future troubleshooting and analysis recorded in proper documentation.</li><li>Demonstrated Basic understanding of SCCM infrastructure (site server roles, DP servers, boundaries)</li><li>Working knowledge in OSD, Software & Security Patch deployments</li><li>Knowledge in troubleshooting issues related to deployments via SCCM</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Excellent Communication Skills",
+      "uuid": "0720b6afb8ec48831c9b1b6b847d03e1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft 365",
+      "uuid": "09e96c79e0c52d6fed32c2fd90378a6f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft",
+      "uuid": "140864078aeca1c7c35b4beb33c53c34",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VB scripting",
+      "uuid": "2430f4a316d79e2c9d8c7858f806ca7c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ICT",
+      "uuid": "395b46c50c2eeeefbc2180c8630df2d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VB Script",
+      "uuid": "42ff672ea0b4c265420edfb929963d9c",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "PowerShell scripting",
+      "uuid": "506ecc5a0c855d94683ba82fefd3872e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Powershell",
+      "uuid": "531b84ad41b2a753da83acf367990701",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scripting",
+      "uuid": "66f1aed235ade25269a561e81cbbb43a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Application Packaging",
+      "uuid": "731e65d462a57b54fb85b73a02574199",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201837393M",
+    "description": null,
+    "name": "ALPHAEUS PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T06:26:52.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837393M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837393M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837393M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201837393M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "16",
+    "street": "RAFFLES QUAY",
+    "floor": null,
+    "unit": null,
+    "building": "HONG LEONG BUILDING",
+    "postalCode": "048581",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.28136359915759,
+    "lng": 103.850914468583
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191224",
+    "deletedAt": null,
+    "createdBy": "aa92a37b-2068-419a-ab14-cdfbaab48b71",
+    "createdAt": "2026-01-30T10:08:37.000Z",
+    "updatedAt": "2026-01-30T10:08:37.000Z",
+    "emailRecipient": "aa92a37b-2068-419a-ab14-cdfbaab48b71",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 50,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-20",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-support-software-packager-east-pscy023-alphaeus-86bd6036d5ab241775f6f2bef2f5165b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/86bd6036d5ab241775f6f2bef2f5165b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/86bd6036d5ab241775f6f2bef2f5165b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

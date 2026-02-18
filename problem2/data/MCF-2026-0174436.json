@@ -1,0 +1,210 @@
+{
+  "uuid": "153584775de844082d8b52cc9b24757d",
+  "sourceCode": "Employer Portal",
+  "title": "Salon Manager",
+  "description": "<p>In charge of day to day running of the salon, increasing sales and training of junior hair stylist.  Must have at least 3 years of hair dressing experience and 1 year of leading teams within the hair and beauty arena.  Responsible to calculate and bank in daily takings and monitoring of staff performance.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Care",
+      "uuid": "6c3d3b75d5aef8591632a2060ef08693",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Salons",
+      "uuid": "9c43e91455a2dd43967f5b3c5b3c1834",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Leadership",
+      "uuid": "9e83028802360a9102640b8a83c58418",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Straightening",
+      "uuid": "c74f6e40ecc5737b6604198d9b3d36ad",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Beauty Industry",
+      "uuid": "cdd94e234c4bf92a947a0b9aec38512c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Analytics",
+      "uuid": "e19e98a669ae21f94ffd1659998fd072",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51411",
+  "occupationId": "OCC009350",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 16,
+      "category": "General Management"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53469546M",
+    "description": null,
+    "name": "M2 SERVICES",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T06:13:51.000Z",
+    "ssicCode2020": "96021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53469546M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53469546M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53469546M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53469546M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "476",
+    "street": "UPPER SERANGOON VIEW",
+    "floor": null,
+    "unit": null,
+    "building": "HOUGANG CAPEVIEW",
+    "postalCode": "530476",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.37743006696185,
+    "lng": 103.903712864065
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0174436",
+    "deletedAt": null,
+    "createdBy": "3bd93f40-3cb8-453e-aaa5-9dba4ebfffb6",
+    "createdAt": "2026-01-28T06:36:26.000Z",
+    "updatedAt": "2026-01-28T06:36:25.000Z",
+    "emailRecipient": "3bd93f40-3cb8-453e-aaa5-9dba4ebfffb6",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 33,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/salon-manager-m2-services-153584775de844082d8b52cc9b24757d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/153584775de844082d8b52cc9b24757d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/153584775de844082d8b52cc9b24757d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

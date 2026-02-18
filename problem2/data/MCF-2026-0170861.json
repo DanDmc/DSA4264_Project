@@ -1,0 +1,218 @@
+{
+  "uuid": "bc5afadcb78cd5b1629abfead5378f7d",
+  "sourceCode": "Employer Portal",
+  "title": "Quantity Surveyor",
+  "description": "<p>Job Requirement: Degree/Dipoma in Building or Quantity Surveying</p>\n<p><br></p>\n<p>1. Competent in reading and understanding drawings and perform measurements.</p>\n<p>2. Competent in preparing bills of quantities.</p>\n<p>3. Competent in understanding tender/contract doc/specification/terms of contract.</p>\n<p>4. Competent in analyzing quotation/prices/rates, build-up rates and perform pricing.</p>\n<p>5. Competent in performing contract administration including but not limiting to valuation of payments and variations claims in accordance to contract requirements.</p>\n<p>6. Competent in performing all tender activities necessary for the procurement of new projects.</p>\n<p>7. Competent in working independently as well as a team.</p>\n<p>8. Competent in completing required obligations within stipulated timings and other constraints.</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Valuation",
+      "uuid": "3e6564c044acd49698fd70c9aaa79bb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quantity Surveying",
+      "uuid": "432d30f5253617c75681fab93563c4b1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tendering",
+      "uuid": "dce72ae17f6f9c488e4be5f4943ebc55",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sourcing",
+      "uuid": "e88d8289cf0e8b38efa365fff22531d4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21494",
+  "occupationId": "OCC003295",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "198202491C",
+    "description": null,
+    "name": "CHONG TONG CONSTRUCTION PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:25:08.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198202491C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198202491C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198202491C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198202491C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "45",
+    "street": "GENTING LANE",
+    "floor": null,
+    "unit": null,
+    "building": "GENTING WAREHOUSE",
+    "postalCode": "349557",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32780055967265,
+    "lng": 103.874771035359
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0170861",
+    "deletedAt": null,
+    "createdBy": "4cfd9389-0865-437b-a172-0acdaac674bd",
+    "createdAt": "2026-01-28T01:00:51.000Z",
+    "updatedAt": "2026-01-28T01:00:51.000Z",
+    "emailRecipient": "4cfd9389-0865-437b-a172-0acdaac674bd",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 69,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/quantity-surveyor-chong-tong-construction-bc5afadcb78cd5b1629abfead5378f7d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bc5afadcb78cd5b1629abfead5378f7d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bc5afadcb78cd5b1629abfead5378f7d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

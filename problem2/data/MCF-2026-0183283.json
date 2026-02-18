@@ -1,0 +1,244 @@
+{
+  "uuid": "0c65164bda90e5cd79a8b89e21483655",
+  "sourceCode": "Employer Portal",
+  "title": "Accountant",
+  "description": "<p><strong>Job Summary</strong></p><p>We are looking for meticulous and numbers-focused Accountants to handle high-volume transaction accounting for our CFD brokerage and financial trading entities. This role requires extreme attention to detail and the patience to perform daily reconciliations and data verification. You must possess an investigative mindset to resolve every single discrepancy, no matter how small.</p><p><strong>Responsibilities</strong></p><ul><li>Perform daily T+1 reconciliations between trading platforms (MT4/MT5), payment gateways, and bank statements to ensure data accuracy.</li><li>Manage client fund reconciliations for Segregated Accounts to maintain precise client balance records.</li><li>Identify, investigate, and resolve complex discrepancies in transaction data to uphold financial integrity.</li><li>Maintain full sets of accounts for assigned trading entities by accurately posting all journal entries in Xero.</li><li>Process high volumes of daily deposits, withdrawals, and settlement entries with accuracy and timeliness.</li><li>Maintain the General Ledger focusing on balance sheet substantiation to support financial reporting.</li><li>Manage large datasets using advanced Microsoft Excel functions (Pivot Tables, VLOOKUP, XLOOKUP) to assist in preparing operational and financial reports.</li><li>Liaise directly with internal and external stakeholders including the Settlement Team, Legal Counsel, Company Secretary, Corporate Secretarial firms, Tax Agents, and External Auditors to facilitate smooth operations.</li><li>Coordinate statutory filings such as Annual Returns and Tax Computations to ensure timely compliance.</li><li>Provide auditors with necessary schedules and supporting documents during the annual audit process.</li></ul><p><strong>Requirements</strong></p><ul><li>Proficient in Microsoft Excel with mandatory skills in Pivot Tables, VLOOKUP, and XLOOKUP for handling large datasets.</li><li>Familiarity with IFRS (International Financial Reporting Standards) to ensure compliance with accounting standards.</li><li>Minimum 3-5 years of accounting experience, preferably within CFD, Forex Brokerage, or High-Frequency Trading firms.</li><li>Experience using Xero accounting software and trading platforms such as MT4/MT5.</li><li>Ability to communicate effectively in English and Chinese (Written and Spoken) to process data from Chinese-speaking counterparts and systems.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "IFRS",
+      "uuid": "07abed514ef36a21ae697f475d40e312",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Brokerage",
+      "uuid": "2818b0d1c374b63876155078db509908",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Journal Entries",
+      "uuid": "65132de5d513a810e68aa75ed0a14cfa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Advanced Microsoft Excel",
+      "uuid": "6a9e3f643918900fdb0afd547e3b6375",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "General Ledger",
+      "uuid": "99df167760ccbe2bb5f7ad5418afdb88",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Deposits",
+      "uuid": "b14b4095cfda93c81686ac81dea4dbed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Xero",
+      "uuid": "b4d48785c36047d95628c353e568040f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Vlookup",
+      "uuid": "ddf7f10e2d1d749e5107f95abfcb2446",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Reporting",
+      "uuid": "f8cc933992ca4af7cb5eddd6b9d44778",
+      "confidence": null,
+      "isKeySkill": true
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33131",
+  "occupationId": "OCC007285",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0531",
+  "postedCompany": {
+    "uen": "202557241D",
+    "description": null,
+    "name": "TECHNTEA PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:14:28.000Z",
+    "ssicCode2020": "70101",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202557241D"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202557241D/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202557241D/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202557241D/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "5",
+    "street": "SHENTON WAY",
+    "floor": null,
+    "unit": null,
+    "building": "UIC BUILDING",
+    "postalCode": "068808",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27771707144445,
+    "lng": 103.849565185829
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0183283",
+    "deletedAt": null,
+    "createdBy": "60ae10fd-c9af-46ec-a5ba-2c7964f0308f",
+    "createdAt": "2026-01-29T09:29:47.000Z",
+    "updatedAt": "2026-01-29T09:29:47.000Z",
+    "emailRecipient": "60ae10fd-c9af-46ec-a5ba-2c7964f0308f",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 304,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-28",
+    "totalNumberJobApplication": 40,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accountant-techntea-0c65164bda90e5cd79a8b89e21483655",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 6000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0c65164bda90e5cd79a8b89e21483655"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/0c65164bda90e5cd79a8b89e21483655/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

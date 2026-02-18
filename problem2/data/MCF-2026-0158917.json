@@ -1,0 +1,232 @@
+{
+  "uuid": "afb736321fe500bbddf6296994e4f395",
+  "sourceCode": "Employer Portal",
+  "title": "Lead Software Engineer - Back End (Singapore Based)",
+  "description": "<p><strong>What is the opportunity​:</strong><br>\nAre you ready to work on mission-critical systems that serve millions of users every day? Agoda's Platform team is seeking talented developers to drive innovation and make a meaningful impact on our business and the travel industry.<br>\nIn this role, you'll have the opportunity to work on groundbreaking projects, leverage cutting-edge technologies, and shape the future of travel. A key focus of our team is harnessing the power of Generative AI to enhance customer experience and support, making them more efficient and user-friendly.<br>\nIf you're passionate about technology, innovation, and creating solutions that touch millions of lives, we’d love to hear from you!</p>\n<p><br>\n<strong>What You’ll Need to Succeed</strong></p>\n<ul>\n  <li>12+ years of experience developing performance-critical applications in a production environment using Scala, Java, Kotlin, C#, Go or relevant modern programming languages.</li>\n  <li>Strong RDBMS knowledge (SQL Server, Oracle, MySQL, or other).</li>\n  <li>Ability to direct significant company-wide projects and sets technical vision.</li>\n  <li>Good command of the English language.</li>\n  <li>Deeply involved in making architectural decisions, setting the standard and direction for the team.</li>\n  <li>Implement advanced CI/CD pipelines and robust testing strategies to ensure seamless integration, deployment, and high code quality.</li>\n  <li>Knowledge in NoSQL, Queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), and Play framework.</li>\n  <li>Passion for software development and continuous improvement of your knowledge and skills.</li>\n</ul>\n<p>It’s Great if You Have​</p>\n<ul>\n  <li><strong>Machine Learning, GPT, prompt engineering and other AI project experience</strong></li>\n  <li><strong>Candidates with JVM language experience - Scala/Kotlin/Java and Python would be preferred</strong></li>\n</ul>",
+  "minimumYearsExperience": 12,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "uuid": "091fa9121c047db1dd48c3e2ab5f3c91",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scala",
+      "uuid": "3012dcff1477e1feaab81764587c9bbd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Oracle",
+      "uuid": "30162ed78b6c10f731411f2fc440c24f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pipelines",
+      "uuid": "414a8ddf993e2641bf90821f28fb0d9a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Kotlin",
+      "uuid": "539a3a5859d24fb7b129e74d61f09ffa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MySQL",
+      "uuid": "62a004b95946bb97541afa471dcca73a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ActiveMQ",
+      "uuid": "6cc02b1b7e5213c9f46103a566d9d0a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "RabbitMQ",
+      "uuid": "7eaa993723e57b3bfc99923c196e2e17",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tuning",
+      "uuid": "89dd2948ecda7325c0001d8a0e51a2d8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Demand Planning",
+      "uuid": "a5c22b00603e3cc7626e1f578fbc0985",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL Server",
+      "uuid": "a71f76c3256e4c206a4841d8eb0fed35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 8,
+      "position": "Senior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "200506877R",
+    "description": "<p>\r\n\tAGODA COMPANY PTE. LTD.</p>\r\n",
+    "name": "AGODA COMPANY PTE. LTD.",
+    "ssicCode": "63204",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T10:41:51.000Z",
+    "ssicCode2020": "63204",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200506877R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200506877R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200506877R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200506877R/schemes"
+      }
+    },
+    "logoFileName": "23263519812c0cddd35b37c23d845a0b/agoda-company.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/23263519812c0cddd35b37c23d845a0b/agoda-company.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "36",
+    "street": "ROBINSON ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "CITY HOUSE",
+    "postalCode": "068877",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.2812201995343,
+    "lng": 103.849798336253
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158917",
+    "deletedAt": null,
+    "createdBy": "3e693ffb-d93d-4734-ae08-5da371df6e01",
+    "createdAt": "2026-01-26T07:48:06.000Z",
+    "updatedAt": "2026-01-26T07:48:05.000Z",
+    "emailRecipient": "3e693ffb-d93d-4734-ae08-5da371df6e01",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 120,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/lead-software-engineer-back-end-agoda-company-afb736321fe500bbddf6296994e4f395",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 14000,
+    "minimum": 11000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/afb736321fe500bbddf6296994e4f395"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/afb736321fe500bbddf6296994e4f395/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

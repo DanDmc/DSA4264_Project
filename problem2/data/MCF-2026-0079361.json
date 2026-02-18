@@ -1,0 +1,201 @@
+{
+  "uuid": "d0ba740931f5c4f47cdcf4fb541e0904",
+  "sourceCode": "Employer Portal",
+  "title": "Night Shift Bakers",
+  "description": "<p><strong>Night Shift Central Kitchen Bakers</strong></p><p>No experience? Experienced baker? <strong>We want you!</strong><br /><br />Something <strong>exciting is baking</strong> at Tiong Bahru Bakery — a brand-new concept with fresh products is on the way, and we need <strong>MORE</strong> <strong>passionate, energetic bakers</strong> to bring it all to life in our growing team at the Central Kitchen.</p><p>Whether you’re just starting out or have mastered the art of bread, there’s a place for you in our team. And don’t worry about the early hours — your <strong>transport is reimbursed</strong> for the midnight shift! 🚕</p><h3><strong>What You’ll Do</strong></h3><ul><li><p>🥖 <strong>Craft Signature Breads & New Creations</strong> – shape, bake, and perfect breads that will delight Singapore</p></li><li><p>👩‍🍳 <strong>Learn or Share Your Skills</strong> – beginners get hands-on training, experienced bakers bring their expertise to the team</p></li><li><p>⚡ <strong>Work in a Buzzing Kitchen</strong> – at the heart of our exciting new launch</p></li><li><p>🌟 <strong>Make an Impact</strong> – help bring fresh, innovative breads to life across our outlets</p></li></ul><h3><strong>What We’re Looking For</strong></h3><ul><li><p>Commitment to the <strong>perform midnight shift</strong> (transport covered!)</p></li><li><p>Reliable, positive, and a <strong>true team player</strong></p></li><li><p>Passion for baking — whether you’re just starting out or already experienced</p></li><li><p>Eagerness to <strong>learn, grow, and innovate</strong> in a collaborative environment</p></li></ul><h3><strong>Perks & Benefits</strong></h3><ul><li><p>🎓 <strong>Training Provided</strong> – for beginners and skill refreshers</p></li><li><p>🍽️ <strong>Meal & Transport Allowance</strong></p></li><li><p>🌙 <strong>Night Shift Allowance</strong></p></li><li><p>🌿 <strong>Group Employee Benefits</strong></p></li><li><p>✨ The pride of saying: “I helped launch that!”</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Ingredients",
+      "uuid": "210c9e13155de6cf4edb59f1fbbaf4e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Quality Control",
+      "uuid": "2b68a2bf3641ac89e02bb903f3e4af4d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Safety",
+      "uuid": "337f066be0dbb0a5fc329b19aaf5f365",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cooking",
+      "uuid": "3b962574887f124e78bfd9b4685f3b39",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Quality",
+      "uuid": "4ccf43f2b339bc47dbb96a6b5d880948",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Baking",
+      "uuid": "a11e3d7212c369ba1a229ea7a8ae65de",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "worked in a kitchen",
+      "uuid": "a456fe567e3a7281ba2fb60d5b9193db",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bakery",
+      "uuid": "c07c35714963668a8ec1b8784f83d143",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food Service",
+      "uuid": "eebd377b0126921ba4ef1c3049b11a30",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75121",
+  "occupationId": "OCC059684",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 5,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 19,
+      "category": "Hospitality"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "21",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201133471H",
+    "description": "<p><em>The best French bakery in Singapore</em></p>\n<p>Tiong Bahru Bakery is more than a great bakery, it’s a Singapore institution. With a reputation for serving the finest croissants in Asia, made fresh throughout the day with all French butter and French flour, TBB also serves the best coffee, savoury snacks, juices and teas.</p>",
+    "name": "TIONG BAHRU BAKERY PTE. LTD.",
+    "ssicCode": "10712",
+    "employeeCount": null,
+    "companyUrl": "https://www.tiongbahrubakery.com/",
+    "lastSyncDate": "2026-01-30T08:00:07.000Z",
+    "ssicCode2020": "10712",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133471H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133471H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133471H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201133471H/schemes"
+      }
+    },
+    "logoFileName": "083f7588fd5e08232d65ae9bc3d0ffe2/tiong-bahru-bakery.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/083f7588fd5e08232d65ae9bc3d0ffe2/tiong-bahru-bakery.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0079361",
+    "deletedAt": "2026-01-30T08:05:13.000Z",
+    "createdBy": "935c9245-ca27-4d94-9c76-a02e18f7f88a",
+    "createdAt": "2026-01-13T09:47:16.000Z",
+    "updatedAt": "2026-01-30T08:05:31.000Z",
+    "emailRecipient": "935c9245-ca27-4d94-9c76-a02e18f7f88a",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 209,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-13",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/night-shift-bakers-tiong-bahru-bakery-d0ba740931f5c4f47cdcf4fb541e0904",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2900,
+    "minimum": 2400,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d0ba740931f5c4f47cdcf4fb541e0904"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/d0ba740931f5c4f47cdcf4fb541e0904/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

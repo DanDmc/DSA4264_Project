@@ -1,0 +1,203 @@
+{
+  "uuid": "b7f7924966df79a4976fe4e6726f31f7",
+  "sourceCode": "Employer Portal",
+  "title": "Site Admin Assistant (BSC2)",
+  "description": "<p><strong>JOB DESCRIPTION:</strong></p><ul><li>Handle general administrative tasks, including phone enquiries, office stationery, office maintenance, and attendance checking via the time management system</li><li>Prepare and manage staff petty cash claims</li><li>Provide clerical and administrative support to the team</li><li>Maintain proper filing systems and keep records up to date for easy retrieval</li><li>Assist in preparing supplier payments</li><li>Assist in preparing documents for audit</li><li>Perform other ad-hoc duties as assigned by the management</li></ul><p><strong>JOB REQUIREMENT:</strong></p><ul><li>Min GCE ‘O’ Level or equivalent</li><li>Minimum 2 years of relevant experience in main contractor companies</li><li>Proficient in Microsoft Office</li><li>Strong interpersonal and communication skills</li><li>Positive working attitude and a team player</li><li>Able to commence work within short notice</li><li>Candidate with building construction PRO experience to assist with on-site compliance documentation will be an advantage</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administration",
+      "uuid": "7258e7251413465e0a3eb58094430bde",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Office Administration",
+      "uuid": "941b523e62d65c4fbecd901032333fc2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Administrative Support",
+      "uuid": "bf420776af6961ba792a744f979e25b0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Word",
+      "uuid": "d241ed446445a725f6362568f61cc6c3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "41101",
+  "occupationId": "OCC008721",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 7,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "32",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200007715C",
+    "description": "<p>\r\n\tRICH CONSTRUCTION COMPANY PTE. LTD.</p>\r\n<p>\r\n\tEstablished in 1999,Rich Construction Company Pte Ltd is a subsidiary of China Construction (South Pacific) Development Pte Ltd. Its former is known as China Construction Builders Pte Ltd.</p>\r\n<p>\r\n\tToday, It specializes in structural & architectural construction works with a BCA grading of A1 category in General Building. Efforts from our numerous committed staff contribute to the achievement of the company's success.</p>\r\n<p>\r\n\tRCC currently has a full range of equipment to support our projects' requirement. \"People-oriented, building a reputation through customers' trust, Quality products and services\" will be continuous adopted as core value in the future development </p>\r\n",
+    "name": "RICH CONSTRUCTION COMPANY PTE. LTD.",
+    "ssicCode": "41001",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T02:24:30.000Z",
+    "ssicCode2020": "41001",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007715C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007715C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007715C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200007715C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "562",
+    "street": "UPPER EAST COAST ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "BLEU @ EAST COAST",
+    "postalCode": "466581",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 16,
+        "location": "D16 Upper East Coast, Bedok, Eastwood, Kew Drive",
+        "region": "East",
+        "sectors": [
+          "46",
+          "47",
+          "48"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.31577493252137,
+    "lng": 103.945189532444
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0172327",
+    "deletedAt": null,
+    "createdBy": "13ea2848-5425-4fb4-b578-d62098f79b9d",
+    "createdAt": "2026-01-28T02:43:20.000Z",
+    "updatedAt": "2026-01-28T02:44:00.000Z",
+    "emailRecipient": "13ea2848-5425-4fb4-b578-d62098f79b9d",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 170,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 14,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/site-admin-assistant-rich-construction-company-b7f7924966df79a4976fe4e6726f31f7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b7f7924966df79a4976fe4e6726f31f7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/b7f7924966df79a4976fe4e6726f31f7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

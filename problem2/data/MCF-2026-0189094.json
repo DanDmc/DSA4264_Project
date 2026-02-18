@@ -1,0 +1,206 @@
+{
+  "uuid": "499055609943b18e250c10e5bf760d95",
+  "sourceCode": "Employer Portal",
+  "title": "Assistant Vice President – Information Technology Department",
+  "description": "<h3><em>Job Duties:</em></h3><ul><li>Promote IT initiatives across Asia for both life and P & C, spanning 8 countries and 13 entities.</li><li>Promote the IT strategy of the Asian region and to align it with the global IT strategy and to formulate and lead projects that can contribute to the Asia region.</li><li>In addition to strategy construction, also create concrete IT plans and lead and support local implementation.</li><li>Lead the regional implementation of regional programs, providing promising value to customers and partners in all Asian countries.</li><li> Overseas’ business travels are required.</li></ul><h3><em>Requirements:</em></h3><ul><li>University Degree with professional IT qualifications.</li><li>At least 10 years' experience in an insurance company and over 5 years' experience in IT lead.</li><li>Leadership roles across Local and Regional Geographies.</li><li>Complex Project Management; Implementation of cutting-edge IT solutions.</li><li>Extensive experience in IT partnerships, sales & marketing, etc.</li><li>Management of large delivery teams working with cross functional units and third-party vendors.</li><li>Proficiency in Japanese language is required to liaise with Japan HQ and to read Japanese reports/documents.</li><li>Good written report, presentation and communication skills in both English and Japanese language.</li></ul>",
+  "minimumYearsExperience": 10,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese Language",
+      "uuid": "33c147499f160adef341f57d5d3b7fb2",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "IT Governance",
+      "uuid": "53e2044ef06b074cddb716a1e80e3274",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Project Planning",
+      "uuid": "7a51b3c516f387f33de6b28cc0627b18",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Lead",
+      "uuid": "bd4e5627c6a8942ffd11548987a3a843",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "IT Strategy",
+      "uuid": "e7fc1d1373ff85fa555b7ec77b292fe4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25111",
+  "occupationId": "OCC002086",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "199201305E",
+    "description": "<p>TOKIO MARINE ASIA PTE. LTD. is the Asia-Pacific Regional Headquarter of Tokio Marine Group, which is one of the major insurance group in the world. We have 13 insurance group companies in 8 countries across Asia-Pacific region, and have achieved an impressive track record of growth.</p>\r\n",
+    "name": "TOKIO MARINE ASIA PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T05:45:21.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201305E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201305E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201305E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/199201305E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "20",
+    "street": "MCCALLUM STREET",
+    "floor": null,
+    "unit": null,
+    "building": "TOKIO MARINE CENTRE",
+    "postalCode": "069046",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 1,
+        "location": "D01 Cecil, Marina, People’s Park, Raffles Place",
+        "region": "Central",
+        "sectors": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27958236092446,
+    "lng": 103.847918363171
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189094",
+    "deletedAt": null,
+    "createdBy": "cb342f3a-c88f-4963-83da-8a6386943e07",
+    "createdAt": "2026-01-30T07:25:19.000Z",
+    "updatedAt": "2026-01-30T07:25:19.000Z",
+    "emailRecipient": "cb342f3a-c88f-4963-83da-8a6386943e07",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 343,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 62,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/assistant-vice-president-%E2%80%93-information-technology-department-tokio-marine-asia-499055609943b18e250c10e5bf760d95",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 20000,
+    "minimum": 15000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/499055609943b18e250c10e5bf760d95"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/499055609943b18e250c10e5bf760d95/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,197 @@
+{
+  "uuid": "52a85f9a7abd8d6f283e875ec438524d",
+  "sourceCode": "Employer Portal",
+  "title": "Lab Technician",
+  "description": "<p><strong>Job Summary</strong></p><p>You will prepare and manage logistics for consumer studies by printing sample labels, submitting packing requests, and documenting packing instructions in the Electronic Lab Notebook (ELN). You will handle packing materials and samples transfer, submit microbiological testing requests, and maintain accurate product labeling records in ELN.</p><p><strong>Responsibilities</strong></p><ul><li>Prepare Starting Material Acceptance Forms (SMAF) by photographing packaging materials and commercial goods, uploading images into ELN, and documenting according to Standard Operating Procedures (SOPs)</li><li>Receive shipments at the dock office, transfer items to storage, prepare shipment documents including special documentation for China shipments, and pack shipping samples for dispatch</li><li>Maintain proper documentation for storage by managing lab and storage conditions, organizing storage space, and tracking inventory and stock levels</li><li>Perform Good Manufacturing Practice (GMP) operations for batch making and packing at both small and large scales, ensuring compliance with GMP lab standards</li><li>Operate laboratory measurement equipment such as pH meters, viscometers, spectrophotometers, and microscopes to support lab activities</li><li>Conduct all assigned tasks following the organization’s safety and quality standards</li></ul><p><strong>Preferred competencies and qualifications</strong></p><ul><li>Experience working in Process Laboratory, Process Manufacturing, or Biopharmaceutical Manufacturing environments</li><li>Diploma in Chemistry or a related discipline</li><li>Collaborate effectively with team members to meet customer needs and support team goals</li><li>Communicate clearly in English, both verbally and in writing, to share information and respond to inquiries</li><li>Follow established processes to make decisions and apply problem-solving techniques to resolve issues</li><li>Use Microsoft Office software proficiently for basic computer tasks</li><li>Operate simple machinery safely and effectively</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Formulation",
+      "uuid": "6489e0ed556fe68ae8aced9c28a59062",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Raw Materials",
+      "uuid": "84a63dd706b562a4a7d4101b7309e8bb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Chemistry",
+      "uuid": "84cf6008945c9b558ed7c0869557b70d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laboratory",
+      "uuid": "e684d8eeee72ed2583865b78e8d3f57a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Orientation",
+      "uuid": "e9a766565ff7094d2c5e905e0607fc6c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Calibration",
+      "uuid": "f6147c9c9b908be9b52803698be57ad2",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "31111",
+  "occupationId": "OCC005267",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 36,
+      "category": "Sciences / Laboratory / R&D"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "61",
+  "ssecFos": "0721",
+  "postedCompany": {
+    "uen": "201320864G",
+    "description": null,
+    "name": "GWIA PTE. LTD.",
+    "ssicCode": "82920",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:25:36.000Z",
+    "ssicCode2020": "20233",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201320864G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201320864G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201320864G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201320864G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0191128",
+    "deletedAt": null,
+    "createdBy": "a5273907-b601-47b7-a56c-d5eb7deb22bc",
+    "createdAt": "2026-01-30T09:54:57.000Z",
+    "updatedAt": "2026-01-30T09:54:57.000Z",
+    "emailRecipient": "a5273907-b601-47b7-a56c-d5eb7deb22bc",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 61,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-20",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sciences/lab-technician-gwia-52a85f9a7abd8d6f283e875ec438524d",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2200,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/52a85f9a7abd8d6f283e875ec438524d"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/52a85f9a7abd8d6f283e875ec438524d/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

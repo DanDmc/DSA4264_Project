@@ -1,0 +1,228 @@
+{
+  "uuid": "500f760fc5190d333279e05d3bf0c2a7",
+  "sourceCode": "Employer Portal",
+  "title": "ENGINEER",
+  "description": "<p>Design, install, and maintain air conditioning and HVAC systems for residential, commercial, and industrial projects.</p><p></p><p>Conduct load calculations and system evaluations to ensure efficient cooling performance.</p><p></p><p>Develop detailed technical drawings and specifications in collaboration with the design team.</p><p></p><p>Troubleshoot and diagnose issues in air conditioning systems and recommend solutions.</p><p></p><p>Ensure compliance with industry standards, safety regulations, and environmental guidelines.</p><p></p><p>Coordinate with clients, contractors, and project teams to ensure smooth project execution.</p><p></p><p>Prepare cost estimates, project reports, and technical documentation.</p><p></p><p>Perform site inspections and quality checks to verify system performance and installation accuracy.</p><p></p><p>Requirements:</p><p></p><p>Bachelor's degree or diploma in Mechanical Engineering, HVAC Engineering, or a related field.</p><p></p><p>Experience in air conditioning system design, installation, and maintenance.</p><p></p><p>Proficiency in HVAC design software and AutoCAD.</p><p></p><p>Strong knowledge of refrigeration principles, ventilation, and energy efficiency standards.</p><p></p><p>Excellent problem-solving skills and attention to detail.</p><p></p><p>Ability to work independently and collaborate with a team.</p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Air Conditioning",
+      "uuid": "110a420e14d90135b7faa1464a195b58",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "HVAC",
+      "uuid": "6ace317b96ae4d73c074b5e1d6694b86",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Estimates",
+      "uuid": "7ecd6ceb4ebf6aaf0f7a6055aa9f6b02",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Energy Efficiency",
+      "uuid": "9681bd12acedfa040971802e4e086c5c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "uuid": "f47ac95069e00f0aa5cf8ed498af3bde",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1042",
+  "postedCompany": {
+    "uen": "200711293N",
+    "description": "<p>\r\n\tS&P SYSTEM SERVICES PTE. LTD.</p>\r\n",
+    "name": "S&P SYSTEM SERVICES PTE. LTD.",
+    "ssicCode": "43220",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T04:11:29.000Z",
+    "ssicCode2020": "43220",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200711293N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200711293N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200711293N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200711293N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "50",
+    "street": "GAMBAS CRESCENT",
+    "floor": null,
+    "unit": null,
+    "building": "PROXIMA@GAMBAS",
+    "postalCode": "757022",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.4419584478037,
+    "lng": 103.81789398539
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165464",
+    "deletedAt": null,
+    "createdBy": "871eabd1-a50d-48ff-b5cc-28cb117a1ab7",
+    "createdAt": "2026-01-27T04:43:05.000Z",
+    "updatedAt": "2026-01-27T04:43:06.000Z",
+    "emailRecipient": "871eabd1-a50d-48ff-b5cc-28cb117a1ab7",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 76,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/engineer-sp-system-services-500f760fc5190d333279e05d3bf0c2a7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/500f760fc5190d333279e05d3bf0c2a7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/500f760fc5190d333279e05d3bf0c2a7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

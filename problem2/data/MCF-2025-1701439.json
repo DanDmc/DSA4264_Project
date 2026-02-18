@@ -1,0 +1,219 @@
+{
+  "uuid": "12cc2d519e336061acba68e5a35bd81f",
+  "sourceCode": "Employer Portal",
+  "title": "DP Project Engineer",
+  "description": "<p>A Project Engineer is responsible for carrying out day to day engineering, report writing and technical works. He or she is responsible for attending sea trials onboard vessels to carry out his or her duties.</p>\n<p><br></p>\n<p><u><strong>Responsibility and Authority</strong></u></p>\n<p>1) To prepare Dynamic Positioning System Trial Report</p>\n<p>2) To prepare Dynamic Positioning Failure Modes and Effects Analysis (FMEA)</p>\n<p>3) To attend sea trials onboard vessels</p>\n<p>4) To liaise with clients on matters related to technical matters</p>\n<p>5) To prepare technical reports / drawings</p>\n<p><br></p>\n<p><u><strong>Competency Requirement</strong></u></p>\n<p>1) Proficient in AutoCAD</p>\n<p>2) Possess good conversational and written English</p>\n<p>3) Proficient in MS Office Suite (MS Word, PPT, Excel)</p>\n<p><br></p>\n<p><u><strong>Education / Qualification</strong></u></p>\n<p>1) Degree in electrical engineering</p>\n<p>2) Must be willing to travel on short notice</p>\n<p>3) Training will be provided</p>\n<p><br></p>\n<p><br></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Report Writing",
+      "uuid": "0bd5610f9d3dd4fc8f71291246e9e9c7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Written English",
+      "uuid": "2ce9835ef0555e4920613df70c01ecb1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "FMEA",
+      "uuid": "313b11a9b82d9a829f6ef0ef797aca11",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical",
+      "uuid": "6f15be3dc94fef71b178cd36f624b996",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Word",
+      "uuid": "99bf759398c1e3eb29bef7edd71e7777",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Trials",
+      "uuid": "a59fab4a79ef64b773e28d197bb6c7a3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Electrical Engineering",
+      "uuid": "e9032c3a7d03ad94adb8d74a3f302869",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    },
+    {
+      "id": 11,
+      "category": "Engineering"
+    },
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1132",
+  "postedCompany": {
+    "uen": "201004431R",
+    "description": null,
+    "name": "XING WEI PTE. LTD.",
+    "ssicCode": "71129",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-28T01:29:36.000Z",
+    "ssicCode2020": "71129",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201004431R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201004431R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201004431R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201004431R/schemes"
+      }
+    },
+    "logoFileName": "8c49dec8bff6e71a1e998a6bd3f30aba/xing-wei.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/8c49dec8bff6e71a1e998a6bd3f30aba/xing-wei.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "2",
+    "street": "VENTURE DRIVE",
+    "floor": null,
+    "unit": null,
+    "building": "VISION EXCHANGE",
+    "postalCode": "608526",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33015172071474,
+    "lng": 103.744574631833
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1701439",
+    "deletedAt": "2026-01-14T17:15:04.000Z",
+    "createdBy": "8865be2c-d8ce-4cc2-a6d3-739c052a04f6",
+    "createdAt": "2025-11-07T02:24:19.000Z",
+    "updatedAt": "2026-01-26T08:22:03.000Z",
+    "emailRecipient": "8865be2c-d8ce-4cc2-a6d3-739c052a04f6",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 305,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2025-11-07",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/dp-project-engineer-xing-wei-12cc2d519e336061acba68e5a35bd81f",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3300,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/12cc2d519e336061acba68e5a35bd81f"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/12cc2d519e336061acba68e5a35bd81f/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

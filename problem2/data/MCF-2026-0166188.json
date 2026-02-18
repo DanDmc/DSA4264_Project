@@ -1,0 +1,217 @@
+{
+  "uuid": "1ef129a2b2849bc2050e7063d2ff0ffd",
+  "sourceCode": "Employer Portal",
+  "title": "IT Admin",
+  "description": "<h3></h3><h3>Role Overview</h3><p>The IT Administrative Clerk plays a vital role in supporting the IT department by managing administrative processes, asset tracking, and monthly reporting in line with Whole-of-Government (WOG) standards. The role requires close collaboration with the IT team, vendors, and internal stakeholders to ensure smooth coordination of IT support activities and accurate documentation for operational and audit purposes.</p><h3>Key Responsibilities</h3><ul><li>Maintain and update IT asset inventory records (e.g. laptops, accessories, software licenses) in accordance with WOG asset management guidelines.</li><li>Track issuance, transfer, and return of IT equipment for users, ensuring proper documentation and accountability.</li><li>Raise, update, and monitor service requests in the ITSM portal for procurement, support, and access requirements.</li><li>Coordinate with vendors for quotations, deliveries, and invoice processing.</li><li>Maintain documentation of IT policies, user guides, and standard operating procedures.</li><li>Log and follow up on IT support issues, escalating when necessary.</li><li>Support users’ onboarding and offboarding processes, including account setup and asset handling.</li><li>Schedule and coordinate IT-related meetings, briefings, and training sessions.</li><li>Prepare and submit monthly IT reports covering asset status, service request metrics, and pending actions.</li><li>Handle general administrative tasks such as filing, data entry, and correspondence.</li></ul><h3>Key Requirements</h3><ul><li>Prior experience in a WOG environment or familiarity with WOG IT processes preferred.</li><li>Proficiency in Microsoft Office (Excel, Word, Outlook).</li><li>Strong organisational skills and attention to detail.</li><li>Effective verbal and written communication skills.</li><li>Basic knowledge of IT systems and terminology.</li><li>Experience with ITSM tools such as ServiceNow and BMC will be an advantage.</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Asset Management",
+      "uuid": "1e1a97e508b3d959b9fc916092948c35",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Asset Tracking",
+      "uuid": "44ecc831a47abb9338f41bd9859ab28d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Laptops",
+      "uuid": "48b773c837465a9904ae56389cd0dc9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Entry",
+      "uuid": "843ee077b3f74fd22f992c0e2525e141",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Procurement",
+      "uuid": "8bab773ff663833b38f34cd38c401576",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attention to Detail",
+      "uuid": "9effde757385153566708bc98f5977b2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "ServiceNow",
+      "uuid": "d1cd6e549ab60b728497f73aeeccc9ba",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Terminology",
+      "uuid": "e182a8a3f2adf774fb1c959df71b8600",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "35123",
+  "occupationId": "OCC060965",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 2,
+      "position": "Middle Management"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "200311510H",
+    "description": "<p>OpenSource Pte Ltd, headquartered in Singapore, operates as a private limited company. The primary thrust of our enterprise centers on the realm of IT infrastructure. Our expertise lies in executing intricate IT systems and application integration within diverse and multifaceted environments. Proficiency in managing a wide array of Operating Systems, Front Ends, Middleware, and Databases is intrinsic to our skill set.</p>\n<p>What truly sets us apart is our knack for providing comprehensive turnkey IT solutions, encompassing every facet from conception and design to implementation, coexistence, rectification, and ongoing annual maintenance. Rather than limiting ourselves to a specific business vertical, our capabilities span across industries, rendering our solutions universally applicable.</p>",
+    "name": "OPENSOURCE PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": 38,
+    "companyUrl": "https://www.opensource.com.sg/",
+    "lastSyncDate": "2026-02-04T01:51:57.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311510H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311510H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311510H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200311510H/schemes"
+      }
+    },
+    "logoFileName": "73e742d9817e286b508510a3052ea3d3/opensource.gif",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/73e742d9817e286b508510a3052ea3d3/opensource.gif",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0166188",
+    "deletedAt": null,
+    "createdBy": "8a6a6585-3dfb-47e7-b7a7-19ff0ed13eff",
+    "createdAt": "2026-01-27T06:16:50.000Z",
+    "updatedAt": "2026-01-27T06:16:50.000Z",
+    "emailRecipient": "8a6a6585-3dfb-47e7-b7a7-19ff0ed13eff",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 166,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 35,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/admin-opensource-1ef129a2b2849bc2050e7063d2ff0ffd",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1ef129a2b2849bc2050e7063d2ff0ffd"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/1ef129a2b2849bc2050e7063d2ff0ffd/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

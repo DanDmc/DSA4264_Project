@@ -1,0 +1,236 @@
+{
+  "uuid": "be7ac8d63c7a7e5516b13a9ccae76973",
+  "sourceCode": "Employer Portal",
+  "title": "Software Engineer",
+  "description": "<p><strong>About Us:</strong></p><p>At BYD Singapore, we're driving the future of sustainable transportation with cutting-edge electric vehicles that combine advanced technology, stylish design, and unmatched performance. As a fast-growing company committed to reducing carbon footprints and revolutionizing the automotive industry, we’re looking for a dynamic Software Engineer to join our team and help accelerate our brand’s growth.</p><p><strong>Roles & Responsibilities:</strong></p><p>According to the department planning and the needs of the model project, formulate the product technical scheme; complete the design of the product architecture, software and hardware scheme design and review:</p><p>1. Participate in the analysis of the product software requirements to ensure the feasibility of software requirements</p><p>2. Participate in the design and evaluation of software architecture schemes to ensure that the output complies with the software design and development process requirements for software architecture design specifications</p><p>3. Participate in the implementation of software detailed design, output code or model in accordance with coding standards</p><p>4. Participate in the implementation unit verification, output static check report, code review report</p><p>5. Participate in the implementation of software component integration strategies to ensure efficient coordination between different modules</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Vehicles",
+      "uuid": "83467144e8aa33bf67ff729d1540fa81",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architecture Design",
+      "uuid": "ae64194051878ec826a5a24ebf799d69",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Automotive Industry",
+      "uuid": "b72d106c8c490e7db05c030f59f4fc4b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Design",
+      "uuid": "c1b8eee14e05c47f56588fb5e842f6e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C#",
+      "uuid": "d7efa19fbe7d3972fd5adb6024223d74",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25121",
+  "occupationId": "OCC002119",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "201409518W",
+    "description": "<p>BYD (SINGAPORE) PTE.LTD</p>\n<p><br></p>\n<p>We are one of China’s largest companies and has successfully expanded globally. Specializing in battery technologies, our green mission to “solve the whole problem” has made us the industry pioneers and leaders in several high-tech sectors including High-efficiency Automobiles, Electrified Public Transportation, Environmentally Friendly Energy Storage, Affordable Solar Power and Information Technology and Original Design Manufacturing (ODM) services.</p>\n<p><br></p>\n<p>BYD (Singapore) Pte. Ltd. was established to develop the electrification of transportation solutions for local customers, which includes electric cars, buses, forklifts and new energy products.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "name": "BYD (SINGAPORE) PTE. LTD.",
+    "ssicCode": "46561",
+    "employeeCount": 50,
+    "companyUrl": "https://sg.byd.com/",
+    "lastSyncDate": "2026-01-30T07:15:23.000Z",
+    "ssicCode2020": "46561",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201409518W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201409518W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201409518W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201409518W/schemes"
+      }
+    },
+    "logoFileName": "e783d38f646acf34fbc8940be6fa9cfb/byd.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/e783d38f646acf34fbc8940be6fa9cfb/byd.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "151",
+    "street": "LORONG CHUAN",
+    "floor": null,
+    "unit": null,
+    "building": "NEW TECH PARK",
+    "postalCode": "556741",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35206196118773,
+    "lng": 103.860698338514
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0189058",
+    "deletedAt": null,
+    "createdBy": "22de7510-b916-4fe7-8562-302a5997cbf0",
+    "createdAt": "2026-01-30T07:19:16.000Z",
+    "updatedAt": "2026-01-30T07:19:16.000Z",
+    "emailRecipient": "22de7510-b916-4fe7-8562-302a5997cbf0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 360,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 61,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-byd-be7ac8d63c7a7e5516b13a9ccae76973",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8500,
+    "minimum": 7500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/be7ac8d63c7a7e5516b13a9ccae76973"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/be7ac8d63c7a7e5516b13a9ccae76973/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

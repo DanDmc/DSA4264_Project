@@ -1,0 +1,204 @@
+{
+  "uuid": "fa87443b47884b1d6e7ed83c30de814c",
+  "sourceCode": "Employer Portal",
+  "title": "Windows Server Administrator",
+  "description": "<p>Key Responsibilities:</p><ul><li>EOS Migration</li><li>⁠Wintel Server break-fix</li><li>Deploy Microsoft & non-Microsoft patches</li><li>Remediate vulnerabilities</li><li>Support automated patching tool</li><li>Troubleshoot update failures (Adobe, Java, Zoom, etc.)</li><li>Prepare monthly vulnerability reports</li></ul><p>Requirements:</p><ul><li>Minimum 2 years of experience in Wintel Server troubleshooting (Wintel EOS Migration, Patching & Vulnerability Remediation)</li><li>Good in Outlook tools</li><li>Strong follow-up & coordination skills</li><li>Global IT communication experience</li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Outlook",
+      "uuid": "038e648f69b23b2a59daf262d8122a24",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Active Directory",
+      "uuid": "4fbbbcdfcdfad5270a20167c67509f0b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "VMware",
+      "uuid": "56079badd056a19303cc26e6a4fcc7e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IIS",
+      "uuid": "5da5acf461b4efb7e76ec861065b2126",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "uuid": "6694337141bdd6acacafcfcaf264cc0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Problem Management",
+      "uuid": "9f4151d34b0dcee110f2099f410c4a85",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows",
+      "uuid": "aea23489ce3aa9b6406ebb28e0cda430",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25220",
+  "occupationId": "OCC002200",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "52",
+  "ssecFos": "0914",
+  "postedCompany": {
+    "uen": "201302340C",
+    "description": "<p>\r\n\tALTROCKS TECH PTE. LTD.</p>\r\n",
+    "name": "ALTROCKS TECH PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T03:28:46.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201302340C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201302340C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201302340C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201302340C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "3",
+    "street": "ANG MO KIO STREET 62",
+    "floor": null,
+    "unit": null,
+    "building": "LINK@AMK",
+    "postalCode": "569139",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.38645003228455,
+    "lng": 103.844788518574
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0159587",
+    "deletedAt": null,
+    "createdBy": "b771718f-ded9-426d-99ac-7c2627453380",
+    "createdAt": "2026-01-26T08:41:05.000Z",
+    "updatedAt": "2026-01-26T08:41:05.000Z",
+    "emailRecipient": "b771718f-ded9-426d-99ac-7c2627453380",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 59,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/windows-server-administrator-altrocks-tech-fa87443b47884b1d6e7ed83c30de814c",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fa87443b47884b1d6e7ed83c30de814c"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/fa87443b47884b1d6e7ed83c30de814c/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

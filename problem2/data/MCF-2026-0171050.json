@@ -1,0 +1,241 @@
+{
+  "uuid": "95e066d06264c8ccded177ab1c6dfa81",
+  "sourceCode": "Employer Portal",
+  "title": "Process Technician",
+  "description": "<p><strong>Job scope:</strong></p><ul><li>Assist or lead material movement from AMS to the Pilot Plant/PRL, including bulk material withdrawal, staging, transfer, receiving, warehousing, and issuance to manufacturing.</li><li>Execute SAP transactions related to material movements.</li><li>Perform weighing and dispensing activities in accordance with requirements.</li><li>Stage and issue materials to the operations team based on the production plan.</li><li>Monitor warehouse supplies to support uninterrupted operations.</li><li>Ensure proper material rotation following FIFO/FEFO principles.</li><li>Maintain accurate inventory through routine physical counts.</li><li>Support preparation and shipment of finished products for their intended use.</li><li>Maintain proper housekeeping and organize storage areas by managing floor space, monitoring storage conditions, and complying with GMP standards.</li><li>Comply with safety and quality standards </li><li>Perform weighing and dispensing activities for APP and PRL operations.</li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "DCS",
+      "uuid": "10d873bd2cef5458a1af8e7b92a97f1d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Warehousing",
+      "uuid": "1437ce8a96edd0c1f18b0c273dca7bdd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sampling",
+      "uuid": "1d07814d12178c958e4233501cb0bdc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "GMP",
+      "uuid": "5cadaaa0d5a9af6f6035dca369ed3d0e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Staging",
+      "uuid": "830f78e090fe8aec00891405dfc14824",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SAP",
+      "uuid": "999bc6b18351bbe817d26f559ba408ae",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Petrochemical",
+      "uuid": "dcf84f2c6c4586a2863d1a153804b16a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Chemical Engineering",
+      "uuid": "edb39c86b27856a5b82c4fd717e547a3",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33499",
+  "occupationId": "OCC008559",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200107591N",
+    "description": "<p>   Through our commitment towards helping companies and individuals, our consultants pride their professionalism and competency in finding the right match. With our extensive pool of candidates, we are able to provide thorough assessments and selections based on the requirements needed.</p>  ",
+    "name": "NOVEXX PTE. LTD.",
+    "ssicCode": "71122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:53:01.000Z",
+    "ssicCode2020": "71122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200107591N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "TUAS VIEW LOOP",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "637674",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.29180283582064,
+    "lng": 103.624119702241
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0171050",
+    "deletedAt": null,
+    "createdBy": "2e022286-430d-4a80-8970-03a977c5183a",
+    "createdAt": "2026-01-28T01:22:57.000Z",
+    "updatedAt": "2026-01-28T01:22:57.000Z",
+    "emailRecipient": "2e022286-430d-4a80-8970-03a977c5183a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 130,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 15,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/process-technician-novexx-95e066d06264c8ccded177ab1c6dfa81",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/95e066d06264c8ccded177ab1c6dfa81"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/95e066d06264c8ccded177ab1c6dfa81/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

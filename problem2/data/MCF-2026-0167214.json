@@ -1,0 +1,230 @@
+{
+  "uuid": "e5a8af481b48fcb1fa007366d10af788",
+  "sourceCode": "Employer Portal",
+  "title": "Accounts Executive",
+  "description": "<p><strong>Job Description:</strong></p><ul><li><p>Handle full set of accounts for the company</p></li><li><p>Manage day-to-day accounting operations, including monthly and year-end closing</p></li><li><p>Ensure accurate and timely recording of financial transactions</p></li><li><p>Maintain proper accounting records in compliance with accounting standards and company policies</p></li><li><p>Prepare monthly financial reports and schedules for management review</p></li><li><p>Ensure timely month-end closing and reporting</p></li><li><p>Liaise with external auditors, tax agents, and relevant authorities on audit, tax, and statutory matters</p></li><li><p>Prepare sales invoices and manage accounts receivable, including follow-up on collections</p></li><li><p>Process vendor invoices, accounts payable, and payment runs</p></li><li><p>Process staff claims and reimbursements</p></li><li><p>Prepare and submit GST returns and related schedules</p></li><li><p>Support ad-hoc finance and administrative duties as assigned</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>Degree in Accounting or equivalent professional qualification</p></li><li><p>At least 3-5 years of relevant working experience</p></li><li><p>Independent with minimum supervision and able to meet deadlines</p></li><li><p>Excellent interpersonal and communication skills</p></li><li><p>Positive work attitude and self-motivated</p></li><li><p>Meticulous and good analytical skills</p></li></ul><p><br />\n\n</p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Account Management",
+      "uuid": "09f0c5159c5e34504e453eff3fc70324",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Payable",
+      "uuid": "1ed711fc7b4a53484ce612ee65c8e3b8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Analytical Skills",
+      "uuid": "35b52d00fc3644e93cc8a64a9df84eeb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "uuid": "85a5a60af39dc6ae682bda3def2ee961",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounts Receivable",
+      "uuid": "960cf260f12a85ed2e3487bd0878f635",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting",
+      "uuid": "9bbd45bad55cfc620803907f2d8a0217",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Statements",
+      "uuid": "9fee25e5022c6a599aae1caf49bddcf6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accounting Standards",
+      "uuid": "c1c271d82742dcaa62a3f95307fe126e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Reporting",
+      "uuid": "f8cc933992ca4af7cb5eddd6b9d44778",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43112",
+  "occupationId": "OCC008765",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "198502257W",
+    "description": null,
+    "name": "MATSUI MFG. (SINGAPORE) PTE. LTD.",
+    "ssicCode": "28292",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T03:05:35.000Z",
+    "ssicCode2020": "28292",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198502257W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198502257W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198502257W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/198502257W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "8",
+    "street": "LORONG BAKAR BATU",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "348743",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 13,
+        "location": "D13 Macpherson, Braddell",
+        "region": "Central",
+        "sectors": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.32738396955,
+    "lng": 103.872323738474
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167214",
+    "deletedAt": null,
+    "createdBy": "01007528-07c7-49e5-b75a-8928f01d88d4",
+    "createdAt": "2026-01-27T08:06:04.000Z",
+    "updatedAt": "2026-01-27T08:06:04.000Z",
+    "emailRecipient": "01007528-07c7-49e5-b75a-8928f01d88d4",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 296,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/accounts-executive-matsui-mfg-e5a8af481b48fcb1fa007366d10af788",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4000,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e5a8af481b48fcb1fa007366d10af788"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e5a8af481b48fcb1fa007366d10af788/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

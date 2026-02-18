@@ -1,0 +1,206 @@
+{
+  "uuid": "e2c48fe36c82ddd6b280a9c392f2934b",
+  "sourceCode": "Employer Portal",
+  "title": "Network Engineer (2-Year Renewable Contract)",
+  "description": "<p></p><p><strong>Responsibilities</strong></p><p>Network and Firewall Support:</p><p>•\tAssist with the installation, configuration, and maintenance of network and firewall hardware and software.</p><p>•\tMonitor network and firewall performance, troubleshoot issues, and support resolution of outages.</p><p>•\tPerform routine maintenance, upgrades, and patching on network infrastructure.</p><p>•\tSupport LAN/WAN operations and ensure consistent connectivity across sites.</p><p>•\tMaintain accurate documentation of network configurations, changes, and standard procedures.</p><p>•\tCoordinate with internal departments and external vendors or stakeholders.</p><p>•\tTrack and maintain inventory of network and firewall-related assets under the Network Team.</p><p></p><p><strong>Requirements</strong></p><p>•\tDiploma in Computer Science, Information Technology, or a related discipline.</p><p>•\tMinimum 3 years of experience or internship in network engineering or IT support preferred.</p><p>•\t CCNA certification preferred</p><p>•\tStrong understanding of WAN, LAN, and network security</p><p>•\tExperience with Cisco networking technologies and/or Fortinet firewalls is an advantage</p><p>•\tBasic knowledge of networking concepts, protocols (e.g., TCP/IP, DNS, DHCP), and tools.</p><p>•\tFamiliarity with firewall technologies and basic network troubleshooting.</p><p>•\tStrong problem-solving skills and eagerness to learn.</p><p>•\tGood verbal and written communication skills.</p><p></p><p></p>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Cisco Networking",
+      "uuid": "04609efb9f4ed8d9641239b401b1ad14",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Fortinet",
+      "uuid": "1f25b8a9986a2e7a04ee9538c462e578",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Engineering",
+      "uuid": "2b85c9455636f5ef53e3e8424fcb3fc9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "CCNA",
+      "uuid": "3d645983387566a4af67b11ff5f6bc1d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DHCP",
+      "uuid": "54201c55d2bdc7a9e19d9e032d8c0ede",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "WAN",
+      "uuid": "e4c50e7a3518208e18c827187578acdf",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "DNS",
+      "uuid": "ed5f2bdecbd4bd349d09412d1ff6a6fb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "21499",
+  "occupationId": "OCC003570",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 11,
+      "category": "Engineering"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "201829842E",
+    "description": null,
+    "name": "SANCRO PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T01:38:55.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829842E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829842E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829842E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201829842E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "33",
+    "street": "UBI AVENUE 3",
+    "floor": null,
+    "unit": null,
+    "building": "VERTEX",
+    "postalCode": "408868",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33292970284991,
+    "lng": 103.894107723466
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0168856",
+    "deletedAt": null,
+    "createdBy": "1959fc4f-12af-4b4a-a266-d6c4261783a5",
+    "createdAt": "2026-01-27T10:25:09.000Z",
+    "updatedAt": "2026-01-27T10:25:10.000Z",
+    "emailRecipient": "1959fc4f-12af-4b4a-a266-d6c4261783a5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 119,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 11,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/network-engineer-sancro-e2c48fe36c82ddd6b280a9c392f2934b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e2c48fe36c82ddd6b280a9c392f2934b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e2c48fe36c82ddd6b280a9c392f2934b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

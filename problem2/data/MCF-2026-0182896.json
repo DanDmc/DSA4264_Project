@@ -1,0 +1,205 @@
+{
+  "uuid": "046ae89fac46b7cc458c17a4b6535972",
+  "sourceCode": "Employer Portal",
+  "title": "MARKETING & SALES EXECUTIVE",
+  "description": "<p><strong>Job Description:</strong><br /><br />We are a well-established Construction and Manpower Supply Company in Singapore seeking a motivated Marketing Executive to support business developmentand client engagement in the local market.<br /></p><p><strong>Key Responsibilities:</strong></p><ul><li>Promote construction and manpower supply services to local clients</li><li>Develop new business opportunities</li><li>Develop new clients and maintain existing relationships</li><li>Liaise with Mandarin-speaking clients and business partners</li><li>Conduct market research and prepare marketing strategies and business proposals </li><li>Conduct client meetings, site visits, and follow-ups</li><li>Achieve sales and business development targets</li></ul><p><strong>Requirements:</strong></p><ul><li>Diploma or Degree in Marketing, Business, or related field</li><li>Minimum<strong> </strong>3 – 5 years of relevant experience (construction/manpower industry preferred)</li><li>Proficient in English and Mandarin (to liaise with Mandarin-speaking clients)</li><li>Good communication, negotiation, presentation and interpersonal skills</li><li>Familiar with Singapore construction market and MOM regulations (advantage)</li><li>Ability to work independently and meet targets</li><li>Singapore Citizens or Permanent Residents preferred</li></ul><p><strong>Salary & Benefits</strong></p><ul><li><strong>Monthly Salary:</strong> SGD <strong>[2800 – 4500]</strong>\n     (Negotiable, based on experience)</li><li>Commission / Performance Incentives</li><li>Career progression opportunities</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Market Research",
+      "uuid": "023157b1a3d9ee4f0ed14b9801a26ac4",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales and Business Development",
+      "uuid": "d08fd1f5a38bf960259fd21752590342",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "33229",
+  "occupationId": "OCC008712",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "201809448R",
+    "description": null,
+    "name": "SAI SR ENGINEERING PTE. LTD.",
+    "ssicCode": "71122",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T14:50:59.000Z",
+    "ssicCode2020": "71122",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809448R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809448R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809448R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201809448R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "SOON LEE STREET",
+    "floor": null,
+    "unit": null,
+    "building": "ISPACE",
+    "postalCode": "627608",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 22,
+        "location": "D22 Jurong, Jurong Island, Tuas",
+        "region": "West",
+        "sectors": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ],
+        "regionId": "West"
+      }
+    ],
+    "lat": 1.33391470808883,
+    "lng": 103.700041792155
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0182896",
+    "deletedAt": null,
+    "createdBy": "e61e7d1e-1594-4526-9405-8e23a867cee3",
+    "createdAt": "2026-01-29T09:06:18.000Z",
+    "updatedAt": "2026-01-29T09:06:18.000Z",
+    "emailRecipient": "e61e7d1e-1594-4526-9405-8e23a867cee3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 58,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-12",
+    "totalNumberJobApplication": 1,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/marketing-sales-executive-sai-sr-engineering-046ae89fac46b7cc458c17a4b6535972",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 2800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/046ae89fac46b7cc458c17a4b6535972"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/046ae89fac46b7cc458c17a4b6535972/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

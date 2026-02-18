@@ -1,0 +1,235 @@
+{
+  "uuid": "edd5f32aa011f329e7902a5a525013e8",
+  "sourceCode": "Employer Portal",
+  "title": "Senior Software Engineer",
+  "description": "<p>At SPH Media, we create remarkable content and experiences – from breaking news to lifestyle content, reaching our audiences on a range of different platforms. As Asia’s leading media organisation, our mission is to be the trusted source of news on Singapore and Asia, to represent the communities that make up Singapore, and to connect them to the world.<br /></p><p>The Digital Platform team in SPH is looking for an experienced Engineering Manager to lead core teams of around 10 engineers building out our internal Application Platforms. This is a leadership position responsible for SPH’s mission-critical systems:</p><p>1. Web Platform: Our internal application platform (think inhouse Vercel, built on AWS, serving React apps for all our publications) that enables product teams to ship features quickly and reliably.</p><p>2. Content Platform: The centralised indexing system for our content, powered by OpenSearch, an API layer, and data ingestion pipelines.<br /></p><p>This role is ideal for a seasoned manager who thrives on technical challenges and enjoys taking full ownership of their domain.<br /></p><p><strong>Responsibilities</strong></p><ul><li>Team Leadership & Development: Lead, mentor, and support teams comprising around 10 engineers. Your primary focus will be on their career growth, fostering technical excellence, and creating a high-performing, collaborative environment.</li><li>Technical Vision & Strategy: Own the technical roadmap for the Web and Content platforms. You'll work with product and other engineering leaders to define priorities and ensure your systems are built for scale and reliability.</li><li>Delivery & Execution: Guide the team in shipping high-quality software through an efficient agile process. We value outcomes over ceremony and trust you to run your team effectively. Architectural Guidance: Serve as the key technical decision-maker for your platforms. You will lead architectural discussions and design reviews to ensure we build robust, scalable, and maintainable systems.</li><li>Platform Reliability: You are ultimately responsible for the operational health of these mission critical platforms. You'll champion best practices in monitoring, observability, and incident response.</li><li></li></ul><p><strong>You will need</strong></p><ul><li>Leadership Experience: 2+ years in a software engineering management role, with a clear track record of developing engineers and successfully delivering complex projects. Strong Technical Foundation: 4+ years in software development. While this is a hands-off keyboard role, you have deep, practical experience in at least one of the following areas (given that these are deeply technical teams):</li><li>Modern Web Infrastructure: Building or working with developer platforms, CI/CD, AWS (or other major cloud providers), and highly-performant, cost-efficient, modern web application architecture. Bonus points if you have experience developing and running production-scale React SSR/ISR, Next.js setups.</li><li>Data & Content Systems: Search technologies (OpenSearch/Elasticsearch or similar), designing low-latency high-throughput APIs, and building data ingestion systems. Proven experience in reliable software operations: Proven track record operating mission critical software and implementing the necessary processes and observability for these systems.</li><li>Pragmatic Problem-Solving: A practical, product-oriented mindset. You understand the trade offs in engineering and focus on delivering value.</li><li>Clear Communication: The ability to articulate complex technical ideas to engineers, product managers, and stakeholders with clarity and precision.</li></ul>",
+  "minimumYearsExperience": 8,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Application Architecture",
+      "uuid": "0d285fa81c0e9f4de7513d1472d5e54f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Lifestyle",
+      "uuid": "1efd5a4cb7e8b445ad239f0226526c5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Engineering Management",
+      "uuid": "34303ea0fa5691006712bb4beaf55b76",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Agile",
+      "uuid": "657fd3eec6624217c3ad5de3744a69d2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "JavaScript",
+      "uuid": "686155af75a60a0f6e9d80c1f7edd3e9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Reliability",
+      "uuid": "820b8f74ad843d1574106ec4cadfc07e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "SQL",
+      "uuid": "9778840a0100cb30c982876741b0b5a2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Breaking News",
+      "uuid": "be5f4a7963408175b81b3fd1a277fb37",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Articulate",
+      "uuid": "cfd2360937d8b0cb9d1b70faf469d50d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Development",
+      "uuid": "f287f429e4026672e5754c1201691e49",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "13302",
+  "occupationId": "OCC014586",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 3,
+      "position": "Manager"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0912",
+  "postedCompany": {
+    "uen": "202120748H",
+    "description": "<p>SPH Media’s mission is to be the trusted source of news on Singapore and Asia, to represent the communities that make up Singapore, and to connect them to the world.</p>\n<p>It has several business segments in the media industry, including the publishing of newspapers, magazines, and books in both print and digital editions. It also owns and operates other businesses including radio stations and outdoor media.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+    "name": "SPH MEDIA LIMITED",
+    "ssicCode": "18111",
+    "employeeCount": 2500,
+    "companyUrl": "www.sph.com.sg",
+    "lastSyncDate": "2026-02-04T10:46:24.000Z",
+    "ssicCode2020": "18111",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202120748H/schemes"
+      }
+    },
+    "logoFileName": "2b0f16e0dafed0391310af2390e66e20/sph-media.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/2b0f16e0dafed0391310af2390e66e20/sph-media.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1000",
+    "street": "TOA PAYOH NORTH",
+    "floor": null,
+    "unit": null,
+    "building": "NEWS CENTRE",
+    "postalCode": "318994",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 12,
+        "location": "D12 Balestier, Serangoon, Toa Payoh",
+        "region": "Central",
+        "sectors": [
+          "31",
+          "32",
+          "33"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.34306619804588,
+    "lng": 103.848661356561
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0167503",
+    "deletedAt": null,
+    "createdBy": "6f9a42e5-4e56-4dc0-96ae-0600ec3851e5",
+    "createdAt": "2026-01-27T08:33:52.000Z",
+    "updatedAt": "2026-01-27T08:33:53.000Z",
+    "emailRecipient": "6f9a42e5-4e56-4dc0-96ae-0600ec3851e5",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 160,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 13,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-software-engineer-sph-media-edd5f32aa011f329e7902a5a525013e8",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 12300,
+    "minimum": 10000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/edd5f32aa011f329e7902a5a525013e8"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/edd5f32aa011f329e7902a5a525013e8/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

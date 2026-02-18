@@ -1,0 +1,234 @@
+{
+  "uuid": "9395e159f5a1597f8d542a28eabd2674",
+  "sourceCode": "Employer Portal",
+  "title": "Quantitative Developer (Core Trading Systems)",
+  "description": "<p><strong>Role Purpose</strong></p><p>The Quantitative Developer is responsible for the design,\nimplementation, and ongoing maintenance of the firm’s <strong>core trading\ninfrastructure</strong>, with a specific focus on <strong>event-driven backtesting\nsystems</strong> and <strong>FIX-based execution connectivity</strong>.</p><p>This role is central to ensuring that research results are <strong>accurately\nrepresented, operationally robust, and consistently reproducible</strong> when\ntransitioned from research to live trading, thereby supporting disciplined\ncapital deployment and risk management.</p><p><strong>Key Responsibilities</strong></p><p><strong>Research & Backtesting Infrastructure</strong></p><ul><li>Design\n     and maintain an <strong>event-driven backtesting framework</strong> that:</li><li><li>Accurately\n      models market events, order lifecycles, and execution mechanics</li><li>Supports\n      multi-strategy and multi-asset portfolios</li><li>Produces\n      reproducible, auditable outputs suitable for internal review and external\n      due diligence</li></li><li>Ensure\n     strong alignment between <strong>backtest assumptions and live trading\n     behaviour</strong>, minimising model-to-production drift</li><li>Collaborate\n     closely with quantitative researchers to ensure:</li><li><li>Correct\n      implementation of strategy logic</li><li>Performance\n      efficiency and scalability of simulations</li></li></ul><p><strong>Execution & Connectivity</strong></p><ul><li>Build\n     and maintain a <strong>FIX-protocol-based trading engine</strong> used for live\n     order routing and execution</li><li>Implement\n     robust handling of:</li><li><li>Order\n      state management</li><li>Partial\n      fills, rejects, and recovery scenarios</li><li>Broker\n      and venue connectivity</li></li><li>Integrate\n     execution workflows with risk controls, monitoring, and operational\n     safeguards</li></ul><p><strong>Operational & Systems Engineering</strong></p><ul><li>Develop\n     and operate production services using <strong>C/C++ and Python</strong>, adhering to\n     strong software engineering standards, bearing in mind that end users\n     mostly code in Python</li><li>Deploy\n     trading and research services within a <strong>containerised, Kubernetes-based\n     infrastructure</strong></li><li>Implement\n     logging, monitoring, and alerting to support operational transparency and\n     post-trade review</li><li>Contribute\n     to system design with an emphasis on:</li><li><li>Stability\n      and resilience</li><li>Controlled\n      change management</li><li>Operational\n      risk reduction</li></li></ul><p><strong>Required Experience & Competencies</strong></p><p><strong>Technical Foundation</strong></p><ul><li>Proven\n     experience in <strong>C/C++ and Python</strong> in production environments</li><li>Strong\n     grounding in <strong>software engineering best practices</strong>, including:</li><li><li>Modular\n      system design</li><li>Testing\n      and validation</li><li>Version\n      control and code review</li></li></ul><p><strong>Trading Systems Exposure</strong></p><ul><li>Experience\n     building or maintaining <strong>event-driven systems</strong></li><li>Familiarity\n     with, or demonstrated ability to work with, <strong>FIX-based trading\n     infrastructure</strong></li><li>Understanding\n     of real-world execution considerations and failure modes</li></ul><p><strong>Infrastructure & Operations</strong></p><ul><li>Experience\n     deploying and operating services using <strong>Kubernetes</strong></li><li>Familiarity\n     with containerisation and controlled deployment workflows</li><li>Comfortable\n     operating in regulated or risk-sensitive environments</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Derivatives",
+      "uuid": "2a7f1476b6ddab6d53b03d77dacdbd1e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scalability",
+      "uuid": "2d215ebfc0280f8163d071454ec7ce01",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Mathematics",
+      "uuid": "540b21ecdb276f5087ee585cedd6d5d0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Software Engineering",
+      "uuid": "607c057459161394d748df802b30f07b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transparency",
+      "uuid": "6f7956741d5d673ff0c8eacc8d8c961c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Routing",
+      "uuid": "786c4135070aa1910d2f4ac8b2253235",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Logging",
+      "uuid": "8db7df66ab1d7ab5f1dc947acdb5fae4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "System Design",
+      "uuid": "98bf5c1a28c1981bf8d74d4bc73ceaab",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Portfolio Management",
+      "uuid": "a15cf1ff7f2295ea409d18db54625651",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Python",
+      "uuid": "a7f5f35426b927411fc9231b56382173",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Statistics",
+      "uuid": "c33e404a441c6ba9648f88af3c68a1ca",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Capital",
+      "uuid": "c56ccc6a1321e66ddd94fe430b8a1f82",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pricing",
+      "uuid": "e22ac25b066b201473de7aa700ef5d92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Databases",
+      "uuid": "ea2ef9b0d095bf991f4973633b485340",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "C++",
+      "uuid": "f6f87c9fdcf8b3c3f07f93f1ee8712c9",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25190",
+  "occupationId": "OCC013826",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0913",
+  "postedCompany": {
+    "uen": "202135708W",
+    "description": "<p>At ATTIX, we're at the forefront of innovation, delivering cutting-edge AI solutions across diverse industries. Our mission is to empower businesses with custom software that propels them to new heights. From revolutionizing the Fintech sector with advanced trading platforms and predictive analytics to pioneering AI-driven technologies in the automotive industry, we are committed to excellence and transformative progress.<br>\n<br>\nWhy Join ATTIX?<br>\n<br>\n- Innovative Environment: Engage in groundbreaking projects that redefine industries.<br>\n- Collaborative Culture: Work alongside a team of seasoned professionals and visionary leaders.<br>\n- Professional Growth: Access opportunities for continuous learning and career advancement.<br>\n- Diverse Projects: Contribute to a range of sectors, including Fintech, automotive, and communication technologies.<br>\n<br>\nJoin us in our mission to innovate and excel. Be a part of a team that's shaping the future with AI-powered solutions.</p>",
+    "name": "ATTIX APAC PTE. LTD.",
+    "ssicCode": "62090",
+    "employeeCount": null,
+    "companyUrl": "https://www.attix.com/",
+    "lastSyncDate": "2026-02-04T03:07:40.000Z",
+    "ssicCode2020": "62090",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135708W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135708W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135708W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202135708W/schemes"
+      }
+    },
+    "logoFileName": "7053c2537b41828eb99c75364262416f/attix-apac.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/7053c2537b41828eb99c75364262416f/attix-apac.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "78",
+    "street": "SHENTON WAY",
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": "079120",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 2,
+        "location": "D02 Anson, Tanjong Pagar",
+        "region": "Central",
+        "sectors": [
+          "07",
+          "08"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.27320921232922,
+    "lng": 103.845282165951
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0176221",
+    "deletedAt": null,
+    "createdBy": "d5f224a7-94f0-41a0-9f90-42168f79d016",
+    "createdAt": "2026-01-28T09:15:24.000Z",
+    "updatedAt": "2026-01-28T09:15:24.000Z",
+    "emailRecipient": "d5f224a7-94f0-41a0-9f90-42168f79d016",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 83,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-28",
+    "expiryDate": "2026-02-27",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/quantitative-developer-attix-apac-9395e159f5a1597f8d542a28eabd2674",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 7000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9395e159f5a1597f8d542a28eabd2674"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9395e159f5a1597f8d542a28eabd2674/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

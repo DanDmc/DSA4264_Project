@@ -1,0 +1,233 @@
+{
+  "uuid": "ec241f2db7c0e8d24c677cd029ee3ebc",
+  "sourceCode": "Employer Portal",
+  "title": "ICT Security Officer (Networking & Infrastructure)",
+  "description": "<p><strong>Responsibilities: Bridging Defense and Deployment</strong></p><ul><li><p><strong>Secure Technical Consulting:</strong> Act as a subject matter expert in pre-sales and post-sales, designing network architectures that prioritize <strong>Zero Trust principles</strong> and <strong>hardware-level resiliency</strong>.</p></li><li><p><strong>Applied Cryptography & Hardening:</strong> Evaluate and deploy emerging cryptography technologies (PKI, HSMs, or encrypted transport protocols) to secure data-in-transit and data-at-rest across client sites.</p></li><li><p><strong>Resilience-Focused Life Cycle:</strong> Lead project planning and system implementation with a focus on <strong>hardened system migrations</strong>, preventive maintenance of security appliances, and detailed technical documentation.</p></li><li><p><strong>SecOps & Data Center Field Operations:</strong> Manage on-site security for Data Centers and IT environments. This includes securing the physical-to-digital handoff for servers, switches, and high-security helpdesk escalations.</p></li><li><p><strong>Infrastructure Rollouts:</strong> Execute the installation and \"burn-in\" testing of secure IT infrastructure. You will be responsible for capacity planning that accounts for the performance overhead of security encryption and monitoring tools.</p></li><li><p><strong>Vendor & Compliance Liaison:</strong> Coordinate with external vendors to ensure hardware and software deliveries meet strict <strong>industrial compliance standards</strong> (e.g., ensuring no gray-market components or unpatched firmware).</p></li></ul><h3><strong>Requirements: Technical Edge & Field Expertise</strong></h3><ul><li><p><strong>Educational Background:</strong> Diploma or Degree in Computer Science, Engineering, Information Technology, or <strong>Cyber/Network Security</strong>.</p></li><li><p><strong>Domain Expertise:</strong> Proven background in at least one core security domain, with a heavy emphasis on <strong>Network Security, Firewall Orchestration, or Cryptographic Implementation</strong>. Familiarity with endpoint protection (e.g., Trend Micro) in a networked environment is a plus.</p></li><li><p><strong>Network & Server Mastery:</strong> * <strong>Networking:</strong> Hands-on experience in the <strong>secure configuration of Switches and VLAN segmentation</strong> to isolate critical traffic.</p><ul><li><p><strong>Systems:</strong> Technical proficiency in hardening and configuring <strong>AIX/Solaris/Linux or Windows Server</strong> environments.</p></li></ul></li><li><p><strong>Field Engineering Skillset:</strong> Demonstrated experience in the <strong>physical installation, configuration, and troubleshooting</strong> of network/server hardware in diverse environments (Data Centers, remote offices, or industrial sites).</p></li><li><p><strong>Strategic Awareness:</strong> A deep curiosity for emerging threats (e.g., Quantum-resistant cryptography, AI-driven network attacks) and a commitment to industry best practices like <strong>CIS Benchmarks</strong> or <strong>NIST</strong> frameworks.</p></li><li><p><strong>Soft Skills:</strong> Strong problem-solving skills under pressure and the ability to communicate technical risks to stakeholders clearly.</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Switches",
+      "uuid": "0052efad5d260a806d52bfcfe640936f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Troubleshooting",
+      "uuid": "231cf4c70d866b616c21baddaeed0696",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hardware",
+      "uuid": "3c02a379965ab0dfcd77b1c484450433",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Data Center",
+      "uuid": "47df2b78ac4b3edfbf1c6d0b2a64c579",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Defense",
+      "uuid": "4b088aaa68446b6ec08cdc385d03516d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cryptography",
+      "uuid": "64ef07ce3e4b420c334227eecb3b3f4c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Windows Server",
+      "uuid": "95a90af1d5b68afaa24b9f917e25e4ec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Pressure",
+      "uuid": "a78578c428179b490a0461e76ba5f319",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Consulting",
+      "uuid": "ca5e8455876f15fab5331d96be08b689",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Encryption",
+      "uuid": "d7f2615c71a1567cc13cf3a7f7de0aea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Orchestration",
+      "uuid": "d9cc1f843ea62c12a3e59afbbdc2f9ce",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "35122",
+  "occupationId": "OCC060838",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0919",
+  "postedCompany": {
+    "uen": "201313056K",
+    "description": "<p>Centrics Networks Pte Ltd is an established system integrator who delivers the best of breed solutions for companies of all sizes. We are early adopters of technologies that are both cost-effective and easy to use which will help business growth indefinitely!</p>\n<p><br></p>\n<p>Centrics Networks have also delivered many digital transformation projects for local SMEs as well as MNCs and continuously engage in delivering the IT assistance required by many companies in this digital age!</p>\n<p><br></p>\n<p>Our primary focus starts from Infrastructure; CyberSecurity; Digital Consolidation; Computing EndPoint and Audit &amp; Compliance which made us who we are today - a reliable vendor whom you can rely on!</p>",
+    "name": "CENTRICS NETWORKS PTE. LTD.",
+    "ssicCode": "62022",
+    "employeeCount": null,
+    "companyUrl": "www.centricsnetworks.com.sg",
+    "lastSyncDate": "2026-01-29T01:57:44.000Z",
+    "ssicCode2020": "62022",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313056K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313056K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313056K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201313056K/schemes"
+      }
+    },
+    "logoFileName": "49995f227e4ef82a06bcbd503b7508a1/centrics-networks.jpg",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/49995f227e4ef82a06bcbd503b7508a1/centrics-networks.jpg",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "18",
+    "street": "SIN MING LANE",
+    "floor": null,
+    "unit": null,
+    "building": "MIDVIEW CITY",
+    "postalCode": "573960",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 20,
+        "location": "D20 Bishan, Ang Mo Kio",
+        "region": "North",
+        "sectors": [
+          "56",
+          "57"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35896872448261,
+    "lng": 103.833968719539
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0184367",
+    "deletedAt": null,
+    "createdBy": "051b1841-b7e8-46be-ae54-3a11e31bbbd3",
+    "createdAt": "2026-01-29T12:14:11.000Z",
+    "updatedAt": "2026-01-29T12:14:11.000Z",
+    "emailRecipient": "051b1841-b7e8-46be-ae54-3a11e31bbbd3",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 57,
+    "newPostingDate": "2026-01-29",
+    "originalPostingDate": "2026-01-29",
+    "expiryDate": "2026-02-19",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/ict-security-officer-centrics-networks-ec241f2db7c0e8d24c677cd029ee3ebc",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 4000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec241f2db7c0e8d24c677cd029ee3ebc"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/ec241f2db7c0e8d24c677cd029ee3ebc/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

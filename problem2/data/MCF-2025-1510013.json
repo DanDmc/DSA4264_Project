@@ -1,0 +1,219 @@
+{
+  "uuid": "dac5e64fd00e3736e840434715b5c2c7",
+  "sourceCode": "Employer Portal",
+  "title": "Packer",
+  "description": "<p><strong>Responsibilities:</strong><br>\n•⁠ ⁠Pack goods according to company’s standards and guidelines<br>\n•⁠ ⁠Ensure items are properly labelled and securely packaged<br>\n•⁠ ⁠Inspect products for defects or damage before packing<br>\n•⁠ ⁠Maintain a clean and organized packing area<br>\n•⁠ ⁠Follow safety protocols to ensure a safe working environment<br>\n•⁠ ⁠Collaborate with team members to meet packing deadlines</p>\n<p><br></p>\n<p><strong>Qualifications:</strong><br>\n•⁠ ⁠Previous experience in a packing or similar role is preferred but not required<br>\n•⁠ ⁠Attention to detail and high level of accuracy<br>\n•⁠ ⁠Ability to work independently and as part of a team<br>\n•⁠ ⁠Good physical condition with the ability to stand, bend, and lift items as needed<br>\n•⁠ ⁠Positive attitude and reliable work ethic</p>\n<p><br></p>\n<p><br></p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Factory",
+      "uuid": "1c6e980e0eee73a9a9512439f56665c5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Labels",
+      "uuid": "3ad6cb6100190c8f81e99fd52debf7ef",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Outsourcing",
+      "uuid": "421676a5f89101900835f44561985964",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Housekeeping",
+      "uuid": "44fd6389cefab81d281b501ecdbcc7f0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Arranging",
+      "uuid": "4ddd7ba3b2f5aac954b528bea10008d3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Unloading",
+      "uuid": "62168dff2fc801c4ff6ee24619bc314c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Physically Fit",
+      "uuid": "9778ebf6d80d87963ef79fc930911f09",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Transportation",
+      "uuid": "a600971fdd23ea1f5685d7ee01d5f5c3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Packaging",
+      "uuid": "a669003ea35aa39ca280b83bd259a032",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Manufacturing",
+      "uuid": "e86883c7cfc07afcf1e5ad8dffd7e1cc",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shipping",
+      "uuid": "ea9cf7e47ff33b2be14e6dd07cbcefc6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "93201",
+  "occupationId": "OCC013550",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 10,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "11",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "200010141M",
+    "description": null,
+    "name": "HMLY PTE LTD",
+    "ssicCode": "82920",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:52:16.000Z",
+    "ssicCode2020": "18113",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200010141M/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1510013",
+    "deletedAt": "2026-01-24T17:15:04.000Z",
+    "createdBy": "934bfe12-4bb4-4a30-bd62-16cc3aa08748",
+    "createdAt": "2025-10-06T03:08:48.000Z",
+    "updatedAt": "2026-01-29T23:53:57.000Z",
+    "emailRecipient": "934bfe12-4bb4-4a30-bd62-16cc3aa08748",
+    "editCount": 0,
+    "repostCount": 2,
+    "totalNumberOfView": 736,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2025-10-06",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 28,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/general-work/packer-hmly-dac5e64fd00e3736e840434715b5c2c7",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2200,
+    "minimum": 1600,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dac5e64fd00e3736e840434715b5c2c7"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/dac5e64fd00e3736e840434715b5c2c7/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

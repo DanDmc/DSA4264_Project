@@ -1,0 +1,221 @@
+{
+  "uuid": "4a3eece4af0ae3b01ce6b8781f046585",
+  "sourceCode": "Employer Portal",
+  "title": "Junior Events Associate",
+  "description": "<p>What you’ll do:</p>\n<p>• Assist in planning and coordinating events</p>\n<p>• Manage on-site teams and logistics</p>\n<p>• Work with partners, vendors, and clients</p>\n<p><br></p>\n<p>Benefits:</p>\n<p>• Leadership development and management training</p>\n<p>• Opportunities to run your own events as you grow</p>\n<p>• Exposure to high-level planning and execution</p>\n<p>• Young, supportive environment that pushes your growth</p>\n<p>• A fast-moving career with real responsibility early on</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Assurance",
+      "uuid": "5f0d8f614176ed32572ffc4e25701af9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership Development",
+      "uuid": "73fa96927c9138fdcb2956d26b9d35db",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Sales",
+      "uuid": "7e62744da492427ab4c08445de2d1e44",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Event Management",
+      "uuid": "7effb2f87a97b7666a5f62f9f90a493e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Entrepreneurship",
+      "uuid": "87fabb18f38548d73b059a44d5e2d059",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Multilingual",
+      "uuid": "93b5ab143cee36e1a62361cd9c843b55",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "brand events",
+      "uuid": "d5a725ee124cc1dc7595f07f372758e0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Adaptable to Changes",
+      "uuid": "e02d9e9da7243a7f8c1ac12a68b0f1bb",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "14391",
+  "occupationId": "OCC001205",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    },
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 26,
+      "category": "Marketing / Public Relations"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    },
+    {
+      "id": 42,
+      "category": "Wholesale Trade"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 2,
+      "employmentType": "Temporary"
+    },
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    },
+    {
+      "id": 7,
+      "employmentType": "Permanent"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "53505651J",
+    "description": "<p>We are a leading sales and marketing company with a global presence across Asia. Our mission is to expand client's market by connecting them with the right customers.</p>",
+    "name": "SAGE UNLIMITED",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T00:40:27.000Z",
+    "ssicCode2020": "46900",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53505651J"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53505651J/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53505651J/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/53505651J/schemes"
+      }
+    },
+    "logoFileName": "1ab1abf65c1e6faf97f97fe982ee4a9b/sage-unlimited.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/1ab1abf65c1e6faf97f97fe982ee4a9b/sage-unlimited.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0116133",
+    "deletedAt": "2026-01-26T17:15:05.000Z",
+    "createdBy": "a616d892-76c7-40d4-988c-8605f7fe646e",
+    "createdAt": "2026-01-19T10:44:10.000Z",
+    "updatedAt": "2026-01-27T23:05:08.000Z",
+    "emailRecipient": "a616d892-76c7-40d4-988c-8605f7fe646e",
+    "editCount": 0,
+    "repostCount": 1,
+    "totalNumberOfView": 66,
+    "newPostingDate": "2026-01-28",
+    "originalPostingDate": "2026-01-19",
+    "expiryDate": "2026-02-04",
+    "totalNumberJobApplication": 5,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/junior-events-associate-sage-unlimited-4a3eece4af0ae3b01ce6b8781f046585",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3200,
+    "minimum": 2700,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a3eece4af0ae3b01ce6b8781f046585"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/4a3eece4af0ae3b01ce6b8781f046585/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

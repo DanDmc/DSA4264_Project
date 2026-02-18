@@ -1,0 +1,193 @@
+{
+  "uuid": "5ea0e28c29df3ce7abe91f732052a4be",
+  "sourceCode": "Employer Portal",
+  "title": "AWS Infra/Techincal Architect",
+  "description": "<h3>About the Role</h3><p>We are looking for a passionate and driven Senior Technical Architect to join our team. The ideal candidate will have a strong understanding of AWS cloud architecture, along with knowledge of Internet Information Services (IIS), Oracle Database, and Linux systems. This role is an excellent opportunity for cloud architects or devops engineers with 5+ years experience in development of cloud solutions and server management.</p><h3>Key Responsibilities</h3><p><ul><li>Assist in designing and implementing cloud-based solutions on AWS, ensuring scalability, reliability, and security.</li><li>Collaborate with cross-functional teams to gather requirements and translate them into technical specifications.</li><li>Support the configuration and management of IIS for hosting web applications.</li><li>Work with the database team to understand and optimize Oracle Database configurations and performance.</li><li>Contribute to the administration and troubleshooting of Linux-based systems and applications.</li><li>Participate in application deployment processes, ensuring smooth transitions from development to production environments.</li><li>Provide ongoing support for deployed applications, addressing any issues that arise and ensuring optimal performance.</li><li>Participate in architectural discussions and contribute to the development of best practices and standards.</li><li>Document architectural designs, processes, and system configurations for future reference.</li><li>Stay updated with emerging technologies and industry trends related to cloud architecture and system design.</li><li>Provide occasional after-hours support for critical incidents and system maintenance as needed.</li></ul><p><strong> Qualifications:</strong></p></p><ul><li>Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).</li><li>AWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified Devops Engineer).</li><li>5+ years experience</li><li>Good understanding of AWS cloud services and architecture principles.</li><li>Knowledge of IIS and web server management.</li><li>Knowledge of Oracle Database concepts and basic SQL queries.</li><li>Experience with Linux operating systems and command-line interfaces.</li><li>Strong analytical and problem-solving skills with attention to detail.</li><li>Excellent communication skills, both verbal and written.</li><li>Eagerness to learn and adapt to new technologies and methodologies</li><li>Drive to innovate and improve existing processes.</li></ul><p><strong>Preferred:</strong></p><ul><li>Knowledge of writing shell scripts (batch scripts, powershell scripts) for execution in Windows Servers / via SSM documents.</li><li>Basic knowledge of programming or scripting languages (e.g., Python, Javascript).</li><li>Understanding of networking concepts and cloud security best practices.</li><li>Exposure to architectural frameworks is a plus.</li><li>Knowledge of management of CrushFTP is a plus.</li></ul><p></p>",
+  "minimumYearsExperience": 7,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Architectural",
+      "uuid": "4e1698d93176b978070c3be7ea60fdec",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "IIS",
+      "uuid": "5da5acf461b4efb7e76ec861065b2126",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Amazon Web Services",
+      "uuid": "6beccc67ff905f7da0b29dece26b0485",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "uuid": "96ccf1f2a05456d17d6279b9a916ef20",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Continuous Integration",
+      "uuid": "bd88c17881add0d183af3862cabdb711",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cloud Services",
+      "uuid": "be0182262c2a113bbb6936e4e0451e50",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Linux System",
+      "uuid": "c1c3a11a4e7115212edd204220c9f8f7",
+      "confidence": null,
+      "isKeySkill": true
+    },
+    {
+      "skill": "Docker",
+      "uuid": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Network Security",
+      "uuid": "e9609b040993009e0e36b9a4d7161b87",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Linux",
+      "uuid": "edc9f0a5a5d57797bf68e37364743831",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "25231",
+  "occupationId": "OCC062506",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 7,
+      "category": "Consulting"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "0911",
+  "postedCompany": {
+    "uen": "202413741N",
+    "description": null,
+    "name": "FREEDOM APAC PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T01:01:58.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202413741N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202413741N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202413741N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202413741N/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0156916",
+    "deletedAt": null,
+    "createdBy": "6fd5750f-2c62-4eb2-bdf0-0cdaca81a03c",
+    "createdAt": "2026-01-26T03:43:28.000Z",
+    "updatedAt": "2026-01-27T09:18:48.000Z",
+    "emailRecipient": "6fd5750f-2c62-4eb2-bdf0-0cdaca81a03c",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 96,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-09",
+    "totalNumberJobApplication": 3,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/consulting/aws-infratechincal-architect-freedom-apac-5ea0e28c29df3ce7abe91f732052a4be",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 7000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5ea0e28c29df3ce7abe91f732052a4be"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/5ea0e28c29df3ce7abe91f732052a4be/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,230 @@
+{
+  "uuid": "c517e5899ac8f7261401a449366c8644",
+  "sourceCode": "Employer Portal",
+  "title": "Butcher",
+  "description": "<p><strong>We are looking for an experienced butcher to join our team.</strong></p><p><strong>Working Hours</strong></p><ul><li><p>Morning shift only</p></li></ul><p><strong>Responsibilities</strong></p><ul><li><p>Cutting, trimming, operating machinery and preparing meat to required standards</p></li><li><p>Ensuring cleanliness and hygiene at all times</p></li><li><p>Proper handling and storage of meat</p></li><li><p>Maintaining tools and work area</p></li><li><p>Following food safety and halal handling procedures </p></li></ul><p><strong>Requirements</strong></p><ul><li><p>Proven experience as a butcher (mandatory)</p></li><li><p>Skilled in meat cutting and preparation</p></li><li><p>Reliable, punctual, and disciplined</p></li><li><p>Able to work independently</p></li><li><p>Physically fit for manual work</p></li></ul><p><strong>Salary</strong></p><ul><li><p>To be discussed (based on experience)</p></li></ul><p><strong>Location</strong></p><ul><li><p>To be discussed with shortlisted candidates<br />Interested candidate please contact Mr Abdul Rahman at 87531321</p></li></ul>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "uuid": "0647f0776aed243f58bfec4dd81de863",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Food",
+      "uuid": "0a38e7286ebbb560354992b3ce62be67",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "safety and hygiene",
+      "uuid": "3c5d97f90822004deb3e438b21bace06",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Poultry",
+      "uuid": "479d57d583cc7e26f8c8b244c20729eb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Loading & unloading",
+      "uuid": "544d69ceb3202e4e7d7c27956e848f5f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "customer friendly approach",
+      "uuid": "80a8a9f61c62ef0110ecf081305403f2",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cutting Tools",
+      "uuid": "814d0bbe99543cf622437008f4e2552c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail Packaging",
+      "uuid": "9acd13fc15dacf86336da6064307ea98",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "meat industry",
+      "uuid": "a8a65006705dd1c7a2517c847dd1e71d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "work area clean",
+      "uuid": "b8e942a4d2b557b721ef47f11de44cbb",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Meat",
+      "uuid": "e4b662d3892f8c0c86801919f979467f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Retail experience",
+      "uuid": "f03f4daed4e9dc709c7c1a34b45324f6",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    },
+    {
+      "id": 3,
+      "flexibleWorkArrangement": "Employees Choice of Days Off"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "75110",
+  "occupationId": "OCC060704",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    },
+    {
+      "id": 15,
+      "category": "F&B"
+    },
+    {
+      "id": 17,
+      "category": "General Work"
+    },
+    {
+      "id": 31,
+      "category": "Purchasing / Merchandising"
+    },
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "23",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201205151C",
+    "description": "<p>CERTIFIED HALAL MEAT PROVIDER&nbsp;</p>\n<p>IMPORTED MEAT FROM AUSTRALIA</p>\n<p>CHILL AND FROZEN MEAT SUPPLIER</p>\n<p>ESTABLISHED 1978</p>\n<p>FAMILY OWNED BUSINESS</p>",
+    "name": "LATIFF & SONS MEAT SUPPLY PTE. LTD.",
+    "ssicCode": "47212",
+    "employeeCount": 20,
+    "companyUrl": "https://www.facebook.com/LatiffSonsMeatSupplyPteLtd",
+    "lastSyncDate": "2026-01-25T07:03:04.000Z",
+    "ssicCode2020": "47212",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201205151C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201205151C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201205151C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201205151C/schemes"
+      }
+    },
+    "logoFileName": "34a7aa56ab15628acceee3d1834be8b8/latiff-sons-meat-supply.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/34a7aa56ab15628acceee3d1834be8b8/latiff-sons-meat-supply.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0153000",
+    "deletedAt": null,
+    "createdBy": "f6a5f903-7382-456c-8dab-fcdaeaa278f4",
+    "createdAt": "2026-01-25T07:19:12.000Z",
+    "updatedAt": "2026-01-25T07:31:46.000Z",
+    "emailRecipient": "f6a5f903-7382-456c-8dab-fcdaeaa278f4",
+    "editCount": 1,
+    "repostCount": 0,
+    "totalNumberOfView": 59,
+    "newPostingDate": "2026-01-25",
+    "originalPostingDate": "2026-01-25",
+    "expiryDate": "2026-02-24",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/butcher-latiff-sons-meat-supply-c517e5899ac8f7261401a449366c8644",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 3500,
+    "minimum": 2000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c517e5899ac8f7261401a449366c8644"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/c517e5899ac8f7261401a449366c8644/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

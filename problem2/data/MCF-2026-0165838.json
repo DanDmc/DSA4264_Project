@@ -1,0 +1,230 @@
+{
+  "uuid": "e788a4ccf20a7affec1210e47f7b3ceb",
+  "sourceCode": "Employer Portal",
+  "title": "construction supervisor",
+  "description": "<p>A Construction Supervisor</p><p>oversees daily on-site operations, managing crews, subcontractors, and vendors to ensure projects are completed on time, within budget, and in compliance with safety regulations and building codes</p><p>. They inspect work quality, schedule tasks, and act as the key liaison between project managers and field staff.</p><p><strong>Key Responsibilities</strong></p><ul><li><strong>Site Management:</strong> Direct daily operations, including material deliveries and equipment usage.</li><li><strong>Safety Compliance:</strong> Enforce strict adherence to safety regulations (e.g., OSHA) and conduct regular site inspections.</li><li><strong>Project Scheduling:</strong> Plan and coordinate construction phases to meet project deadlines.</li><li><strong>Quality Control:</strong> Inspect work-in-progress to ensure it meets technical specifications and building codes.</li><li><strong>Coordination & Communication:</strong> Liaise between subcontractors, engineers, architects, and project managers.</li><li><strong>Resource Management:</strong> Supervise, train, and assign tasks to workers, as well as manage on-site material logistics. </li></ul><p><strong>Required Skills and Qualifications</strong></p><ul><li><strong>Experience:</strong> Proven experience as a construction supervisor, foreman, or similar role.</li><li><strong>Knowledge:</strong> Deep understanding of construction procedures, materials, and project management principles.</li><li><strong>Technical Skills:</strong> Ability to read and interpret construction blueprints, drawings, and plans.</li><li><strong>Leadership:</strong> Strong team management, decision-making, and communication skills.</li><li><strong>Education:</strong> High school diploma required; associate or bachelor’s degree in construction management is often preferred. </li></ul><p><strong>Typical Working Conditions</strong></p><ul><li><strong>Environment:</strong> Works on construction sites, often in various weather conditions.</li><li><strong>Requirements:</strong> Must wear personal protective equipment (PPE) and may travel to multiple sites. </li></ul>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Coaching",
+      "uuid": "02836aefa858ae98a02998142b228ac9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Weather",
+      "uuid": "1441df6b1c10f910ccdc400e40b5fce9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Budgets",
+      "uuid": "1cc9c00d1383db13dd08ad29b47af362",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction Management",
+      "uuid": "281073262e641a1b6473ca55277b3a70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Architects",
+      "uuid": "62ebf29863fd4d7351c0467e2c0e1e92",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Counseling",
+      "uuid": "6791e85a01bb2e17b923d2f2e8574a9e",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Drawing",
+      "uuid": "681d72abce5de4f856e71bfb1856796b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Project Management",
+      "uuid": "9c1330f0dda3f188a3813b9840d1143f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Management",
+      "uuid": "ab30c8cdc74ec83aad9fc452e8e0c6d9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Carpentry",
+      "uuid": "c6dca424bd638bb28dde3fe3b3860e70",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Publications",
+      "uuid": "c77149b6d7fc9f952848ad44a4da38a4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Scheduling",
+      "uuid": "ddfdc2a2b4c277158589a9f95fa2fbd8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cost Control",
+      "uuid": "ede30146d94bbef36e06ab4239294fae",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "75000",
+  "occupationId": "OCC011137",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 12,
+      "position": "Fresh/entry level"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "01",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201616798E",
+    "description": null,
+    "name": "KNT ENGINEERING PTE. LTD.",
+    "ssicCode": "43292",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T05:34:05.000Z",
+    "ssicCode2020": "43292",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201616798E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201616798E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201616798E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201616798E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "7",
+    "street": "KAKI BUKIT AVENUE 3",
+    "floor": null,
+    "unit": null,
+    "building": "KAKI BUKIT RECREATION CENTRE",
+    "postalCode": "415814",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33720463391338,
+    "lng": 103.906873570178
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0165838",
+    "deletedAt": null,
+    "createdBy": "c41e8c85-035a-4f07-bcfd-a6f07d82039e",
+    "createdAt": "2026-01-27T05:37:13.000Z",
+    "updatedAt": "2026-01-27T05:37:13.000Z",
+    "emailRecipient": "c41e8c85-035a-4f07-bcfd-a6f07d82039e",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 28,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/construction-supervisor-knt-engineering-e788a4ccf20a7affec1210e47f7b3ceb",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 4500,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e788a4ccf20a7affec1210e47f7b3ceb"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e788a4ccf20a7affec1210e47f7b3ceb/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

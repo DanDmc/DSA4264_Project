@@ -1,0 +1,249 @@
+{
+  "uuid": "9f2911e58d876c6cc7a13451fb3c62b3",
+  "sourceCode": "Employer Portal",
+  "title": "Sales Executive",
+  "description": "<ul><li><strong>Customer Consultation:</strong> Provide expert advice on curtain, blind, and fabric selections based on interior themes, functionality, and budget.</li><li><strong>Site Measurements:</strong> Visit client sites to take accurate measurements for customized window treatments.</li><li><strong>Sales & Quotation:</strong> Prepare quotations, negotiate terms, process orders, and close sales to meet monthly/quarterly targets.</li><li><strong>Project Coordination:</strong> Liaise with installation teams and suppliers to ensure timely delivery and installation.</li><li><strong>Relationship Management:</strong> Build rapport with homeowners, interior designers, and contractors.</li><li><strong>Showroom/Online Support:</strong> Attend to walk-in customers and manage online inquiries. </li><li><strong>Requirements</strong></li><li><li><strong>Experience:</strong> Previous experience in sales, interior design, or soft furnishings (curtains/blinds) is highly preferred.</li><li><strong>Skills:</strong> Strong communication, interpersonal, and negotiation skills.</li><li><strong>Technical Knowledge:</strong> Familiarity with fabric types, curtain styles, and measuring techniques.</li><li><strong>Tools:</strong> Proficient in basic computer skills (MS Office/Email).</li><li><strong>Attributes:</strong> Target-driven, energetic, well-groomed, and customer-service oriented.</li><li><strong>Availability:</strong> Willingness to work weekends or public holidays</li></li></ul><p></p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Sales",
+      "uuid": "11ff9f68afb6b8b5b8eda218d7c83a65",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Cold Calling",
+      "uuid": "6a7a1480db29457c46ea8dc4f1be1342",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selling",
+      "uuid": "78657bac83c0d4f4d86f22710119667a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Marketing",
+      "uuid": "7cb15e416d62919b1b40298324fbe30b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "B2B",
+      "uuid": "91e32a5fc05beb6db7bf9cd75b53e586",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Networking",
+      "uuid": "a5fa5746370b608090b994a97b49e98b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interior Design",
+      "uuid": "b70d39e4c20b2a45df4f50c334773f63",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Homeowners",
+      "uuid": "f1551a82a2889cc9c9431f9daa59ca41",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24252",
+  "occupationId": "OCC004581",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 35,
+      "category": "Sales / Retail"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    },
+    {
+      "id": 6,
+      "employmentType": "Freelance"
+    },
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 10,
+      "position": "Junior Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "48",
+  "ssecFos": "0511",
+  "postedCompany": {
+    "uen": "202517531C",
+    "description": null,
+    "name": "WHO JIMMY PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-02T13:08:53.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202517531C"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202517531C/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202517531C/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202517531C/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "1",
+    "street": "DEFU LANE 10",
+    "floor": null,
+    "unit": null,
+    "building": "DEFU INDUSTRIAL ESTATE",
+    "postalCode": "539182",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 19,
+        "location": "D19 Serangoon Garden, Hougang, Sengkang, Punggol",
+        "region": "North",
+        "sectors": [
+          "53",
+          "54",
+          "55",
+          "82"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.35870641148838,
+    "lng": 103.89361060882
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0188839",
+    "deletedAt": null,
+    "createdBy": "9b254f9d-3f19-4171-90f2-a5594af5cff0",
+    "createdAt": "2026-01-30T06:56:43.000Z",
+    "updatedAt": "2026-01-30T06:56:43.000Z",
+    "emailRecipient": "9b254f9d-3f19-4171-90f2-a5594af5cff0",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 74,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/sales/sales-executive-jimmy-9f2911e58d876c6cc7a13451fb3c62b3",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 2500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f2911e58d876c6cc7a13451fb3c62b3"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9f2911e58d876c6cc7a13451fb3c62b3/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

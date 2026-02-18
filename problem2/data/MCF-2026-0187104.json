@@ -1,0 +1,198 @@
+{
+  "uuid": "9eab5d7e8c9c05d5dc09fea1e711b39e",
+  "sourceCode": "Employer Portal",
+  "title": "Selenium Tester",
+  "description": "<p>Hands on experience in preparing & executing test cases, test scenarios for both automation and manual testing</p><p>Skills on Automation framework design pattern and techniques, hands on experience on developing BDD automation framework, Cucumber, TestNG</p><p>Strong in Java (concepts and programming skills)</p><p>Good experience on web service / API test automation and UI automation</p><p>Strong DB and API testing skills</p><p>Good Automation skills using, Java & Selenium</p><p>Hands on knowledge on CI/CD tools (i.e. Jenkins / Gitlab)</p>",
+  "minimumYearsExperience": 5,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Web Service",
+      "uuid": "010b49152e0919d7387a8fea1e8e207a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selenium WebDriver",
+      "uuid": "1cfb0ad3c84d623e760a684b3d570ea1",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "UI",
+      "uuid": "71ff71526d15db86eb50fcac245d183b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Cases",
+      "uuid": "77aa60e9d585086560c4cb39b006f65b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Test Automation",
+      "uuid": "7e636b60d041a7a4c38232c3a2830397",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tricentis Tosca",
+      "uuid": "a57b715d0b482008846c63070c9319e8",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selenium",
+      "uuid": "c49dfb55f06bb406e2c5ca786f557d38",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Java",
+      "uuid": "d52387880e1ea22817a72d3759213819",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "API",
+      "uuid": "db974238714ca8de634a7ce1d083a14f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Selenium Testing",
+      "uuid": "e1a46ef218eecb38b741d73dc4e1dfea",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "21522",
+  "occupationId": "OCC002124",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 21,
+      "category": "Information Technology"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 3,
+      "employmentType": "Contract"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "70",
+  "ssecFos": "1140",
+  "postedCompany": {
+    "uen": "202006290K",
+    "description": "<p>At Matrix Automation, we use technology to streamline and automate &nbsp;tedious manual work and co-create novel concepts and business models to &nbsp;bring your imagination to life. &nbsp;We deliver on the era of Human-Computer &nbsp;Understanding.</p>\n<p><br></p>\n<p>Visit www.matrix-process.com for more information</p>",
+    "name": "MATRIX PROCESS AUTOMATION PTE. LTD.",
+    "ssicCode": "62021",
+    "employeeCount": null,
+    "companyUrl": "www.matrix-process.com",
+    "lastSyncDate": "2026-01-30T03:00:14.000Z",
+    "ssicCode2020": "62021",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006290K"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006290K/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006290K/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202006290K/schemes"
+      }
+    },
+    "logoFileName": "3a7786ca1526b833aef69b8722a1fc56/matrix-process-automation.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/3a7786ca1526b833aef69b8722a1fc56/matrix-process-automation.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0187104",
+    "deletedAt": null,
+    "createdBy": "2ba60b03-f173-433c-a725-19cbcc9b78aa",
+    "createdAt": "2026-01-30T03:10:39.000Z",
+    "updatedAt": "2026-01-30T03:10:40.000Z",
+    "emailRecipient": "2ba60b03-f173-433c-a725-19cbcc9b78aa",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 70,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-02-13",
+    "totalNumberJobApplication": 6,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/selenium-tester-matrix-process-automation-9eab5d7e8c9c05d5dc09fea1e711b39e",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 8000,
+    "minimum": 5000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9eab5d7e8c9c05d5dc09fea1e711b39e"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/9eab5d7e8c9c05d5dc09fea1e711b39e/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

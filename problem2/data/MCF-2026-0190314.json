@@ -1,0 +1,204 @@
+{
+  "uuid": "52b1b5a9603ac07adbcd7c81c7f0712b",
+  "sourceCode": "Employer Portal",
+  "title": "Japanese dog groomer",
+  "description": "<p>Full-Time Japanese Dog Groomer Wanted for Dog Grooming Salon<br /></p><p>Location:</p><p>-Bukit Timah branch @ 733 Bukit Timah Road Singapore 269748</p><p>-River Valley branch @ 236 River Valley Road Singapore 238294<br /></p><p>Requirements</p><p>-Must be able to speak Japanese & English.</p><p>-Must be able to work on Sat and Sun</p><p>-Experienced & certified pet groomers with at least 4 years of experience.</p><p>-Able to handle dogs of all ages & sizes<br /></p><p>Jobscope:</p><p>-Perform grooming-specific tasks</p><p>-Assist in daily housekeeping operation</p><p>-Customer Service<br /></p><p>If interested, please send your updated resume to <strong>sopra@sopraginza.com.sg</strong></p>",
+  "minimumYearsExperience": 4,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Dog Grooming",
+      "uuid": "11b8737cd1cb2a4d07a5144e5eed5022",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair Care",
+      "uuid": "1abfa4542da897b161b883a3537e334b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dogs",
+      "uuid": "1ec0aec1cdccfcaa6df8e07b40d3e664",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dog Behavior",
+      "uuid": "6f4950e38ee63ba3bbf175bd1fd0e3fe",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "washing hair",
+      "uuid": "7e5949120aa27389a93efd072ba78ed4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dog Walking",
+      "uuid": "b70b0cdfdafe5cac5f5038fc3d37e876",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hair",
+      "uuid": "c2ad21c07984f2ba47de12b7e88766e3",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "hair care services",
+      "uuid": "c7e4c8c5a351b1d82655f94aa361c65a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Dog Handling",
+      "uuid": "d455f37a2eac8309189c1d30673ef00d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Hairstyling",
+      "uuid": "eb1dad4c9bda14bb0e433c6e83cdcdfd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Japanese",
+      "uuid": "f32ced6a9ba164c4b3c047fd1d7c882e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51941",
+  "occupationId": "OCC008528",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 2,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 29,
+      "category": "Professional Services"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 7,
+      "position": "Professional"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "NR",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "201322362E",
+    "description": "<p>pet care service provide pet grooming</p>\n",
+    "name": "SOPRA GINZA TOKYO PTE. LTD.",
+    "ssicCode": "47746",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-30T08:42:54.000Z",
+    "ssicCode2020": "47746",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201322362E"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201322362E/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201322362E/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201322362E/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "236",
+    "street": "RIVER VALLEY ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "238294",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 9,
+        "location": "D09 Cairnhill, Orchard, River Valley",
+        "region": "Central",
+        "sectors": [
+          "22",
+          "23"
+        ],
+        "regionId": "Central"
+      }
+    ],
+    "lat": 1.29412986779085,
+    "lng": 103.842457677401
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0190314",
+    "deletedAt": null,
+    "createdBy": "59557136-d9e4-4a75-aa3d-df5d5cbac5bb",
+    "createdAt": "2026-01-30T09:05:17.000Z",
+    "updatedAt": "2026-01-30T09:05:17.000Z",
+    "emailRecipient": "59557136-d9e4-4a75-aa3d-df5d5cbac5bb",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 74,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/professional-services/japanese-dog-groomer-sopra-ginza-tokyo-52b1b5a9603ac07adbcd7c81c7f0712b",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 13000,
+    "minimum": 9000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/52b1b5a9603ac07adbcd7c81c7f0712b"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/52b1b5a9603ac07adbcd7c81c7f0712b/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

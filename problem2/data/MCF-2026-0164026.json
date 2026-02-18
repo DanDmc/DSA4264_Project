@@ -1,0 +1,224 @@
+{
+  "uuid": "34cfd50129dfa533a6f956590c52e1a5",
+  "sourceCode": "Employer Portal",
+  "title": "MASSEUR (NON-MEDICAL)",
+  "description": "<p><p>Provide body massage services for relaxation and stress relief (non-medical).</p></p><ul><li><p>Greet customers politely and understand their service needs.</p></li><li><p>Prepare massage room, towels, oils, and equipment before each session.</p></li><li><p>Maintain cleanliness and hygiene of the work area at all times.</p></li><li><p>Follow company service procedures and customer preferences.</p></li><li><p>Ensure customer comfort and privacy during the massage.</p></li><li><p>Report any issues or customer feedback to the supervisor.</p></li><li><p>Follow workplace rules, safety, and professional conduct.</p></li></ul>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Customer Relationship",
+      "uuid": "0e0a7ac419a1d68d0ad2951c6a144aac",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Foot",
+      "uuid": "129e74dde7b475c8848310e16754c965",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Stress",
+      "uuid": "43e350618ec951e034f0981cbb36d038",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Treatment",
+      "uuid": "4c4ac06fd21d631f7c21330fa8027002",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Relaxation",
+      "uuid": "832b64944eab4d40bd15c304d8d52efa",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Shoulder",
+      "uuid": "83cb4c144b3d6ee1a847bee51a44b933",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Attentive",
+      "uuid": "8e4644eba0808cc26d1aff9058679f89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Player",
+      "uuid": "cea2f400864dc5282d8a0af84aa8a100",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Service",
+      "uuid": "d5552e0564007d93ff5937a9cb3bc491",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "51491",
+  "occupationId": "OCC013638",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 8,
+      "category": "Customer Service"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "33",
+  "ssecFos": null,
+  "postedCompany": {
+    "uen": "202028115W",
+    "description": null,
+    "name": "GENESIS MANPOWER PTE. LTD.",
+    "ssicCode": "78104",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T02:47:26.000Z",
+    "ssicCode2020": "78104",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028115W"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028115W/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028115W/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202028115W/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": {
+    "uen": "201701019R",
+    "description": null,
+    "name": "FUSION WELLNESS MASSAGE PTE. LTD.",
+    "ssicCode": "96024",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-01-27T02:15:28.000Z",
+    "ssicCode2020": "96024",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201701019R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201701019R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201701019R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201701019R/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null
+  },
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "148A",
+    "street": "PASIR PANJANG ROAD",
+    "floor": null,
+    "unit": null,
+    "building": "",
+    "postalCode": "118553",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 5,
+        "location": "D05 Clementi New Town, Hong Leong Garden, Pasir Panjang",
+        "region": "South",
+        "sectors": [
+          "11",
+          "12",
+          "13"
+        ],
+        "regionId": "South"
+      }
+    ],
+    "lat": 1.27660174555783,
+    "lng": 103.79200943968
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0164026",
+    "deletedAt": null,
+    "createdBy": "20b82cc6-d414-40f0-a86d-b471d05e6e30",
+    "createdAt": "2026-01-27T02:32:06.000Z",
+    "updatedAt": "2026-01-27T02:32:07.000Z",
+    "emailRecipient": "20b82cc6-d414-40f0-a86d-b471d05e6e30",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 37,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2026-01-27",
+    "expiryDate": "2026-02-10",
+    "totalNumberJobApplication": 0,
+    "isPostedOnBehalf": true,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/customer-service/masseur-fusion-wellness-massage-34cfd50129dfa533a6f956590c52e1a5",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5500,
+    "minimum": 3000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/34cfd50129dfa533a6f956590c52e1a5"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/34cfd50129dfa533a6f956590c52e1a5/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

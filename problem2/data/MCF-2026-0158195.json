@@ -1,0 +1,205 @@
+{
+  "uuid": "e8b77be4121775b5f1f427688ad5b730",
+  "sourceCode": "Employer Portal",
+  "title": "BIM modeller / Draughtsperson",
+  "description": "<p>Job Scope:</p><ul><li>Establish 3D BIM (building information model) using Revit Structure</li><li>Prepare civil & structural drawings and details using Revit model, as well as AutoCAD</li></ul><p>Remunerations:</p><ul><li>Attractive package including bonus subjected to performance</li><li>Training courses that are related to professional development will be provided by the company</li></ul><p>Requirements:</p><ul><li>Minimum 3 years of experience as BIM modeller or draughtsman in building construction, and able to work independently</li><li>Knowledge with Revit & AutoCAD is mandatory</li><li>Able to communicate in English</li></ul>",
+  "minimumYearsExperience": 3,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Revit",
+      "uuid": "0d90aa300c15ef13e21761af3b9881bd",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Foundations",
+      "uuid": "1145080a0de16b4599ae68c1da4fc50b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Construction",
+      "uuid": "2a0d30cb1153031c3dfc239c6e0407ea",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Concrete structures",
+      "uuid": "31d980e280cefa02c357d8382df92cf4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "BIM",
+      "uuid": "418d8681b964b0a772325e03a076bb26",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "3D",
+      "uuid": "76aa96369abbba52e621bfa83da8e64f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Steel",
+      "uuid": "7a6635a57811d0d3fca94e83141019f5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Structural Detailing",
+      "uuid": "a2de5a32b69db0fe395ca7509a2df6a0",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "AutoCAD",
+      "uuid": "c82b171b4cd9169ca71482bad58ce66b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 4,
+      "flexibleWorkArrangement": "Staggered Time"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "31183",
+  "occupationId": "OCC059789",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 6,
+      "category": "Building and Construction"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "1291",
+  "postedCompany": {
+    "uen": "202341671R",
+    "description": "<p>We are professional civil &amp; structural consultant who specializes in design &amp; construction of industrial buildings, which include but not limited to warehouse, factories, office, cold room, clean room, etc.</p>",
+    "name": "YHL CONSULTANTS PTE. LTD.",
+    "ssicCode": null,
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-04T11:25:10.000Z",
+    "ssicCode2020": "71121",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202341671R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202341671R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202341671R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/202341671R/schemes"
+      }
+    },
+    "logoFileName": "0c611068001049a0371b05b320cf03dc/yhl-consultants.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/0c611068001049a0371b05b320cf03dc/yhl-consultants.png",
+    "responsiveEmployer": {
+      "isResponsive": false
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "73",
+    "street": "UBI ROAD 1",
+    "floor": null,
+    "unit": null,
+    "building": "OXLEY BIZHUB",
+    "postalCode": "408733",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 14,
+        "location": "D14 Geylang, Eunos",
+        "region": "East",
+        "sectors": [
+          "38",
+          "39",
+          "40",
+          "41"
+        ],
+        "regionId": "East"
+      }
+    ],
+    "lat": 1.33280197493174,
+    "lng": 103.890323211805
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0158195",
+    "deletedAt": null,
+    "createdBy": "a8acdb78-a188-4448-9b08-0fe895a11850",
+    "createdAt": "2026-01-26T06:33:58.000Z",
+    "updatedAt": "2026-01-26T06:33:58.000Z",
+    "emailRecipient": "a8acdb78-a188-4448-9b08-0fe895a11850",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 119,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 2,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/building-construction/bim-modeller-draughtsperson-yhl-consultants-e8b77be4121775b5f1f427688ad5b730",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 5000,
+    "minimum": 3500,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e8b77be4121775b5f1f427688ad5b730"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/e8b77be4121775b5f1f427688ad5b730/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

@@ -1,0 +1,198 @@
+{
+  "uuid": "872ce092ac6199eee230ed9bbd10e631",
+  "sourceCode": "Employer Portal",
+  "title": "Executive Manager",
+  "description": "<p><strong>Job Description:</strong></p>\n<p>Our client is a leading top global bank seeking professional to drive business growth and build strong relationships with high-net-worth clients. You'll design and deliver customized investment solutions that address the complex needs of affluent individuals, helping them protect their assets and secure their financial future.</p>\n<p><br></p>\n<p><strong>Key Responsibilities:</strong></p>\n<p> - Develop and implement business strategies to drive growth and customer satisfaction</p>\n<p> - Ensure efficient processes, risk management, and compliance</p>\n<p> - Ensure exceptional customer experience and retention</p>\n<p><br></p>\n<p><strong>Requirements:</strong></p>\n<p> - Strong strategic thinking and problem-solving skills</p>\n<p> - Excellent leadership, communication, and interpersonal skills</p>\n<p> - Ability to drive business growth, manage risk, and ensure compliance</p>\n<p> - Strong analytical and decision-making skills</p>\n<p> - Bachelor's degree, Local Diploma</p>\n<p><br></p>\n<p><strong>What to Expect:</strong></p>\n<p> - High-level responsibility for driving business growth</p>\n<p> - Opportunities for career growth and advancement</p>\n<p> - Central work location</p>",
+  "minimumYearsExperience": 0,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "uuid": "016e5686a3e19a16d84129542aa14646",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Management Skills",
+      "uuid": "108c7c0f94f9856f016b9b385b7f111d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Leadership",
+      "uuid": "1f0aef4f272d1541fc70d2e3b3fbccf7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Financial Management",
+      "uuid": "3cf2f0937dd3a535febb422d60de1bc7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "uuid": "49c78c64822033388a8412b58f2ed113",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Risk Management",
+      "uuid": "7228bb53bb7855d458965d2f15fc6cd7",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Investment Management",
+      "uuid": "897c91670daad7cba272861918d6e06a",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "uuid": "c2af71c447659d725759ea704934da89",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Business Development",
+      "uuid": "db01e6ae90744aebba2ed0faefb8ceed",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 6,
+      "flexibleWorkArrangement": "Creative Scheduling"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24121",
+  "occupationId": "OCC060489",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 3,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 5,
+      "category": "Banking and Finance"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "51",
+  "ssecFos": "0531",
+  "postedCompany": {
+    "uen": "201432682R",
+    "description": "<p>White Society&nbsp;was born to provide consultancy to companies to enhance their business framework.</p>\n<p>​</p>\n<p>Connecting the right people and business together is our forte.</p>\n<p><br></p>\n<p>We are committed to&nbsp;improve&nbsp;the value we provide to our clients.</p>",
+    "name": "WHITE SOCIETY PTE. LTD.",
+    "ssicCode": "70201",
+    "employeeCount": null,
+    "companyUrl": "www.whitesociety.org",
+    "lastSyncDate": "2026-02-04T03:14:54.000Z",
+    "ssicCode2020": "70201",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201432682R"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201432682R/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201432682R/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201432682R/schemes"
+      }
+    },
+    "logoFileName": "4ca9c16339d4241d667c8cc9330be53c/white-society.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/4ca9c16339d4241d667c8cc9330be53c/white-society.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": null,
+    "street": null,
+    "floor": null,
+    "unit": null,
+    "building": null,
+    "postalCode": null,
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 998,
+        "location": "Islandwide",
+        "region": "Islandwide",
+        "sectors": [],
+        "regionId": "Islandwide"
+      }
+    ]
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0157665",
+    "deletedAt": null,
+    "createdBy": "66c5b90b-431b-4b98-8516-cb309db5625a",
+    "createdAt": "2026-01-26T05:28:40.000Z",
+    "updatedAt": "2026-01-26T05:28:41.000Z",
+    "emailRecipient": "66c5b90b-431b-4b98-8516-cb309db5625a",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 85,
+    "newPostingDate": "2026-01-26",
+    "originalPostingDate": "2026-01-26",
+    "expiryDate": "2026-02-25",
+    "totalNumberJobApplication": 8,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/banking-finance/executive-manager-white-society-872ce092ac6199eee230ed9bbd10e631",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 10000,
+    "minimum": 8000,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/872ce092ac6199eee230ed9bbd10e631"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/872ce092ac6199eee230ed9bbd10e631/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

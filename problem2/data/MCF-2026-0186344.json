@@ -1,0 +1,198 @@
+{
+  "uuid": "cb4d7143953cd5fcebbd1a20df4fa703",
+  "sourceCode": "Employer Portal",
+  "title": "Store/Inventory Admin",
+  "description": "<p>1. Build and Maintain Store Database</p>\n<p>2. Perform Daily Out-Stock</p>\n<p>3. Order and Replenish Store items</p>\n<p>4. Perform Stock-in</p>\n<p>5. Ensure Cleanliness, Organisation and Compliance for Store</p>\n<p>6. Conduct Monthly Stock Take</p>\n<p><br></p>\n<p><strong>Job Requirements</strong></p>\n<p>· Candidate should possess at least a Primary/O-Level/A-Level, any field.</p>\n<p>· Able to work independently under minimum supervision.</p>\n<p>· Experience in storing, issuing, shipping and receiving materials and supplies; applying purchasing procedures; applying inventory control methods preferred.</p>",
+  "minimumYearsExperience": 1,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory",
+      "uuid": "4d604dd8f008145471dc845683399189",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Purchasing",
+      "uuid": "5f95f5c48171ba26e9f8aa9d8c7ce6c4",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Information Technology",
+      "uuid": "73595e157019f972a82f2fea61332a73",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Inventory Control",
+      "uuid": "83506d0acff3216fd8efd79be7e181f9",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office",
+      "uuid": "867556de8d883b0b31a39d8e5a36b00f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Compliance",
+      "uuid": "9c0408c775a2b61052a2e700a89f396f",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Team Work",
+      "uuid": "e40d1210d4bc1ec33845372c06d29971",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "MS Office 2003",
+      "uuid": "f2d36104b23a816bf69369a5fabb75b5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Able To Work Independently",
+      "uuid": "f3003179e62d8d52170ad7ba00881f2e",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [],
+  "otherRequirements": null,
+  "ssocCode": "43212",
+  "occupationId": "OCC008946",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 2,
+      "category": "Admin / Secretarial"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 8,
+      "employmentType": "Full Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 11,
+      "position": "Non-executive"
+    }
+  ],
+  "status": {
+    "id": 102,
+    "jobStatus": "Open"
+  },
+  "ssecEqa": "42",
+  "ssecFos": "0519",
+  "postedCompany": {
+    "uen": "201306186N",
+    "description": "<p><strong>LIAN HIN PTE. LTD.</strong></p>\n<p>At Lian Hin, we keep it simple. We weave aesthetics with practical functunality to create products that last and delight, ranging from feature walls to tabletops and vanities.&nbsp;</p>\n<p><br></p>\n<p>We have come a long way since our establishment in 1989 as a humble granite dealer and marble dealer. However, unchanging is our commitment to high quality and exceptional service.</p>\n<p><br></p>\n<p>Today we have grown into the leading multi-faceted surfaces like Granite, Marble, Quartz and Sintered Surfaces in Singapore.</p>\n<p>&nbsp;</p>",
+    "name": "LIAN HIN PTE. LTD.",
+    "ssicCode": "23960",
+    "employeeCount": null,
+    "companyUrl": "https://www.lianhin.com/company.html",
+    "lastSyncDate": "2026-02-04T01:36:04.000Z",
+    "ssicCode2020": "23960",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/201306186N/schemes"
+      }
+    },
+    "logoFileName": "f81622682ae7a1b5e7f85a01dab5385a/lian-hin.png",
+    "logoUploadPath": "https://static.mycareersfuture.gov.sg/images/company/logos/f81622682ae7a1b5e7f85a01dab5385a/lian-hin.png",
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "204",
+    "street": "WOODLANDS INDUSTRIAL PARK E9",
+    "floor": null,
+    "unit": null,
+    "building": "WOODLANDS INDUSTRIAL PARK E",
+    "postalCode": "757879",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 27,
+        "location": "D27 Yishun, Sembawang",
+        "region": "North",
+        "sectors": [
+          "75",
+          "76"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.44992388470536,
+    "lng": 103.797950345317
+  },
+  "metadata": {
+    "jobPostId": "MCF-2026-0186344",
+    "deletedAt": null,
+    "createdBy": "f981b451-c374-4364-9d6a-62074bf07180",
+    "createdAt": "2026-01-30T02:09:43.000Z",
+    "updatedAt": "2026-01-30T02:09:44.000Z",
+    "emailRecipient": "f981b451-c374-4364-9d6a-62074bf07180",
+    "editCount": 0,
+    "repostCount": 0,
+    "totalNumberOfView": 79,
+    "newPostingDate": "2026-01-30",
+    "originalPostingDate": "2026-01-30",
+    "expiryDate": "2026-03-01",
+    "totalNumberJobApplication": 4,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/admin/storeinventory-admin-lian-hin-cb4d7143953cd5fcebbd1a20df4fa703",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 2500,
+    "minimum": 1800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cb4d7143953cd5fcebbd1a20df4fa703"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/cb4d7143953cd5fcebbd1a20df4fa703/screening-questions"
+    }
+  },
+  "jobTitles": []
+}

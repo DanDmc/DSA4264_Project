@@ -1,0 +1,209 @@
+{
+  "uuid": "bcfe55acd69909154adb69f63b050018",
+  "sourceCode": "Employer Portal",
+  "title": "Account Executive (Part Time)",
+  "description": "<p><strong>Job Responsibilities:</strong></p><p>- Handle full sets of accounts</p><p>- Prepare and submit GST return quarterly</p><p>- Prepare monthly/ quarterly financial reports and accounts schedules</p><p>- Maintaining accurate journal entries and monthly reconciliation</p><p>- Liaise with external auditors to coordinate the company’s financial year end audit</p><p>- Maintain good documentation and filing system</p><p>- Liaise with bankers when necessary</p><p>- CPF Submission</p><p>- Other Adhoc Work related to Account</p><p><br /></p><p><strong>Requirements:</strong></p><p>- Proficient in Microsoft Excel and Words</p><p>- Able to work independently</p><p>- Good organization, time management and communication skills</p><p>- Experienced in ABSS accounting software</p><p><br /></p><p><strong>Additional Information:</strong></p><p>- Minimum 2 years of relevant experience in accounting<br /></p><p><strong>Working Hours </strong><br />- Report to Office 2 days a week (Monday - Friday, 9am to 6pm) </p>",
+  "minimumYearsExperience": 2,
+  "shiftPattern": null,
+  "schemes": [],
+  "skills": [
+    {
+      "skill": "Internal Communications",
+      "uuid": "241f2a822aa073f3cbb0fbbb7f582013",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Office",
+      "uuid": "2482944e6048d8f3b76417f0f5af9074",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Microsoft Excel",
+      "uuid": "28392dee72b88a917a72357aea20a3a5",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Tax",
+      "uuid": "4b78ac8eb158840e9638a3aeb26c4a9d",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Public Relations",
+      "uuid": "97ac0992b3214632ef41a3075b0c6e9b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Time Management",
+      "uuid": "abbac76b68baaa970e22dd97b4392451",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Accountability",
+      "uuid": "b2e0166ea571c0f94d00264cbf0cac8b",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Communication Skills",
+      "uuid": "bad398e97b43f8d08e11d6c0cfd666ff",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Social Media Marketing",
+      "uuid": "cb61d6164313b0a1bc2f4668aad10e9c",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Writing Skills",
+      "uuid": "ebd65911b99b625b1359ab340fb2b666",
+      "confidence": null,
+      "isKeySkill": false
+    },
+    {
+      "skill": "Audit",
+      "uuid": "eda63b570db82e05c2fd7b5f0c3bb20f",
+      "confidence": null,
+      "isKeySkill": false
+    }
+  ],
+  "flexibleWorkArrangements": [
+    {
+      "id": 1,
+      "flexibleWorkArrangement": "Flexi-Hours"
+    }
+  ],
+  "otherRequirements": null,
+  "ssocCode": "24111",
+  "occupationId": "OCC004159",
+  "ssocVersion": "2020v2",
+  "workingHours": null,
+  "numberOfVacancies": 1,
+  "psdUrl": null,
+  "categories": [
+    {
+      "id": 1,
+      "category": "Accounting / Auditing / Taxation"
+    }
+  ],
+  "employmentTypes": [
+    {
+      "id": 5,
+      "employmentType": "Part Time"
+    }
+  ],
+  "positionLevels": [
+    {
+      "id": 9,
+      "position": "Executive"
+    }
+  ],
+  "status": {
+    "id": 103,
+    "jobStatus": "Re-open"
+  },
+  "ssecEqa": "62",
+  "ssecFos": "0521",
+  "postedCompany": {
+    "uen": "200415703G",
+    "description": null,
+    "name": "CHENG YI PTE. LTD.",
+    "ssicCode": "41009",
+    "employeeCount": null,
+    "companyUrl": null,
+    "lastSyncDate": "2026-02-03T05:44:20.000Z",
+    "ssicCode2020": "41009",
+    "_links": {
+      "self": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200415703G"
+      },
+      "jobs": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200415703G/jobs"
+      },
+      "addresses": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200415703G/addresses"
+      },
+      "schemes": {
+        "href": "https://api.mycareersfuture.gov.sg/v2/companies/200415703G/schemes"
+      }
+    },
+    "logoFileName": null,
+    "logoUploadPath": null,
+    "responsiveEmployer": {
+      "isResponsive": true
+    }
+  },
+  "hiringCompany": null,
+  "address": {
+    "overseasCountry": null,
+    "foreignAddress1": null,
+    "foreignAddress2": null,
+    "block": "31",
+    "street": "WOODLANDS CLOSE",
+    "floor": null,
+    "unit": null,
+    "building": "WOODLANDS HORIZON",
+    "postalCode": "737855",
+    "isOverseas": false,
+    "districts": [
+      {
+        "id": 25,
+        "location": "D25 Kranji, Woodgrove, Woodlands",
+        "region": "North",
+        "sectors": [
+          "72",
+          "73"
+        ],
+        "regionId": "North"
+      }
+    ],
+    "lat": 1.43668154525861,
+    "lng": 103.805930899244
+  },
+  "metadata": {
+    "jobPostId": "MCF-2025-1881729",
+    "deletedAt": "2026-01-07T17:15:05.000Z",
+    "createdBy": "687c0e6a-3bef-4f0d-95fc-90e8310d704b",
+    "createdAt": "2025-12-08T08:15:27.000Z",
+    "updatedAt": "2026-01-28T10:11:11.000Z",
+    "emailRecipient": "687c0e6a-3bef-4f0d-95fc-90e8310d704b",
+    "editCount": 1,
+    "repostCount": 1,
+    "totalNumberOfView": 1297,
+    "newPostingDate": "2026-01-27",
+    "originalPostingDate": "2025-12-08",
+    "expiryDate": "2026-02-26",
+    "totalNumberJobApplication": 102,
+    "isPostedOnBehalf": false,
+    "isHideSalary": false,
+    "isHideCompanyAddress": false,
+    "isHideHiringEmployerName": false,
+    "isHideEmployerName": false,
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/accounting/account-executive-cheng-yi-bcfe55acd69909154adb69f63b050018",
+    "matchedSkillsScore": null
+  },
+  "salary": {
+    "maximum": 1600,
+    "minimum": 800,
+    "type": {
+      "id": 4,
+      "salaryType": "Monthly"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bcfe55acd69909154adb69f63b050018"
+    },
+    "screeningQuestions": {
+      "href": "https://api.mycareersfuture.gov.sg/v2/jobs/bcfe55acd69909154adb69f63b050018/screening-questions"
+    }
+  },
+  "jobTitles": []
+}
