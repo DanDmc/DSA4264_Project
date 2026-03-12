@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import csv
 from dataclasses import asdict, dataclass
 from datetime import datetime
 from html import unescape
@@ -254,33 +255,115 @@ def process_one_job(job: Dict[str, Any]) -> ProcessedJob:
         salary_avg=salary_avg,
         posting_date=posting_date,
     )
+def process_all_jobs_in_folder(input_dir: str) -> Tuple[List[Dict[str, Any]], List[Tuple[str, str]]]:
+    """
+    Process all JSON job files in a folder.
+    Returns:
+    - rows: list of processed job dicts
+    - failed_files: list of (filename, error_message)
+    """
+    input_path = Path(input_dir)
+    rows: List[Dict[str, Any]] = []
+    failed_files: List[Tuple[str, str]] = []
 
+    if not input_path.exists():
+        raise FileNotFoundError(f"Input folder not found: {input_path}")
+
+    json_files = sorted(input_path.glob("*.json"))
+
+    for json_file in json_files:
+        try:
+            with json_file.open("r", encoding="utf-8") as f:
+                job = json.load(f)
+
+            processed = process_one_job(job)
+            row = asdict(processed)
+
+            # Convert list to a readable CSV string
+            if isinstance(row.get("skills_list"), list):
+                row["skills_list"] = ", ".join(row["skills_list"])
+
+            rows.append(row)
+
+        except Exception as e:
+            failed_files.append((json_file.name, str(e)))
+
+    return rows, failed_files
+
+
+def save_rows_to_csv(rows: List[Dict[str, Any]], output_csv: str) -> None:
+    """
+    Save processed job rows to CSV.
+    """
+    if not rows:
+        print("No rows to save.")
+        return
+
+    output_path = Path(output_csv)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    fieldnames = list(rows[0].keys())
+
+    with output_path.open("w", newline="", encoding="utf-8-sig") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"Saved {len(rows)} processed jobs to: {output_csv}")
 
 # -----------------------------
 # CLI
 # -----------------------------
-
+print("SCRIPT STARTED")
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Process one MyCareersFuture job JSON file.")
+    parser = argparse.ArgumentParser(description="Process MyCareersFuture job JSON file(s).")
     parser.add_argument(
         "--input",
         type=str,
-        required=True,
         help="Path to a single job JSON file (raw).",
+    )
+    parser.add_argument(
+        "--input-dir",
+        type=str,
+        help="Path to a folder containing multiple job JSON files.",
+    )
+    parser.add_argument(
+        "--output",
+        type=str,
+        help="Optional path to save processed output CSV (used with --input-dir).",
     )
     args = parser.parse_args()
 
-    in_path = Path(args.input)
-    if not in_path.exists():
-        raise FileNotFoundError(f"Input file not found: {in_path}")
+    # Single-file mode
+    if args.input:
+        in_path = Path(args.input)
+        if not in_path.exists():
+            raise FileNotFoundError(f"Input file not found: {in_path}")
 
-    with in_path.open("r", encoding="utf-8") as f:
-        job = json.load(f)
+        with in_path.open("r", encoding="utf-8") as f:
+            job = json.load(f)
 
-    processed = process_one_job(job)
+        processed = process_one_job(job)
+        print(json.dumps(asdict(processed), ensure_ascii=False, indent=2))
+        return
 
-    print(json.dumps(asdict(processed), ensure_ascii=False, indent=2))
+    # Folder mode
+    if args.input_dir:
+        print("FOLDER MODE")
+        print(args.input_dir)
+        rows, failed_files = process_all_jobs_in_folder(args.input_dir)
 
+        output_csv = args.output or "data/processed/jobs_processed.csv"
+        save_rows_to_csv(rows, output_csv)
 
+        print(f"Processed jobs: {len(rows)}")
+
+        if failed_files:
+            print("Failed files:")
+            for filename, error in failed_files:
+                print(f"- {filename}: {error}")
+        return
+
+    raise ValueError("Please provide either --input or --input-dir.")
 if __name__ == "__main__":
     main()
