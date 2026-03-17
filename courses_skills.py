@@ -5,69 +5,80 @@ from pathlib import Path
 
 import pandas as pd
 
-# Local fallback keywords for environments where SkillNER is unavailable.
-FALLBACK_SKILLS = [
-    "python",
-    "r programming",
-    "stata",
-    "spss",
-    "excel",
-    "sql",
-    "statistics",
-    "biostatistics",
-    "data analysis",
-    "machine learning",
-    "artificial intelligence",
-    "deep learning",
-    "nlp",
-    "natural language processing",
-    "computer vision",
-    "research",
-    "communication",
-    "leadership",
-    "project management",
-    "teamwork",
-    "problem solving",
-    "critical thinking",
-    "public speaking",
-    "writing",
-    "academic writing",
-    "presentation",
-    "econometrics",
-    "finance",
-    "accounting",
-    "marketing",
-    "entrepreneurship",
-    "design thinking",
-    "ui design",
-    "ux design",
-    "software engineering",
-    "web development",
-    "java",
-    "c++",
-    "javascript",
-    "react",
-    "node.js",
-    "git",
-]
+# Canonical skill taxonomy with aliases, tuned for mixed NUS module domains.
+FALLBACK_SKILL_TAXONOMY = {
+    "python": ["python"],
+    "r programming": ["r programming", " r ", "(r)", "r language"],
+    "stata": ["stata"],
+    "spss": ["spss"],
+    "excel": ["excel", "ms excel", "microsoft excel"],
+    "sql": ["sql"],
+    "data analysis": ["data analysis", "data analytics", "analytical methods"],
+    "statistics": ["statistics", "statistical"],
+    "biostatistics": ["biostatistics", "biostatistical"],
+    "machine learning": ["machine learning", "ml"],
+    "artificial intelligence": ["artificial intelligence", "ai"],
+    "deep learning": ["deep learning"],
+    "natural language processing": ["natural language processing", "nlp"],
+    "computer vision": ["computer vision"],
+    "software engineering": ["software engineering"],
+    "web development": ["web development"],
+    "java": ["java"],
+    "c++": ["c++"],
+    "javascript": ["javascript", "js"],
+    "react": ["react"],
+    "node.js": ["node.js", "nodejs"],
+    "git": ["git", "version control"],
+    "project management": ["project management", "programme management"],
+    "leadership": ["leadership", "lead"],
+    "communication": ["communication", "communicate"],
+    "presentation": ["presentation", "presenting", "pitch"],
+    "critical thinking": ["critical thinking"],
+    "problem solving": ["problem solving", "problem-solving"],
+    "teamwork": ["teamwork", "team-based", "team work"],
+    "academic writing": ["academic writing"],
+    "writing": ["writing", "written communication"],
+    "research methods": ["research methods", "methodology"],
+    "quantitative research": ["quantitative research"],
+    "qualitative research": ["qualitative research"],
+    "econometrics": ["econometrics", "econometric"],
+    "finance": ["finance", "financial analysis"],
+    "accounting": ["accounting"],
+    "marketing": ["marketing"],
+    "entrepreneurship": ["entrepreneurship", "venture creation"],
+    "design thinking": ["design thinking", "human-centered design"],
+    "ui design": ["ui design", "user interface design"],
+    "ux design": ["ux design", "user experience design"],
+    "architecture": ["architecture", "architectural"],
+    "urban planning": ["urban planning", "city planning"],
+    "conservation": ["conservation", "heritage conservation"],
+    "heritage management": ["heritage management", "cultural heritage"],
+    "risk management": ["risk management", "disaster risk"],
+    "immunology": ["immunology", "immunological"],
+    "microbiology": ["microbiology", "microbiome"],
+    "pharmacology": ["pharmacology", "drug development"],
+    "vaccine development": ["vaccine development", "vaccinology"],
+    "public health": ["public health", "health policy", "epidemiology"],
+}
 
 
 class KeywordSkillExtractor:
-    def __init__(self, skills: list[str]) -> None:
+    def __init__(self, taxonomy: dict[str, list[str]]) -> None:
         self._compiled_patterns: list[tuple[str, re.Pattern[str]]] = []
-        for skill in skills:
-            escaped = re.escape(skill.lower())
-            pattern = re.compile(r"(?<!\w)" + escaped + r"(?!\w)", flags=re.IGNORECASE)
-            self._compiled_patterns.append((skill, pattern))
-
-        # Additional aliases for common abbreviations.
-        self._compiled_patterns.append(("r programming", re.compile(r"(?<!\w)R(?!\w)")))
+        for canonical_skill, aliases in taxonomy.items():
+            for alias in aliases:
+                escaped = re.escape(alias.lower().strip())
+                pattern = re.compile(
+                    r"(?<!\w)" + escaped + r"(?!\w)",
+                    flags=re.IGNORECASE,
+                )
+                self._compiled_patterns.append((canonical_skill, pattern))
 
     def annotate(self, text: str) -> dict:
         matches = []
-        for skill, pattern in self._compiled_patterns:
+        for canonical_skill, pattern in self._compiled_patterns:
             if pattern.search(text):
-                matches.append({"doc_node_value": skill})
+                matches.append({"doc_node_value": canonical_skill})
         return {"results": {"full_matches": matches, "ngram_scored": []}}
 
 
@@ -94,7 +105,7 @@ def build_extractor():
             file=sys.stderr,
         )
         print("Using extractor backend: keyword fallback", file=sys.stderr)
-        return KeywordSkillExtractor(FALLBACK_SKILLS)
+        return KeywordSkillExtractor(FALLBACK_SKILL_TAXONOMY)
 
 
 def _coerce_text(value: object) -> str:
@@ -135,26 +146,39 @@ def extract_course_skills(
         raise ValueError(f"Missing required column(s): {sorted(missing)}")
 
     extractor = build_extractor()
+    keyword_fallback = KeywordSkillExtractor(FALLBACK_SKILL_TAXONOMY)
     rows = []
     module_code_idx = df.columns.get_loc("module code")
     title_idx = df.columns.get_loc("title")
     description_idx = df.columns.get_loc("description")
+    row_fallback_count = 0
 
     for row in df.itertuples(index=False, name=None):
+        title = _coerce_text(row[title_idx])
         description = _coerce_text(row[description_idx])
-        if not description:
-            skills = []
-        else:
-            annotation = extractor.annotate(description)
-            skills = extract_skill_names(annotation)
+        description_skills = []
+        if description:
+            try:
+                description_annotation = extractor.annotate(description)
+            except Exception as exc:
+                row_fallback_count += 1
+                if row_fallback_count <= 5:
+                    print(
+                        "SkillNER row-level failure "
+                        f"({type(exc).__name__}). "
+                        "Using keyword fallback for this row.",
+                        file=sys.stderr,
+                    )
+                description_annotation = keyword_fallback.annotate(description)
+            description_skills = extract_skill_names(description_annotation)
 
         rows.append(
             {
                 "module code": row[module_code_idx],
-                "title": row[title_idx],
+                "title": title,
                 "description": description,
-                "skills": ", ".join(skills),
-                "skill_count": len(skills),
+                "skills": ", ".join(description_skills),
+                "skill_count": len(description_skills),
             }
         )
 
@@ -169,6 +193,11 @@ def extract_course_skills(
     exploded = exploded[["module code", "title", "skill"]]
     exploded = exploded.drop_duplicates()
     exploded.to_csv(output_skills_csv, index=False)
+    if row_fallback_count:
+        print(
+            f"Row-level keyword fallback used for {row_fallback_count} module(s).",
+            file=sys.stderr,
+        )
 
 
 def parse_args() -> argparse.Namespace:
