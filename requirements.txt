@@ -1,0 +1,31 @@
+# ── Data handling & EDA ───────────────────────────────────────
+pandas>=2.1
+numpy>=1.24
+openpyxl>=3.1                # reading .xlsx (ssoc definitions etc)
+matplotlib>=3.8
+seaborn>=0.13
+
+# ── Notebooks ─────────────────────────────────────────────────
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.25
+nbformat>=5.9
+
+# ── Text preprocessing ────────────────────────────────────────
+nltk>=3.8
+spacy>=3.7
+regex>=2023.0
+
+# ── NLP & embeddings ─────────────────────────────────────────
+scikit-learn>=1.3
+sentence-transformers>=3.0   # semantic similarity between jobs ↔ modules
+transformers>=4.40
+torch>=2.1
+
+# ── Skill extraction (teammate's SkillNER pipeline) ──────────
+skillNer>=1.0.3
+
+# ── Utilities ─────────────────────────────────────────────────
+tqdm>=4.66
+python-Levenshtein>=0.25     # fuzzy string matching for skill normalisation
+rapidfuzz>=3.5               # faster fuzzy matching alternative
