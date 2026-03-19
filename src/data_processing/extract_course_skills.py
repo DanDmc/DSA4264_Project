@@ -114,6 +114,67 @@ def _coerce_text(value: object) -> str:
     return str(value).strip()
 
 
+def _is_valid_description(text: str) -> bool:
+    """Keep only rows with meaningful module descriptions."""
+    if not text:
+        return False
+    normalized = text.strip().lower().replace("\u2018", "'").replace("\u2019", "'")
+
+    # Approved placeholder removals for reproducible filtering.
+    if normalized in {
+        "not available",
+        "not available.",
+        "not applicable",
+        "unrestricted elective",
+        "nil",
+        "department exchange course",
+        "advance placement credit",
+    }:
+        return False
+
+    # Exchange placeholder descriptions (keep rule narrow and explicit).
+    if re.fullmatch(r"(faculty )?exchange course( - yus \(1 unit\))?", normalized):
+        return False
+
+    return True
+
+
+def clean_existing_outputs(output_rows_csv: Path, output_skills_csv: Path) -> None:
+    """Clean already-generated outputs in place using current description rules."""
+    if not output_rows_csv.exists():
+        return
+
+    rows_df = pd.read_csv(output_rows_csv)
+    if {"module code", "description"} - set(rows_df.columns):
+        return
+
+    original_rows = len(rows_df)
+    desc_series = rows_df["description"].apply(_coerce_text)
+    rows_df = rows_df[desc_series.apply(_is_valid_description)].copy()
+    rows_df.to_csv(output_rows_csv, index=False)
+
+    if output_skills_csv.exists():
+        pairs_df = pd.read_csv(output_skills_csv)
+        if "module code" in pairs_df.columns:
+            original_pairs = len(pairs_df)
+            valid_codes = set(rows_df["module code"].astype(str))
+            pairs_df = pairs_df[pairs_df["module code"].astype(str).isin(valid_codes)]
+            pairs_df.to_csv(output_skills_csv, index=False)
+            print(
+                "Cleaned existing outputs: "
+                f"{output_rows_csv.name} {original_rows}->{len(rows_df)}, "
+                f"{output_skills_csv.name} {original_pairs}->{len(pairs_df)}",
+                file=sys.stderr,
+            )
+            return
+
+    print(
+        "Cleaned existing outputs: "
+        f"{output_rows_csv.name} {original_rows}->{len(rows_df)}",
+        file=sys.stderr,
+    )
+
+
 def extract_skill_names(annotation: dict) -> list[str]:
     """Collect skill labels from SkillNER output with defensive parsing."""
     results = annotation.get("results", {})
@@ -144,6 +205,17 @@ def extract_course_skills(
     missing = required - set(df.columns)
     if missing:
         raise ValueError(f"Missing required column(s): {sorted(missing)}")
+
+    # Drop rows with missing placeholder descriptions before extraction.
+    original_count = len(df)
+    desc_series = df["description"].apply(_coerce_text)
+    df = df[desc_series.apply(_is_valid_description)].copy()
+    dropped_count = original_count - len(df)
+    if dropped_count:
+        print(
+            f"Filtered out {dropped_count} module(s) with unavailable descriptions.",
+            file=sys.stderr,
+        )
 
     extractor = build_extractor()
     keyword_fallback = KeywordSkillExtractor(FALLBACK_SKILL_TAXONOMY)
@@ -206,17 +278,17 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--input",
-        default="modules.csv",
-        help="Path to input CSV from NUSMods (default: modules.csv).",
+        default="data/processed/cleaned_modules.csv",
+        help="Path to input CSV from NUSMods (default: data/processed/cleaned_modules.csv).",
     )
     parser.add_argument(
         "--output-rows",
-        default="modules_with_skills.csv",
+        default="data/processed/modules_with_skills.csv",
         help="Output CSV with one row per module and aggregated skills.",
     )
     parser.add_argument(
         "--output-skills",
-        default="module_skill_pairs.csv",
+        default="data/processed/module_skill_pairs.csv",
         help="Output CSV with one row per module-skill pair.",
     )
     return parser.parse_args()
@@ -226,6 +298,10 @@ def main() -> None:
     args = parse_args()
     extract_course_skills(
         input_csv=Path(args.input),
+        output_rows_csv=Path(args.output_rows),
+        output_skills_csv=Path(args.output_skills),
+    )
+    clean_existing_outputs(
         output_rows_csv=Path(args.output_rows),
         output_skills_csv=Path(args.output_skills),
     )
