@@ -1,11 +1,14 @@
 """
 ssoc_mapping.py
 ───────────────
-Enrich jobs_processed.csv with SSOC title and definition columns
-from the official SSOC 2024 detailed definitions spreadsheet.
+Enrich jobs_processed.csv with the full SSOC 2024 hierarchy:
+  - Major group       (1-digit) → code + title
+  - Sub-major group   (2-digit) → code + title
+  - Minor group       (3-digit) → code + title
+  - Unit group        (4-digit) → code + title
+  - Occupation        (5-digit) → code + title + detailed definition
 
-Writes to a NEW file (jobs_processed_ssoc_mapped.csv) so we don't
-touch the original.
+Writes to a NEW file so we don't touch the original.
 
 Usage:
     python src/data_processing/ssoc_mapping.py
@@ -18,21 +21,31 @@ Writes:
     - data/processed/jobs_processed_ssoc_mapped.csv
 """
 
+import warnings
 import pandas as pd
 from pathlib import Path
 
-# paths relative to project root — run this from there
+warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")
+
+# paths relative to project root
 RAW_SSOC = Path("data/raw/ssoc2024-detailed-definitions.xlsx")
 JOBS_INPUT = Path("data/processed/jobs_processed.csv")
 JOBS_OUTPUT = Path("data/processed/jobs_processed_ssoc_mapped.csv")
 
+# the five hierarchy levels — digit length, column prefix
+LEVELS = [
+    (1, "ssoc_major"),
+    (2, "ssoc_submajor"),
+    (3, "ssoc_minor"),
+    (4, "ssoc_unit"),
+    (5, "ssoc_occupation"),
+]
 
-def load_ssoc_lookup(path: Path) -> pd.DataFrame:
+
+def load_ssoc_reference(path: Path) -> pd.DataFrame:
     """
-    Parse the SSOC 2024 spreadsheet into a clean lookup table.
-    The xlsx has 4 junk rows before the real header, and codes at
-    multiple granularity levels (1-5 digits). We keep all of them
-    so we can do fallback matching.
+    Parse the SSOC 2024 spreadsheet. Header is on row 5 (0-indexed row 4),
+    so we skip the first 4 rows of metadata.
     """
     df = pd.read_excel(path, header=None, skiprows=4)
     df.columns = [
@@ -41,87 +54,103 @@ def load_ssoc_lookup(path: Path) -> pd.DataFrame:
         "examples_classified", "examples_elsewhere"
     ]
 
-    # only keep what we need
     df = df[["ssoc_code", "ssoc_title", "detailed_definitions"]].copy()
     df = df.dropna(subset=["ssoc_code"])
 
-    # normalize codes to strings — some come in as ints, some as floats
-    df["ssoc_code"] = df["ssoc_code"].astype(str).str.strip()
-    df["ssoc_code"] = df["ssoc_code"].str.replace(r"\.0$", "", regex=True)
+    # normalise codes to clean strings
+    df["ssoc_code"] = (df["ssoc_code"].astype(str).str.strip()
+                       .str.replace(r"\.0$", "", regex=True))
+    df["code_len"] = df["ssoc_code"].str.len()
 
     return df
 
 
-def build_lookup_dict(ssoc_df: pd.DataFrame) -> dict:
+def build_level_lookups(ssoc_df: pd.DataFrame) -> dict:
     """
-    Build a dict keyed by ssoc_code → (title, definition).
-    Multiple granularity levels coexist — 5-digit is most specific,
-    4-digit is the unit group, etc.
+    Build a separate lookup dict for each hierarchy level.
+    Returns {digit_length: {code: (title, definition)}}
+
+    Definitions only exist at the 4- and 5-digit level in the spreadsheet,
+    so they'll be NaN for 1-3 digit codes (which is fine — we only use
+    the definition from the 5-digit occupation level).
     """
-    lookup = {}
-    for _, row in ssoc_df.iterrows():
-        code = row["ssoc_code"]
-        lookup[code] = (row["ssoc_title"], row["detailed_definitions"])
-    return lookup
+    lookups = {}
+    for n_digits, _ in LEVELS:
+        level_df = ssoc_df[ssoc_df["code_len"] == n_digits]
+        lookups[n_digits] = {
+            row["ssoc_code"]: (row["ssoc_title"], row["detailed_definitions"])
+            for _, row in level_df.iterrows()
+        }
+    return lookups
 
 
-def map_ssoc(code, lookup: dict) -> tuple:
+def enrich_jobs(jobs: pd.DataFrame, lookups: dict) -> pd.DataFrame:
     """
-    Try to match a job's ssoc_code against the lookup.
-    Strategy:
-      1. Exact match on 5-digit code (most jobs should hit here)
-      2. Fall back to 4-digit (unit group level)
-      3. Fall back to 3-digit, 2-digit, 1-digit
-      4. Give up → (NaN, NaN)
-
-    This handles cases where the job has a code that's slightly
-    off or uses a different granularity than the reference.
+    For each job, slice its 5-digit ssoc_code into prefixes and
+    look up the title (and definition for level 5) at each level.
     """
-    code_str = str(code).strip()
+    for n_digits, col_prefix in LEVELS:
+        lookup = lookups[n_digits]
 
-    # try exact, then progressively shorter prefixes
-    for length in [len(code_str), 4, 3, 2, 1]:
-        prefix = code_str[:length]
-        if prefix in lookup:
-            return lookup[prefix]
+        # slice the code to the right length
+        prefixes = jobs["ssoc_code"].str[:n_digits]
 
-    return (pd.NA, pd.NA)
+        # vectorised lookup via map — much faster than row-wise apply
+        mapped = prefixes.map(lookup)
+
+        jobs[f"{col_prefix}_code"] = prefixes
+        jobs[f"{col_prefix}_title"] = mapped.apply(
+            lambda x: x[0] if isinstance(x, tuple) else pd.NA
+        )
+
+    # detailed definition only makes sense at the occupation (5-digit) level
+    occ_lookup = lookups[5]
+    jobs["ssoc_occupation_description"] = jobs["ssoc_code"].map(occ_lookup).apply(
+        lambda x: x[1] if isinstance(x, tuple) else pd.NA
+    )
+
+    return jobs
 
 
 def main():
     print(f"Loading SSOC definitions from {RAW_SSOC}")
-    ssoc_df = load_ssoc_lookup(RAW_SSOC)
-    print(f"  → {len(ssoc_df)} SSOC entries loaded")
+    ssoc_df = load_ssoc_reference(RAW_SSOC)
+    print(f"  → {len(ssoc_df)} entries across all levels")
 
-    lookup = build_lookup_dict(ssoc_df)
+    for n_digits, label in LEVELS:
+        count = (ssoc_df["code_len"] == n_digits).sum()
+        print(f"    {label:20s} ({n_digits}-digit): {count:>5} entries")
 
-    print(f"Loading jobs from {JOBS_INPUT}")
+    lookups = build_level_lookups(ssoc_df)
+
+    print(f"\nLoading jobs from {JOBS_INPUT}")
     jobs = pd.read_csv(JOBS_INPUT)
     print(f"  → {len(jobs):,} jobs")
 
-    # normalize the ssoc_code column in jobs to string
-    jobs["ssoc_code"] = jobs["ssoc_code"].astype(str).str.strip()
-    jobs["ssoc_code"] = jobs["ssoc_code"].str.replace(r"\.0$", "", regex=True)
+    # normalise ssoc_code in jobs
+    jobs["ssoc_code"] = (jobs["ssoc_code"].astype(str).str.strip()
+                         .str.replace(r"\.0$", "", regex=True))
 
-    # do the mapping
-    mapped = jobs["ssoc_code"].apply(lambda c: map_ssoc(c, lookup))
-    jobs["ssoc_title"] = mapped.apply(lambda x: x[0])
-    jobs["ssoc_description"] = mapped.apply(lambda x: x[1])
+    jobs = enrich_jobs(jobs, lookups)
 
-    # quick report on match quality
-    matched = jobs["ssoc_title"].notna().sum()
-    total = len(jobs)
-    print(f"\nMatch results: {matched:,}/{total:,} ({matched/total*100:.1f}%)")
+    # ── match report ──────────────────────────────────────────────────────
+    print("\nMatch results by level:")
+    for _, col_prefix in LEVELS:
+        matched = jobs[f"{col_prefix}_title"].notna().sum()
+        print(f"  {col_prefix:20s}: {matched:,}/{len(jobs):,} "
+              f"({matched/len(jobs)*100:.1f}%)")
 
-    # show what didn't match, if any
-    unmatched_codes = jobs.loc[jobs["ssoc_title"].isna(), "ssoc_code"].unique()
-    if len(unmatched_codes) > 0:
-        print(f"Unmatched codes ({len(unmatched_codes)}): {unmatched_codes[:20]}")
+    unmatched = jobs.loc[jobs["ssoc_occupation_title"].isna(), "ssoc_code"].unique()
+    if len(unmatched) > 0:
+        print(f"\nUnmatched 5-digit codes ({len(unmatched)}): {unmatched[:20]}")
 
-    # save to a NEW file — never overwrite the original
+    # save — never overwrite the original
     jobs.to_csv(JOBS_OUTPUT, index=False)
-    print(f"\nSaved to {JOBS_OUTPUT} (original untouched)")
-    print(f"New columns: ssoc_title, ssoc_description")
+    print(f"\nSaved to {JOBS_OUTPUT}")
+
+    # show what columns got added
+    new_cols = [c for c in jobs.columns if c.startswith("ssoc_") and c != "ssoc_code"]
+    print(f"New columns: {new_cols}")
 
 
 if __name__ == "__main__":
