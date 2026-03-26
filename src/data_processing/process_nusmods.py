@@ -20,7 +20,6 @@ Output
   cleaned_modules.csv -- filtered (no internships / placeholders) + description_clean
 """
  
-import json
 import re
 import requests
 import pandas as pd
@@ -93,15 +92,7 @@ def parse_module_credit(value: object) -> float | None:
         return None
 
 
-def classify_module_level_by_credit(module_credit: float | None) -> str:
-    """<= 4 MC -> Undergraduate, > 4 MC -> Graduate."""
-    if module_credit is None:
-        return "Unknown"
-    if module_credit <= 4:
-        return "Undergraduate"
-    return "Graduate"
- 
- 
+
 # ---------------------------------------------------------------------------
 # API fetch & field extraction
 # ---------------------------------------------------------------------------
@@ -125,10 +116,6 @@ def extract_fields(data: list[dict]) -> list[dict]:
     department         : owning department (e.g. Computer Science)
     faculty            : owning faculty (e.g. School of Computing)
     module_credit      : number of MCs — used for MC-weighted metrics
-    Undergraduate/Graduate : MC-based flag (<=4 Undergraduate, >4 Graduate)
-    fulfill_requirements: JSON list of programme requirement codes this
-                          module satisfies — partial bridge to programme-
-                          level analysis without needing the NUS Bulletin
     """
     records = []
     for item in data:
@@ -142,10 +129,6 @@ def extract_fields(data: list[dict]) -> list[dict]:
             "department":            item.get("department"),
             "faculty":               item.get("faculty"),
             "module_credit":         module_credit,
-            "Undergraduate/Graduate": classify_module_level_by_credit(module_credit),
-            "fulfill_requirements":  json.dumps(
-                                         item.get("fulfillRequirements") or []
-                                     ),
         })
     return records
  
@@ -188,12 +171,18 @@ def _is_valid_description(description: object) -> bool:
     return True
 
 
-def _is_valid_module_credit(module_credit: object) -> bool:
-    """Keep only modules with at least 4 MCs in cleaned output."""
-    parsed = parse_module_credit(module_credit)
-    if parsed is None:
+def _is_undergraduate_level(module_code: object) -> bool:
+    """Return True if module is not 5000 or 6000 level.
+
+    NUS module codes encode level in the first digit of the numeric part.
+    5000 and 6000 level modules are graduate courses — excluded from cleaned output.
+    """
+    if module_code is None or (isinstance(module_code, float) and pd.isna(module_code)):
         return False
-    return parsed >= 4
+    m = re.search(r"(\d)", str(module_code))
+    if not m:
+        return False
+    return int(m.group(1)) not in {5, 6}
  
  
 # ---------------------------------------------------------------------------
@@ -205,11 +194,18 @@ def save_to_csv(records: list[dict], path: str) -> None:
  
  
 def save_cleaned_csv(records: list[dict], path: str) -> tuple[int, int]:
-    """Write cleaned modules by description and MC filters. Returns (kept, removed)."""
+    """Write cleaned modules filtered by description validity and undergraduate level.
+
+    Keeps modules that:
+    - Have a valid, non-placeholder description
+    - Are undergraduate level (module code first digit 1-4, excludes 5000+)
+
+    Returns (kept, removed).
+    """
     df = pd.DataFrame(records)
     cleaned = df[
         df["description"].apply(_is_valid_description)
-        & df["module_credit"].apply(_is_valid_module_credit)
+        & df["module code"].apply(_is_undergraduate_level)
     ].copy()
     cleaned.to_csv(path, index=False)
     return len(cleaned), len(df) - len(cleaned)
