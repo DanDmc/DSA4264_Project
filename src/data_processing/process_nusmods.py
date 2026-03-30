@@ -29,8 +29,8 @@ from pathlib import Path
 # Config
 # ---------------------------------------------------------------------------
 URL = "https://api.nusmods.com/v2/2025-2026/moduleInfo.json"
-OUTPUT_RAW_PATH = "modules.csv"
-OUTPUT_CLEANED_PATH = "cleaned_modules.csv"
+OUTPUT_RAW_PATH = "data/processed/modules_raw.csv"
+OUTPUT_CLEANED_PATH = "data/processed/cleaned_modules.csv"
  
  
 # ---------------------------------------------------------------------------
@@ -215,27 +215,34 @@ def save_cleaned_csv(records: list[dict], path: str) -> tuple[int, int]:
 # Main
 # ---------------------------------------------------------------------------
  
-def main() -> None:
-    raw_data = fetch_module_data(URL)
+def run(output_raw: str = OUTPUT_RAW_PATH, output_cleaned: str = OUTPUT_CLEANED_PATH) -> None:
+    """Fetch NUSMods data and write raw + cleaned CSVs.
+
+    Callable directly by the pipeline orchestrator or the CLI.
+    """
+    raw_data  = fetch_module_data(URL)
     extracted = extract_fields(raw_data)
- 
-    Path(OUTPUT_RAW_PATH).parent.mkdir(parents=True, exist_ok=True)
-    save_to_csv(extracted, OUTPUT_RAW_PATH)
- 
-    cleaned_count, removed_count = save_cleaned_csv(extracted, OUTPUT_CLEANED_PATH)
- 
+
+    Path(output_raw).parent.mkdir(parents=True, exist_ok=True)
+    save_to_csv(extracted, output_raw)
+
+    cleaned_count, removed_count = save_cleaned_csv(extracted, output_cleaned)
+
     print(f"Fetched       {len(raw_data):>6,} modules from NUSMods API")
-    print(f"Saved raw     {len(extracted):>6,} records  -> {OUTPUT_RAW_PATH}")
+    print(f"Saved raw     {len(extracted):>6,} records  -> {output_raw}")
     print(
-        f"Saved cleaned {cleaned_count:>6,} records  -> {OUTPUT_CLEANED_PATH}"
+        f"Saved cleaned {cleaned_count:>6,} records  -> {output_cleaned}"
         f"  (removed {removed_count} filtered modules)"
     )
-    print()
-    print("Next step: run SkillNer on the 'description_clean' column of")
-    print(f"  {OUTPUT_CLEANED_PATH}")
-    print("  New fields available: department, faculty, module_credit,")
-    print("  fulfill_requirements — pass cleaned_modules.csv to")
-    print("  extract_course_skills.py, then hard_soft_skills.py.")
+
+
+def main() -> None:
+    import argparse
+    parser = argparse.ArgumentParser(description="Fetch NUS module data from NUSMods API.")
+    parser.add_argument("--output-raw",     default=OUTPUT_RAW_PATH,     help="Path for raw CSV output.")
+    parser.add_argument("--output-cleaned", default=OUTPUT_CLEANED_PATH, help="Path for cleaned CSV output.")
+    args = parser.parse_args()
+    run(args.output_raw, args.output_cleaned)
  
  
 if __name__ == "__main__":

@@ -327,13 +327,13 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--input",
-        default="modules_with_skills_raw.csv",
-        help="Raw SkillNer output CSV (default: modules_with_skills_raw.csv)",
+        default="data/processed/modules_with_skills.csv",
+        help="SkillNer output CSV (default: data/processed/modules_with_skills.csv)",
     )
     parser.add_argument(
         "--output",
-        default="modules_with_skills.csv",
-        help="Cleaned output CSV (default: modules_with_skills.csv)",
+        default="data/processed/modules_with_skills_clean.csv",
+        help="Cleaned output CSV (default: data/processed/modules_with_skills_clean.csv)",
     )
     return parser.parse_args()
  
