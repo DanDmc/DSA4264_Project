@@ -1,0 +1,44 @@
+{
+  "pipeline_checks": {
+    "skillner": {
+      "enabled": true,
+      "available": true,
+      "backend": "skillner",
+      "error": null,
+      "spacy_model": "en_core_web_lg"
+    },
+    "taxonomy_matcher": {
+      "enabled": true,
+      "available": true
+    },
+    "semantic_matcher": {
+      "enabled": false,
+      "available": false,
+      "model_name": null,
+      "error": "disabled_by_design_skillner_plus_taxonomy"
+    }
+  },
+  "run_stats": {
+    "modules_total": 15472,
+    "unique_text_units": 10810,
+    "cache_hits": 4662,
+    "cache_misses": 10810,
+    "skillner_annotate_calls": 10810,
+    "skillner_failures": 6,
+    "taxonomy_match_calls": 10810,
+    "semantic_calls": 0,
+    "semantic_sentence_count": 0,
+    "skillner_candidates_total": 35160,
+    "taxonomy_candidates_total": 8380,
+    "semantic_candidates_total": 0,
+    "final_skills_total": 51709,
+    "modules_zero_skills": 405,
+    "source_method_counts": {
+      "SkillNER": 40125,
+      "taxonomy": 208,
+      "embedding": 0,
+      "both": 8122,
+      "rule_recovery": 3254
+    }
+  }
+}

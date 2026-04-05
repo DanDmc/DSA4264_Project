@@ -1,82 +1,70 @@
 """
-process_nusmods.py  (v2)
-========================
-Fetches NUS module data from the NUSMods API, filters placeholder descriptions,
-and writes two CSVs: a raw file and a cleaned file.
- 
-Improvements over v1
---------------------
-* Adds a `description_clean` column that strips pedagogical boilerplate
-  ("This course introduces...", "Students will learn...", etc.) before
-  the text reaches SkillNer.  SkillNer sees cleaner, skills-dense text
-  and produces less noise as a result.
-* The original `description` column is always preserved so you can
-  compare before/after at any point.
-* Minor: type hints added, docstrings improved.
- 
-Output
-------
-  modules.csv         -- raw extract, all modules
-  cleaned_modules.csv -- filtered (no internships / placeholders) + description_clean
+process_nusmods.py
+==================
+Step 1 (and only step) of the courses pipeline.
+
+Fetches NUS module data from the NUSMods API, filters placeholder
+descriptions and graduate-level modules, and writes two CSVs:
+  - 01_modules_raw.csv      (all modules, unfiltered)
+  - 02_modules_cleaned.csv  (undergraduate, valid descriptions,
+                              with boilerplate-stripped description_clean)
+
+Usage (from repo root):
+    python -m src.data_processing.process_nusmods
+
+The original description column is always preserved so you can
+compare before/after at any point.
 """
- 
+
 import re
-import requests
-import pandas as pd
+import sys
 from pathlib import Path
- 
-# ---------------------------------------------------------------------------
-# Config
-# ---------------------------------------------------------------------------
-URL = "https://api.nusmods.com/v2/2025-2026/moduleInfo.json"
-OUTPUT_RAW_PATH = "data/processed/modules_raw.csv"
-OUTPUT_CLEANED_PATH = "data/processed/cleaned_modules.csv"
- 
- 
+
+import pandas as pd
+import requests
+
+# Import shared paths from project config
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from config import (
+    NUSMODS_API_URL,
+    MODULES_RAW,
+    MODULES_CLEANED,
+    EXCLUDED_MODULE_LEVELS,
+    PLACEHOLDER_DESCRIPTIONS,
+    EXCLUDED_DESCRIPTION_KEYWORDS,
+)
+
+
 # ---------------------------------------------------------------------------
 # Boilerplate stripping
 # ---------------------------------------------------------------------------
-# These patterns match the pedagogical framing language that wraps module
-# descriptions.  They add noise to any NLP extractor because they contain
-# verbs and nouns that look like skill tokens but are just course-structure
-# language.  Removing them lets SkillNer focus on the content words.
+# These patterns match pedagogical framing language that wraps module
+# descriptions. Removing them lets SkillNer focus on content words.
 _BOILERPLATE_PATTERNS: list[re.Pattern] = [
     re.compile(p, re.IGNORECASE) for p in [
-        # "This/The course/module <verb> ..."
         r"(this|the) (course|module) "
         r"(introduces?|covers?|provides?|aims?|explores?|examines?|focuses?|"
         r"seeks?|equips?|prepares?|enables?|emphasises?|emphasizes?|discusses?|"
         r"addresses?|builds?|develops?|considers?|investigates?|surveys?|"
         r"reviews?|offers?|presents?|teaches?|trains?|imparts?|furnishes?|"
         r"is about|is designed to|will|consists of|serves as)\s+",
-        # Leftover bare "this/the course/module" after above
         r"(this|the) (course|module)\s+",
-        # "Students will/are expected to <verb> ..."
         r"students (will|are (expected to|required to|encouraged to))\s+\w+\s+",
-        # "Upon completion, students will ..."
         r"(upon completion|by the end of (this )?(course|module)),?\s+"
         r"students (will|should)\s+",
         r"(learners?|participants?) (will|are)\s+",
-        # Passive end-of-clause: "will be discussed / examined / ..."
         r"will be (covered|discussed|explored|examined|introduced|addressed|"
         r"presented|taught|treated|studied|considered|analysed|analyzed)\s*",
-        # "with (an) emphasis/focus on ..."
         r"with (an? )?(emphasis|focus|attention|aim|objective|goal)\s+on\s+",
-        # "The aim of this course is to ..."
         r"(the )?(aim|goal|objective|purpose) "
         r"(of this (course|module) )?(is|are)\s+(to\s+)?",
-        # "In this course, ..."
         r"in this (course|module),?\s+",
     ]
 ]
- 
- 
+
+
 def strip_boilerplate(text: str) -> str:
-    """Remove pedagogical boilerplate phrases from a description.
- 
-    Applies patterns iteratively (order matters: broader patterns first)
-    then collapses any resulting double-spaces.
-    """
+    """Remove pedagogical boilerplate phrases from a description."""
     for pattern in _BOILERPLATE_PATTERNS:
         text = pattern.sub(" ", text)
     return re.sub(r"\s{2,}", " ", text).strip()
@@ -92,51 +80,39 @@ def parse_module_credit(value: object) -> float | None:
         return None
 
 
-
 # ---------------------------------------------------------------------------
 # API fetch & field extraction
 # ---------------------------------------------------------------------------
- 
+
 def fetch_module_data(api_url: str) -> list[dict]:
     """Fetch raw module list from the NUSMods v2 API."""
     response = requests.get(api_url, timeout=10)
     response.raise_for_status()
     return response.json()
- 
- 
+
+
 def extract_fields(data: list[dict]) -> list[dict]:
-    """Select the fields we need and add a preprocessed description column.
- 
-    Fields captured
-    ---------------
-    module code        : e.g. CS3230
-    title              : module title
-    description        : original description (always preserved)
-    description_clean  : boilerplate-stripped description for SkillNer
-    department         : owning department (e.g. Computer Science)
-    faculty            : owning faculty (e.g. School of Computing)
-    module_credit      : number of MCs — used for MC-weighted metrics
-    """
+    """Select the fields we need and add a preprocessed description column."""
     records = []
     for item in data:
         description = item.get("description") or ""
         module_credit = parse_module_credit(item.get("moduleCredit"))
         records.append({
-            "module code":           item.get("moduleCode"),
-            "title":                 item.get("title"),
-            "description":           description,
-            "description_clean":     strip_boilerplate(description),
-            "department":            item.get("department"),
-            "faculty":               item.get("faculty"),
-            "module_credit":         module_credit,
+            "module code":       item.get("moduleCode"),
+            "title":             item.get("title"),
+            "description":       description,
+            "description_clean": strip_boilerplate(description),
+            "department":        item.get("department"),
+            "faculty":           item.get("faculty"),
+            "module_credit":     module_credit,
         })
     return records
- 
- 
+
+
 # ---------------------------------------------------------------------------
-# Description validity filter  (logic unchanged from v1)
+# Description validity filter
 # ---------------------------------------------------------------------------
- 
+
 def _normalize_description(value: object) -> str:
     if value is None or pd.isna(value):
         return ""
@@ -147,24 +123,21 @@ def _normalize_description(value: object) -> str:
         .replace("\u2018", "'")
         .replace("\u2019", "'")
     )
- 
- 
+
+
 def _is_valid_description(description: object) -> bool:
-    """Return True for descriptions that are worth extracting skills from."""
+    """Return True for descriptions worth extracting skills from.
+
+    Excludes placeholder descriptions (e.g. 'not available', 'nil') and
+    modules containing excluded keywords (e.g. 'internship'). Both lists
+    are configurable in src/config.py.
+    """
     normalized = _normalize_description(description)
     if not normalized:
         return False
-    if "internship" in normalized:
+    if any(kw in normalized for kw in EXCLUDED_DESCRIPTION_KEYWORDS):
         return False
-    if normalized in {
-        "not available",
-        "not available.",
-        "not applicable",
-        "unrestricted elective",
-        "nil",
-        "department exchange course",
-        "advance placement credit",
-    }:
+    if normalized in PLACEHOLDER_DESCRIPTIONS:
         return False
     if re.fullmatch(r"(faculty )?exchange course( - yus \(1 unit\))?", normalized):
         return False
@@ -172,33 +145,30 @@ def _is_valid_description(description: object) -> bool:
 
 
 def _is_undergraduate_level(module_code: object) -> bool:
-    """Return True if module is not 5000 or 6000 level.
+    """Return True if module level is not in EXCLUDED_MODULE_LEVELS.
 
     NUS module codes encode level in the first digit of the numeric part.
-    5000 and 6000 level modules are graduate courses — excluded from cleaned output.
+    Excluded levels are configurable in src/config.py (default: 5, 6).
     """
     if module_code is None or (isinstance(module_code, float) and pd.isna(module_code)):
         return False
     m = re.search(r"(\d)", str(module_code))
     if not m:
         return False
-    return int(m.group(1)) not in {5, 6}
- 
- 
+    return int(m.group(1)) not in EXCLUDED_MODULE_LEVELS
+
+
 # ---------------------------------------------------------------------------
 # I/O
 # ---------------------------------------------------------------------------
- 
-def save_to_csv(records: list[dict], path: str) -> None:
-    pd.DataFrame(records).to_csv(path, index=False)
- 
- 
-def save_cleaned_csv(records: list[dict], path: str) -> tuple[int, int]:
-    """Write cleaned modules filtered by description validity and undergraduate level.
 
-    Keeps modules that:
-    - Have a valid, non-placeholder description
-    - Are undergraduate level (module code first digit 1-4, excludes 5000+)
+def save_to_csv(records: list[dict], path: Path) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(records).to_csv(path, index=False)
+
+
+def save_cleaned_csv(records: list[dict], path: Path) -> tuple[int, int]:
+    """Write cleaned modules filtered by description validity and level.
 
     Returns (kept, removed).
     """
@@ -207,44 +177,32 @@ def save_cleaned_csv(records: list[dict], path: str) -> tuple[int, int]:
         df["description"].apply(_is_valid_description)
         & df["module code"].apply(_is_undergraduate_level)
     ].copy()
+
+    path.parent.mkdir(parents=True, exist_ok=True)
     cleaned.to_csv(path, index=False)
     return len(cleaned), len(df) - len(cleaned)
- 
- 
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
- 
-def run(output_raw: str = OUTPUT_RAW_PATH, output_cleaned: str = OUTPUT_CLEANED_PATH) -> None:
-    """Fetch NUSMods data and write raw + cleaned CSVs.
 
-    Callable directly by the pipeline orchestrator or the CLI.
-    """
-    raw_data  = fetch_module_data(URL)
+def main() -> None:
+    """Fetch NUSMods data and write raw + cleaned CSVs."""
+    print(f"Fetching modules from {NUSMODS_API_URL}")
+    raw_data = fetch_module_data(NUSMODS_API_URL)
     extracted = extract_fields(raw_data)
 
-    Path(output_raw).parent.mkdir(parents=True, exist_ok=True)
-    save_to_csv(extracted, output_raw)
+    save_to_csv(extracted, MODULES_RAW)
+    cleaned_count, removed_count = save_cleaned_csv(extracted, MODULES_CLEANED)
 
-    cleaned_count, removed_count = save_cleaned_csv(extracted, output_cleaned)
-
-    print(f"Fetched       {len(raw_data):>6,} modules from NUSMods API")
-    print(f"Saved raw     {len(extracted):>6,} records  -> {output_raw}")
+    print(f"  Fetched       {len(raw_data):>6,} modules from NUSMods API")
+    print(f"  Saved raw     {len(extracted):>6,} records  → {MODULES_RAW}")
     print(
-        f"Saved cleaned {cleaned_count:>6,} records  -> {output_cleaned}"
+        f"  Saved cleaned {cleaned_count:>6,} records  → {MODULES_CLEANED}"
         f"  (removed {removed_count} filtered modules)"
     )
 
 
-def main() -> None:
-    import argparse
-    parser = argparse.ArgumentParser(description="Fetch NUS module data from NUSMods API.")
-    parser.add_argument("--output-raw",     default=OUTPUT_RAW_PATH,     help="Path for raw CSV output.")
-    parser.add_argument("--output-cleaned", default=OUTPUT_CLEANED_PATH, help="Path for cleaned CSV output.")
-    args = parser.parse_args()
-    run(args.output_raw, args.output_cleaned)
- 
- 
 if __name__ == "__main__":
     main()
-    

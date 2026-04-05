@@ -1,26 +1,34 @@
 """
 process_jobs.py
+===============
+Step 1 of the jobs pipeline.
 
-Purpose:
-- Load a single raw MyCareersFuture job JSON file
-- Convert it into a clean, standardized "processed job" record
-- Print the processed record for manual inspection
+Reads raw MyCareersFuture job JSON files from batch subfolders under
+JOBS_RAW_DIR (e.g. raw/jobs/20260125_20260131/), parses each into a
+clean record, and writes a single consolidated CSV.
 
-Next steps:
-- Add a function to process all JSON files in a folder into a CSV/Parquet.
+Usage (from repo root):
+    python -m src.data_processing.process_jobs
+
+Output:
+    {JOBS_PROCESSED_DIR}/01_jobs_parsed.csv
 """
 
 from __future__ import annotations
 
-import argparse
+import csv
 import json
 import re
-import csv
 from dataclasses import asdict, dataclass
 from datetime import datetime
 from html import unescape
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
+
+# Import shared paths from project config
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from config import JOBS_RAW_DIR, JOBS_PARSED
 
 
 # -----------------------------
@@ -42,7 +50,7 @@ BOILERPLATE_PHRASES = [
     "regardless of race",
     "regardless of ethnicity",
     "regardless of religion",
-    "fair employment practices"
+    "fair employment practices",
 ]
 
 
@@ -51,12 +59,7 @@ BOILERPLATE_PHRASES = [
 # -----------------------------
 
 def html_to_text(html: str) -> str:
-    """
-    Convert HTML job descriptions to readable plain text.
-    - Strips tags
-    - Decodes HTML entities
-    - Normalizes whitespace
-    """
+    """Convert HTML job descriptions to readable plain text."""
     if not html:
         return ""
 
@@ -65,10 +68,8 @@ def html_to_text(html: str) -> str:
     html = re.sub(r"<(br)\s*/?>", "\n", html, flags=re.IGNORECASE)
     html = re.sub(r"<li[^>]*>", "- ", html, flags=re.IGNORECASE)
 
-    # Remove remaining tags
+    # Remove remaining tags and decode HTML entities
     text = TAG_RE.sub(" ", html)
-
-    # Decode HTML entities (&nbsp;, &amp;, etc.)
     text = unescape(text)
 
     # Normalize whitespace but preserve line breaks
@@ -80,9 +81,7 @@ def html_to_text(html: str) -> str:
 
 
 def remove_boilerplate_sentences(text: str) -> str:
-    """
-    Remove sentences/lines containing known HR/EEO boilerplate phrases.
-    """
+    """Remove sentences/lines containing known HR/EEO boilerplate phrases."""
     if not text:
         return ""
 
@@ -185,14 +184,11 @@ def parse_posting_date(job: Dict[str, Any]) -> Optional[str]:
 
 @dataclass
 class ProcessedJob:
-    # Text fields
     job_id: str
     title: str
     clean_description: str
     job_text: str
     skills_list: List[str]
-
-    # Structured fields
     minimum_years_experience: Optional[int]
     ssoc_code: Optional[str]
     category: Optional[str]
@@ -200,13 +196,15 @@ class ProcessedJob:
     salary_max: Optional[float]
     salary_avg: Optional[float]
     posting_date: Optional[str]
+    source_batch: str  # which batch folder this job came from
 
 
 # -----------------------------
 # Main Processing Logic
 # -----------------------------
 
-def process_one_job(job: Dict[str, Any]) -> ProcessedJob:
+def process_one_job(job: Dict[str, Any], source_batch: str) -> ProcessedJob:
+    """Parse a single raw job JSON dict into a ProcessedJob."""
     job_id = (job.get("uuid") or "").strip()
     title = (job.get("title") or "").strip()
 
@@ -237,7 +235,6 @@ def process_one_job(job: Dict[str, Any]) -> ProcessedJob:
         ssoc_code = None
 
     category = extract_category(job)
-
     salary_min, salary_max, salary_avg = parse_salary(job)
     posting_date = parse_posting_date(job)
 
@@ -254,54 +251,62 @@ def process_one_job(job: Dict[str, Any]) -> ProcessedJob:
         salary_max=salary_max,
         salary_avg=salary_avg,
         posting_date=posting_date,
+        source_batch=source_batch,
     )
-def process_all_jobs_in_folder(input_dir: str) -> Tuple[List[Dict[str, Any]], List[Tuple[str, str]]]:
+
+
+def process_all_batches(jobs_raw_dir: Path) -> Tuple[List[Dict[str, Any]], List[Tuple[str, str]]]:
     """
-    Process all JSON job files in a folder.
-    Returns:
-    - rows: list of processed job dicts
-    - failed_files: list of (filename, error_message)
+    Scan all batch subfolders under jobs_raw_dir, process every JSON file.
+    Returns processed rows and a list of (filepath, error) for failures.
     """
-    input_path = Path(input_dir)
+    if not jobs_raw_dir.exists():
+        raise FileNotFoundError(f"Jobs raw directory not found: {jobs_raw_dir}")
+
+    # Find all batch subfolders (e.g. 20260125_20260131/)
+    batch_dirs = sorted([d for d in jobs_raw_dir.iterdir() if d.is_dir()])
+
+    if not batch_dirs:
+        raise FileNotFoundError(
+            f"No batch subfolders found in {jobs_raw_dir}. "
+            "Expected structure: raw/jobs/YYYYMMDD_YYYYMMDD/*.json"
+        )
+
     rows: List[Dict[str, Any]] = []
     failed_files: List[Tuple[str, str]] = []
 
-    if not input_path.exists():
-        raise FileNotFoundError(f"Input folder not found: {input_path}")
+    for batch_dir in batch_dirs:
+        batch_name = batch_dir.name
+        json_files = sorted(batch_dir.glob("*.json"))
+        print(f"Processing batch '{batch_name}': {len(json_files)} JSON files")
 
-    json_files = sorted(input_path.glob("*.json"))
+        for json_file in json_files:
+            try:
+                with json_file.open("r", encoding="utf-8") as f:
+                    job = json.load(f)
 
-    for json_file in json_files:
-        try:
-            with json_file.open("r", encoding="utf-8") as f:
-                job = json.load(f)
+                processed = process_one_job(job, source_batch=batch_name)
+                row = asdict(processed)
 
-            processed = process_one_job(job)
-            row = asdict(processed)
+                # Convert skills list to comma-separated string for CSV
+                if isinstance(row.get("skills_list"), list):
+                    row["skills_list"] = ", ".join(row["skills_list"])
 
-            # Convert list to a readable CSV string
-            if isinstance(row.get("skills_list"), list):
-                row["skills_list"] = ", ".join(row["skills_list"])
+                rows.append(row)
 
-            rows.append(row)
-
-        except Exception as e:
-            failed_files.append((json_file.name, str(e)))
+            except Exception as e:
+                failed_files.append((f"{batch_name}/{json_file.name}", str(e)))
 
     return rows, failed_files
 
 
-def save_rows_to_csv(rows: List[Dict[str, Any]], output_csv: str) -> None:
-    """
-    Save processed job rows to CSV.
-    """
+def save_rows_to_csv(rows: List[Dict[str, Any]], output_path: Path) -> None:
+    """Save processed job rows to CSV."""
     if not rows:
         print("No rows to save.")
         return
 
-    output_path = Path(output_csv)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-
     fieldnames = list(rows[0].keys())
 
     with output_path.open("w", newline="", encoding="utf-8-sig") as f:
@@ -309,61 +314,25 @@ def save_rows_to_csv(rows: List[Dict[str, Any]], output_csv: str) -> None:
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"Saved {len(rows)} processed jobs to: {output_csv}")
+    print(f"Saved {len(rows)} processed jobs to: {output_path}")
+
 
 # -----------------------------
-# CLI
+# Entry point
 # -----------------------------
-print("SCRIPT STARTED")
+
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Process MyCareersFuture job JSON file(s).")
-    parser.add_argument(
-        "--input",
-        type=str,
-        help="Path to a single job JSON file (raw).",
-    )
-    parser.add_argument(
-        "--input-dir",
-        type=str,
-        help="Path to a folder containing multiple job JSON files.",
-    )
-    parser.add_argument(
-        "--output",
-        type=str,
-        help="Optional path to save processed output CSV (used with --input-dir).",
-    )
-    args = parser.parse_args()
+    print(f"Scanning batch folders in: {JOBS_RAW_DIR}")
+    rows, failed_files = process_all_batches(JOBS_RAW_DIR)
 
-    # Single-file mode
-    if args.input:
-        in_path = Path(args.input)
-        if not in_path.exists():
-            raise FileNotFoundError(f"Input file not found: {in_path}")
+    save_rows_to_csv(rows, JOBS_PARSED)
 
-        with in_path.open("r", encoding="utf-8") as f:
-            job = json.load(f)
+    print(f"\nProcessed: {len(rows)} jobs")
+    if failed_files:
+        print(f"Failed: {len(failed_files)} files")
+        for filepath, error in failed_files[:10]:  # show first 10 errors
+            print(f"  - {filepath}: {error}")
 
-        processed = process_one_job(job)
-        print(json.dumps(asdict(processed), ensure_ascii=False, indent=2))
-        return
 
-    # Folder mode
-    if args.input_dir:
-        print("FOLDER MODE")
-        print(args.input_dir)
-        rows, failed_files = process_all_jobs_in_folder(args.input_dir)
-
-        output_csv = args.output or "data/processed/jobs_processed.csv"
-        save_rows_to_csv(rows, output_csv)
-
-        print(f"Processed jobs: {len(rows)}")
-
-        if failed_files:
-            print("Failed files:")
-            for filename, error in failed_files:
-                print(f"- {filename}: {error}")
-        return
-
-    raise ValueError("Please provide either --input or --input-dir.")
 if __name__ == "__main__":
     main()

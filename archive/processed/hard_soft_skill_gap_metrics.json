@@ -1,0 +1,68 @@
+{
+  "inputs": {
+    "module_skill_pairs_path": "data/processed/module_skill_pairs.csv",
+    "jobs_skills_path": "data/processed/jobs_processed_with_skills_relevant.csv",
+    "module_skill_rows": 97847,
+    "job_rows": 22720,
+    "unique_course_skills": 9925,
+    "unique_hard_job_skills": 9573,
+    "unique_soft_job_skills": 284
+  },
+  "coverage_metrics": {
+    "dwsc_hard": 0.48496,
+    "dwsc_soft": 0.873965,
+    "hard_job_demand_total": 305110,
+    "soft_job_demand_total": 127861,
+    "hard_demand_covered": 147966,
+    "soft_demand_covered": 111746
+  },
+  "emphasis_metrics": {
+    "course_hard_share": 0.747541,
+    "course_soft_share": 0.252459,
+    "jobs_hard_share": 0.704689,
+    "jobs_soft_share": 0.295311,
+    "hard_share_gap_course_minus_jobs": 0.042852,
+    "soft_share_gap_course_minus_jobs": -0.042852,
+    "course_hard_mentions": 35189,
+    "course_soft_mentions": 11884,
+    "course_unknown_mentions": 50774,
+    "unknown_fraction_of_course_mentions": 0.518912
+  },
+  "notes": {
+    "classifier": "Two-pass: (1) curated lexicon of ~120 hard/soft seed skills; (2) job-demand count fallback for skills not in lexicon. Skills absent from both are marked unknown and excluded from share denominators. See unknown_fraction_of_course_mentions.",
+    "canonicalization": "Both course and job skills are singularized and synonym-mapped before matching, reducing fragmentation artefacts (e.g. 'algorithms' == 'algorithm').",
+    "level_segmentation": "Module level inferred from first digit of module code: 1000-2000 = foundational, 3000-4000 = intermediate, 5000+ = advanced. Foundational modules are expected to have a larger hard/soft gap because breadth education is their purpose, not vocational alignment. The gap in intermediate and advanced modules is the policy-relevant signal."
+  },
+  "level_segmented_emphasis": {
+    "foundational": {
+      "module_count": 2908,
+      "hard_mentions": 5629,
+      "soft_mentions": 2036,
+      "unknown_mentions": 9511,
+      "hard_share": 0.734377,
+      "soft_share": 0.265623,
+      "hard_share_gap_vs_jobs": 0.029688,
+      "soft_share_gap_vs_jobs": -0.029688
+    },
+    "intermediate": {
+      "module_count": 5497,
+      "hard_mentions": 12368,
+      "soft_mentions": 4287,
+      "unknown_mentions": 18058,
+      "hard_share": 0.7426,
+      "soft_share": 0.2574,
+      "hard_share_gap_vs_jobs": 0.037911,
+      "soft_share_gap_vs_jobs": -0.037911
+    },
+    "advanced": {
+      "module_count": 6739,
+      "hard_mentions": 17192,
+      "soft_mentions": 5561,
+      "unknown_mentions": 23205,
+      "hard_share": 0.755593,
+      "soft_share": 0.244407,
+      "hard_share_gap_vs_jobs": 0.050903,
+      "soft_share_gap_vs_jobs": -0.050903
+    }
+  }
+}

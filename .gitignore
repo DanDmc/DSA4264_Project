@@ -10,9 +10,3 @@ __pycache__/
 
 #secret keys
 .env
-
-# # Processed data — generated outputs, not source files
-# data/processed/*.csv
-
-# # Results — generated outputs
-# # results/*.csv
