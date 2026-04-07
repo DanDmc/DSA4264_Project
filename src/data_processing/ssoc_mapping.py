@@ -3,7 +3,7 @@ ssoc_mapping.py
 ===============
 Step 2 of the jobs pipeline.
 
-Enriches 01_jobs_parsed.csv with the full SSOC 2024 hierarchy:
+Enriches 01b_jobs_cleaned.csv with the full SSOC 2024 hierarchy:
   - Major group       (1-digit) → code + title
   - Sub-major group   (2-digit) → code + title
   - Minor group       (3-digit) → code + title
@@ -15,7 +15,7 @@ Usage (from repo root):
 
 Reads:
     - SSOC_DEFINITIONS (raw/ssoc2024-detailed-definitions.xlsx)
-    - JOBS_PARSED      (processed/jobs/01_jobs_parsed.csv)
+    - JOBS_CLEANED     (processed/jobs/01b_jobs_cleaned.csv)
 
 Writes:
     - JOBS_SSOC_MAPPED (processed/jobs/02_jobs_ssoc_mapped.csv)
@@ -31,7 +31,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")
 
 # Import shared paths from project config
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from config import SSOC_DEFINITIONS, JOBS_PARSED, JOBS_SSOC_MAPPED
+from config import SSOC_DEFINITIONS, JOBS_CLEANED, JOBS_SSOC_MAPPED
 
 # the five hierarchy levels — digit length, column prefix
 LEVELS = [
@@ -118,8 +118,10 @@ def main():
 
     lookups = build_level_lookups(ssoc_df)
 
-    print(f"\nLoading jobs from {JOBS_PARSED}")
-    jobs = pd.read_csv(JOBS_PARSED)
+    print(f"\nLoading jobs from {JOBS_CLEANED}")
+    # Read with utf-8-sig to correctly handle the BOM written by clean_jobs.py,
+    # and preserve emojis, CJK characters, and other non-ASCII content intact.
+    jobs = pd.read_csv(JOBS_CLEANED, encoding="utf-8-sig")
     print(f"  → {len(jobs):,} jobs")
 
     # normalise ssoc_code in jobs
@@ -141,9 +143,10 @@ def main():
     if len(unmatched) > 0:
         print(f"\nUnmatched 5-digit codes ({len(unmatched)}): {unmatched[:20]}")
 
-    # save
+    # Save with utf-8-sig so Excel opens the file correctly without mojibake,
+    # and emojis / CJK characters in descriptions are preserved.
     JOBS_SSOC_MAPPED.parent.mkdir(parents=True, exist_ok=True)
-    jobs.to_csv(JOBS_SSOC_MAPPED, index=False)
+    jobs.to_csv(JOBS_SSOC_MAPPED, index=False, encoding="utf-8-sig")
     print(f"\nSaved to {JOBS_SSOC_MAPPED}")
 
     new_cols = [c for c in jobs.columns if c.startswith("ssoc_") and c != "ssoc_code"]

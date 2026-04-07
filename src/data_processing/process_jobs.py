@@ -1,100 +1,40 @@
 """
 process_jobs.py
 ===============
-Step 1 of the jobs pipeline.
+Step 1a of the jobs pipeline.
 
 Reads raw MyCareersFuture job JSON files from batch subfolders under
-JOBS_RAW_DIR (e.g. raw/jobs/20260125_20260131/), parses each into a
-clean record, and writes a single consolidated CSV.
+JOBS_RAW_DIR (e.g. raw/jobs/20260125_20260131/), extracts fields into
+a structured format, and writes a single consolidated CSV.
+
+This script does MINIMAL transformation — just extraction and type
+conversion. All text cleaning (HTML stripping, non-Latin removal,
+boilerplate filtering, formula sanitisation) happens in clean_jobs.py.
 
 Usage (from repo root):
     python -m src.data_processing.process_jobs
 
+    # Test on specific job IDs only:
+    python -m src.data_processing.process_jobs --job-ids ID1 ID2
+
 Output:
-    {JOBS_PROCESSED_DIR}/01_jobs_parsed.csv
+    {JOBS_PROCESSED_DIR}/01a_jobs_extracted.csv
 """
 
 from __future__ import annotations
 
+import argparse
 import csv
 import json
-import re
 from dataclasses import asdict, dataclass
 from datetime import datetime
-from html import unescape
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 # Import shared paths from project config
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from config import JOBS_RAW_DIR, JOBS_PARSED
-
-
-# -----------------------------
-# Regex helpers
-# -----------------------------
-
-TAG_RE = re.compile(r"<[^>]+>")
-WHITESPACE_RE = re.compile(r"\s+")
-SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+|\n+")
-
-# Boilerplate phrases to remove (case-insensitive)
-BOILERPLATE_PHRASES = [
-    "tafep",
-    "employers pledge",
-    "equal opportunity employer",
-    "equal opportunity",
-    "non-discrimination",
-    "regardless of gender",
-    "regardless of race",
-    "regardless of ethnicity",
-    "regardless of religion",
-    "fair employment practices",
-]
-
-
-# -----------------------------
-# Text Cleaning
-# -----------------------------
-
-def html_to_text(html: str) -> str:
-    """Convert HTML job descriptions to readable plain text."""
-    if not html:
-        return ""
-
-    # Preserve basic structure for readability
-    html = re.sub(r"</(p|div|br|li)>", "\n", html, flags=re.IGNORECASE)
-    html = re.sub(r"<(br)\s*/?>", "\n", html, flags=re.IGNORECASE)
-    html = re.sub(r"<li[^>]*>", "- ", html, flags=re.IGNORECASE)
-
-    # Remove remaining tags and decode HTML entities
-    text = TAG_RE.sub(" ", html)
-    text = unescape(text)
-
-    # Normalize whitespace but preserve line breaks
-    text = text.replace("\r\n", "\n").replace("\r", "\n")
-    text = "\n".join(WHITESPACE_RE.sub(" ", line).strip() for line in text.split("\n"))
-    text = "\n".join([line for line in text.split("\n") if line.strip()])
-
-    return text.strip()
-
-
-def remove_boilerplate_sentences(text: str) -> str:
-    """Remove sentences/lines containing known HR/EEO boilerplate phrases."""
-    if not text:
-        return ""
-
-    parts = [p.strip() for p in SENTENCE_SPLIT_RE.split(text) if p.strip()]
-    keep: List[str] = []
-
-    for p in parts:
-        p_lower = p.lower()
-        if any(phrase in p_lower for phrase in BOILERPLATE_PHRASES):
-            continue
-        keep.append(p)
-
-    return "\n".join(keep).strip()
+from config import JOBS_RAW_DIR, JOBS_EXTRACTED
 
 
 # -----------------------------
@@ -179,15 +119,14 @@ def parse_posting_date(job: Dict[str, Any]) -> Optional[str]:
 
 
 # -----------------------------
-# Processed Job Dataclass
+# Extracted Job Dataclass
 # -----------------------------
 
 @dataclass
-class ProcessedJob:
+class ExtractedJob:
     job_id: str
     title: str
-    clean_description: str
-    job_text: str
+    raw_description: str          # HTML as-is from JSON
     skills_list: List[str]
     minimum_years_experience: Optional[int]
     ssoc_code: Optional[str]
@@ -196,29 +135,20 @@ class ProcessedJob:
     salary_max: Optional[float]
     salary_avg: Optional[float]
     posting_date: Optional[str]
-    source_batch: str  # which batch folder this job came from
+    source_batch: str             # which batch folder this job came from
 
 
 # -----------------------------
 # Main Processing Logic
 # -----------------------------
 
-def process_one_job(job: Dict[str, Any], source_batch: str) -> ProcessedJob:
-    """Parse a single raw job JSON dict into a ProcessedJob."""
+def extract_one_job(job: Dict[str, Any], source_batch: str) -> ExtractedJob:
+    """Extract fields from a single raw job JSON dict."""
     job_id = (job.get("uuid") or "").strip()
     title = (job.get("title") or "").strip()
 
+    # Keep raw HTML description — cleaning happens in clean_jobs.py
     raw_desc = job.get("description") or ""
-    clean_desc = html_to_text(raw_desc)
-    clean_desc = remove_boilerplate_sentences(clean_desc)
-
-    # job_text = title + cleaned description
-    pieces = []
-    if title:
-        pieces.append(title)
-    if clean_desc:
-        pieces.append(clean_desc)
-    job_text = ". ".join(pieces).strip()
 
     skills_list = extract_skills(job)
 
@@ -238,11 +168,10 @@ def process_one_job(job: Dict[str, Any], source_batch: str) -> ProcessedJob:
     salary_min, salary_max, salary_avg = parse_salary(job)
     posting_date = parse_posting_date(job)
 
-    return ProcessedJob(
+    return ExtractedJob(
         job_id=job_id,
         title=title,
-        clean_description=clean_desc,
-        job_text=job_text,
+        raw_description=raw_desc,
         skills_list=skills_list,
         minimum_years_experience=mye_i,
         ssoc_code=ssoc_code,
@@ -255,15 +184,24 @@ def process_one_job(job: Dict[str, Any], source_batch: str) -> ProcessedJob:
     )
 
 
-def process_all_batches(jobs_raw_dir: Path) -> Tuple[List[Dict[str, Any]], List[Tuple[str, str]]]:
+def process_all_batches(
+    jobs_raw_dir: Path,
+    filter_ids: Optional[Set[str]] = None,
+) -> Tuple[List[Dict[str, Any]], List[Tuple[str, str]]]:
     """
-    Scan all batch subfolders under jobs_raw_dir, process every JSON file.
-    Returns processed rows and a list of (filepath, error) for failures.
+    Scan all batch subfolders under jobs_raw_dir, extract every JSON file.
+
+    Args:
+        jobs_raw_dir: Root directory containing batch subfolders.
+        filter_ids:   If provided, only jobs whose uuid is in this set are
+                      returned. Useful for quick spot-checks.
+
+    Returns:
+        (rows, failed_files) where failed_files is a list of (path, error).
     """
     if not jobs_raw_dir.exists():
         raise FileNotFoundError(f"Jobs raw directory not found: {jobs_raw_dir}")
 
-    # Find all batch subfolders (e.g. 20260125_20260131/)
     batch_dirs = sorted([d for d in jobs_raw_dir.iterdir() if d.is_dir()])
 
     if not batch_dirs:
@@ -285,8 +223,14 @@ def process_all_batches(jobs_raw_dir: Path) -> Tuple[List[Dict[str, Any]], List[
                 with json_file.open("r", encoding="utf-8") as f:
                     job = json.load(f)
 
-                processed = process_one_job(job, source_batch=batch_name)
-                row = asdict(processed)
+                # Skip if we're filtering to specific IDs
+                if filter_ids is not None:
+                    job_id = (job.get("uuid") or "").strip()
+                    if job_id not in filter_ids:
+                        continue
+
+                extracted = extract_one_job(job, source_batch=batch_name)
+                row = asdict(extracted)
 
                 # Convert skills list to comma-separated string for CSV
                 if isinstance(row.get("skills_list"), list):
@@ -301,7 +245,13 @@ def process_all_batches(jobs_raw_dir: Path) -> Tuple[List[Dict[str, Any]], List[
 
 
 def save_rows_to_csv(rows: List[Dict[str, Any]], output_path: Path) -> None:
-    """Save processed job rows to CSV."""
+    """
+    Save extracted job rows to CSV.
+
+    Uses QUOTE_ALL so every field is wrapped in double-quotes — this prevents
+    Excel from misinterpreting values that start with '-', '+', '=', or '@'
+    as formulas (the #NAME? / #VALUE! problem).
+    """
     if not rows:
         print("No rows to save.")
         return
@@ -310,11 +260,11 @@ def save_rows_to_csv(rows: List[Dict[str, Any]], output_path: Path) -> None:
     fieldnames = list(rows[0].keys())
 
     with output_path.open("w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"Saved {len(rows)} processed jobs to: {output_path}")
+    print(f"Saved {len(rows)} extracted jobs to: {output_path}")
 
 
 # -----------------------------
@@ -322,15 +272,28 @@ def save_rows_to_csv(rows: List[Dict[str, Any]], output_path: Path) -> None:
 # -----------------------------
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Extract raw job JSONs into a CSV (no cleaning).")
+    parser.add_argument(
+        "--job-ids",
+        nargs="+",
+        metavar="ID",
+        help="If provided, only process jobs with these UUIDs (useful for spot-checks).",
+    )
+    args = parser.parse_args()
+
+    filter_ids: Optional[Set[str]] = set(args.job_ids) if args.job_ids else None
+    if filter_ids:
+        print(f"Filtering to {len(filter_ids)} job ID(s): {filter_ids}")
+
     print(f"Scanning batch folders in: {JOBS_RAW_DIR}")
-    rows, failed_files = process_all_batches(JOBS_RAW_DIR)
+    rows, failed_files = process_all_batches(JOBS_RAW_DIR, filter_ids=filter_ids)
 
-    save_rows_to_csv(rows, JOBS_PARSED)
+    save_rows_to_csv(rows, JOBS_EXTRACTED)
 
-    print(f"\nProcessed: {len(rows)} jobs")
+    print(f"\nExtracted: {len(rows)} jobs")
     if failed_files:
         print(f"Failed: {len(failed_files)} files")
-        for filepath, error in failed_files[:10]:  # show first 10 errors
+        for filepath, error in failed_files[:10]:
             print(f"  - {filepath}: {error}")
 
 
