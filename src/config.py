@@ -99,6 +99,7 @@ COURSES_PROCESSED_DIR = DATA_ROOT / "processed" / "courses"
 
 MODULES_RAW = COURSES_RAW_DIR / "modules_raw.csv"
 MODULES_CLEANED = COURSES_PROCESSED_DIR / "modules_cleaned.csv"
+MODULE_SKILL_PAIRS = COURSES_PROCESSED_DIR / "module_skill_pairs.csv"
 
 # ──────────────────────────────────────────────
 # Embedding paths
