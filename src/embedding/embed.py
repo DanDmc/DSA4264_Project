@@ -1,24 +1,36 @@
 """
-embed.py
-========
-Embedding pipeline for NUS modules and job postings.
+embed.py — Embedding pipeline for NUS modules and job postings
+===============================================================
 
-Supports two modes:
-  - whole_text:  one embedding per document (baseline)
-  - sentence:    one embedding per sentence, with mapping back to parent doc
-                 (for job-side averaged best-match similarity)
+Embeds module descriptions and job postings using BGE-large, producing
+numpy arrays + index CSVs that downstream analysis scripts consume.
+
+Default mode is whole_text (one embedding per document), validated as
+the best-performing approach via MRR and category separation tests.
 
 Usage (from repo root):
-    python -m src.embedding.embed                     # both modes
-    python -m src.embedding.embed --mode whole_text    # baseline only
-    python -m src.embedding.embed --mode sentence      # sentence-level only
+    python -m src.embedding.embed                       # whole_text (default)
+    python -m src.embedding.embed --mode whole_text      # explicit
+    python -m src.embedding.embed --mode sentence        # sentence-level (experimental)
+    python -m src.embedding.embed --mode both            # both modes
 
-Outputs saved to EMBEDDINGS_DIR (OneDrive).
+On Colab, pass --data-root to bypass .env:
+    python -m src.embedding.embed --data-root /content/drive/MyDrive/DSA4264_Project_Data
+
+Outputs:
+    EMBEDDINGS_DIR/whole_text/
+        module_embeddings_{model_tag}.npy   — (n_modules, 1024) float32
+        job_embeddings_{model_tag}.npy      — (n_jobs, 1024) float32
+        module_index.csv                    — maps embedding row → module metadata
+        job_index.csv                       — maps embedding row → job metadata
+        embedding_config.json               — reproducibility record
+
 Works on CPU (slower) or GPU (fast). Automatically detects CUDA.
 """
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -30,34 +42,70 @@ import pandas as pd
 import torch
 from sentence_transformers import SentenceTransformer
 
-# Import from shared project config
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from config import (
-    EMBEDDING_BATCH_SIZE,
-    EMBEDDING_DIM,
-    EMBEDDING_MODEL,
-    EMBEDDINGS_DIR,
-    JOB_INDEX_COLS,
-    JOB_PREFIX,
-    JOB_TEXT_FIELDS,
-    JOBS_FILTERED,
-    MODULE_INDEX_COLS,
-    MODULE_PREFIX,
-    MODULE_TEXT_FIELDS,
-    MODULES_CLEANED,
-)
 
-# Regex for sentence splitting — splits on period/question/exclamation
-# followed by whitespace and an uppercase letter or digit
-SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9])")
+# ──────────────────────────────────────────────
+# Config loading
+# ──────────────────────────────────────────────
+
+def _load_config(data_root_override=None):
+    """
+    Import project config. If data_root_override is provided (e.g.
+    --data-root on Colab), set DATA_ROOT env var before importing
+    so config.py picks up the right paths without needing a .env file.
+    """
+    if data_root_override:
+        os.environ["DATA_ROOT"] = str(data_root_override)
+
+    src_dir = Path(__file__).resolve().parent.parent
+    if str(src_dir) not in sys.path:
+        sys.path.insert(0, str(src_dir))
+
+    from config import (
+        EMBEDDING_BATCH_SIZE,
+        EMBEDDING_DIM,
+        EMBEDDING_MODEL,
+        EMBEDDINGS_DIR,
+        JOB_INDEX_COLS,
+        JOB_PREFIX,
+        JOB_TEXT_FIELDS,
+        JOBS_FILTERED,
+        MODULE_INDEX_COLS,
+        MODULE_PREFIX,
+        MODULE_TEXT_FIELDS,
+        MODULES_CLEANED,
+    )
+
+    return {
+        "EMBEDDING_BATCH_SIZE": EMBEDDING_BATCH_SIZE,
+        "EMBEDDING_DIM": EMBEDDING_DIM,
+        "EMBEDDING_MODEL": EMBEDDING_MODEL,
+        "EMBEDDINGS_DIR": EMBEDDINGS_DIR,
+        "JOB_INDEX_COLS": JOB_INDEX_COLS,
+        "JOB_PREFIX": JOB_PREFIX,
+        "JOB_TEXT_FIELDS": JOB_TEXT_FIELDS,
+        "JOBS_FILTERED": JOBS_FILTERED,
+        "MODULE_INDEX_COLS": MODULE_INDEX_COLS,
+        "MODULE_PREFIX": MODULE_PREFIX,
+        "MODULE_TEXT_FIELDS": MODULE_TEXT_FIELDS,
+        "MODULES_CLEANED": MODULES_CLEANED,
+    }
 
 
 # ──────────────────────────────────────────────
 # Text preparation
 # ──────────────────────────────────────────────
 
-def _join_fields(row, fields):
-    """Concatenate specified fields into a single string, handling NaN."""
+# sentence boundary regex — handles abbreviations better than naive period split
+SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9])")
+
+
+def join_fields(row, fields):
+    """
+    Concatenate specified columns into a single string, skipping NaN.
+
+    Public function — also used by the inference module to prepare
+    a single document's text for embedding at query time.
+    """
     parts = []
     for field in fields:
         val = str(row.get(field, "")).strip()
@@ -67,39 +115,47 @@ def _join_fields(row, fields):
 
 
 def prepare_whole_texts(df, fields, prefix):
-    """Prepare one text per document with BGE instruction prefix."""
-    return [prefix + _join_fields(row, fields) for _, row in df.iterrows()]
+    """One text per document with BGE instruction prefix prepended."""
+    return [prefix + join_fields(row, fields) for _, row in df.iterrows()]
 
 
 def split_into_sentences(text):
-    """Split text into sentences. Returns list of non-empty sentences."""
+    """
+    Split text into sentence-like chunks. Handles job posting
+    formatting (bullets, headers, abbreviations like 'e.g.') by
+    splitting on newlines first, then on sentence-ending punctuation
+    followed by uppercase.
+    """
     if not text or not text.strip():
         return []
-    # normalize whitespace and newlines
-    text = text.replace("\n", ". ").replace("\r", " ")
-    text = re.sub(r"\s+", " ", text).strip()
-    parts = [s.strip() for s in SENTENCE_SPLIT_RE.split(text)]
-    # filter out very short fragments (< 10 chars) that aren't real sentences
-    return [s for s in parts if len(s) >= 10]
+    lines = [line.strip() for line in text.split("\n") if line.strip()]
+    sentences = []
+    for line in lines:
+        if len(line) < 120:
+            sentences.append(line)
+        else:
+            parts = SENTENCE_SPLIT_RE.split(line)
+            sentences.extend(parts)
+    return [s for s in sentences if len(s) >= 10]
 
 
 def prepare_sentence_data(df, fields, prefix, id_col):
-    """Prepare sentence-level data with mapping back to parent document.
+    """
+    Prepare sentence-level data with mapping back to parent document.
 
-    Returns:
-        texts: list of prefixed sentence strings ready for embedding
-        sentence_index: DataFrame with columns [doc_id, sentence_idx, sentence_text]
+    NOTE: Sentence-level embedding is experimental and not used in
+    the main pipeline. Whole-text mode was validated as the better
+    approach. This function is retained for future experimentation.
     """
     texts = []
     index_rows = []
 
     for _, row in df.iterrows():
         doc_id = row[id_col]
-        full_text = _join_fields(row, fields)
+        full_text = join_fields(row, fields)
         sentences = split_into_sentences(full_text)
 
         if not sentences:
-            # fallback: use whole text as a single "sentence"
             sentences = [full_text] if full_text.strip() else []
 
         for sent_idx, sentence in enumerate(sentences):
@@ -110,36 +166,34 @@ def prepare_sentence_data(df, fields, prefix, id_col):
                 "sentence_text": sentence,
             })
 
-    sentence_index = pd.DataFrame(index_rows)
-    return texts, sentence_index
+    return texts, pd.DataFrame(index_rows)
 
 
 # ──────────────────────────────────────────────
 # Model loading and embedding
 # ──────────────────────────────────────────────
 
-def load_model():
-    """Load the sentence transformer model onto the best available device."""
+def load_model(model_name):
+    """Load sentence transformer onto best available device."""
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    print(f"Loading model: {EMBEDDING_MODEL}")
+    print(f"Loading model: {model_name}")
     print(f"Device: {device}", end="")
     if device == "cuda":
         print(f" ({torch.cuda.get_device_name(0)})")
     else:
-        print(" (this will be slower than GPU)")
+        print(" (will be slower than GPU)")
 
-    model = SentenceTransformer(EMBEDDING_MODEL, device=device)
-    return model
+    return SentenceTransformer(model_name, device=device)
 
 
-def embed_texts(model, texts, label=""):
+def embed_texts(model, texts, batch_size, label=""):
     """Embed a list of texts. Returns L2-normalized numpy array."""
-    print(f"\nEmbedding {len(texts):,} {label} texts (batch_size={EMBEDDING_BATCH_SIZE})...")
+    print(f"\nEmbedding {len(texts):,} {label} texts (batch_size={batch_size})...")
     start = time.time()
 
     embeddings = model.encode(
         texts,
-        batch_size=EMBEDDING_BATCH_SIZE,
+        batch_size=batch_size,
         show_progress_bar=True,
         normalize_embeddings=True,
         convert_to_numpy=True,
@@ -153,48 +207,70 @@ def embed_texts(model, texts, label=""):
     return embeddings
 
 
+def embed_single_text(model, text, prefix):
+    """
+    Embed a single text string. Returns L2-normalized 1D numpy array.
+
+    Designed for inference/query time — embed one job posting to
+    compare against precomputed module embeddings. Kept here so all
+    embedding logic (model, prefix, normalization) stays in one place.
+    """
+    return model.encode(
+        prefix + text,
+        normalize_embeddings=True,
+        convert_to_numpy=True,
+    )
+
+
 # ──────────────────────────────────────────────
 # Saving
 # ──────────────────────────────────────────────
 
-def save_whole_text(module_emb, job_emb, modules_df, jobs_df):
-    """Save whole-text embeddings and index files."""
-    out_dir = EMBEDDINGS_DIR / "whole_text"
+def _model_tag(model_name):
+    return model_name.split("/")[-1]
+
+
+def save_whole_text(module_emb, job_emb, modules_df, jobs_df, cfg):
+    """Save whole-text embeddings + index CSVs + config record."""
+    out_dir = cfg["EMBEDDINGS_DIR"] / "whole_text"
     out_dir.mkdir(parents=True, exist_ok=True)
+    tag = _model_tag(cfg["EMBEDDING_MODEL"])
 
-    model_tag = EMBEDDING_MODEL.split("/")[-1]
+    np.save(out_dir / f"module_embeddings_{tag}.npy", module_emb)
+    np.save(out_dir / f"job_embeddings_{tag}.npy", job_emb)
 
-    np.save(out_dir / f"module_embeddings_{model_tag}.npy", module_emb)
-    np.save(out_dir / f"job_embeddings_{model_tag}.npy", job_emb)
-
-    module_index = modules_df[MODULE_INDEX_COLS].copy()
+    module_index = modules_df[cfg["MODULE_INDEX_COLS"]].copy()
     module_index.index.name = "embed_idx"
     module_index.to_csv(out_dir / "module_index.csv")
 
-    job_index = jobs_df[JOB_INDEX_COLS].copy()
+    job_index = jobs_df[cfg["JOB_INDEX_COLS"]].copy()
     job_index.index.name = "embed_idx"
     job_index.to_csv(out_dir / "job_index.csv")
 
-    _save_config_record(out_dir, "whole_text", len(modules_df), len(jobs_df))
+    _save_config_record(out_dir, "whole_text", len(modules_df), len(jobs_df), cfg)
     _print_dir_summary(out_dir)
 
 
-def save_sentence_level(module_emb, job_emb, module_sent_idx, job_sent_idx):
-    """Save sentence-level embeddings and index files."""
-    out_dir = EMBEDDINGS_DIR / "sentence_level"
+def save_sentence_level(module_emb, job_emb, module_sent_idx, job_sent_idx, cfg):
+    """
+    Save sentence-level embeddings + sentence index CSVs.
+
+    NOTE: Not used in the main pipeline — whole-text mode is the
+    validated approach. Retained for future experimentation.
+    """
+    out_dir = cfg["EMBEDDINGS_DIR"] / "sentence_level"
     out_dir.mkdir(parents=True, exist_ok=True)
+    tag = _model_tag(cfg["EMBEDDING_MODEL"])
 
-    model_tag = EMBEDDING_MODEL.split("/")[-1]
-
-    np.save(out_dir / f"module_sentence_embeddings_{model_tag}.npy", module_emb)
-    np.save(out_dir / f"job_sentence_embeddings_{model_tag}.npy", job_emb)
+    np.save(out_dir / f"module_sentence_embeddings_{tag}.npy", module_emb)
+    np.save(out_dir / f"job_sentence_embeddings_{tag}.npy", job_emb)
 
     module_sent_idx.to_csv(out_dir / "module_sentence_index.csv", index=False)
     job_sent_idx.to_csv(out_dir / "job_sentence_index.csv", index=False)
 
     n_modules = module_sent_idx["doc_id"].nunique()
     n_jobs = job_sent_idx["doc_id"].nunique()
-    _save_config_record(out_dir, "sentence_level", n_modules, n_jobs,
+    _save_config_record(out_dir, "sentence_level", n_modules, n_jobs, cfg,
                         extra={
                             "module_sentences": len(module_sent_idx),
                             "job_sentences": len(job_sent_idx),
@@ -204,17 +280,17 @@ def save_sentence_level(module_emb, job_emb, module_sent_idx, job_sent_idx):
     _print_dir_summary(out_dir)
 
 
-def _save_config_record(out_dir, mode, n_modules, n_jobs, extra=None):
-    """Save a JSON record of what produced these embeddings."""
+def _save_config_record(out_dir, mode, n_modules, n_jobs, cfg, extra=None):
+    """Write a JSON record of what produced these embeddings — for reproducibility."""
     record = {
-        "model": EMBEDDING_MODEL,
-        "embedding_dim": EMBEDDING_DIM,
+        "model": cfg["EMBEDDING_MODEL"],
+        "embedding_dim": cfg["EMBEDDING_DIM"],
         "mode": mode,
         "normalized": True,
-        "module_text_fields": MODULE_TEXT_FIELDS,
-        "module_prefix": MODULE_PREFIX,
-        "job_text_fields": JOB_TEXT_FIELDS,
-        "job_prefix": JOB_PREFIX,
+        "module_text_fields": cfg["MODULE_TEXT_FIELDS"],
+        "module_prefix": cfg["MODULE_PREFIX"],
+        "job_text_fields": cfg["JOB_TEXT_FIELDS"],
+        "job_prefix": cfg["JOB_PREFIX"],
         "n_modules": n_modules,
         "n_jobs": n_jobs,
         "created_at": datetime.now().isoformat(),
@@ -226,7 +302,6 @@ def _save_config_record(out_dir, mode, n_modules, n_jobs, extra=None):
 
 
 def _print_dir_summary(out_dir):
-    """Print saved files and sizes."""
     print(f"\nSaved to: {out_dir}")
     for fpath in sorted(out_dir.iterdir()):
         size_mb = fpath.stat().st_size / (1024 * 1024)
@@ -237,8 +312,11 @@ def _print_dir_summary(out_dir):
 # Sanity check
 # ──────────────────────────────────────────────
 
-def sanity_check(module_emb, job_emb, modules_df, jobs_df, n_samples=3, top_k=5):
-    """Spot-check top-k job matches for a few modules (whole-text only)."""
+def sanity_check(module_emb, job_emb, modules_df, jobs_df, cfg, n_samples=3, top_k=5):
+    """
+    Spot-check: for a few modules, print their top-k most similar jobs.
+    Quick way to catch obvious issues before committing to full analysis.
+    """
     print(f"\n{'=' * 70}")
     print(f"SANITY CHECK: Top-{top_k} job matches for {n_samples} sample modules")
     print(f"{'=' * 70}")
@@ -264,62 +342,81 @@ def sanity_check(module_emb, job_emb, modules_df, jobs_df, n_samples=3, top_k=5)
 # ──────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Embed NUS modules and job postings.")
+    parser = argparse.ArgumentParser(
+        description="Embed NUS modules and job postings using BGE.",
+        epilog="On Colab: pass --data-root /content/drive/MyDrive/DSA4264_Project_Data",
+    )
     parser.add_argument(
         "--mode",
         choices=["whole_text", "sentence", "both"],
-        default="both",
-        help="Embedding mode (default: both)",
+        default="whole_text",
+        help="Embedding mode (default: whole_text — validated as best approach)",
+    )
+    parser.add_argument(
+        "--data-root",
+        type=str,
+        default=None,
+        help="Override DATA_ROOT (useful on Colab where .env doesn't exist)",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=None,
+        help="Override EMBEDDING_BATCH_SIZE (reduce to 32 or 16 if GPU OOM)",
     )
     args = parser.parse_args()
 
+    cfg = _load_config(data_root_override=args.data_root)
+
+    if args.batch_size:
+        cfg["EMBEDDING_BATCH_SIZE"] = args.batch_size
+
     # load data
-    print(f"Loading modules from: {MODULES_CLEANED}")
-    modules_df = pd.read_csv(MODULES_CLEANED)
+    print(f"Loading modules from: {cfg['MODULES_CLEANED']}")
+    modules_df = pd.read_csv(cfg["MODULES_CLEANED"])
     print(f"  → {len(modules_df):,} modules")
 
-    print(f"Loading jobs from: {JOBS_FILTERED}")
-    jobs_df = pd.read_csv(JOBS_FILTERED)
+    print(f"Loading jobs from: {cfg['JOBS_FILTERED']}")
+    jobs_df = pd.read_csv(cfg["JOBS_FILTERED"])
     print(f"  → {len(jobs_df):,} jobs")
 
-    # load model once
-    model = load_model()
+    model = load_model(cfg["EMBEDDING_MODEL"])
 
-    # whole-text mode
+    # ── whole-text mode (default, validated as best approach) ──
     if args.mode in ("whole_text", "both"):
         print(f"\n{'=' * 70}")
-        print("MODE: WHOLE TEXT")
+        print("MODE: WHOLE TEXT (validated baseline)")
         print(f"{'=' * 70}")
 
-        module_texts = prepare_whole_texts(modules_df, MODULE_TEXT_FIELDS, MODULE_PREFIX)
-        job_texts = prepare_whole_texts(jobs_df, JOB_TEXT_FIELDS, JOB_PREFIX)
+        module_texts = prepare_whole_texts(modules_df, cfg["MODULE_TEXT_FIELDS"], cfg["MODULE_PREFIX"])
+        job_texts = prepare_whole_texts(jobs_df, cfg["JOB_TEXT_FIELDS"], cfg["JOB_PREFIX"])
 
-        module_emb = embed_texts(model, module_texts, label="module")
-        job_emb = embed_texts(model, job_texts, label="job")
+        module_emb = embed_texts(model, module_texts, cfg["EMBEDDING_BATCH_SIZE"], label="module")
+        job_emb = embed_texts(model, job_texts, cfg["EMBEDDING_BATCH_SIZE"], label="job")
 
-        save_whole_text(module_emb, job_emb, modules_df, jobs_df)
-        sanity_check(module_emb, job_emb, modules_df, jobs_df)
+        save_whole_text(module_emb, job_emb, modules_df, jobs_df, cfg)
+        sanity_check(module_emb, job_emb, modules_df, jobs_df, cfg)
 
-    # sentence-level mode
+    # ── sentence-level mode (experimental — not used in main pipeline) ──
     if args.mode in ("sentence", "both"):
         print(f"\n{'=' * 70}")
-        print("MODE: SENTENCE LEVEL")
+        print("MODE: SENTENCE LEVEL (experimental — not the validated approach)")
         print(f"{'=' * 70}")
 
         module_sent_texts, module_sent_idx = prepare_sentence_data(
-            modules_df, MODULE_TEXT_FIELDS, MODULE_PREFIX, id_col="module code"
+            modules_df, cfg["MODULE_TEXT_FIELDS"], cfg["MODULE_PREFIX"], id_col="module code"
         )
         job_sent_texts, job_sent_idx = prepare_sentence_data(
-            jobs_df, JOB_TEXT_FIELDS, JOB_PREFIX, id_col="job_id"
+            jobs_df, cfg["JOB_TEXT_FIELDS"], cfg["JOB_PREFIX"], id_col="job_id"
         )
 
         print(f"\nModules: {modules_df['module code'].nunique()} docs → {len(module_sent_texts):,} sentences")
         print(f"Jobs:    {jobs_df['job_id'].nunique()} docs → {len(job_sent_texts):,} sentences")
 
-        module_sent_emb = embed_texts(model, module_sent_texts, label="module sentence")
-        job_sent_emb = embed_texts(model, job_sent_texts, label="job sentence")
+        module_sent_emb = embed_texts(model, module_sent_texts, cfg["EMBEDDING_BATCH_SIZE"], label="module sentence")
+        job_sent_emb = embed_texts(model, job_sent_texts, cfg["EMBEDDING_BATCH_SIZE"], label="job sentence")
 
-        save_sentence_level(module_sent_emb, job_sent_emb, module_sent_idx, job_sent_idx)
+        save_sentence_level(module_sent_emb, job_sent_emb, module_sent_idx, job_sent_idx, cfg)
 
     print(f"\n{'=' * 70}")
     print("EMBEDDING COMPLETE")
