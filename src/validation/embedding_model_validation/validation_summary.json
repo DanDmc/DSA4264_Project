@@ -1,0 +1,205 @@
+{
+  "generated_at": "2026-04-11T01:27:16.004568",
+  "variants_included": [
+    "v1_baseline",
+    "v2_denoised",
+    "v3_sentence_avg",
+    "v4_sentence_weighted"
+  ],
+  "comparison_table": {
+    "v1_baseline": {
+      "MRR": 0.9289,
+      "Top1": 0.9,
+      "Top2": 0.9,
+      "separation_gap": 0.1056,
+      "separation_ratio": 1.2294,
+      "misalignment_rate": 0.0222
+    },
+    "v2_denoised": {
+      "MRR": 0.8456,
+      "Top1": 0.7667,
+      "Top2": 0.8333,
+      "separation_gap": 0.0735,
+      "separation_ratio": 1.1144,
+      "misalignment_rate": 0.0622
+    },
+    "v3_sentence_avg": {
+      "MRR": 0.8253,
+      "Top1": 0.7333,
+      "Top2": 0.8667,
+      "separation_gap": 0.0688,
+      "separation_ratio": 1.106,
+      "misalignment_rate": 0.0844
+    },
+    "v4_sentence_weighted": {
+      "MRR": 0.8281,
+      "Top1": 0.7333,
+      "Top2": 0.8667,
+      "separation_gap": 0.07,
+      "separation_ratio": 1.108,
+      "misalignment_rate": 0.0844
+    }
+  },
+  "per_category": {
+    "accountant": {
+      "v1_baseline": {
+        "MRR": 1.0,
+        "separation_gap": 0.1574,
+        "misalignment_rate": 0.0
+      },
+      "v2_denoised": {
+        "MRR": 1.0,
+        "separation_gap": 0.0875,
+        "misalignment_rate": 0.04
+      },
+      "v3_sentence_avg": {
+        "MRR": 1.0,
+        "separation_gap": 0.0837,
+        "misalignment_rate": 0.0533
+      },
+      "v4_sentence_weighted": {
+        "MRR": 1.0,
+        "separation_gap": 0.0851,
+        "misalignment_rate": 0.0533
+      }
+    },
+    "civil_engineer": {
+      "v1_baseline": {
+        "MRR": 0.7067,
+        "separation_gap": 0.0714,
+        "misalignment_rate": 0.08
+      },
+      "v2_denoised": {
+        "MRR": 0.3333,
+        "separation_gap": 0.0244,
+        "misalignment_rate": 0.2667
+      },
+      "v3_sentence_avg": {
+        "MRR": 0.3019,
+        "separation_gap": 0.0147,
+        "misalignment_rate": 0.4267
+      },
+      "v4_sentence_weighted": {
+        "MRR": 0.3186,
+        "separation_gap": 0.0158,
+        "misalignment_rate": 0.4267
+      }
+    },
+    "digital_media": {
+      "v1_baseline": {
+        "MRR": 1.0,
+        "separation_gap": 0.0742,
+        "misalignment_rate": 0.0533
+      },
+      "v2_denoised": {
+        "MRR": 0.74,
+        "separation_gap": 0.0411,
+        "misalignment_rate": 0.2267
+      },
+      "v3_sentence_avg": {
+        "MRR": 0.65,
+        "separation_gap": 0.0353,
+        "misalignment_rate": 0.2267
+      },
+      "v4_sentence_weighted": {
+        "MRR": 0.65,
+        "separation_gap": 0.0373,
+        "misalignment_rate": 0.2133
+      }
+    },
+    "legal": {
+      "v1_baseline": {
+        "MRR": 1.0,
+        "separation_gap": 0.1082,
+        "misalignment_rate": 0.0533
+      },
+      "v2_denoised": {
+        "MRR": 1.0,
+        "separation_gap": 0.0663,
+        "misalignment_rate": 0.04
+      },
+      "v3_sentence_avg": {
+        "MRR": 1.0,
+        "separation_gap": 0.0662,
+        "misalignment_rate": 0.0533
+      },
+      "v4_sentence_weighted": {
+        "MRR": 1.0,
+        "separation_gap": 0.0663,
+        "misalignment_rate": 0.0533
+      }
+    },
+    "social_work": {
+      "v1_baseline": {
+        "MRR": 1.0,
+        "separation_gap": 0.1396,
+        "misalignment_rate": 0.0
+      },
+      "v2_denoised": {
+        "MRR": 1.0,
+        "separation_gap": 0.1319,
+        "misalignment_rate": 0.0
+      },
+      "v3_sentence_avg": {
+        "MRR": 1.0,
+        "separation_gap": 0.1294,
+        "misalignment_rate": 0.0
+      },
+      "v4_sentence_weighted": {
+        "MRR": 1.0,
+        "separation_gap": 0.1306,
+        "misalignment_rate": 0.0
+      }
+    },
+    "software_engineer": {
+      "v1_baseline": {
+        "MRR": 0.8667,
+        "separation_gap": 0.0827,
+        "misalignment_rate": 0.04
+      },
+      "v2_denoised": {
+        "MRR": 1.0,
+        "separation_gap": 0.09,
+        "misalignment_rate": 0.0133
+      },
+      "v3_sentence_avg": {
+        "MRR": 1.0,
+        "separation_gap": 0.0835,
+        "misalignment_rate": 0.0133
+      },
+      "v4_sentence_weighted": {
+        "MRR": 1.0,
+        "separation_gap": 0.0849,
+        "misalignment_rate": 0.0133
+      }
+    }
+  },
+  "recommendation": "Best performer: v1_baseline\n  MRR=0.9289, separation_gap=0.1056, misalignment_rate=0.0222\n\nRanking by MRR (then separation gap as tiebreaker):\n  1. v1_baseline: MRR=0.9289, gap=0.1056, misalign=0.0222\n  2. v2_denoised: MRR=0.8456, gap=0.0735, misalign=0.0622\n  3. v4_sentence_weighted: MRR=0.8281, gap=0.07, misalign=0.0844\n  4. v3_sentence_avg: MRR=0.8253, gap=0.0688, misalign=0.0844",
+  "variant_configs": {
+    "v1_baseline": {
+      "variant": "v1_baseline",
+      "embedding_model": "BAAI/bge-large-en-v1.5",
+      "method": "full_text_single_embedding",
+      "timestamp": "2026-04-11T01:14:25.020164"
+    },
+    "v2_denoised": {
+      "variant": "v2_denoised",
+      "embedding_model": "BAAI/bge-large-en-v1.5",
+      "method": "sentence_hard_threshold",
+      "threshold": 0.7,
+      "timestamp": "2026-04-11T01:19:39.324409"
+    },
+    "v3_sentence_avg": {
+      "variant": "v3_sentence_avg",
+      "embedding_model": "BAAI/bge-large-en-v1.5",
+      "method": "sentence_mean_pool",
+      "timestamp": "2026-04-11T01:21:21.662135"
+    },
+    "v4_sentence_weighted": {
+      "variant": "v4_sentence_weighted",
+      "embedding_model": "BAAI/bge-large-en-v1.5",
+      "method": "sentence_centroid_weighted_mean",
+      "timestamp": "2026-04-11T01:26:40.926527"
+    }
+  }
+}

@@ -1,0 +1,3891 @@
+{
+  "variant": "v3_sentence_avg",
+  "config": {
+    "variant": "v3_sentence_avg",
+    "embedding_model": "BAAI/bge-large-en-v1.5",
+    "method": "sentence_mean_pool",
+    "timestamp": "2026-04-11T01:21:21.662135"
+  },
+  "aggregate": {
+    "retrieval": {
+      "MRR": 0.8253,
+      "Top1": 0.7333,
+      "Top2": 0.8667
+    },
+    "separation": {
+      "intra_mean": 0.7181,
+      "inter_mean": 0.6493,
+      "separation_gap": 0.0688,
+      "separation_ratio": 1.106,
+      "misalignment_rate": 0.0844
+    }
+  },
+  "per_category": {
+    "accountant": {
+      "retrieval": {
+        "MRR": 1.0,
+        "Top1": 1.0,
+        "Top2": 1.0
+      },
+      "separation": {
+        "intra_mean": 0.7248,
+        "inter_mean": 0.6411,
+        "separation_gap": 0.0837,
+        "separation_ratio": 1.1305,
+        "misalignment_rate": 0.0533
+      }
+    },
+    "civil_engineer": {
+      "retrieval": {
+        "MRR": 0.3019,
+        "Top1": 0.0,
+        "Top2": 0.4
+      },
+      "separation": {
+        "intra_mean": 0.6776,
+        "inter_mean": 0.6628,
+        "separation_gap": 0.0147,
+        "separation_ratio": 1.0222,
+        "misalignment_rate": 0.4267
+      }
+    },
+    "digital_media": {
+      "retrieval": {
+        "MRR": 0.65,
+        "Top1": 0.4,
+        "Top2": 0.8
+      },
+      "separation": {
+        "intra_mean": 0.6825,
+        "inter_mean": 0.6472,
+        "separation_gap": 0.0353,
+        "separation_ratio": 1.0545,
+        "misalignment_rate": 0.2267
+      }
+    },
+    "legal": {
+      "retrieval": {
+        "MRR": 1.0,
+        "Top1": 1.0,
+        "Top2": 1.0
+      },
+      "separation": {
+        "intra_mean": 0.6877,
+        "inter_mean": 0.6214,
+        "separation_gap": 0.0662,
+        "separation_ratio": 1.1065,
+        "misalignment_rate": 0.0533
+      }
+    },
+    "social_work": {
+      "retrieval": {
+        "MRR": 1.0,
+        "Top1": 1.0,
+        "Top2": 1.0
+      },
+      "separation": {
+        "intra_mean": 0.7835,
+        "inter_mean": 0.6541,
+        "separation_gap": 0.1294,
+        "separation_ratio": 1.1979,
+        "misalignment_rate": 0.0
+      }
+    },
+    "software_engineer": {
+      "retrieval": {
+        "MRR": 1.0,
+        "Top1": 1.0,
+        "Top2": 1.0
+      },
+      "separation": {
+        "intra_mean": 0.7527,
+        "inter_mean": 0.6692,
+        "separation_gap": 0.0835,
+        "separation_ratio": 1.1247,
+        "misalignment_rate": 0.0133
+      }
+    }
+  },
+  "raw_results": [
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "ACC1701",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.7156133651733398
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "ACC2712",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6035219430923462
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "ACC2707",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.5918573141098022
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "CS2103",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6812177300453186
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "CS2104",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.702757716178894
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "CS2113",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7335368990898132
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "NM3205",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.6246468424797058
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "NM3230",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.6925152540206909
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "NM4231",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.7222846150398254
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "LC1016",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6728511452674866
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "LC2008A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6855179667472839
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "LC1002A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6002798080444336
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "SW1101E",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.7297637462615967
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "SW2101",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6792179346084595
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "SW3105",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6395168304443359
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "CE1101",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.7152289152145386
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "CE1102",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6108652949333191
+    },
+    {
+      "job": "de00ff4fa1d310b35c8b4e54e8ccf935",
+      "course": "CE1109",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.620254397392273
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "ACC1701",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.659354567527771
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "ACC2712",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.5908024907112122
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "ACC2707",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.5966017246246338
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "CS2103",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7076501846313477
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "CS2104",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6939066648483276
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "CS2113",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7412775754928589
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "NM3205",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.6142276525497437
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "NM3230",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.6688597202301025
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "NM4231",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.7259783744812012
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "LC1016",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6674478054046631
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "LC2008A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6732454299926758
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "LC1002A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6284515857696533
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "SW1101E",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6907262206077576
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "SW2101",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6748875379562378
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "SW3105",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6853505373001099
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "CE1101",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.661665141582489
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "CE1102",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.5867275595664978
+    },
+    {
+      "job": "18023cc71a0e6fcce01f19d7643feba9",
+      "course": "CE1109",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6311108469963074
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "ACC1701",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.69176185131073
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "ACC2712",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6450711488723755
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "ACC2707",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6188403367996216
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "CS2103",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7721612453460693
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "CS2104",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7293475270271301
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "CS2113",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.803315281867981
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "NM3205",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.6589338183403015
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "NM3230",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.6825375556945801
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "NM4231",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.7244529724121094
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "LC1016",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6843291521072388
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "LC2008A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6915096044540405
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "LC1002A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6071076989173889
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "SW1101E",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.7292515635490417
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "SW2101",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.7203102111816406
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "SW3105",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6918132305145264
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "CE1101",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6990029811859131
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "CE1102",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.669156551361084
+    },
+    {
+      "job": "cb90216ea5aa7162b9e9be49e23f7fff",
+      "course": "CE1109",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.666172444820404
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "ACC1701",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6986314058303833
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "ACC2712",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6372485756874084
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "ACC2707",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6142088174819946
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "CS2103",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7847622632980347
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "CS2104",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7361624836921692
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "CS2113",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.8225850462913513
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "NM3205",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.6943744421005249
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "NM3230",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.7262982726097107
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "NM4231",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.7710562944412231
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "LC1016",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.689115047454834
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "LC2008A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6830939650535583
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "LC1002A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6290913820266724
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "SW1101E",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.7071468830108643
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "SW2101",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.7132527828216553
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "SW3105",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6890527606010437
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "CE1101",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.7163700461387634
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "CE1102",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.653731107711792
+    },
+    {
+      "job": "2a4f20e79f72b1236cce816bee335f76",
+      "course": "CE1109",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.684933066368103
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "ACC1701",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.7061468362808228
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "ACC2712",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6384773850440979
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "ACC2707",
+      "job_category": "software_engineer",
+      "course_category": "accountant",
+      "score": 0.6261881589889526
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "CS2103",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7771096229553223
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "CS2104",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7726239562034607
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "CS2113",
+      "job_category": "software_engineer",
+      "course_category": "software_engineer",
+      "score": 0.8314858675003052
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "NM3205",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.612511396408081
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "NM3230",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.683136522769928
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "NM4231",
+      "job_category": "software_engineer",
+      "course_category": "digital_media",
+      "score": 0.7250735759735107
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "LC1016",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.706371545791626
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "LC2008A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.677838921546936
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "LC1002A",
+      "job_category": "software_engineer",
+      "course_category": "legal",
+      "score": 0.6140302419662476
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "SW1101E",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.683074951171875
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "SW2101",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.7067908048629761
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "SW3105",
+      "job_category": "software_engineer",
+      "course_category": "social_work",
+      "score": 0.6815241575241089
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "CE1101",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.7002339959144592
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "CE1102",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6157124042510986
+    },
+    {
+      "job": "4c929af5e41255b50defbbd98ca43b36",
+      "course": "CE1109",
+      "job_category": "software_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6663092374801636
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "ACC1701",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.8021477460861206
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "ACC2712",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7180196046829224
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "ACC2707",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7095997333526611
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "CS2103",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6288639307022095
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "CS2104",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6091827750205994
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "CS2113",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6616402864456177
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "NM3205",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.5243176221847534
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "NM3230",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.5824437141418457
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "NM4231",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6356841325759888
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "LC1016",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.6852707266807556
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "LC2008A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.7221318483352661
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "LC1002A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.5694704055786133
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "SW1101E",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6336147785186768
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "SW2101",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6492908000946045
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "SW3105",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6111160516738892
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "CE1101",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6327465772628784
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "CE1102",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6011044383049011
+    },
+    {
+      "job": "ab103d2c17e1f803ae380aa09ab4f56d",
+      "course": "CE1109",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.5852449536323547
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "ACC1701",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7471237182617188
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "ACC2712",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.6687157154083252
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "ACC2707",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.698611855506897
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "CS2103",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.650665819644928
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "CS2104",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6226873397827148
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "CS2113",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6800397634506226
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "NM3205",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.5443716645240784
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "NM3230",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6026591062545776
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "NM4231",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6743123531341553
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "LC1016",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.6750774383544922
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "LC2008A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.7006001472473145
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "LC1002A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.6118761301040649
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "SW1101E",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6508924961090088
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "SW2101",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6767035126686096
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "SW3105",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6735624670982361
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "CE1101",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6255496740341187
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "CE1102",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.5871415138244629
+    },
+    {
+      "job": "c7bed414ed4b1cad295c1f7355c3e3d9",
+      "course": "CE1109",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6061769127845764
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "ACC1701",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.8053549528121948
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "ACC2712",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7096307873725891
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "ACC2707",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7116599082946777
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "CS2103",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6627925634384155
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "CS2104",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6436100602149963
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "CS2113",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.7079071998596191
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "NM3205",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.5446638464927673
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "NM3230",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6285245418548584
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "NM4231",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6786528825759888
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "LC1016",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.7023375630378723
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "LC2008A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.719657301902771
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "LC1002A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.5913779139518738
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "SW1101E",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6710928678512573
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "SW2101",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.686050295829773
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "SW3105",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6589773893356323
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "CE1101",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6437746286392212
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "CE1102",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.5910782217979431
+    },
+    {
+      "job": "e725fdc57835bf38befdd79f1ef58f6d",
+      "course": "CE1109",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6128358840942383
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "ACC1701",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7619274854660034
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "ACC2712",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.6971642971038818
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "ACC2707",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7075633406639099
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "CS2103",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6688601970672607
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "CS2104",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6463401913642883
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "CS2113",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.7084465026855469
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "NM3205",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.5657448768615723
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "NM3230",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6269344687461853
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "NM4231",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6854303479194641
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "LC1016",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.6900811791419983
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "LC2008A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.7202726602554321
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "LC1002A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.6109130382537842
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "SW1101E",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6702947616577148
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "SW2101",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.675445020198822
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "SW3105",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6778086423873901
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "CE1101",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6499778032302856
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "CE1102",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6063898801803589
+    },
+    {
+      "job": "bfc7cf271bb8adb2d83eaa8838b402b2",
+      "course": "CE1109",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6322749853134155
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "ACC1701",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7550069093704224
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "ACC2712",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.6729944944381714
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "ACC2707",
+      "job_category": "accountant",
+      "course_category": "accountant",
+      "score": 0.7062296867370605
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "CS2103",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6611932516098022
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "CS2104",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6331705451011658
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "CS2113",
+      "job_category": "accountant",
+      "course_category": "software_engineer",
+      "score": 0.6814597845077515
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "NM3205",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.545641303062439
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "NM3230",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6028084754943848
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "NM4231",
+      "job_category": "accountant",
+      "course_category": "digital_media",
+      "score": 0.6655662059783936
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "LC1016",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.6595970392227173
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "LC2008A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.7231501340866089
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "LC1002A",
+      "job_category": "accountant",
+      "course_category": "legal",
+      "score": 0.6053311228752136
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "SW1101E",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.652971625328064
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "SW2101",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.6565066576004028
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "SW3105",
+      "job_category": "accountant",
+      "course_category": "social_work",
+      "score": 0.649651050567627
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "CE1101",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6367913484573364
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "CE1102",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.5987855195999146
+    },
+    {
+      "job": "87d719794558a42cb6c1054c064e80a3",
+      "course": "CE1109",
+      "job_category": "accountant",
+      "course_category": "civil_engineer",
+      "score": 0.6178836226463318
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "ACC1701",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.684797465801239
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "ACC2712",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.5961543321609497
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "ACC2707",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6281636953353882
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "CS2103",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6620293259620667
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "CS2104",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6551641821861267
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "CS2113",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6999807357788086
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "NM3205",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.6066699028015137
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "NM3230",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.6737184524536133
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "NM4231",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.6884130239486694
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "LC1016",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6789250373840332
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "LC2008A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6941289901733398
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "LC1002A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6066921949386597
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "SW1101E",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6995904445648193
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "SW2101",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6792685389518738
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "SW3105",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6753355264663696
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "CE1101",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6391794681549072
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "CE1102",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.5656716823577881
+    },
+    {
+      "job": "6cd0c92f8b2d888dbf7e34bad313d368",
+      "course": "CE1109",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6030759811401367
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "ACC1701",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6508724093437195
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "ACC2712",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6208273768424988
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "ACC2707",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6360008716583252
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "CS2103",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6989259719848633
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "CS2104",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6433520317077637
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "CS2113",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.7486135363578796
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "NM3205",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.634742259979248
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "NM3230",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.7051219344139099
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "NM4231",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.7472127079963684
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "LC1016",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6884009838104248
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "LC2008A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.665479302406311
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "LC1002A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6017802357673645
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "SW1101E",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6724485158920288
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "SW2101",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6968661546707153
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "SW3105",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.7189317345619202
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "CE1101",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6464180946350098
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "CE1102",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6012911200523376
+    },
+    {
+      "job": "016483e263dbee07e8ecc55507f2d1d8",
+      "course": "CE1109",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6623042225837708
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "ACC1701",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6715404987335205
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "ACC2712",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.5988049507141113
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "ACC2707",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6099343299865723
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "CS2103",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.651827335357666
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "CS2104",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6343051195144653
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "CS2113",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.697464108467102
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "NM3205",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.6584497690200806
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "NM3230",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.7149783372879028
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "NM4231",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.7278984785079956
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "LC1016",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6970279812812805
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "LC2008A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6732608079910278
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "LC1002A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6191810965538025
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "SW1101E",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.7290154099464417
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "SW2101",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.7111577987670898
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "SW3105",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.7156465649604797
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "CE1101",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6349228024482727
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "CE1102",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.5821244716644287
+    },
+    {
+      "job": "8871fccf1cb693249a05649bd2b5bb6c",
+      "course": "CE1109",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6251516938209534
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "ACC1701",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6572709679603577
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "ACC2712",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.567184329032898
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "ACC2707",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6266438961029053
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "CS2103",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.614556074142456
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "CS2104",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.5944051146507263
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "CS2113",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6494431495666504
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "NM3205",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.6147047281265259
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "NM3230",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.6581968069076538
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "NM4231",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.685958981513977
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "LC1016",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6370998620986938
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "LC2008A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6526005864143372
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "LC1002A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.5841742753982544
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "SW1101E",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6541321873664856
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "SW2101",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6418255567550659
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "SW3105",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6665282249450684
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "CE1101",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.5903539061546326
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "CE1102",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.5348891615867615
+    },
+    {
+      "job": "55edfe5045e383076f685b40a1a369cd",
+      "course": "CE1109",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.589974045753479
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "ACC1701",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6759902238845825
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "ACC2712",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6009087562561035
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "ACC2707",
+      "job_category": "digital_media",
+      "course_category": "accountant",
+      "score": 0.6133837699890137
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "CS2103",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6702508926391602
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "CS2104",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6150981783866882
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "CS2113",
+      "job_category": "digital_media",
+      "course_category": "software_engineer",
+      "score": 0.6994279026985168
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "NM3205",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.6823068857192993
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "NM3230",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.7100378274917603
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "NM4231",
+      "job_category": "digital_media",
+      "course_category": "digital_media",
+      "score": 0.7295764684677124
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "LC1016",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6767717003822327
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "LC2008A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.6769496202468872
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "LC1002A",
+      "job_category": "digital_media",
+      "course_category": "legal",
+      "score": 0.5869567394256592
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "SW1101E",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.7003916501998901
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "SW2101",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6968833208084106
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "SW3105",
+      "job_category": "digital_media",
+      "course_category": "social_work",
+      "score": 0.6862019300460815
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "CE1101",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6126425862312317
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "CE1102",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.5978984236717224
+    },
+    {
+      "job": "017aff94b9520cd81bf82f3f88779d47",
+      "course": "CE1109",
+      "job_category": "digital_media",
+      "course_category": "civil_engineer",
+      "score": 0.6001899838447571
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "ACC1701",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.7239863276481628
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "ACC2712",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6929881572723389
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "ACC2707",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6551474928855896
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "CS2103",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6484915018081665
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "CS2104",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6215774416923523
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "CS2113",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6766742467880249
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "NM3205",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.5767510533332825
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "NM3230",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.6292777061462402
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "NM4231",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.6911836862564087
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "LC1016",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.7165300846099854
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "LC2008A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.7524145841598511
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "LC1002A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.6695059537887573
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "SW1101E",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6975506544113159
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "SW2101",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6959538459777832
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "SW3105",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6699326038360596
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "CE1101",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.659683108329773
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "CE1102",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.582371175289154
+    },
+    {
+      "job": "a519c1cac682f91812a011b932f687af",
+      "course": "CE1109",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.6298922300338745
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "ACC1701",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.5437156558036804
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "ACC2712",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.4902321994304657
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "ACC2707",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.5376003980636597
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "CS2103",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.47794944047927856
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "CS2104",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.4724982976913452
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "CS2113",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.505218505859375
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "NM3205",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.40016821026802063
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "NM3230",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.47548985481262207
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "NM4231",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.5234901309013367
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "LC1016",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.6009935736656189
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "LC2008A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.5649884939193726
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "LC1002A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.5908609628677368
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "SW1101E",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.5675796270370483
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "SW2101",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.5529015064239502
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "SW3105",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.517764687538147
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "CE1101",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.47508835792541504
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "CE1102",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.4317144751548767
+    },
+    {
+      "job": "5aad2a728fedabc72fa91500e3eeb495",
+      "course": "CE1109",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.44814416766166687
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "ACC1701",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6996579170227051
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "ACC2712",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6633927822113037
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "ACC2707",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6552577018737793
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "CS2103",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6631098985671997
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "CS2104",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6422128677368164
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "CS2113",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.7097743153572083
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "NM3205",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.5877434611320496
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "NM3230",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.6525710821151733
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "NM4231",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.6967921257019043
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "LC1016",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.7501084804534912
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "LC2008A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.7247059345245361
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "LC1002A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.669965386390686
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "SW1101E",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.694840669631958
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "SW2101",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.7162603139877319
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "SW3105",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6903438568115234
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "CE1101",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.6537492871284485
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "CE1102",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.5963677167892456
+    },
+    {
+      "job": "4a0942cbdd878886d4b68a0e1659dcbe",
+      "course": "CE1109",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.6325269937515259
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "ACC1701",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.7044456601142883
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "ACC2712",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6420276761054993
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "ACC2707",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6722574234008789
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "CS2103",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6410814523696899
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "CS2104",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6334520578384399
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "CS2113",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.663546085357666
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "NM3205",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.5670198202133179
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "NM3230",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.6239217519760132
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "NM4231",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.6702485680580139
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "LC1016",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.703772246837616
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "LC2008A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.7459444999694824
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "LC1002A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.6893277764320374
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "SW1101E",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6683225631713867
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "SW2101",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6809003353118896
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "SW3105",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6750240921974182
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "CE1101",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.6596049070358276
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "CE1102",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.58604896068573
+    },
+    {
+      "job": "c99fb36fa19233e063e6006ef61bc02d",
+      "course": "CE1109",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.6387896537780762
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "ACC1701",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6983695030212402
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "ACC2712",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6424700617790222
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "ACC2707",
+      "job_category": "legal",
+      "course_category": "accountant",
+      "score": 0.6751214265823364
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "CS2103",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6367839574813843
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "CS2104",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.6229864358901978
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "CS2113",
+      "job_category": "legal",
+      "course_category": "software_engineer",
+      "score": 0.660601019859314
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "NM3205",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.5613640546798706
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "NM3230",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.620459794998169
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "NM4231",
+      "job_category": "legal",
+      "course_category": "digital_media",
+      "score": 0.6620140075683594
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "LC1016",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.7045126557350159
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "LC2008A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.7435566186904907
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "LC1002A",
+      "job_category": "legal",
+      "course_category": "legal",
+      "score": 0.6877618432044983
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "SW1101E",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6626114845275879
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "SW2101",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6745679378509521
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "SW3105",
+      "job_category": "legal",
+      "course_category": "social_work",
+      "score": 0.6677714586257935
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "CE1101",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.6534225940704346
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "CE1102",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.5809727311134338
+    },
+    {
+      "job": "4f437bf97ea90301f4ef4d26425434cb",
+      "course": "CE1109",
+      "job_category": "legal",
+      "course_category": "civil_engineer",
+      "score": 0.6368329524993896
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "ACC1701",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6087628602981567
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "ACC2712",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6088414788246155
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "ACC2707",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.5455228090286255
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "CS2103",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6260055899620056
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "CS2104",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.5989413261413574
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "CS2113",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6480312347412109
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "NM3205",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.5918620228767395
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "NM3230",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6246641278266907
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "NM4231",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.665594756603241
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "LC1016",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6825841665267944
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "LC2008A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.648051381111145
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "LC1002A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6212700605392456
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "SW1101E",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7968278527259827
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "SW2101",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.8197242617607117
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "SW3105",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7997539639472961
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "CE1101",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6257441639900208
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "CE1102",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.595996081829071
+    },
+    {
+      "job": "b6e7113da680d83bc79eda7c90a6f334",
+      "course": "CE1109",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6204965710639954
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "ACC1701",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.7133094072341919
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "ACC2712",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6686584949493408
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "ACC2707",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6332191228866577
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "CS2103",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6790580749511719
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "CS2104",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6654285788536072
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "CS2113",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.7353919148445129
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "NM3205",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6119410395622253
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "NM3230",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6656934022903442
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "NM4231",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.7145631313323975
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "LC1016",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.7434350848197937
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "LC2008A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.7159736752510071
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "LC1002A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6453838348388672
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "SW1101E",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7630620002746582
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "SW2101",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7741538286209106
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "SW3105",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7468253374099731
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "CE1101",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6825635433197021
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "CE1102",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6222046613693237
+    },
+    {
+      "job": "58734b08f5528226566282e0df22c9d7",
+      "course": "CE1109",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6537232398986816
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "ACC1701",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6835631132125854
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "ACC2712",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6623325943946838
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "ACC2707",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.605000376701355
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "CS2103",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6789199113845825
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "CS2104",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.649456262588501
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "CS2113",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.7157034873962402
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "NM3205",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6220483779907227
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "NM3230",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6588600873947144
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "NM4231",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.7184485197067261
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "LC1016",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.742840051651001
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "LC2008A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6927765607833862
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "LC1002A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6524852514266968
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "SW1101E",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7986018657684326
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "SW2101",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.807013750076294
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "SW3105",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.797269880771637
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "CE1101",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6628511548042297
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "CE1102",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6384156942367554
+    },
+    {
+      "job": "4500247a997bbad1ce5d62e24e134a6b",
+      "course": "CE1109",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6512566804885864
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "ACC1701",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6225631237030029
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "ACC2712",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6145583391189575
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "ACC2707",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.5911759734153748
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "CS2103",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.669777512550354
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "CS2104",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6333088874816895
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "CS2113",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6954478025436401
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "NM3205",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.607810378074646
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "NM3230",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6379401683807373
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "NM4231",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.719220757484436
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "LC1016",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6922855377197266
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "LC2008A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6518570184707642
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "LC1002A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6393061876296997
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "SW1101E",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7355895042419434
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "SW2101",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7902851104736328
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "SW3105",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7755032777786255
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "CE1101",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6411604285240173
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "CE1102",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.5883969068527222
+    },
+    {
+      "job": "c5f1294d1495f4d6b90d8ac8eff14dcc",
+      "course": "CE1109",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6414029598236084
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "ACC1701",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.658103346824646
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "ACC2712",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.6284199357032776
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "ACC2707",
+      "job_category": "social_work",
+      "course_category": "accountant",
+      "score": 0.5919406414031982
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "CS2103",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6721378564834595
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "CS2104",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.6597509384155273
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "CS2113",
+      "job_category": "social_work",
+      "course_category": "software_engineer",
+      "score": 0.7116115093231201
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "NM3205",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6223827600479126
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "NM3230",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.6577576398849487
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "NM4231",
+      "job_category": "social_work",
+      "course_category": "digital_media",
+      "score": 0.7174813747406006
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "LC1016",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.719946026802063
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "LC2008A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6829389333724976
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "LC1002A",
+      "job_category": "social_work",
+      "course_category": "legal",
+      "score": 0.6493859887123108
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "SW1101E",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7883596420288086
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "SW2101",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7846747040748596
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "SW3105",
+      "job_category": "social_work",
+      "course_category": "social_work",
+      "score": 0.7749204635620117
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "CE1101",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6634547114372253
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "CE1102",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.6198436617851257
+    },
+    {
+      "job": "a559c3f9801229daf407787676fa3eb0",
+      "course": "CE1109",
+      "job_category": "social_work",
+      "course_category": "civil_engineer",
+      "score": 0.654994010925293
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "ACC1701",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.657200813293457
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "ACC2712",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6400626301765442
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "ACC2707",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6231021285057068
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "CS2103",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7268061637878418
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "CS2104",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6702269315719604
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "CS2113",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7746180295944214
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "NM3205",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.601303219795227
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "NM3230",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6353937387466431
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "NM4231",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.7055447697639465
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "LC1016",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6849101781845093
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "LC2008A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6944655179977417
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "LC1002A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6261086463928223
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "SW1101E",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6797492504119873
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "SW2101",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6957297921180725
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "SW3105",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.7103427648544312
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "CE1101",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.7306351661682129
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "CE1102",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6953697204589844
+    },
+    {
+      "job": "5156285db7c7dff17ea9f872d8d291c2",
+      "course": "CE1109",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.7127618789672852
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "ACC1701",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.652738094329834
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "ACC2712",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6070772409439087
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "ACC2707",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6206160187721252
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "CS2103",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6987388730049133
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "CS2104",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6626003384590149
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "CS2113",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7335206270217896
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "NM3205",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.5905154943466187
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "NM3230",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6373398303985596
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "NM4231",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.7023731470108032
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "LC1016",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6592922210693359
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "LC2008A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6503681540489197
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "LC1002A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6154417991638184
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "SW1101E",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6532508134841919
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "SW2101",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6603716611862183
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "SW3105",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.695146918296814
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "CE1101",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.7202075719833374
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "CE1102",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6539061069488525
+    },
+    {
+      "job": "c165da3aad4f1bbffaa8a6c6b92a4f42",
+      "course": "CE1109",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.7187014222145081
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "ACC1701",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6903138160705566
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "ACC2712",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6572059392929077
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "ACC2707",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6677415370941162
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "CS2103",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.714725136756897
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "CS2104",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.650851309299469
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "CS2113",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7486498951911926
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "NM3205",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.5760494470596313
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "NM3230",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6319571733474731
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "NM4231",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6915981769561768
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "LC1016",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6878250241279602
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "LC2008A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6971713304519653
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "LC1002A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6091814041137695
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "SW1101E",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6569799184799194
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "SW2101",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.679157018661499
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "SW3105",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6794296503067017
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "CE1101",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6899679899215698
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "CE1102",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6482225656509399
+    },
+    {
+      "job": "fc28fa7ac90983234bf878a5f65f3cdf",
+      "course": "CE1109",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6727252006530762
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "ACC1701",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6561405658721924
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "ACC2712",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6037346124649048
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "ACC2707",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.633380651473999
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "CS2103",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6713693141937256
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "CS2104",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6302605271339417
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "CS2113",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7052221298217773
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "NM3205",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.5557360649108887
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "NM3230",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6122391819953918
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "NM4231",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6685575842857361
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "LC1016",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6659195423126221
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "LC2008A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6856951117515564
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "LC1002A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.610495388507843
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "SW1101E",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6667609214782715
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "SW2101",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6610944867134094
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "SW3105",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6808743476867676
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "CE1101",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6710067987442017
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "CE1102",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6294701099395752
+    },
+    {
+      "job": "c679511a0945165dad551c2b574fce5a",
+      "course": "CE1109",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.647619366645813
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "ACC1701",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6743813753128052
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "ACC2712",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6314619183540344
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "ACC2707",
+      "job_category": "civil_engineer",
+      "course_category": "accountant",
+      "score": 0.6475644111633301
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "CS2103",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6956368684768677
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "CS2104",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.6589853763580322
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "CS2113",
+      "job_category": "civil_engineer",
+      "course_category": "software_engineer",
+      "score": 0.7352707982063293
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "NM3205",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.5834125280380249
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "NM3230",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6322343349456787
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "NM4231",
+      "job_category": "civil_engineer",
+      "course_category": "digital_media",
+      "score": 0.6911628246307373
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "LC1016",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.67510986328125
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "LC2008A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6983404159545898
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "LC1002A",
+      "job_category": "civil_engineer",
+      "course_category": "legal",
+      "score": 0.6163742542266846
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "SW1101E",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6840532422065735
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "SW2101",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6800575852394104
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "SW3105",
+      "job_category": "civil_engineer",
+      "course_category": "social_work",
+      "score": 0.6963926553726196
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "CE1101",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6821242570877075
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "CE1102",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6343128681182861
+    },
+    {
+      "job": "975ef2a6b950042539d137d21f1e0267",
+      "course": "CE1109",
+      "job_category": "civil_engineer",
+      "course_category": "civil_engineer",
+      "score": 0.6564111709594727
+    }
+  ]
+}

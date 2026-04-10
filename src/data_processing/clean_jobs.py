@@ -8,6 +8,7 @@ Applies text cleaning to the extracted jobs CSV:
   - Non-Latin script removal (CJK, Arabic, Thai, etc.)
   - Emoji removal
   - Boilerplate phrase removal (TAFEP, equal opportunity, etc.)
+  - remove additional noise (emails, phone numbers, urls, recruiter admin lines)
   - Formula-injection character sanitisation
   - Constructs job_text (clean_title + cleaned description)
 """
@@ -149,6 +150,42 @@ def remove_boilerplate_sentences(text: str) -> str:
 
     return "\n".join(keep).strip()
 
+def remove_job_noise(text: str) -> str:
+    """
+    Removes high-confidence semantic noise from job descriptions.
+    This is intentionally conservative — we only remove clearly non-semantic content.
+    """
+
+    if not text:
+        return ""
+
+    # 1. Remove emails
+    text = re.sub(r"\b[\w\.-]+@[\w\.-]+\.\w+\b", " ", text)
+
+    # 2. Remove phone numbers (simple global pattern)
+    text = re.sub(r"\+?\d[\d\s\-]{7,}\d", " ", text)
+
+    # 3. Remove URLs
+    text = re.sub(r"http\S+|www\.\S+", " ", text)
+
+    # 4. Remove recruiter / admin lines (high precision keywords)
+    noise_phrases = [
+        "apply now",
+        "we regret",
+        "shortlisted candidates",
+        "ea licence",
+        "ea personnel",
+        "job application",
+        "submit your resume"
+    ]
+
+    for phrase in noise_phrases:
+        text = re.sub(re.escape(phrase), " ", text, flags=re.IGNORECASE)
+
+    # 5. Clean repeated whitespace
+    text = WHITESPACE_RE.sub(" ", text).strip()
+
+    return text
 
 def sanitise_formula_start(value: str) -> str:
     if not value:
@@ -183,6 +220,7 @@ def clean_title(title: str) -> str:
     text = remove_emojis(title)
     text = remove_non_latin_script(text)
     text = remove_boilerplate_sentences(text)
+    text = remove_job_noise(text)
     text = normalize_text(text)
     text = sanitise_formula_start(text)
     text = excel_safe_wrap(text)
@@ -217,6 +255,7 @@ def clean_description(raw_html: str) -> str:
     text = remove_emojis(text)
     text = remove_non_latin_script(text)
     text = remove_boilerplate_sentences(text)
+    text = remove_job_noise(text)
     text = sanitise_formula_start(text)
     text = excel_safe_wrap(text)
     return text
