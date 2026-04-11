@@ -30,6 +30,7 @@ ROOT = Path(__file__).parents[2]
 sys.path.insert(0, str(ROOT))
 
 from src.llm_provider import call_llm, available_providers
+from src.config import MODULES_CLEANED, MODULE_SKILL_PAIRS
 
 
 # ---------------------------------------------------------------------------
@@ -295,12 +296,12 @@ Merging after everyone finishes:
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
-        "--input", default="data/processed/cleaned_modules.csv",
-        help="Cleaned modules CSV.",
+        "--input", default=str(MODULES_CLEANED),
+        help="Cleaned modules CSV (default: DATA_ROOT/processed/courses/modules_cleaned.csv).",
     )
     parser.add_argument(
-        "--output", default="data/processed/module_skill_pairs.csv",
-        help="Output skill pairs CSV.",
+        "--output", default=str(MODULE_SKILL_PAIRS),
+        help="Output skill pairs CSV (default: DATA_ROOT/processed/courses/module_skill_pairs.csv).",
     )
     parser.add_argument(
         "--start-idx", type=int, default=0,
