@@ -205,6 +205,71 @@ def load_job_skills(path: Path) -> pd.DataFrame:
     return df
 
 
+def load_job_skills_from_list(path: Path) -> pd.DataFrame:
+    """
+    Load job skills from the ``skills_list`` column of 01b_jobs_cleaned.csv.
+
+    These are employer-provided skills — explicitly tagged in the job posting
+    rather than NLP-extracted.  The list is a comma-separated string per row.
+
+    Because this source has no skill_type / knowledge_type labelling, both
+    columns default to "unknown".  All downstream scripts treat "unknown"
+    the same as unlabelled and skip hard/soft filtering unless explicitly
+    overridden.
+
+    Returns a DataFrame in the same structure as ``load_job_skills()`` so
+    that all downstream scripts are source-agnostic.
+    """
+    df = pd.read_csv(path)
+    required = {"job_id", "skills_list", "category"}
+    missing = required - set(df.columns)
+    if missing:
+        raise ValueError(
+            f"Job skills file is missing columns: {sorted(missing)}.\n"
+            f"Found: {list(df.columns)}"
+        )
+
+    df = df[["job_id", "skills_list", "category"]].dropna(subset=["skills_list", "category"])
+
+    # Parse comma-separated skill strings into individual skills
+    df["skill"] = df["skills_list"].str.split(",")
+    df = df.explode("skill")
+    df["skill"] = df["skill"].str.strip()
+    df = df[df["skill"].astype(bool)]  # drop empty strings
+
+    # Add placeholder label columns so downstream scripts work unchanged
+    df["skill_type"]     = "unknown"
+    df["knowledge_type"] = "unknown"
+
+    df["skill_canon"] = df["skill"].map(canonicalize)
+    df = df[df["skill_canon"].astype(bool) & df["category"].notna()].copy()
+    return df[["job_id", "skill", "skill_canon", "category",
+               "skill_type", "knowledge_type"]].reset_index(drop=True)
+
+
+def load_job_skills_auto(
+    path: Path,
+    source: str,
+) -> pd.DataFrame:
+    """
+    Dispatch to the correct loader based on ``source``.
+
+    Parameters
+    ----------
+    path   : Path to the job skills file.
+    source : ``"skillner"``    → job_skill_pair_skillner.csv (one skill per row)
+             ``"skills_list"`` → 01b_jobs_cleaned.csv (comma-separated per row)
+
+    This function is the single entry point used by all downstream scripts
+    so that switching data sources requires only a ``--job-source`` flag.
+    """
+    if source == "skillner":
+        return load_job_skills(path)
+    if source == "skills_list":
+        return load_job_skills_from_list(path)
+    raise ValueError(f"Unknown job source: {source!r}. Use 'skillner' or 'skills_list'.")
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Core metric computation
 # ─────────────────────────────────────────────────────────────────────────────
@@ -516,24 +581,39 @@ def parse_args() -> argparse.Namespace:
         description="Compute baseline SCR (exact string match) for all job categories.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
-    p.add_argument("--job-skills",    type=Path, default=DEFAULT_JOB_SKILLS,
-                   help="Path to job_skill_pair_skillner.csv")
+    p.add_argument("--job-skills",    type=Path, default=None,
+                   help="Path to job skills file (auto-selected from --job-source if omitted)")
+    p.add_argument("--job-source",    type=str,  default="skills_list",
+                   choices=["skillner", "skills_list"],
+                   help="Job skill source: 'skillner' (NLP-extracted) or "
+                        "'skills_list' (employer-provided)")
     p.add_argument("--course-skills", type=Path, default=DEFAULT_COURSE_SKILLS,
                    help="Path to module_skill_pairs.csv")
-    p.add_argument("--output",        type=Path, default=DEFAULT_OUTPUT_DIR,
-                   help="Directory to write outputs into")
+    p.add_argument("--output",        type=Path, default=None,
+                   help="Output directory (auto-named from --job-source if omitted)")
     return p.parse_args()
 
 
 def main() -> None:
     args = parse_args()
-    out  = args.output
+
+    # Auto-select default paths based on source
+    if args.job_skills is None:
+        args.job_skills = (
+            JOBS_PROCESSED_DIR / "job_skill_pair_skillner.csv"
+            if args.job_source == "skillner"
+            else JOBS_PROCESSED_DIR / "01b_jobs_cleaned.csv"
+        )
+    if args.output is None:
+        args.output = RESULTS_DIR / f"baseline_scr_{args.job_source}"
+
+    out = args.output
     out.mkdir(parents=True, exist_ok=True)
 
     # ── Load ──────────────────────────────────────────────────────────────────
-    print("Loading data …")
+    print(f"Loading data  [job-source: {args.job_source}] …")
     courses = load_course_skills(args.course_skills)
-    jobs    = load_job_skills(args.job_skills)
+    jobs    = load_job_skills_auto(args.job_skills, args.job_source)
 
     course_skill_set = set(courses["skill_canon"].unique())
 
