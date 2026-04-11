@@ -85,7 +85,7 @@ except ModuleNotFoundError:
         sys.path.insert(0, str(REPO_ROOT))
     from src.config import COURSES_PROCESSED_DIR, JOBS_PROCESSED_DIR, RESULTS_DIR
 
-from src.analysis.skill_metrics.baseline_scr import load_course_skills, load_job_skills
+from src.analysis.skill_metrics.baseline_scr import load_course_skills, load_job_skills_auto
 
 # ── Defaults ──────────────────────────────────────────────────────────────────
 DEFAULT_JOB_SKILLS    = JOBS_PROCESSED_DIR    / "job_skill_pair_skillner.csv"
@@ -366,9 +366,11 @@ def parse_args() -> argparse.Namespace:
         description="Permutation null model for SCR coverage pattern.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
-    p.add_argument("--job-skills",    type=Path, default=DEFAULT_JOB_SKILLS)
+    p.add_argument("--job-skills",    type=Path, default=None)
+    p.add_argument("--job-source",    type=str,  default="skills_list",
+                   choices=["skillner", "skills_list"])
     p.add_argument("--course-skills", type=Path, default=DEFAULT_COURSE_SKILLS)
-    p.add_argument("--output",        type=Path, default=DEFAULT_OUTPUT_DIR)
+    p.add_argument("--output",        type=Path, default=None)
     p.add_argument("--iterations",    type=int,  default=DEFAULT_ITERATIONS)
     p.add_argument("--seed",          type=int,  default=DEFAULT_SEED)
     return p.parse_args()
@@ -376,15 +378,23 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
+    if args.job_skills is None:
+        args.job_skills = (
+            JOBS_PROCESSED_DIR / "job_skill_pair_skillner.csv"
+            if args.job_source == "skillner"
+            else JOBS_PROCESSED_DIR / "01b_jobs_cleaned.csv"
+        )
+    if args.output is None:
+        args.output = RESULTS_DIR / f"null_model_{args.job_source}"
     out  = args.output
     out.mkdir(parents=True, exist_ok=True)
 
     rng = np.random.default_rng(args.seed)
 
     # ── Load ──────────────────────────────────────────────────────────────────
-    print("Loading data …")
+    print(f"Loading data  [job-source: {args.job_source}] …")
     courses = load_course_skills(args.course_skills)
-    jobs    = load_job_skills(args.job_skills)
+    jobs    = load_job_skills_auto(args.job_skills, args.job_source)
 
     course_skill_set = set(courses["skill_canon"].unique())
 
