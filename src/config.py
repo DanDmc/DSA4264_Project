@@ -92,6 +92,9 @@ COURSES_RAW_DIR = RAW_DIR / "courses"                   # NUSMods API output lan
 # NUSMods API
 NUSMODS_API_URL = "https://api.nusmods.com/v2/2025-2026/moduleInfo.json"
 
+# Degree mapping (raw Excel input — university-agnostic)
+DEGREE_MAPPING_RAW = RAW_DIR / "Degree_Mapping_Final.xlsx"
+
 # ──────────────────────────────────────────────
 # Processed data paths — courses pipeline
 # ──────────────────────────────────────────────
@@ -100,6 +103,9 @@ COURSES_PROCESSED_DIR = DATA_ROOT / "processed" / "courses"
 MODULES_RAW = COURSES_RAW_DIR / "modules_raw.csv"
 MODULES_CLEANED = COURSES_PROCESSED_DIR / "modules_cleaned.csv"
 MODULE_SKILL_PAIRS = COURSES_PROCESSED_DIR / "module_skill_pairs.csv"
+
+# Exploded degree → module lookup table
+DEGREE_MODULE_MAPPING = COURSES_PROCESSED_DIR / "degree_module_mapping.csv"
 
 # ──────────────────────────────────────────────
 # Embedding paths
