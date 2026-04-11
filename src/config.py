@@ -107,6 +107,11 @@ MODULE_SKILL_PAIRS = COURSES_PROCESSED_DIR / "module_skill_pairs.csv"
 EMBEDDINGS_DIR = DATA_ROOT / "embeddings"
 
 # ──────────────────────────────────────────────
+# Results paths — stored on OneDrive, never committed to git
+# ──────────────────────────────────────────────
+RESULTS_DIR = DATA_ROOT / "results"
+
+# ──────────────────────────────────────────────
 # Embedding parameters
 # ──────────────────────────────────────────────
 EMBEDDING_MODEL = "BAAI/bge-large-en-v1.5"

@@ -11,5 +11,8 @@ __pycache__/
 #.env for data storage file path
 .env
 
+# Results — contain analysed data, stored on OneDrive not in git
+results/
+
 #large similarity analysis output
 outputs/similarity_analysis_outputs/similarity_matrix.npy
