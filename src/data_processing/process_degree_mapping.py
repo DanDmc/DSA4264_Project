@@ -5,6 +5,10 @@ Reads the degree mapping Excel file (one row per major, comma-separated
 module codes) and produces a normalised CSV with one row per
 (university, faculty, major, module_code, module_type) combination.
 
+Enriches each row with the module's home department and faculty from
+modules_cleaned.csv, so downstream analysis can slice by either the
+degree's faculty or the module's home department without extra joins.
+
 Usage:
     python -m src.data_processing.process_degree_mapping
 
@@ -52,7 +56,7 @@ def explode_modules(df):
                 if code:
                     records.append({
                         "university": uni,
-                        "faculty": fac,
+                        "degree_faculty": fac,
                         "major": major,
                         "module_code": code,
                         "module_type": module_type,
@@ -64,31 +68,44 @@ def explode_modules(df):
     return result
 
 
-def validate_against_modules(mapping_df, modules_path):
-    """Check how many mapped module codes exist in modules_cleaned.csv."""
+def enrich_with_module_metadata(mapping_df, modules_path):
+    """Left-join module home department and faculty from modules_cleaned.csv."""
     try:
         modules = pd.read_csv(modules_path)
     except FileNotFoundError:
-        print(f"  WARNING: {modules_path} not found — skipping validation.")
-        return
+        print(f"  WARNING: {modules_path} not found — skipping enrichment.")
+        return mapping_df
 
-    module_codes_in_catalogue = set(modules["module code"].str.strip())
-    mapped_codes = set(mapping_df["module_code"])
+    # Keep only the columns we need for the join
+    module_meta = (
+        modules[["module code", "department", "faculty"]]
+        .rename(columns={
+            "module code": "module_code",
+            "department": "module_department",
+            "faculty": "module_faculty",
+        })
+        .drop_duplicates(subset=["module_code"])
+    )
 
-    matched = mapped_codes & module_codes_in_catalogue
-    unmatched = mapped_codes - module_codes_in_catalogue
+    enriched = mapping_df.merge(module_meta, on="module_code", how="left")
 
-    print(f"\n  Validation against modules_cleaned.csv:")
-    print(f"    Module codes in degree mapping:  {len(mapped_codes)}")
-    print(f"    Matched in modules catalogue:    {len(matched)}")
-    print(f"    Not found in catalogue:          {len(unmatched)}")
+    matched = enriched["module_department"].notna().sum()
+    unmatched = enriched["module_department"].isna().sum()
+    print(f"\n  Enrichment from modules_cleaned.csv:")
+    print(f"    Rows with module metadata:    {matched}")
+    print(f"    Rows without (not in catalogue): {unmatched}")
 
-    if unmatched:
-        # Show a sample — these could be grad modules filtered out, typos, etc.
-        sample = sorted(unmatched)[:20]
-        print(f"    Sample unmatched: {sample}")
-        if len(unmatched) > 20:
-            print(f"    ... and {len(unmatched) - 20} more")
+    if unmatched > 0:
+        missing_codes = (
+            enriched.loc[enriched["module_department"].isna(), "module_code"]
+            .unique()
+        )
+        sample = sorted(missing_codes)[:20]
+        print(f"    Sample unmatched codes: {sample}")
+        if len(missing_codes) > 20:
+            print(f"    ... and {len(missing_codes) - 20} more")
+
+    return enriched
 
 
 def main():
@@ -107,10 +124,13 @@ def main():
     print(f"  Unique majors:       {mapping['major'].nunique()}")
     print(f"  Universities:        {mapping['university'].unique().tolist()}")
 
+    # Enrich with module home department/faculty
+    mapping = enrich_with_module_metadata(mapping, MODULES_CLEANED)
+
     # Summary by major
     summary = (
         mapping
-        .groupby(["university", "faculty", "major", "module_type"])
+        .groupby(["university", "degree_faculty", "major", "module_type"])
         .size()
         .unstack(fill_value=0)
     )
@@ -120,13 +140,11 @@ def main():
         elec_n = counts.get("elective", 0)
         print(f"    {major:<45s}  core={core_n:<4d}  elective={elec_n}")
 
-    # Validate against module catalogue
-    validate_against_modules(mapping, MODULES_CLEANED)
-
     # Save
     DEGREE_MODULE_MAPPING.parent.mkdir(parents=True, exist_ok=True)
     mapping.to_csv(DEGREE_MODULE_MAPPING, index=False)
     print(f"\n  Saved to: {DEGREE_MODULE_MAPPING}")
+    print(f"  Columns: {list(mapping.columns)}")
 
 
 if __name__ == "__main__":

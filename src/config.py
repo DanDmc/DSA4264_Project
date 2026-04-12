@@ -117,12 +117,20 @@ EMBEDDINGS_DIR = DATA_ROOT / "embeddings"
 # ──────────────────────────────────────────────
 RESULTS_DIR = DATA_ROOT / "results"
 
+# Deep similarity analysis — large CSVs on OneDrive
+SIMILARITY_RESULTS_DIR = RESULTS_DIR / "similarity_analysis_results"
+ 
 # ──────────────────────────────────────────────
 # Embedding parameters
 # ──────────────────────────────────────────────
 EMBEDDING_MODEL = "BAAI/bge-large-en-v1.5"
 EMBEDDING_DIM = 1024
 EMBEDDING_BATCH_SIZE = 64  # reduce to 32 or 16 if you hit GPU OOM
+
+# Analysis parameters
+# Deep similarity analysis defaults
+ANALYSIS_TOP_K = 10                     # top-K matches per module / degree
+ANALYSIS_BREADTH_SSOC_LEVEL = "ssoc_minor_title"
 
 # BGE instruction prefixes (asymmetric retrieval — course is the query, job is the document)
 MODULE_PREFIX = "Represent this university course for matching to relevant job positions: "
