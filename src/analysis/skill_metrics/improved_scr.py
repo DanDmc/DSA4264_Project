@@ -74,7 +74,8 @@ results/improved_scr/
 Usage
 -----
     python -m src.analysis.skill_metrics.improved_scr
-    python -m src.analysis.skill_metrics.improved_scr --threshold 0.75
+    python -m src.analysis.skill_metrics.improved_scr --threshold 0.70  # exploratory
+    python -m src.analysis.skill_metrics.improved_scr --threshold 0.85  # primary (default)
 """
 
 from __future__ import annotations
@@ -106,7 +107,7 @@ DEFAULT_JOB_SKILLS    = JOBS_PROCESSED_DIR    / "job_skill_pair_skillner.csv"
 DEFAULT_COURSE_SKILLS = COURSES_PROCESSED_DIR / "module_skill_pairs.csv"
 DEFAULT_NN_PATH       = RESULTS_DIR / "vocabulary_mismatch" / "all_uncovered_nearest_neighbour.csv"
 DEFAULT_OUTPUT_DIR    = RESULTS_DIR / "improved_scr"
-DEFAULT_THRESHOLD     = 0.70
+DEFAULT_THRESHOLD     = 0.72
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -458,7 +459,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--output",        type=Path,  default=None,
                    help="Output directory (default: results/improved_scr_{source}/)")
     p.add_argument("--threshold",     type=float, default=DEFAULT_THRESHOLD,
-                   help="Cosine similarity threshold for near-match (default: 0.70)")
+                   help="Cosine similarity threshold for near-match (default: 0.72)")
     return p.parse_args()
 
 
@@ -470,7 +471,7 @@ def main() -> None:
         args.job_skills = (
             JOBS_PROCESSED_DIR / "job_skill_pair_skillner.csv"
             if args.job_source == "skillner"
-            else JOBS_PROCESSED_DIR / "01b_jobs_cleaned.csv"
+            else JOBS_PROCESSED_DIR / "03_jobs_filtered.csv"
         )
     if args.nn_path is None:
         args.nn_path = (
@@ -478,7 +479,8 @@ def main() -> None:
             / "all_uncovered_nearest_neighbour.csv"
         )
     if args.output is None:
-        args.output = RESULTS_DIR / f"improved_scr_{args.job_source}"
+        t_tag = f"{args.threshold:.2f}".replace(".", "")
+        args.output = RESULTS_DIR / f"improved_scr_{args.job_source}_t{t_tag}"
 
     out = args.output
     out.mkdir(parents=True, exist_ok=True)

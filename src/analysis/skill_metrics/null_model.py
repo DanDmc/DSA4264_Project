@@ -382,7 +382,7 @@ def main() -> None:
         args.job_skills = (
             JOBS_PROCESSED_DIR / "job_skill_pair_skillner.csv"
             if args.job_source == "skillner"
-            else JOBS_PROCESSED_DIR / "01b_jobs_cleaned.csv"
+            else JOBS_PROCESSED_DIR / "03_jobs_filtered.csv"
         )
     if args.output is None:
         args.output = RESULTS_DIR / f"null_model_{args.job_source}"

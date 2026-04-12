@@ -34,7 +34,7 @@ def parse_args() -> argparse.Namespace:
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     p.add_argument("--job-source", type=str, default="skills_list", choices=["skillner", "skills_list"])
-    p.add_argument("--threshold", type=float, default=0.85)
+    p.add_argument("--threshold", type=float, default=0.72)
     p.add_argument("--job-skills", type=Path, default=None)
     p.add_argument("--course-skills", type=Path, default=COURSES_PROCESSED_DIR / "module_skill_pairs.csv")
     p.add_argument("--nn-path", type=Path, default=None)
@@ -53,13 +53,12 @@ def resolve_paths(args: argparse.Namespace) -> None:
         args.job_skills = (
             JOBS_PROCESSED_DIR / "job_skill_pair_skillner.csv"
             if args.job_source == "skillner"
-            else JOBS_PROCESSED_DIR / "01b_jobs_cleaned.csv"
+            else JOBS_PROCESSED_DIR / "03_jobs_filtered.csv"
         )
     if args.nn_path is None:
         args.nn_path = RESULTS_DIR / f"vocabulary_mismatch_{args.job_source}" / "all_uncovered_nearest_neighbour.csv"
     if args.improved_per_category is None:
-        suffix = f"_t{_threshold_tag(args.threshold)}" if args.threshold != 0.70 else ""
-        args.improved_per_category = RESULTS_DIR / f"improved_scr_{args.job_source}{suffix}" / "per_category_comparison.csv"
+        args.improved_per_category = RESULTS_DIR / f"improved_scr_{args.job_source}_t{_threshold_tag(args.threshold)}" / "per_category_comparison.csv"
     if args.bootstrap_ci is None:
         args.bootstrap_ci = RESULTS_DIR / f"robustness_{args.job_source}" / "bootstrap_ci_by_category.csv"
     if args.output is None:

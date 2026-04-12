@@ -43,7 +43,7 @@ def _resolve_paths(args: argparse.Namespace) -> None:
         args.job_skills = (
             JOBS_PROCESSED_DIR / "job_skill_pair_skillner.csv"
             if args.job_source == "skillner"
-            else JOBS_PROCESSED_DIR / "01b_jobs_cleaned.csv"
+            else JOBS_PROCESSED_DIR / "03_jobs_filtered.csv"
         )
     if args.nn_path is None:
         args.nn_path = (
@@ -286,8 +286,8 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--threshold-start", type=float, default=0.50)
     p.add_argument("--threshold-end", type=float, default=0.95)
     p.add_argument("--threshold-step", type=float, default=0.05)
-    p.add_argument("--depth-threshold", type=float, default=0.85)
-    p.add_argument("--bootstrap-threshold", type=float, default=0.85)
+    p.add_argument("--depth-threshold", type=float, default=0.72)
+    p.add_argument("--bootstrap-threshold", type=float, default=0.72)
     p.add_argument("--bootstrap-iterations", type=int, default=1000)
     p.add_argument("--seed", type=int, default=42)
     return p.parse_args()
