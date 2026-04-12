@@ -1,0 +1,57 @@
+{
+  "run_timestamp": "2026-04-12T23:50:30.439207",
+  "parameters": {
+    "top_k": 10,
+    "degree_agg_top_n": 10,
+    "coverage_threshold": 0.4962485693395138,
+    "breadth_ssoc_level": "ssoc_minor_title",
+    "embedding_model": "BAAI/bge-large-en-v1.5"
+  },
+  "data_shape": {
+    "n_modules": 8615,
+    "n_jobs": 13663,
+    "n_degrees": 55
+  },
+  "distribution_stats": {
+    "matrix_shape": [
+      8615,
+      13663
+    ],
+    "n_values": 117706745,
+    "global_mean": 0.44462350010871887,
+    "global_std": 0.05162506923079491,
+    "global_min": 0.175048828125,
+    "global_max": 0.8154296875,
+    "percentiles": {
+      "25": 0.40966796875,
+      "50": 0.44287109375,
+      "75": 0.4775390625,
+      "90": 0.51123046875,
+      "95": 0.5322265625,
+      "99": 0.5751953125
+    },
+    "coverage_threshold": 0.4962485693395138,
+    "threshold_method": "mean + 1 SD"
+  },
+  "threshold_stability": {
+    "thresholds": {
+      "mean+0.5sd": 0.4704,
+      "mean+1.0sd": 0.4962,
+      "mean+1.5sd": 0.5221
+    },
+    "rank_correlations": {
+      "mean+0.5sd vs mean+1.0sd": {
+        "spearman_rho": 0.9842,
+        "p_value": 0.0
+      },
+      "mean+0.5sd vs mean+1.5sd": {
+        "spearman_rho": 0.9346,
+        "p_value": 0.0
+      },
+      "mean+1.0sd vs mean+1.5sd": {
+        "spearman_rho": 0.972,
+        "p_value": 0.0
+      }
+    }
+  }
+}

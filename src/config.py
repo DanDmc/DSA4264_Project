@@ -95,6 +95,9 @@ NUSMODS_API_URL = "https://api.nusmods.com/v2/2025-2026/moduleInfo.json"
 # Degree mapping (raw Excel input — university-agnostic)
 DEGREE_MAPPING_RAW = RAW_DIR / "Degree_Mapping_Final.xlsx"
 
+# Major → SSOC minor mapping (manually curated, supplementary)
+MAJOR_SSOC_MAPPING = RAW_DIR / "major_ssoc_mapping.csv"
+
 # ──────────────────────────────────────────────
 # Processed data paths — courses pipeline
 # ──────────────────────────────────────────────
@@ -117,20 +120,15 @@ EMBEDDINGS_DIR = DATA_ROOT / "embeddings"
 # ──────────────────────────────────────────────
 RESULTS_DIR = DATA_ROOT / "results"
 
-# Deep similarity analysis — large CSVs on OneDrive
+# Similarity analysis — large CSVs on OneDrive
 SIMILARITY_RESULTS_DIR = RESULTS_DIR / "similarity_analysis_results"
- 
+
 # ──────────────────────────────────────────────
 # Embedding parameters
 # ──────────────────────────────────────────────
 EMBEDDING_MODEL = "BAAI/bge-large-en-v1.5"
 EMBEDDING_DIM = 1024
 EMBEDDING_BATCH_SIZE = 64  # reduce to 32 or 16 if you hit GPU OOM
-
-# Analysis parameters
-# Deep similarity analysis defaults
-ANALYSIS_TOP_K = 10                     # top-K matches per module / degree
-ANALYSIS_BREADTH_SSOC_LEVEL = "ssoc_minor_title"
 
 # BGE instruction prefixes (asymmetric retrieval — course is the query, job is the document)
 MODULE_PREFIX = "Represent this university course for matching to relevant job positions: "
@@ -149,3 +147,11 @@ JOB_INDEX_COLS = [
     "ssoc_code", "ssoc_major_title", "ssoc_submajor_title",
     "ssoc_minor_title", "ssoc_unit_title",
 ]
+
+# ──────────────────────────────────────────────
+# Analysis parameters
+# ──────────────────────────────────────────────
+ANALYSIS_TOP_K = 10                             # top-K job matches per module / degree
+ANALYSIS_BREADTH_SSOC_LEVEL = "ssoc_minor_title"  # SSOC level for breadth counting
+ANALYSIS_DEGREE_AGG_TOP_N = 10                  # top-N modules averaged per job for degree aggregation
+ANALYSIS_COVERAGE_THRESHOLD = None              # None = auto-compute as mean + 1 SD
