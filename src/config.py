@@ -59,6 +59,8 @@ JOBS_PARSED = JOBS_CLEANED
 # Pipeline parameters — jobs
 # ──────────────────────────────────────────────
 MAX_YEARS_EXPERIENCE = 2  # default filter for fresh grad roles
+MIN_SALARY_AVG = 3500    # lowest 25th percentile gross monthly salary across NUS degrees (GES 2025);
+                         # also median gross monthly salary for private university graduates
 
 # ──────────────────────────────────────────────
 # Pipeline parameters — courses
