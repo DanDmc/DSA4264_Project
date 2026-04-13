@@ -1,55 +1,56 @@
 {
-  "run_timestamp": "2026-04-12T23:50:30.439207",
+  "run_timestamp": "2026-04-13T19:30:23.277624",
   "parameters": {
     "top_k": 10,
     "degree_agg_top_n": 10,
-    "coverage_threshold": 0.4962485693395138,
+    "coverage_threshold": 0.5016367547214031,
     "breadth_ssoc_level": "ssoc_minor_title",
     "embedding_model": "BAAI/bge-large-en-v1.5"
   },
   "data_shape": {
     "n_modules": 8615,
-    "n_jobs": 13663,
+    "n_modules_unique": 6099,
+    "n_jobs": 7101,
     "n_degrees": 55
   },
   "distribution_stats": {
     "matrix_shape": [
       8615,
-      13663
+      7101
     ],
-    "n_values": 117706745,
-    "global_mean": 0.44462350010871887,
-    "global_std": 0.05162506923079491,
-    "global_min": 0.175048828125,
+    "n_values": 61175115,
+    "global_mean": 0.4493950605392456,
+    "global_std": 0.052241694182157516,
+    "global_min": 0.1953125,
     "global_max": 0.8154296875,
     "percentiles": {
-      "25": 0.40966796875,
-      "50": 0.44287109375,
-      "75": 0.4775390625,
-      "90": 0.51123046875,
-      "95": 0.5322265625,
-      "99": 0.5751953125
+      "25": 0.4140625,
+      "50": 0.447265625,
+      "75": 0.482421875,
+      "90": 0.5166015625,
+      "95": 0.53857421875,
+      "99": 0.58251953125
     },
-    "coverage_threshold": 0.4962485693395138,
+    "coverage_threshold": 0.5016367547214031,
     "threshold_method": "mean + 1 SD"
   },
   "threshold_stability": {
     "thresholds": {
-      "mean+0.5sd": 0.4704,
-      "mean+1.0sd": 0.4962,
-      "mean+1.5sd": 0.5221
+      "mean+0.5sd": 0.4755,
+      "mean+1.0sd": 0.5016,
+      "mean+1.5sd": 0.5278
     },
     "rank_correlations": {
       "mean+0.5sd vs mean+1.0sd": {
-        "spearman_rho": 0.9842,
+        "spearman_rho": 0.9664,
         "p_value": 0.0
       },
       "mean+0.5sd vs mean+1.5sd": {
-        "spearman_rho": 0.9346,
+        "spearman_rho": 0.9094,
         "p_value": 0.0
       },
       "mean+1.0sd vs mean+1.5sd": {
-        "spearman_rho": 0.972,
+        "spearman_rho": 0.974,
         "p_value": 0.0
       }
     }

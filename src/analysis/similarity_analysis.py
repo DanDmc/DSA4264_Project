@@ -38,6 +38,7 @@ from config import (
     ANALYSIS_DEGREE_AGG_TOP_N,
     ANALYSIS_COVERAGE_THRESHOLD,
     MAJOR_SSOC_MAPPING,
+    JOBS_FILTERED,
 )
 
 # ──────────────────────────────────────────────
@@ -69,17 +70,71 @@ def _add_rank(df, col, rank_col, ascending=False):
     return df[cols]
 
 
+def _dedup_module_summary(mod_summary):
+    """
+    Deduplicate module_summary by module_title.
+
+    NUSMods has section variants like FIN3102, FIN3102A-D which are
+    tutorial/exam sections of the same course with identical descriptions
+    and therefore identical embeddings. Without dedup, the top-10 list
+    is dominated by 10 copies of the same course.
+
+    For each group of modules sharing a title, we keep one representative
+    (alphabetically first code), record the number of variants, and
+    recompute ranks on the deduplicated set.
+
+    This is a reporting-level fix only — the full module_summary.csv
+    is still saved with all variants for traceability.
+    """
+    # Group by title, keep first code alphabetically as representative
+    deduped = (
+        mod_summary
+        .sort_values("module_code")
+        .groupby("module_title", sort=False)
+        .agg(
+            module_code=("module_code", "first"),
+            module_faculty=("module_faculty", "first"),
+            module_department=("module_department", "first"),
+            top_k_mean_sim=("top_k_mean_sim", "first"),  # identical across variants
+            top_k_max_sim=("top_k_max_sim", "first"),
+            top_k_min_sim=("top_k_min_sim", "first"),
+            breadth_n_ssoc_groups=("breadth_n_ssoc_groups", "first"),
+            coverage_n_jobs=("coverage_n_jobs", "first"),
+            coverage_pct=("coverage_pct", "first"),
+            n_variants=("module_code", "count"),
+            variant_codes=("module_code", lambda x: "; ".join(sorted(x))),
+        )
+        .reset_index()
+        .sort_values("top_k_mean_sim", ascending=False)
+    )
+
+    # Recompute ranks on the deduped set
+    deduped = _add_rank(deduped, "top_k_mean_sim", "rank_top_k_sim")
+    deduped = _add_rank(deduped, "breadth_n_ssoc_groups", "rank_breadth")
+    deduped = _add_rank(deduped, "coverage_pct", "rank_coverage")
+
+    return deduped
+
+
 # ══════════════════════════════════════════════
 # STAGE 1: LOAD DATA
 # ══════════════════════════════════════════════
 
 def load_data():
-    """Load similarity matrix (or recompute), index CSVs, degree mapping, and major-SSOC mapping."""
+    """
+    Load similarity matrix (or recompute), index CSVs, degree mapping,
+    and major-SSOC mapping.
+
+    After loading, filters the job axis to only include jobs present in
+    JOBS_FILTERED (03_jobs_filtered.csv). This means embeddings computed
+    on a larger set (e.g. experience-only filter) are automatically
+    narrowed to the current filtered population without re-embedding.
+    """
     print("=" * 70)
     print("STAGE 1: Loading data")
     print("=" * 70)
 
-    # Check for precomputed similarity matrix (OneDrive)
+    # ── Load similarity matrix ──
     sim_matrix_path = NPY_OUT / "similarity_matrix.npy"
     if sim_matrix_path.exists():
         print(f"  Loading precomputed similarity matrix from {sim_matrix_path}")
@@ -97,11 +152,30 @@ def load_data():
             sim_matrix = (mod_emb @ job_emb.T).astype(np.float32)
             print(f"  Computed: {sim_matrix.shape}")
 
+    # ── Load index CSVs ──
     mod_idx = pd.read_csv(EMB_DIR / "module_index.csv")
     job_idx = pd.read_csv(EMB_DIR / "job_index.csv")
-    print(f"  Modules: {len(mod_idx)}, Jobs: {len(job_idx)}, Matrix: {sim_matrix.shape}")
+    print(f"  Modules: {len(mod_idx)}, Jobs (embedded): {len(job_idx)}, "
+          f"Matrix: {sim_matrix.shape}")
 
-    # Degree mapping (optional)
+    # ── Filter jobs to current JOBS_FILTERED population ──
+    # Embeddings may have been computed on a larger set (e.g. before salary filter).
+    # We narrow to only the jobs that pass all current filters.
+    if JOBS_FILTERED.exists():
+        filtered_jobs = pd.read_csv(JOBS_FILTERED, usecols=["job_id"])
+        valid_ids = set(filtered_jobs["job_id"].values)
+        mask = job_idx["job_id"].isin(valid_ids).values
+
+        n_before = len(job_idx)
+        job_idx = job_idx[mask].reset_index(drop=True)
+        sim_matrix = sim_matrix[:, mask]
+        n_after = len(job_idx)
+
+        print(f"  Applied salary + experience filter: {n_before:,} → {n_after:,} jobs")
+    else:
+        print(f"  WARNING: {JOBS_FILTERED} not found — using all embedded jobs")
+
+    # ── Degree mapping (optional) ──
     deg_map = None
     if DEGREE_MODULE_MAPPING.exists():
         deg_map = pd.read_csv(DEGREE_MODULE_MAPPING)
@@ -110,7 +184,7 @@ def load_data():
         print(f"  WARNING: Degree mapping not found at {DEGREE_MODULE_MAPPING}")
         print("           Degree-level analysis will be skipped.")
 
-    # Major-SSOC mapping (optional)
+    # ── Major-SSOC mapping (optional) ──
     major_ssoc = None
     if MAJOR_SSOC_MAPPING.exists():
         major_ssoc = pd.read_csv(MAJOR_SSOC_MAPPING)
@@ -175,7 +249,7 @@ def module_top_k(sim_matrix, mod_idx, job_idx, k):
     """
     For each module, find its top-K most similar jobs.
     Returns:
-        top_k_df: long-form DataFrame (module × rank)
+        top_k_df: long-form DataFrame (module x rank)
         mod_summary: one row per module with top-K mean, max
     """
     print("\n" + "=" * 70)
@@ -343,7 +417,7 @@ def ssoc_group_alignment(sim_matrix, mod_idx, job_idx,
 
 def _compute_degree_job_scores(sub_sim, top_n):
     """
-    For a degree's sub-matrix (n_deg_modules × n_jobs), compute
+    For a degree's sub-matrix (n_deg_modules x n_jobs), compute
     a per-job alignment score as mean of top-N most similar modules.
     """
     n_mods = sub_sim.shape[0]
@@ -560,14 +634,17 @@ def targeted_ssoc_alignment(sim_matrix, mod_idx, job_idx, deg_map,
 # ══════════════════════════════════════════════
 
 def build_summaries(mod_summary, degree_summary):
-    """Build aggregated summaries at faculty, department, and degree-faculty levels."""
+    """
+    Build aggregated summaries at faculty, department, and degree-faculty levels.
+    Adds rank columns so these are directly comparable across groups.
+    """
     print("\n" + "=" * 70)
     print("STAGE 8: Faculty / Department / Degree-faculty summaries")
     print("=" * 70)
 
     results = {}
 
-    # Module-home faculty summary
+    # ── Module-home faculty summary ──
     faculty_summary = (
         mod_summary
         .groupby("module_faculty")
@@ -581,10 +658,13 @@ def build_summaries(mod_summary, degree_summary):
         .reset_index()
         .sort_values("mean_top_k_sim", ascending=False)
     )
+    faculty_summary = _add_rank(faculty_summary, "mean_top_k_sim", "rank_top_k_sim")
+    faculty_summary = _add_rank(faculty_summary, "mean_breadth", "rank_breadth")
+    faculty_summary = _add_rank(faculty_summary, "mean_coverage_pct", "rank_coverage")
     results["faculty_summary"] = faculty_summary
     print(f"  → Faculty summary: {len(faculty_summary)} groups")
 
-    # Department summary
+    # ── Department summary ──
     dept_summary = (
         mod_summary
         .groupby("module_department")
@@ -598,10 +678,13 @@ def build_summaries(mod_summary, degree_summary):
         .reset_index()
         .sort_values("mean_top_k_sim", ascending=False)
     )
+    dept_summary = _add_rank(dept_summary, "mean_top_k_sim", "rank_top_k_sim")
+    dept_summary = _add_rank(dept_summary, "mean_breadth", "rank_breadth")
+    dept_summary = _add_rank(dept_summary, "mean_coverage_pct", "rank_coverage")
     results["department_summary"] = dept_summary
     print(f"  → Department summary: {len(dept_summary)} groups")
 
-    # Degree-faculty summary
+    # ── Degree-faculty summary ──
     if degree_summary is not None:
         deg_fac_summary = (
             degree_summary
@@ -616,6 +699,9 @@ def build_summaries(mod_summary, degree_summary):
             .reset_index()
             .sort_values("mean_top_k_sim", ascending=False)
         )
+        deg_fac_summary = _add_rank(deg_fac_summary, "mean_top_k_sim", "rank_top_k_sim")
+        deg_fac_summary = _add_rank(deg_fac_summary, "mean_breadth", "rank_breadth")
+        deg_fac_summary = _add_rank(deg_fac_summary, "mean_coverage_pct", "rank_coverage")
         results["degree_faculty_summary"] = deg_fac_summary
         print(f"  → Degree-faculty summary: {len(deg_fac_summary)} groups")
 
@@ -640,6 +726,7 @@ def threshold_stability_check(sim_matrix, mod_idx, deg_map, dist_stats, top_n):
 
     mean = dist_stats["global_mean"]
     std = dist_stats["global_std"]
+
     thresholds = {
         "mean+0.5sd": mean + 0.5 * std,
         "mean+1.0sd": mean + 1.0 * std,
@@ -734,6 +821,14 @@ def main():
     mod_summary.to_csv(CSV_OUT / "module_summary.csv", index=False)
     print(f"  Saved → {CSV_OUT / 'module_summary.csv'}")
 
+    # Deduplicated version for reporting (section variants collapsed)
+    mod_summary_deduped = _dedup_module_summary(mod_summary)
+    mod_summary_deduped.to_csv(CSV_OUT / "module_summary_deduped.csv", index=False)
+    n_dupes = len(mod_summary) - len(mod_summary_deduped)
+    print(f"  Deduped by title: {len(mod_summary)} → {len(mod_summary_deduped)} "
+          f"unique courses ({n_dupes} section variants collapsed)")
+    print(f"  Saved → {CSV_OUT / 'module_summary_deduped.csv'}")
+
     # ── Stage 5: SSOC-group alignment ──
     ssoc_alignment = ssoc_group_alignment(
         sim_matrix, mod_idx, job_idx, ssoc_level="ssoc_minor_title"
@@ -788,6 +883,7 @@ def main():
         },
         "data_shape": {
             "n_modules": int(sim_matrix.shape[0]),
+            "n_modules_unique": int(len(mod_summary_deduped)),
             "n_jobs": int(sim_matrix.shape[1]),
             "n_degrees": int(deg_map["major"].nunique()) if deg_map is not None else 0,
         },
@@ -810,14 +906,15 @@ def main():
     for f in sorted(CSV_OUT.glob("*")):
         print(f"    {f.name}")
 
-    # Top modules
-    print(f"\n  TOP 10 MODULES BY ALIGNMENT:")
-    for _, r in mod_summary.head(10).iterrows():
+    # Top modules (deduped — section variants collapsed)
+    print(f"\n  TOP 10 MODULES BY ALIGNMENT (deduped):")
+    for _, r in mod_summary_deduped.head(10).iterrows():
+        variants = f" (+{r['n_variants']-1} sections)" if r['n_variants'] > 1 else ""
         print(f"    #{int(r['rank_top_k_sim']):<4d} {r['module_code']:10s}  "
               f"top-K={r['top_k_mean_sim']:.4f}  "
               f"breadth={int(r['breadth_n_ssoc_groups'])}  "
               f"coverage={r['coverage_pct']:.1f}%  "
-              f"{r['module_title'][:40]}")
+              f"{r['module_title'][:40]}{variants}")
 
     # Top degrees
     if degree_summary is not None:

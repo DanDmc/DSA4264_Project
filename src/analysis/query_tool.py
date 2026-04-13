@@ -1,21 +1,24 @@
 """
-query_tool.py — CLI tool for exploring module/degree job alignment
+query_tool.py — CLI tool for exploring module/degree/job alignment
 -------------------------------------------------------------------
-Look up any module or degree and see its top-K job matches, breadth,
-coverage, and SSOC breakdown. Useful for spot-checking results and
-taking screenshots for presentations.
+Look up any module, degree, SSOC group, or individual job posting and
+see its top-K matches, breadth, coverage, and SSOC breakdown. Useful
+for spot-checking results and taking screenshots for presentations.
 
 Usage (from repo root):
     python -m src.analysis.query_tool module CS3244
     python -m src.analysis.query_tool degree "Computer Science"
     python -m src.analysis.query_tool degree "Business Analytics" --k 20
     python -m src.analysis.query_tool ssoc "SOFTWARE AND APPLICATIONS DEVELOPERS AND ANALYSTS"
+    python -m src.analysis.query_tool job "data analyst"
+    python -m src.analysis.query_tool job 12345              # by job_id
 
 All parameters sourced from config.py.
 """
 
 import argparse
 import sys
+from collections import Counter
 from pathlib import Path
 
 import numpy as np
@@ -31,6 +34,7 @@ from config import (
     ANALYSIS_TOP_K,
     ANALYSIS_DEGREE_AGG_TOP_N,
     ANALYSIS_BREADTH_SSOC_LEVEL,
+    JOBS_FILTERED,
 )
 
 EMB_DIR = EMBEDDINGS_DIR / "whole_text"
@@ -40,7 +44,12 @@ CSV_OUT = REPO_ROOT / "outputs" / "similarity_analysis_outputs"
 
 
 def load_data():
-    """Load similarity matrix and index files."""
+    """
+    Load similarity matrix, index files, and degree mapping.
+
+    Applies the same salary + experience filter as similarity_analysis.py
+    so that query results are consistent with the batch analysis outputs.
+    """
     # Try OneDrive location first, then old repo fallback
     sim_path = SIMILARITY_RESULTS_DIR / "similarity_matrix.npy"
     if not sim_path.exists():
@@ -54,6 +63,22 @@ def load_data():
     mod_idx = pd.read_csv(EMB_DIR / "module_index.csv")
     job_idx = pd.read_csv(EMB_DIR / "job_index.csv")
 
+    # ── Filter jobs to current JOBS_FILTERED population ──
+    # Same logic as similarity_analysis.py — keeps query results consistent
+    if JOBS_FILTERED.exists():
+        filtered_jobs = pd.read_csv(JOBS_FILTERED, usecols=["job_id"])
+        valid_ids = set(filtered_jobs["job_id"].values)
+        mask = job_idx["job_id"].isin(valid_ids).values
+
+        n_before = len(job_idx)
+        job_idx = job_idx[mask].reset_index(drop=True)
+        sim_matrix = sim_matrix[:, mask]
+        n_after = len(job_idx)
+        print(f"  Applied salary + experience filter: {n_before:,} → {n_after:,} jobs")
+    else:
+        print(f"  WARNING: {JOBS_FILTERED} not found — using all embedded jobs")
+
+    # Degree mapping (optional)
     deg_map = None
     if DEGREE_MODULE_MAPPING.exists():
         deg_map = pd.read_csv(DEGREE_MODULE_MAPPING)
@@ -67,12 +92,17 @@ def load_data():
             meta = json.load(f)
         threshold = meta["parameters"].get("coverage_threshold")
 
+    # Fallback: compute threshold from filtered matrix
     if threshold is None:
         flat = sim_matrix.ravel()
         threshold = float(flat.mean() + flat.std())
 
     return sim_matrix, mod_idx, job_idx, deg_map, threshold
 
+
+# ──────────────────────────────────────────────
+# MODULE QUERY
+# ──────────────────────────────────────────────
 
 def query_module(sim_matrix, mod_idx, job_idx, module_code, k, threshold,
                  ssoc_level=ANALYSIS_BREADTH_SSOC_LEVEL):
@@ -132,11 +162,14 @@ def query_module(sim_matrix, mod_idx, job_idx, module_code, k, threshold,
 
     if ssoc_groups:
         print(f"\n  SSOC GROUPS IN TOP-{capped_k}:")
-        from collections import Counter
         group_counts = Counter(g for g in top_k_ssoc if pd.notna(g))
         for group, count in sorted(group_counts.items(), key=lambda x: -x[1]):
             print(f"    ({count:>2d} jobs) {group}")
 
+
+# ──────────────────────────────────────────────
+# DEGREE QUERY
+# ──────────────────────────────────────────────
 
 def query_degree(sim_matrix, mod_idx, job_idx, deg_map, degree_name, k, top_n,
                  threshold, ssoc_level=ANALYSIS_BREADTH_SSOC_LEVEL):
@@ -238,7 +271,6 @@ def query_degree(sim_matrix, mod_idx, job_idx, deg_map, degree_name, k, top_n,
 
     if ssoc_groups:
         print(f"\n  SSOC GROUPS IN TOP-{capped_k}:")
-        from collections import Counter
         group_counts = Counter(g for g in top_k_ssoc if pd.notna(g))
         for group, count in sorted(group_counts.items(), key=lambda x: -x[1]):
             print(f"    ({count:>2d} jobs) {group}")
@@ -257,6 +289,10 @@ def query_degree(sim_matrix, mod_idx, job_idx, deg_map, degree_name, k, top_n,
     for code, title, mtype, score in mod_scores[:15]:
         print(f"    {code:<10s} [{mtype:<8s}] top-K={score:.4f}  {title[:45]}")
 
+
+# ──────────────────────────────────────────────
+# SSOC QUERY
+# ──────────────────────────────────────────────
 
 def query_ssoc(sim_matrix, mod_idx, job_idx, ssoc_name, k,
                ssoc_level=ANALYSIS_BREADTH_SSOC_LEVEL):
@@ -307,18 +343,130 @@ def query_ssoc(sim_matrix, mod_idx, job_idx, ssoc_name, k,
               f"{str(mod['faculty'])[:30]:<30s} {str(mod['title'])[:40]}")
 
 
+# ──────────────────────────────────────────────
+# JOB QUERY
+# ──────────────────────────────────────────────
+
+def query_job(sim_matrix, mod_idx, job_idx, query, k,
+              ssoc_level=ANALYSIS_BREADTH_SSOC_LEVEL):
+    """
+    Look up a job posting and find its top-K most aligned NUS modules.
+
+    The query can be:
+      - A numeric job_id (exact match)
+      - A text string (fuzzy-matched against job titles)
+    If multiple jobs match a text query, the user picks one.
+    """
+    # Determine if query is a job_id (numeric) or a title search
+    try:
+        job_id = int(query)
+        is_id = True
+    except ValueError:
+        is_id = False
+
+    if is_id:
+        # Exact match on job_id
+        mask = job_idx["job_id"] == job_id
+        if not mask.any():
+            print(f"ERROR: Job ID {job_id} not found in filtered job set.")
+            return
+        matches = job_idx[mask]
+    else:
+        # Fuzzy match on job title (case-insensitive substring)
+        query_lower = query.lower()
+        mask = job_idx["title"].str.lower().str.contains(query_lower, na=False)
+        matches = job_idx[mask]
+
+        if len(matches) == 0:
+            print(f"ERROR: No jobs matching '{query}' found.")
+            # Show a few example titles for guidance
+            sample = job_idx["title"].dropna().sample(min(5, len(job_idx))).values
+            print(f"  Example job titles in dataset:")
+            for t in sample:
+                print(f"    - {t}")
+            return
+        elif len(matches) > 10:
+            # Too many matches — ask user to be more specific
+            print(f"Found {len(matches)} jobs matching '{query}'. Showing first 10:")
+            for _, row in matches.head(10).iterrows():
+                ssoc = str(row.get("ssoc_minor_title", ""))[:35]
+                print(f"  ID={row['job_id']:<8}  {str(row['title'])[:45]}  [{ssoc}]")
+            print(f"\n  Use a job_id for an exact match, e.g.:")
+            print(f"    python -m src.analysis.query_tool job {matches.iloc[0]['job_id']}")
+            return
+        elif len(matches) > 1:
+            # A few matches — show them all, pick the first
+            print(f"Found {len(matches)} jobs matching '{query}':")
+            for _, row in matches.iterrows():
+                ssoc = str(row.get("ssoc_minor_title", ""))[:35]
+                print(f"  ID={row['job_id']:<8}  {str(row['title'])[:45]}  [{ssoc}]")
+            print(f"\nShowing results for the first match. "
+                  f"Use job_id for a specific one.")
+
+    # Use the first match
+    job_row = matches.iloc[0]
+    job_pos = matches.index[0]  # position in the filtered job_idx
+
+    print(f"\n{'=' * 70}")
+    print(f"JOB: [{job_row['job_id']}] {job_row['title']}")
+    print(f"{'=' * 70}")
+
+    # Print available metadata
+    for col_label, col_name in [
+        ("SSOC Code",  "ssoc_code"),
+        ("SSOC Major", "ssoc_major_title"),
+        ("SSOC Minor", "ssoc_minor_title"),
+        ("SSOC Unit",  "ssoc_unit_title"),
+        ("Category",   "category"),
+        ("Salary Avg", "salary_avg"),
+    ]:
+        val = job_row.get(col_name, None)
+        if pd.notna(val) and str(val).strip():
+            print(f"  {col_label + ':':<14s} {val}")
+
+    # Get this job's similarity to all modules (= one column of the sim matrix)
+    job_sims = sim_matrix[:, job_pos]  # shape: (n_modules,)
+
+    # Top-K most similar modules
+    capped_k = min(k, len(job_sims))
+    top_k_idx = np.argpartition(job_sims, -capped_k)[-capped_k:]
+    top_k_sims = job_sims[top_k_idx]
+    order = np.argsort(top_k_sims)[::-1]
+    top_k_idx = top_k_idx[order]
+    top_k_sims = top_k_sims[order]
+
+    print(f"\n  TOP-{capped_k} MOST RELEVANT NUS MODULES:")
+    print(f"  {'Rank':<5s} {'Sim':>6s}  {'Code':<10s} {'Faculty':<30s} {'Title'}")
+    print(f"  {'-'*5} {'-'*6}  {'-'*10} {'-'*30} {'-'*40}")
+    for rank, (m_idx, score) in enumerate(zip(top_k_idx, top_k_sims), 1):
+        mod = mod_idx.iloc[m_idx]
+        print(f"  {rank:<5d} {score:>6.4f}  {mod['module code']:<10s} "
+              f"{str(mod['faculty'])[:30]:<30s} {str(mod['title'])[:40]}")
+
+    # Show which faculties are represented in the top-K
+    top_faculties = [mod_idx.iloc[m]["faculty"] for m in top_k_idx]
+    faculty_counts = Counter(top_faculties)
+    print(f"\n  FACULTIES IN TOP-{capped_k}:")
+    for fac, count in sorted(faculty_counts.items(), key=lambda x: -x[1]):
+        print(f"    ({count:>2d} modules) {fac}")
+
+
+# ──────────────────────────────────────────────
+# MAIN
+# ──────────────────────────────────────────────
+
 def main():
     parser = argparse.ArgumentParser(
-        description="Query module/degree/SSOC alignment results"
+        description="Query module/degree/SSOC/job alignment results"
     )
     parser.add_argument(
         "query_type",
-        choices=["module", "degree", "ssoc"],
-        help="Type of query"
+        choices=["module", "degree", "ssoc", "job"],
+        help="Type of query: module, degree, ssoc, or job"
     )
     parser.add_argument(
         "query",
-        help="Module code, degree name, or SSOC group name"
+        help="Module code, degree name, SSOC group name, or job title/ID"
     )
     parser.add_argument(
         "--k", type=int, default=ANALYSIS_TOP_K,
@@ -343,6 +491,8 @@ def main():
                      args.k, args.top_n, threshold)
     elif args.query_type == "ssoc":
         query_ssoc(sim_matrix, mod_idx, job_idx, args.query, args.k)
+    elif args.query_type == "job":
+        query_job(sim_matrix, mod_idx, job_idx, args.query, args.k)
 
 
 if __name__ == "__main__":
