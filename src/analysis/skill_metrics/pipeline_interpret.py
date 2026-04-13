@@ -1,13 +1,16 @@
 """
 Pipeline 3 — INTERPRET the metric.
 
-Runs the three scripts that generate policy-facing outputs:
-  1. foundational_layer  — theoretical course skills with no job-market demand
-  2. policy_priority     — Priority Gap Index + confidence flags per category
-  3. breakdown_analysis  — coverage by job category / SSOC / faculty / major / department
-  4. moe_result_angles   — action matrix, lift table, exec summary for MOE briefing
+Runs the scripts that generate policy-facing outputs:
+  1. foundational_layer        — theoretical course skills with no job-market demand
+  2. policy_priority           — Priority Gap Index + confidence flags per category
+  3. breakdown_analysis        — coverage by job category / SSOC / faculty / major / department
+  4. moe_result_angles         — action matrix, lift table, exec summary for MOE briefing
+  5. combined_degree_priority  — degree-level alignment score combining skill-space +
+                                 semantic analysis; ranked list of degrees for MOE review
 
 Must be run AFTER pipeline_build_metric.py AND pipeline_validate_metric.py.
+Step 5 also requires similarity_analysis.py to have been run (targeted_ssoc_alignment.csv).
 
 Usage
 -----
@@ -77,6 +80,7 @@ def main() -> None:
         [args.python, "-m", "src.analysis.skill_metrics.moe_result_angles",
          "--job-source", args.job_source,
          "--threshold",  str(args.threshold)],
+        [args.python, "-m", "src.analysis.combined_degree_priority"],
     ]
 
     print("=" * 60)
@@ -84,6 +88,15 @@ def main() -> None:
     print(f"  Job source : {args.job_source}")
     print(f"  Threshold  : {args.threshold}")
     print("=" * 60)
+
+    # Step 5 depends on similarity_analysis.py having been run — skip gracefully if not
+    REPO_ROOT = Path(__file__).resolve().parents[3]
+    sem_csv = REPO_ROOT / "outputs" / "similarity_analysis_outputs" / "targeted_ssoc_alignment.csv"
+    if not sem_csv.exists():
+        print(f"\n[skip] Step 5 (combined_degree_priority): semantic CSV not found at:")
+        print(f"       {sem_csv}")
+        print("       Run similarity_analysis.py first, then re-run pipeline_interpret.")
+        cmds = cmds[:-1]
 
     for cmd in cmds:
         _run(cmd, args.dry_run)
@@ -94,10 +107,15 @@ def main() -> None:
         "job_source": args.job_source,
         "threshold": args.threshold,
         "expected_outputs": {
-            "foundational_layer": str(RESULTS_DIR / f"foundational_layer_{args.job_source}"),
-            "policy_priority":    str(RESULTS_DIR / f"policy_priority_{args.job_source}_t{ttag}"),
-            "breakdown_analysis": str(RESULTS_DIR / f"breakdown_analysis_{args.job_source}"),
-            "moe_angles":         str(RESULTS_DIR / f"moe_angles_{args.job_source}_t{ttag}"),
+            "foundational_layer":       str(RESULTS_DIR / f"foundational_layer_{args.job_source}"),
+            "policy_priority":          str(RESULTS_DIR / f"policy_priority_{args.job_source}_t{ttag}"),
+            "breakdown_analysis":       str(RESULTS_DIR / f"breakdown_analysis_{args.job_source}"),
+            "moe_angles":               str(RESULTS_DIR / f"moe_angles_{args.job_source}_t{ttag}"),
+            **({
+                "combined_degree_priority": str(RESULTS_DIR / "combined_degree_priority"),
+            } if sem_csv.exists() else {
+                "combined_degree_priority": "skipped — run similarity_analysis.py first",
+            }),
         },
     }
     out_path = RESULTS_DIR / f"manifest_interpret_{args.job_source}_t{ttag}.json"

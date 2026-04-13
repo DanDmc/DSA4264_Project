@@ -67,12 +67,12 @@ import numpy as np
 import pandas as pd
 
 try:
-    from src.config import COURSES_PROCESSED_DIR, JOBS_PROCESSED_DIR, RESULTS_DIR
+    from src.config import COURSES_PROCESSED_DIR, JOBS_PROCESSED_DIR, RAW_DIR, RESULTS_DIR
 except ModuleNotFoundError:
     REPO_ROOT = Path(__file__).resolve().parents[3]
     if str(REPO_ROOT) not in sys.path:
         sys.path.insert(0, str(REPO_ROOT))
-    from src.config import COURSES_PROCESSED_DIR, JOBS_PROCESSED_DIR, RESULTS_DIR
+    from src.config import COURSES_PROCESSED_DIR, JOBS_PROCESSED_DIR, RAW_DIR, RESULTS_DIR
 
 from src.analysis.skill_metrics.baseline_scr import (
     canonicalize,
@@ -83,7 +83,7 @@ from src.analysis.skill_metrics.baseline_scr import (
 DEFAULT_COURSE_SKILLS    = COURSES_PROCESSED_DIR / "module_skill_pairs.csv"
 DEFAULT_MODULES_CLEANED  = COURSES_PROCESSED_DIR / "modules_cleaned.csv"
 DEFAULT_DEGREE_MAPPING   = COURSES_PROCESSED_DIR / "degree_module_mapping.csv"
-DEFAULT_MAJOR_SSOC_MAP   = JOBS_PROCESSED_DIR / "major_ssoc_mapping.csv"
+DEFAULT_MAJOR_SSOC_MAP   = RAW_DIR / "major_ssoc_mapping.csv"
 DEFAULT_THRESHOLD        = 0.72
 
 
