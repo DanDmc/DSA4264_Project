@@ -1,13 +1,15 @@
 """
 compare_extractors.py
 =====================
-Four-method skill extraction comparison for NUS course descriptions.
+Skill extraction comparison for NUS course descriptions.
 
-Methods:
-  1  SkillNer alone            -- raw NER, no taxonomy
-  2  SkillNer + taxonomy       -- current pipeline (extract_course_skills.py)
-  3  LLM few-shot              -- prompt with skill definition + annotation examples
-  4  Hybrid: SkillNer → LLM   -- SkillNer provides candidates; LLM filters & expands
+Primary evaluation used in the final project:
+  1  SkillNer alone            -- initial baseline: raw NER, no taxonomy
+  3  LLM few-shot              -- final model: prompt with skill definition + annotation examples
+
+Legacy / optional variants:
+  2  SkillNer + taxonomy       -- not used in final validation
+  4  Hybrid: SkillNer -> LLM   -- not used in final validation: SkillNer provides candidates; LLM filters & expands
 
 Recommended LLM backend — Ollama (free, local, no rate limits):
   1. Install: https://ollama.com
@@ -26,11 +28,11 @@ Other providers:
 
 Usage:
     python -m src.validation.compare_extractors \\
-        --courses data/processed/cleaned_modules.csv \\
-        --ground-truth data/validation/annotations.xlsx \\
-        --methods 1 2 3 4 \\
+        --courses path/to/cleaned_modules.csv \\
+        --ground-truth validation/annotations.xlsx \\
+        --methods 1 3 \\
         --llm-provider ollama \\
-        --output results/extractor_comparison.csv
+        --output validation/extractor_comparison_2_methods.csv
 
 Ground truth Excel format:
     Sheet name: "courses_annotated"  (falls back to first sheet)
