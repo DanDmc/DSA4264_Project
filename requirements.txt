@@ -1,13 +1,22 @@
-# Core dependencies for data processing pipelines
+# Core data processing
 pandas>=2.0
-openpyxl>=3.1          # for reading SSOC Excel file
-requests>=2.28         # for NUSMods API calls
-python-dotenv>=1.0     # for .env file loading
-
-# Analysis and visualisation
 numpy>=1.26
+openpyxl>=3.1              # reading/writing Excel files (SSOC definitions, degree mapping)
+requests>=2.28             # NUSMods API calls
+python-dotenv>=1.0         # .env file loading for DATA_ROOT
+
+# Text processing & NLP
+spacy>=3.7                 # dependency parsing for phrase extraction
+beautifulsoup4>=4.12       # HTML tag stripping in job descriptions
+skillNer>=1.0              # rule-based skill extraction from text
+
+# Embeddings & similarity
+sentence-transformers>=2.7 # BGE model for semantic embeddings
+torch>=2.0                 # PyTorch backend for sentence-transformers
+
+# Analysis & statistics
+scipy>=1.11                # Spearman rank correlation (threshold stability)
+
+# Visualisation
 matplotlib>=3.8
 seaborn>=0.13
-
-# Skill similarity and embedding
-sentence-transformers>=2.7   # embedding-based skill matching (Step 3 onward)
