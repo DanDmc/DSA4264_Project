@@ -15,9 +15,9 @@ Decision rule:
     - mixed       otherwise
 
 Usage:
-    python -m src.analysis.skill_knowledge_dominance
-    python -m src.analysis.skill_knowledge_dominance --confidence 0.99
-    python -m src.analysis.skill_knowledge_dominance --output results/skill_knowledge_dominance.csv
+    python -m src.analysis.skill_metrics.skill_knowledge_dominance
+    python -m src.analysis.skill_metrics.skill_knowledge_dominance --confidence 0.99
+    python -m src.analysis.skill_metrics.skill_knowledge_dominance --output results/skill_knowledge_dominance.csv
 """
 
 from __future__ import annotations

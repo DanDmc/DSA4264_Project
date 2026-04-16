@@ -272,6 +272,56 @@ def plot_chart2_major_coverage(major: pd.DataFrame) -> None:
     _save(fig, "fig_ss_chart2_major_coverage.png")
 
 
+def export_chart2_top_bottom_tables(major: pd.DataFrame, top_n: int = 10) -> None:
+    """
+    Export Top-N and Bottom-N degree programmes by Soft-SCR from the same input
+    used for Chart 2.
+    """
+    required = {"major", "soft_scr_all"}
+    missing = required - set(major.columns)
+    if missing:
+        raise ValueError(
+            f"Chart 2 table export requires columns {sorted(required)}; "
+            f"missing {sorted(missing)}."
+        )
+
+    df = major.copy().sort_values("soft_scr_all", ascending=False).reset_index(drop=True)
+    df["soft_scr_pct"] = (df["soft_scr_all"] * 100).round(2)
+
+    top = df.head(top_n).copy()
+    top.insert(0, "rank", np.arange(1, len(top) + 1))
+
+    bottom = df.tail(top_n).copy().sort_values("soft_scr_all", ascending=True).reset_index(drop=True)
+    bottom.insert(0, "rank", np.arange(1, len(bottom) + 1))
+
+    # Keep report-friendly columns only where available.
+    keep = ["rank", "major", "soft_scr_all", "soft_scr_pct"]
+    if "n_relevant_job_skills" in df.columns:
+        keep.append("n_relevant_job_skills")
+    if "relevant_ssoc_minors" in df.columns:
+        keep.append("relevant_ssoc_minors")
+
+    top_out = FIG_OUT / "table_ss_chart2_top10_degrees_soft_scr.csv"
+    bot_out = FIG_OUT / "table_ss_chart2_bottom10_degrees_soft_scr.csv"
+    both_out = FIG_OUT / "table_ss_chart2_top_bottom10_degrees_soft_scr.csv"
+
+    top[keep].to_csv(top_out, index=False)
+    bottom[keep].to_csv(bot_out, index=False)
+
+    both = pd.concat(
+        [
+            top[keep].assign(group=f"top_{top_n}"),
+            bottom[keep].assign(group=f"bottom_{top_n}"),
+        ],
+        ignore_index=True,
+    )
+    both.to_csv(both_out, index=False)
+
+    print(f"    → {top_out}")
+    print(f"    → {bot_out}")
+    print(f"    → {both_out}")
+
+
 # ══════════════════════════════════════════════════════════════════════════
 # CHART 3 — Degree-level PGI
 # ══════════════════════════════════════════════════════════════════════════
@@ -536,8 +586,7 @@ def plot_chart5_foundational_ratio(ratio: pd.DataFrame) -> None:
     ax.set_xlabel("Foundational Ratio — % of theoretical skills with no job-market demand",
                   fontsize=10, labelpad=8)
     ax.set_title(
-        "Foundational Ratio by Degree Programme\n"
-        "Higher = more theoretical content with no direct job-market equivalent",
+        "Foundational Ratio by Degree (Course-Side Metric)",
         fontsize=12, fontweight="bold", pad=14,
     )
 
@@ -553,7 +602,12 @@ def plot_chart5_foundational_ratio(ratio: pd.DataFrame) -> None:
     ax.spines["left"].set_visible(False)
     ax.set_xlim(0, 108)
 
-    fig.tight_layout()
+    fig.text(
+        0.01, 0.01,
+        "Formula: Foundational Ratio = (# theoretical course skills with no direct job equivalent) / (# total course skills in degree)",
+        ha="left", va="bottom", fontsize=7, color=TEXT_CLR, alpha=0.8,
+    )
+    fig.tight_layout(rect=(0, 0.03, 1, 1))
     _save(fig, "fig_ss_chart5_foundational_ratio.png")
 
 
@@ -621,6 +675,8 @@ def main() -> None:
 
     if major is not None:
         plot_chart2_major_coverage(major)
+        print("  Table — Chart 2 top/bottom 10 by Soft-SCR...")
+        export_chart2_top_bottom_tables(major, top_n=10)
 
     if deg is not None:
         plot_chart3_degree_pgi(deg)

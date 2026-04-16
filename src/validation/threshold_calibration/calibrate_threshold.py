@@ -110,7 +110,7 @@ def plot_calibration_curve(results: pd.DataFrame, optimal_t: float, out: Path) -
     ax.set_ylabel("Score", fontsize=11)
     ax.set_title(
         "Threshold Calibration: F1, Precision, Recall vs θ\n"
-        "Optimal threshold selected by maximum F1 against human-labelled pairs",
+        "Optimal threshold selected at equal error rate (precision = recall)",
         fontsize=11,
     )
     ax.legend(fontsize=10)
@@ -151,9 +151,18 @@ def main() -> None:
     )
     results = sweep_thresholds(df, thresholds)
 
-    # Optimal threshold = maximises F1
-    best_idx = results["f1"].idxmax()
-    best_row = results.loc[best_idx]
+    # Optimal threshold = equal error rate (crossing point where precision = recall)
+    # precision rises and recall falls as threshold increases — find the crossing
+    results["eer_gap"] = results["precision"] - results["recall"]
+    # find last threshold where precision <= recall, restricted to meaningful range
+    meaningful = results[(results["precision"] > 0) & (results["recall"] > 0)]
+    below = meaningful[meaningful["eer_gap"] <= 0]
+    if not below.empty:
+        best_idx = below.index[-1]
+    else:
+        # fallback: minimum absolute gap in meaningful range
+        best_idx = meaningful["eer_gap"].abs().idxmin()
+    best_row  = results.loc[best_idx]
     optimal_t = float(best_row["threshold"])
 
     print(f"\n{'='*56}")
@@ -184,7 +193,8 @@ def main() -> None:
         "threshold_range_swept": [args.thresh_min, args.thresh_max],
         "note": (
             f"Threshold calibrated against {len(df)} human-labelled "
-            "course-skill / job-skill pairs. Optimal value maximises F1."
+            "course-skill / job-skill pairs. Optimal value selected at "
+            "equal error rate (precision = recall)."
         ),
     }
     with (args.output / "calibration_summary.json").open("w") as f:

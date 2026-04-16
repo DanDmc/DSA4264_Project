@@ -90,9 +90,9 @@ def main() -> None:
         "threshold": args.threshold,
         "threshold_justification": (
             f"θ={args.threshold} selected as equal-error-rate point "
-            "(precision ≈ recall) from calibration against 357 human-labelled "
+            "(precision = recall) from calibration against 357 human-labelled "
             "course-skill / job-skill pairs. "
-            f"F1={0.685:.3f}, Precision={0.660:.3f}, Recall={0.711:.3f}."
+            f"F1=0.685, Precision=0.660, Recall=0.711 at θ=0.72."
         ),
         "expected_outputs": {
             "baseline":           str(RESULTS_DIR / f"baseline_scr_{args.job_source}"),
