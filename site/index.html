@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="None">
+        
+        
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <title>My Docs</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/fontawesome.min.css" rel="stylesheet">
+        <link href="css/brands.min.css" rel="stylesheet">
+        <link href="css/solid.min.css" rel="stylesheet">
+        <link href="css/v4-font-face.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body class="homepage">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href=".">My Docs</a>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#dsa4264-technical-report" class="nav-link">DSA4264 Technical Report</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#1-context" class="nav-link">1. Context</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#2-scope" class="nav-link">2. Scope</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#3-methodology" class="nav-link">3. Methodology</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#4-findings" class="nav-link">4. Findings</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<hr />
+<p>title: DSA4264 Technical Report
+tags: [onboarding]</p>
+<hr />
+<h1 id="dsa4264-technical-report">DSA4264 Technical Report</h1>
+<p><img alt="image" src="https://hackmd.io/_uploads/H1ANDIpn-l.png" /></p>
+<h2 id="1-context">1. Context</h2>
+<p>Rapid advancements in technology, particularly in artificial intelligence and digitalisation, have reshaped labour market demands. Employers increasingly prioritise job-relevant skills over traditional academic qualifications, placing pressure on higher education institutions to remain aligned with industry needs. In Singapore, this is evident with around 22.5% of workers reporting a mismatch between their skills and job requirements, while approximately 24% of employers report skills gaps in their workforce (Heng, 2026).</p>
+<p>Within the Ministry of Education (MOE), university curricula are reviewed through consultations with industry stakeholders. However, these processes are subject to time lags due to the rapidly evolving economy. Reliance on aggregate indicators such as employment rates also provides limited granularity, making it difficult to identify specific gaps between course content and job requirements. As a result, curriculum updates may struggle to keep pace with fast-changing industries.</p>
+<p>This project explores how data-driven methods can complement existing approaches by providing a more scalable and systematic way to assess course–job alignment, enabling more timely and granular insights into the relationship between education and labour demand.</p>
+<h2 id="2-scope">2. Scope</h2>
+<h3 id="21-problem">2.1 Problem</h3>
+<p>MOE currently lacks a scalable and systematic way to evaluate how well university courses prepare students for the workforce. Existing approaches, such as the Graduate Employment Survey (GES) and periodic industry conferences, have several limitations.</p>
+<p>First, they are largely reactive, reflecting outcomes months or years after graduation and offering limited forward-looking insights. Second, they operate at a high level of aggregation, lacking the granularity needed to capture variation across courses, disciplines, and job roles. As a result, they do not provide a systematic understanding of how course content aligns with labour market demands, limiting policymakers’ ability to identify specific areas of misalignment or implement targeted curriculum improvements.</p>
+<p>This creates a significant information gap for MOE, limiting its ability to assess curriculum relevance and respond to evolving skill demands. Given that Singapore produces over 16,000 graduates annually, even small mismatches can scale into substantial workforce inefficiencies.</p>
+<p>The impact extends across stakeholders. Graduates face longer job searches, while employers incur additional training costs of approximately SGD 500 to SGD 1,000 per employee annually (HRSINGAPORE, 2024). At the national level, misalignment reduces the efficiency of public education spending, which is approximately 2.2% of GDP (NCEE). 
+Data science provides a suitable approach to address these gaps by enabling scalable analysis of job postings and course descriptions. This allows for systematic identification of misalignment and emerging demand patterns that are difficult to capture through traditional methods.</p>
+<h3 id="22-success-criteria">2.2 Success Criteria</h3>
+<p>From a business perspective, the goal is to provide a robust and interpretable measure of alignment between university courses and labour market demands, at both the skill and content level. A successful outcome would enable MOE to systematically identify areas of misalignment across programmes, including underrepresented skills and gaps in course content.</p>
+<p>These insights support evidence-based, forward-looking policy decisions in curriculum design and workforce planning, and guide the prioritisation of curriculum updates and resource allocation.</p>
+<p>From an operational perspective, the system should produce reliable, consistent, and interpretable alignment metrics, including achieving ≥85% precision in skill extraction and alignment when evaluated against manually annotated samples.</p>
+<p>In addition, the system should ensure standardised representation of skills and course content, reducing ambiguity and improving consistency and comparability of results across different courses and job categories.
+Success is further demonstrated if the alignment results align with external benchmarks, such as expert evaluation or relevant employment indicators, indicating that the system produces credible and policy-relevant insights.</p>
+<h3 id="23-assumptions">2.3 Assumptions</h3>
+<h4 id="data-assumptions">Data Assumptions</h4>
+<p>Job advertisements are assumed to be a reasonable proxy for labour market demand, although they may contain generic or inflated requirements. Similarly, course descriptions are assumed to reflect the skills and knowledge acquired by students, despite being high-level and not fully capturing depth or variation.
+The dataset is also assumed to be representative of broader labour market trends, despite being limited in time scope. If the data does not reflect longer-term patterns, the resulting insights may be biased or incomplete.</p>
+<h4 id="technical-assumptions">Technical assumptions</h4>
+<p>The approach assumes that semantic similarity in embedding space provides a meaningful proxy for alignment between job requirements and course content. In particular, it assumes that embeddings from both domains are directly comparable within the same vector space, despite differences in style, abstraction, and intent.
+It also assumes that aggregating similarity scores across skills or text components yields a valid overall measure of alignment, even though this may simplify complex relationships such as differences in depth, importance, or contextual relevance.</p>
+<h4 id="application-assumptions">Application assumptions</h4>
+<p>The project assumes that policymakers and educational institutions have the capacity to act on the insights generated. In practice, institutional and resource constraints may limit the speed and extent of implementation.</p>
+<h2 id="3-methodology">3. Methodology</h2>
+<h3 id="31-technical-assumptions">3.1 Technical Assumptions</h3>
+<h4 id="definitions">Definitions</h4>
+<p>This project examines the relationship between NUS undergraduate courses and “good” entry-level jobs using two complementary analyses: semantic similarity and skills overlap. Skills are further categorised into applied and theoretical skills.</p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entry-level job</td>
+<td>Job postings requiring ≤2 years of experience exhibit a low proportion of senior responsibilities (~10–20%), approximating roles accessible to fresh NUS graduates<img alt="image" src="https://hackmd.io/_uploads/Hk4OU86hbg.png" /></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Good job</td>
+<td>Job postings with ≥ S$3,500 average monthly salary, aligned with the lowest 25th percentile amongst NUS courses in Graduate Employment Survey outcomes (MOE, 2025). Chosen as a reasonable proxy for desirable graduate employment.</td>
+</tr>
+<tr>
+<td>Skill</td>
+<td>Discrete capability extracted from course or job text for consistent cross-domain matching.</td>
+</tr>
+<tr>
+<td>Applied skills</td>
+<td>Action-oriented skills (e.g., implement, design, analyse) representing job-executable competencies.</td>
+</tr>
+<tr>
+<td>Theoretical skills</td>
+<td>Conceptual skills (e.g., understanding, introduces, covers) representing foundational knowledge.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="feature-availability">Feature Availability</h4>
+<p>Course data was sourced from the NUSMods API (AY2025–2026), while job postings were obtained from MyCareersFuture (25–31 January 2026). While largely reliable, employer-provided skills_list may be inconsistent or incomplete due to self-reporting. Unfortunately, useful information such as course syllabus were not available.
+| Dataset | Raw Features |
+|--------|----------|
+| <strong>Courses (NUSMods)</strong> | course code, title, description, description_clean, department, faculty, course_credit |
+| <strong>Jobs (MyCareersFuture)</strong> | job_id, title, raw_description, skills_list, minimum_years_experience, ssoc_code, category, salary_min, salary_max, salary_avg, posting_date |</p>
+<h4 id="hypothesis">Hypothesis</h4>
+<p>As an exploratory NLP study, no formal statistical hypotheses are tested. The analysis is guided by two assumptions:
+(1) semantic similarity and skills overlap capture complementary dimensions of alignment (topical relevance vs competency coverage), and
+(2) alignment differs meaningfully across degrees, faculties, and SSOC groups, motivating disaggregated analysis for policy relevance.</p>
+<h4 id="computational-resources">Computational Resources</h4>
+<p>All experiments were run on local CPUs or Google Colab (T4 GPU). LLM-based skill extraction used free-tier APIs (Cerebras, Groq, Gemini, Ollama).</p>
+<h3 id="32-data">3.2 Data</h3>
+<h4 id="collection">Collection</h4>
+<p>Data was sourced from the NUSMods API and MyCareersFuture (25–31 January 2026). SSOC mapping was performed using the official Singapore Standard Occupational Classification dataset (Department of Statistics Singapore, n.d.). A degree-to-course mapping dataset was manually constructed using official NUS websites. Given the complexity and frequent updates to course requirements, this should be interpreted as an approximate guide for mapping rather than a definitive source of truth.</p>
+<h4 id="cleaning">Cleaning</h4>
+<p>Course data required minimal preprocessing due to structured API formatting. Job postings required extensive cleaning, including HTML removal, standardisation to plain text, and filtering of non-informative content such as boilerplate equal-opportunity statements, URLs, emails, emojis, and non-Latin text. Job titles and descriptions were then concatenated into a unified text field.</p>
+<h4 id="filtering">Filtering</h4>
+<p>Only undergraduate courses at levels 1000–4000 were retained (NUS Registrar, 2026), with courses lacking meaningful descriptions or classified as internships removed, resulting in 8,615 courses.</p>
+<p><img alt="Course level" src="outputs/filter_justification/Course level.jpeg" /></p>
+<p>Job postings were filtered to ≤2 years of experience and ≥S$3,500 average monthly salary, consistent with the project’s definitions of entry-level and “good” jobs. After filtering, 7,101 postings (31.3% of the dataset) were retained.</p>
+<p><img alt="image" src="https://hackmd.io/_uploads/S1bnULp2bl.png" /></p>
+<p><img alt="image" src="https://hackmd.io/_uploads/rJ8pULph-g.png" /></p>
+<h3 id="33-experimental-design">3.3 Experimental Design</h3>
+<h3 id="331-semantic-similarity">3.3.1 Semantic Similarity</h3>
+<h3 id="embedding-and-validation">Embedding and Validation</h3>
+<p>We used a semantic embedding approach to measure alignment between NUS courses and job postings using BGE-large (BAAI/bge-large-en-v1.5). This model was selected for its strong performance on semantic retrieval benchmarks (e.g. MTEB) and its ability to<a href="https://"></a> incorporate instruction prefixes, which is useful for aligning academic content with job descriptions (Abimbola et al., 2026; Xiao et al., 2023). </p>
+<p>To determine the most effective text representation strategy, we evaluated four embedding variants: (V1) full-text embedding, (V2) sentence-level embedding with noise filtering based on cosine similarity to the document centroid, (V3) sentence mean pooling, and (V4) sentence-weighted pooling using centroid similarity-based weights. These variants were designed to test whether sentence-level decomposition improves robustness over full-document embeddings.</p>
+<p>A validation set was manually constructed from 30 jobs and 18 courses across six occupational categories (e.g. software engineering, accounting, legal), yielding 540 labelled pairs. Category membership was subjectively assigned based on human judgement of course–job relevance within each domain, and used as proxy ground truth.
+Performance was evaluated using three metrics:</p>
+<p>Mean Reciprocal Rank (MRR): measures how highly the first same-category course is ranked for each job (higher = better ranking quality).</p>
+<p>Separation gap: difference in mean cosine similarity between same-category and cross-category pairs, measuring class discriminability.</p>
+<p>Misalignment rate: proportion of jobs where the top-ranked course belongs to a different category, capturing top-1 classification error.</p>
+<p>Results showed that the full-text embedding approach (V1) consistently outperformed sentence-based methods, achieving the highest MRR and strongest class separation. As a result, V1 was selected for downstream analysis.</p>
+<table>
+<thead>
+<tr>
+<th>Variant</th>
+<th>Method</th>
+<th>MRR ↑</th>
+<th>Separation Gap ↑</th>
+<th>Misalignment ↓</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>V1 (Baseline)</td>
+<td>Full-text embedding</td>
+<td><strong>0.9289</strong></td>
+<td><strong>0.1056</strong></td>
+<td><strong>0.0222</strong></td>
+</tr>
+<tr>
+<td>V2</td>
+<td>Sentence + threshold</td>
+<td>0.8456</td>
+<td>0.0735</td>
+<td>0.0622</td>
+</tr>
+<tr>
+<td>V3</td>
+<td>Sentence mean-pool</td>
+<td>0.8253</td>
+<td>0.0688</td>
+<td>0.0844</td>
+</tr>
+<tr>
+<td>V4</td>
+<td>Sentence weighted</td>
+<td>0.8281</td>
+<td>0.0700</td>
+<td>0.0844</td>
+</tr>
+</tbody>
+</table>
+<p>To further validate embedding quality, a blinded human evaluation was conducted on 48 course–job pairs spanning high-, mid-, and low-similarity cases. Human relevance scores (0–2 scale) were moderately to strongly correlated with cosine similarity scores (Spearman ρ = 0.69, p &lt; 0.001), indicating that embedding similarity reflects meaningful semantic alignment.</p>
+<p>Embeddings were computed using Google Colab (T4 GPU). All job postings with ≤2 years of experience were embedded prior to salary filtering to preserve a richer semantic space; the “good jobs” constraint (≥S$3,500/month) was applied later by masking the similarity matrix during analysis.</p>
+<h3 id="metrics">Metrics</h3>
+<p>Based on the computed similarity scores, the following metrics were explored for analysis.</p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Definition</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Top-10 mean similarity</strong></td>
+<td>Average cosine similarity between each course and its 10 most similar jobs.</td>
+<td>Captures strongest course–job matches. Higher values indicate stronger alignment.</td>
+</tr>
+<tr>
+<td><strong>Breadth</strong></td>
+<td>Number of distinct occupational groups in the top-10 job matches.</td>
+<td>Measures diversity of job alignment. Higher values indicate broader applicability.</td>
+</tr>
+<tr>
+<td><strong>Coverage</strong></td>
+<td>Percentage of jobs above a similarity threshold (mean + 1 standard deviation).</td>
+<td>Measures overall market reach. Higher values indicate wider alignment.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="332-skill-space-alignment">3.3.2 Skill-Space Alignment</h3>
+<h4 id="skill-extraction-and-validation">Skill Extraction and Validation</h4>
+<p>Two extraction methods were evaluated: SkillNer, a rule-based NER tool trained on job postings, and LLM few-shot extraction. Fine-tuned NER was not considered due to limited labelled data (39 courses, ~160 instances), which would likely lead to overfitting. Embeddings were not evaluated as an extraction method, as they operate on pre-identified spans rather than extracting skills from raw text.</p>
+<p>To validate both approaches, 39 course descriptions were sampled across 8 disciplinary clusters and 4 course levels to ensure coverage of varying content types. Skills were manually annotated for each description to construct a ground truth dataset. Extracted skills were matched against ground truth using using a two-stage matching approach, consisting of exact matching followed by partial (substring-based) matching to account for minor variations in phrasing. Precision, recall, and F1-score were then computed. </p>
+<p>The LLM extractor achieved F1 = 0.565, outperforming SkillNer which underperformed on academic-style terminology.</p>
+<p><img alt="image" src="https://hackmd.io/_uploads/ryykPUp3Wl.png" /></p>
+<p>The LLM approach was therefore selected as the production extractor, with its F1 score representing a known ceiling on extraction reliability and should be considered when interpreting coverage results.</p>
+<h4 id="algorithms">Algorithms</h4>
+<p>Metric development followed an iterative process: a baseline was established, its limitations diagnosed via vocabulary mismatch analysis, and improvements introduced to address these gaps.</p>
+<p>A baseline SCR using exact string matching was established as a reproducible lower bound (macro SCR = 37.6%). Analysis revealed that 55.2% of initially uncovered job skills are near-misses — semantically equivalent skills described differently across academic and industry text — indicating that exact matching understates true coverage.</p>
+<p>This motivated the transition to semantic matching. The primary metric, Soft-IDF-SCR, incorporates embedding-based similarity (Reimers &amp; Gurevych, 2019) and IDF weighting (Sparck Jones, 1972), raising macro coverage to 69.3% — a 31.7 percentage point improvement. [include fig_baseline_vs_improved.png]</p>
+<p>A null model permutation test (B=1,000 iterations) further validated that NUS's coverage pattern is statistically non-random, with 41 out of 43 job categories exceeding the null distribution (z = 14.92, p ≈ 0. [include fig_actual_vs_null.png]</p>
+<h4 id="evaluation">Evaluation</h4>
+<p>Soft-IDF-SCR is selected as the primary metric. Plain SCR was rejected as it treats a skill in 5 postings identically to one in 5,000, misrepresenting true market priorities. DW-SCR partially addresses this but overweights generic skills (e.g., “communication”, “teamwork”), masking domain-specific gaps. Pure cosine similarity was rejected as it produces a non-interpretable scalar score without identifying specific skill gaps. </p>
+<p>Soft-IDF-SCR addresses all three: demand-weighting ensures proportional contribution; IDF amplifies domain-specific signals; semantic matching recovers vocabulary mismatches, producing interpretable outputs aligned with MOE’s objective of identifying high-demand skills that NUS curricula fail to cover.</p>
+<h4 id="hyperparameters">Hyperparameters</h4>
+<p>The cosine similarity threshold θ was calibrated empirically by sweeping values from 0.60 to 0.95 against 357 human-labelled course-job skill pairs, with θ = 0.67 maximising F1 = 0.715. [include fig_calibration_curve.png] A slightly conservative value of θ = 0.72 was adopted to reduce false positives at the cost of marginally lower recall, prioritising precision given policy implications. IDF log-smoothing (+1) was applied as regularisation, preventing ubiquitous skills from being zeroed out. Category imbalance is addressed by IDF weighting, normalising the signal across job categories. Bootstrap 95% confidence intervals (B=1,000) were computed per category to quantify uncertainty in coverage estimates, with the robustness sweep confirming category rankings remain stable across threshold variants. [include ​fig_threshold_sweep.png]</p>
+<h3 id="metrics_1">Metrics</h3>
+<h3 id="metrics_2">Metrics</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Definition</th>
+<th>Business Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Baseline SCR</strong></td>
+<td>Fraction of job-demanded skills with an exact string match to at least one course skill.</td>
+<td>Strict lower bound on alignment; understates true coverage due to vocabulary mismatch.</td>
+</tr>
+<tr>
+<td><strong>Soft-SCR</strong></td>
+<td>Fraction of job-demanded skills with a semantic match (cosine similarity ≥ θ) to at least one course skill.</td>
+<td>Better reflects alignment by recovering vocabulary mismatches.</td>
+</tr>
+<tr>
+<td><strong>Soft-IDF-SCR</strong></td>
+<td>Soft-SCR where each job skill is weighted by IDF — specialised skills count more than generic ones.</td>
+<td>Highlights domain-specific unmet demand; penalises coverage of only generic skills.</td>
+</tr>
+<tr>
+<td><strong>Foundational Ratio</strong></td>
+<td>Fraction of a degree's course skills labelled theoretical rather than applied.</td>
+<td>Indicates how practice-ready a programme's curriculum is.</td>
+</tr>
+<tr>
+<td><strong>PGI (Priority Gap Index)</strong></td>
+<td>A degree's relative job demand (job count / max job count across degrees) multiplied by its misalignment rate (1 − alignment score), where alignment score is the equal-weighted average of its semantic similarity and Soft-SCR percentile ranks.</td>
+<td>Prioritises degrees for curriculum review by jointly capturing employer demand and misalignment.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="4-findings">4. Findings</h2>
+<h3 id="41-results">4.1 Results</h3>
+<p>This section presents key findings most relevant to MOE, focusing on experimental results, their business implications, and potential for production deployment.</p>
+<h3 id="411-semantic-similarity">4.1.1 Semantic Similarity</h3>
+<h3 id="course-and-degree-level-analysis">Course and Degree-level Analysis</h3>
+<p>Top-10 Mean Similarity is computed differently at course and degree levels. At the course level, each module is directly compared to all jobs using cosine similarity, and the final score is the mean of the top-10 most similar jobs. At the degree level, each degree is represented as a set of modules, and for each job the similarity is computed using the top-10 most relevant modules, before averaging across the top-10 jobs. This provides a consistent but more granular evaluation framework across levels of aggregation.</p>
+<p>Across both levels, results are as expected: professional, analytical, and quantitatively oriented programmes dominate the top ranks, while humanities and social science subjects appear in the lower ranks under the entry-level job filter. Notably, breadth tends to exhibit an inverse relationship with similarity, </p>
+<h4 id="course-job-anlaysis">Course-Job Anlaysis</h4>
+<table>
+<thead>
+<tr>
+<th>Similarity Rank</th>
+<th>Course</th>
+<th>Top-10 Mean Similarity</th>
+<th>Breadth</th>
+<th>Coverage (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Investment Analysis and Portfolio Management</td>
+<td>0.759</td>
+<td>2</td>
+<td>56.02</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Building Information Modeling for Project Management</td>
+<td>0.758</td>
+<td>4</td>
+<td>19.56</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Advanced Portfolio Management: Securities Analysis &amp; Valuation</td>
+<td>0.743</td>
+<td>3</td>
+<td>83.95</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Analytical Tools for Consulting</td>
+<td>0.738</td>
+<td>2</td>
+<td>75.65</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Processing of Microelectronic Materials</td>
+<td>0.734</td>
+<td>3</td>
+<td>36.15</td>
+</tr>
+<tr>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6096</td>
+<td>Socrates on Trial</td>
+<td>0.433</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6097</td>
+<td>Writing the Desert</td>
+<td>0.430</td>
+<td>8</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6098</td>
+<td>Ancient Western Political Thought</td>
+<td>0.418</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6099</td>
+<td>Hinduism, Nationalism, and the Bhagavad Gita in the 20th Century</td>
+<td>0.417</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6100</td>
+<td>American Political Thought</td>
+<td>0.407</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>#### Degree-Job Anlaysis</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Similarity Rank</td>
+<td>Degree</td>
+<td>Faculty</td>
+<td>Top-10 Mean Similarity</td>
+<td>Breadth</td>
+</tr>
+<tr>
+<td>-----------------</td>
+<td>--------</td>
+<td>---------</td>
+<td>--------------------------</td>
+<td>----------</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Civil Engineering</td>
+<td>Design &amp; Engineering</td>
+<td>0.682</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Finance</td>
+<td>Business</td>
+<td>0.681</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Law</td>
+<td>Law</td>
+<td>0.681</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mechanical Engineering</td>
+<td>Design &amp; Engineering</td>
+<td>0.676</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Materials Science &amp; Engineering</td>
+<td>Design &amp; Engineering</td>
+<td>0.676</td>
+<td>3</td>
+</tr>
+<tr>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td>Political Science</td>
+<td>Arts &amp; Social Sciences</td>
+<td>0.576</td>
+<td>5</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Anthropology</td>
+<td>Arts &amp; Social Sciences</td>
+<td>0.565</td>
+<td>9</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Philosophy, Politics &amp; Economics</td>
+<td>Arts &amp; Social Sciences</td>
+<td>0.553</td>
+<td>6</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Philosophy</td>
+<td>Arts &amp; Social Sciences</td>
+<td>0.550</td>
+<td>7</td>
+</tr>
+<tr>
+<td>55</td>
+<td>English Literature</td>
+<td>Arts &amp; Social Sciences</td>
+<td>0.538</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<h3 id="breadth-similarity-trade-off">Breadth-Similarity Trade-Off</h3>
+<h3 id="coverage">Coverage</h3>
+<h3 id="query-tool">Query tool</h3>
+<h3 id="412-skills">4.1.2 Skills</h3>
+<h4 id="degree-to-career-track-skill-coverage">Degree-To-Career Track Skill Coverage</h4>
+<p>Skill coverage by degree (SSOC-aligned Soft-SCR) is highly uneven, ranging from <strong>19.3% (Law)</strong> to <strong>0.0% (Life Sciences*)</strong>. The top 3 programmes are <strong>Law (19.3%)</strong>, <strong>Psychology (9.0%)</strong>, and <strong>Accountancy (8.6%)</strong>; the bottom 3 are <strong>Life Sciences* (0.0%)</strong>, <strong>Engineering Science* (0.3%)</strong>, and <strong>English Language and Linguistics (0.3%)</strong>. Most degrees cluster at low single-digit coverage. Life Sciences and Engineering Science are flagged for low extraction coverage.</p>
+<h4 id="foundational-ratio">Foundational Ratio</h4>
+<p>[insert figure]</p>
+<p>Foundational Ratio is highest in <strong>Life Sciences (97%)</strong>, <strong>Philosophy (96%)</strong>, <strong>Sociology (87%)</strong>, and <strong>English Language and Linguistics (86%)</strong>, and lowest in <strong>Nursing (39%)</strong>, <strong>Industrial Design (44%)</strong>, <strong>Applied Business Analytics (44%)</strong>, and <strong>Operations and Supply Chain Management (45%)</strong>.</p>
+<h4 id="data-science-and-analytics-deep-dive">Data Science and Analytics Deep-Dive</h4>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th style="text-align: right;">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DSA course skills (unique)</td>
+<td style="text-align: right;">342</td>
+</tr>
+<tr>
+<td>Demanded job skills (unique)</td>
+<td style="text-align: right;">1,192</td>
+</tr>
+<tr>
+<td>Exact match</td>
+<td style="text-align: right;">9 (0.8%)</td>
+</tr>
+<tr>
+<td>Semantic match (<code>θ = 0.72</code>)</td>
+<td style="text-align: right;">6 (0.5%)</td>
+</tr>
+<tr>
+<td>Genuine gap</td>
+<td style="text-align: right;">1,177 (98.7%)</td>
+</tr>
+<tr>
+<td>Soft-SCR</td>
+<td style="text-align: right;">1.2%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Top 5 demanded skills:</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Job skill</th>
+<th style="text-align: right;">Postings</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td>python</td>
+<td style="text-align: right;">91</td>
+<td>EXACT</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td>information technology</td>
+<td style="text-align: right;">87</td>
+<td>NON-EXACT</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td>troubleshooting</td>
+<td style="text-align: right;">84</td>
+<td>NON-EXACT</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td>sql</td>
+<td style="text-align: right;">74</td>
+<td>NON-EXACT</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td>software development</td>
+<td style="text-align: right;">74</td>
+<td>NON-EXACT</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Top 5 DSA skills with semantic matches:</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>DSA skill</th>
+<th style="text-align: right;">Postings</th>
+<th>Matched job skill</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td>assessing the precision of estimates</td>
+<td style="text-align: right;">3</td>
+<td>estimates</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td>scalar valued functions</td>
+<td style="text-align: right;">2</td>
+<td>scala</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td>finance</td>
+<td style="text-align: right;">1</td>
+<td>asset finance</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td>big data analysis</td>
+<td style="text-align: right;">1</td>
+<td>large scale data analysis</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td>basic learning systems</td>
+<td style="text-align: right;">1</td>
+<td>learning management systems</td>
+</tr>
+</tbody>
+</table>
+<h4 id="pgi-index">PGI Index</h4>
+<p>The <strong>Priority Gap Index (PGI)</strong> scores each degree as:</p>
+<p>$$\text{PGI} = \text{Job Demand Weight} \times \text{Misalignment Rate}$$</p>
+<p>where Job Demand Weight is the degree's mapped job count normalised by the highest-demand degree (0–1), and Misalignment Rate = 1 − Alignment Score / 100. The Alignment Score is a 50-50 blend of semantic similarity and skill-space coverage (Soft-SCR) percentile ranks.</p>
+<p><strong>Engineering Science</strong> ranks highest, followed by <strong>Industrial &amp; Systems Engineering</strong>, <strong>Electrical Engineering</strong>, and <strong>English Language and Linguistics</strong>. The remaining top 15 are predominantly STEM and engineering disciplines. <strong>Data Science and Analytics</strong> and <strong>Statistics</strong> rank lower, reflecting comparatively better alignment.</p>
+<h3 id="42-discussion">4.2 Discussion</h3>
+<h3 id="43-recommendations">4.3 Recommendations</h3></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js"></script>
+        <script src="search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.6.1
+Build Date UTC : 2026-04-15 18:54:29.484001+00:00
+-->
