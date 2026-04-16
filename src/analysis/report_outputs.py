@@ -373,6 +373,57 @@ def plot_similarity_distribution(metadata):
     plt.close(fig)
     print(f"    → {FIG_OUT / 'similarity_distribution.png'}")
 
+# ──────────────────────────────────────────────
+# Depth-breadth correlation (Spearman)
+# ──────────────────────────────────────────────
+def compute_depth_breadth_correlation(module_df, degree_df, faculty_df,
+                                      degree_faculty_df):
+    """
+    Spearman rank correlation between depth (top_k_mean_sim) and breadth
+    (n_ssoc_groups). Negative ρ = generalist-specialist trade-off.
+    Prints + returns a dict that can be merged into analysis_metadata.json.
+    """
+    from scipy.stats import spearmanr
+
+    print("\n  Depth-breadth correlation (Spearman ρ):")
+    print(f"  {'Level':<24s} {'n':>5s}   {'ρ':>8s}   {'p-value':>10s}")
+    print(f"  {'-'*24} {'-'*5}   {'-'*8}   {'-'*10}")
+
+    results = {}
+
+    def _row(label, x, y):
+        rho, p = spearmanr(x, y)
+        results[label] = {
+            "n": int(len(x)),
+            "spearman_rho": round(float(rho), 4),
+            "p_value": round(float(p), 6),
+        }
+        print(f"  {label:<24s} {len(x):>5d}   {rho:>+8.4f}   {p:>10.4g}")
+
+    if module_df is not None:
+        _row("module_level",
+             module_df["top_k_mean_sim"], module_df["breadth_n_ssoc_groups"])
+    if degree_df is not None:
+        _row("degree_level",
+             degree_df["top_k_mean_sim"], degree_df["breadth_n_ssoc_groups"])
+    if faculty_df is not None:
+        _row("faculty_level_module",
+             faculty_df["mean_top_k_sim"], faculty_df["mean_breadth"])
+    if degree_faculty_df is not None:
+        _row("faculty_level_degree",
+             degree_faculty_df["mean_top_k_sim"], degree_faculty_df["mean_breadth"])
+
+    # Persist to analysis_metadata.json so the number is traceable
+    meta_path = CSV_IN / "analysis_metadata.json"
+    if meta_path.exists():
+        with open(meta_path) as f:
+            meta = json.load(f)
+        meta["depth_breadth_correlation"] = results
+        with open(meta_path, "w") as f:
+            json.dump(meta, f, indent=2)
+        print(f"  → Written to {meta_path.name}")
+
+    return results
 
 # ══════════════════════════════════════════════
 # MAIN
@@ -403,6 +454,25 @@ def main():
         targeted_df = pd.read_csv(targeted_path)
         print(f"  Loaded targeted_ssoc_alignment.csv: {len(targeted_df)} degrees")
 
+    # Load additional summaries for correlation analysis
+    module_df = None
+    module_path = CSV_IN / "module_summary_deduped.csv"
+    if module_path.exists():
+        module_df = pd.read_csv(module_path)
+        print(f"  Loaded module_summary_deduped.csv: {len(module_df)} modules")
+
+    faculty_df = None
+    faculty_path = CSV_IN / "faculty_summary.csv"
+    if faculty_path.exists():
+        faculty_df = pd.read_csv(faculty_path)
+        print(f"  Loaded faculty_summary.csv: {len(faculty_df)} faculties")
+
+    degree_faculty_df = None
+    dfac_path = CSV_IN / "degree_faculty_summary.csv"
+    if dfac_path.exists():
+        degree_faculty_df = pd.read_csv(dfac_path)
+        print(f"  Loaded degree_faculty_summary.csv: {len(degree_faculty_df)} faculties")
+
     metadata = None
     if metadata_path.exists():
         with open(metadata_path) as f:
@@ -429,6 +499,9 @@ def main():
         plot_similarity_distribution(metadata)
     else:
         print("  Similarity distribution: metadata not found — skipping.")
+    
+    # 6. Depth-breadth correlation
+    compute_depth_breadth_correlation(module_df, degree_df, faculty_df, degree_faculty_df)
 
     print(f"\n{'=' * 70}")
     print(f"DONE — all outputs in {FIG_OUT}")

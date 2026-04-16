@@ -54,5 +54,27 @@
         "p_value": 0.0
       }
     }
+  },
+  "depth_breadth_correlation": {
+    "module_level": {
+      "n": 6099,
+      "spearman_rho": -0.3622,
+      "p_value": 0.0
+    },
+    "degree_level": {
+      "n": 55,
+      "spearman_rho": -0.664,
+      "p_value": 0.0
+    },
+    "faculty_level_module": {
+      "n": 21,
+      "spearman_rho": -0.6039,
+      "p_value": 0.003744
+    },
+    "faculty_level_degree": {
+      "n": 7,
+      "spearman_rho": -0.7857,
+      "p_value": 0.036238
+    }
   }
 }
