@@ -12,7 +12,7 @@ title: DSA4264 Technical Report
 
 ## 1. Context
 
-Technological advancement has reshaped labour market demands, with employers increasingly prioritising job-relevant skills over traditional qualifications. In Singapore, around 22.5% of workers report a mismatch between their skills and job requirements, while approximately 24% of employers report skills gaps ([Heng, 2026])(https://www.businesstimes.com.sg/singapore/more-workers-singapore-opt-jobs-which-they-are-overqualified-mom-ntuc-studies).
+Technological advancement has reshaped labour market demands, with employers increasingly prioritising job-relevant skills over traditional qualifications. In Singapore, around 22.5% of workers report a mismatch between their skills and job requirements, while approximately 24% of employers report skills gaps [Heng, 2026](https://www.businesstimes.com.sg/singapore/more-workers-singapore-opt-jobs-which-they-are-overqualified-mom-ntuc-studies).
 
 Within the Ministry of Education (MOE), university curricula are reviewed through consultations with industry stakeholders. However, these processes are subject to time lags in a rapidly evolving economy. Reliance on aggregate indicators such as employment rates also provides limited granularity, making it difficult to identify specific gaps between course content and job requirements.
 

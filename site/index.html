@@ -53,6 +53,11 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
         <ul class="nav flex-column">
             
+            <li class="nav-item" data-bs-level="2"><a href="#title-dsa4264-technical-report" class="nav-link">title: DSA4264 Technical Report</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
             <li class="nav-item" data-bs-level="1"><a href="#dsa4264-technical-report" class="nav-link">DSA4264 Technical Report</a>
               <ul class="nav flex-column">
             <li class="nav-item" data-bs-level="2"><a href="#1-context" class="nav-link">1. Context</a>
@@ -71,6 +76,14 @@
               <ul class="nav flex-column">
               </ul>
             </li>
+            <li class="nav-item" data-bs-level="2"><a href="#42-discussion" class="nav-link">4.2 Discussion</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#43-recommendations" class="nav-link">4.3 Recommendations</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -79,81 +92,40 @@
                     <div class="col-md-9" role="main">
 
 <hr />
-<p>title: DSA4264 Technical Report
-tags: [onboarding]</p>
-<hr />
+<h2 id="title-dsa4264-technical-report">title: DSA4264 Technical Report</h2>
 <h1 id="dsa4264-technical-report">DSA4264 Technical Report</h1>
-<p><img alt="image" src="https://hackmd.io/_uploads/H1ANDIpn-l.png" /></p>
 <h2 id="1-context">1. Context</h2>
-<p>Rapid advancements in technology, particularly in artificial intelligence and digitalisation, have reshaped labour market demands. Employers increasingly prioritise job-relevant skills over traditional academic qualifications, placing pressure on higher education institutions to remain aligned with industry needs. In Singapore, this is evident with around 22.5% of workers reporting a mismatch between their skills and job requirements, while approximately 24% of employers report skills gaps in their workforce (Heng, 2026).</p>
-<p>Within the Ministry of Education (MOE), university curricula are reviewed through consultations with industry stakeholders. However, these processes are subject to time lags due to the rapidly evolving economy. Reliance on aggregate indicators such as employment rates also provides limited granularity, making it difficult to identify specific gaps between course content and job requirements. As a result, curriculum updates may struggle to keep pace with fast-changing industries.</p>
-<p>This project explores how data-driven methods can complement existing approaches by providing a more scalable and systematic way to assess course–job alignment, enabling more timely and granular insights into the relationship between education and labour demand.</p>
+<p>Technological advancement has reshaped labour market demands, with employers increasingly prioritising job-relevant skills over traditional qualifications. In Singapore, around 22.5% of workers report a mismatch between their skills and job requirements, while approximately 24% of employers report skills gaps ([Heng, 2026])(https://www.businesstimes.com.sg/singapore/more-workers-singapore-opt-jobs-which-they-are-overqualified-mom-ntuc-studies).</p>
+<p>Within the Ministry of Education (MOE), university curricula are reviewed through consultations with industry stakeholders. However, these processes are subject to time lags in a rapidly evolving economy. Reliance on aggregate indicators such as employment rates also provides limited granularity, making it difficult to identify specific gaps between course content and job requirements.</p>
+<p>As a result, curriculum updates may struggle to keep pace with changing industry needs. This project explores how data-driven methods can complement existing approaches by providing a scalable and systematic way to assess course–job alignment, enabling more timely and granular insights into the relationship between education and labour demand.</p>
 <h2 id="2-scope">2. Scope</h2>
 <h3 id="21-problem">2.1 Problem</h3>
-<p>MOE currently lacks a scalable and systematic way to evaluate how well university courses prepare students for the workforce. Existing approaches, such as the Graduate Employment Survey (GES) and periodic industry conferences, have several limitations.</p>
-<p>First, they are largely reactive, reflecting outcomes months or years after graduation and offering limited forward-looking insights. Second, they operate at a high level of aggregation, lacking the granularity needed to capture variation across courses, disciplines, and job roles. As a result, they do not provide a systematic understanding of how course content aligns with labour market demands, limiting policymakers’ ability to identify specific areas of misalignment or implement targeted curriculum improvements.</p>
-<p>This creates a significant information gap for MOE, limiting its ability to assess curriculum relevance and respond to evolving skill demands. Given that Singapore produces over 16,000 graduates annually, even small mismatches can scale into substantial workforce inefficiencies.</p>
-<p>The impact extends across stakeholders. Graduates face longer job searches, while employers incur additional training costs of approximately SGD 500 to SGD 1,000 per employee annually (HRSINGAPORE, 2024). At the national level, misalignment reduces the efficiency of public education spending, which is approximately 2.2% of GDP (NCEE). 
-Data science provides a suitable approach to address these gaps by enabling scalable analysis of job postings and course descriptions. This allows for systematic identification of misalignment and emerging demand patterns that are difficult to capture through traditional methods.</p>
+<p>MOE currently lacks a scalable and systematic way to evaluate how well university courses prepare students for the workforce. Existing approaches, such as the Graduate Employment Survey (GES) and industry consultations, have key limitations.</p>
+<p>First, they are reactive, reflecting outcomes months or years after graduation and offering limited forward-looking insight. Second, they operate at a high level of aggregation, masking variation across courses, disciplines, and job roles. As a result, they do not provide a detailed understanding of how course content aligns with labour market demand, limiting targeted curriculum improvements.</p>
+<p>This creates an information gap in assessing curriculum relevance. Given that Singapore produces over 16,000 graduates annually, even small mismatches can scale into substantial inefficiencies.</p>
+<p>The impact spans stakeholders: graduates face longer job searches, while employers incur additional training costs (approximately SGD 500–1,000 per employee annually). At the national level, misalignment reduces the efficiency of public education spending (~2.2% of GDP).</p>
+<p>Natual Langauge Processing (NLP) offers a scalable approach by enabling systematic analysis of job postings and course descriptions, allowing identification of misalignment and emerging demand patterns beyond traditional methods.</p>
 <h3 id="22-success-criteria">2.2 Success Criteria</h3>
-<p>From a business perspective, the goal is to provide a robust and interpretable measure of alignment between university courses and labour market demands, at both the skill and content level. A successful outcome would enable MOE to systematically identify areas of misalignment across programmes, including underrepresented skills and gaps in course content.</p>
-<p>These insights support evidence-based, forward-looking policy decisions in curriculum design and workforce planning, and guide the prioritisation of curriculum updates and resource allocation.</p>
-<p>From an operational perspective, the system should produce reliable, consistent, and interpretable alignment metrics, including achieving ≥85% precision in skill extraction and alignment when evaluated against manually annotated samples.</p>
-<p>In addition, the system should ensure standardised representation of skills and course content, reducing ambiguity and improving consistency and comparability of results across different courses and job categories.
-Success is further demonstrated if the alignment results align with external benchmarks, such as expert evaluation or relevant employment indicators, indicating that the system produces credible and policy-relevant insights.</p>
+<p>The goal is to produce an interpretable, ranked measure of degree–job alignment that MOE planners can use to prioritise curriculum review — moving from reactive aggregate indicators toward proactive, course-level diagnostics using NLP for systematic, repeatable analysis. Success is defined by the system’s ability to generate validated, degree-level alignment metrics with interpretable skill-gap breakdowns that support curriculum triage and reflect genuine curriculum–market misalignment rather than measurement artefacts.</p>
+<p>Validation targets:</p>
+<p>Skill extraction F1 &gt; 0.50 against manually annotated course descriptions
+Semantic similarity correlates with human judgement (Spearman ρ &gt; 0.60)
+Coverage patterns are statistically non-random across job categories</p>
+<p><strong>Validation targets</strong>:
+- Skill extraction F1 &gt; 0.50 against manually annotated course descriptions<br />
+- Semantic similarity correlates with human judgement (Spearman ρ &gt; 0.60)<br />
+- Coverage patterns are statistically non-random across job categories  </p>
 <h3 id="23-assumptions">2.3 Assumptions</h3>
-<h4 id="data-assumptions">Data Assumptions</h4>
-<p>Job advertisements are assumed to be a reasonable proxy for labour market demand, although they may contain generic or inflated requirements. Similarly, course descriptions are assumed to reflect the skills and knowledge acquired by students, despite being high-level and not fully capturing depth or variation.
-The dataset is also assumed to be representative of broader labour market trends, despite being limited in time scope. If the data does not reflect longer-term patterns, the resulting insights may be biased or incomplete.</p>
-<h4 id="technical-assumptions">Technical assumptions</h4>
-<p>The approach assumes that semantic similarity in embedding space provides a meaningful proxy for alignment between job requirements and course content. In particular, it assumes that embeddings from both domains are directly comparable within the same vector space, despite differences in style, abstraction, and intent.
-It also assumes that aggregating similarity scores across skills or text components yields a valid overall measure of alignment, even though this may simplify complex relationships such as differences in depth, importance, or contextual relevance.</p>
-<h4 id="application-assumptions">Application assumptions</h4>
-<p>The project assumes that policymakers and educational institutions have the capacity to act on the insights generated. In practice, institutional and resource constraints may limit the speed and extent of implementation.</p>
+<p>This analysis rests on three key assumptions. First, job postings from MyCareersFuture are treated as a reasonable proxy for labour market demand; if postings systematically misrepresent hiring needs or omit required skills, alignment estimates may be biased. Second, course descriptions are assumed to reflect the skills students acquire; however, as these descriptions are often high-level summaries, they may understate the depth or breadth of actual curriculum content. Third, semantic similarity in embedding space is assumed to meaningfully capture course–job alignment, with academic and industry text comparable within a shared representation space. If these assumptions do not hold, the resulting alignment metrics should be interpreted with caution.</p>
 <h2 id="3-methodology">3. Methodology</h2>
 <h3 id="31-technical-assumptions">3.1 Technical Assumptions</h3>
 <h4 id="definitions">Definitions</h4>
 <p>This project examines the relationship between NUS undergraduate courses and “good” entry-level jobs using two complementary analyses: semantic similarity and skills overlap. Skills are further categorised into applied and theoretical skills.</p>
-<table>
-<thead>
-<tr>
-<th>Term</th>
-<th>Definition</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Entry-level job</td>
-<td>Job postings requiring ≤2 years of experience exhibit a low proportion of senior responsibilities (~10–20%), approximating roles accessible to fresh NUS graduates<img alt="image" src="https://hackmd.io/_uploads/Hk4OU86hbg.png" /></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Good job</td>
-<td>Job postings with ≥ S$3,500 average monthly salary, aligned with the lowest 25th percentile amongst NUS courses in Graduate Employment Survey outcomes (MOE, 2025). Chosen as a reasonable proxy for desirable graduate employment.</td>
-</tr>
-<tr>
-<td>Skill</td>
-<td>Discrete capability extracted from course or job text for consistent cross-domain matching.</td>
-</tr>
-<tr>
-<td>Applied skills</td>
-<td>Action-oriented skills (e.g., implement, design, analyse) representing job-executable competencies.</td>
-</tr>
-<tr>
-<td>Theoretical skills</td>
-<td>Conceptual skills (e.g., understanding, introduces, covers) representing foundational knowledge.</td>
-</tr>
-</tbody>
-</table>
+<p><img alt="image" src="https://hackmd.io/_uploads/Sy2_MfC3-l.png" /></p>
+<p>*Job postings requiring ≤2 years of experience exhibit a low proportion of senior responsibilities (~10–20%), approximating roles accessible to fresh NUS graduates<img alt="image" src="https://hackmd.io/_uploads/Hk4OU86hbg.png" /></p>
 <h4 id="feature-availability">Feature Availability</h4>
-<p>Course data was sourced from the NUSMods API (AY2025–2026), while job postings were obtained from MyCareersFuture (25–31 January 2026). While largely reliable, employer-provided skills_list may be inconsistent or incomplete due to self-reporting. Unfortunately, useful information such as course syllabus were not available.
-| Dataset | Raw Features |
-|--------|----------|
-| <strong>Courses (NUSMods)</strong> | course code, title, description, description_clean, department, faculty, course_credit |
-| <strong>Jobs (MyCareersFuture)</strong> | job_id, title, raw_description, skills_list, minimum_years_experience, ssoc_code, category, salary_min, salary_max, salary_avg, posting_date |</p>
+<p>Course data was sourced from the NUSMods API (AY2025–2026), while job postings were obtained from MyCareersFuture (25–31 January 2026). Of note, employer-provided skills_list may be incomplete due to self-reporting. Unfortunately, course syllabus information was not available.
+<img alt="image" src="https://hackmd.io/_uploads/SktTHMR2bl.png" /></p>
 <h4 id="hypothesis">Hypothesis</h4>
 <p>As an exploratory NLP study, no formal statistical hypotheses are tested. The analysis is guided by two assumptions:
 (1) semantic similarity and skills overlap capture complementary dimensions of alignment (topical relevance vs competency coverage), and
@@ -166,481 +138,100 @@ It also assumes that aggregating similarity scores across skills or text compone
 <h4 id="cleaning">Cleaning</h4>
 <p>Course data required minimal preprocessing due to structured API formatting. Job postings required extensive cleaning, including HTML removal, standardisation to plain text, and filtering of non-informative content such as boilerplate equal-opportunity statements, URLs, emails, emojis, and non-Latin text. Job titles and descriptions were then concatenated into a unified text field.</p>
 <h4 id="filtering">Filtering</h4>
-<p>Only undergraduate courses at levels 1000–4000 were retained (NUS Registrar, 2026), with courses lacking meaningful descriptions or classified as internships removed, resulting in 8,615 courses.</p>
-<p><img alt="Course level" src="outputs/filter_justification/Course level.jpeg" /></p>
+<p>Only undergraduate courses at levels 1000–4000 were retained, with courses lacking meaningful descriptions or classified as internships removed, resulting in 8,615 courses.</p>
 <p>Job postings were filtered to ≤2 years of experience and ≥S$3,500 average monthly salary, consistent with the project’s definitions of entry-level and “good” jobs. After filtering, 7,101 postings (31.3% of the dataset) were retained.</p>
 <p><img alt="image" src="https://hackmd.io/_uploads/S1bnULp2bl.png" /></p>
 <p><img alt="image" src="https://hackmd.io/_uploads/rJ8pULph-g.png" /></p>
 <h3 id="33-experimental-design">3.3 Experimental Design</h3>
 <h3 id="331-semantic-similarity">3.3.1 Semantic Similarity</h3>
 <h3 id="embedding-and-validation">Embedding and Validation</h3>
-<p>We used a semantic embedding approach to measure alignment between NUS courses and job postings using BGE-large (BAAI/bge-large-en-v1.5). This model was selected for its strong performance on semantic retrieval benchmarks (e.g. MTEB) and its ability to<a href="https://"></a> incorporate instruction prefixes, which is useful for aligning academic content with job descriptions (Abimbola et al., 2026; Xiao et al., 2023). </p>
+<p>We used a semantic embedding approach to measure alignment between NUS courses and job postings using BGE-large (BAAI/bge-large-en-v1.5). This model was selected for its strong performance on semantic retrieval benchmarks (e.g. MTEB) and its ability to incorporate instruction prefixes, which is useful for aligning academic content with job descriptions.</p>
 <p>To determine the most effective text representation strategy, we evaluated four embedding variants: (V1) full-text embedding, (V2) sentence-level embedding with noise filtering based on cosine similarity to the document centroid, (V3) sentence mean pooling, and (V4) sentence-weighted pooling using centroid similarity-based weights. These variants were designed to test whether sentence-level decomposition improves robustness over full-document embeddings.</p>
-<p>A validation set was manually constructed from 30 jobs and 18 courses across six occupational categories (e.g. software engineering, accounting, legal), yielding 540 labelled pairs. Category membership was subjectively assigned based on human judgement of course–job relevance within each domain, and used as proxy ground truth.
-Performance was evaluated using three metrics:</p>
-<p>Mean Reciprocal Rank (MRR): measures how highly the first same-category course is ranked for each job (higher = better ranking quality).</p>
-<p>Separation gap: difference in mean cosine similarity between same-category and cross-category pairs, measuring class discriminability.</p>
-<p>Misalignment rate: proportion of jobs where the top-ranked course belongs to a different category, capturing top-1 classification error.</p>
+<p>A validation set was manually constructed from 30 jobs and 18 courses across six occupational categories (e.g. software engineering, accounting, legal), yielding 540 labelled pairs. Category membership was subjectively assigned based on human judgement of course–job relevance within each domain, and used as proxy ground truth.</p>
+<p>Performance was evaluated using three metrics:
+<img alt="image" src="https://hackmd.io/_uploads/BktiHMRhWg.png" /></p>
 <p>Results showed that the full-text embedding approach (V1) consistently outperformed sentence-based methods, achieving the highest MRR and strongest class separation. As a result, V1 was selected for downstream analysis.</p>
-<table>
-<thead>
-<tr>
-<th>Variant</th>
-<th>Method</th>
-<th>MRR ↑</th>
-<th>Separation Gap ↑</th>
-<th>Misalignment ↓</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>V1 (Baseline)</td>
-<td>Full-text embedding</td>
-<td><strong>0.9289</strong></td>
-<td><strong>0.1056</strong></td>
-<td><strong>0.0222</strong></td>
-</tr>
-<tr>
-<td>V2</td>
-<td>Sentence + threshold</td>
-<td>0.8456</td>
-<td>0.0735</td>
-<td>0.0622</td>
-</tr>
-<tr>
-<td>V3</td>
-<td>Sentence mean-pool</td>
-<td>0.8253</td>
-<td>0.0688</td>
-<td>0.0844</td>
-</tr>
-<tr>
-<td>V4</td>
-<td>Sentence weighted</td>
-<td>0.8281</td>
-<td>0.0700</td>
-<td>0.0844</td>
-</tr>
-</tbody>
-</table>
+<p><img alt="image" src="https://hackmd.io/_uploads/Bk1rzfAn-e.png" /></p>
 <p>To further validate embedding quality, a blinded human evaluation was conducted on 48 course–job pairs spanning high-, mid-, and low-similarity cases. Human relevance scores (0–2 scale) were moderately to strongly correlated with cosine similarity scores (Spearman ρ = 0.69, p &lt; 0.001), indicating that embedding similarity reflects meaningful semantic alignment.</p>
 <p>Embeddings were computed using Google Colab (T4 GPU). All job postings with ≤2 years of experience were embedded prior to salary filtering to preserve a richer semantic space; the “good jobs” constraint (≥S$3,500/month) was applied later by masking the similarity matrix during analysis.</p>
 <h3 id="metrics">Metrics</h3>
 <p>Based on the computed similarity scores, the following metrics were explored for analysis.</p>
-<table>
-<thead>
-<tr>
-<th>Metric</th>
-<th>Definition</th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Top-10 mean similarity</strong></td>
-<td>Average cosine similarity between each course and its 10 most similar jobs.</td>
-<td>Captures strongest course–job matches. Higher values indicate stronger alignment.</td>
-</tr>
-<tr>
-<td><strong>Breadth</strong></td>
-<td>Number of distinct occupational groups in the top-10 job matches.</td>
-<td>Measures diversity of job alignment. Higher values indicate broader applicability.</td>
-</tr>
-<tr>
-<td><strong>Coverage</strong></td>
-<td>Percentage of jobs above a similarity threshold (mean + 1 standard deviation).</td>
-<td>Measures overall market reach. Higher values indicate wider alignment.</td>
-</tr>
-</tbody>
-</table>
+<p><img alt="image" src="https://hackmd.io/_uploads/HyAnMGC3Zg.png" /></p>
 <h3 id="332-skill-space-alignment">3.3.2 Skill-Space Alignment</h3>
 <h4 id="skill-extraction-and-validation">Skill Extraction and Validation</h4>
-<p>Two extraction methods were evaluated: SkillNer, a rule-based NER tool trained on job postings, and LLM few-shot extraction. Fine-tuned NER was not considered due to limited labelled data (39 courses, ~160 instances), which would likely lead to overfitting. Embeddings were not evaluated as an extraction method, as they operate on pre-identified spans rather than extracting skills from raw text.</p>
+<p>Two extraction methods were evaluated: SkillNer, a rule-based NER tool trained on job postings, and LLM few-shot extraction. Fine-tuned NER was excluded due to insufficient labelled data (~160 instances), and embeddings were excluded as they require pre-identified spans rather than extracting skills from raw text.</p>
 <p>To validate both approaches, 39 course descriptions were sampled across 8 disciplinary clusters and 4 course levels to ensure coverage of varying content types. Skills were manually annotated for each description to construct a ground truth dataset. Extracted skills were matched against ground truth using using a two-stage matching approach, consisting of exact matching followed by partial (substring-based) matching to account for minor variations in phrasing. Precision, recall, and F1-score were then computed. </p>
 <p>The LLM extractor achieved F1 = 0.565, outperforming SkillNer which underperformed on academic-style terminology.</p>
 <p><img alt="image" src="https://hackmd.io/_uploads/ryykPUp3Wl.png" /></p>
 <p>The LLM approach was therefore selected as the production extractor, with its F1 score representing a known ceiling on extraction reliability and should be considered when interpreting coverage results.</p>
-<h4 id="algorithms">Algorithms</h4>
-<p>Metric development followed an iterative process: a baseline was established, its limitations diagnosed via vocabulary mismatch analysis, and improvements introduced to address these gaps.</p>
-<p>A baseline SCR using exact string matching was established as a reproducible lower bound (macro SCR = 37.6%). Analysis revealed that 55.2% of initially uncovered job skills are near-misses — semantically equivalent skills described differently across academic and industry text — indicating that exact matching understates true coverage.</p>
-<p>This motivated the transition to semantic matching. The primary metric, Soft-IDF-SCR, incorporates embedding-based similarity (Reimers &amp; Gurevych, 2019) and IDF weighting (Sparck Jones, 1972), raising macro coverage to 69.3% — a 31.7 percentage point improvement. [include fig_baseline_vs_improved.png]</p>
-<p>A null model permutation test (B=1,000 iterations) further validated that NUS's coverage pattern is statistically non-random, with 41 out of 43 job categories exceeding the null distribution (z = 14.92, p ≈ 0. [include fig_actual_vs_null.png]</p>
-<h4 id="evaluation">Evaluation</h4>
-<p>Soft-IDF-SCR is selected as the primary metric. Plain SCR was rejected as it treats a skill in 5 postings identically to one in 5,000, misrepresenting true market priorities. DW-SCR partially addresses this but overweights generic skills (e.g., “communication”, “teamwork”), masking domain-specific gaps. Pure cosine similarity was rejected as it produces a non-interpretable scalar score without identifying specific skill gaps. </p>
-<p>Soft-IDF-SCR addresses all three: demand-weighting ensures proportional contribution; IDF amplifies domain-specific signals; semantic matching recovers vocabulary mismatches, producing interpretable outputs aligned with MOE’s objective of identifying high-demand skills that NUS curricula fail to cover.</p>
-<h4 id="hyperparameters">Hyperparameters</h4>
-<p>The cosine similarity threshold θ was calibrated empirically by sweeping values from 0.60 to 0.95 against 357 human-labelled course-job skill pairs, with θ = 0.67 maximising F1 = 0.715. [include fig_calibration_curve.png] A slightly conservative value of θ = 0.72 was adopted to reduce false positives at the cost of marginally lower recall, prioritising precision given policy implications. IDF log-smoothing (+1) was applied as regularisation, preventing ubiquitous skills from being zeroed out. Category imbalance is addressed by IDF weighting, normalising the signal across job categories. Bootstrap 95% confidence intervals (B=1,000) were computed per category to quantify uncertainty in coverage estimates, with the robustness sweep confirming category rankings remain stable across threshold variants. [include ​fig_threshold_sweep.png]</p>
+<h4 id="metric-development">Metric Development</h4>
+<p>Baseline SCR (exact string matching) established a reproducible lower bound at macro SCR = 37.6%. To understand why coverage was low, vocabulary mismatch analysis was conducted using paraphrase-MiniLM-L6-v2 - chosen for its optimisation on paraphrase detection and short-to-medium phrase similarity — which revealed that 55.2% of uncovered job skills were near-misses — semantically equivalent skills described differently across academic and industry text. This confirmed the gap was a measurement artefact from vocabulary mismatch, not a genuine curricular absence.</p>
+<p>This motivated Soft-SCR, which assigns exact matches a score of 1.0 and semantic matches a continuous cosine similarity score, retaining only matches above θ = 0.72. Macro coverage across job categories rose to 69.3%, confirming that a large share of the baseline gap was recoverable through semantic matching.</p>
+<p>A null model permutation test (B=1,000) confirmed the per-category coverage pattern is statistically non-random: 41 of 43 job categories exceed the null distribution (z = 14.92, p &lt; 0.001). Validation is conducted at the job category level as this is the unit at which Soft-SCR is computed; degree-level results in Section 4.1.2 apply this metric through an additional SSOC-to-degree mapping. </p>
+<h4 id="validation">Validation</h4>
+<p>The cosine threshold θ was calibrated by sweeping 0.60–0.95 against 357 human-labelled course-job skill pairs. θ = 0.72 was selected as the equal error rate point — where precision equals recall — reflecting the assumption that falsely claiming coverage and missing genuine coverage are equally costly. The threshold sweep confirms the choice: θ = 0.72 sits comfortably in the middle rather than near either extreme. </p>
+<p><img alt="Screenshot 2026-04-16 at 10.51.45 AM" src="https://hackmd.io/_uploads/rkeAATanbg.png" /></p>
+<p>Coverage depth analysis found an average of 7.58 modules per covered skill, meaning covered skills are genuinely embedded across the curriculum rather than incidentally mentioned in a single module.</p>
+<p>Bootstrap 95% CIs (B=1,000) show per-category scores carry ±4.7% uncertainty on average. Category rankings are stable, but individual scores should be treated as approximate ranges rather than point estimates when reporting to MOE. </p>
 <h3 id="metrics_1">Metrics</h3>
-<h3 id="metrics_2">Metrics</h3>
-<table>
-<thead>
-<tr>
-<th>Metric</th>
-<th>Definition</th>
-<th>Business Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Baseline SCR</strong></td>
-<td>Fraction of job-demanded skills with an exact string match to at least one course skill.</td>
-<td>Strict lower bound on alignment; understates true coverage due to vocabulary mismatch.</td>
-</tr>
-<tr>
-<td><strong>Soft-SCR</strong></td>
-<td>Fraction of job-demanded skills with a semantic match (cosine similarity ≥ θ) to at least one course skill.</td>
-<td>Better reflects alignment by recovering vocabulary mismatches.</td>
-</tr>
-<tr>
-<td><strong>Soft-IDF-SCR</strong></td>
-<td>Soft-SCR where each job skill is weighted by IDF — specialised skills count more than generic ones.</td>
-<td>Highlights domain-specific unmet demand; penalises coverage of only generic skills.</td>
-</tr>
-<tr>
-<td><strong>Foundational Ratio</strong></td>
-<td>Fraction of a degree's course skills labelled theoretical rather than applied.</td>
-<td>Indicates how practice-ready a programme's curriculum is.</td>
-</tr>
-<tr>
-<td><strong>PGI (Priority Gap Index)</strong></td>
-<td>A degree's relative job demand (job count / max job count across degrees) multiplied by its misalignment rate (1 − alignment score), where alignment score is the equal-weighted average of its semantic similarity and Soft-SCR percentile ranks.</td>
-<td>Prioritises degrees for curriculum review by jointly capturing employer demand and misalignment.</td>
-</tr>
-</tbody>
-</table>
+<p>Based on the validated Soft-SCR metric, three analytical lenses were applied to assess curriculum-labour market alignment.</p>
+<p><img alt="image" src="https://hackmd.io/_uploads/BkeAGfA3bl.png" /></p>
+<hr />
 <h2 id="4-findings">4. Findings</h2>
 <h3 id="41-results">4.1 Results</h3>
 <p>This section presents key findings most relevant to MOE, focusing on experimental results, their business implications, and potential for production deployment.</p>
 <h3 id="411-semantic-similarity">4.1.1 Semantic Similarity</h3>
 <h3 id="course-and-degree-level-analysis">Course and Degree-level Analysis</h3>
-<p>Top-10 Mean Similarity is computed differently at course and degree levels. At the course level, each module is directly compared to all jobs using cosine similarity, and the final score is the mean of the top-10 most similar jobs. At the degree level, each degree is represented as a set of modules, and for each job the similarity is computed using the top-10 most relevant modules, before averaging across the top-10 jobs. This provides a consistent but more granular evaluation framework across levels of aggregation.</p>
-<p>Across both levels, results are as expected: professional, analytical, and quantitatively oriented programmes dominate the top ranks, while humanities and social science subjects appear in the lower ranks under the entry-level job filter. Notably, breadth tends to exhibit an inverse relationship with similarity, </p>
-<h4 id="course-job-anlaysis">Course-Job Anlaysis</h4>
-<table>
-<thead>
-<tr>
-<th>Similarity Rank</th>
-<th>Course</th>
-<th>Top-10 Mean Similarity</th>
-<th>Breadth</th>
-<th>Coverage (%)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Investment Analysis and Portfolio Management</td>
-<td>0.759</td>
-<td>2</td>
-<td>56.02</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Building Information Modeling for Project Management</td>
-<td>0.758</td>
-<td>4</td>
-<td>19.56</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Advanced Portfolio Management: Securities Analysis &amp; Valuation</td>
-<td>0.743</td>
-<td>3</td>
-<td>83.95</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Analytical Tools for Consulting</td>
-<td>0.738</td>
-<td>2</td>
-<td>75.65</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Processing of Microelectronic Materials</td>
-<td>0.734</td>
-<td>3</td>
-<td>36.15</td>
-</tr>
-<tr>
-<td>...</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6096</td>
-<td>Socrates on Trial</td>
-<td>0.433</td>
-<td>7</td>
-<td>0</td>
-</tr>
-<tr>
-<td>6097</td>
-<td>Writing the Desert</td>
-<td>0.430</td>
-<td>8</td>
-<td>0</td>
-</tr>
-<tr>
-<td>6098</td>
-<td>Ancient Western Political Thought</td>
-<td>0.418</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td>6099</td>
-<td>Hinduism, Nationalism, and the Bhagavad Gita in the 20th Century</td>
-<td>0.417</td>
-<td>5</td>
-<td>0</td>
-</tr>
-<tr>
-<td>6100</td>
-<td>American Political Thought</td>
-<td>0.407</td>
-<td>6</td>
-<td>0</td>
-</tr>
-<tr>
-<td>#### Degree-Job Anlaysis</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Similarity Rank</td>
-<td>Degree</td>
-<td>Faculty</td>
-<td>Top-10 Mean Similarity</td>
-<td>Breadth</td>
-</tr>
-<tr>
-<td>-----------------</td>
-<td>--------</td>
-<td>---------</td>
-<td>--------------------------</td>
-<td>----------</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Civil Engineering</td>
-<td>Design &amp; Engineering</td>
-<td>0.682</td>
-<td>2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Finance</td>
-<td>Business</td>
-<td>0.681</td>
-<td>3</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Law</td>
-<td>Law</td>
-<td>0.681</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Mechanical Engineering</td>
-<td>Design &amp; Engineering</td>
-<td>0.676</td>
-<td>2</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Materials Science &amp; Engineering</td>
-<td>Design &amp; Engineering</td>
-<td>0.676</td>
-<td>3</td>
-</tr>
-<tr>
-<td>...</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>51</td>
-<td>Political Science</td>
-<td>Arts &amp; Social Sciences</td>
-<td>0.576</td>
-<td>5</td>
-</tr>
-<tr>
-<td>52</td>
-<td>Anthropology</td>
-<td>Arts &amp; Social Sciences</td>
-<td>0.565</td>
-<td>9</td>
-</tr>
-<tr>
-<td>53</td>
-<td>Philosophy, Politics &amp; Economics</td>
-<td>Arts &amp; Social Sciences</td>
-<td>0.553</td>
-<td>6</td>
-</tr>
-<tr>
-<td>54</td>
-<td>Philosophy</td>
-<td>Arts &amp; Social Sciences</td>
-<td>0.550</td>
-<td>7</td>
-</tr>
-<tr>
-<td>55</td>
-<td>English Literature</td>
-<td>Arts &amp; Social Sciences</td>
-<td>0.538</td>
-<td>4</td>
-</tr>
-</tbody>
-</table>
+<p>Top-10 mean similarity is computed at two levels. At the course level, each module is ranked directly against all jobs. At the degree level, a per-job score is first computed as the mean of the top-10 modules within the degree, then averaged across the degree's top-10 jobs. Both tables also report breadth and coverage.</p>
+<p>Across both levels, professional and quantitatively oriented programmes dominate the top ranks while humanities appear at the bottom. Course-level Top-10 means span 0.407 to 0.759, with the top ranks sitting well above the global pairwise 99th percentile (0.583) — meaningful separation rather than compression into a narrow band. </p>
+<p>Breadth also appears to exhibit an inverse relationship with similarity, which motivates the following analysis.
+<img alt="image" src="https://hackmd.io/_uploads/SkF9JgR2-l.png" />
+<img alt="image" src="https://hackmd.io/_uploads/Hk7jyxAnZl.png" /></p>
 <h3 id="breadth-similarity-trade-off">Breadth-Similarity Trade-Off</h3>
-<h3 id="coverage">Coverage</h3>
+<p>A generalist-specialist trade-off emerges at the faculty level: faculties with higher Top-10 similarity show narrower SSOC breadth. The pattern holds across individual degrees, as seen in the scatter plot (Spearman ρ = –0.66, p &lt; 0.001, n = 55).</p>
+<p><img alt="image" src="https://hackmd.io/_uploads/rJ3IbgR3-e.png" />
+<img alt="image" src="https://hackmd.io/_uploads/SJDhGgCnbe.png" /></p>
+<p>For MOE, this is a necessary caveat on similarity rankings. Degrees with low Top-10 similarity are not necessarily underperforming. Instead, they may be preparing generalists whose multidisciplinary skills apply across a broader range of occupations, a form of educational value that depth-only scoring cannot capture. </p>
+<h3 id="deep-dive-data-science-and-analytics">Deep Dive: Data Science and Analytics</h3>
+<p>For Data Science and Analytics (DSA), ranking SSOC minor groups by the number of jobs exceeding the coverage threshold shows Engineering Professionals and Software Developers dominating, with Sales/Marketing and Administration also ranking highly, indicating breadth into business-adjacent roles. At module level, ranking by mean similarity to top-matching jobs shows DSA4213 (Natural Language Processing) as the highest-contributing course, despite being only an elective.
+<img alt="image" src="https://hackmd.io/_uploads/SJ1vrxCnWe.png" /></p>
 <h3 id="query-tool">Query tool</h3>
-<h3 id="412-skills">4.1.2 Skills</h3>
+<p>A command-line query tool (src/analysis/query_tool.py) enables interactive drill-down into modules, degrees, SSOC groups, and jobs, returning top-K matches and contributing modules. This supports targeted investigation of specific programmes beyond the aggregate results.</p>
+<h3 id="412-skill-alignment">4.1.2 Skill Alignment</h3>
 <h4 id="degree-to-career-track-skill-coverage">Degree-To-Career Track Skill Coverage</h4>
-<p>Skill coverage by degree (SSOC-aligned Soft-SCR) is highly uneven, ranging from <strong>19.3% (Law)</strong> to <strong>0.0% (Life Sciences*)</strong>. The top 3 programmes are <strong>Law (19.3%)</strong>, <strong>Psychology (9.0%)</strong>, and <strong>Accountancy (8.6%)</strong>; the bottom 3 are <strong>Life Sciences* (0.0%)</strong>, <strong>Engineering Science* (0.3%)</strong>, and <strong>English Language and Linguistics (0.3%)</strong>. Most degrees cluster at low single-digit coverage. Life Sciences and Engineering Science are flagged for low extraction coverage.</p>
+<p>Skill coverage (SSOC-aligned Soft-SCR) is highly uneven, ranging from <strong>19.3% (Law)</strong> to <strong>0.0% (Life Sciences)</strong>, with most degrees clustering in low single digits. Two programmes (Life Sciences, Engineering Science) are flagged for low extraction coverage, where course-skill extraction captured too few skills for reliable scoring.</p>
+<p>Absolute scores are low across the board, reflecting three compounding factors: the skill extractor's known F1 ceiling of 0.57 (3.3.2), course descriptions that understate actual curriculum content, and vocabulary mismatch between academic and industry text that persists even after semantic matching. These scores should be read as <strong>relative signals</strong> across programmes, not as performance grades — a degree scoring 15% is meaningfully better-aligned than one scoring 2%, but neither implies curricula cover only those proportions in practice.</p>
+<p><img alt="Screenshot 2026-04-16 at 11.16.42 AM" src="https://hackmd.io/_uploads/HkSs4ATn-x.png" /></p>
+<h4 id="deep-dive-data-science-and-analytics_1">Deep Dive: Data Science and Analytics</h4>
+<p>Applying the same drill-down approach as 4.1.1, of the 1,192 unique skills demanded by DSA-mapped jobs, only 15 are covered by DSA course skills — 9 exact matches and 6 semantic matches — yielding a Soft-SCR of 1.2%. The top semantic matches reveal residual false positives (e.g. <em>scala</em> matched to <em>scalar valued functions</em>), suggesting the true gap is likely larger than reported. Notably, only 1 of the top 5 most demanded skills (python) is covered.</p>
+<p>This contrasts with DSA's relatively strong semantic similarity performance in 4.1.1, demonstrating the two approaches are indeed capturing different aspects of course-job alignment. Topically, DSA sits in the right neighbourhood; operationally, specific industry tools and frameworks in-demand in the current job market may not yet be reflected in its courses.</p>
+<p><img alt="Screenshot 2026-04-16 at 10.35.44 AM" src="https://hackmd.io/_uploads/HkjZip6n-g.png" /></p>
+<p><img alt="Screenshot 2026-04-16 at 10.36.10 AM" src="https://hackmd.io/_uploads/Bk8XsTah-e.png" /></p>
+<p><img alt="Screenshot 2026-04-16 at 10.36.42 AM" src="https://hackmd.io/_uploads/SkLHsppnWl.png" /></p>
 <h4 id="foundational-ratio">Foundational Ratio</h4>
-<p>[insert figure]</p>
-<p>Foundational Ratio is highest in <strong>Life Sciences (97%)</strong>, <strong>Philosophy (96%)</strong>, <strong>Sociology (87%)</strong>, and <strong>English Language and Linguistics (86%)</strong>, and lowest in <strong>Nursing (39%)</strong>, <strong>Industrial Design (44%)</strong>, <strong>Applied Business Analytics (44%)</strong>, and <strong>Operations and Supply Chain Management (45%)</strong>.</p>
-<h4 id="data-science-and-analytics-deep-dive">Data Science and Analytics Deep-Dive</h4>
-<table>
-<thead>
-<tr>
-<th>Metric</th>
-<th style="text-align: right;">Value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>DSA course skills (unique)</td>
-<td style="text-align: right;">342</td>
-</tr>
-<tr>
-<td>Demanded job skills (unique)</td>
-<td style="text-align: right;">1,192</td>
-</tr>
-<tr>
-<td>Exact match</td>
-<td style="text-align: right;">9 (0.8%)</td>
-</tr>
-<tr>
-<td>Semantic match (<code>θ = 0.72</code>)</td>
-<td style="text-align: right;">6 (0.5%)</td>
-</tr>
-<tr>
-<td>Genuine gap</td>
-<td style="text-align: right;">1,177 (98.7%)</td>
-</tr>
-<tr>
-<td>Soft-SCR</td>
-<td style="text-align: right;">1.2%</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Top 5 demanded skills:</strong></p>
-<table>
-<thead>
-<tr>
-<th style="text-align: right;">Rank</th>
-<th>Job skill</th>
-<th style="text-align: right;">Postings</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: right;">1</td>
-<td>python</td>
-<td style="text-align: right;">91</td>
-<td>EXACT</td>
-</tr>
-<tr>
-<td style="text-align: right;">2</td>
-<td>information technology</td>
-<td style="text-align: right;">87</td>
-<td>NON-EXACT</td>
-</tr>
-<tr>
-<td style="text-align: right;">3</td>
-<td>troubleshooting</td>
-<td style="text-align: right;">84</td>
-<td>NON-EXACT</td>
-</tr>
-<tr>
-<td style="text-align: right;">4</td>
-<td>sql</td>
-<td style="text-align: right;">74</td>
-<td>NON-EXACT</td>
-</tr>
-<tr>
-<td style="text-align: right;">5</td>
-<td>software development</td>
-<td style="text-align: right;">74</td>
-<td>NON-EXACT</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Top 5 DSA skills with semantic matches:</strong></p>
-<table>
-<thead>
-<tr>
-<th style="text-align: right;">Rank</th>
-<th>DSA skill</th>
-<th style="text-align: right;">Postings</th>
-<th>Matched job skill</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: right;">1</td>
-<td>assessing the precision of estimates</td>
-<td style="text-align: right;">3</td>
-<td>estimates</td>
-</tr>
-<tr>
-<td style="text-align: right;">2</td>
-<td>scalar valued functions</td>
-<td style="text-align: right;">2</td>
-<td>scala</td>
-</tr>
-<tr>
-<td style="text-align: right;">3</td>
-<td>finance</td>
-<td style="text-align: right;">1</td>
-<td>asset finance</td>
-</tr>
-<tr>
-<td style="text-align: right;">4</td>
-<td>big data analysis</td>
-<td style="text-align: right;">1</td>
-<td>large scale data analysis</td>
-</tr>
-<tr>
-<td style="text-align: right;">5</td>
-<td>basic learning systems</td>
-<td style="text-align: right;">1</td>
-<td>learning management systems</td>
-</tr>
-</tbody>
-</table>
-<h4 id="pgi-index">PGI Index</h4>
-<p>The <strong>Priority Gap Index (PGI)</strong> scores each degree as:</p>
-<p>$$\text{PGI} = \text{Job Demand Weight} \times \text{Misalignment Rate}$$</p>
-<p>where Job Demand Weight is the degree's mapped job count normalised by the highest-demand degree (0–1), and Misalignment Rate = 1 − Alignment Score / 100. The Alignment Score is a 50-50 blend of semantic similarity and skill-space coverage (Soft-SCR) percentile ranks.</p>
-<p><strong>Engineering Science</strong> ranks highest, followed by <strong>Industrial &amp; Systems Engineering</strong>, <strong>Electrical Engineering</strong>, and <strong>English Language and Linguistics</strong>. The remaining top 15 are predominantly STEM and engineering disciplines. <strong>Data Science and Analytics</strong> and <strong>Statistics</strong> rank lower, reflecting comparatively better alignment.</p>
-<h3 id="42-discussion">4.2 Discussion</h3>
-<h3 id="43-recommendations">4.3 Recommendations</h3></div>
+<p>The Foundational Ratio contextualises low Soft-SCR scores by measuring what share of a degree's skills have no job-market equivalent. It is highest in <strong>Life Sciences (97%)</strong>, <strong>Philosophy (96%)</strong>, <strong>Sociology (87%)</strong>, and <strong>English Language and Linguistics (86%)</strong>, and lowest in <strong>Nursing (39%)</strong>, <strong>Industrial Design (44%)</strong>, <strong>Applied Business Analytics (44%)</strong>, and <strong>Operations and Supply Chain Management (45%)</strong>.</p>
+<p>This confirms a genuine curricular intent rather than a measurement artefact: humanities and life-sciences programmes are deliberately theory-heavy, which penalises them under any similarity-based metric but is not itself a curricular defect. Applied programmes sit at the opposite end, consistent with their explicit vocational orientation.</p>
+<p><img alt="Screenshot 2026-04-16 at 10.33.01 AM" src="https://hackmd.io/_uploads/SJ5Dc6phbg.png" /></p>
+<h4 id="413-priority-gap-index-pgi">4.1.3 Priority Gap Index (PGI)</h4>
+<p>The PGI combines both semantic and skills-based approaches into a misalignment rate, weighted by job demand to highlight high-priority targets for intervention. <strong>Engineering Science</strong> ranks highest, followed by <strong>Industrial &amp; Systems Engineering</strong>, <strong>Electrical Engineering</strong>, and <strong>English Language and Linguistics</strong>. The remaining top 15 are predominantly STEM. <strong>Data Science and Analytics</strong> and <strong>Statistics</strong> rank lower, reflecting comparatively better alignment despite the low Soft-SCR seen in DSA's deep dive.</p>
+<p>The engineering cluster at the top of the PGI is the most actionable finding of this analysis. These programmes combine <strong>high employer demand with high measured misalignment</strong> — meaning even modest curriculum updates here would close a disproportionate share of unmet market demand.</p>
+<p><img alt="Screenshot 2026-04-16 at 10.33.26 AM" src="https://hackmd.io/_uploads/HJzFcp63be.png" /></p>
+<h2 id="42-discussion">4.2 Discussion</h2>
+<p><strong>Complementary methodologies reveal different facets of alignment.</strong> Semantic similarity captures topical proximity, while Soft-SCR captures specific skill coverage. Engineering programmes illustrate this contrast clearly: they score well on topical alignment yet rank high on the PGI, indicating that while curricula align thematically, applied skills may be missing. Humanities programmes tend to score low on both metrics, reflecting their intentionally theoretical design, as supported by high foundational ratios.</p>
+<p><strong>From aggregate indicators to targeted intervention.</strong> This pipeline produces pre-graduation signals at degree and course level, translating results into a prioritised intervention list. The engineering cluster at the top of the PGI (Engineering Science, Industrial &amp; Systems Engineering, Electrical Engineering) represents high-ROI targets where strong demand coincides with measured misalignment.</p>
+<p><strong>Caveat: depth is not the full story.</strong> The generalist–specialist trade-off means low similarity does not imply poor performance. MOE should consider breadth alongside PGI when evaluating programmes such as those in the Faculty of Arts &amp; Social Sciences, where value may lie in multidisciplinary foundations rather than specialised alignment.</p>
+<p><strong>Interpretability.</strong> Both metrics produce auditable outputs — skill gaps, job matches, and contributing modules — rather than black-box scores, supporting explainable curriculum decisions.</p>
+<p><strong>Limitations</strong>
+- Job corpus limited to one week of MyCareersFuture postings with variable employer-reported skills<br />
+- NUSMods descriptions are high-level and may understate curriculum depth<br />
+- Course–degree mapping is approximate and may drift with programme updates<br />
+- “Good job” is defined by salary only and does not capture role quality or progression  </p>
+<hr />
+<h2 id="43-recommendations">4.3 Recommendations</h2>
+<p><strong>Deploy as an annual MOE review tool.</strong> The pipeline (query tool, PGI metric) can support curriculum review cycles, course classification, and programme justification through LLM-based deployment.</p>
+<p><strong>Deepen data foundation.</strong> Expand the job corpus, incorporate additional sources, and replace NUSMods descriptions with full syllabi. Establish MOE-maintained course–degree–SSOC mappings.</p>
+<p><strong>Extend scope.</strong> Broaden the definition of “good jobs” beyond salary to include role quality and progression, and extend analysis to other universities for national-level comparison.</p>
+<hr /></div>
             </div>
         </div>
 
@@ -722,5 +313,5 @@ Performance was evaluated using three metrics:</p>
 
 <!--
 MkDocs version : 1.6.1
-Build Date UTC : 2026-04-15 18:54:29.484001+00:00
+Build Date UTC : 2026-04-16 08:10:22.753533+00:00
 -->
